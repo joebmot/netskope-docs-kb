@@ -1,13 +1,11 @@
-# Changelog — 2026-06-10 18:48 UTC
+# Changelog — 2026-06-11 19:03 UTC
 
-**Total pages:** 3406
-**New:** 7  |  **Updated:** 0  |  **Errors:** 0
+**Total pages:** 3411
+**New:** 5  |  **Updated:** 0  |  **Errors:** 0
 
 ## New Pages
-- https://docs.netskope.com/en/configuring-real-time-protection-policies/
-- https://docs.netskope.com/en/agentic-broker-licensing-terms/
-- https://docs.netskope.com/en/ai-guardrails-licensing-terms/
-- https://docs.netskope.com/en/ai-red-teaming-licensing-terms/
-- https://docs.netskope.com/en/known-issues-in-virtual-appliance-135-0-0/
-- https://docs.netskope.com/en/netskope-release-notes-version-138-0-2/
-- https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-138-0-2/
+- https://docs.netskope.com/en/mcp-gateway-overview/
+- https://docs.netskope.com/en/configuring-mcp-gateway/
+- https://docs.netskope.com/en/monitoring-mcp-gateway-events/
+- https://docs.netskope.com/en/troubleshooting-and-known-limitations/
+- https://docs.netskope.com/en/ai-gateway-licensing-terms/
