@@ -1,12 +1,12 @@
 # Netskope Docs — Casb
-_Generated: 2026-06-11 19:03 UTC_
+_Generated: 2026-06-12 17:38 UTC_
 _Pages: 7_
 
 ---
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/api-observe-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-06-11T17:59:14.113043+00:00
+**Scraped:** 2026-06-12T16:34:40.306354+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser
@@ -18,7 +18,7 @@ to make this app work.
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-06-11T17:59:15.228758+00:00
+**Scraped:** 2026-06-12T16:34:41.422433+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser
@@ -30,7 +30,7 @@ to make this app work.
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/api-connectors/
 **Last Modified:** 2025-11-04T16:57:54+00:00
-**Scraped:** 2026-06-11T17:59:16.345102+00:00
+**Scraped:** 2026-06-12T16:34:42.539321+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser
@@ -42,7 +42,7 @@ to make this app work.
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/casb-api-protection/
 **Last Modified:** 2026-01-31T05:39:42+00:00
-**Scraped:** 2026-06-11T17:59:37.538076+00:00
+**Scraped:** 2026-06-12T16:35:03.847528+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser
@@ -54,7 +54,7 @@ to make this app work.
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/remove-the-netskope-casb-api-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-06-11T18:09:21.090167+00:00
+**Scraped:** 2026-06-12T16:44:52.776980+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser
@@ -66,7 +66,7 @@ to make this app work.
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/uninstall-the-netskope-casb-api-for-confluence-app/
 **Last Modified:** 2025-08-31T01:42:14+00:00
-**Scraped:** 2026-06-11T18:25:15.464255+00:00
+**Scraped:** 2026-06-12T17:00:53.622312+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser
@@ -77,8 +77,8 @@ to make this app work.
 ---
 ## Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/casb-api-billable-user-calculation/
-**Last Modified:** 2026-05-25T07:57:17+00:00
-**Scraped:** 2026-06-11T18:40:15.600777+00:00
+**Last Modified:** 2026-06-12T07:25:57+00:00
+**Scraped:** 2026-06-12T17:15:55.780095+00:00
 
 If you're seeing this message, that means
 JavaScript has been disabled on your browser

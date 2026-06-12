@@ -1,11 +1,13 @@
-# Changelog — 2026-06-11 19:03 UTC
+# Changelog — 2026-06-12 17:38 UTC
 
-**Total pages:** 3411
-**New:** 5  |  **Updated:** 0  |  **Errors:** 0
+**Total pages:** 3415
+**New:** 7  |  **Updated:** 0  |  **Errors:** 0
 
 ## New Pages
-- https://docs.netskope.com/en/mcp-gateway-overview/
-- https://docs.netskope.com/en/configuring-mcp-gateway/
-- https://docs.netskope.com/en/monitoring-mcp-gateway-events/
-- https://docs.netskope.com/en/troubleshooting-and-known-limitations/
-- https://docs.netskope.com/en/ai-gateway-licensing-terms/
+- https://docs.netskope.com/en/inline-app-connectors/
+- https://docs.netskope.com/en/configure-3rd-party-custom-file-classification-plugins/
+- https://docs.netskope.com/en/custom-file-classification-module/
+- https://docs.netskope.com/en/inline-app-connector-release-ac-138-0-0/
+- https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-inline-app-connector-ac-138-0-0/
+- https://docs.netskope.com/en/fixed-issues-in-netskope-inline-app-connector-ac-138-0-0/
+- https://docs.netskope.com/en/deprecated-features-in-netskope-inline-app-connector-ac-138-0-0/
