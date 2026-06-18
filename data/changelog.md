@@ -1,11 +1,4 @@
-# Changelog — 2026-06-17 18:37 UTC
+# Changelog — 2026-06-18 18:51 UTC
 
-**Total pages:** 3422
-**New:** 5  |  **Updated:** 0  |  **Errors:** 0
-
-## New Pages
-- https://docs.netskope.com/en/advanced-content-scanning/
-- https://docs.netskope.com/en/advanced-deployment-distributed-scanners/
-- https://docs.netskope.com/en/additional-configurations/
-- https://docs.netskope.com/en/troubleshooting-dspm-with-dlp/
-- https://docs.netskope.com/en/deploy-the-dlp-appliance-for-dspm/
+**Total pages:** 3421
+**New:** 0  |  **Updated:** 0  |  **Errors:** 0
