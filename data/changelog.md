@@ -1,12 +1,15 @@
-# Changelog — 2026-06-19 11:22 UTC
+# Changelog — 2026-06-20 10:02 UTC
 
-**Total pages:** 3427
-**New:** 6  |  **Updated:** 0  |  **Errors:** 0
+**Total pages:** 3426
+**New:** 6  |  **Updated:** 0  |  **Errors:** 1
 
 ## New Pages
-- https://docs.netskope.com/en/standard-deployment-single-appliance/
-- https://docs.netskope.com/en/deploy-the-dspm-single-appliance/
-- https://docs.netskope.com/en/understanding-digital-experience-management-dem-scores/
-- https://docs.netskope.com/en/netskope-adapter-release-notes-215-255-20261-23/
-- https://docs.netskope.com/en/new-features-and-enhancements-in-active-directory-with-netskope-adapters-215-255-20261-23/
-- https://docs.netskope.com/en/fixed-issues-in-active-directory-with-netskope-adapters-215-255-20261-23/
+- https://docs.netskope.com/en/connect-gcp-cloud-sql-for-postgresql-to-dspm/
+- https://docs.netskope.com/en/connect-gcp-cloud-sql-for-sql-server-to-dspm/
+- https://docs.netskope.com/en/connect-mongodb-to-dspm/
+- https://docs.netskope.com/en/connect-databricks-to-dspm/
+- https://docs.netskope.com/en/connect-self-managed-postgresql-to-dspm/
+- https://docs.netskope.com/en/use-configuration-analysis-in-dspm/
+
+## Errors
+- https://docs.netskope.com/en/scim-user-provisioning-with-rbacv3/
