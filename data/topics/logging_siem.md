@@ -1,14 +1,13 @@
 # Netskope Docs — Logging Siem
-_Generated: 2026-06-21 11:01 UTC_
+_Generated: 2026-06-22 12:53 UTC_
 _Pages: 105_
 
 ---
 ## Configure a Custom Log Parser
 **URL:** https://docs.netskope.com/en/configure-a-custom-log-parser/
 **Last Modified:** 2025-08-31T01:50:04+00:00
-**Scraped:** 2026-06-21T09:49:15.658776+00:00
+**Scraped:** 2026-06-22T11:51:26.963798+00:00
 
-Configure a Custom Log Parser - Netskope Knowledge Portal
 Configure a Custom Log Parser
 You can configure a custom log parser if the predefined parsers do not extract events from your uploaded logs. You can customize your parser based on what you know about your logs. After creating a custom parser, it will appear on the Custom tab.
 These are the primary steps to configuring a custom log parser:
@@ -160,7 +159,7 @@ Configure a Custom Log Parser
 ## Discover Operational Technology in Device Intelligence
 **URL:** https://docs.netskope.com/en/discover-operational-technology-in-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:50+00:00
-**Scraped:** 2026-06-21T09:52:01.718154+00:00
+**Scraped:** 2026-06-22T11:53:44.124966+00:00
 
 Discover Operational Technology in Device Intelligence
 Device Intelligence supports the discovery and security of devices in the operational technology (OT) network. The solution provides visibility into various OT activities seen in the network like cold restart, write variable, etc.
@@ -173,13 +172,12 @@ activities
 log.
 In this Topic
 Discover Operational Technology in Device Intelligence
-Discover Operational Technology in Device Intelligence - Netskope Knowledge Portal
 
 ---
 ## How to View “Netskope Audit Log Permissions – Read and Create” in Salesforce Profiles
 **URL:** https://docs.netskope.com/en/how-to-view-netskope-audit-log-permissions-read-and-create-in-salesforce-profiles/
 **Last Modified:** 2025-09-01T12:32:33+00:00
-**Scraped:** 2026-06-21T09:53:39.842299+00:00
+**Scraped:** 2026-06-22T11:55:07.283137+00:00
 
 How to View “Netskope Audit Log Permissions – Read and Create” in Salesforce Profiles - Netskope Knowledge Portal
 How to View “Netskope Audit Log Permissions – Read and Create” in Salesforce Profiles
@@ -233,7 +231,7 @@ How to View “Netskope Audit Log Permissions – Read and Create” in Salesfor
 ## How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesforce Profiles
 **URL:** https://docs.netskope.com/en/how-to-assign-netskope-audit-log-permissions-read-and-create-to-salesforce-profiles/
 **Last Modified:** 2025-09-01T12:32:34+00:00
-**Scraped:** 2026-06-21T09:53:41.072881+00:00
+**Scraped:** 2026-06-22T11:55:08.388865+00:00
 
 How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesforce Profiles - Netskope Knowledge Portal
 How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesforce Profiles
@@ -330,8 +328,9 @@ How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesfor
 ## Key-Value Log Type
 **URL:** https://docs.netskope.com/en/key-value-log-type/
 **Last Modified:** 2025-08-31T01:50:06+00:00
-**Scraped:** 2026-06-21T09:54:13.471721+00:00
+**Scraped:** 2026-06-22T11:55:36.059905+00:00
 
+Key-Value Log Type - Netskope Knowledge Portal
 Key-Value Log Type
 The key value log type has each field description within the field.
 To create a log parser for key values:
@@ -364,14 +363,14 @@ Save
 .
 In this Topic
 Key-Value Log Type
-Key-Value Log Type - Netskope Knowledge Portal
 
 ---
 ## Upload Logs from Mac or Linux using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-from-mac-or-linux-using-sftp/
 **Last Modified:** 2025-08-31T01:50:04+00:00
-**Scraped:** 2026-06-21T09:58:47.287469+00:00
+**Scraped:** 2026-06-22T11:59:22.421746+00:00
 
+Upload Logs from Mac or Linux using SFTP - Netskope Knowledge Portal
 Upload Logs from Mac or Linux using SFTP
 Make sure your log files have the
 .log
@@ -405,13 +404,12 @@ mput /logs/cisco-ironport.log
 After the logs are uploaded, it will take some time for the system to parse the logs and show events in Skope IT. The larger the log files, the more time it will take.
 In this Topic
 Upload Logs from Mac or Linux using SFTP
-Upload Logs from Mac or Linux using SFTP - Netskope Knowledge Portal
 
 ---
 ## Upload Logs from Windows using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-from-windows-using-sftp/
 **Last Modified:** 2025-08-31T01:50:03+00:00
-**Scraped:** 2026-06-21T09:58:49.824366+00:00
+**Scraped:** 2026-06-22T11:59:24.649380+00:00
 
 Upload Logs from Windows using SFTP - Netskope Knowledge Portal
 Upload Logs from Windows using SFTP
@@ -476,8 +474,9 @@ Upload Logs from Windows using SFTP
 ## Upload Logs to the Netskope Cloud
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-cloud/
 **Last Modified:** 2025-08-31T01:50:01+00:00
-**Scraped:** 2026-06-21T09:58:51.041569+00:00
+**Scraped:** 2026-06-22T11:59:25.747681+00:00
 
+Upload Logs to the Netskope Cloud - Netskope Knowledge Portal
 Upload Logs to the Netskope Cloud
 You can upload the log files from your enterprise web proxy, next generation firewall, and other devices directly to your tenant instance in the Netskope cloud either from the Netskope tenant UI or using SFTP.
 Upload Logs to the Netskope Tenant UI
@@ -490,8 +489,9 @@ Upload Logs to the Netskope Cloud
 ## Action Logs
 **URL:** https://docs.netskope.com/en/user-risk-exchange-action-logs/
 **Last Modified:** 2026-02-05T19:31:52+00:00
-**Scraped:** 2026-06-21T10:01:17.087505+00:00
+**Scraped:** 2026-06-22T12:01:26.833283+00:00
 
+Action Logs - Netskope Knowledge Portal
 Action Logs
 Action logs are logs of actions performed on users or hosts. A write-access user can view and filter through action logs to view actions taken.
 Go to
@@ -501,13 +501,12 @@ The logs indicate the business rule which triggered the action and the time when
 Clicking on any values in the Email/ID column will redirect to that record on Users/Hosts page.
 In this Topic
 Action Logs
-Action Logs - Netskope Knowledge Portal
 
 ---
 ## AWS CloudTrail Lake Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-cloudtrail-lake-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:43:40+00:00
-**Scraped:** 2026-06-21T10:01:22.145827+00:00
+**Scraped:** 2026-06-22T12:01:31.316125+00:00
 
 AWS CloudTrail Lake Plugin for Log Shipper - Netskope Knowledge Portal
 AWS CloudTrail Lake Plugin for Log Shipper
@@ -702,8 +701,9 @@ AWS CloudTrail Lake Plugin for Log Shipper
 ## AWS S3 Events and Alerts Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-s3-events-alerts-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:44:39+00:00
-**Scraped:** 2026-06-21T10:01:27.371866+00:00
+**Scraped:** 2026-06-22T12:01:35.907932+00:00
 
+AWS S3 Events and Alerts Plugin for Log Shipper - Netskope Knowledge Portal
 AWS S3 Events and Alerts Plugin for Log Shipper
 This document explains how to configure the AWS S3 Events, Alerts v1.2.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin is used to fetch Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, and Content) and Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint and Client Status) from the Netskope Tenant.
 Prerequisites
@@ -1399,7 +1399,7 @@ AWS S3 Events and Alerts Plugin for Log Shipper
 ## AWS S3 WebTx Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-s3-webtx-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:30:02+00:00
-**Scraped:** 2026-06-21T10:01:30.001363+00:00
+**Scraped:** 2026-06-22T12:01:38.236910+00:00
 
 AWS S3 WebTx Plugin for Log Shipper - Netskope Knowledge Portal
 AWS S3 WebTx Plugin for Log Shipper
@@ -2154,7 +2154,7 @@ AWS S3 WebTx Plugin for Log Shipper
 ## Google Chronicle Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/chronicle-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:52:35+00:00
-**Scraped:** 2026-06-21T10:01:38.847293+00:00
+**Scraped:** 2026-06-22T12:01:46.102541+00:00
 
 Google Chronicle Plugin for Log Shipper - Netskope Knowledge Portal
 Google Chronicle Plugin for Log Shipper
@@ -2448,9 +2448,8 @@ Google Chronicle Plugin for Log Shipper
 ## Configure 3rd-party Log Shipper Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-log-shipper-plugins/
 **Last Modified:** 2026-03-21T02:04:02+00:00
-**Scraped:** 2026-06-21T10:01:48.876633+00:00
+**Scraped:** 2026-06-22T12:01:55.013012+00:00
 
-Configure 3rd-party Log Shipper Plugins - Netskope Knowledge Portal
 Configure 3rd-party Log Shipper Plugins
 Only write-access users can configure Log Shipper plugins. Log Shipper comes with the library of supported plugins. Plugins can be easily configured to ingest logs into multiple 3rd-party SIEM platforms by following the applicable plugin guide.
 You can also disable, enable, or delete existing plugin configurations. Log Shipper can be configured with multiple plugins to the same system for different workflows from either the same Netskope tenant or multiple Netskope tenants.
@@ -2493,7 +2492,7 @@ Configure 3rd-party Log Shipper Plugins
 ## Configure Log Shipper Log Delivery
 **URL:** https://docs.netskope.com/en/configure-log-shipper-siem-mappings/
 **Last Modified:** 2025-10-31T05:13:27+00:00
-**Scraped:** 2026-06-21T10:02:08.932979+00:00
+**Scraped:** 2026-06-22T12:02:12.794992+00:00
 
 Configure Log Shipper Log Delivery - Netskope Knowledge Portal
 Configure Log Shipper Log Delivery
@@ -2527,7 +2526,7 @@ Configure Log Shipper Log Delivery
 ## Elastic Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/elastic-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:52:10+00:00
-**Scraped:** 2026-06-21T10:02:56.493796+00:00
+**Scraped:** 2026-06-22T12:02:52.803671+00:00
 
 Elastic Plugin for Log Shipper - Netskope Knowledge Portal
 Elastic Plugin for Log Shipper
@@ -2747,7 +2746,7 @@ Elastic Plugin for Log Shipper
 ## Google Cloud Storage Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/google-cloud-storage-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:54:35+00:00
-**Scraped:** 2026-06-21T10:03:06.834433+00:00
+**Scraped:** 2026-06-22T12:03:01.667635+00:00
 
 Google Cloud Storage Plugin for Log Shipper - Netskope Knowledge Portal
 Google Cloud Storage Plugin for Log Shipper
@@ -2879,7 +2878,7 @@ Google Cloud Storage Plugin for Log Shipper
 ## Google Cloud SCC Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/google-cloud-scc-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:06:32+00:00
-**Scraped:** 2026-06-21T10:03:08.096049+00:00
+**Scraped:** 2026-06-22T12:03:02.801476+00:00
 
 Google Cloud SCC Plugin for Log Shipper - Netskope Knowledge Portal
 Google Cloud SCC Plugin for Log Shipper
@@ -3282,7 +3281,7 @@ Google Cloud SCC Plugin for Log Shipper
 ## Logging
 **URL:** https://docs.netskope.com/en/logging/
 **Last Modified:** 2025-10-31T01:16:14+00:00
-**Scraped:** 2026-06-21T10:03:27.318299+00:00
+**Scraped:** 2026-06-22T12:03:19.659744+00:00
 
 Logging
 An Admin and User can view and search audit logs. Audit logs track significant events that occur during the operation of Cloud Exchange. Logs provide important information for troubleshooting if any abnormal behaviors and errors occur. Audit logs can be searched through in the Cloud Exchange UI, and you can export the logs to a local system.
@@ -3326,8 +3325,9 @@ Logging
 ## Log Shipper Module
 **URL:** https://docs.netskope.com/en/log-shipper-module/
 **Last Modified:** 2025-10-31T19:56:27+00:00
-**Scraped:** 2026-06-21T10:03:30.103974+00:00
+**Scraped:** 2026-06-22T12:03:21.886660+00:00
 
+Log Shipper Module - Netskope Knowledge Portal
 Log Shipper Module
 Log Shipper is a logging service that pulls all or a subset of customer tenant events and alerts logs and sends them in a customized, customer-selected format to its SIEM and datalake(s) using either the mapping wizard or the raw editor. Use either tool to add or remove fields, change mappings, change field headers, transform field extended attributes, or insert static placeholders to meet your specific log requirements.
 Click play to learn how to set up Log Shipper.
@@ -3392,7 +3392,7 @@ Log Shipper Module
 ## Logs
 **URL:** https://docs.netskope.com/en/logs/
 **Last Modified:** 2025-10-31T01:27:09+00:00
-**Scraped:** 2026-06-21T10:03:31.436391+00:00
+**Scraped:** 2026-06-22T12:03:23.002952+00:00
 
 Logs - Netskope Knowledge Portal
 Logs
@@ -3420,7 +3420,7 @@ Logs
 ## Manage Log Shipper Business Rules
 **URL:** https://docs.netskope.com/en/manage-log-shipper-business-rules/
 **Last Modified:** 2025-10-31T05:03:29+00:00
-**Scraped:** 2026-06-21T10:03:34.112344+00:00
+**Scraped:** 2026-06-22T12:03:25.220701+00:00
 
 Manage Log Shipper Business Rules - Netskope Knowledge Portal
 Manage Log Shipper Business Rules
@@ -3466,8 +3466,9 @@ Manage Log Shipper Business Rules
 ## Microsoft Sentinel Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-sentinel-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:38:02+00:00
-**Scraped:** 2026-06-21T10:03:46.686101+00:00
+**Scraped:** 2026-06-22T12:03:35.277001+00:00
 
+Microsoft Sentinel Plugin for Log Shipper - Netskope Knowledge Portal
 Microsoft Sentinel Plugin for Log Shipper
 This document explains how to configure the v3.0.3 Microsoft Sentinel plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin ingests Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, CTEP, UBA), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint), and WebTx data (uncompressed) into the Microsoft Azure Sentinel platform. It only supports the ingestion of JSON-formatted logs. You need Log Analytics Workspace on the Microsoft Azure platform to access the plugin.
 Prerequisites
@@ -3754,13 +3755,12 @@ _CL
 in the table name while filtering the data on Sentinel, as Sentinel adds the above suffix for all the file names when data is ingested, else you won’t be able to see any ingested logs.
 In this Topic
 Microsoft Sentinel Plugin for Log Shipper
-Microsoft Sentinel Plugin for Log Shipper - Netskope Knowledge Portal
 
 ---
 ## Microsoft Azure Storage Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-storage-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:56:26+00:00
-**Scraped:** 2026-06-21T10:03:47.916666+00:00
+**Scraped:** 2026-06-22T12:03:36.383691+00:00
 
 Microsoft Azure Storage Plugin for Log Shipper - Netskope Knowledge Portal
 Microsoft Azure Storage Plugin for Log Shipper
@@ -3875,7 +3875,7 @@ Microsoft Azure Storage Plugin for Log Shipper
 ## Microsoft Azure Monitor Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-monitor-plugin-for-log-shipper/
 **Last Modified:** 2026-04-06T23:55:20+00:00
-**Scraped:** 2026-06-21T10:03:49.231927+00:00
+**Scraped:** 2026-06-22T12:03:37.523859+00:00
 
 Microsoft Azure Monitor Plugin for Log Shipper - Netskope Knowledge Portal
 Microsoft Azure Monitor Plugin for Log Shipper
@@ -4213,9 +4213,8 @@ Microsoft Azure Monitor Plugin for Log Shipper
 ## Microsoft Defender for Cloud Apps Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-cloud-apps-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:56:56+00:00
-**Scraped:** 2026-06-21T10:03:53.100535+00:00
+**Scraped:** 2026-06-22T12:03:40.919987+00:00
 
-Microsoft Defender for Cloud Apps Plugin for Log Shipper - Netskope Knowledge Portal
 Microsoft Defender for Cloud Apps Plugin for Log Shipper
 This document explains how to configure the Microsoft Defender for Cloud Apps v2.1.1 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin enables you to ingest Netskope Events (Page, Application) in CEF format from the Netskope Tenant to Microsoft Defender for Cloud Apps using Cloud Exchange via the Microsoft Defender for Cloud Apps plugin. The plugin doesn’t support ingesting data in JSON format.
 Prerequisites
@@ -4641,7 +4640,7 @@ Microsoft Defender for Cloud Apps Plugin for Log Shipper
 ## Rapid7 Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/rapid7-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:42:45+00:00
-**Scraped:** 2026-06-21T10:04:39.118729+00:00
+**Scraped:** 2026-06-22T12:04:20.288366+00:00
 
 Rapid7 Plugin for Log Shipper
 This document explains how to configure your Rapid7 v3.1.1 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (Anomaly, Legal Hold, Compromised Credential, Policy, Malsite, Malware, DLP, Security Assessment, Quarantine, Remediation, UBA, Watchlist, CTEP), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint), Web Transaction data, and CE logs (Debug, Information, Error, Warning) to Rapid7 in JSON and CEF format.
@@ -4875,7 +4874,7 @@ Rapid7 Plugin for Log Shipper
 ## QRadar Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/qradar-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T03:45:39+00:00
-**Scraped:** 2026-06-21T10:04:40.372379+00:00
+**Scraped:** 2026-06-22T12:04:21.405011+00:00
 
 QRadar Plugin for Log Shipper - Netskope Knowledge Portal
 QRadar Plugin for Log Shipper
@@ -5048,8 +5047,9 @@ QRadar Plugin for Log Shipper
 ## Secureworks Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/secureworks-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T03:48:19+00:00
-**Scraped:** 2026-06-21T10:04:57.689021+00:00
+**Scraped:** 2026-06-22T12:04:36.228637+00:00
 
+Secureworks Plugin for Log Shipper - Netskope Knowledge Portal
 Secureworks Plugin for Log Shipper
 This document explains how to configure your Secureworks Taegis XDR instance with the Cloud Log Shipper module of the Netskope Cloud Exchange platform.
 For Secureworks documentation, go to:
@@ -5188,15 +5188,13 @@ Integrations > Data Collectors
 To validate the Raw data user, go to Advanced search and write the query per the suggestions on the left.
 In this Topic
 Secureworks Plugin for Log Shipper
-Secureworks Plugin for Log Shipper - Netskope Knowledge Portal
 
 ---
 ## Syslog Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/syslog-plugin-for-log-shipper/
 **Last Modified:** 2026-03-25T01:26:53+00:00
-**Scraped:** 2026-06-21T10:05:18.317693+00:00
+**Scraped:** 2026-06-22T12:04:54.116290+00:00
 
-Syslog Plugin for Log Shipper - Netskope Knowledge Portal
 Syslog Plugin for Log Shipper
 This document explains how to configure the Syslog v4.1.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status), BWAN Events (Authentication, Audit, Client, Gateway, System), WebTx and Logs (Debug, Information, Error, Warning). The data will be ingested in the SIEM platform. This plugin supports ingestion in CEF and JSON format.
 Prerequisites
@@ -5475,7 +5473,7 @@ Syslog Plugin for Log Shipper
 ## Update Configured Log Shipper Plugins
 **URL:** https://docs.netskope.com/en/update-configured-log-shipper-plugins-2/
 **Last Modified:** 2025-10-31T05:07:49+00:00
-**Scraped:** 2026-06-21T10:05:33.243936+00:00
+**Scraped:** 2026-06-22T12:05:06.604407+00:00
 
 Update Configured Log Shipper Plugins - Netskope Knowledge Portal
 Update Configured Log Shipper Plugins
@@ -5488,8 +5486,9 @@ Update Configured Log Shipper Plugins
 ## Get Log Upload Token
 **URL:** https://docs.netskope.com/en/get-log-upload-token/
 **Last Modified:** 2025-08-31T01:39:22+00:00
-**Scraped:** 2026-06-21T10:08:09.712208+00:00
+**Scraped:** 2026-06-22T12:07:19.923116+00:00
 
+Get Log Upload Token - Netskope Knowledge Portal
 Get Log Upload Token
 This endpoint returns the log upload token. Only the token parameter is needed.
 POST https://
@@ -5500,14 +5499,14 @@ POST https://
 }
 In this Topic
 Get Log Upload Token
-Get Log Upload Token - Netskope Knowledge Portal
 
 ---
 ## Import and Export CSA Custom Rules
 **URL:** https://docs.netskope.com/en/import-and-export-csa-custom-rules/
 **Last Modified:** 2025-08-31T01:39:40+00:00
-**Scraped:** 2026-06-21T10:08:19.571450+00:00
+**Scraped:** 2026-06-22T12:07:27.672686+00:00
 
+Import and Export CSA Custom Rules - Netskope Knowledge Portal
 Import and Export CSA Custom Rules
 Use this endpoint to manage the custom rules for CSA. Custom rules are the rules defined by domain specific language (DSL) specifications. This endpoint enables you to import and export your custom rules to and from the Netskope UI for use in profiles and policies. Whenever you change a rule, be sure to click
 Apply Changes
@@ -5631,13 +5630,12 @@ GET 'https://
 /api/v1/public_cloud/rules?token=f39866cb86ab84a0208e9e1ee&op=export&severity=Critical|High&cloud_provider=aws'
 In this Topic
 Import and Export CSA Custom Rules
-Import and Export CSA Custom Rules - Netskope Knowledge Portal
 
 ---
 ## Set Log In Attempts
 **URL:** https://docs.netskope.com/en/set-log-in-attempts-85093/
 **Last Modified:** 2025-08-31T01:38:53+00:00
-**Scraped:** 2026-06-21T10:09:20.223584+00:00
+**Scraped:** 2026-06-22T12:08:19.681892+00:00
 
 Set Log In Attempts - Netskope Knowledge Portal
 Set Log In Attempts
@@ -5657,8 +5655,9 @@ Set Log In Attempts
 ## Set Log In Attempts
 **URL:** https://docs.netskope.com/en/set-log-in-attempts/
 **Last Modified:** 2025-09-01T12:45:32+00:00
-**Scraped:** 2026-06-21T10:09:22.868398+00:00
+**Scraped:** 2026-06-22T12:08:22.256254+00:00
 
+Set Log In Attempts - Netskope Knowledge Portal
 Set Log In Attempts
 You can specify the number of log in attempts that can be allowed before the admin user is locked out of the UI. The default setting allows up to 5 failed login attempts.
 To set log in attempts:
@@ -5671,13 +5670,12 @@ Save
 .
 In this Topic
 Set Log In Attempts
-Set Log In Attempts - Netskope Knowledge Portal
 
 ---
 ## Using the REST API v2 dataexport  Iterator Endpoints
 **URL:** https://docs.netskope.com/en/using-the-rest-api-v2-dataexport-iterator-endpoints/
 **Last Modified:** 2026-05-01T16:03:26+00:00
-**Scraped:** 2026-06-21T10:10:05.585708+00:00
+**Scraped:** 2026-06-22T12:08:58.643824+00:00
 
 Using the REST API v2 dataexport  Iterator Endpoints
 The Netskope
@@ -5839,7 +5837,7 @@ Using the REST API v2 dataexport  Iterator Endpoints
 ## Advanced Log Upload Commands
 **URL:** https://docs.netskope.com/en/advanced-log-upload-commands-144862/
 **Last Modified:** 2025-08-31T01:42:51+00:00
-**Scraped:** 2026-06-21T10:10:18.468272+00:00
+**Scraped:** 2026-06-22T12:09:09.647737+00:00
 
 Advanced Log Upload Commands - Netskope Knowledge Portal
 Advanced Log Upload Commands
@@ -5892,7 +5890,7 @@ Advanced Log Upload Commands
 ## Advanced Log Upload Commands
 **URL:** https://docs.netskope.com/en/advanced-log-upload-commands/
 **Last Modified:** 2025-09-01T12:48:56+00:00
-**Scraped:** 2026-06-21T10:10:21.027118+00:00
+**Scraped:** 2026-06-22T12:09:11.842769+00:00
 
 Advanced Log Upload Commands - Netskope Knowledge Portal
 Advanced Log Upload Commands
@@ -5945,7 +5943,7 @@ Advanced Log Upload Commands
 ## Configure a Login Banner
 **URL:** https://docs.netskope.com/en/configure-a-login-banner/
 **Last Modified:** 2025-08-31T01:43:24+00:00
-**Scraped:** 2026-06-21T10:10:32.249299+00:00
+**Scraped:** 2026-06-22T12:09:22.153653+00:00
 
 Configure a Login Banner - Netskope Knowledge Portal
 Configure a Login Banner
@@ -5966,7 +5964,7 @@ Configure a Login Banner
 ## Configure a Login Banner
 **URL:** https://docs.netskope.com/en/configure-a-login-banner-144852/
 **Last Modified:** 2025-09-01T12:48:27+00:00
-**Scraped:** 2026-06-21T10:10:34.685306+00:00
+**Scraped:** 2026-06-22T12:09:24.360077+00:00
 
 Configure a Login Banner - Netskope Knowledge Portal
 Configure a Login Banner
@@ -5987,7 +5985,7 @@ Configure a Login Banner
 ## Configure Log Uploads
 **URL:** https://docs.netskope.com/en/configure-log-uploads-355003/
 **Last Modified:** 2025-08-31T01:42:48+00:00
-**Scraped:** 2026-06-21T10:10:42.339757+00:00
+**Scraped:** 2026-06-22T12:09:30.998638+00:00
 
 Configure Log Uploads - Netskope Knowledge Portal
 Configure Log Uploads
@@ -6015,7 +6013,7 @@ Configure Log Uploads
 ## Configure Log Uploads
 **URL:** https://docs.netskope.com/en/configure-log-uploads/
 **Last Modified:** 2025-09-01T12:49:27+00:00
-**Scraped:** 2026-06-21T10:10:46.001795+00:00
+**Scraped:** 2026-06-22T12:09:34.296940+00:00
 
 Configure Log Uploads - Netskope Knowledge Portal
 Configure Log Uploads
@@ -6037,7 +6035,7 @@ Configure Log Uploads
 ## Configure NFS on the Log Parser Appliance
 **URL:** https://docs.netskope.com/en/configure-nfs-on-the-log-parser-appliance/
 **Last Modified:** 2025-08-31T01:43:27+00:00
-**Scraped:** 2026-06-21T10:10:47.543125+00:00
+**Scraped:** 2026-06-22T12:09:35.404690+00:00
 
 Configure NFS on the Log Parser Appliance
 A log parsing appliance can be configured to read logs from an NFS share. NFS configuration on the log parsing appliance must be performed using the CLI. You need to make sure NFS server is up, or otherwise the CLI configuration will not be activated. After you have an NFS node up and running, you can specify its IP address and the absolute path to the NFS share.
@@ -6110,13 +6108,12 @@ On the NFS server’s command prompt, run the following command after editing
 Save the configuration in the nsshell for the log parsing appliance again. If everything is setup correctly, it should be working properly.
 In this Topic
 Configure NFS on the Log Parser Appliance
-Configure NFS on the Log Parser Appliance - Netskope Knowledge Portal
 
 ---
 ## Configure SSH Keys for Log Uploads
 **URL:** https://docs.netskope.com/en/configure-ssh-keys-for-log-uploads-144858/
 **Last Modified:** 2025-08-31T01:42:49+00:00
-**Scraped:** 2026-06-21T10:10:54.984962+00:00
+**Scraped:** 2026-06-22T12:09:42.052666+00:00
 
 Configure SSH Keys for Log Uploads - Netskope Knowledge Portal
 Configure SSH Keys for Log Uploads
@@ -6172,7 +6169,7 @@ Configure SSH Keys for Log Uploads
 ## Configure Syslog on the Appliance
 **URL:** https://docs.netskope.com/en/configure-syslog-on-the-appliance/
 **Last Modified:** 2025-08-31T01:43:37+00:00
-**Scraped:** 2026-06-21T10:10:56.210928+00:00
+**Scraped:** 2026-06-22T12:09:43.158406+00:00
 
 Configure Syslog on the Appliance - Netskope Knowledge Portal
 Configure Syslog on the Appliance
@@ -6293,7 +6290,7 @@ Configure Syslog on the Appliance
 ## Configure SSH Keys for Log Uploads
 **URL:** https://docs.netskope.com/en/configure-ssh-keys-for-log-uploads/
 **Last Modified:** 2025-09-01T12:49:01+00:00
-**Scraped:** 2026-06-21T10:10:57.431513+00:00
+**Scraped:** 2026-06-22T12:09:44.256996+00:00
 
 Configure SSH Keys for Log Uploads - Netskope Knowledge Portal
 Configure SSH Keys for Log Uploads
@@ -6349,8 +6346,9 @@ Configure SSH Keys for Log Uploads
 ## Configure Syslog on the OPLP
 **URL:** https://docs.netskope.com/en/configure-syslog-on-the-oplp/
 **Last Modified:** 2026-06-01T21:55:52+00:00
-**Scraped:** 2026-06-21T10:10:59.905355+00:00
+**Scraped:** 2026-06-22T12:09:46.454010+00:00
 
+Configure Syslog on the OPLP - Netskope Knowledge Portal
 Configure Syslog on the OPLP
 You can configure syslog on the OPLP to stream syslog messages directly from the enterprise firewall or proxy servers.
 After the logs are streamed via syslog to the OPLP, the syslog messages are written to a file in the
@@ -6482,7 +6480,7 @@ Configure Syslog on the OPLP
 ## Configure the Log Parser Appliance on the Management Plane
 **URL:** https://docs.netskope.com/en/configure-the-log-parser-appliance-on-the-management-plane/
 **Last Modified:** 2025-08-31T01:43:25+00:00
-**Scraped:** 2026-06-21T10:11:06.270000+00:00
+**Scraped:** 2026-06-22T12:09:51.988941+00:00
 
 Configure the Log Parser Appliance on the Management Plane - Netskope Knowledge Portal
 Configure the Log Parser Appliance on the Management Plane
@@ -6562,7 +6560,7 @@ Configure the Log Parser Appliance on the Management Plane
 ## Enable Hashing and Redaction of Log Fields
 **URL:** https://docs.netskope.com/en/enable-hashing-and-redaction-of-log-fields/
 **Last Modified:** 2025-08-31T01:42:58+00:00
-**Scraped:** 2026-06-21T10:11:20.340617+00:00
+**Scraped:** 2026-06-22T12:10:04.122926+00:00
 
 Enable Hashing and Redaction of Log Fields - Netskope Knowledge Portal
 Enable Hashing and Redaction of Log Fields
@@ -6595,21 +6593,21 @@ Enable Hashing and Redaction of Log Fields
 ## Export or Import Configurations
 **URL:** https://docs.netskope.com/en/export-or-import-configurations/
 **Last Modified:** 2025-08-31T01:43:12+00:00
-**Scraped:** 2026-06-21T10:11:32.558879+00:00
+**Scraped:** 2026-06-22T12:10:14.008597+00:00
 
+Export or Import Configurations - Netskope Knowledge Portal
 Export or Import Configurations
 Exporting or importing configurations enables you to deploy existing configurations to other appliances. Using this feature, you can save configurations outside the appliance for use at a later time, or use the configuration settings from one appliance to quickly setup multiple appliances.
 Exporting Configurations
 Importing Configurations
 In this Topic
 Export or Import Configurations
-Export or Import Configurations - Netskope Knowledge Portal
 
 ---
 ## Exporting Configurations
 **URL:** https://docs.netskope.com/en/exporting-configurations/
 **Last Modified:** 2025-09-01T12:48:34+00:00
-**Scraped:** 2026-06-21T10:11:35.122127+00:00
+**Scraped:** 2026-06-22T12:10:16.233415+00:00
 
 Exporting Configurations - Netskope Knowledge Portal
 Exporting Configurations
@@ -6641,7 +6639,7 @@ Exporting Configurations
 ## Log in to the Appliance
 **URL:** https://docs.netskope.com/en/log-in-to-the-appliance/
 **Last Modified:** 2025-08-31T01:42:52+00:00
-**Scraped:** 2026-06-21T10:11:54.333804+00:00
+**Scraped:** 2026-06-22T12:10:33.037859+00:00
 
 Log in to the Appliance - Netskope Knowledge Portal
 Log in to the Appliance
@@ -6744,8 +6742,9 @@ Log in to the Appliance
 ## Monitor Log Processing Status using a Command Line Interface
 **URL:** https://docs.netskope.com/en/monitor-log-processing-status-using-a-command-line-interface/
 **Last Modified:** 2025-08-31T01:43:02+00:00
-**Scraped:** 2026-06-21T10:12:05.646676+00:00
+**Scraped:** 2026-06-22T12:10:41.910314+00:00
 
+Monitor Log Processing Status using a Command Line Interface - Netskope Knowledge Portal
 Monitor Log Processing Status using a Command Line Interface
 Monitor the status of a single log file by using the following commands:
 status log-file-history
@@ -6800,13 +6799,12 @@ Entering configuration mode
 appliance(config)# set metrics enable false
 In this Topic
 Monitor Log Processing Status using a Command Line Interface
-Monitor Log Processing Status using a Command Line Interface - Netskope Knowledge Portal
 
 ---
 ## Upload Logs from an Amazon S3 Bucket
 **URL:** https://docs.netskope.com/en/upload-logs-from-an-amazon-s3-bucket/
 **Last Modified:** 2025-08-31T01:42:51+00:00
-**Scraped:** 2026-06-21T10:12:34.135800+00:00
+**Scraped:** 2026-06-22T12:11:06.167406+00:00
 
 Upload Logs from an Amazon S3 Bucket - Netskope Knowledge Portal
 Upload Logs from an Amazon S3 Bucket
@@ -6843,8 +6841,9 @@ Upload Logs from an Amazon S3 Bucket
 ## Upload Logs using FTPS
 **URL:** https://docs.netskope.com/en/upload-logs-using-ftps/
 **Last Modified:** 2025-08-31T01:43:26+00:00
-**Scraped:** 2026-06-21T10:12:35.683669+00:00
+**Scraped:** 2026-06-22T12:11:07.262975+00:00
 
+Upload Logs using FTPS - Netskope Knowledge Portal
 Upload Logs using FTPS
 If your network allows file transfers using FTPS instead of SFTP or SCP, you can upload log files by enabling FTPS on the appliance.  To do this, you must first generate and install an SSL certificate. Server side certificates are required to enable SSL inspection. You can use either a self-signed certificate or a CA certificate preferably signed by the enterprise’s Root or intermediate CA.
 Make sure that the server certificate of the appliance uses a fully-qualified domain name as the common name.
@@ -6892,14 +6891,14 @@ Enter
 to save the configuration.
 In this Topic
 Upload Logs using FTPS
-Upload Logs using FTPS - Netskope Knowledge Portal
 
 ---
 ## Upload Logs using FTPS
 **URL:** https://docs.netskope.com/en/upload-logs-using-ftps-158321/
 **Last Modified:** 2025-09-01T12:49:00+00:00
-**Scraped:** 2026-06-21T10:12:38.624048+00:00
+**Scraped:** 2026-06-22T12:11:09.456792+00:00
 
+Upload Logs using FTPS - Netskope Knowledge Portal
 Upload Logs using FTPS
 If your network allows file transfers using FTPS instead of SFTP or SCP, you can upload log files by enabling FTPS on the appliance.  To do this, you must first generate and install an SSL certificate. Server side certificates are required to enable SSL inspection. You can use either a self-signed certificate or a CA certificate preferably signed by the enterprise’s Root or intermediate CA.
 Make sure that the server certificate uses a fully-qualified domain name as the common name.
@@ -6947,14 +6946,14 @@ Enter
 to save the configuration.
 In this Topic
 Upload Logs using FTPS
-Upload Logs using FTPS - Netskope Knowledge Portal
 
 ---
 ## Upload Logs using SCP
 **URL:** https://docs.netskope.com/en/upload-logs-using-scp-158320/
 **Last Modified:** 2025-08-31T01:42:50+00:00
-**Scraped:** 2026-06-21T10:12:40.170969+00:00
+**Scraped:** 2026-06-22T12:11:10.582068+00:00
 
+Upload Logs using SCP - Netskope Knowledge Portal
 Upload Logs using SCP
 Setting up non-interactive file transfers using SCP instead of SFTP is very useful for continuous log uploads.
 Use Password-based Authentication
@@ -6980,13 +6979,12 @@ nstransfer@
 <parser-name>
 In this Topic
 Upload Logs using SCP
-Upload Logs using SCP - Netskope Knowledge Portal
 
 ---
 ## Upload Logs using SCP
 **URL:** https://docs.netskope.com/en/upload-logs-using-scp/
 **Last Modified:** 2025-09-01T12:48:55+00:00
-**Scraped:** 2026-06-21T10:12:41.595898+00:00
+**Scraped:** 2026-06-22T12:11:11.902093+00:00
 
 Upload Logs using SCP
 Setting up non-interactive file transfers using SCP instead of SFTP is very useful for continuous log uploads.
@@ -7019,8 +7017,9 @@ Upload Logs using SCP - Netskope Knowledge Portal
 ## Upload Logs using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-using-sftp-144860/
 **Last Modified:** 2025-08-31T01:42:49+00:00
-**Scraped:** 2026-06-21T10:12:43.030677+00:00
+**Scraped:** 2026-06-22T12:11:13.006336+00:00
 
+Upload Logs using SFTP - Netskope Knowledge Portal
 Upload Logs using SFTP
 SFTP is an interactive way to upload log files, which helps you get familiarized with the overall process before automating it using SCP.
 Upload Logs with Windows using SFTP
@@ -7111,13 +7110,12 @@ mput /logs/cisco-ironport.log
 After the logs are uploaded, it will take some time for the system to parse the logs and show events in Skope IT. The larger the log files, the more time it will take.
 In this Topic
 Upload Logs using SFTP
-Upload Logs using SFTP - Netskope Knowledge Portal
 
 ---
 ## Upload Logs using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-using-sftp/
 **Last Modified:** 2025-09-01T12:48:55+00:00
-**Scraped:** 2026-06-21T10:12:45.474631+00:00
+**Scraped:** 2026-06-22T12:11:15.223266+00:00
 
 Upload Logs using SFTP - Netskope Knowledge Portal
 Upload Logs using SFTP
@@ -7215,8 +7213,9 @@ Upload Logs using SFTP
 ## Verify the Log Parser Connection
 **URL:** https://docs.netskope.com/en/verify-the-log-parser-connection/
 **Last Modified:** 2025-08-31T01:42:51+00:00
-**Scraped:** 2026-06-21T10:12:48.140205+00:00
+**Scraped:** 2026-06-22T12:11:17.397281+00:00
 
+Verify the Log Parser Connection - Netskope Knowledge Portal
 Verify the Log Parser Connection
 To verify the OPLP successfully connected to the Netskope cloud, go to
 Settings > Security Cloud Platform > On-Premises Infrastructure
@@ -7225,13 +7224,12 @@ Note
 It takes few minutes to refresh the status in the UI.
 In this Topic
 Verify the Log Parser Connection
-Verify the Log Parser Connection - Netskope Knowledge Portal
 
 ---
 ## AWS Security Lake Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/amazon-security-lake-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:31:14+00:00
-**Scraped:** 2026-06-21T10:13:02.656302+00:00
+**Scraped:** 2026-06-22T12:11:30.111369+00:00
 
 AWS Security Lake Plugin for Log Shipper - Netskope Knowledge Portal
 AWS Security Lake Plugin for Log Shipper
@@ -8401,7 +8399,7 @@ AWS Security Lake Plugin for Log Shipper
 ## App Catalog
 **URL:** https://docs.netskope.com/en/app-catalog/
 **Last Modified:** 2026-06-19T16:08:28+00:00
-**Scraped:** 2026-06-21T10:13:03.876197+00:00
+**Scraped:** 2026-06-22T12:11:31.198113+00:00
 
 App Catalog - Netskope Knowledge Portal
 App Catalog
@@ -8437,7 +8435,7 @@ App Catalog
 ## 3rd Party App Risk Assessment Catalog
 **URL:** https://docs.netskope.com/en/3rd-party-app-risk-assessment-catalog/
 **Last Modified:** 2026-06-19T16:10:45+00:00
-**Scraped:** 2026-06-21T10:13:25.907559+00:00
+**Scraped:** 2026-06-22T12:11:50.353034+00:00
 
 3rd Party App Risk Assessment Catalog - Netskope Knowledge Portal
 3rd Party App Risk Assessment Catalog
@@ -8458,7 +8456,7 @@ In this Topic
 ## Kafka Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/kafka-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:35:22+00:00
-**Scraped:** 2026-06-21T10:13:40.565395+00:00
+**Scraped:** 2026-06-22T12:12:02.742125+00:00
 
 Kafka Plugin for Log Shipper - Netskope Knowledge Portal
 Kafka Plugin for Log Shipper
@@ -8664,9 +8662,8 @@ Kafka Plugin for Log Shipper
 ## CrowdStrike LogScale Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/crowdstrike-logscale-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T03:46:17+00:00
-**Scraped:** 2026-06-21T10:13:43.366179+00:00
+**Scraped:** 2026-06-22T12:12:04.987996+00:00
 
-CrowdStrike LogScale Plugin for Log Shipper - Netskope Knowledge Portal
 CrowdStrike LogScale Plugin for Log Shipper
 This document explains how to ingest Netskope Alerts, Events, and Web transaction logs in JSON format from your Netskope tenant to the CrowdStrike LogScale  using Cloud Exchange with the CLS CrowdStrike LogScale plugin. The plugin transforms and ingests the alerts, events, and WebTX logs into the CrowdStrike LogScale HTTP Event Collector.
 Prerequisites
@@ -8852,7 +8849,7 @@ CrowdStrike LogScale Plugin for Log Shipper
 ## Bitsight ThirdPartyTrust Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/bitsight-thirdpartytrust-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:51:59+00:00
-**Scraped:** 2026-06-21T10:13:56.971376+00:00
+**Scraped:** 2026-06-22T12:12:17.109231+00:00
 
 Bitsight ThirdPartyTrust Plugin for Log Shipper - Netskope Knowledge Portal
 Bitsight ThirdPartyTrust Plugin for Log Shipper
@@ -8942,7 +8939,7 @@ Bitsight ThirdPartyTrust Plugin for Log Shipper
 ## Datadog Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/datadog-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:19:30+00:00
-**Scraped:** 2026-06-21T10:16:04.664482+00:00
+**Scraped:** 2026-06-22T12:14:08.273888+00:00
 
 Datadog Plugin for Log Shipper - Netskope Knowledge Portal
 Datadog Plugin for Log Shipper
@@ -9175,7 +9172,7 @@ Datadog Plugin for Log Shipper
 ## Local Export Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/local-export-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:22:44+00:00
-**Scraped:** 2026-06-21T10:16:05.901379+00:00
+**Scraped:** 2026-06-22T12:14:09.388859+00:00
 
 Local Export Plugin for Log Shipper - Netskope Knowledge Portal
 Local Export Plugin for Log Shipper
@@ -9353,7 +9350,7 @@ Local Export Plugin for Log Shipper
 ## AWS SQS Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-sqs-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:45:18+00:00
-**Scraped:** 2026-06-21T10:16:39.695877+00:00
+**Scraped:** 2026-06-22T12:14:39.014142+00:00
 
 AWS SQS Plugin for Log Shipper - Netskope Knowledge Portal
 AWS SQS Plugin for Log Shipper
@@ -9946,8 +9943,9 @@ AWS SQS Plugin for Log Shipper
 ## Topologies
 **URL:** https://docs.netskope.com/en/topologies-sites/
 **Last Modified:** 2025-08-31T01:38:21+00:00
-**Scraped:** 2026-06-21T10:17:51.224696+00:00
+**Scraped:** 2026-06-22T12:15:40.722695+00:00
 
+Topologies - Netskope Knowledge Portal
 Topologies
 Topologies
 The topologies section of the “Settings” page provides data on Sites and Gateways.
@@ -10051,14 +10049,14 @@ Import/Export
 Select either Gateways or Sites, under the Export section, click on the Export button based on the format of your choice. Exports in CSV, JSON, and YAML formats are supported.
 In this Topic
 Topologies
-Topologies - Netskope Knowledge Portal
 
 ---
 ## Export 3rd Party App Data
 **URL:** https://docs.netskope.com/en/export-3rd-party-app-data/
 **Last Modified:** 2025-08-31T01:47:01+00:00
-**Scraped:** 2026-06-21T10:18:49.196133+00:00
+**Scraped:** 2026-06-22T12:16:29.765320+00:00
 
+Export 3rd Party App Data - Netskope Knowledge Portal
 Export 3rd Party App Data
 To export 3rd Party Apps page data into a CSV file, follow the procedure:
 Log in to your Netskope tenant and navigate to
@@ -10084,15 +10082,13 @@ Export
 . A CSV file will be downloaded on your system with the export name.
 In this Topic
 Export 3rd Party App Data
-Export 3rd Party App Data - Netskope Knowledge Portal
 
 ---
 ## Log Shipper Plugin
 **URL:** https://docs.netskope.com/en/log-shipper-plugin/
 **Last Modified:** 2026-05-19T12:39:06+00:00
-**Scraped:** 2026-06-21T10:19:13.351295+00:00
+**Scraped:** 2026-06-22T12:16:50.967774+00:00
 
-Log Shipper Plugin - Netskope Knowledge Portal
 Log Shipper Plugin
 This document explains how to configure the Log Shipper v2.3.0 plugin in the Cloud Exchange platform. This plugin is used to fetch Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, and Content) and Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint and Client Status) from Netskope Tenant.
 Prerequisites
@@ -13274,7 +13270,7 @@ Log Shipper Plugin
 ## Cloud Exchange Logs Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/cloud-exchange-logs-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:46:33+00:00
-**Scraped:** 2026-06-21T10:19:20.005204+00:00
+**Scraped:** 2026-06-22T12:16:56.702847+00:00
 
 Cloud Exchange Logs Plugin for Log Shipper - Netskope Knowledge Portal
 Cloud Exchange Logs Plugin for Log Shipper
@@ -13378,7 +13374,7 @@ Cloud Exchange Logs Plugin for Log Shipper
 ## Export DSPM Logs to Amazon S3
 **URL:** https://docs.netskope.com/en/publishing-dspm-activity-logs-to-s3/
 **Last Modified:** 2026-06-20T01:07:48+00:00
-**Scraped:** 2026-06-21T10:20:18.694765+00:00
+**Scraped:** 2026-06-22T12:17:47.204416+00:00
 
 Export DSPM Logs to Amazon S3 - Netskope Knowledge Portal
 Export DSPM Logs to Amazon S3
@@ -13572,7 +13568,7 @@ Export DSPM Logs to Amazon S3
 ## FortiSIEM Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/fortisiem-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:34:15+00:00
-**Scraped:** 2026-06-21T10:20:26.542054+00:00
+**Scraped:** 2026-06-22T12:17:53.904840+00:00
 
 FortiSIEM Plugin for Log Shipper - Netskope Knowledge Portal
 FortiSIEM Plugin for Log Shipper
@@ -13731,8 +13727,9 @@ FortiSIEM Plugin for Log Shipper
 ## Scality Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/scality-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T03:47:07+00:00
-**Scraped:** 2026-06-21T10:21:06.913561+00:00
+**Scraped:** 2026-06-22T12:18:28.981767+00:00
 
+Scality Plugin for Log Shipper - Netskope Knowledge Portal
 Scality Plugin for Log Shipper
 This document explains how to configure the Scality plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin is used to send Alerts (Anomaly, DLP, Malware, Policy, Compromised Credential, Legal Hold, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA and CTEP), Events (Page, Application, Audit, Infrastructure, Network, Incident and Endpoint) and WebTx[via Netskope LogStreaming] logs to the Scality platform. To access the plugin, you would need the credentials of Scality. Note that this plugin is designed to send raw (JSON) logs to Scality.
 Prerequisites
@@ -13920,14 +13917,14 @@ Make sure your Scality Endpoint URL, Access Key, and Secret Access Key are valid
 Make sure that the bucket entered in the plugin exists on the Scality platform.
 In this Topic
 Scality Plugin for Log Shipper
-Scality Plugin for Log Shipper - Netskope Knowledge Portal
 
 ---
 ## Microsoft Azure Event Hubs Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-event-hubs-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:37:08+00:00
-**Scraped:** 2026-06-21T10:21:25.026336+00:00
+**Scraped:** 2026-06-22T12:18:44.481059+00:00
 
+Microsoft Azure Event Hubs Plugin for Log Shipper - Netskope Knowledge Portal
 Microsoft Azure Event Hubs Plugin for Log Shipper
 This document explains how to configure the Microsoft Azure Event Hubs v2.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status) and WebTx [via Netskope LogStreaming] data. The data will be sent to the Microsoft Azure Event Hubs. This plugin supports ingestion in both CEF and JSON format.
 Prerequisites
@@ -14250,14 +14247,14 @@ Here two Japanese characters that were ingested, which looked like “
 Users may observe empty configuration parameters after plugin upgrade.
 In this Topic
 Microsoft Azure Event Hubs Plugin for Log Shipper
-Microsoft Azure Event Hubs Plugin for Log Shipper - Netskope Knowledge Portal
 
 ---
 ## Stream Logs to Amazon S3
 **URL:** https://docs.netskope.com/en/stream-logs-to-amazon-s3/
 **Last Modified:** 2026-06-15T23:14:22+00:00
-**Scraped:** 2026-06-21T10:21:49.582692+00:00
+**Scraped:** 2026-06-22T12:19:05.490000+00:00
 
+Stream Logs to Amazon S3 - Netskope Knowledge Portal
 Stream Logs to Amazon S3
 Netskope Log Streaming supports sending log files to Amazon S3. Provide details for the selected destination type. Destinations supported might offer different features and capabilities. The fields to fill in differ depending on the destination type the user selects.
 Select Amazon S3 with SQS for optimum performance.
@@ -14351,13 +14348,12 @@ Use the IAM Role ARN and the externalID value when configuring the stream.
 	]
 In this Topic
 Stream Logs to Amazon S3
-Stream Logs to Amazon S3 - Netskope Knowledge Portal
 
 ---
 ## Stream Logs to Azure Blob
 **URL:** https://docs.netskope.com/en/stream-logs-to-azure-blob/
 **Last Modified:** 2026-06-15T23:15:33+00:00
-**Scraped:** 2026-06-21T10:21:50.807570+00:00
+**Scraped:** 2026-06-22T12:19:06.597887+00:00
 
 Stream Logs to Azure Blob - Netskope Knowledge Portal
 Stream Logs to Azure Blob
@@ -14386,7 +14382,7 @@ Stream Logs to Azure Blob
 ## Stream Logs to GCP Cloud Storage
 **URL:** https://docs.netskope.com/en/stream-logs-to-gcp-cloud-storage/
 **Last Modified:** 2026-06-15T23:24:32+00:00
-**Scraped:** 2026-06-21T10:21:52.083501+00:00
+**Scraped:** 2026-06-22T12:19:07.699428+00:00
 
 Stream Logs to GCP Cloud Storage - Netskope Knowledge Portal
 Stream Logs to GCP Cloud Storage
@@ -14435,7 +14431,7 @@ Stream Logs to GCP Cloud Storage
 ## Publisher Logs for Troubleshooting
 **URL:** https://docs.netskope.com/en/publisher-logs-for-troubleshooting/
 **Last Modified:** 2026-03-03T02:05:27+00:00
-**Scraped:** 2026-06-21T10:22:56.712352+00:00
+**Scraped:** 2026-06-22T12:20:05.231654+00:00
 
 Publisher Logs for Troubleshooting - Netskope Knowledge Portal
 Publisher Logs for Troubleshooting
@@ -14495,7 +14491,7 @@ Publisher Logs for Troubleshooting
 ## Publisher Filtering and Exporting Options
 **URL:** https://docs.netskope.com/en/publisher-filtering-and-exporting-options/
 **Last Modified:** 2026-03-03T02:06:50+00:00
-**Scraped:** 2026-06-21T10:23:01.726679+00:00
+**Scraped:** 2026-06-22T12:20:09.628788+00:00
 
 Publisher Filtering and Exporting Options - Netskope Knowledge Portal
 Publisher Filtering and Exporting Options
@@ -14528,8 +14524,9 @@ Publisher Filtering and Exporting Options
 ## Understanding Supported Audit Log Events
 **URL:** https://docs.netskope.com/en/understanding-supported-audit-log-events/
 **Last Modified:** 2026-01-16T07:49:39+00:00
-**Scraped:** 2026-06-21T10:23:12.388594+00:00
+**Scraped:** 2026-06-22T12:20:18.638505+00:00
 
+Understanding Supported Audit Log Events - Netskope Knowledge Portal
 Understanding Supported Audit Log Events
 Audit logs are a record of all events, actions, or changes made within an organization’s systems, applications, or networks. These logs provide a historical account of what has occurred, including user activities, system modifications, and security-related events.
 Navigate to
@@ -14570,13 +14567,12 @@ References
 Audit Log filters
 In this Topic
 Understanding Supported Audit Log Events
-Understanding Supported Audit Log Events - Netskope Knowledge Portal
 
 ---
 ## CrowdStrike Next-Gen SIEM Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/crowdstrike-next-gen-siem-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:47:08+00:00
-**Scraped:** 2026-06-21T10:23:36.945959+00:00
+**Scraped:** 2026-06-22T12:20:40.264474+00:00
 
 CrowdStrike Next-Gen SIEM Plugin for Log Shipper - Netskope Knowledge Portal
 CrowdStrike Next-Gen SIEM Plugin for Log Shipper
@@ -14783,9 +14779,8 @@ CrowdStrike Next-Gen SIEM Plugin for Log Shipper
 ## Stream Logs to Splunk
 **URL:** https://docs.netskope.com/en/stream-logs-to-splunk/
 **Last Modified:** 2026-05-28T02:28:42+00:00
-**Scraped:** 2026-06-21T10:24:16.505060+00:00
+**Scraped:** 2026-06-22T12:21:13.813793+00:00
 
-Stream Logs to Splunk - Netskope Knowledge Portal
 Stream Logs to Splunk
 Netskope provides support for the following Splunk integrations to stream NLS logs.
 Stream Logs to Splunk with AWS
@@ -15211,7 +15206,7 @@ Stream Logs to Splunk
 ## Log Streaming Integrations
 **URL:** https://docs.netskope.com/en/log-streaming-integrations/
 **Last Modified:** 2026-02-11T21:38:48+00:00
-**Scraped:** 2026-06-21T10:24:17.718189+00:00
+**Scraped:** 2026-06-22T12:21:14.929775+00:00
 
 Log Streaming Integrations - Netskope Knowledge Portal
 Log Streaming Integrations
@@ -15227,9 +15222,8 @@ Log Streaming Integrations
 ## AWS LogStreaming Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-logstreaming-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:44:12+00:00
-**Scraped:** 2026-06-21T10:24:25.367049+00:00
+**Scraped:** 2026-06-22T12:21:21.629384+00:00
 
-AWS LogStreaming Plugin for Log Shipper - Netskope Knowledge Portal
 AWS LogStreaming Plugin for Log Shipper
 This document explains how to configure the AWS Log Streaming v1.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin is used to fetch the Netskope Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, and Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint and Client Status), and WebTx logs from an AWS SQS queue-enabled S3 Bucket.
 Prerequisites
@@ -15872,9 +15866,8 @@ AWS LogStreaming Plugin for Log Shipper
 ## Azure Log Streaming Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/azure-logstreaming-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:45:40+00:00
-**Scraped:** 2026-06-21T10:24:53.582370+00:00
+**Scraped:** 2026-06-22T12:21:46.665088+00:00
 
-Azure Log Streaming Plugin for Log Shipper - Netskope Knowledge Portal
 Azure Log Streaming Plugin for Log Shipper
 This document explains how to configure the Azure Log Streaming v1.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin fetches the Netskope Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, and Content), Events (Page, Application, Audit, Infrastructure, Network, Incident and Client Status) and WebTx logs from the Azure Containers using Storage Queue of Microsoft Azure Storage Account.
 Prerequisites
@@ -16159,7 +16152,7 @@ Azure Log Streaming Plugin for Log Shipper
 ## Review Custom Query Logs in DSPM
 **URL:** https://docs.netskope.com/en/review-custom-query-logs-in-dspm/
 **Last Modified:** 2026-03-01T00:02:46+00:00
-**Scraped:** 2026-06-21T10:25:06.306790+00:00
+**Scraped:** 2026-06-22T12:21:58.106433+00:00
 
 Review Custom Query Logs in DSPM - Netskope Knowledge Portal
 Review Custom Query Logs in DSPM
@@ -16302,7 +16295,7 @@ Review Custom Query Logs in DSPM
 ## View DSPM Activity Logs
 **URL:** https://docs.netskope.com/en/view-dspm-activity-logs/
 **Last Modified:** 2026-02-05T19:41:07+00:00
-**Scraped:** 2026-06-21T10:25:52.359224+00:00
+**Scraped:** 2026-06-22T12:22:38.967455+00:00
 
 View DSPM Activity Logs - Netskope Knowledge Portal
 View DSPM Activity Logs
@@ -16426,9 +16419,8 @@ View DSPM Activity Logs
 ## Audit Log
 **URL:** https://docs.netskope.com/en/audit-log-1/
 **Last Modified:** 2025-08-31T01:38:34+00:00
-**Scraped:** 2026-06-21T10:26:37.268259+00:00
+**Scraped:** 2026-06-22T12:23:18.532184+00:00
 
-Audit Log - Netskope Knowledge Portal
 Audit Log
 Home
 >
@@ -16615,7 +16607,7 @@ Audit Log
 ## Stream Logs to IBM QRadar
 **URL:** https://docs.netskope.com/en/stream-logs-to-ibm-qradar/
 **Last Modified:** 2025-08-31T01:49:51+00:00
-**Scraped:** 2026-06-21T10:27:07.559439+00:00
+**Scraped:** 2026-06-22T12:23:46.096617+00:00
 
 Stream Logs to IBM QRadar - Netskope Knowledge Portal
 Stream Logs to IBM QRadar
@@ -16670,7 +16662,7 @@ Stream Logs to IBM QRadar
 ## Stream Logs to Crowdstrike
 **URL:** https://docs.netskope.com/en/stream-logs-to-crowdstrike/
 **Last Modified:** 2026-06-02T17:58:08+00:00
-**Scraped:** 2026-06-21T10:27:08.785016+00:00
+**Scraped:** 2026-06-22T12:23:47.211480+00:00
 
 Stream Logs to Crowdstrike - Netskope Knowledge Portal
 Stream Logs to Crowdstrike
@@ -16830,7 +16822,7 @@ Stream Logs to Crowdstrike
 ## Stream Logs to Cribl
 **URL:** https://docs.netskope.com/en/stream-logs-to-cribl/
 **Last Modified:** 2025-08-31T01:49:51+00:00
-**Scraped:** 2026-06-21T10:27:13.767435+00:00
+**Scraped:** 2026-06-22T12:23:51.690204+00:00
 
 Stream Logs to Cribl - Netskope Knowledge Portal
 Stream Logs to Cribl
@@ -16853,7 +16845,7 @@ Stream Logs to Cribl
 ## Stream Logs to Elastic
 **URL:** https://docs.netskope.com/en/stream-logs-to-elastic/
 **Last Modified:** 2025-10-14T23:25:04+00:00
-**Scraped:** 2026-06-21T10:28:27.966285+00:00
+**Scraped:** 2026-06-22T12:24:55.549941+00:00
 
 Stream Logs to Elastic - Netskope Knowledge Portal
 Stream Logs to Elastic
@@ -16928,7 +16920,7 @@ Stream Logs to Elastic
 ## Action Logs
 **URL:** https://docs.netskope.com/en/action-logs/
 **Last Modified:** 2025-10-31T23:04:54+00:00
-**Scraped:** 2026-06-21T10:28:55.536297+00:00
+**Scraped:** 2026-06-22T12:25:20.199071+00:00
 
 Action Logs - Netskope Knowledge Portal
 Action Logs
@@ -16993,9 +16985,8 @@ Action Logs
 ## Importing and Exporting Dashboards
 **URL:** https://docs.netskope.com/en/importing-and-exporting-dashboards/
 **Last Modified:** 2026-02-02T06:38:13+00:00
-**Scraped:** 2026-06-21T10:30:21.767915+00:00
+**Scraped:** 2026-06-22T12:26:32.052420+00:00
 
-Importing and Exporting Dashboards - Netskope Knowledge Portal
 Importing and Exporting Dashboards
 With Netskope Advanced Analytics, you can move dashboards between different tenants or back up custom configurations by using the
 Import From File
@@ -17074,7 +17065,7 @@ Importing and Exporting Dashboards
 ## Darktrace Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/darktrace-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:41:50+00:00
-**Scraped:** 2026-06-21T10:31:35.491255+00:00
+**Scraped:** 2026-06-22T12:27:34.468462+00:00
 
 Darktrace Plugin for Log Shipper - Netskope Knowledge Portal
 Darktrace Plugin for Log Shipper
@@ -17253,7 +17244,7 @@ Darktrace Plugin for Log Shipper
 ## App Catalog and Risk Assessment
 **URL:** https://docs.netskope.com/en/app-catalog-and-risk-assessment/
 **Last Modified:** 2026-06-11T19:07:18+00:00
-**Scraped:** 2026-06-21T10:32:09.217072+00:00
+**Scraped:** 2026-06-22T12:28:04.519122+00:00
 
 App Catalog and Risk Assessment - Netskope Knowledge Portal
 App Catalog and Risk Assessment
@@ -17350,8 +17341,9 @@ App Catalog and Risk Assessment
 ## Manage Logs
 **URL:** https://docs.netskope.com/en/manage-logs/
 **Last Modified:** 2026-05-18T15:01:10+00:00
-**Scraped:** 2026-06-21T10:33:00.163500+00:00
+**Scraped:** 2026-06-22T12:28:48.944878+00:00
 
+Manage Logs - Netskope Knowledge Portal
 Manage Logs
 To provide with a comprehensive view of your environment, perform the follow the steps below to generate and retrieve a diagnostic bundle.
 Access the
@@ -17403,13 +17395,12 @@ ns-debug.zip
 bundle and its corresponding decryption password to the Netskope support portal to facilitate log analysis by the engineering team.
 In this Topic
 Manage Logs
-Manage Logs - Netskope Knowledge Portal
 
 ---
 ## Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs
 **URL:** https://docs.netskope.com/en/optimizing-splunk-ingestion-for-netskope-log-streaming-web-transaction-logs/
 **Last Modified:** 2026-04-02T21:46:19+00:00
-**Scraped:** 2026-06-21T10:33:29.428196+00:00
+**Scraped:** 2026-06-22T12:29:14.792041+00:00
 
 Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs - Netskope Knowledge Portal
 Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs
@@ -17508,8 +17499,9 @@ Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs
 ## Log Shipper Syslog Mapping
 **URL:** https://docs.netskope.com/en/log-shipper-syslog-mapping/
 **Last Modified:** 2026-04-28T07:06:12+00:00
-**Scraped:** 2026-06-21T10:34:14.128678+00:00
+**Scraped:** 2026-06-22T12:29:53.321524+00:00
 
+Log Shipper Syslog Mapping - Netskope Knowledge Portal
 Log Shipper Syslog Mapping
 Cloud Exchange uses a mapping file to translate Netskope field names to third party field names. For example, Netskope has a label
 Source IP
@@ -17531,13 +17523,12 @@ After you give this new mapping file a name, edit the fields you would like to.
 The Netskope Field selector lists all available fields coming from Netskope for Alerts, Events and WebTx logs. The Target Field is what it will be translated to.
 In this Topic
 Log Shipper Syslog Mapping
-Log Shipper Syslog Mapping - Netskope Knowledge Portal
 
 ---
 ## Microsoft Azure Log Analytics Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-log-analytics-plugin-for-log-shipper/
 **Last Modified:** 2026-06-08T23:31:22+00:00
-**Scraped:** 2026-06-21T10:36:24.203739+00:00
+**Scraped:** 2026-06-22T12:31:49.520245+00:00
 
 Microsoft Azure Log Analytics Plugin for Log Shipper - Netskope Knowledge Portal
 Microsoft Azure Log Analytics Plugin for Log Shipper
@@ -18990,8 +18981,9 @@ Microsoft Azure Log Analytics Plugin for Log Shipper
 ## Log Streaming
 **URL:** https://docs.netskope.com/en/log-streaming/
 **Last Modified:** 2026-04-27T21:31:56+00:00
-**Scraped:** 2026-06-21T10:37:23.621324+00:00
+**Scraped:** 2026-06-22T12:32:41.724516+00:00
 
+Log Streaming - Netskope Knowledge Portal
 Log Streaming
 Log Streaming requires additional licensing. Contact your Netskope account team to enable it in your account.
 Log Streaming Overview
