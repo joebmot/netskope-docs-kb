@@ -1,12 +1,12 @@
 # Netskope Docs — Sase
-_Generated: 2026-07-03 10:06 UTC_
+_Generated: 2026-07-04 09:41 UTC_
 _Pages: 4_
 
 ---
 ## Borderless SD-WAN
 **URL:** https://docs.netskope.com/en/borderless-sd-wan/
 **Last Modified:** 2026-06-02T01:38:20+00:00
-**Scraped:** 2026-07-03T09:11:44.697825+00:00
+**Scraped:** 2026-07-04T08:46:31.209770+00:00
 
 Borderless SD-WAN
 The enterprise perimeter is expanding, with users and devices everywhere, and apps distributed across multiple clouds. While legacy WAN solutions fail to meet the modern enterprise’s requirements, Borderless SD-WAN ensures a secure, high-quality experience—anywhere and to any cloud. It simplifies the steering of traffic to the Netskope Security Cloud, so customers can more rapidly take advantage of Netskope Intelligent SSE.
@@ -22,7 +22,7 @@ Borderless SD-WAN
 ## Netskope IPSec with Aruba EdgeConnect SD-WAN
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-aruba-edgeconnect-sd-wan/
 **Last Modified:** 2025-08-31T01:55:23+00:00
-**Scraped:** 2026-07-03T09:26:56.481068+00:00
+**Scraped:** 2026-07-04T09:01:51.582890+00:00
 
 Netskope IPSec with Aruba EdgeConnect SD-WAN - Netskope Knowledge Portal
 Netskope IPSec with Aruba EdgeConnect SD-WAN
@@ -348,7 +348,7 @@ Netskope IPSec with Aruba EdgeConnect SD-WAN
 ## Netskope Borderless WAN Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-tenant-plugin/
 **Last Modified:** 2026-05-05T22:35:25+00:00
-**Scraped:** 2026-07-03T09:32:49.532804+00:00
+**Scraped:** 2026-07-04T09:07:45.315029+00:00
 
 Netskope Borderless WAN Tenant Plugin - Netskope Knowledge Portal
 Netskope Borderless WAN Tenant Plugin
@@ -535,7 +535,7 @@ Netskope Borderless WAN Tenant Plugin
 ## Netskope Borderless WAN Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:48:53+00:00
-**Scraped:** 2026-07-03T09:32:50.732921+00:00
+**Scraped:** 2026-07-04T09:07:46.511243+00:00
 
 Netskope Borderless WAN Plugin for Log Shipper - Netskope Knowledge Portal
 Netskope Borderless WAN Plugin for Log Shipper
