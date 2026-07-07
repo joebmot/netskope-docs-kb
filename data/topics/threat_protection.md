@@ -1,12 +1,12 @@
 # Netskope Docs — Threat Protection
-_Generated: 2026-07-06 11:20 UTC_
-_Pages: 81_
+_Generated: 2026-07-07 10:48 UTC_
+_Pages: 83_
 
 ---
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection/
 **Last Modified:** 2025-08-31T01:51:23+00:00
-**Scraped:** 2026-07-06T10:11:30.089001+00:00
+**Scraped:** 2026-07-07T09:35:05.251264+00:00
 
 Advanced Threat Protection - Netskope Knowledge Portal
 Advanced Threat Protection
@@ -26,7 +26,7 @@ Advanced Threat Protection
 ## Identify Malware in data repositories and action per defined policy
 **URL:** https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
 **Last Modified:** 2025-09-01T12:59:19+00:00
-**Scraped:** 2026-07-06T10:12:59.553143+00:00
+**Scraped:** 2026-07-07T09:36:40.425356+00:00
 
 Identify Malware in data repositories and action per defined policy - Netskope Knowledge Portal
 Identify Malware in data repositories and action per defined policy
@@ -52,7 +52,7 @@ Identify Malware in data repositories and action per defined policy
 ## Protect against unknown web threats
 **URL:** https://docs.netskope.com/en/protect-against-unknown-web-threats/
 **Last Modified:** 2025-08-31T01:51:24+00:00
-**Scraped:** 2026-07-06T10:13:27.062504+00:00
+**Scraped:** 2026-07-07T09:37:10.339508+00:00
 
 Protect against unknown web threats - Netskope Knowledge Portal
 Protect against unknown web threats
@@ -73,7 +73,7 @@ Protect against unknown web threats
 ## Protection against Insider threats
 **URL:** https://docs.netskope.com/en/protection-against-insider-threats/
 **Last Modified:** 2025-08-31T01:51:25+00:00
-**Scraped:** 2026-07-06T10:13:30.665735+00:00
+**Scraped:** 2026-07-07T09:37:14.010751+00:00
 
 Protection against Insider threats - Netskope Knowledge Portal
 Protection against Insider threats
@@ -99,7 +99,7 @@ Protection against Insider threats
 ## Threat Protection – Protect state for Managed App Activities
 **URL:** https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:31+00:00
-**Scraped:** 2026-07-06T10:13:46.160603+00:00
+**Scraped:** 2026-07-07T09:37:30.168592+00:00
 
 Threat Protection – Protect state for Managed App Activities - Netskope Knowledge Portal
 Threat Protection – Protect state for Managed App Activities
@@ -111,7 +111,7 @@ Threat Protection – Protect state for Managed App Activities
 ## Threat scan on IaaS Storage
 **URL:** https://docs.netskope.com/en/threat-scan-on-iaas-storage/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-07-06T10:13:47.334901+00:00
+**Scraped:** 2026-07-07T09:37:31.392618+00:00
 
 Threat scan on IaaS Storage - Netskope Knowledge Portal
 Threat scan on IaaS Storage
@@ -132,7 +132,7 @@ Threat scan on IaaS Storage
 ## Threat Protection Features
 **URL:** https://docs.netskope.com/en/threat-protection-features/
 **Last Modified:** 2025-08-31T01:51:01+00:00
-**Scraped:** 2026-07-06T10:13:48.509920+00:00
+**Scraped:** 2026-07-07T09:37:32.614699+00:00
 
 Threat Protection Features - Netskope Knowledge Portal
 Threat Protection Features
@@ -153,7 +153,7 @@ Threat Protection Features
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection-86194/
 **Last Modified:** 2025-09-03T18:23:15+00:00
-**Scraped:** 2026-07-06T10:14:47.537886+00:00
+**Scraped:** 2026-07-07T09:38:35.080606+00:00
 
 Advanced Threat Protection
 Netskope Advanced Threat Protection includes multiple detection engines that detect sophisticated zero day threats and targeted attacks. The comprehensive, multi-engine approach ensures higher efficacy and protection against evasive threats that may be optimized to bypass some detection engines.
@@ -270,7 +270,7 @@ Advanced Threat Protection
 ## Creating a Malware Detection Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-detection-profile/
 **Last Modified:** 2025-09-03T18:23:18+00:00
-**Scraped:** 2026-07-06T10:17:42.077293+00:00
+**Scraped:** 2026-07-07T09:41:38.919282+00:00
 
 Creating a Malware Detection Profile - Netskope Knowledge Portal
 Creating a Malware Detection Profile
@@ -328,8 +328,9 @@ Creating a Malware Detection Profile
 ## Creating a Threat Protection Policy for API Data Protection
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-api-data-protection/
 **Last Modified:** 2025-09-03T18:23:17+00:00
-**Scraped:** 2026-07-06T10:17:43.307293+00:00
+**Scraped:** 2026-07-07T09:41:40.152133+00:00
 
+Creating a Threat Protection Policy for API Data Protection - Netskope Knowledge Portal
 Creating a Threat Protection Policy for API Data Protection
 Netskope can scan files stored in your cloud storage applications for malware. To do this, you must configure the API Data Protection settings and enable malware scanning for your application instances.
 API Data Protection now supports scanning files up to 128 MB for DLP and threat protection. The default file size is 32 MB. Contact Netskope support or your sales representative to configure a larger file size for your tenant. A few points to consider before enabling this enhancement:
@@ -450,9 +451,8 @@ Creating a Threat Protection Policy for API Data Protection
 ## Creating a Threat Protection Policy for Patient Zero
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-patient-zero/
 **Last Modified:** 2026-01-14T18:59:52+00:00
-**Scraped:** 2026-07-06T10:17:45.764935+00:00
+**Scraped:** 2026-07-07T09:41:42.614344+00:00
 
-Creating a Threat Protection Policy for Patient Zero - Netskope Knowledge Portal
 Creating a Threat Protection Policy for Patient Zero
 A patient zero event occurs when a user downloads a file that’s not detected by signature-based analysis (e.g., Netskope AV engine) in Standard Threat Protection. However, if you have Advanced Threat Protection, you can prevent patient zero events by creating a Threat Protection policy that only releases unknown files to users after the Netskope advanced threat engines determine they’re benign. Netskope holds the unknown file and notifies the user that it’s analyzing the file until it determines a verdict. The Netskope advanced threat engines can take up to 10 minutes to analyze the file.
 Netskope recommends using patient zero policies for high risk use cases, such as the following:
@@ -576,7 +576,7 @@ Creating a Threat Protection Policy for Patient Zero
 ## Improved Reporting on Malware Files in API Data Protection
 **URL:** https://docs.netskope.com/en/improved-reporting-on-malware-files-in-api-data-protection/
 **Last Modified:** 2025-09-04T01:12:02+00:00
-**Scraped:** 2026-07-06T10:20:08.935076+00:00
+**Scraped:** 2026-07-07T09:44:15.121290+00:00
 
 Improved Reporting on Malware Files in API Data Protection - Netskope Knowledge Portal
 Improved Reporting on Malware Files in API Data Protection
@@ -643,13 +643,13 @@ Improved Reporting on Malware Files in API Data Protection
 ## Malware and Malicious Sites Pages
 **URL:** https://docs.netskope.com/en/malware-and-malicious-sites-pages/
 **Last Modified:** 2025-09-03T18:23:21+00:00
-**Scraped:** 2026-07-06T10:20:36.979610+00:00
+**Scraped:** 2026-07-07T09:44:44.716445+00:00
 
 Malware and Malicious Sites Pages - Netskope Knowledge Portal
 Malware and Malicious Sites Pages
 The malware and malicious sites pages help you manage threats to your network.
-About Malware
-About Malicious Sites
+Malware
+Malicious Sites
 Reporting False Positives
 In this Topic
 Malware and Malicious Sites Pages
@@ -658,7 +658,7 @@ Malware and Malicious Sites Pages
 ## API Source Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/api-source-plugin-for-threat-exchange/
 **Last Modified:** 2025-08-31T01:53:26+00:00
-**Scraped:** 2026-07-06T10:27:02.389852+00:00
+**Scraped:** 2026-07-07T09:51:37.631889+00:00
 
 API Source Plugin for Threat Exchange - Netskope Knowledge Portal
 API Source Plugin for Threat Exchange
@@ -838,7 +838,7 @@ API Source Plugin for Threat Exchange
 ## AWS GuardDuty Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/aws-guardduty-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:24+00:00
-**Scraped:** 2026-07-06T10:27:03.774928+00:00
+**Scraped:** 2026-07-07T09:51:38.921399+00:00
 
 AWS GuardDuty Plugin for Threat Exchange - Netskope Knowledge Portal
 AWS GuardDuty Plugin for Threat Exchange
@@ -1487,7 +1487,7 @@ AWS GuardDuty Plugin for Threat Exchange
 ## Carbon Black Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/carbon-black-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:33+00:00
-**Scraped:** 2026-07-06T10:27:15.103606+00:00
+**Scraped:** 2026-07-07T09:51:51.396468+00:00
 
 Carbon Black Plugin for Threat Exchange - Netskope Knowledge Portal
 Carbon Black Plugin for Threat Exchange
@@ -2187,8 +2187,9 @@ Carbon Black Plugin for Threat Exchange
 ## Configure 3rd-party Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:24:01+00:00
-**Scraped:** 2026-07-06T10:27:29.433982+00:00
+**Scraped:** 2026-07-07T09:52:06.731506+00:00
 
+Configure 3rd-party Threat Exchange Plugins - Netskope Knowledge Portal
 Configure 3rd-party Threat Exchange Plugins
 Only admins and write-access users can configure 3rd-party Threat Exchange plugins. Threat Exchange comes with a library of supported plugins. Plugins can be easily configured to collect and share indicators related to file hashes of malicious software (malware) used in a Netskope DLP policy by following the plugin guide. Refer to the
 Threat Exchange Custom Plugin Developers Guide
@@ -2241,6 +2242,7 @@ ThreatQ Plugin for Threat Exchange
 Trellix Plugin for Threat Exchange
 Trend Vision One Plugin for Threat Exchange
 Vectra AI Plugin for Threat Exchange
+VMRay Plugin for Threat Exchange
 Web Page IoC Scraper Plugin for Threat Exchange
 In this Topic
 Configure 3rd-party Threat Exchange Plugins
@@ -2249,7 +2251,7 @@ Configure 3rd-party Threat Exchange Plugins
 ## Configure Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-business-rules/
 **Last Modified:** 2025-10-31T23:38:47+00:00
-**Scraped:** 2026-07-06T10:28:00.803283+00:00
+**Scraped:** 2026-07-07T09:52:40.016814+00:00
 
 Configure Threat Exchange Business Rules - Netskope Knowledge Portal
 Configure Threat Exchange Business Rules
@@ -2312,7 +2314,7 @@ Configure Threat Exchange Business Rules
 ## Configure Threat Exchange Sharing with your Netskope Tenant
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-sharing-with-your-netskope-tenant/
 **Last Modified:** 2025-11-01T00:39:40+00:00
-**Scraped:** 2026-07-06T10:28:02.026891+00:00
+**Scraped:** 2026-07-07T09:52:41.242192+00:00
 
 Configure Threat Exchange Sharing with your Netskope Tenant - Netskope Knowledge Portal
 Configure Threat Exchange Sharing with your Netskope Tenant
@@ -2334,7 +2336,7 @@ Configure Threat Exchange Sharing with your Netskope Tenant
 ## Configure Threat Exchange IoC Sharing
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-ioc-sharing/
 **Last Modified:** 2026-05-28T02:31:00+00:00
-**Scraped:** 2026-07-06T10:28:03.234148+00:00
+**Scraped:** 2026-07-07T09:52:42.502647+00:00
 
 Configure Threat Exchange IoC Sharing - Netskope Knowledge Portal
 Configure Threat Exchange IoC Sharing
@@ -2543,8 +2545,9 @@ Configure Threat Exchange IoC Sharing
 ## Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 **URL:** https://docs.netskope.com/en/configure-your-netskope-tenant-for-cloud-threat-exchange-file-hash-sharing/
 **Last Modified:** 2025-11-01T00:37:21+00:00
-**Scraped:** 2026-07-06T10:28:07.934619+00:00
+**Scraped:** 2026-07-07T09:52:47.444768+00:00
 
+Configure your Netskope Tenant for Threat Exchange File Hash Sharing - Netskope Knowledge Portal
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 To share file hashes between your Netskope tenant and Threat Exchange, you need to:
 Create a File and Malware Detection profile in your Netskope tenant for Cloud Threat Exchange to send file hashes for use in Real-time policy.
@@ -2559,7 +2562,7 @@ Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 ## Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
 **URL:** https://docs.netskope.com/en/create-a-malware-detection-profile-in-your-netskope-tenant-to-use-threat-exchange-file-hash-es/
 **Last Modified:** 2026-03-21T02:25:14+00:00
-**Scraped:** 2026-07-06T10:28:11.465524+00:00
+**Scraped:** 2026-07-07T09:52:51.426780+00:00
 
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes - Netskope Knowledge Portal
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
@@ -2584,7 +2587,7 @@ Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchang
 ## Digital Shadow Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/digital-shadow-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:58+00:00
-**Scraped:** 2026-07-06T10:28:24.467814+00:00
+**Scraped:** 2026-07-07T09:53:05.131766+00:00
 
 Digital Shadow Plugin for Threat Exchange - Netskope Knowledge Portal
 Digital Shadow Plugin for Threat Exchange
@@ -2808,7 +2811,7 @@ Digital Shadow Plugin for Threat Exchange
 ## GitHub Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/github-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:41:57+00:00
-**Scraped:** 2026-07-06T10:28:34.034196+00:00
+**Scraped:** 2026-07-07T09:53:15.731745+00:00
 
 GitHub Plugin for Threat Exchange - Netskope Knowledge Portal
 GitHub Plugin for Threat Exchange
@@ -2946,8 +2949,9 @@ GitHub Plugin for Threat Exchange
 ## Manage Threat Exchange Business Rules and IoC Sharing
 **URL:** https://docs.netskope.com/en/manage-threat-exchange-business-rules-and-ioc-sharing/
 **Last Modified:** 2026-03-21T02:21:37+00:00
-**Scraped:** 2026-07-06T10:29:06.397985+00:00
+**Scraped:** 2026-07-07T09:53:49.519714+00:00
 
+Manage Threat Exchange Business Rules and IoC Sharing - Netskope Knowledge Portal
 Manage Threat Exchange Business Rules and IoC Sharing
 Write-access users can configure Business Rules and IoC sharing. This section describes how to configure the initial business rules used to identify IoCs to be shared, and the IoC sharing configured between plugins (and therefore connected vendor systems) based on the invoked business rules. The result is system-detected IoC sharing between two plugged-in solutions of all IoCs matching the business rule.
 Configure Threat Exchange Business Rules
@@ -2963,7 +2967,7 @@ Manage Threat Exchange Business Rules and IoC Sharing
 ## Mandiant Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mandiant-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:45:30+00:00
-**Scraped:** 2026-07-06T10:29:08.916317+00:00
+**Scraped:** 2026-07-07T09:53:52.026119+00:00
 
 Mandiant Plugin for Threat Exchange - Netskope Knowledge Portal
 Mandiant Plugin for Threat Exchange
@@ -3421,7 +3425,7 @@ Mandiant Plugin for Threat Exchange
 ## Map a Threat Exchange Business Rule to a Target
 **URL:** https://docs.netskope.com/en/map-a-threat-exchange-business-rule-to-a-target/
 **Last Modified:** 2025-10-31T23:46:43+00:00
-**Scraped:** 2026-07-06T10:29:10.092687+00:00
+**Scraped:** 2026-07-07T09:53:53.393046+00:00
 
 Map a Threat Exchange Business Rule to a Target - Netskope Knowledge Portal
 Map a Threat Exchange Business Rule to a Target
@@ -3450,8 +3454,9 @@ Map a Threat Exchange Business Rule to a Target
 ## Microsoft Defender for Endpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-endpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T02:10:36+00:00
-**Scraped:** 2026-07-06T10:29:17.470899+00:00
+**Scraped:** 2026-07-07T09:54:01.056560+00:00
 
+Microsoft Defender for Endpoint Plugin for Threat Exchange - Netskope Knowledge Portal
 Microsoft Defender for Endpoint Plugin for Threat Exchange
 Release Notes
 1.4.0
@@ -4145,7 +4150,7 @@ Microsoft Defender for Endpoint Plugin for Threat Exchange
 ## Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-cloud-apps-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:45:52+00:00
-**Scraped:** 2026-07-06T10:29:18.678838+00:00
+**Scraped:** 2026-07-07T09:54:02.319985+00:00
 
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange - Netskope Knowledge Portal
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange
@@ -4319,8 +4324,9 @@ Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 ## Microsoft Office 365 Endpoints Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-office-365-endpoints-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:46:26+00:00
-**Scraped:** 2026-07-06T10:29:21.232717+00:00
+**Scraped:** 2026-07-07T09:54:05.133540+00:00
 
+Microsoft Office 365 Endpoints Plugin for Threat Exchange - Netskope Knowledge Portal
 Microsoft Office 365 Endpoints Plugin for Threat Exchange
 This document provides instructions to configure the Microsoft Office 365 Endpoints integration with the Threat Exchange module of the Netskope Cloud Exchange platform. Use this plugin to fetch URLs from Microsoft Office 365 Endpoints. This plugin does not support sharing of indicators to Microsoft Office 365 Endpoints.
 Microsoft provides dynamic information regarding Office 365, specifically what URLs and IPs each O365 service is under.
@@ -4391,7 +4397,7 @@ Microsoft Office 365 Endpoints Plugin for Threat Exchange
 ## Mimecast Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mimecast-plugin-for-threat-exchange/
 **Last Modified:** 2026-03-25T00:02:28+00:00
-**Scraped:** 2026-07-06T10:29:23.719661+00:00
+**Scraped:** 2026-07-07T09:54:07.725531+00:00
 
 Mimecast Plugin for Threat Exchange - Netskope Knowledge Portal
 Mimecast Plugin for Threat Exchange
@@ -5275,9 +5281,8 @@ Mimecast Plugin for Threat Exchange
 ## MISP Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/misp-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-28T03:37:34+00:00
-**Scraped:** 2026-07-06T10:29:26.259193+00:00
+**Scraped:** 2026-07-07T09:54:10.323967+00:00
 
-MISP Plugin for Threat Exchange - Netskope Knowledge Portal
 MISP Plugin for Threat Exchange
 This document explains how to configure the MISP v1.5.1 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This integration allows for sharing of URLs and file hashes with Netskope that have been identified by MISP or Netskope.
 MISP is a threat intelligence platform for sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. (
@@ -6404,8 +6409,9 @@ MISP Plugin for Threat Exchange
 ## Palo Alto Networks Panorama Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-panorama-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:42+00:00
-**Scraped:** 2026-07-06T10:29:52.992436+00:00
+**Scraped:** 2026-07-07T09:54:38.613061+00:00
 
+Palo Alto Networks Panorama Plugin for Threat Exchange - Netskope Knowledge Portal
 Palo Alto Networks Panorama Plugin for Threat Exchange
 This document explains how to configure the Palo Alto Networks Panorama v1.0.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. The Palo Alto Networks Panorama plugin fetches information about domains, IP addresses, file hashes (SHA256) from Wildfire logs, and URLs from URL Filtering logs.
 Prerequisites
@@ -6674,7 +6680,7 @@ Palo Alto Networks Panorama Plugin for Threat Exchange
 ## Proofpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/proofpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T00:57:36+00:00
-**Scraped:** 2026-07-06T10:29:58.976781+00:00
+**Scraped:** 2026-07-07T09:54:45.071586+00:00
 
 Proofpoint Plugin for Threat Exchange - Netskope Knowledge Portal
 Proofpoint Plugin for Threat Exchange
@@ -6980,7 +6986,7 @@ Proofpoint Plugin for Threat Exchange
 ## SentinelOne Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sentinelone-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:26+00:00
-**Scraped:** 2026-07-06T10:30:21.833198+00:00
+**Scraped:** 2026-07-07T09:55:09.140737+00:00
 
 SentinelOne Plugin for Threat Exchange - Netskope Knowledge Portal
 SentinelOne Plugin for Threat Exchange
@@ -7797,7 +7803,7 @@ SentinelOne Plugin for Threat Exchange
 ## ServiceNow Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/servicenow-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:34+00:00
-**Scraped:** 2026-07-06T10:30:25.532779+00:00
+**Scraped:** 2026-07-07T09:55:13.011122+00:00
 
 ServiceNow Plugin for Threat Exchange - Netskope Knowledge Portal
 ServiceNow Plugin for Threat Exchange
@@ -8031,7 +8037,7 @@ ServiceNow Plugin for Threat Exchange
 ## Skyhigh Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/skyhigh-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:58+00:00
-**Scraped:** 2026-07-06T10:30:26.728633+00:00
+**Scraped:** 2026-07-07T09:55:14.508089+00:00
 
 Skyhigh Plugin for Threat Exchange - Netskope Knowledge Portal
 Skyhigh Plugin for Threat Exchange
@@ -8097,7 +8103,7 @@ Skyhigh Plugin for Threat Exchange
 ## Sophos Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sophos-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:33+00:00
-**Scraped:** 2026-07-06T10:30:31.594223+00:00
+**Scraped:** 2026-07-07T09:55:19.744958+00:00
 
 Sophos Plugin for Threat Exchange - Netskope Knowledge Portal
 Sophos Plugin for Threat Exchange
@@ -8181,7 +8187,7 @@ Sophos Plugin for Threat Exchange
 ## STIX/TAXII Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/stix-taxii-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:09+00:00
-**Scraped:** 2026-07-06T10:30:32.938152+00:00
+**Scraped:** 2026-07-07T09:55:21.019653+00:00
 
 STIX/TAXII Plugin for Threat Exchange - Netskope Knowledge Portal
 STIX/TAXII Plugin for Threat Exchange
@@ -8526,7 +8532,7 @@ STIX/TAXII Plugin for Threat Exchange
 ## Threat Exchange Module
 **URL:** https://docs.netskope.com/en/threat-exchange-module/
 **Last Modified:** 2026-06-02T18:38:13+00:00
-**Scraped:** 2026-07-06T10:30:42.807621+00:00
+**Scraped:** 2026-07-07T09:55:31.103839+00:00
 
 Threat Exchange Module - Netskope Knowledge Portal
 Threat Exchange Module
@@ -8565,9 +8571,8 @@ Threat Exchange Module
 ## ThreatConnect Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatconnect-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-28T00:23:08+00:00
-**Scraped:** 2026-07-06T10:30:44.059123+00:00
+**Scraped:** 2026-07-07T09:55:32.416064+00:00
 
-ThreatConnect Plugin for Threat Exchange - Netskope Knowledge Portal
 ThreatConnect Plugin for Threat Exchange
 This document explains how to configure the v1.2.1 ThreatConnect plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. The ThreatConnect plugin is used to pull IoCs of type File (MD5 and SHA256), URL, Host and Address (IPv4 and IPv6) from the Indicators under the Intelligence Requirements from ThreatConnect. This plugin also supports sharing File (MD5 and SHA256), URL, Host and Address (IPv4 and IPv6) to the ThreatConnect’s Group under the Intelligence Requirements using the Add to Group action.
 Prerequisites
@@ -9536,7 +9541,7 @@ ThreatConnect Plugin for Threat Exchange
 ## Threat Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/threat-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2026-03-21T02:27:56+00:00
-**Scraped:** 2026-07-06T10:30:45.539056+00:00
+**Scraped:** 2026-07-07T09:55:33.798853+00:00
 
 Threat Exchange Custom Plugin Developers Guide
 This document explains how to create a new Threat Exchange plugin and extract maximum value out of your threat ecosystem by leveraging the functionality provided within the Threat Exchange module. To create a new developers guide, use this
@@ -10720,7 +10725,7 @@ Threat Exchange Custom Plugin Developers Guide
 ## ThreatQ Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatq-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:54:47+00:00
-**Scraped:** 2026-07-06T10:30:46.746147+00:00
+**Scraped:** 2026-07-07T09:55:35.058537+00:00
 
 ThreatQ Plugin for Threat Exchange - Netskope Knowledge Portal
 ThreatQ Plugin for Threat Exchange
@@ -10986,7 +10991,7 @@ ThreatQ Plugin for Threat Exchange
 ## Trend Vision One Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trend-micro-vision-one-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:55:39+00:00
-**Scraped:** 2026-07-06T10:30:49.247951+00:00
+**Scraped:** 2026-07-07T09:55:37.714993+00:00
 
 Trend Vision One Plugin for Threat Exchange - Netskope Knowledge Portal
 Trend Vision One Plugin for Threat Exchange
@@ -11310,8 +11315,9 @@ Trend Vision One Plugin for Threat Exchange
 ## Update Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/update-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:29:26+00:00
-**Scraped:** 2026-07-06T10:30:53.898148+00:00
+**Scraped:** 2026-07-07T09:55:42.679980+00:00
 
+Update Configured Threat Exchange Plugins - Netskope Knowledge Portal
 Update Configured Threat Exchange Plugins
 Write-access users can update already configured plugins.
 On the Plugin page, you can edit, disable/enable, and delete the configuration using the icons on the top of each configuration tile.
@@ -11325,8 +11331,9 @@ Update Configured Threat Exchange Plugins
 ## View Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/view-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:25:57+00:00
-**Scraped:** 2026-07-06T10:31:08.370137+00:00
+**Scraped:** 2026-07-07T09:55:57.608373+00:00
 
+View Configured Threat Exchange Plugins - Netskope Knowledge Portal
 View Configured Threat Exchange Plugins
 Write-access users can view the list of configured plugins and the status.
 Go to
@@ -11350,7 +11357,7 @@ View Configured Threat Exchange Plugins
 ## View Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/view-threat-exchange-business-rules/
 **Last Modified:** 2025-10-31T23:49:11+00:00
-**Scraped:** 2026-07-06T10:31:10.728164+00:00
+**Scraped:** 2026-07-07T09:56:00.215897+00:00
 
 View Threat Exchange Business Rules - Netskope Knowledge Portal
 View Threat Exchange Business Rules
@@ -11366,7 +11373,7 @@ View Threat Exchange Business Rules
 ## Schedule Auto-Upgrade for the Content and Threat Feed Packages
 **URL:** https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/
 **Last Modified:** 2025-08-31T01:43:04+00:00
-**Scraped:** 2026-07-06T10:37:08.945430+00:00
+**Scraped:** 2026-07-07T10:02:19.098693+00:00
 
 Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Knowledge Portal
 Schedule Auto-Upgrade for the Content and Threat Feed Packages
@@ -11393,7 +11400,7 @@ Schedule Auto-Upgrade for the Content and Threat Feed Packages
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection-115996/
 **Last Modified:** 2025-09-01T12:49:04+00:00
-**Scraped:** 2026-07-06T10:37:13.665512+00:00
+**Scraped:** 2026-07-07T10:02:24.389875+00:00
 
 Threat Protection - Netskope Knowledge Portal
 Threat Protection
@@ -11412,7 +11419,7 @@ Threat Protection
 ## Cybereason Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/cybereason-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:32+00:00
-**Scraped:** 2026-07-06T10:37:46.216073+00:00
+**Scraped:** 2026-07-07T10:02:58.118243+00:00
 
 Cybereason Plugin for Threat Exchange - Netskope Knowledge Portal
 Cybereason Plugin for Threat Exchange
@@ -11781,7 +11788,7 @@ Cybereason Plugin for Threat Exchange
 ## Illumio Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/illumio-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-02T02:58:09+00:00
-**Scraped:** 2026-07-06T10:38:18.727511+00:00
+**Scraped:** 2026-07-07T10:03:31.629381+00:00
 
 Illumio Plugin for Threat Exchange - Netskope Knowledge Portal
 Illumio Plugin for Threat Exchange
@@ -11796,7 +11803,7 @@ Illumio Plugin for Threat Exchange
 ## Feedly Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/feedly-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:43+00:00
-**Scraped:** 2026-07-06T10:38:24.765047+00:00
+**Scraped:** 2026-07-07T10:03:38.112231+00:00
 
 Feedly Plugin for Threat Exchange - Netskope Knowledge Portal
 Feedly Plugin for Threat Exchange
@@ -11923,9 +11930,8 @@ Feedly Plugin for Threat Exchange
 ## Threat and Data Protection for RBI
 **URL:** https://docs.netskope.com/en/threat-and-data-protection-for-rbi/
 **Last Modified:** 2025-08-31T01:46:40+00:00
-**Scraped:** 2026-07-06T10:38:33.030758+00:00
+**Scraped:** 2026-07-07T10:03:46.843155+00:00
 
-Threat and Data Protection for RBI - Netskope Knowledge Portal
 Threat and Data Protection for RBI
 This feature provides support for DLP and Threat Protection policies for file upload and download traffic through RBI. Admins can safely enable uploads and downloads in isolated browsing sessions, creating additional real-time protection policies to scan files for Threat Protection and DLP.
 The integration of RBI with Netskope Threat Protection and Data Protection Microservices allows NG-SWG to process all traffic generated in isolation and brings additional benefits such as:
@@ -12155,8 +12161,9 @@ Threat and Data Protection for RBI
 ## SecurityScorecard Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/securityscorecard-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:51+00:00
-**Scraped:** 2026-07-06T10:38:41.694476+00:00
+**Scraped:** 2026-07-07T10:03:55.368570+00:00
 
+SecurityScorecard Plugin for Threat Exchange - Netskope Knowledge Portal
 SecurityScorecard Plugin for Threat Exchange
 This document explains how to configure the SecurityScorecard integration with the Threat Exchange module of the Netskope Cloud Exchange platform. This integration allows for the pulling of domains from SecurityScorecard as URLs into Netskope.
 Prerequisites
@@ -12314,8 +12321,9 @@ SecurityScorecard Plugin for Threat Exchange
 ## CrowdStrike Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-plugin-for-threat-exchange-2/
 **Last Modified:** 2026-05-27T23:40:14+00:00
-**Scraped:** 2026-07-06T10:38:43.071322+00:00
+**Scraped:** 2026-07-07T10:03:56.763611+00:00
 
+CrowdStrike Plugin for Threat Exchange - Netskope Knowledge Portal
 CrowdStrike Plugin for Threat Exchange
 This document explains how to configure the CrowdStrike v2.3.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches Threat IoCs of type Hash (MD5 and SHA256), Domains, IPv4, IPv6 from CrowdStrike’s Endpoint detections and the IoC management page.
 This plugin supports sharing the Threat IoCs to CrowdStrike’s IoC management page and can perform Isolate/Remediate actions for hosts. Only file hash IoCs activate prevention; Domain, IPv4, IPv6 don’t trigger prevention in CrowdStrike. Sharing URL information from Netskope Cloud Exchange to CrowdStrike is not recommended, as CrowdStrike currently only supports ingesting SHA256, MD5, Domain, IPv4, and IPv6.
@@ -13668,7 +13676,7 @@ CrowdStrike Plugin for Threat Exchange
 ## HarfangLab Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/harfanglab-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:42:09+00:00
-**Scraped:** 2026-07-06T10:39:02.835004+00:00
+**Scraped:** 2026-07-07T10:04:17.057010+00:00
 
 HarfangLab Plugin for Threat Exchange - Netskope Knowledge Portal
 HarfangLab Plugin for Threat Exchange
@@ -13935,7 +13943,7 @@ HarfangLab Plugin for Threat Exchange
 ## ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/extrahop-revealx-360-plugin-for-threat-exchange/
 **Last Modified:** 2026-01-30T01:06:15+00:00
-**Scraped:** 2026-07-06T10:39:29.433486+00:00
+**Scraped:** 2026-07-07T10:04:44.699224+00:00
 
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange - Netskope Knowledge Portal
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange
@@ -14260,7 +14268,7 @@ ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 ## Commvault Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/commvault-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:58+00:00
-**Scraped:** 2026-07-06T10:39:54.233740+00:00
+**Scraped:** 2026-07-07T10:05:09.339473+00:00
 
 Commvault Plugin for Threat Exchange - Netskope Knowledge Portal
 Commvault Plugin for Threat Exchange
@@ -14644,8 +14652,9 @@ Commvault Plugin for Threat Exchange
 ## Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-cortex-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:30+00:00
-**Scraped:** 2026-07-06T10:39:55.438634+00:00
+**Scraped:** 2026-07-07T10:05:10.591793+00:00
 
+Palo Alto Networks Cortex XDR Plugin for Threat Exchange - Netskope Knowledge Portal
 Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 This document will provide the technical documentation required to configure the Palo Alto Networks Cortex XDR integration with the Threat Exchange module of the Netskope Cloud Exchange platform.
 Prerequisites
@@ -15135,7 +15144,7 @@ Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 ## Anomali ThreatStream XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/anomali-threatstream-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:38:52+00:00
-**Scraped:** 2026-07-06T10:39:57.886519+00:00
+**Scraped:** 2026-07-07T10:05:13.137150+00:00
 
 Anomali ThreatStream XDR Plugin for Threat Exchange - Netskope Knowledge Portal
 Anomali ThreatStream XDR Plugin for Threat Exchange
@@ -15648,7 +15657,7 @@ Anomali ThreatStream XDR Plugin for Threat Exchange
 ## Trellix Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trellix-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:55:19+00:00
-**Scraped:** 2026-07-06T10:40:45.221094+00:00
+**Scraped:** 2026-07-07T10:06:02.585867+00:00
 
 Trellix Plugin for Threat Exchange - Netskope Knowledge Portal
 Trellix Plugin for Threat Exchange
@@ -15945,18 +15954,22 @@ In this Topic
 Trellix Plugin for Threat Exchange
 
 ---
-## About Malware
+## Malware
 **URL:** https://docs.netskope.com/en/about-malware/
-**Last Modified:** 2026-06-24T22:05:35+00:00
-**Scraped:** 2026-07-06T10:42:06.589555+00:00
+**Last Modified:** 2026-07-06T19:52:34+00:00
+**Scraped:** 2026-07-07T10:07:28.738782+00:00
 
-About Malware - Netskope Knowledge Portal
-About Malware
+Malware - Netskope Knowledge Portal
+Malware
 To view files affected by malware in your organization, go to
 Incidents
 >
 Malware
 .
+At the top, you can see the following statistics from the last 90 days:
+The total files analyzed by the Advanced Threat Protection engine.
+The total unique detections matched from the Netskope Cloud Effect.
+The total new files analyzed by the Multi-Stage Sandbox.
 Viewing File Incidents
 In the
 Files
@@ -16155,13 +16168,13 @@ Advanced Threat Protection
 Download Analysis Result
 to download the results as a PDF file.
 In this Topic
-About Malware
+Malware
 
 ---
 ## Secureworks Taegis Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/secureworks-taegis-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T22:57:55+00:00
-**Scraped:** 2026-07-06T10:42:12.899297+00:00
+**Scraped:** 2026-07-07T10:07:35.044364+00:00
 
 Secureworks Taegis Plugin for Threat Exchange - Netskope Knowledge Portal
 Secureworks Taegis Plugin for Threat Exchange
@@ -16439,7 +16452,7 @@ Secureworks Taegis Plugin for Threat Exchange
 ## Web Page IoC Scraper Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/web-page-ioc-scraper-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T22:58:31+00:00
-**Scraped:** 2026-07-06T10:42:14.096524+00:00
+**Scraped:** 2026-07-07T10:07:36.491204+00:00
 
 Web Page IoC Scraper Plugin for Threat Exchange - Netskope Knowledge Portal
 Web Page IoC Scraper Plugin for Threat Exchange
@@ -16663,7 +16676,7 @@ Web Page IoC Scraper Plugin for Threat Exchange
 ## Rubrik Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/rubrik-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:06+00:00
-**Scraped:** 2026-07-06T10:42:24.892850+00:00
+**Scraped:** 2026-07-07T10:07:48.113610+00:00
 
 Rubrik Plugin for Threat Exchange - Netskope Knowledge Portal
 Rubrik Plugin for Threat Exchange
@@ -17509,7 +17522,7 @@ Rubrik Plugin for Threat Exchange
 ## Setting Up an Application Instance for Malware Retention
 **URL:** https://docs.netskope.com/en/setting-up-an-application-instance-for-malware-retention/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-07-06T10:42:42.945920+00:00
+**Scraped:** 2026-07-07T10:08:07.055218+00:00
 
 Setting Up an Application Instance for Malware Retention - Netskope Knowledge Portal
 Setting Up an Application Instance for Malware Retention
@@ -17660,7 +17673,7 @@ Setting Up an Application Instance for Malware Retention
 ## Creating a Malware Retention Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-retention-profile/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-07-06T10:42:44.124976+00:00
+**Scraped:** 2026-07-07T10:08:08.417439+00:00
 
 Creating a Malware Retention Profile - Netskope Knowledge Portal
 Creating a Malware Retention Profile
@@ -17709,7 +17722,7 @@ Creating a Malware Retention Profile
 ## Threat Exchange Plugin
 **URL:** https://docs.netskope.com/en/threat-exchange-plugin/
 **Last Modified:** 2026-06-02T23:42:49+00:00
-**Scraped:** 2026-07-06T10:43:39.219265+00:00
+**Scraped:** 2026-07-07T10:09:06.220815+00:00
 
 Threat Exchange Plugin - Netskope Knowledge Portal
 Threat Exchange Plugin
@@ -19862,7 +19875,7 @@ Threat Exchange Plugin
 ## About Malware Retention
 **URL:** https://docs.netskope.com/en/about-malware-retention/
 **Last Modified:** 2025-08-31T01:47:31+00:00
-**Scraped:** 2026-07-06T10:44:54.585522+00:00
+**Scraped:** 2026-07-07T10:10:26.705098+00:00
 
 About Malware Retention - Netskope Knowledge Portal
 About Malware Retention
@@ -19925,7 +19938,7 @@ About Malware Retention
 ## Maltiverse Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/maltiverse-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:44:19+00:00
-**Scraped:** 2026-07-06T10:45:20.754949+00:00
+**Scraped:** 2026-07-07T10:10:53.410909+00:00
 
 Maltiverse Plugin for Threat Exchange - Netskope Knowledge Portal
 Maltiverse Plugin for Threat Exchange
@@ -20213,7 +20226,7 @@ Maltiverse Plugin for Threat Exchange
 ## Malware Severity Levels and Detection Types
 **URL:** https://docs.netskope.com/en/malware-severity-levels-and-detection-types/
 **Last Modified:** 2025-12-08T22:36:38+00:00
-**Scraped:** 2026-07-06T10:47:27.635162+00:00
+**Scraped:** 2026-07-07T10:13:05.286524+00:00
 
 Malware Severity Levels and Detection Types - Netskope Knowledge Portal
 Malware Severity Levels and Detection Types
@@ -20344,9 +20357,8 @@ Malware Severity Levels and Detection Types
 ## Vectra AI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vectra-ai-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:02+00:00
-**Scraped:** 2026-07-06T10:47:47.282520+00:00
+**Scraped:** 2026-07-07T10:13:25.897183+00:00
 
-Vectra AI Plugin for Threat Exchange - Netskope Knowledge Portal
 Vectra AI Plugin for Threat Exchange
 This document explains how to configure the Vectra AI v1.0.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to pull IoCs of the type URLs (IPv4 Addresses and Domains) from the
 Detections
@@ -20793,7 +20805,7 @@ Vectra AI Plugin for Threat Exchange
 ## SecLytics Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/seclytics-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:26+00:00
-**Scraped:** 2026-07-06T10:47:48.472218+00:00
+**Scraped:** 2026-07-07T10:13:27.107743+00:00
 
 SecLytics Plugin for Threat Exchange - Netskope Knowledge Portal
 SecLytics Plugin for Threat Exchange
@@ -20883,7 +20895,7 @@ SecLytics Plugin for Threat Exchange
 ## OpenCTI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/opencti-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:01+00:00
-**Scraped:** 2026-07-06T10:47:56.961105+00:00
+**Scraped:** 2026-07-07T10:13:35.762211+00:00
 
 OpenCTI Plugin for Threat Exchange - Netskope Knowledge Portal
 OpenCTI Plugin for Threat Exchange
@@ -21522,7 +21534,7 @@ OpenCTI Plugin for Threat Exchange
 ## Infoblox Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/infoblox-tide-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:43:16+00:00
-**Scraped:** 2026-07-06T10:48:18.029181+00:00
+**Scraped:** 2026-07-07T10:13:55.871173+00:00
 
 Infoblox Plugin for Threat Exchange - Netskope Knowledge Portal
 Infoblox Plugin for Threat Exchange
@@ -22479,7 +22491,7 @@ Infoblox Plugin for Threat Exchange
 ## Tanium Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/tanium-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:43+00:00
-**Scraped:** 2026-07-06T10:51:50.936276+00:00
+**Scraped:** 2026-07-07T10:17:37.018005+00:00
 
 Tanium Plugin for Threat Exchange - Netskope Knowledge Portal
 Tanium Plugin for Threat Exchange
@@ -22883,7 +22895,7 @@ Tanium Plugin for Threat Exchange
 ## Abnormal Security Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/abnormal-security-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T03:59:33+00:00
-**Scraped:** 2026-07-06T10:52:33.226561+00:00
+**Scraped:** 2026-07-07T10:18:21.643240+00:00
 
 Abnormal Security Plugin for Threat Exchange - Netskope Knowledge Portal
 Abnormal Security Plugin for Threat Exchange
@@ -23319,7 +23331,7 @@ Abnormal Security Plugin for Threat Exchange
 ## Imperva Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/imperva-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:42:53+00:00
-**Scraped:** 2026-07-06T10:55:17.822115+00:00
+**Scraped:** 2026-07-07T10:21:11.842632+00:00
 
 Imperva Plugin for Threat Exchange - Netskope Knowledge Portal
 Imperva Plugin for Threat Exchange
@@ -23610,7 +23622,7 @@ Imperva Plugin for Threat Exchange
 ## Creating a Threat Protection Policy for Blocking DNS over HTTPS
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-blocking-dns-over-https/
 **Last Modified:** 2026-02-11T19:38:47+00:00
-**Scraped:** 2026-07-06T10:55:31.149532+00:00
+**Scraped:** 2026-07-07T10:21:25.461369+00:00
 
 Creating a Threat Protection Policy for Blocking DNS over HTTPS - Netskope Knowledge Portal
 Creating a Threat Protection Policy for Blocking DNS over HTTPS
@@ -23675,7 +23687,7 @@ Creating a Threat Protection Policy for Blocking DNS over HTTPS
 ## Darktrace Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/darktrace-plugin-for-threat-exchange/
 **Last Modified:** 2026-04-10T00:26:25+00:00
-**Scraped:** 2026-07-06T10:57:14.059132+00:00
+**Scraped:** 2026-07-07T10:23:12.914477+00:00
 
 Darktrace Plugin for Threat Exchange - Netskope Knowledge Portal
 Darktrace Plugin for Threat Exchange
@@ -24169,11 +24181,1011 @@ In this Topic
 Darktrace Plugin for Threat Exchange
 
 ---
+## Threat Hunting
+**URL:** https://docs.netskope.com/en/threat-hunting/
+**Last Modified:** 2026-07-06T18:51:59+00:00
+**Scraped:** 2026-07-07T10:26:19.194901+00:00
+
+Threat Hunting - Netskope Knowledge Portal
+Threat Hunting
+Threat hunting makes additional detections available that Netskope hasn’t or won’t deploy yet for network threat blocking because the detection is likely to alert on non-malicious traffic. These detections are a source of insight into network traffic to investigate suspicious behavior, which supports threat hunting and response and investigation use cases.
+You can view the available threat hunting detections based on your enabled traffic types. Click
+Configure in IPS
+to modify this setting.
+Detection Configuration
+In the
+Detection Configuration
+tab, you can manually enable or disable threat hunting detections in alert or block mode on a case by case basis. If you enable threat hunting mode, some high-fidelity detections might be enabled by default, and lower-fidelity detections might be disabled by default.
+To enable or disable threat hunting detections:
+Go to
+Settings
+>
+Threat Protection
+>
+Threat Hunting
+.
+Under
+Detection Configuration
+, search for a threat hunting detection by its
+Detection Name
+or
+Detection ID
+.
+Click
+for the threat hunting detection you want to overwrite the default behavior for.
+In the
+Edit Detection Details
+window:
+Detection
+: The threat hunting detection you are modifying the default behavior for. You can’t modify this field.
+Detection ID
+: The ID of the threat hunting detection. You can’t modify this field.
+Status
+: Choose to enable or disable the threat hunting detection.
+Action
+: Choose one of the following actions.
+Alert
+: Netskope allows the detected traffic and generates an alert in Skope IT.
+Block
+: Netskope blocks the detected traffic.
+Click
+Save
+.
+You can click
+Show all overwritten detections
+to only display the detections you’ve edited.
+Module Detection
+In the
+Module Detection
+tab, you can enable or disable detection modules, which provide detection based on behavioral techniques including machine learning and advanced analytics that detect network anomalies.
+Beacon Detection
+: Enable to identify evasive Command and Control (C2) beaconing, which traditional defenses often miss, by analyzing network traffic for anomalies indicative of beaconing and focusing on behavior rather than static detections for early compromise detection.
+The default action is
+Alert
+. You can’t modify this setting.
+HTML Smuggling
+Detection
+: Enable to prevent HTML smuggling attacks and detect embedded malicious payloads inside HTML/JS files.
+The default action is
+Alert
+. You can’t modify this setting.
+Viewing Threat Hunting Alerts
+You can view threat hunting detections on the Skope IT
+Alerts
+page (
+Skope IT
+>
+Alerts
+). To view them, select
+Threat Hunting
+for the
+Alert Type
+filter.
+In this Topic
+Threat Hunting
+
+---
+## VMRay Plugin for Threat Exchange
+**URL:** https://docs.netskope.com/en/vmray-plugin-for-threat-exchange/
+**Last Modified:** 2026-07-06T21:45:48+00:00
+**Scraped:** 2026-07-07T10:26:20.471831+00:00
+
+VMRay Plugin for Threat Exchange - Netskope Knowledge Portal
+VMRay Plugin for Threat Exchange
+Release Notes
+1.0.0 (Required minimum CE version for this is 6.0.0)
+Added
+Initial release.
+Pull: Yes (URL, Domain, FQDN, IPv4, SHA256 and MD5)
+Push: Yes (URL, Domain, FQDN and IPv4)
+Pull Retraction: Yes (Based On time and verdict type)
+Push Retraction: Yes (Based On tag)
+This document explains how to configure the VMRay v1.0.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to pull IoC(s) of type Domain (FQDN, Domain), IPv4, URL, and File Hash (MD5, SHA256) from Malicious and Suspicious Sample IoCs of submissions in VMRay platform. This plugin supports sharing IoC(s) of type URL, Domain, FQDN, and IPv4 to VMRay via the Upload File or URL submission page. This plugin supports pull and push retraction of indicators from VMRay.
+Prerequisites
+To complete this configuration, you need:
+A Netskope tenant (or multiple, for example, production and development/test instances).
+A Netskope Cloud Exchange tenant with the
+Tenant plugin
+and
+Threat Exchange plugin
+already configured.
+A
+File Profile
+on your Netskope tenant.
+A
+URL List
+on your Netskope tenant.
+A
+Destination Profile
+on your Netskope tenant.
+A
+Private App
+on your Netskope tenant.
+A
+DNS Profile
+on your Netskope Tenant.
+A VMRay instance with an account.
+Connectivity to the following host:
+https://<region>.cloud.vmray.com
+VMRay Plugin Support
+This plugin is used to pull IoC(s) of type Domain (FQDN, Domain), IPv4, URL, and File Hash (MD5, SHA256) from Malicious and Suspicious Sample IoCs of submissions in VMRay platform. This plugin supports sharing IoC(s) of type URL, Domain, FQDN, and IPv4 to VMRay via the Upload File or URL submission page. This plugin supports pull and push retraction of indicators from VMRay.
+Fetched Indicator Types
+Shared Indicator Types
+Domain, FQDN, IPv4, URL, MD5, SHA256
+URL, Domain, FQDN, IPv4
+IoC Retraction
+The VMRay plugin supports pull and push retraction of indicators.
+Type
+Description
+IoC Retraction (Pull)
+Yes
+IoC Retraction (Push)
+Yes
+Mappings
+Severity Mappings
+Netskope Severity
+VMRay numeric_severity
+unknown
+0
+low
+1
+low
+2
+medium
+3
+high
+4
+critical
+5
+Pull Indicators Mappings
+Netskope Fields
+VMRay Observable Fields
+Value (domain)
+domain
+Value (url)
+url
+Value (ip)
+ip_address
+Value (md5)
+md5_hash
+Value (sha256)
+sha256_hash
+Severity
+numeric_severity
+Tags
+submission_tags, verdict, protocols
+Comments
+severity
+Extended Information
+submission_webif_url
+Push Indicators Mappings
+VMRay Observable Field
+Netskope Indicator Field
+sample_url
+indicator.value
+tags
+indicator.tags
+submission_metadata.ce_severity
+indicator.severity
+submission_metadata.ce_reputation
+indicator.reputation
+submission_metadata.ioc_comment
+indicator.comments
+Permissions
+You need a VMRay user role created with these permissions:
+Allow Console Access
+Allow REST API access
+View own submissions, analyses, and samples
+View shared submissions, analyses, and samples
+Submit samples, manage own jobs, reanalyze old analytics, and regenerate analysis reports
+Delete all submissions in this account including associated analyses.
+API Details
+List of APIs Used
+API Endpoint
+Method
+Use Case
+/rest/submission/finish_time/{start}~{end}
+GET
+Fetch submissions by finish time window
+/rest/sample/{sample_id}/iocs
+GET
+Fetch IoCs for a given sample
+/rest/sample/submit
+POST
+Submit an indicator to VMRay
+/rest/submission/search
+GET
+Search submissions for push retraction
+/rest/submission/{submission_id}
+DELETE
+Delete a submission for push retraction
+Fetch Submissions by Finish Time
+Endpoint:
+GET /rest/submission/finish_time/{start}~{end}
+Request Headers:
+Key
+Value
+Authorization
+api_key {api_token}
+Content-Type
+application/json
+Query Parameters:
+Parameter
+Description
+submission_verdict
+Filter by verdict: malicious or suspicious
+_limit
+Number of results per page
+_order
+Sort order (asc)
+_min_id
+Cursor for pagination
+Sample Response:
+{
+    "continuation_id": 9084709,
+    "data": [
+        {
+            "submission_analysis_cache_ids": [
+                16989547
+            ],
+            "submission_analyzer_mode_ai_based_phishing_detection": "normal",
+            "submission_analyzer_mode_analysis_caching": "smart",
+            "submission_analyzer_mode_analyzer_mode": "static_dynamic",
+            "submission_analyzer_mode_archive_action": "sample",
+            "submission_analyzer_mode_detonate_links_in_documents": "smart",
+            "submission_analyzer_mode_detonate_links_in_emails": "smart",
+            "submission_analyzer_mode_disk_image_action": "compound_sample",
+            "submission_analyzer_mode_enable_reputation": true,
+            "submission_analyzer_mode_enable_whois": false,
+            "submission_analyzer_mode_id": 2245384,
+            "submission_analyzer_mode_known_benign": false,
+            "submission_analyzer_mode_known_malicious": false,
+            "submission_analyzer_mode_max_dynamic_analyses_per_sample": "default",
+            "submission_analyzer_mode_max_recursive_samples": "10",
+            "submission_analyzer_mode_ml_based_phishing_detection": "normal",
+            "submission_analyzer_mode_triage": "custom",
+            "submission_analyzer_mode_triage_error_handling": null,
+            "submission_api_key_id": 2168,
+            "submission_billing_type": "analyzer",
+            "submission_comment": "Netskope CE",
+            "submission_consumed_quota": 0,
+            "submission_created": "2026-06-11T09:25:10",
+            "submission_deletion_date": "2026-12-08T09:25:10",
+            "submission_dll_call_mode": null,
+            "submission_dll_calls": null,
+            "submission_document_password": null,
+            "submission_enable_custom_av": false,
+            "submission_enable_local_av": false,
+            "submission_filename": "sample.url",
+            "submission_finish_time": "2026-06-11T09:25:11",
+            "submission_finished": true,
+            "submission_has_errors": false,
+            "submission_has_recursive_errors": false,
+            "submission_id": 14513326,
+            "submission_interface_name": "CloudExchange",
+            "submission_ip_id": 1242821,
+            "submission_ip_ip": "14.96.106.184",
+            "submission_job_cache_ids": [],
+            "submission_known_configuration": false,
+            "submission_number_cached_analyses": 2,
+            "submission_number_created_jobs": 0,
+            "submission_original_filename": null,
+            "submission_original_url": "test-domain.com",
+            "submission_parent_submission_id": null,
+            "submission_prescript_force_admin": false,
+            "submission_prescript_id": null,
+            "submission_priority": 7,
+            "submission_quota_type": "report",
+            "submission_recursive": false,
+            "submission_reputation_job_cache_id": null,
+            "submission_reputation_lookup_cache_id": 5414252,
+            "submission_reputation_mode": "auxiliary",
+            "submission_retention_period": 180,
+            "submission_sample_id": 14106863,
+            "submission_sample_md5": "376df3380181be9ec57644b1de15f751",
+            "submission_sample_sha1": "3b286b862ca8a4753b0bf0cd4337e80dd807028c",
+            "submission_sample_sha256": "31ace2defcf47c077fcd906556427144a695bd3d3621adfa21ec437e3a5cce22",
+            "submission_sample_ssdeep": "3:N1KKATZI:CKqI",
+            "submission_sample_verdict": "malicious",
+            "submission_sample_verdict_reason_code": null,
+            "submission_sample_verdict_reason_description": null,
+            "submission_score": 83,
+            "submission_severity": "malicious",
+            "submission_shareable": false,
+            "submission_status": "success",
+            "submission_submission_metadata": "{\"ce_severity\": \"SeverityType.UNKNOWN\", \"ce_reputation\": \"5\", \"ioc_comment\": \"Application: Nuance\"}",
+            "submission_submitter_email": null,
+            "submission_system_time": null,
+            "submission_tags": [
+                "Unsanctioned",
+                "Netskope-CE-Microsoft-Defender-for-Cloud-Apps"
+            ],
+            "submission_triage_error_handling": null,
+            "submission_triage_stage": null,
+            "submission_triaged": null,
+            "submission_type": "api",
+            "submission_used_cache": true,
+            "submission_user_account_id": 767,
+            "submission_user_account_name": "Netskope NFR",
+            "submission_user_account_subscription_mode": null,
+            "submission_user_account_type": "integration_partner",
+            "submission_user_email": "vdesai@netskope.com",
+            "submission_user_id": 7752,
+            "submission_verdict": "malicious",
+            "submission_verdict_reason_code": null,
+            "submission_verdict_reason_description": null,
+            "submission_webif_url": "https://us.cloud.vmray.com/samples/14106863",
+            "submission_whois_mode": "disabled"
+        },
+    ],
+}
+Fetch Sample IOCs
+Endpoint:
+GET /rest/sample/{sample_id}/iocs
+Request Headers:
+Key
+Value
+Authorization
+api_key {api_token}
+Content-Type
+application/json
+Query Parameters:
+Parameter
+Description
+all_artifacts
+Set to true to retrieve all artifacts
+ioc_verdict
+Filter by verdict: malicious or suspicious
+Sample Response:
+{
+  "data": {
+    "sample_child_relations": [
+    ],
+    "sample_child_relations_truncated": false,
+    "sample_child_sample_ids": [
+    ],
+    "sample_classifications": [
+    ],
+    "sample_clusters": [
+    ],
+    "sample_container_type": null,
+    "sample_created": "2026-05-20T14:05:23",
+    "sample_display_url": "http://www.vnic.co/khach-hang.html",
+    "sample_emailhash": null,
+    "sample_filename": "sample.url",
+    "sample_filesize": 34,
+    "sample_highest_vti_score": 20,
+    "sample_highest_vti_severity": "not_suspicious",
+    "sample_id": 13812243,
+    "sample_imphash": null,
+    "sample_is_multipart": false,
+    "sample_last_md_score": null,
+    "sample_last_reputation_severity": "unknown",
+    "sample_last_vt_score": null,
+    "sample_md5hash": "d11ae5bb4de4608ba67a6524cf9312a7",
+    "sample_parent_relations": [
+    ],
+    "sample_parent_relations_truncated": false,
+    "sample_parent_sample_ids": [
+    ],
+    "sample_password_protected": false,
+    "sample_pe_signature": null,
+    "sample_priority": 7,
+    "sample_score": 0,
+    "sample_severity": "not_suspicious",
+    "sample_sha1hash": "ee2216546a31be8ab2ebb7da990ffe0c4a919862",
+    "sample_sha256hash": "8cc6bc85842af39dfeb13539d80a8c38376215e8ae1ea81f5b477b30d55d1045",
+    "sample_ssdeephash": "3:N1KJS4H5nEiLk0:Cc4ZEo/",
+    "sample_threat_names": [
+    ],
+    "sample_type": "URL",
+    "sample_url": "http://www.vnic.co/khach-hang.html",
+    "sample_verdict": "clean",
+    "sample_verdict_reason_code": null,
+    "sample_verdict_reason_description": null,
+    "sample_vti_score": 20,
+    "sample_webif_url": "https://us.cloud.vmray.com/samples/13812243"
+  },
+  "result": "ok"
+}
+Submit Indicator to VMRay
+Endpoint:
+POST /rest/sample/submit
+Request Headers:
+Key
+Value
+Authorization
+api_key {api_token}
+Content-Type
+application/json
+Query Parameters:
+Parameter
+Description
+sample_url
+The indicator value to submit
+Request Body:
+{
+  "tags": "Netskope-CE-{plugin_name},{tag1},{tag2}",
+  "submission_metadata": "{\"ce_severity\": \"HIGH\", \"ce_reputation\": \"\", \"ioc_comment\": \"\"}",
+  "enable_reputation": "true",
+  "live_interaction": "false",
+  "comment": ""
+}
+Sample Response:
+{
+  "data": {
+    "errors": [
+    ],
+    "jobs": [
+      {
+        "job_account_id": 767,
+        "job_analyzer_id": 7,
+        "job_analyzer_name": "vmray_web",
+        "job_bill_id": 13908651,
+        "job_bill_type": "analyzer",
+        "job_configuration_description": "Chrome",
+        "job_configuration_id": 254,
+        "job_configuration_name": "web_root",
+        "job_created": "2026-06-15T09:27:14",
+        "job_document_password": null,
+        "job_enable_custom_av": false,
+        "job_enable_local_av": false,
+        "job_id": 17321711,
+        "job_jobrule_id": 112,
+        "job_jobrule_sampletype": "URL",
+        "job_parent_analysis_id": null,
+        "job_prescript_force_admin": false,
+        "job_prescript_id": null,
+        "job_priority": 9,
+        "job_quota_type": "report",
+        "job_reputation_job_id": null,
+        "job_sample_id": 13824015,
+        "job_sample_md5": "e9e73f6ae078cfd5a24bddc40043e4b3",
+        "job_sample_sha1": "960aebe953a46e9fba63203feb38566001d3648a",
+        "job_sample_sha256": "9e4cf379b7ccedcf1bf521fee850d9c9de96153a691c05e50a7a9d8333495515",
+        "job_sample_ssdeep": "3:N8SP3uwVQokyMAwMIIPBhMJNMPHxXgxQeOE6fKP3u2NerLIK:2SmwVQjMDPBWORktOE6fKm24fIK",
+        "job_snapshot_id": 1,
+        "job_snapshot_name": "def",
+        "job_static_config_id": null,
+        "job_status": "queued",
+        "job_statuschanged": "2026-06-15T09:27:14",
+        "job_submission_id": 14547658,
+        "job_submission_ids": [
+          14547658
+        ],
+        "job_system_time": null,
+        "job_tracking_state": "//waiting",
+        "job_type": "full_analysis",
+        "job_user_email": "vdesai@netskope.com",
+        "job_user_id": 7752,
+        "job_vm_description": "VMRay Web Analyzer",
+        "job_vm_id": 42,
+        "job_vm_name": "win-web",
+        "job_vmhost_id": null,
+        "job_vminstance_num": null,
+        "job_vnc_url_html": null,
+        "job_vnc_url_wss": null
+      }
+    ],
+    "md_jobs": [
+    ],
+    "reputation_jobs": [
+      {
+        "reputation_job_account_id": 767,
+        "reputation_job_bill_id": null,
+        "reputation_job_created": "2026-06-15T09:27:14",
+        "reputation_job_id": 6861365,
+        "reputation_job_priority": 9,
+        "reputation_job_sample_id": 13824015,
+        "reputation_job_sample_md5": "e9e73f6ae078cfd5a24bddc40043e4b3",
+        "reputation_job_sample_sha1": "960aebe953a46e9fba63203feb38566001d3648a",
+        "reputation_job_sample_sha256": "9e4cf379b7ccedcf1bf521fee850d9c9de96153a691c05e50a7a9d8333495515",
+        "reputation_job_sample_ssdeep": "3:N8SP3uwVQokyMAwMIIPBhMJNMPHxXgxQeOE6fKP3u2NerLIK:2SmwVQjMDPBWORktOE6fKm24fIK",
+        "reputation_job_status": "queued",
+        "reputation_job_statuschanged": "2026-06-15T09:27:14",
+        "reputation_job_submission_id": 14547658,
+        "reputation_job_submission_ids": [
+          14547658
+        ],
+        "reputation_job_user_email": "vdesai@netskope.com",
+        "reputation_job_user_id": 7752
+      }
+    ],
+    "samples": [
+      {
+        "sample_child_sample_ids": [
+        ],
+        "sample_container_type": null,
+        "sample_created": "2026-05-21T05:22:01",
+        "sample_display_url": "https://docs.google.com/spreadsheet/viewform?formkey=dGg2Z1lCUHlSdjllTVNRUW50TFIzSkE6MQ,https://docs.google.com, https://api.google.com",
+        "sample_emailhash": null,
+        "sample_filename": "9e4cf379b7ccedcf1bf521fee850d9c9de96153a691c05e50a7a9d8333495515url",
+        "sample_filesize": 135,
+        "sample_id": 13824015,
+        "sample_imphash": null,
+        "sample_is_multipart": false,
+        "sample_md5hash": "e9e73f6ae078cfd5a24bddc40043e4b3",
+        "sample_parent_sample_ids": [
+        ],
+        "sample_password_protected": false,
+        "sample_pe_signature": null,
+        "sample_priority": 7,
+        "sample_sha1hash": "960aebe953a46e9fba63203feb38566001d3648a",
+        "sample_sha256hash": "9e4cf379b7ccedcf1bf521fee850d9c9de96153a691c05e50a7a9d8333495515",
+        "sample_ssdeephash": "3:N8SP3uwVQokyMAwMIIPBhMJNMPHxXgxQeOE6fKP3u2NerLIK:2SmwVQjMDPBWORktOE6fKm24fIK",
+        "sample_type": "URL",
+        "sample_url": "https://docs.google.com/spreadsheet/viewform?formkey=dGg2Z1lCUHlSdjllTVNRUW50TFIzSkE6MQ,https://docs.google.com, https://api.google.com",
+        "sample_webif_url": "https://us.cloud.vmray.com/samples/13824015",
+        "submission_filename": "https://docs.google.com/spreadsheet/viewform?formkey=dGg2Z1lCUHlSdjllTVNRUW50TFIzSkE6MQ,https://docs.google.com, https://api.google.com"
+      }
+    ],
+    "static_jobs": [
+    ],
+    "submissions": [
+      {
+        "submission_analysis_cache_ids": [
+        ],
+        "submission_analyzer_mode_ai_based_phishing_detection": "normal",
+        "submission_analyzer_mode_analysis_caching": "disabled",
+        "submission_analyzer_mode_analyzer_mode": "reputation_static_dynamic",
+        "submission_analyzer_mode_archive_action": "sample",
+        "submission_analyzer_mode_detonate_links_in_documents": "smart",
+        "submission_analyzer_mode_detonate_links_in_emails": "smart",
+        "submission_analyzer_mode_disk_image_action": "compound_sample",
+        "submission_analyzer_mode_enable_reputation": true,
+        "submission_analyzer_mode_enable_whois": true,
+        "submission_analyzer_mode_id": 2254422,
+        "submission_analyzer_mode_known_benign": false,
+        "submission_analyzer_mode_known_malicious": false,
+        "submission_analyzer_mode_max_dynamic_analyses_per_sample": "default",
+        "submission_analyzer_mode_max_recursive_samples": "10",
+        "submission_analyzer_mode_ml_based_phishing_detection": "normal",
+        "submission_analyzer_mode_triage": "custom",
+        "submission_analyzer_mode_triage_error_handling": null,
+        "submission_api_key_id": 2170,
+        "submission_billing_type": "analyzer",
+        "submission_comment": "Pushed from Netskope CE Threat Exchange",
+        "submission_consumed_quota": 0,
+        "submission_created": "2026-06-15T09:27:14",
+        "submission_deletion_date": "2026-12-12T09:27:14",
+        "submission_dll_call_mode": null,
+        "submission_dll_calls": null,
+        "submission_document_password": null,
+        "submission_enable_custom_av": false,
+        "submission_enable_local_av": false,
+        "submission_filename": "https://docs.google.com/spreadsheet/viewform?formkey=dGg2Z1lCUHlSdjllTVNRUW50TFIzSkE6MQ,https://docs.google.com, https://api.google.com",
+        "submission_finish_time": null,
+        "submission_finished": false,
+        "submission_has_errors": null,
+        "submission_has_recursive_errors": null,
+        "submission_id": 14547658,
+        "submission_interface_name": "Netskope Cloud Exchange",
+        "submission_ip_id": 1218717,
+        "submission_ip_ip": "103.108.207.58",
+        "submission_job_cache_ids": [
+        ],
+        "submission_known_configuration": false,
+        "submission_number_cached_analyses": 0,
+        "submission_number_created_jobs": 3,
+        "submission_original_filename": null,
+        "submission_original_url": "https://docs.google.com/spreadsheet/viewform?formkey=dGg2Z1lCUHlSdjllTVNRUW50TFIzSkE6MQ,https://docs.google.com, https://api.google.com",
+        "submission_parent_submission_id": null,
+        "submission_prescript_force_admin": false,
+        "submission_prescript_id": null,
+        "submission_priority": 9,
+        "submission_quota_type": "report",
+        "submission_recursive": false,
+        "submission_reputation_job_cache_id": null,
+        "submission_reputation_lookup_cache_id": null,
+        "submission_reputation_mode": "disabled",
+        "submission_retention_period": 180,
+        "submission_sample_id": 13824015,
+        "submission_sample_md5": "e9e73f6ae078cfd5a24bddc40043e4b3",
+        "submission_sample_sha1": "960aebe953a46e9fba63203feb38566001d3648a",
+        "submission_sample_sha256": "9e4cf379b7ccedcf1bf521fee850d9c9de96153a691c05e50a7a9d8333495515",
+        "submission_sample_ssdeep": "3:N8SP3uwVQokyMAwMIIPBhMJNMPHxXgxQeOE6fKP3u2NerLIK:2SmwVQjMDPBWORktOE6fKm24fIK",
+        "submission_score": null,
+        "submission_severity": null,
+        "submission_shareable": false,
+        "submission_status": "in_progress",
+        "submission_submission_metadata": "{\"source_plugin\": \"Postman\"}",
+        "submission_submitter_email": null,
+        "submission_system_time": null,
+        "submission_tags": [
+          "multipleurls",
+          "netskope-ce"
+        ],
+        "submission_triage_error_handling": null,
+        "submission_triage_stage": null,
+        "submission_triaged": null,
+        "submission_type": "api",
+        "submission_used_cache": false,
+        "submission_user_account_id": 767,
+        "submission_user_account_name": "Netskope NFR",
+        "submission_user_account_subscription_mode": null,
+        "submission_user_account_type": "integration_partner",
+        "submission_user_email": "vdesai@netskope.com",
+        "submission_user_id": 7752,
+        "submission_verdict": null,
+        "submission_verdict_reason_code": null,
+        "submission_verdict_reason_description": null,
+        "submission_webif_url": "https://us.cloud.vmray.com/samples/13824015",
+        "submission_whois_mode": "disabled"
+      }
+    ],
+    "vt_jobs": [
+    ],
+    "whois_jobs": [
+    ]
+  },
+  "result": "ok"
+}
+Search Submissions
+Endpoint:
+GET /rest/submission/search
+Request Headers:
+Key
+Value
+Authorization
+api_key {api_token}
+Content-Type
+application/json
+Query Parameters:
+Parameter
+Description
+query
+Search query, e.g. url == “{indicator.value}”
+Sample Response:
+{
+  "data": [
+    {
+      "submission_analysis_cache_ids": [
+      ],
+      "submission_analyzer_mode_ai_based_phishing_detection": "normal",
+      "submission_analyzer_mode_analysis_caching": "smart",
+      "submission_analyzer_mode_analyzer_mode": "static_dynamic",
+      "submission_analyzer_mode_archive_action": "sample",
+      "submission_analyzer_mode_detonate_links_in_documents": "smart",
+      "submission_analyzer_mode_detonate_links_in_emails": "smart",
+      "submission_analyzer_mode_disk_image_action": "compound_sample",
+      "submission_analyzer_mode_enable_reputation": true,
+      "submission_analyzer_mode_enable_whois": false,
+      "submission_analyzer_mode_id": 2245384,
+      "submission_analyzer_mode_known_benign": false,
+      "submission_analyzer_mode_known_malicious": false,
+      "submission_analyzer_mode_max_dynamic_analyses_per_sample": "default",
+      "submission_analyzer_mode_max_recursive_samples": "10",
+      "submission_analyzer_mode_ml_based_phishing_detection": "normal",
+      "submission_analyzer_mode_triage": "custom",
+      "submission_analyzer_mode_triage_error_handling": null,
+      "submission_api_key_id": 2168,
+      "submission_billing_type": "analyzer",
+      "submission_comment": "Netskope CE",
+      "submission_consumed_quota": 1,
+      "submission_created": "2026-06-11T07:38:05",
+      "submission_deletion_date": "2026-12-08T07:38:05",
+      "submission_dll_call_mode": null,
+      "submission_dll_calls": null,
+      "submission_document_password": null,
+      "submission_enable_custom_av": false,
+      "submission_enable_local_av": false,
+      "submission_filename": "sample.url",
+      "submission_finish_time": "2026-06-11T08:08:25",
+      "submission_finished": true,
+      "submission_has_errors": false,
+      "submission_has_recursive_errors": false,
+      "submission_id": 14512551,
+      "submission_interface_name": "CloudExchange",
+      "submission_ip_id": 1242821,
+      "submission_ip_ip": "14.96.106.184",
+      "submission_job_cache_ids": [
+      ],
+      "submission_known_configuration": false,
+      "submission_number_cached_analyses": 0,
+      "submission_number_created_jobs": 2,
+      "submission_original_filename": null,
+      "submission_original_url": "coincafe.com",
+      "submission_parent_submission_id": null,
+      "submission_prescript_force_admin": false,
+      "submission_prescript_id": null,
+      "submission_priority": 7,
+      "submission_quota_type": "report",
+      "submission_recursive": false,
+      "submission_reputation_job_cache_id": null,
+      "submission_reputation_lookup_cache_id": null,
+      "submission_reputation_mode": "auxiliary",
+      "submission_retention_period": 180,
+      "submission_sample_id": 14106861,
+      "submission_sample_md5": "b338596ef9b606d198109bd2840fd38a",
+      "submission_sample_sha1": "8f51a039d9eb233ba29c65844f46bd82b77ebca4",
+      "submission_sample_sha256": "8b6f8c062941cbb3fb43eed1331d8beaa9c7156705ffa5fcc3fda858c9811dba",
+      "submission_sample_ssdeep": "3:N1KdKMy7LK:CIMy72",
+      "submission_sample_verdict": "malicious",
+      "submission_sample_verdict_reason_code": null,
+      "submission_sample_verdict_reason_description": null,
+      "submission_score": 100,
+      "submission_severity": "malicious",
+      "submission_shareable": false,
+      "submission_status": "success",
+      "submission_submission_metadata": "{\"ce_severity\": \"SeverityType.UNKNOWN\", \"ce_reputation\": \"5\", \"ioc_comment\": \"Application: Coincafe\"}",
+      "submission_submitter_email": null,
+      "submission_system_time": null,
+      "submission_tags": [
+        "Sanctioned",
+        "Netskope-CE-Microsoft-Defender-for-Cloud-Apps"
+      ],
+      "submission_triage_error_handling": null,
+      "submission_triage_stage": null,
+      "submission_triaged": null,
+      "submission_type": "api",
+      "submission_used_cache": false,
+      "submission_user_account_id": 767,
+      "submission_user_account_name": "Netskope NFR",
+      "submission_user_account_subscription_mode": null,
+      "submission_user_account_type": "integration_partner",
+      "submission_user_email": "vdesai@netskope.com",
+      "submission_user_id": 7752,
+      "submission_verdict": "malicious",
+      "submission_verdict_reason_code": null,
+      "submission_verdict_reason_description": null,
+      "submission_webif_url": "https://us.cloud.vmray.com/samples/14106861",
+      "submission_whois_mode": "disabled"
+    }
+  ],
+  "result": "ok"
+}
+Delete Submission
+Endpoint:
+DELETE /rest/submission/{submission_id}
+Request Headers:
+Key
+Value
+Authorization
+api_key {api_token}
+Content-Type
+application/json
+Sample Response:
+{
+  "result": "ok"
+}
+Performance Matrix
+This reading is conducted on a Large CE Stack with these specifications by pulling and pushing 100k IoCs.
+Description
+Specification
+Stack Size
+Large,
+RAM: 32 GB,
+Core: 16
+Indicators fetched from VMRay
+~6k per min
+Indicators shared to VMRay
+~100 per min
+Note
+The performance is done with only 100 indicators as the plugin will push indicators in batch on 1.
+We have noticed that our instance had a limit of 1000 submissions created per month, so if your instance has such a limit, you might not be able to push indicators more than the limit. For more information refer to
+troubleshooting
+.
+User Agent
+netskope-ce-6.1.0-cte-vmray-v1.0.0
+Workflow
+Create Role and Assign it to a User
+Generate API Token from VMRay
+Configure Netskope Tenant
+Configure the VMRay Plugin
+Configure a Threat Exchange Business Rule for VMRay
+Configure Sharing for Netskope and VMRay
+Validate the VMRay Plugin
+Watch a Video
+Click play to watch a video.
+Create Role and Assign it to a User
+In VMRay, go to the
+Settings > Accounts > General > Available Roles > Manage
+.
+Click
+Create New Role.
+Provide the name for the role and provide
+permissions
+.
+Click
+Save
+.
+The role is created, then assign this role to a user.
+Go to the
+Settings > Accounts > Active users.
+Click on three dots for the User you want to attach the role and click
+Assign Role.
+Select the created role and click
+Save
+.
+Generate an API Token from VMRay
+Go to
+Settings > Analysis > Interfaces > API Keys
+.
+Click
+Create New API Key
+.
+Provide the name for the API Token and click
+Save.
+Copy the API token to use to configure the plugin.
+For the permissions, you should have the token created using the account with these
+permissions
+.
+Configure the VMRay Plugin
+In Cloud Exchange, go to
+Settings > Plugin Store
+. Search for and select the
+VMRay v1.0.0 (CTE)
+plugin.
+Enter the Basic Information:
+Configuration Name:
+The plugin configuration name.
+Sync Interval:
+The Interval to fetch data from this plugin and share data to this plugin from other sources.
+Aging Criteria:
+Expires indicators after specific time.
+Override Reputation:
+Set a value to override reputation of indicators received from this configuration. Leave empty to keep default.
+Tags Aggregate Strategy:
+Choose whether to append new tags to existing IoC(s) or overwrite them. This configuration parameter determines how tags are stored for indicators pulled for this configuration.
+Enable SSL Validation:
+Enable SSL certificate verification.
+Click
+Next
+and enter the Configuration Parameters:
+Base URL:
+The Base URL of your VMRay instance. For example: https://
+<region>
+.cloud.vmray.com
+API Token:
+The API Token for authenticating with the VMRay platform that you created previously.
+Type of Verdict:
+Select the verdict types of IoC(s) to pull from VMRay submissions.
+Type of Threat Data to Pull:
+Select the types of IoC(s) to pull from VMRay. Leave empty to pull all supported IoC(s) types.
+Enable Polling:
+Enable/Disable polling Threat IoC(s) from VMRay. Disable if you only need to push Threat IOC(s) to VMRay.
+Enable Push Retraction:
+Enable/Disable push retraction of IoC(s) from VMRay. When enabled, previously pushed IOC(s) to VMRay will be deleted when retracted in CE. Note: All related submission data and analyses will be deleted from your account as well.
+Retraction Interval (in days):
+The number of days to use as the retraction interval for VMRay submissions retraction. This parameter is applicable only if
+IoC Retraction
+is enabled in your Threat Exchange settings. Valid values are in range from 1 to 100000 days.
+Initial Range (in days):
+The number of days to pull indicators for the initial run. Valid values are in range from 1 to 100000 days.
+Click
+Save
+. The configuration appears on the
+Threat Exchange > Plugins
+page.
+Configure a Threat Exchange Business Rule for VMRay
+To share indicators fetched from the VMRay to Threate Exchange, you need to have a business rule that will filter out the indicators that you want to share. To configure a business rule:
+In Threat Exchange, go to
+Business Rules
+and click
+Create New Rule
+.
+Add the filter according to your requirements in the rule and then click
+Save
+.
+Configure Sharing for Netskope and VMRay
+In order to add Sharing configuration, a third-party Threat Exchange plugin, like
+CrowdStrike
+, has to be configured before proceeding. You need both a source and destination plugin (configurations) to add a Sharing configuration.
+VMRay plugin supports the following sharing:
+Add to URL Basic Analysis:
+This will add URLs, IPv4s, Domains and FQDNs to basic analysis and create a submission for the same.
+To share IoCs from the VMRay to Cloud Exchange:
+In Threat Exchange, go to
+Sharing
+and click
+Add Sharing Configuration
+.
+Select your Source Configuration (CTE Netskope), Business Rule, Destination Configuration (CTE VMRay), and Target.
+Provide this information:
+Reputation Analysis:
+Select Reputation Analysis for URL basic analysis. Set to True to find out if this sample is known to be malicious or benign. Default value is True.
+Submission Comment:
+Optional comment for URL basic analysis. Allowed maximum 255 characters.
+Click
+Save
+.
+Note
+As the VMRay plugin supports pulling URL, IPv4, Domain, FQDN, SHA256, and MD5, you can perform these actions on Netskope using these indicators:
+Add to URL List
+Add to File Hash List
+Add to Private App
+Add to Destination Profile
+Add to DNS Profile
+Validate the VMRay Plugin
+Validate the Pull
+Validate in VMRay
+To check available indicators on VMRay, you can follow the below steps
+Log in to the VMRay instance.
+From the left panel, go to the
+Submission
+page.
+To check the IoCs under the submission, click on any of the submissions and go to the IoCs section.
+Validate in Cloud Exchange
+Pulled data will be listed on the Threat IoCs page. You can filter the IoCs pulled from the platform using the filter:
+sources.source Like “<plugin configuration name>”
+.
+To verify pulled logs on Cloud Exchange, go to
+Logging
+and search logs from the VMRay plugin.
+Validate the Pull Retraction
+The pull retraction for the plugin is done based on the indicators available on the VMRay instance provided in the plugin configuration and retraction interval. If any indicator is removed from the VMRay platform or it is falling outside the retraction interval, it will be marked as retracted in Cloud Exchange.
+You can filter the logs related to retraction by using the filter:
+message Contains “[Retraction]”
+.
+To validate the retracted IoCs on the Threat IoCs page, apply the filter:
+Retracted Is equal Yes
+, along with the source filter for the plugin configuration name.
+When IoCs pulled from VMRay are marked as retracted
+yes
+, they will be marked as
+“\<plugin-config-name\>: retracted”
+in the Retraction Result if that IoC was already shared to a Netskope tenant or third-party platform and that destination plugin supports push retraction.
+Validate the Push
+After the sharing configuration is complete, wait for the next sync cycle.
+Log in to your VMRay instance and go to
+Submissions
+.
+Search for the submitted indicator and confirm the submission appears with the
+Netskope-CE-{plugin_name}
+tag in the submission details.
+Validate the Push Retraction
+Ensure
+Enable Push Retraction
+is set to
+Yes
+in the VMRay plugin configuration.
+Verify the logs in logging page with filter like
+message Contains “[Retraction]”
+.
+Log in to your VMRay instance and go to
+Submissions
+. Confirm the corresponding submissions have been deleted.
+IoCs that were marked Retracted
+Yes
+in Cloud Exchange will also be deleted from VMRay after the push retraction is processed. All related submission data and analyses will also be deleted from your VMRay account.
+Troubleshooting the VMRay Plugin
+Receiving error while configuring the plugin or pulling data
+If you are receiving the error while configuring the plugin, this issue may be due to the Base URL and API Token being invalid or deleted.
+What to do:
+Check the plugin credentials if the Base URL and API Token is valid. If it is valid, check if the
+credentials
+that you are using are still available on VMRay.
+Unable to pull IoCs from the VMRay platform
+After the plugin configuration, if the IoCs are not pulled from the platform, it might be due to one of these reasons:
+No IoCs are available on the platform to pull
+IoCs are not available for the given configuration parameters (like Types of Threat data to pull).
+What to do:
+Identity your root cause from above and follow these steps to resolve the issue.
+No IoCs are available on the platform to pull:
+Check if the IoCs are
+available on the platform
+to pull. If available, check the resolution for the next point.
+IoCs are not available for the given time range
+If the IoCs are available on the platform to pull, but the plugin has not pulled the IoCs in Cloud Exchange, check the number of days mentioned in the initial range parameter of the plugin configuration. On the VMRay platform, check if you have data for the given time range.
+If the data is still available for the given time range, it might be possible that the IoCs for the provided filter in the plugin configuration are not available, so check the values from the plugin configuration parameter and filter the same on the VMRay platform.
+Unable to share IoCs to VMRay
+If you are getting this error while sharing indicators to VMRay:
+CTE VMRay [CTE VMRay]: An error occured while sharing indicator(s) to VMRay due to quota exceeded.
+It is due to the quota limitation on the VMRay platform.
+What to do:
+Verify the quota used on your VMRay instance from the
+Reports Usage
+dashboard.
+In this Topic
+VMRay Plugin for Threat Exchange
+
+---
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection/
 **Last Modified:** 2026-05-07T18:16:07+00:00
-**Scraped:** 2026-07-06T11:00:53.043544+00:00
+**Scraped:** 2026-07-07T10:27:12.145573+00:00
 
+Threat Protection - Netskope Knowledge Portal
 Threat Protection
 Modern threats need a multi-layered security approach able to defend organizations from known threats and zero-days with the same level of efficacy. Netskope has built a comprehensive threat protection framework that allows organizations to defend against malware through different engines including viruses, worms, trojans, ransomware, keyloggers, rootkits, downloaders, backdoors, botnets, spyware, info stealers, adware, mobile threats, potentially unwanted software, fileless malware, crypto-mining, wipers, packers, installers, malicious websites, URLs, malicious scripts (XSS, etc.), HTML smuggling, documents, macros, archives (up to 9 levels), exploits, credential compromise, domains (including Punycode, hijacking, compromise, typosquatting, character substitution, etc.), command and control, data exfiltration, beaconing, and other attacker artifacts, traffic, and malicious infrastructure.
 The Standard Inline Threat engines support:
