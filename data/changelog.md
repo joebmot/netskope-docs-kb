@@ -1,19 +1,11 @@
-# Changelog — 2026-07-08 10:04 UTC
+# Changelog — 2026-07-09 10:41 UTC
 
-**Total pages:** 3450
-**New:** 10  |  **Updated:** 3020  |  **Errors:** 0
+**Total pages:** 3452
+**New:** 2  |  **Updated:** 3032  |  **Errors:** 0
 
 ## New Pages
-- https://docs.netskope.com/en/deploy-client-on-ios-using-iru/
-- https://docs.netskope.com/en/iru/
-- https://docs.netskope.com/en/deploy-client-on-macos-using-iru/
-- https://docs.netskope.com/en/ai-guardrails-on-demand/
-- https://docs.netskope.com/en/netskope-release-notes-version-138-1-5/
-- https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-138-1-5/
-- https://docs.netskope.com/en/netskope-release-notes-version-135-1-20/
-- https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-1-20/
-- https://docs.netskope.com/en/netskope-release-notes-version-132-0-28/
-- https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-132-0-28/
+- https://docs.netskope.com/en/enterprise-browser-product-licensing-terms/
+- https://docs.netskope.com/en/licenses/
 
 ## Updated Pages
 - https://docs.netskope.com/en/about-the-admin-console/
@@ -52,6 +44,7 @@
 - https://docs.netskope.com/en/blocking-online-ads-silently/
 - https://docs.netskope.com/en/bypass-netskope-from-your-vpn/
 - https://docs.netskope.com/en/casb-api-protection/
+- https://docs.netskope.com/en/check-firewall-policy/
 - https://docs.netskope.com/en/block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps/
 - https://docs.netskope.com/en/coach-users-away-from-unsanctioned-applications-and-allow-justification-of-required-use/
 - https://docs.netskope.com/en/cloud-inline-protection/
@@ -65,4 +58,3 @@
 - https://docs.netskope.com/en/create-a-list-of-users-with-most-public-files-stored-in-an-api-protected-service/
 - https://docs.netskope.com/en/create-a-list-of-users-with-non-expiring-links-to-files-stored-in-an-api-protected-service/
 - https://docs.netskope.com/en/create-a-policy-to-block-sharing-with-identified-external-users/
-- https://docs.netskope.com/en/create-a-policy-to-allow-sharing-with-approved-external-users/

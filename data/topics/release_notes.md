@@ -1,14 +1,13 @@
 # Netskope Docs — Release Notes
-_Generated: 2026-07-08 10:04 UTC_
+_Generated: 2026-07-09 10:41 UTC_
 _Pages: 633_
 
 ---
 ## Release Notes Subscription
 **URL:** https://docs.netskope.com/en/release-notes-subscription/
 **Last Modified:** 2026-01-23T18:20:32+00:00
-**Scraped:** 2026-07-08T09:02:22.151363+00:00
+**Scraped:** 2026-07-09T10:00:16.848640+00:00
 
-Release Notes Subscription - Netskope Knowledge Portal
 Release Notes Subscription
 Netskope has transitioned its community portal to a new platform to enhance user experience. Existing subscribers need to re-subscribe to get the latest release notes updates.
 Subscribe to our release notes in Community and get notified about the latest updates.
@@ -32,7 +31,7 @@ Release Notes Subscription
 ## Golden Release Updates Between 117.0.0 and 120.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-117-0-0-and-120-0-0/
 **Last Modified:** 2025-08-31T01:48:03+00:00
-**Scraped:** 2026-07-08T09:07:45.186216+00:00
+**Scraped:** 2026-07-09T10:04:18.961304+00:00
 
 Golden Release Updates Between 117.0.0 and 120.0.0 - Netskope Knowledge Portal
 Golden Release Updates Between 117.0.0 and 120.0.0
@@ -326,8 +325,9 @@ Golden Release Updates Between 117.0.0 and 120.0.0
 ## RELEASE NOTE: Netskope One Enterprise Browser
 **URL:** https://docs.netskope.com/en/release-note-netskope-one-enterprise-browser/
 **Last Modified:** 2026-04-22T17:31:23+00:00
-**Scraped:** 2026-07-08T09:07:48.346187+00:00
+**Scraped:** 2026-07-09T10:04:21.493268+00:00
 
+RELEASE NOTE: Netskope One Enterprise Browser - Netskope Knowledge Portal
 RELEASE NOTE: Netskope One Enterprise Browser
 Santa Clara, California – October 28, 2024
 —Netskope delivers the first SSE-native enterprise browser. Netskope One Enterprise Browser extends the Netskope One SSE platform to unmanaged devices and unmanaged users.
@@ -346,13 +346,12 @@ The user experience is optimized by relegating enterprise access to a self-conta
 Application access is simplified and secured by having a corporate applications home page with app links defined by the admin
 In this Topic
 RELEASE NOTE: Netskope One Enterprise Browser
-RELEASE NOTE: Netskope One Enterprise Browser - Netskope Knowledge Portal
 
 ---
 ## Golden Release Updates Between 120.0.0 and 123.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-120-0-0-and-123-0-0/
 **Last Modified:** 2025-08-31T01:48:03+00:00
-**Scraped:** 2026-07-08T09:09:20.700505+00:00
+**Scraped:** 2026-07-09T10:05:31.245781+00:00
 
 Golden Release Updates Between 120.0.0 and 123.0.0 - Netskope Knowledge Portal
 Golden Release Updates Between 120.0.0 and 123.0.0
@@ -754,8 +753,9 @@ Golden Release Updates Between 120.0.0 and 123.0.0
 ## Enterprise Browser Release and Update Process
 **URL:** https://docs.netskope.com/en/enterprise-browser-release-and-update-process/
 **Last Modified:** 2025-08-31T01:45:04+00:00
-**Scraped:** 2026-07-08T09:09:52.526666+00:00
+**Scraped:** 2026-07-09T10:05:55.511667+00:00
 
+Enterprise Browser Release and Update Process - Netskope Knowledge Portal
 Enterprise Browser Release and Update Process
 This topic outlines the terminology, concepts, and functional requirements for the EB release and update process.
 Netskope Enterprise Browser Release Cycle
@@ -788,13 +788,12 @@ The browser will automatically restart within the hour if the user doesn’t rel
 This configuration is set at the account level. You cannot set this for your account through the UI.
 In this Topic
 Enterprise Browser Release and Update Process
-Enterprise Browser Release and Update Process - Netskope Knowledge Portal
 
 ---
 ## Golden Release Updates Between 123.0.0 and 126.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-123-0-0-and-126-0-0/
 **Last Modified:** 2025-08-31T01:48:02+00:00
-**Scraped:** 2026-07-08T09:12:48.121971+00:00
+**Scraped:** 2026-07-09T10:08:10.217519+00:00
 
 Golden Release Updates Between 123.0.0 and 126.0.0
 Here are the latest features, issues fixed, and other updates published between the golden releases 123.0.0 and 126.0.0. This is a consolidated list of items published in the release notes for versions between 123.0.0 and 126.0.0.
@@ -1177,13 +1176,12 @@ With Protect Client configuration and resources enabled, MSI re-run to update th
 With Protect Client configuration and resources enabled, MSI re-run to update the secure enrollment tokens will not work. You can use nsdiag to update the secure enrollment tokens.
 In this Topic
 Golden Release Updates Between 123.0.0 and 126.0.0
-Golden Release Updates Between 123.0.0 and 126.0.0 - Netskope Knowledge Portal
 
 ---
 ## Golden Release Updates Between 126.0.0 and 129.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-126-0-0-and-129-0-0/
 **Last Modified:** 2025-08-31T01:48:02+00:00
-**Scraped:** 2026-07-08T09:16:55.288251+00:00
+**Scraped:** 2026-07-09T10:11:07.734623+00:00
 
 Golden Release Updates Between 126.0.0 and 129.0.0
 Here are the latest features, issues fixed, and other updates published between the golden releases 126.0.0 and 129.0.0. This is a consolidated list of items published in the release notes for versions between 126.0.0 and 129.0.0.
@@ -1549,14 +1547,14 @@ When an IDP user is disabled, Netskope Client did not get disabled promptly.
 With Protect Client configuration and resources enabled, MSI re-run to update the secure enrollment tokens will not work. You can use nsdiag to update the secure enrollment tokens.
 In this Topic
 Golden Release Updates Between 126.0.0 and 129.0.0
-Golden Release Updates Between 126.0.0 and 129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Golden Release Updates Between 129.0.0 and 132.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-129-0-0-and-132-0-0/
 **Last Modified:** 2025-11-05T11:04:21+00:00
-**Scraped:** 2026-07-08T09:19:56.339851+00:00
+**Scraped:** 2026-07-09T10:13:19.384195+00:00
 
+Golden Release Updates Between 129.0.0 and 132.0.0 - Netskope Knowledge Portal
 Golden Release Updates Between 129.0.0 and 132.0.0
 Here are the latest features, issues fixed, and other updates published between the golden releases 129.0.0 and 132.0.0. This is a consolidated list of items published in the release notes for versions between 129.0.0 and 132.0.0.
 Use
@@ -2027,8 +2025,9 @@ Golden Release Updates Between 129.0.0 and 132.0.0
 ## FedRAMP Rev. 5 Mandatory Balance Improvement Release - Secure Configuration Guide
 **URL:** https://docs.netskope.com/en/fedramp-rev-5-mandatory-balance-improvement-release-secure-configuration-guide/
 **Last Modified:** 2026-07-01T22:39:05+00:00
-**Scraped:** 2026-07-08T09:23:30.245771+00:00
+**Scraped:** 2026-07-09T10:16:19.174449+00:00
 
+FedRAMP Rev. 5 Mandatory Balance Improvement Release - Secure Configuration Guide - Netskope Knowledge Portal
 FedRAMP Rev. 5 Mandatory Balance Improvement Release - Secure Configuration Guide
 Objective
 In accordance with the FedRAMP Rev. 5 Mandatory Balance Improvement Release (BIR)
@@ -2065,13 +2064,12 @@ Create a Netskope Support Admin
 Refer to the SSP Appendix D – User Guide, which includes the references and instructions mentioned in this article.
 In this Topic
 FedRAMP Rev. 5 Mandatory Balance Improvement Release - Secure Configuration Guide
-FedRAMP Rev. 5 Mandatory Balance Improvement Release - Secure Configuration Guide - Netskope Knowledge Portal
 
 ---
 ## Golden Release Updates Between 132.0.0 and 135.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-132-0-0-and-135-0-0/
 **Last Modified:** 2026-03-10T15:06:58+00:00
-**Scraped:** 2026-07-08T09:23:53.925606+00:00
+**Scraped:** 2026-07-09T10:16:35.742946+00:00
 
 Golden Release Updates Between 132.0.0 and 135.0.0 - Netskope Knowledge Portal
 Golden Release Updates Between 132.0.0 and 135.0.0
@@ -2518,8 +2516,9 @@ Golden Release Updates Between 132.0.0 and 135.0.0
 ## Netskope Add-on for Splunk Release Notes
 **URL:** https://docs.netskope.com/en/netskope-add-on-for-splunk-release-notes/
 **Last Modified:** 2026-05-29T10:50:22+00:00
-**Scraped:** 2026-07-08T09:24:08.850760+00:00
+**Scraped:** 2026-07-09T10:16:48.822712+00:00
 
+Netskope Add-on for Splunk Release Notes - Netskope Knowledge Portal
 Netskope Add-on for Splunk Release Notes
 Version 4.4.0
 Added support for Netskope Log Streaming (NLS) sourcetypes with CSV parsing.
@@ -2575,13 +2574,12 @@ Added ‘Netskope Quarantine File’ Alert Action, to move malware alert file to
 Added ‘Storage Account’ tab in the ‘Configuration’ page to configure Azure storage account details.
 In this Topic
 Netskope Add-on for Splunk Release Notes
-Netskope Add-on for Splunk Release Notes - Netskope Knowledge Portal
 
 ---
 ## Golden Release Updates Between 135.0.0 and 138.0.0
 **URL:** https://docs.netskope.com/en/golden-release-updates-between-135-0-0-and-138-0-0/
 **Last Modified:** 2026-06-07T13:11:52+00:00
-**Scraped:** 2026-07-08T09:27:25.198285+00:00
+**Scraped:** 2026-07-09T10:19:33.444075+00:00
 
 Golden Release Updates Between 135.0.0 and 138.0.0 - Netskope Knowledge Portal
 Golden Release Updates Between 135.0.0 and 138.0.0
@@ -2997,43 +2995,44 @@ Golden Release Updates Between 135.0.0 and 138.0.0
 ## Netskope Inline App Connector
 **URL:** https://docs.netskope.com/en/netskope-inline-app-connector-release-notes/
 **Last Modified:** 2026-04-22T19:31:58+00:00
-**Scraped:** 2026-07-08T09:29:23.700383+00:00
+**Scraped:** 2026-07-09T10:21:18.527408+00:00
 
+Netskope Inline App Connector - Netskope Knowledge Portal
 Netskope Inline App Connector
 In this Topic
 Netskope Inline App Connector
-Netskope Inline App Connector - Netskope Knowledge Portal
 
 ---
 ## Physical Appliance - Deprecated
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes/
 **Last Modified:** 2026-04-16T16:20:05+00:00
-**Scraped:** 2026-07-08T09:29:26.274026+00:00
+**Scraped:** 2026-07-09T10:21:19.687510+00:00
 
+Physical Appliance - Deprecated - Netskope Knowledge Portal
 Physical Appliance - Deprecated
 Netskope’s on-premises Cloud Access Security Broker (CASB) provides the ability to process and maintain data inside an enterprise’s perimeter. Get all the latest updates such as new features, enhancements, known issues, and fixed issues about Netskope’s on-premises Cloud Access Security Broker (CASB).
 In this Topic
 Physical Appliance - Deprecated
-Physical Appliance - Deprecated - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes/
 **Last Modified:** 2025-12-30T22:51:49+00:00
-**Scraped:** 2026-07-08T09:29:28.851152+00:00
+**Scraped:** 2026-07-09T10:21:20.849320+00:00
 
+Virtual Appliance - Netskope Knowledge Portal
 Virtual Appliance
 The Virtual Appliance provides a footprint as part of the CASB solution inside an enterprise’s perimeter. Get all latest updates such as new features, enhancements, known issues, and fixed issues for Netskope’s on-premises Cloud Access Security Broker (CASB).
 In this Topic
 Virtual Appliance
-Virtual Appliance - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 100.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-100-1-0/
 **Last Modified:** 2025-08-31T02:00:21+00:00
-**Scraped:** 2026-07-08T09:30:27.159767+00:00
+**Scraped:** 2026-07-09T10:21:54.096108+00:00
 
+Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 100.1.0
 We are excited to announce our release 100.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3043,14 +3042,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 102.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-102-1-0/
 **Last Modified:** 2025-08-31T01:59:58+00:00
-**Scraped:** 2026-07-08T09:30:30.088716+00:00
+**Scraped:** 2026-07-09T10:21:55.352113+00:00
 
+Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 102.1.0
 We are excited to announce our release 102.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3060,14 +3059,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 101.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-101-1-0/
 **Last Modified:** 2025-08-31T02:00:10+00:00
-**Scraped:** 2026-07-08T09:30:32.868056+00:00
+**Scraped:** 2026-07-09T10:21:56.518723+00:00
 
+Netskope Release Notes Hotfix Version 101.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 101.1.0
 We are excited to announce our release 101.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3076,14 +3075,14 @@ Release Notes Subscription
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 101.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.0.3
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-105-0-3/
 **Last Modified:** 2025-08-31T01:59:39+00:00
-**Scraped:** 2026-07-08T09:30:35.517016+00:00
+**Scraped:** 2026-07-09T10:21:57.682076+00:00
 
+Netskope Release Notes Hotfix Version 105.0.3 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.0.3
 We are excited to announce our release 105.0.3 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3094,14 +3093,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
-Netskope Release Notes Hotfix Version 105.0.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 104.0.12
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-104-0-12/
 **Last Modified:** 2025-08-31T01:59:46+00:00
-**Scraped:** 2026-07-08T09:30:38.089389+00:00
+**Scraped:** 2026-07-09T10:21:58.848745+00:00
 
+Netskope Release Notes Hotfix Version 104.0.12 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 104.0.12
 We are excited to announce our release 104.0.12 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3112,14 +3111,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
-Netskope Release Notes Hotfix Version 104.0.12 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 88.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-88-1-0/
 **Last Modified:** 2025-08-31T02:01:57+00:00
-**Scraped:** 2026-07-08T09:30:39.648161+00:00
+**Scraped:** 2026-07-09T10:22:00.020947+00:00
 
+Netskope Hotfix Release Notes Version 88.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 88.1.0
 We are excited to announce our hotfix release 88.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3162,14 +3161,14 @@ here
 (requires a login).
 What's New
 Fixed Issues
-Netskope Hotfix Release Notes Version 88.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-105-1-0/
 **Last Modified:** 2025-08-31T01:59:33+00:00
-**Scraped:** 2026-07-08T09:30:42.236050+00:00
+**Scraped:** 2026-07-09T10:22:01.190663+00:00
 
+Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.1.0
 Published on:  June 15
 th
@@ -3185,14 +3184,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 90.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-90-1-0/
 **Last Modified:** 2025-08-31T02:01:48+00:00
-**Scraped:** 2026-07-08T09:30:43.790443+00:00
+**Scraped:** 2026-07-09T10:22:02.359709+00:00
 
+Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 90.1.0
 We are excited to announce our hotfix release 90.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3213,14 +3212,14 @@ Next Generation API Data Protection Platform
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 91.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-91-1-0/
 **Last Modified:** 2025-08-31T02:01:37+00:00
-**Scraped:** 2026-07-08T09:30:45.386949+00:00
+**Scraped:** 2026-07-09T10:22:03.619221+00:00
 
+Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 91.1.0
 We are excited to announce our hotfix release 91.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3230,14 +3229,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 91.2.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-91-2-0/
 **Last Modified:** 2025-08-31T02:01:35+00:00
-**Scraped:** 2026-07-08T09:30:46.945216+00:00
+**Scraped:** 2026-07-09T10:22:04.782711+00:00
 
+Netskope Hotfix Release Notes Version 91.2.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 91.2.0
 We are excited to announce our hotfix release 91.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3245,14 +3244,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 Fixed Issues
-Netskope Hotfix Release Notes Version 91.2.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 93.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-93-1-0/
 **Last Modified:** 2025-08-31T02:01:21+00:00
-**Scraped:** 2026-07-08T09:30:48.516790+00:00
+**Scraped:** 2026-07-09T10:22:05.946580+00:00
 
+Netskope Release Notes Hotfix Version 93.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 93.1.0
 We are excited to announce our hotfix release 93.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3261,14 +3260,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 93.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 92.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-92-1-0/
 **Last Modified:** 2025-08-31T02:01:27+00:00
-**Scraped:** 2026-07-08T09:30:50.065183+00:00
+**Scraped:** 2026-07-09T10:22:07.110461+00:00
 
+Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 92.1.0
 We are excited to announce our hotfix release 92.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3278,14 +3277,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-95-1-0/
 **Last Modified:** 2025-08-31T02:01:08+00:00
-**Scraped:** 2026-07-08T09:30:51.615933+00:00
+**Scraped:** 2026-07-09T10:22:08.280464+00:00
 
+Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3295,14 +3294,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 94.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-94-1-0/
 **Last Modified:** 2025-08-31T02:01:14+00:00
-**Scraped:** 2026-07-08T09:30:53.160857+00:00
+**Scraped:** 2026-07-09T10:22:09.441348+00:00
 
+Netskope Release Notes Hotfix Version 94.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 94.1.0
 We are excited to announce our release 94.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3311,14 +3310,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 94.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.2
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-95-1-2/
 **Last Modified:** 2025-08-31T02:01:03+00:00
-**Scraped:** 2026-07-08T09:30:54.709047+00:00
+**Scraped:** 2026-07-09T10:22:10.604186+00:00
 
+Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.2
 We are excited to announce our release 95.1.2.981 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3328,14 +3327,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 96.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-96-1-0/
 **Last Modified:** 2025-08-31T02:00:54+00:00
-**Scraped:** 2026-07-08T09:30:56.258109+00:00
+**Scraped:** 2026-07-09T10:22:11.767067+00:00
 
+Netskope Release Notes Hotfix Version 96.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 96.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Note Subscription
@@ -3344,14 +3343,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 96.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 98.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-98-1-0/
 **Last Modified:** 2025-08-31T02:00:35+00:00
-**Scraped:** 2026-07-08T09:30:57.807503+00:00
+**Scraped:** 2026-07-09T10:22:12.932601+00:00
 
+Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 98.1.0
 We are excited to announce our release 98.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3361,14 +3360,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 99.0.8
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-99-0-8/
 **Last Modified:** 2025-08-31T02:00:29+00:00
-**Scraped:** 2026-07-08T09:30:59.397434+00:00
+**Scraped:** 2026-07-09T10:22:14.091797+00:00
 
+Netskope Release Notes Hotfix Version 99.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 99.0.8
 We are excited to announce our release 99.0.8 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3376,28 +3375,28 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 99.0.8 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-97-1-5/
 **Last Modified:** 2025-08-31T02:00:42+00:00
-**Scraped:** 2026-07-08T09:31:00.933833+00:00
+**Scraped:** 2026-07-09T10:22:15.254937+00:00
 
+Netskope Release Notes Hotfix Version 97.1.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.5
 We are excited to announce our release 97.1.5 updates! This is an emergency hot fix.
 Release Notes Subscription
 Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 Fixed Issues
-Netskope Release Notes Hotfix Version 97.1.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-97-1-0/
 **Last Modified:** 2025-08-31T02:00:47+00:00
-**Scraped:** 2026-07-08T09:31:02.528517+00:00
+**Scraped:** 2026-07-09T10:22:16.424362+00:00
 
+Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.0
 We are excited to announce our release 97.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3422,69 +3421,69 @@ Next Generation SaaS Security Posture Management
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 103.0.0.7843
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-release-version-103-0-0-7843/
 **Last Modified:** 2025-08-31T02:02:40+00:00
-**Scraped:** 2026-07-08T09:31:04.078788+00:00
+**Scraped:** 2026-07-09T10:22:17.586882+00:00
 
+Netskope Private Access Publisher Release Notes Version 103.0.0.7843 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 103.0.0.7843
 Document Version: 1.0
 Software Version: 103.0.0.7843
 Supported Publisher Version: 103.0.0.7843, 102.0.0.7784, 101.0.0.7619, 99.0.0.7505
 General Availability Date: April, 2023
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 103.0.0.7843 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6526
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-1-4-6526/
 **Last Modified:** 2025-08-31T02:03:11+00:00
-**Scraped:** 2026-07-08T09:31:05.656094+00:00
+**Scraped:** 2026-07-09T10:22:18.750173+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6526 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6526
 Document Version: 1.0
 Software Version: 1.4.6526
 General Availability Date: December, 2021
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6526 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 104.0.0.7933
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-release-version-104-0-0-7933/
 **Last Modified:** 2025-08-31T02:02:36+00:00
-**Scraped:** 2026-07-08T09:31:07.211004+00:00
+**Scraped:** 2026-07-09T10:22:19.924026+00:00
 
+Netskope Private Access Publisher Release Notes Version 104.0.0.7933 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 104.0.0.7933
 Document Version: 1.0
 Software Version: 104.0.0.7933
 Supported Publisher Version: 104.0.0.7933,103.0.0.7843, 102.0.0.7784, 101.0.0.7619
 General Availability Date: May, 2023
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 104.0.0.7933 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6620
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-1-4-6620/
 **Last Modified:** 2025-08-31T02:03:09+00:00
-**Scraped:** 2026-07-08T09:31:08.747141+00:00
+**Scraped:** 2026-07-09T10:22:21.088012+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6620 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6620
 Document Version: 1.0
 Software Version: 1.4.6620
 General Availability Date: January, 2022
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6620 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6431
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-1-4-6431/
 **Last Modified:** 2025-08-31T02:03:14+00:00
-**Scraped:** 2026-07-08T09:31:10.305463+00:00
+**Scraped:** 2026-07-09T10:22:22.250183+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6431
 Document Version: 1.1
 Software Version: 1.4.6431
@@ -3492,28 +3491,28 @@ General Availability Date: October, 2021
 What's New
 Fixed Issues
 Known Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 102.0.0.7784
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-102-0-0-7784/
 **Last Modified:** 2025-08-31T02:02:47+00:00
-**Scraped:** 2026-07-08T09:31:11.920280+00:00
+**Scraped:** 2026-07-09T10:22:23.412598+00:00
 
+Netskope Private Access Publisher Release Notes Version 102.0.0.7784 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 102.0.0.7784
 Document Version: 1.0
 Software Version: 102.0.0.7784
 General Availability Date: March, 2023
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 102.0.0.7784 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 100.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-100-0-0/
 **Last Modified:** 2025-08-31T02:00:25+00:00
-**Scraped:** 2026-07-08T09:31:14.523712+00:00
+**Scraped:** 2026-07-09T10:22:24.681296+00:00
 
+Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 100.0.0
 Netskope Release Note Version 100.0.0
 We are excited to announce our release 100.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -3549,27 +3548,27 @@ In the current release, you can receive audit events and standard user behavior 
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6715
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-1-4-6715/
 **Last Modified:** 2025-08-31T02:03:07+00:00
-**Scraped:** 2026-07-08T09:31:16.101579+00:00
+**Scraped:** 2026-07-09T10:22:25.841433+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6715 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6715
 Document Version: 1.0
 Software Version: 1.4.6715
 General Availability Date: February, 2022
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6715 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 102.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-102-0-0/
 **Last Modified:** 2025-08-31T02:00:06+00:00
-**Scraped:** 2026-07-08T09:31:17.554452+00:00
+**Scraped:** 2026-07-09T10:22:27.014168+00:00
 
+Netskope Release Notes Version 102.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 102.0.0
 We are excited to announce our release 102.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3621,8 +3620,9 @@ Known Issues
 ## Netskope Release Notes Version 101.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-101-0-0/
 **Last Modified:** 2025-08-31T02:00:16+00:00
-**Scraped:** 2026-07-08T09:31:20.270249+00:00
+**Scraped:** 2026-07-09T10:22:28.322890+00:00
 
+Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 101.0.0
 We are excited to announce our release 101.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3632,14 +3632,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 103.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-103-0-0/
 **Last Modified:** 2025-08-31T01:59:55+00:00
-**Scraped:** 2026-07-08T09:31:22.858466+00:00
+**Scraped:** 2026-07-09T10:22:29.491664+00:00
 
+Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 103.0.0
 We are excited to announce our release 103.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3649,14 +3649,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 104.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-104-0-0/
 **Last Modified:** 2025-08-31T01:59:50+00:00
-**Scraped:** 2026-07-08T09:31:25.422347+00:00
+**Scraped:** 2026-07-09T10:22:30.659997+00:00
 
+Netskope Release Notes Version 104.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 104.0.0
 We are excited to announce our release 104.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3669,14 +3669,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 104.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 106.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-106-0-0/
 **Last Modified:** 2025-08-31T01:59:20+00:00
-**Scraped:** 2026-07-08T09:31:28.030387+00:00
+**Scraped:** 2026-07-09T10:22:31.933583+00:00
 
+Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 106.0.0
 Published on: July 6
 th
@@ -3697,14 +3697,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 105.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-105-0-0/
 **Last Modified:** 2025-08-31T01:59:44+00:00
-**Scraped:** 2026-07-08T09:31:30.685438+00:00
+**Scraped:** 2026-07-09T10:22:33.100781+00:00
 
+Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 105.0.0
 We are excited to announce our release 105.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3717,14 +3717,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 89.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-89-0-0/
 **Last Modified:** 2025-08-31T02:01:52+00:00
-**Scraped:** 2026-07-08T09:31:32.231613+00:00
+**Scraped:** 2026-07-09T10:22:34.268290+00:00
 
+Netskope Release Notes Version 89.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 89.0.0
 We are excited to announce our release 89.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3761,14 +3761,14 @@ Ensure EC2 Instance does not have open UDP ports
 The above CSA rule has been modified to Alert only on EC2 instances having Security Group Inbound Rules open to Public Internet IP’s for UDP Ports 22, 80, 443, 1433, 1521, 3306, 3389, 5432, 27017, 27018, 27019.
 What's New
 Fixed Issues
-Netskope Release Notes Version 89.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-93-0-0/
 **Last Modified:** 2025-08-31T02:01:24+00:00
-**Scraped:** 2026-07-08T09:31:34.524678+00:00
+**Scraped:** 2026-07-09T10:22:35.438001+00:00
 
+Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 93.0.0
 We are excited to announce our release 930.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3781,14 +3781,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 92.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-92-0-0/
 **Last Modified:** 2025-08-31T02:01:31+00:00
-**Scraped:** 2026-07-08T09:31:36.294504+00:00
+**Scraped:** 2026-07-09T10:22:36.607035+00:00
 
+Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 92.0.0
 We are excited to announce our release 92.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3806,27 +3806,27 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 95.0.0.7066
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-95-0-0-7066/
 **Last Modified:** 2025-08-31T02:03:04+00:00
-**Scraped:** 2026-07-08T09:31:39.413369+00:00
+**Scraped:** 2026-07-09T10:22:37.770027+00:00
 
+Netskope Private Access Publisher Release Notes Version 95.0.0.7066 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 95.0.0.7066
 Document Version: 1.0
 Software Version: 95.0.0.7066
 General Availability Date: June, 2022
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 95.0.0.7066 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 94.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-94-0-0/
 **Last Modified:** 2025-08-31T02:01:18+00:00
-**Scraped:** 2026-07-08T09:31:40.997742+00:00
+**Scraped:** 2026-07-09T10:22:38.940300+00:00
 
+Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 94.0.0
 We are excited to announce our release 94.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3854,14 +3854,14 @@ With the current release, you can receive audit events and standard user behavio
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 91.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-91-0-0/
 **Last Modified:** 2025-08-31T02:01:41+00:00
-**Scraped:** 2026-07-08T09:31:42.572847+00:00
+**Scraped:** 2026-07-09T10:22:40.130067+00:00
 
+Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 91.0.0
 We are excited to announce our release 91.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3885,14 +3885,14 @@ Your account must be enabled for Cloud Firewall and an additional license is req
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 95.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-95-0-0/
 **Last Modified:** 2025-08-31T02:01:11+00:00
-**Scraped:** 2026-07-08T09:31:44.176632+00:00
+**Scraped:** 2026-07-09T10:22:41.299287+00:00
 
+Netskope Release Notes Version 95.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 95.0.0
 We are excited to announce our release 95.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3906,27 +3906,27 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Version 95.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 96.0.0.7170
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-96-0-0-7170/
 **Last Modified:** 2025-08-31T02:03:06+00:00
-**Scraped:** 2026-07-08T09:31:45.725440+00:00
+**Scraped:** 2026-07-09T10:22:42.463007+00:00
 
+Netskope Private Access Publisher Release Notes Version 96.0.0.7170 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 96.0.0.7170
 Document Version: 1.0
 Software Version: 96.0.0.7170
 General Availability Date: July, 2022
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 96.0.0.7170 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-96-0-0/
 **Last Modified:** 2025-08-31T02:00:58+00:00
-**Scraped:** 2026-07-08T09:31:47.294286+00:00
+**Scraped:** 2026-07-09T10:22:43.632678+00:00
 
+Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 96.0.0
 We are excited to announce our release 96.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3951,14 +3951,14 @@ In the current release, you can receive audit events and standard user behavior 
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 97.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-97-0-0/
 **Last Modified:** 2025-08-31T02:00:51+00:00
-**Scraped:** 2026-07-08T09:31:48.867008+00:00
+**Scraped:** 2026-07-09T10:22:44.797914+00:00
 
+Netskope Release Notes Version 97.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 97.0.0
 We are excited to announce our release 97.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -3968,14 +3968,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 97.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 98.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-98-0-0/
 **Last Modified:** 2025-08-31T02:00:39+00:00
-**Scraped:** 2026-07-08T09:31:50.449384+00:00
+**Scraped:** 2026-07-09T10:22:46.188827+00:00
 
+Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 98.0.0
 We are excited to announce our release 98.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -3991,27 +3991,27 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 98.1.0.7432
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-98-1-0-7432/
 **Last Modified:** 2025-08-31T02:02:56+00:00
-**Scraped:** 2026-07-08T09:31:52.008809+00:00
+**Scraped:** 2026-07-09T10:22:47.348719+00:00
 
+Netskope Private Access Publisher Release Notes Version 98.1.0.7432 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 98.1.0.7432
 Document Version: 1.0
 Software Version: 98.1.0.7432
 General Availability Date: September, 2022
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 98.1.0.7432 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-99-0-0/
 **Last Modified:** 2025-08-31T02:00:32+00:00
-**Scraped:** 2026-07-08T09:31:55.160673+00:00
+**Scraped:** 2026-07-09T10:22:49.686051+00:00
 
+Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 99.0.0
 We are excited to announce our release 99.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4025,14 +4025,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 100.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-100-1-0/
 **Last Modified:** 2025-08-31T02:00:20+00:00
-**Scraped:** 2026-07-08T09:32:48.845713+00:00
+**Scraped:** 2026-07-09T10:23:15.557618+00:00
 
+Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 100.1.0
 We are excited to announce our release 100.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4042,14 +4042,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 101.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-101-1-0/
 **Last Modified:** 2025-08-31T02:00:11+00:00
-**Scraped:** 2026-07-08T09:32:54.000066+00:00
+**Scraped:** 2026-07-09T10:23:17.986027+00:00
 
+Netskope Release Notes Hotfix Version 101.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 101.1.0
 We are excited to announce our release 101.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4058,14 +4058,14 @@ Release Notes Subscription
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 101.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 102.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-102-1-0/
 **Last Modified:** 2025-08-31T01:59:59+00:00
-**Scraped:** 2026-07-08T09:32:56.580619+00:00
+**Scraped:** 2026-07-09T10:23:19.148730+00:00
 
+Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 102.1.0
 We are excited to announce our release 102.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4075,14 +4075,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-105-1-0/
 **Last Modified:** 2025-08-31T01:59:34+00:00
-**Scraped:** 2026-07-08T09:32:59.186018+00:00
+**Scraped:** 2026-07-09T10:23:20.312950+00:00
 
+Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.1.0
 Published on:  June 15
 th
@@ -4098,14 +4098,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 91.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-91-1-0/
 **Last Modified:** 2025-08-31T02:01:38+00:00
-**Scraped:** 2026-07-08T09:33:00.746763+00:00
+**Scraped:** 2026-07-09T10:23:21.478198+00:00
 
+Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 91.1.0
 We are excited to announce our hotfix release 91.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4115,14 +4115,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 90.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-90-1-0/
 **Last Modified:** 2025-08-31T02:01:50+00:00
-**Scraped:** 2026-07-08T09:33:02.306289+00:00
+**Scraped:** 2026-07-09T10:23:22.650511+00:00
 
+Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 90.1.0
 We are excited to announce our hotfix release 90.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4143,14 +4143,14 @@ Next Generation API Data Protection Platform
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 92.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-92-1-0/
 **Last Modified:** 2025-08-31T02:01:28+00:00
-**Scraped:** 2026-07-08T09:33:03.853871+00:00
+**Scraped:** 2026-07-09T10:23:23.816418+00:00
 
+Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 92.1.0
 We are excited to announce our hotfix release 92.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4160,14 +4160,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-95-1-0/
 **Last Modified:** 2025-08-31T02:01:09+00:00
-**Scraped:** 2026-07-08T09:33:05.405276+00:00
+**Scraped:** 2026-07-09T10:23:24.980822+00:00
 
+Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4177,14 +4177,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.2
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-95-1-2/
 **Last Modified:** 2025-08-31T02:01:05+00:00
-**Scraped:** 2026-07-08T09:33:06.952548+00:00
+**Scraped:** 2026-07-09T10:23:26.158179+00:00
 
+Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.2
 We are excited to announce our release 95.1.2.981 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4194,14 +4194,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 98.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-98-1-0/
 **Last Modified:** 2025-08-31T02:00:36+00:00
-**Scraped:** 2026-07-08T09:33:08.647047+00:00
+**Scraped:** 2026-07-09T10:23:27.324238+00:00
 
+Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 98.1.0
 We are excited to announce our release 98.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4211,28 +4211,28 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 94.0.0.6867
 **URL:** https://docs.netskope.com/en/known-issues-in-publisher-release-94-0-0-6867/
 **Last Modified:** 2025-08-31T02:02:59+00:00
-**Scraped:** 2026-07-08T09:33:10.192363+00:00
+**Scraped:** 2026-07-09T10:23:28.485011+00:00
 
+Netskope Private Access Publisher Release Notes Version 94.0.0.6867 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 94.0.0.6867
 Document Version: 1.0
 Software Version: 94.0.0.6867
 General Availability Date: April, 2022
 What's New
 Known Issues
-Netskope Private Access Publisher Release Notes Version 94.0.0.6867 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-97-1-0/
 **Last Modified:** 2025-08-31T02:00:48+00:00
-**Scraped:** 2026-07-08T09:33:11.760366+00:00
+**Scraped:** 2026-07-09T10:23:29.652627+00:00
 
+Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.0
 We are excited to announce our release 97.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4257,14 +4257,14 @@ Next Generation SaaS Security Posture Management
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6431
 **URL:** https://docs.netskope.com/en/known-issues-in-release-1-4-6431/
 **Last Modified:** 2025-08-31T02:03:15+00:00
-**Scraped:** 2026-07-08T09:33:13.305210+00:00
+**Scraped:** 2026-07-09T10:23:30.818621+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6431
 Document Version: 1.1
 Software Version: 1.4.6431
@@ -4272,14 +4272,14 @@ General Availability Date: October, 2021
 What's New
 Fixed Issues
 Known Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 101.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-101-0-0/
 **Last Modified:** 2025-08-31T02:00:17+00:00
-**Scraped:** 2026-07-08T09:33:16.038130+00:00
+**Scraped:** 2026-07-09T10:23:31.986091+00:00
 
+Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 101.0.0
 We are excited to announce our release 101.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4289,14 +4289,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 102.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-102-0-0/
 **Last Modified:** 2025-08-31T02:00:08+00:00
-**Scraped:** 2026-07-08T09:33:17.639201+00:00
+**Scraped:** 2026-07-09T10:23:33.162557+00:00
 
+Netskope Release Notes Version 102.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 102.0.0
 We are excited to announce our release 102.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4343,14 +4343,14 @@ Next Generation SaaS Security Posture Management
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 102.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 100.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-100-0-0/
 **Last Modified:** 2025-08-31T02:00:27+00:00
-**Scraped:** 2026-07-08T09:33:20.261689+00:00
+**Scraped:** 2026-07-09T10:23:34.346887+00:00
 
+Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 100.0.0
 Netskope Release Note Version 100.0.0
 We are excited to announce our release 100.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -4386,14 +4386,14 @@ In the current release, you can receive audit events and standard user behavior 
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 103.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-103-0-0/
 **Last Modified:** 2025-08-31T01:59:56+00:00
-**Scraped:** 2026-07-08T09:33:23.132791+00:00
+**Scraped:** 2026-07-09T10:23:35.513703+00:00
 
+Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 103.0.0
 We are excited to announce our release 103.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4403,14 +4403,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 104.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-104-0-0/
 **Last Modified:** 2025-08-31T01:59:51+00:00
-**Scraped:** 2026-07-08T09:33:24.236128+00:00
+**Scraped:** 2026-07-09T10:23:36.778871+00:00
 
+Netskope Release Notes Version 104.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 104.0.0
 We are excited to announce our release 104.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4428,8 +4428,9 @@ Known Issues
 ## Netskope Release Notes Version 105.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-105-0-0/
 **Last Modified:** 2025-08-31T01:59:45+00:00
-**Scraped:** 2026-07-08T09:33:26.891196+00:00
+**Scraped:** 2026-07-09T10:23:37.949854+00:00
 
+Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 105.0.0
 We are excited to announce our release 105.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4442,14 +4443,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 106.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-106-0-0/
 **Last Modified:** 2025-08-31T01:59:21+00:00
-**Scraped:** 2026-07-08T09:33:29.497543+00:00
+**Scraped:** 2026-07-09T10:23:39.120262+00:00
 
+Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 106.0.0
 Published on: July 6
 th
@@ -4470,14 +4471,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 92.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-92-0-0/
 **Last Modified:** 2025-08-31T02:01:33+00:00
-**Scraped:** 2026-07-08T09:33:31.100967+00:00
+**Scraped:** 2026-07-09T10:23:40.292805+00:00
 
+Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 92.0.0
 We are excited to announce our release 92.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4495,14 +4496,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 91.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-91-0-0/
 **Last Modified:** 2025-08-31T02:01:42+00:00
-**Scraped:** 2026-07-08T09:33:32.677830+00:00
+**Scraped:** 2026-07-09T10:23:41.474044+00:00
 
+Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 91.0.0
 We are excited to announce our release 91.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4526,14 +4527,14 @@ Your account must be enabled for Cloud Firewall and an additional license is req
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 94.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-94-0-0/
 **Last Modified:** 2025-08-31T02:01:18+00:00
-**Scraped:** 2026-07-08T09:33:34.249800+00:00
+**Scraped:** 2026-07-09T10:23:42.646582+00:00
 
+Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 94.0.0
 We are excited to announce our release 94.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4561,14 +4562,14 @@ With the current release, you can receive audit events and standard user behavio
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-93-0-0/
 **Last Modified:** 2025-08-31T02:01:24+00:00
-**Scraped:** 2026-07-08T09:33:35.838973+00:00
+**Scraped:** 2026-07-09T10:23:43.815722+00:00
 
+Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 93.0.0
 We are excited to announce our release 930.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4581,14 +4582,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 97.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-97-0-0/
 **Last Modified:** 2025-08-31T02:00:52+00:00
-**Scraped:** 2026-07-08T09:33:36.937423+00:00
+**Scraped:** 2026-07-09T10:23:44.987412+00:00
 
+Netskope Release Notes Version 97.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 97.0.0
 We are excited to announce our release 97.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -4603,8 +4604,9 @@ Known Issues
 ## Netskope Release Notes Version 98.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-98-0-0/
 **Last Modified:** 2025-08-31T02:00:40+00:00
-**Scraped:** 2026-07-08T09:33:38.504145+00:00
+**Scraped:** 2026-07-09T10:23:46.198582+00:00
 
+Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 98.0.0
 We are excited to announce our release 98.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4620,14 +4622,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-96-0-0/
 **Last Modified:** 2025-08-31T02:00:59+00:00
-**Scraped:** 2026-07-08T09:33:40.106084+00:00
+**Scraped:** 2026-07-09T10:23:47.691131+00:00
 
+Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 96.0.0
 We are excited to announce our release 96.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4652,36 +4654,36 @@ In the current release, you can receive audit events and standard user behavior 
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.0.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-0-0/
 **Last Modified:** 2025-08-31T02:04:22+00:00
-**Scraped:** 2026-07-08T09:33:41.691450+00:00
+**Scraped:** 2026-07-09T10:23:48.854274+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.0.0
 We are excited to announce our release 3.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Cloud Exchange Release Notes Version 3.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 2.0.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-2-0-0/
 **Last Modified:** 2025-08-31T02:04:23+00:00
-**Scraped:** 2026-07-08T09:33:43.239905+00:00
+**Scraped:** 2026-07-09T10:23:50.107143+00:00
 
+Netskope Cloud Exchange Release Notes Version 2.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 2.0.0
 We are excited to announce our Cloud Exchange 3.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Cloud Exchange Release Notes Version 2.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-99-0-0/
 **Last Modified:** 2025-08-31T02:00:33+00:00
-**Scraped:** 2026-07-08T09:33:44.832985+00:00
+**Scraped:** 2026-07-09T10:23:51.275975+00:00
 
+Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 99.0.0
 We are excited to announce our release 99.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -4695,97 +4697,97 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.1.3
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-1-3/
 **Last Modified:** 2025-08-31T02:04:19+00:00
-**Scraped:** 2026-07-08T09:33:46.423426+00:00
+**Scraped:** 2026-07-09T10:23:52.438642+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.1.3 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.3
 We are excited to announce our Cloud Exchange 3.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Cloud Exchange Release Notes Version 3.1.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.1.2
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-1-2/
 **Last Modified:** 2025-08-31T02:04:14+00:00
-**Scraped:** 2026-07-08T09:33:47.962828+00:00
+**Scraped:** 2026-07-09T10:23:53.598435+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.1.2 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.2
 We are excited to announce our Cloud Exchange 3.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Cloud Exchange Release Notes Version 3.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.1.5
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-1-5/
 **Last Modified:** 2025-08-31T02:04:17+00:00
-**Scraped:** 2026-07-08T09:33:49.504804+00:00
+**Scraped:** 2026-07-09T10:23:54.764060+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.1.5 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.5
 We are excited to announce our Cloud Exchange 3.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Cloud Exchange Release Notes Version 3.1.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.2.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-2-0/
 **Last Modified:** 2025-08-31T02:04:13+00:00
-**Scraped:** 2026-07-08T09:33:51.074884+00:00
+**Scraped:** 2026-07-09T10:23:56.017137+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.2.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.2.0
 We are excited to announce our Cloud Exchange 3.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Cloud Exchange Release Notes Version 3.2.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.1.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-1-0/
 **Last Modified:** 2025-08-31T02:04:20+00:00
-**Scraped:** 2026-07-08T09:33:52.611919+00:00
+**Scraped:** 2026-07-09T10:23:57.181679+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.0
 We are excited to announce our release 3.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Cloud Exchange Release Notes Version 3.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.3.1
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-3-1/
 **Last Modified:** 2025-08-31T02:04:07+00:00
-**Scraped:** 2026-07-08T09:33:55.335478+00:00
+**Scraped:** 2026-07-09T10:23:58.344080+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.3.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.1
 GA Release Date: May 16, 2022
 We are excited to announce our Cloud Exchange 3.3.1 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Cloud Exchange Release Notes Version 3.3.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.3.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-3-0/
 **Last Modified:** 2025-08-31T02:04:10+00:00
-**Scraped:** 2026-07-08T09:33:57.985151+00:00
+**Scraped:** 2026-07-09T10:23:59.601535+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.3.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.0
 GA Release Date: April 18, 2022
 We are excited to announce our Cloud Exchange 3.3.0 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Cloud Exchange Release Notes Version 3.3.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.4.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-4-0/
 **Last Modified:** 2025-08-31T02:04:02+00:00
-**Scraped:** 2026-07-08T09:33:59.581879+00:00
+**Scraped:** 2026-07-09T10:24:00.779627+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.4.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.4.0
 GA Release Date: July 26, 2022
 We are excited to announce our Cloud Exchange 3.4.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -4849,14 +4851,14 @@ resolv.conf
 file inside the
 cloud_exchange_core
 (podman or docker). There is a documented workaround for this unsupported configuration.
-Netskope Cloud Exchange Release Notes Version 3.4.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 4.0.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-4-0-0/
 **Last Modified:** 2025-08-31T02:04:01+00:00
-**Scraped:** 2026-07-08T09:34:01.178700+00:00
+**Scraped:** 2026-07-09T10:24:01.953415+00:00
 
+Netskope Cloud Exchange Release Notes Version 4.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 4.0.0
 GA Release Date: October 18, 2022
 We are excited to announce our Cloud Exchange 4.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -4893,14 +4895,14 @@ CE has to be restarted when there is a plugin update that has changes to multipl
 If CE was installed previously using ZIP instead of GIT, customers will need to back up the database and migrate it to the new directory as specified in the migration notes.
 If CE is installed on a RHEL host, it can not be configured within podman to always restart automatically. Upon failure, customers will need to manually restart CE.
 The Extra Large profile has performance issues that are under investigation.
-Netskope Cloud Exchange Release Notes Version 4.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 3.3.3
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-3-3-3/
 **Last Modified:** 2025-08-31T02:04:04+00:00
-**Scraped:** 2026-07-08T09:34:02.763717+00:00
+**Scraped:** 2026-07-09T10:24:03.137722+00:00
 
+Netskope Cloud Exchange Release Notes Version 3.3.3 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.3
 GA Release Date: July 5, 2022
 We are excited to announce our Cloud Exchange 3.3.3 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -4958,14 +4960,14 @@ CE has to be restarted when there is a plugin update that has changes to multipl
 Customers have to upgrade to 3.3.3 from the CLI using the new setup script. If they upgrade from the UI to 3.3.3 there are a number of global environmental variables that will not be set, preventing CE proxy from being used for communication with docker and github, among other services.
 If CE was installed previously using ZIP instead of GIT, customers will need to back up the database and migrate it to the new directory as specified in the migration notes.
 If CE is installed on a RHEL host, it can not be configured within podman to always automatically restart. Upon failure, customers will need to manually restart CE.
-Netskope Cloud Exchange Release Notes Version 3.3.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 4.2.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-4-2-0/
 **Last Modified:** 2025-08-31T02:03:59+00:00
-**Scraped:** 2026-07-08T09:34:04.331682+00:00
+**Scraped:** 2026-07-09T10:24:04.400380+00:00
 
+Netskope Cloud Exchange Release Notes Version 4.2.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 4.2.0
 GA Release Date: May 24, 2023
 We are excited to announce our Cloud Exchange 4.2.0 updates! Here’s the latest features, issues fixed, and other updates in this release.
@@ -5018,14 +5020,14 @@ The CLS global setting ‘Page Size’ would have no impact on the functionality
 An issue has been identified in which the restart of the Cloud Exchange after the expiration of the HashiCorp auth token, when the user is using a private custom repo with an access token stored inside HashiCorp vault, will cause the entire core service to restart.
 Workaround
 : Support intervention is needed for changing access token via MongoDB Database.
-Netskope Cloud Exchange Release Notes Version 4.2.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 4.1.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-4-1-0/
 **Last Modified:** 2025-08-31T02:03:59+00:00
-**Scraped:** 2026-07-08T09:34:05.877245+00:00
+**Scraped:** 2026-07-09T10:24:05.573117+00:00
 
+Netskope Cloud Exchange Release Notes Version 4.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 4.1.0
 GA Release Date: February 14, 2023
 We are excited to announce our Cloud Exchange 4.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -5092,14 +5094,14 @@ Workaround: Users would be required to add custom mapping to send Incident event
 The CLS global setting
 Page Size
 will have no impact on the functionality. Page Size global setting is to be deprecated in the future release.
-Netskope Cloud Exchange Release Notes Version 4.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for February 2023
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-february-2023/
 **Last Modified:** 2025-08-31T02:03:28+00:00
-**Scraped:** 2026-07-08T09:34:07.415673+00:00
+**Scraped:** 2026-07-09T10:24:06.738722+00:00
 
+Netskope Digital Experience Management Release Notes for February 2023 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for February 2023
 The following is a list of Digital Experience Management (DEM) releases for the month of February 2023:
 Netskope Digital Experience Management Release Notes for February 20, 2023
@@ -5110,14 +5112,14 @@ IPSec
 and
 GRE
 tunnels. This will provide Netskope customers with visibility into the throughput consumption of your sites and tunnels over longer time frames. It will also provide insight into your organization’s traffic patterns.
-Netskope Digital Experience Management Release Notes for February 2023 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for March 2023
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-march-2023/
 **Last Modified:** 2025-08-31T02:03:24+00:00
-**Scraped:** 2026-07-08T09:34:08.953200+00:00
+**Scraped:** 2026-07-09T10:24:07.996231+00:00
 
+Netskope Digital Experience Management Release Notes for March 2023 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for March 2023
 The following is a list of Digital Experience Management (DEM) releases for the month of March 2023:
 Netskope Digital Experience Management Release Notes for March 31, 2023
@@ -5126,14 +5128,14 @@ New Features And Enhancements for March 31, 2023:
 Netskope has enhanced the Network Steering section to include widgets that provide a time series view of tunnel status for the IPSec and GRE tunnels. These widgets provide a convenient way to monitor the health and performance of IPSec and GRE tunnels, which will enable you to quickly identify and resolve any issues that may arise. This also provides visibility into the tunnel status of your sites and tunnels over longer time frames.
 Fixed Issue
 You can safely ignore the message “We seem to be experiencing some issues currently – please try again later” on the DEM pages. This can happen if you run a large report. The report still runs, and you can close the popup at any time (#276899).
-Netskope Digital Experience Management Release Notes for March 2023 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 88.1.0
 **URL:** https://docs.netskope.com/en/netskope-hotfix-release-notes-version-88-1-0/
 **Last Modified:** 2025-08-31T09:59:53+00:00
-**Scraped:** 2026-07-08T09:34:12.053817+00:00
+**Scraped:** 2026-07-09T10:24:10.336453+00:00
 
+Netskope Hotfix Release Notes Version 88.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 88.1.0
 We are excited to announce our hotfix release 88.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5176,14 +5178,14 @@ here
 (requires a login).
 What's New
 Fixed Issues
-Netskope Hotfix Release Notes Version 88.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 90.1.0
 **URL:** https://docs.netskope.com/en/netskope-hotfix-release-notes-version-90-1-0/
 **Last Modified:** 2025-08-31T09:59:52+00:00
-**Scraped:** 2026-07-08T09:34:13.616097+00:00
+**Scraped:** 2026-07-09T10:24:11.505490+00:00
 
+Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 90.1.0
 We are excited to announce our hotfix release 90.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5204,14 +5206,14 @@ Next Generation API Data Protection Platform
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 91.1.0
 **URL:** https://docs.netskope.com/en/netskope-hotfix-release-notes-version-91-1-0/
 **Last Modified:** 2025-08-31T09:59:49+00:00
-**Scraped:** 2026-07-08T09:34:15.166353+00:00
+**Scraped:** 2026-07-09T10:24:12.671061+00:00
 
+Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 91.1.0
 We are excited to announce our hotfix release 91.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5221,14 +5223,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 91.2.0
 **URL:** https://docs.netskope.com/en/netskope-hotfix-release-notes-version-91-2-0/
 **Last Modified:** 2025-08-31T09:59:48+00:00
-**Scraped:** 2026-07-08T09:34:16.813085+00:00
+**Scraped:** 2026-07-09T10:24:13.833243+00:00
 
+Netskope Hotfix Release Notes Version 91.2.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 91.2.0
 We are excited to announce our hotfix release 91.2.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5236,14 +5238,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 Fixed Issues
-Netskope Hotfix Release Notes Version 91.2.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in 2022
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-2022/
 **Last Modified:** 2025-08-31T02:05:20+00:00
-**Scraped:** 2026-07-08T09:34:17.913261+00:00
+**Scraped:** 2026-07-09T10:24:15.100795+00:00
 
+Netskope IoT Security Release Notes in 2022 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in 2022
 We are excited to announce our recent updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5257,8 +5259,9 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.03
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-03/
 **Last Modified:** 2025-08-31T02:05:10+00:00
-**Scraped:** 2026-07-08T09:34:19.463993+00:00
+**Scraped:** 2026-07-09T10:24:16.263722+00:00
 
+Netskope IoT Security Release Notes in Version 23.03 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.03
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of March, i.e. in 23.03 version release notes.
 Release Notes Subscription
@@ -5267,14 +5270,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope IoT Security Release Notes in Version 23.03 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.01
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-01/
 **Last Modified:** 2025-08-31T02:05:18+00:00
-**Scraped:** 2026-07-08T09:34:21.015326+00:00
+**Scraped:** 2026-07-09T10:24:17.427314+00:00
 
+Netskope IoT Security Release Notes in Version 23.01 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.01
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of January, i.e. in 23.01 version release notes.
 Release Notes Subscription
@@ -5283,14 +5286,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope IoT Security Release Notes in Version 23.01 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.04
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-04/
 **Last Modified:** 2025-08-31T02:05:05+00:00
-**Scraped:** 2026-07-08T09:34:23.031399+00:00
+**Scraped:** 2026-07-09T10:24:18.680252+00:00
 
+Netskope IoT Security Release Notes in Version 23.04 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.04
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of April, i.e. in 23.04 version release notes.
 Release Notes Subscription
@@ -5298,14 +5301,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope IoT Security Release Notes in Version 23.04 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.02
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-02/
 **Last Modified:** 2025-08-31T02:05:15+00:00
-**Scraped:** 2026-07-08T09:34:24.587062+00:00
+**Scraped:** 2026-07-09T10:24:19.841028+00:00
 
+Netskope IoT Security Release Notes in Version 23.02 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.02
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of February, i.e. in 23.02 version release notes.
 Release Notes Subscription
@@ -5314,14 +5317,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope IoT Security Release Notes in Version 23.02 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.05
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-05/
 **Last Modified:** 2025-08-31T02:05:01+00:00
-**Scraped:** 2026-07-08T09:34:26.127660+00:00
+**Scraped:** 2026-07-09T10:24:21.005773+00:00
 
+Netskope IoT Security Release Notes in Version 23.05 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.05
 We are excited to announce our recent updates on the product! Get the list of features, issues fixed, and other updates published in the month of May, i.e. in 23.05 version release notes.
 Release Notes Subscription
@@ -5330,14 +5333,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope IoT Security Release Notes in Version 23.05 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.06
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-06/
 **Last Modified:** 2025-08-31T02:04:58+00:00
-**Scraped:** 2026-07-08T09:34:30.329469+00:00
+**Scraped:** 2026-07-09T10:24:24.589407+00:00
 
+Netskope IoT Security Release Notes in Version 23.06 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.06
 We are excited to announce our recent updates on the product! Get the list of features, issues fixed, and other updates published in the month of June, i.e. in 23.06 version release notes.
 Release Notes Subscription
@@ -5345,14 +5348,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope IoT Security Release Notes in Version 23.06 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 100.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-version-100-0-0/
 **Last Modified:** 2025-08-31T09:59:30+00:00
-**Scraped:** 2026-07-08T09:34:54.707342+00:00
+**Scraped:** 2026-07-09T10:24:43.648535+00:00
 
+Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 100.0.0
 Netskope Release Note Version 100.0.0
 We are excited to announce our release 100.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -5393,8 +5396,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 105.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-105-1-0/
 **Last Modified:** 2025-08-31T09:59:17+00:00
-**Scraped:** 2026-07-08T09:34:57.303421+00:00
+**Scraped:** 2026-07-09T10:24:44.812423+00:00
 
+Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.1.0
 Published on:  June 15
 th
@@ -5410,14 +5414,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 104.0.12
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-104-0-12/
 **Last Modified:** 2025-08-31T09:59:21+00:00
-**Scraped:** 2026-07-08T09:34:59.888155+00:00
+**Scraped:** 2026-07-09T10:24:46.077766+00:00
 
+Netskope Release Notes Hotfix Version 104.0.12 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 104.0.12
 We are excited to announce our release 104.0.12 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5428,15 +5432,13 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
-Netskope Release Notes Hotfix Version 104.0.12 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 101.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-version-101-0-0/
 **Last Modified:** 2025-08-31T09:59:29+00:00
-**Scraped:** 2026-07-08T09:35:01.027454+00:00
+**Scraped:** 2026-07-09T10:24:47.244596+00:00
 
-Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 101.0.0
 We are excited to announce our release 101.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5451,8 +5453,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 92.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-92-1-0/
 **Last Modified:** 2025-08-31T09:59:46+00:00
-**Scraped:** 2026-07-08T09:35:02.650275+00:00
+**Scraped:** 2026-07-09T10:24:48.616638+00:00
 
+Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 92.1.0
 We are excited to announce our hotfix release 92.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5462,14 +5465,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.0.3
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-105-0-3/
 **Last Modified:** 2025-08-31T09:59:19+00:00
-**Scraped:** 2026-07-08T09:35:05.196879+00:00
+**Scraped:** 2026-07-09T10:24:49.780078+00:00
 
+Netskope Release Notes Hotfix Version 105.0.3 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.0.3
 We are excited to announce our release 105.0.3 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5480,14 +5483,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
-Netskope Release Notes Hotfix Version 105.0.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 101.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-101-1-0/
 **Last Modified:** 2025-08-31T09:59:27+00:00
-**Scraped:** 2026-07-08T09:35:07.798791+00:00
+**Scraped:** 2026-07-09T10:24:50.945242+00:00
 
+Netskope Release Notes Hotfix Version 101.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 101.1.0
 We are excited to announce our release 101.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5496,14 +5499,14 @@ Release Notes Subscription
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 101.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 102.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-102-1-0/
 **Last Modified:** 2025-08-31T09:59:25+00:00
-**Scraped:** 2026-07-08T09:35:10.378980+00:00
+**Scraped:** 2026-07-09T10:24:52.107625+00:00
 
+Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 102.1.0
 We are excited to announce our release 102.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5513,14 +5516,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 100.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-100-1-0/
 **Last Modified:** 2025-08-31T09:59:30+00:00
-**Scraped:** 2026-07-08T09:35:12.964377+00:00
+**Scraped:** 2026-07-09T10:24:53.278471+00:00
 
+Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 100.1.0
 We are excited to announce our release 100.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5530,14 +5533,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 93.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-93-1-0/
 **Last Modified:** 2025-08-31T09:59:44+00:00
-**Scraped:** 2026-07-08T09:35:14.508688+00:00
+**Scraped:** 2026-07-09T10:24:54.536276+00:00
 
+Netskope Release Notes Hotfix Version 93.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 93.1.0
 We are excited to announce our hotfix release 93.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5546,14 +5549,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 93.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 94.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-94-1-0/
 **Last Modified:** 2025-08-31T09:59:43+00:00
-**Scraped:** 2026-07-08T09:35:16.078857+00:00
+**Scraped:** 2026-07-09T10:24:55.696817+00:00
 
+Netskope Release Notes Hotfix Version 94.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 94.1.0
 We are excited to announce our release 94.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5562,14 +5565,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 94.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-95-1-0/
 **Last Modified:** 2025-08-31T09:59:41+00:00
-**Scraped:** 2026-07-08T09:35:17.644063+00:00
+**Scraped:** 2026-07-09T10:24:56.952778+00:00
 
+Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5579,14 +5582,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.2
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-95-1-2/
 **Last Modified:** 2025-08-31T09:59:40+00:00
-**Scraped:** 2026-07-08T09:35:19.196380+00:00
+**Scraped:** 2026-07-09T10:24:58.116409+00:00
 
+Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.2
 We are excited to announce our release 95.1.2.981 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5596,14 +5599,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 96.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-96-1-0/
 **Last Modified:** 2025-08-31T09:59:38+00:00
-**Scraped:** 2026-07-08T09:35:20.747522+00:00
+**Scraped:** 2026-07-09T10:24:59.292867+00:00
 
+Netskope Release Notes Hotfix Version 96.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 96.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Note Subscription
@@ -5612,14 +5615,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 96.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 99.0.8
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-99-0-8/
 **Last Modified:** 2025-08-31T09:59:31+00:00
-**Scraped:** 2026-07-08T09:35:22.560112+00:00
+**Scraped:** 2026-07-09T10:25:00.441726+00:00
 
+Netskope Release Notes Hotfix Version 99.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 99.0.8
 We are excited to announce our release 99.0.8 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5627,28 +5630,28 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 99.0.8 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.5
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-97-1-5/
 **Last Modified:** 2025-08-31T09:59:35+00:00
-**Scraped:** 2026-07-08T09:35:24.101702+00:00
+**Scraped:** 2026-07-09T10:25:01.633085+00:00
 
+Netskope Release Notes Hotfix Version 97.1.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.5
 We are excited to announce our release 97.1.5 updates! This is an emergency hot fix.
 Release Notes Subscription
 Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 Fixed Issues
-Netskope Release Notes Hotfix Version 97.1.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.3
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-97-1-3/
 **Last Modified:** 2025-08-31T09:59:35+00:00
-**Scraped:** 2026-07-08T09:35:25.652129+00:00
+**Scraped:** 2026-07-09T10:25:02.797145+00:00
 
+Netskope Release Notes Hotfix Version 97.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.3
 We are excited to announce our release 97.1.3 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5656,14 +5659,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Release Notes Hotfix Version 97.1.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 98.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-98-1-0/
 **Last Modified:** 2025-08-31T09:59:33+00:00
-**Scraped:** 2026-07-08T09:35:26.748846+00:00
+**Scraped:** 2026-07-09T10:25:03.962460+00:00
 
+Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 98.1.0
 We are excited to announce our release 98.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5678,8 +5681,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 97.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-97-1-0/
 **Last Modified:** 2025-08-31T09:59:36+00:00
-**Scraped:** 2026-07-08T09:35:27.847046+00:00
+**Scraped:** 2026-07-09T10:25:05.110776+00:00
 
+Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.0
 We are excited to announce our release 97.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5709,8 +5713,9 @@ Known Issues
 ## Netskope Release Notes Version 106.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-106-0-0/
 **Last Modified:** 2025-08-31T09:59:14+00:00
-**Scraped:** 2026-07-08T09:35:30.559665+00:00
+**Scraped:** 2026-07-09T10:25:06.282668+00:00
 
+Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 106.0.0
 Published on: July 6
 th
@@ -5731,14 +5736,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 102.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-102-0-0/
 **Last Modified:** 2025-08-31T09:59:26+00:00
-**Scraped:** 2026-07-08T09:35:31.664336+00:00
+**Scraped:** 2026-07-09T10:25:07.454715+00:00
 
+Netskope Release Notes Version 102.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 102.0.0
 We are excited to announce our release 102.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -5790,7 +5795,7 @@ Known Issues
 ## Netskope Release Notes Version 103.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-103-0-0/
 **Last Modified:** 2025-08-31T09:59:24+00:00
-**Scraped:** 2026-07-08T09:35:32.778313+00:00
+**Scraped:** 2026-07-09T10:25:08.622207+00:00
 
 Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 103.0.0
@@ -5807,8 +5812,9 @@ Known Issues
 ## Netskope Release Notes Version 104.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-104-0-0/
 **Last Modified:** 2025-08-31T09:59:23+00:00
-**Scraped:** 2026-07-08T09:35:33.896616+00:00
+**Scraped:** 2026-07-09T10:25:09.791446+00:00
 
+Netskope Release Notes Version 104.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 104.0.0
 We are excited to announce our release 104.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5826,8 +5832,9 @@ Known Issues
 ## Netskope Release Notes Version 105.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-105-0-0/
 **Last Modified:** 2025-08-31T09:59:20+00:00
-**Scraped:** 2026-07-08T09:35:36.514765+00:00
+**Scraped:** 2026-07-09T10:25:10.961429+00:00
 
+Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 105.0.0
 We are excited to announce our release 105.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5840,14 +5847,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 89.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-89-0-0/
 **Last Modified:** 2025-08-31T09:59:52+00:00
-**Scraped:** 2026-07-08T09:35:38.150524+00:00
+**Scraped:** 2026-07-09T10:25:12.138564+00:00
 
+Netskope Release Notes Version 89.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 89.0.0
 We are excited to announce our release 89.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -5884,14 +5891,14 @@ Ensure EC2 Instance does not have open UDP ports
 The above CSA rule has been modified to Alert only on EC2 instances having Security Group Inbound Rules open to Public Internet IP’s for UDP Ports 22, 80, 443, 1433, 1521, 3306, 3389, 5432, 27017, 27018, 27019.
 What's New
 Fixed Issues
-Netskope Release Notes Version 89.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 91.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-91-0-0/
 **Last Modified:** 2025-08-31T09:59:50+00:00
-**Scraped:** 2026-07-08T09:35:39.730043+00:00
+**Scraped:** 2026-07-09T10:25:13.400330+00:00
 
+Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 91.0.0
 We are excited to announce our release 91.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -5915,14 +5922,14 @@ Your account must be enabled for Cloud Firewall and an additional license is req
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 92.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-92-0-0/
 **Last Modified:** 2025-08-31T09:59:47+00:00
-**Scraped:** 2026-07-08T09:35:40.840897+00:00
+**Scraped:** 2026-07-09T10:25:14.570249+00:00
 
+Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 92.0.0
 We are excited to announce our release 92.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -5945,8 +5952,9 @@ Known Issues
 ## Netskope Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-93-0-0/
 **Last Modified:** 2025-08-31T09:59:45+00:00
-**Scraped:** 2026-07-08T09:35:42.415366+00:00
+**Scraped:** 2026-07-09T10:25:15.739065+00:00
 
+Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 93.0.0
 We are excited to announce our release 930.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -5959,13 +5967,12 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 94.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-94-0-0/
 **Last Modified:** 2025-08-31T09:59:44+00:00
-**Scraped:** 2026-07-08T09:35:43.522142+00:00
+**Scraped:** 2026-07-09T10:25:16.907648+00:00
 
 Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 94.0.0
@@ -6000,7 +6007,7 @@ Known Issues
 ## Netskope Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-96-0-0/
 **Last Modified:** 2025-08-31T09:59:39+00:00
-**Scraped:** 2026-07-08T09:35:44.636936+00:00
+**Scraped:** 2026-07-09T10:25:18.079590+00:00
 
 Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 96.0.0
@@ -6032,7 +6039,7 @@ Known Issues
 ## Netskope Release Notes Version 95.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-95-0-0/
 **Last Modified:** 2025-08-31T09:59:42+00:00
-**Scraped:** 2026-07-08T09:35:45.738370+00:00
+**Scraped:** 2026-07-09T10:25:19.247145+00:00
 
 Netskope Release Notes Version 95.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 95.0.0
@@ -6053,8 +6060,9 @@ Fixed Issues
 ## Netskope Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-99-0-0/
 **Last Modified:** 2025-08-31T09:59:32+00:00
-**Scraped:** 2026-07-08T09:35:46.842922+00:00
+**Scraped:** 2026-07-09T10:25:20.417226+00:00
 
+Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 99.0.0
 We are excited to announce our release 99.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6073,8 +6081,9 @@ Known Issues
 ## Netskope Release Notes Version 98.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-98-0-0/
 **Last Modified:** 2025-08-31T09:59:34+00:00
-**Scraped:** 2026-07-08T09:35:47.947034+00:00
+**Scraped:** 2026-07-09T10:25:21.685033+00:00
 
+Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 98.0.0
 We are excited to announce our release 98.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6095,8 +6104,9 @@ Known Issues
 ## Netskope Release Notes Version 97.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-97-0-0/
 **Last Modified:** 2025-08-31T09:59:37+00:00
-**Scraped:** 2026-07-08T09:35:49.050205+00:00
+**Scraped:** 2026-07-09T10:25:22.848393+00:00
 
+Netskope Release Notes Version 97.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 97.0.0
 We are excited to announce our release 97.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6111,8 +6121,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 100.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-100-1-0/
 **Last Modified:** 2025-08-31T02:00:19+00:00
-**Scraped:** 2026-07-08T09:36:31.613323+00:00
+**Scraped:** 2026-07-09T10:25:42.936304+00:00
 
+Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 100.1.0
 We are excited to announce our release 100.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6122,14 +6133,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 100.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 102.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-102-1-0/
 **Last Modified:** 2025-08-31T01:59:57+00:00
-**Scraped:** 2026-07-08T09:36:34.203233+00:00
+**Scraped:** 2026-07-09T10:25:44.100591+00:00
 
+Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 102.1.0
 We are excited to announce our release 102.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6139,14 +6150,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 102.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 88.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-88-1-0/
 **Last Modified:** 2025-08-31T02:01:55+00:00
-**Scraped:** 2026-07-08T09:36:37.371383+00:00
+**Scraped:** 2026-07-09T10:25:46.433773+00:00
 
+Netskope Hotfix Release Notes Version 88.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 88.1.0
 We are excited to announce our hotfix release 88.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6189,14 +6200,14 @@ here
 (requires a login).
 What's New
 Fixed Issues
-Netskope Hotfix Release Notes Version 88.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 90.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-90-1-0/
 **Last Modified:** 2025-08-31T02:01:47+00:00
-**Scraped:** 2026-07-08T09:36:38.997307+00:00
+**Scraped:** 2026-07-09T10:25:47.601876+00:00
 
+Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 90.1.0
 We are excited to announce our hotfix release 90.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6217,14 +6228,14 @@ Next Generation API Data Protection Platform
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 90.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 92.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-92-1-0/
 **Last Modified:** 2025-08-31T02:01:26+00:00
-**Scraped:** 2026-07-08T09:36:40.565824+00:00
+**Scraped:** 2026-07-09T10:25:48.803005+00:00
 
+Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 92.1.0
 We are excited to announce our hotfix release 92.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6234,14 +6245,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 92.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-105-1-0/
 **Last Modified:** 2025-08-31T01:59:32+00:00
-**Scraped:** 2026-07-08T09:36:43.126851+00:00
+**Scraped:** 2026-07-09T10:25:49.974300+00:00
 
+Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.1.0
 Published on:  June 15
 th
@@ -6257,14 +6268,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 105.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Hotfix Release Notes Version 91.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-91-1-0/
 **Last Modified:** 2025-08-31T02:01:36+00:00
-**Scraped:** 2026-07-08T09:36:44.709080+00:00
+**Scraped:** 2026-07-09T10:25:51.140894+00:00
 
+Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 Netskope Hotfix Release Notes Version 91.1.0
 We are excited to announce our hotfix release 91.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6274,14 +6285,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Hotfix Release Notes Version 91.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 94.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-94-1-0/
 **Last Modified:** 2025-08-31T02:01:13+00:00
-**Scraped:** 2026-07-08T09:36:46.253027+00:00
+**Scraped:** 2026-07-09T10:25:52.304387+00:00
 
+Netskope Release Notes Hotfix Version 94.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 94.1.0
 We are excited to announce our release 94.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6290,14 +6301,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 94.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 93.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-93-1-0/
 **Last Modified:** 2025-08-31T02:01:20+00:00
-**Scraped:** 2026-07-08T09:36:47.800946+00:00
+**Scraped:** 2026-07-09T10:25:53.473467+00:00
 
+Netskope Release Notes Hotfix Version 93.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 93.1.0
 We are excited to announce our hotfix release 93.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6306,14 +6317,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 93.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.2
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-95-1-2/
 **Last Modified:** 2025-08-31T02:01:02+00:00
-**Scraped:** 2026-07-08T09:36:49.349086+00:00
+**Scraped:** 2026-07-09T10:25:54.641356+00:00
 
+Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.2
 We are excited to announce our release 95.1.2.981 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6323,14 +6334,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 96.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-96-1-0/
 **Last Modified:** 2025-08-31T02:00:53+00:00
-**Scraped:** 2026-07-08T09:36:50.893311+00:00
+**Scraped:** 2026-07-09T10:25:55.898180+00:00
 
+Netskope Release Notes Hotfix Version 96.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 96.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Note Subscription
@@ -6339,14 +6350,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 96.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 95.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-95-1-0/
 **Last Modified:** 2025-08-31T02:01:06+00:00
-**Scraped:** 2026-07-08T09:36:52.470564+00:00
+**Scraped:** 2026-07-09T10:25:57.064266+00:00
 
+Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 95.1.0
 We are excited to announce our release 96.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6356,41 +6367,41 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 95.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 101.0.0.7619
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-101-0-0-7619/
 **Last Modified:** 2025-08-31T02:02:50+00:00
-**Scraped:** 2026-07-08T09:36:54.017430+00:00
+**Scraped:** 2026-07-09T10:25:58.231620+00:00
 
+Netskope Private Access Publisher Release Notes Version 101.0.0.7619 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 101.0.0.7619
 Document Version: 1.0
 Software Version: 101.0.0.7619
 General Availability Date: February, 2023
 What's New
-Netskope Private Access Publisher Release Notes Version 101.0.0.7619 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 94.0.0.6867
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-94-0-0-6867/
 **Last Modified:** 2025-08-31T02:02:58+00:00
-**Scraped:** 2026-07-08T09:36:55.564184+00:00
+**Scraped:** 2026-07-09T10:25:59.393364+00:00
 
+Netskope Private Access Publisher Release Notes Version 94.0.0.6867 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 94.0.0.6867
 Document Version: 1.0
 Software Version: 94.0.0.6867
 General Availability Date: April, 2022
 What's New
 Known Issues
-Netskope Private Access Publisher Release Notes Version 94.0.0.6867 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 98.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-98-1-0/
 **Last Modified:** 2025-08-31T02:00:34+00:00
-**Scraped:** 2026-07-08T09:36:57.168999+00:00
+**Scraped:** 2026-07-09T10:26:00.557047+00:00
 
+Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 98.1.0
 We are excited to announce our release 98.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6400,14 +6411,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 98.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-97-1-0/
 **Last Modified:** 2025-08-31T02:00:46+00:00
-**Scraped:** 2026-07-08T09:36:58.751743+00:00
+**Scraped:** 2026-07-09T10:26:01.737966+00:00
 
+Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.0
 We are excited to announce our release 97.1.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6432,14 +6443,14 @@ Next Generation SaaS Security Posture Management
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 97.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 97.1.3
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-97-1-3/
 **Last Modified:** 2025-08-31T02:00:43+00:00
-**Scraped:** 2026-07-08T09:37:00.351666+00:00
+**Scraped:** 2026-07-09T10:26:02.901134+00:00
 
+Netskope Release Notes Hotfix Version 97.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 97.1.3
 We are excited to announce our release 97.1.3 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6447,54 +6458,54 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Release Notes Hotfix Version 97.1.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 99.0.0.7505
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-99-0-0-7505/
 **Last Modified:** 2025-08-31T02:02:53+00:00
-**Scraped:** 2026-07-08T09:37:02.060868+00:00
+**Scraped:** 2026-07-09T10:26:04.064178+00:00
 
+Netskope Private Access Publisher Release Notes Version 99.0.0.7505 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 99.0.0.7505
 Document Version: 1.0
 Software Version: 99.0.0.7505
 General Availability Date: October, 2022
 What's New
-Netskope Private Access Publisher Release Notes Version 99.0.0.7505 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 97.0.0.7294
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-97-0-0-7294/
 **Last Modified:** 2025-08-31T02:03:02+00:00
-**Scraped:** 2026-07-08T09:37:03.647566+00:00
+**Scraped:** 2026-07-09T10:26:05.225033+00:00
 
+Netskope Private Access Publisher Release Notes Version 97.0.0.7294 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 97.0.0.7294
 Document Version: 1.0
 Software Version: 97.0.0.7294
 General Availability Date: August, 2022
 What's New
-Netskope Private Access Publisher Release Notes Version 97.0.0.7294 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 102.0.0.7784
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-version-102-0-0-7784/
 **Last Modified:** 2025-08-31T02:02:46+00:00
-**Scraped:** 2026-07-08T09:37:05.188796+00:00
+**Scraped:** 2026-07-09T10:26:06.390033+00:00
 
+Netskope Private Access Publisher Release Notes Version 102.0.0.7784 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 102.0.0.7784
 Document Version: 1.0
 Software Version: 102.0.0.7784
 General Availability Date: March, 2023
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 102.0.0.7784 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6431
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-1-4-6431/
 **Last Modified:** 2025-08-31T02:03:13+00:00
-**Scraped:** 2026-07-08T09:37:06.732797+00:00
+**Scraped:** 2026-07-09T10:26:07.554230+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6431
 Document Version: 1.1
 Software Version: 1.4.6431
@@ -6502,27 +6513,27 @@ General Availability Date: October, 2021
 What's New
 Fixed Issues
 Known Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 98.0.0.7378
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-98-0-0-7378/
 **Last Modified:** 2025-08-31T02:03:00+00:00
-**Scraped:** 2026-07-08T09:37:08.275695+00:00
+**Scraped:** 2026-07-09T10:26:08.714222+00:00
 
+Netskope Private Access Publisher Release Notes Version 98.0.0.7378 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 98.0.0.7378
 Document Version: 1.0
 Software Version: 98.0.0.7378
 General Availability Date: September, 2022
 What's New
-Netskope Private Access Publisher Release Notes Version 98.0.0.7378 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 102.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-102-0-0/
 **Last Modified:** 2025-08-31T02:00:04+00:00
-**Scraped:** 2026-07-08T09:37:09.878761+00:00
+**Scraped:** 2026-07-09T10:26:09.885115+00:00
 
+Netskope Release Notes Version 102.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 102.0.0
 We are excited to announce our release 102.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6569,28 +6580,28 @@ Next Generation SaaS Security Posture Management
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 102.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 1.4.6526
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-1-4-6526/
 **Last Modified:** 2025-08-31T02:03:11+00:00
-**Scraped:** 2026-07-08T09:37:11.420118+00:00
+**Scraped:** 2026-07-09T10:26:11.047775+00:00
 
+Netskope Private Access Publisher Release Notes Version 1.4.6526 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 1.4.6526
 Document Version: 1.0
 Software Version: 1.4.6526
 General Availability Date: December, 2021
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 1.4.6526 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 100.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-100-0-0/
 **Last Modified:** 2025-08-31T02:00:22+00:00
-**Scraped:** 2026-07-08T09:37:14.015241+00:00
+**Scraped:** 2026-07-09T10:26:12.221673+00:00
 
+Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 100.0.0
 Netskope Release Note Version 100.0.0
 We are excited to announce our release 100.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
@@ -6626,14 +6637,14 @@ In the current release, you can receive audit events and standard user behavior 
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 100.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 103.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-103-0-0/
 **Last Modified:** 2025-08-31T01:59:54+00:00
-**Scraped:** 2026-07-08T09:37:16.611068+00:00
+**Scraped:** 2026-07-09T10:26:13.390968+00:00
 
+Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 103.0.0
 We are excited to announce our release 103.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6643,14 +6654,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 103.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 101.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-101-0-0/
 **Last Modified:** 2025-08-31T02:00:15+00:00
-**Scraped:** 2026-07-08T09:37:19.227831+00:00
+**Scraped:** 2026-07-09T10:26:14.559458+00:00
 
+Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 101.0.0
 We are excited to announce our release 101.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6660,13 +6671,12 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 101.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 105.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-105-0-0/
 **Last Modified:** 2025-08-31T01:59:43+00:00
-**Scraped:** 2026-07-08T09:37:20.330881+00:00
+**Scraped:** 2026-07-09T10:26:15.729388+00:00
 
 Netskope Release Notes Version 105.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 105.0.0
@@ -6686,8 +6696,9 @@ Known Issues
 ## Netskope Release Notes Version 89.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-89-0-0/
 **Last Modified:** 2025-08-31T02:01:51+00:00
-**Scraped:** 2026-07-08T09:37:21.912678+00:00
+**Scraped:** 2026-07-09T10:26:16.894903+00:00
 
+Netskope Release Notes Version 89.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 89.0.0
 We are excited to announce our release 89.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6724,14 +6735,14 @@ Ensure EC2 Instance does not have open UDP ports
 The above CSA rule has been modified to Alert only on EC2 instances having Security Group Inbound Rules open to Public Internet IP’s for UDP Ports 22, 80, 443, 1433, 1521, 3306, 3389, 5432, 27017, 27018, 27019.
 What's New
 Fixed Issues
-Netskope Release Notes Version 89.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 104.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-104-0-0/
 **Last Modified:** 2025-08-31T01:59:49+00:00
-**Scraped:** 2026-07-08T09:37:24.485820+00:00
+**Scraped:** 2026-07-09T10:26:18.153646+00:00
 
+Netskope Release Notes Version 104.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 104.0.0
 We are excited to announce our release 104.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Notes Subscription
@@ -6744,14 +6755,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 104.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 106.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-106-0-0/
 **Last Modified:** 2025-08-31T01:59:18+00:00
-**Scraped:** 2026-07-08T09:37:27.171424+00:00
+**Scraped:** 2026-07-09T10:26:19.326396+00:00
 
+Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 106.0.0
 Published on: July 6
 th
@@ -6772,14 +6783,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 106.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 91.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-91-0-0/
 **Last Modified:** 2025-08-31T02:01:40+00:00
-**Scraped:** 2026-07-08T09:37:28.750157+00:00
+**Scraped:** 2026-07-09T10:26:20.495258+00:00
 
+Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 91.0.0
 We are excited to announce our release 91.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6803,14 +6814,14 @@ Your account must be enabled for Cloud Firewall and an additional license is req
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 91.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-93-0-0/
 **Last Modified:** 2025-08-31T02:01:23+00:00
-**Scraped:** 2026-07-08T09:37:30.332294+00:00
+**Scraped:** 2026-07-09T10:26:21.752541+00:00
 
+Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 93.0.0
 We are excited to announce our release 930.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6823,14 +6834,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 93.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 95.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-95-0-0/
 **Last Modified:** 2025-08-31T02:01:10+00:00
-**Scraped:** 2026-07-08T09:37:31.966576+00:00
+**Scraped:** 2026-07-09T10:26:22.921135+00:00
 
+Netskope Release Notes Version 95.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 95.0.0
 We are excited to announce our release 95.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6844,14 +6855,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope Release Notes Version 95.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 92.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-92-0-0/
 **Last Modified:** 2025-08-31T02:01:30+00:00
-**Scraped:** 2026-07-08T09:37:33.554082+00:00
+**Scraped:** 2026-07-09T10:26:24.092503+00:00
 
+Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 92.0.0
 We are excited to announce our release 92.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6869,14 +6880,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 92.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 94.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-94-0-0/
 **Last Modified:** 2025-08-31T02:01:16+00:00
-**Scraped:** 2026-07-08T09:37:35.145718+00:00
+**Scraped:** 2026-07-09T10:26:25.261955+00:00
 
+Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 94.0.0
 We are excited to announce our release 94.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6904,14 +6915,14 @@ With the current release, you can receive audit events and standard user behavio
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 94.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-96-0-0/
 **Last Modified:** 2025-08-31T02:00:56+00:00
-**Scraped:** 2026-07-08T09:37:36.717986+00:00
+**Scraped:** 2026-07-09T10:26:26.522150+00:00
 
+Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 96.0.0
 We are excited to announce our release 96.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6936,13 +6947,12 @@ In the current release, you can receive audit events and standard user behavior 
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 96.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 97.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-97-0-0/
 **Last Modified:** 2025-08-31T02:00:50+00:00
-**Scraped:** 2026-07-08T09:37:39.374103+00:00
+**Scraped:** 2026-07-09T10:26:28.849879+00:00
 
 Netskope Release Notes Version 97.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 97.0.0
@@ -6959,8 +6969,9 @@ Known Issues
 ## Netskope Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-99-0-0/
 **Last Modified:** 2025-08-31T02:00:31+00:00
-**Scraped:** 2026-07-08T09:37:40.943603+00:00
+**Scraped:** 2026-07-09T10:26:30.017967+00:00
 
+Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 99.0.0
 We are excited to announce our release 99.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6974,14 +6985,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 99.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 98.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-98-0-0/
 **Last Modified:** 2025-08-31T02:00:38+00:00
-**Scraped:** 2026-07-08T09:37:42.521401+00:00
+**Scraped:** 2026-07-09T10:26:31.188763+00:00
 
+Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 98.0.0
 We are excited to announce our release 98.0.0 updates! Get the latest features, issues fixed, and other updates in this release.
 Release Highlights
@@ -6997,14 +7008,14 @@ Release Notes Subscription
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 98.0.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:08:12+00:00
-**Scraped:** 2026-07-08T09:38:14.325545+00:00
+**Scraped:** 2026-07-09T10:26:53.843019+00:00
 
+On-Premises Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 103.0.0.338
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 103.0.0.338
@@ -7143,14 +7154,14 @@ on our Support site.
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-93-0-0/
 **Last Modified:** 2025-08-31T02:08:33+00:00
-**Scraped:** 2026-07-08T09:38:16.918313+00:00
+**Scraped:** 2026-07-09T10:26:55.013880+00:00
 
+On-Premises Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Document Version: 1.0
@@ -7213,14 +7224,14 @@ There are no other changes included in this release.
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-77-6-0/
 **Last Modified:** 2025-08-31T02:08:39+00:00
-**Scraped:** 2026-07-08T09:38:19.480968+00:00
+**Scraped:** 2026-07-09T10:26:56.187664+00:00
 
+On-Premises Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.6.0
 Copyright Statement
 Copyright 2021 Netskope Inc. All rights reserved. The information contained in this document is CONFIDENTIAL and PROPRIETARY in nature, and subject to the rights and ownership of Netskope. Any and all unauthorized copying or use of the contents hereof is prohibited. The Netskope logo and experience are trademarks of Netskope Inc. All other brand or product names are or may be trademarks or registered trademarks of their respective owners.
@@ -7291,14 +7302,14 @@ ADMIN/netSkope21
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-77-5-0/
 **Last Modified:** 2025-08-31T02:08:45+00:00
-**Scraped:** 2026-07-08T09:38:22.033205+00:00
+**Scraped:** 2026-07-09T10:26:57.361924+00:00
 
+On-Premises Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.5.0
 Copyright Statement
 Copyright 2021 Netskope Inc. All rights reserved. The information contained in this document is CONFIDENTIAL and PROPRIETARY in nature, and subject to the rights and ownership of Netskope. Any and all unauthorized copying or use of the contents hereof is prohibited. The Netskope logo and experience are trademarks of Netskope Inc. All other brand or product names are or may be trademarks or registered trademarks of their respective owners.
@@ -7339,14 +7350,14 @@ This release contains a patch for vulnerabilities.
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-96-0-0/
 **Last Modified:** 2025-08-31T02:08:22+00:00
-**Scraped:** 2026-07-08T09:38:24.584834+00:00
+**Scraped:** 2026-07-09T10:26:58.628003+00:00
 
+On-Premises Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 96.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 96.0.0
@@ -7404,14 +7415,14 @@ Overview of Netskope On-Premises Appliance
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-93-1-0/
 **Last Modified:** 2025-08-31T02:08:27+00:00
-**Scraped:** 2026-07-08T09:38:27.504007+00:00
+**Scraped:** 2026-07-09T10:26:59.795805+00:00
 
+On-Premises Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.1.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 93.1.0
@@ -7469,14 +7480,14 @@ Overview of Netskope On-Premises Appliance
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-99-0-0/
 **Last Modified:** 2025-08-31T02:08:17+00:00
-**Scraped:** 2026-07-08T09:38:30.083861+00:00
+**Scraped:** 2026-07-09T10:27:00.964699+00:00
 
+On-Premises Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 99.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 99.0.0
@@ -7542,14 +7553,14 @@ At our discretion, we may provide support for releases outside our support perio
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:06:54+00:00
-**Scraped:** 2026-07-08T09:38:32.786354+00:00
+**Scraped:** 2026-07-09T10:27:02.152688+00:00
 
+Virtual Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 103.0.0.338
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
 Overview for Virtual Appliance Version 103.0.0.338
@@ -7754,14 +7765,14 @@ on our Support site.
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-77-6-0/
 **Last Modified:** 2025-08-31T02:07:25+00:00
-**Scraped:** 2026-07-08T09:38:35.389819+00:00
+**Scraped:** 2026-07-09T10:27:03.322496+00:00
 
+Virtual Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.6.0
 Copyright Statement
 Copyright 2021 Netskope Inc. All rights reserved. The information contained in this document is CONFIDENTIAL and PROPRIETARY in nature, and subject to the rights and ownership of Netskope. Any and all unauthorized copying or use of the contents hereof is prohibited. The Netskope logo and experience are trademarks of Netskope Inc. All other brand or product names are or may be trademarks or registered trademarks of their respective owners.
@@ -7810,14 +7821,14 @@ There are no vulnerability patches or changes included in this release.
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-77-5-0/
 **Last Modified:** 2025-08-31T02:07:32+00:00
-**Scraped:** 2026-07-08T09:38:38.048821+00:00
+**Scraped:** 2026-07-09T10:27:04.492756+00:00
 
+Virtual Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.5.0
 Copyright Statement
 Copyright 2021 Netskope Inc. All rights reserved. The information contained in this document is CONFIDENTIAL and PROPRIETARY in nature, and subject to the rights and ownership of Netskope. Any and all unauthorized copying or use of the contents hereof is prohibited. The Netskope logo and experience are trademarks of Netskope Inc. All other brand or product names are or may be trademarks or registered trademarks of their respective owners.
@@ -7867,14 +7878,14 @@ This release contains a patch for vulnerabilities.
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-93-0-0/
 **Last Modified:** 2025-08-31T02:07:19+00:00
-**Scraped:** 2026-07-08T09:38:40.871618+00:00
+**Scraped:** 2026-07-09T10:27:05.671083+00:00
 
+Virtual Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Document Version: 1.0
@@ -7949,14 +7960,14 @@ There are no other changes included in this release.
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-96-0-0/
 **Last Modified:** 2025-08-31T02:07:06+00:00
-**Scraped:** 2026-07-08T09:38:43.475851+00:00
+**Scraped:** 2026-07-09T10:27:06.844833+00:00
 
+Virtual Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 96.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for Virtual Appliance Version 96.0.0
@@ -8025,14 +8036,14 @@ KVM Image
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-93-1-0/
 **Last Modified:** 2025-08-31T02:07:12+00:00
-**Scraped:** 2026-07-08T09:38:46.057749+00:00
+**Scraped:** 2026-07-09T10:27:08.024398+00:00
 
+Virtual Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.1.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for Virtual Appliance Version 93.1.0
@@ -8102,13 +8113,12 @@ ec34ae69d1b2eafff1185bcba63ca476dafbc76049647dce482e630899c197ea
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-99-0-0/
 **Last Modified:** 2025-08-31T02:06:59+00:00
-**Scraped:** 2026-07-08T09:38:47.177797+00:00
+**Scraped:** 2026-07-09T10:27:09.206416+00:00
 
 Virtual Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 99.0.0
@@ -8189,22 +8199,23 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 106.0.0.8102
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-version-106-0-0-8102/
 **Last Modified:** 2025-08-31T02:02:54+00:00
-**Scraped:** 2026-07-08T09:38:48.734911+00:00
+**Scraped:** 2026-07-09T10:27:10.460695+00:00
 
+Netskope Private Access Publisher Release Notes Version 106.0.0.8102 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 106.0.0.8102
 Document Version: 1.0
 Software Version: 106.0.0.8102
 General Availability Date: July, 2023
 Supported Publisher Version: 106.0.0.8102, 105.0.0.8080, 104.0.0.7933, 103.0.0.7843
 What's New
-Netskope Private Access Publisher Release Notes Version 106.0.0.8102 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 106.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-106-1-0/
 **Last Modified:** 2025-08-31T01:59:41+00:00
-**Scraped:** 2026-07-08T09:38:54.375325+00:00
+**Scraped:** 2026-07-09T10:27:13.951926+00:00
 
+Netskope Release Notes Hotfix Version 106.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 106.1.0
 Published on:  July 18
 th
@@ -8219,14 +8230,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
-Netskope Release Notes Hotfix Version 106.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 106.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-106-1-0/
 **Last Modified:** 2025-08-31T09:59:20+00:00
-**Scraped:** 2026-07-08T09:38:57.142826+00:00
+**Scraped:** 2026-07-09T10:27:15.112959+00:00
 
+Netskope Release Notes Hotfix Version 106.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 106.1.0
 Published on:  July 18
 th
@@ -8241,14 +8252,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
-Netskope Release Notes Hotfix Version 106.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 107.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-107-0-0/
 **Last Modified:** 2025-08-31T01:59:35+00:00
-**Scraped:** 2026-07-08T09:38:59.813460+00:00
+**Scraped:** 2026-07-09T10:27:16.282988+00:00
 
+Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 107.0.0
 Published on: August 3
 rd
@@ -8270,14 +8281,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 107.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-107-0-0/
 **Last Modified:** 2025-08-31T01:59:37+00:00
-**Scraped:** 2026-07-08T09:39:02.510366+00:00
+**Scraped:** 2026-07-09T10:27:17.456331+00:00
 
+Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 107.0.0
 Published on: August 3
 rd
@@ -8299,28 +8310,28 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for July 2023
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-july-2023/
 **Last Modified:** 2025-08-31T02:03:35+00:00
-**Scraped:** 2026-07-08T09:39:04.051912+00:00
+**Scraped:** 2026-07-09T10:27:18.711693+00:00
 
+Netskope Digital Experience Management Release Notes for July 2023 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for July 2023
 The following is a list of Digital Experience Management (DEM) releases for the month of July 2023:
 Netskope Digital Experience Management Release Notes for July 26, 2023
 Netskope Digital Experience Management Release Notes for July 26, 2023
 New Features And Enhancements for July 26, 2023:
 Netskope has added a new Bandwidth Consumption dashboard which provides insights into application usage across different source IPs, users, Netskope POPs and access methods. This dashboard offers Netskope customers a comprehensive overview of their users’ and applications’ bandwidth consumption over extended periods of time.
-Netskope Digital Experience Management Release Notes for July 2023 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.07
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-07/
 **Last Modified:** 2025-08-31T02:05:13+00:00
-**Scraped:** 2026-07-08T09:39:05.598653+00:00
+**Scraped:** 2026-07-09T10:27:19.878568+00:00
 
+Netskope IoT Security Release Notes in Version 23.07 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.07
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of July, i.e. in 23.07 version release notes.
 Release Notes Subscription
@@ -8329,14 +8340,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope IoT Security Release Notes in Version 23.07 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 107.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-107-0-0/
 **Last Modified:** 2025-08-31T01:59:37+00:00
-**Scraped:** 2026-07-08T09:39:11.419612+00:00
+**Scraped:** 2026-07-09T10:27:23.368862+00:00
 
+Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 107.0.0
 Published on: August 3
 rd
@@ -8358,14 +8369,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 107.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-107-0-0/
 **Last Modified:** 2025-08-31T09:59:18+00:00
-**Scraped:** 2026-07-08T09:39:12.528505+00:00
+**Scraped:** 2026-07-09T10:27:24.538333+00:00
 
+Netskope Release Notes Version 107.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 107.0.0
 Published on: August 3
 rd
@@ -8392,8 +8403,9 @@ Known Issues
 ## Virtual Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:06:44+00:00
-**Scraped:** 2026-07-08T09:39:29.750983+00:00
+**Scraped:** 2026-07-09T10:27:32.871006+00:00
 
+Virtual Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 106.0.0.379
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
 Overview for Virtual Appliance Version 106.0.0.379
@@ -8487,13 +8499,12 @@ d558c36b57d6ff02d1b370b9943c535b871675b9ee3e7711f40b3b89e60104c0
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:08:02+00:00
-**Scraped:** 2026-07-08T09:39:30.862555+00:00
+**Scraped:** 2026-07-09T10:27:34.046074+00:00
 
 On-Premises Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 106.0.0.379
@@ -8597,22 +8608,23 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 107.0.0.8134
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-107-0-0-8134/
 **Last Modified:** 2025-08-31T02:02:51+00:00
-**Scraped:** 2026-07-08T09:39:33.936583+00:00
+**Scraped:** 2026-07-09T10:27:36.372731+00:00
 
+Netskope Private Access Publisher Release Notes Version 107.0.0.8134 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 107.0.0.8134
 Document Version: 1.0
 Software Version:107.0.0.8134
 Supported Publisher Version: 107.0.0.8134, 106.0.0.8102, 105.0.0.8080, 104.0.0.7933
 General Availability Date: August, 2023
 What's New
-Netskope Private Access Publisher Release Notes Version 107.0.0.8134 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 107.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-107-1-0/
 **Last Modified:** 2025-08-31T01:59:28+00:00
-**Scraped:** 2026-07-08T09:39:36.508724+00:00
+**Scraped:** 2026-07-09T10:27:37.534146+00:00
 
+Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 107.1.0
 Published on: August 17
 th
@@ -8630,14 +8642,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 107.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-107-1-0/
 **Last Modified:** 2025-08-31T01:59:29+00:00
-**Scraped:** 2026-07-08T09:39:39.062572+00:00
+**Scraped:** 2026-07-09T10:27:38.787933+00:00
 
+Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 107.1.0
 Published on: August 17
 th
@@ -8655,14 +8667,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 107.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-107-1-0/
 **Last Modified:** 2025-08-31T01:59:30+00:00
-**Scraped:** 2026-07-08T09:39:41.677462+00:00
+**Scraped:** 2026-07-09T10:27:39.955161+00:00
 
+Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 107.1.0
 Published on: August 17
 th
@@ -8680,14 +8692,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 107.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-107-1-0/
 **Last Modified:** 2025-08-31T09:59:16+00:00
-**Scraped:** 2026-07-08T09:39:44.324641+00:00
+**Scraped:** 2026-07-09T10:27:41.119091+00:00
 
+Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 107.1.0
 Published on: August 17
 th
@@ -8705,14 +8717,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 107.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for August 2023
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-august-2023/
 **Last Modified:** 2025-08-31T02:03:32+00:00
-**Scraped:** 2026-07-08T09:39:45.909982+00:00
+**Scraped:** 2026-07-09T10:27:42.285654+00:00
 
+Netskope Digital Experience Management Release Notes for August 2023 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for August 2023
 The following is a list of Digital Experience Management (DEM) releases for the month of August 2023:
 New Features And Enhancements for August 28, 2023
@@ -8724,14 +8736,14 @@ The Alert Details pages provide detailed information on individual alerts. This 
 User Overview
 Netskope has enhanced Digital Experience Management (DEM) by adding User Overview. This overview is your essential troubleshooting and optimization tool in today’s complex landscape, where network, device, and application nuances converge.
 The User Overview dashboard is an advanced feature that provides an overview of all the users that are being monitored along with their experiences. Admins can explore which users in which locations are having issues and can filter for specific parameters. The User Drilldown provides a comprehensive view that displays the user’s experience across device health and performance metrics, network telemetry, and application performance.
-Netskope Digital Experience Management Release Notes for August 2023 - Netskope Knowledge Portal
 
 ---
 ## Netskope IoT Security Release Notes in Version 23.08
 **URL:** https://docs.netskope.com/en/netskope-iot-security-release-notes-in-version-23-08/
 **Last Modified:** 2025-08-31T02:05:07+00:00
-**Scraped:** 2026-07-08T09:39:47.461681+00:00
+**Scraped:** 2026-07-09T10:27:43.448514+00:00
 
+Netskope IoT Security Release Notes in Version 23.08 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.08
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of August, i.e. in 23.08 version release notes.
 Release Notes Subscription
@@ -8740,14 +8752,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-Netskope IoT Security Release Notes in Version 23.08 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 108.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-108-0-0/
 **Last Modified:** 2025-08-31T09:59:15+00:00
-**Scraped:** 2026-07-08T09:39:53.201635+00:00
+**Scraped:** 2026-07-09T10:27:46.927041+00:00
 
+Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 108.0.0
 Published on: September 5
 th
@@ -8766,14 +8778,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 108.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-108-0-0/
 **Last Modified:** 2025-08-31T01:59:26+00:00
-**Scraped:** 2026-07-08T09:39:55.820291+00:00
+**Scraped:** 2026-07-09T10:27:48.095836+00:00
 
+Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 108.0.0
 Published on: September 5
 th
@@ -8792,14 +8804,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 108.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-108-0-0/
 **Last Modified:** 2025-08-31T01:59:27+00:00
-**Scraped:** 2026-07-08T09:39:58.428006+00:00
+**Scraped:** 2026-07-09T10:27:49.283454+00:00
 
+Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 108.0.0
 Published on: September 5
 th
@@ -8818,14 +8830,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 108.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-108-0-0/
 **Last Modified:** 2025-08-31T01:59:25+00:00
-**Scraped:** 2026-07-08T09:40:01.180172+00:00
+**Scraped:** 2026-07-09T10:27:50.650564+00:00
 
+Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 108.0.0
 Published on: September 5
 th
@@ -8844,28 +8856,28 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 108.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 108.0.0.8181
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-108-0-0-8181/
 **Last Modified:** 2025-08-31T02:02:48+00:00
-**Scraped:** 2026-07-08T09:40:07.991387+00:00
+**Scraped:** 2026-07-09T10:27:54.233601+00:00
 
+Netskope Private Access Publisher Release Notes Version 108.0.0.8181 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 108.0.0.8181
 Document Version: 1.0
 Software Version:  108.0.0.8181
 Supported Publisher Version:  108.0.0.8181, 107.0.0.8134, 106.0.0.8102, 105.0.0.8080
 General Availability Date: September, 2023
 What's New
-Netskope Private Access Publisher Release Notes Version 108.0.0.8181 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 23.09
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-23-09/
 **Last Modified:** 2025-08-31T02:04:56+00:00
-**Scraped:** 2026-07-08T09:40:09.539870+00:00
+**Scraped:** 2026-07-09T10:27:55.402570+00:00
 
+Netskope Device Intelligence Release Notes in Version 23.09 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.09
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of September, i.e. in 23.09 version release notes.
 Release Notes Subscription
@@ -8873,14 +8885,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 23.09 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-108-1-0/
 **Last Modified:** 2025-08-31T01:59:23+00:00
-**Scraped:** 2026-07-08T09:40:13.664892+00:00
+**Scraped:** 2026-07-09T10:27:57.728212+00:00
 
+Netskope Release Notes Hotfix Version 108.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.0
 Published on: September 19
 th
@@ -8895,14 +8907,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 108.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-108-1-0/
 **Last Modified:** 2025-08-31T09:59:14+00:00
-**Scraped:** 2026-07-08T09:40:16.278715+00:00
+**Scraped:** 2026-07-09T10:27:58.892996+00:00
 
+Netskope Release Notes Hotfix Version 108.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.0
 Published on: September 19
 th
@@ -8917,14 +8929,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 108.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-108-1-0/
 **Last Modified:** 2025-08-31T01:59:22+00:00
-**Scraped:** 2026-07-08T09:40:18.822370+00:00
+**Scraped:** 2026-07-09T10:28:00.079360+00:00
 
+Netskope Release Notes Hotfix Version 108.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.0
 Published on: September 19
 th
@@ -8939,14 +8951,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 108.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 109.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-109-0-0/
 **Last Modified:** 2025-08-31T01:59:15+00:00
-**Scraped:** 2026-07-08T09:40:21.392565+00:00
+**Scraped:** 2026-07-09T10:28:01.251011+00:00
 
+Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 109.0.0
 Published on: October 5
 th
@@ -8966,13 +8978,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 109.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-109-0-0/
 **Last Modified:** 2025-08-31T01:59:14+00:00
-**Scraped:** 2026-07-08T09:40:22.496060+00:00
+**Scraped:** 2026-07-09T10:28:02.437894+00:00
 
 Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 109.0.0
@@ -8999,8 +9010,9 @@ Known Issues
 ## Netskope Release Notes Version 109.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-109-0-0/
 **Last Modified:** 2025-08-31T09:59:12+00:00
-**Scraped:** 2026-07-08T09:40:25.188295+00:00
+**Scraped:** 2026-07-09T10:28:03.610514+00:00
 
+Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 109.0.0
 Published on: October 5
 th
@@ -9020,14 +9032,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 109.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-109-0-0/
 **Last Modified:** 2025-08-31T01:59:13+00:00
-**Scraped:** 2026-07-08T09:40:27.765703+00:00
+**Scraped:** 2026-07-09T10:28:04.803042+00:00
 
+Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 109.0.0
 Published on: October 5
 th
@@ -9047,14 +9059,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 109.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 109.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-109-1-0/
 **Last Modified:** 2025-08-31T01:59:09+00:00
-**Scraped:** 2026-07-08T09:40:30.739521+00:00
+**Scraped:** 2026-07-09T10:28:05.965228+00:00
 
+Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 109.1.0
 Published on: October 16
 th
@@ -9070,14 +9082,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 109.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-109-1-0/
 **Last Modified:** 2025-08-31T01:59:08+00:00
-**Scraped:** 2026-07-08T09:40:33.277221+00:00
+**Scraped:** 2026-07-09T10:28:07.126968+00:00
 
+Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 109.1.0
 Published on: October 16
 th
@@ -9093,14 +9105,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 109.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-109-1-0/
 **Last Modified:** 2025-08-31T01:59:07+00:00
-**Scraped:** 2026-07-08T09:40:35.869449+00:00
+**Scraped:** 2026-07-09T10:28:08.292315+00:00
 
+Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 109.1.0
 Published on: October 16
 th
@@ -9116,14 +9128,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 109.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-109-1-0/
 **Last Modified:** 2025-08-31T09:59:10+00:00
-**Scraped:** 2026-07-08T09:40:38.442951+00:00
+**Scraped:** 2026-07-09T10:28:09.458258+00:00
 
+Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 109.1.0
 Published on: October 16
 th
@@ -9139,14 +9151,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 109.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 109.0.0.8228
 **URL:** https://docs.netskope.com/en/publisher-release-notes/
 **Last Modified:** 2025-08-31T02:02:45+00:00
-**Scraped:** 2026-07-08T09:40:41.027359+00:00
+**Scraped:** 2026-07-09T10:28:10.618046+00:00
 
+Netskope Private Access Publisher Release Notes Version 109.0.0.8228 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 109.0.0.8228
 Document Version: 1.0
 Software Version:  109.0.0.8228
@@ -9154,14 +9166,14 @@ Supported Publisher Version:  109.0.0.8228, 108.0.0.8181, 107.0.0.8134, 106.0.0.
 General Availability Date: October, 2023
 Release Notes Publishing Date: October 16, 2023
 What's New
-Netskope Private Access Publisher Release Notes Version 109.0.0.8228 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 109.0.0.8228
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-109-0-0-8228/
 **Last Modified:** 2025-08-31T02:02:44+00:00
-**Scraped:** 2026-07-08T09:40:43.863146+00:00
+**Scraped:** 2026-07-09T10:28:11.783599+00:00
 
+Netskope Private Access Publisher Release Notes Version 109.0.0.8228 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 109.0.0.8228
 Document Version: 1.0
 Software Version:  109.0.0.8228
@@ -9169,14 +9181,14 @@ Supported Publisher Version:  109.0.0.8228, 108.0.0.8181, 107.0.0.8134, 106.0.0.
 General Availability Date: October, 2023
 Release Notes Publishing Date: October 16, 2023
 What's New
-Netskope Private Access Publisher Release Notes Version 109.0.0.8228 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.2
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-108-1-2/
 **Last Modified:** 2025-08-31T09:59:13+00:00
-**Scraped:** 2026-07-08T09:40:46.477701+00:00
+**Scraped:** 2026-07-09T10:28:12.952025+00:00
 
+Netskope Release Notes Hotfix Version 108.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.2
 Published on: October 18
 th
@@ -9191,14 +9203,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 What's New
-Netskope Release Notes Hotfix Version 108.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.1.7
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-105-1-7/
 **Last Modified:** 2025-08-31T09:59:22+00:00
-**Scraped:** 2026-07-08T09:40:49.027814+00:00
+**Scraped:** 2026-07-09T10:28:14.208796+00:00
 
+Netskope Release Notes Hotfix Version 105.1.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.1.7
 Published on: October 18
 th
@@ -9213,14 +9225,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 What's New
-Netskope Release Notes Hotfix Version 105.1.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.2
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-108-1-2/
 **Last Modified:** 2025-08-31T01:59:16+00:00
-**Scraped:** 2026-07-08T09:40:51.710549+00:00
+**Scraped:** 2026-07-09T10:28:15.369078+00:00
 
+Netskope Release Notes Hotfix Version 108.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.2
 Published on: October 18
 th
@@ -9235,14 +9247,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 What's New
-Netskope Release Notes Hotfix Version 108.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 102.1.7
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-102-1-7/
 **Last Modified:** 2025-08-31T09:59:28+00:00
-**Scraped:** 2026-07-08T09:40:54.296339+00:00
+**Scraped:** 2026-07-09T10:28:16.531536+00:00
 
+Netskope Release Notes Hotfix Version 102.1.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 102.1.7
 Published on: October 18
 th
@@ -9257,14 +9269,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 What's New
-Netskope Release Notes Hotfix Version 102.1.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 102.1.7
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-102-1-7/
 **Last Modified:** 2025-08-31T02:00:13+00:00
-**Scraped:** 2026-07-08T09:40:56.884839+00:00
+**Scraped:** 2026-07-09T10:28:17.695861+00:00
 
+Netskope Release Notes Hotfix Version 102.1.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 102.1.7
 Published on: October 18
 th
@@ -9279,14 +9291,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 What's New
-Netskope Release Notes Hotfix Version 102.1.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 105.1.7
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-105-1-7/
 **Last Modified:** 2025-08-31T01:59:48+00:00
-**Scraped:** 2026-07-08T09:40:59.415086+00:00
+**Scraped:** 2026-07-09T10:28:18.856427+00:00
 
+Netskope Release Notes Hotfix Version 105.1.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 105.1.7
 Published on: October 18
 th
@@ -9301,14 +9313,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 What's New
-Netskope Release Notes Hotfix Version 105.1.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-110-0-0/
 **Last Modified:** 2025-08-31T01:59:04+00:00
-**Scraped:** 2026-07-08T09:41:03.647663+00:00
+**Scraped:** 2026-07-09T10:28:21.198393+00:00
 
+Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 110.0.0
 Published on: November 6
 th
@@ -9328,14 +9340,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-110-0-0/
 **Last Modified:** 2025-08-31T01:59:05+00:00
-**Scraped:** 2026-07-08T09:41:06.444753+00:00
+**Scraped:** 2026-07-09T10:28:22.366578+00:00
 
+Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 110.0.0
 Published on: November 6
 th
@@ -9355,14 +9367,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 23.10
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-23-10/
 **Last Modified:** 2025-08-31T02:04:54+00:00
-**Scraped:** 2026-07-08T09:41:08.019960+00:00
+**Scraped:** 2026-07-09T10:28:23.531384+00:00
 
+Netskope Device Intelligence Release Notes in Version 23.10 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.10
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of October, i.e. in 23.10 version release notes.
 Release Notes Subscription
@@ -9370,14 +9382,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 23.10 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-110-0-0/
 **Last Modified:** 2025-08-31T09:59:09+00:00
-**Scraped:** 2026-07-08T09:41:12.400102+00:00
+**Scraped:** 2026-07-09T10:28:25.860935+00:00
 
+Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 110.0.0
 Published on: November 6
 th
@@ -9397,13 +9409,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-110-0-0/
 **Last Modified:** 2025-08-31T01:59:02+00:00
-**Scraped:** 2026-07-08T09:41:13.503948+00:00
+**Scraped:** 2026-07-09T10:28:27.026866+00:00
 
 Netskope Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 110.0.0
@@ -9430,8 +9441,9 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 110.0.0.8301
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-110-0-0-11012023/
 **Last Modified:** 2025-08-31T02:02:41+00:00
-**Scraped:** 2026-07-08T09:41:20.423037+00:00
+**Scraped:** 2026-07-09T10:28:30.703112+00:00
 
+Netskope Private Access Publisher Release Notes Version 110.0.0.8301 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 110.0.0.8301
 Document Version: 1.0
 Software Version:  110.0.0.8301
@@ -9440,14 +9452,14 @@ General Availability Date: November, 2023
 Release Notes Publishing Date: November 10, 2023
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 110.0.0.8301 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 110.0.0.8301
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-release-version-110-0-0-1101-2023/
 **Last Modified:** 2025-08-31T02:02:42+00:00
-**Scraped:** 2026-07-08T09:41:22.976316+00:00
+**Scraped:** 2026-07-09T10:28:31.867135+00:00
 
+Netskope Private Access Publisher Release Notes Version 110.0.0.8301 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 110.0.0.8301
 Document Version: 1.0
 Software Version:  110.0.0.8301
@@ -9456,14 +9468,14 @@ General Availability Date: November, 2023
 Release Notes Publishing Date: November 10, 2023
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 110.0.0.8301 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 5.0.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-5-0-0/
 **Last Modified:** 2025-08-31T02:04:05+00:00
-**Scraped:** 2026-07-08T09:41:24.549660+00:00
+**Scraped:** 2026-07-09T10:28:33.039748+00:00
 
+Netskope Cloud Exchange Release Notes Version 5.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 5.0.0
 GA Release Date: November 3, 2023
 We are excited to announce our Cloud Exchange 5.0.0 updates! Here’s the latest features, fixed issues, and known issues in this release.
@@ -9514,13 +9526,12 @@ In the High Availability feature, Load balancer like HA Proxy needs to be config
 In the High Availability feature, IP addresses of VMs will be required in order to setup. Hostname of VMs are not supported.
 There is no direct upgrade path for CE as a VM from CE v5.0.0 to newer version. You’ll need to set up a new VM using a respective image, and need to follow the backup and restore option.
 Historical pulling of tasks that are in progress will be lost on a restart of CE containers or reboot of a VM. You’ll need to do a manual sync after restart/reboot.
-Netskope Cloud Exchange Release Notes Version 5.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 111.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-111-0-0/
 **Last Modified:** 2025-08-31T09:59:08+00:00
-**Scraped:** 2026-07-08T09:41:25.666118+00:00
+**Scraped:** 2026-07-09T10:28:34.207348+00:00
 
 Netskope Release Notes Version 111.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 111.0.0
@@ -9548,8 +9559,9 @@ Known Issues
 ## Netskope Release Notes Version 111.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-111-0-0/
 **Last Modified:** 2025-08-31T01:58:57+00:00
-**Scraped:** 2026-07-08T09:41:28.281032+00:00
+**Scraped:** 2026-07-09T10:28:35.373234+00:00
 
+Netskope Release Notes Version 111.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 111.0.0
 Published on: December 4
 th
@@ -9570,13 +9582,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 111.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 111.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-111-0-0/
 **Last Modified:** 2025-08-31T01:58:56+00:00
-**Scraped:** 2026-07-08T09:41:29.764393+00:00
+**Scraped:** 2026-07-09T10:28:36.542094+00:00
 
 Netskope Release Notes Version 111.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 111.0.0
@@ -9604,8 +9615,9 @@ Known Issues
 ## Netskope Release Notes Version 111.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-111-0-0/
 **Last Modified:** 2025-08-31T01:58:55+00:00
-**Scraped:** 2026-07-08T09:41:32.496612+00:00
+**Scraped:** 2026-07-09T10:28:37.711688+00:00
 
+Netskope Release Notes Version 111.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 111.0.0
 Published on: December 4
 th
@@ -9626,13 +9638,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 111.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 23.11
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-23-11/
 **Last Modified:** 2025-08-31T02:04:52+00:00
-**Scraped:** 2026-07-08T09:41:33.588258+00:00
+**Scraped:** 2026-07-09T10:28:38.872377+00:00
 
 Netskope Device Intelligence Release Notes in Version 23.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.11
@@ -9648,8 +9659,9 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-110-0-0/
 **Last Modified:** 2025-08-31T02:06:36+00:00
-**Scraped:** 2026-07-08T09:41:39.355348+00:00
+**Scraped:** 2026-07-09T10:28:42.370870+00:00
 
+Virtual Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 110.0.0
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
 Overview for Virtual Appliance Version 110.0.0
@@ -9735,14 +9747,14 @@ fe79b732b2e457e4af2809e7317d663b
 b52ede42c6e3e0fe6ced283a0fa53b4dcd9342f30f69797becb26fe7c16e341b
 What's New
 Fixed Issues
-Virtual Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-110-0-0/
 **Last Modified:** 2025-08-31T02:07:54+00:00
-**Scraped:** 2026-07-08T09:41:42.061131+00:00
+**Scraped:** 2026-07-09T10:28:43.545106+00:00
 
+On-Premises Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 110.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 110.0.0
@@ -9820,14 +9832,14 @@ EOL/EOS for DPoP r99
 .
 What's New
 Fixed Issues
-On-Premises Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 111.0.0.8350
 **URL:** https://docs.netskope.com/en/npa-publisher-release-notes-111-0-0/
 **Last Modified:** 2025-08-31T02:02:39+00:00
-**Scraped:** 2026-07-08T09:41:55.847345+00:00
+**Scraped:** 2026-07-09T10:28:49.402444+00:00
 
+Netskope Private Access Publisher Release Notes Version 111.0.0.8350 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 111.0.0.8350
 Document Version: 1.0
 Software Version:  111.0.0.8350
@@ -9836,14 +9848,14 @@ General Availability Date: December, 2023
 Release Notes Publishing Date: December 7, 2023
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 111.0.0.8350 - Netskope Knowledge Portal
 
 ---
 ## Netskope Private Access Publisher Release Notes Version 111.0.0.8350
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-release-111-0-0-8350/
 **Last Modified:** 2025-08-31T02:02:37+00:00
-**Scraped:** 2026-07-08T09:41:58.480561+00:00
+**Scraped:** 2026-07-09T10:28:50.586984+00:00
 
+Netskope Private Access Publisher Release Notes Version 111.0.0.8350 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 111.0.0.8350
 Document Version: 1.0
 Software Version:  111.0.0.8350
@@ -9852,14 +9864,14 @@ General Availability Date: December, 2023
 Release Notes Publishing Date: December 7, 2023
 What's New
 Fixed Issues
-Netskope Private Access Publisher Release Notes Version 111.0.0.8350 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.4
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-108-1-4-1017/
 **Last Modified:** 2025-08-31T01:59:11+00:00
-**Scraped:** 2026-07-08T09:42:03.763775+00:00
+**Scraped:** 2026-07-09T10:28:52.912777+00:00
 
+Netskope Release Notes Hotfix Version 108.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.4
 Netskope Release Notes Version Hotfix 108.1.4
 Published on: December 14
@@ -9875,14 +9887,14 @@ To preview some of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 108.1.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 108.1.4
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-108-1-4-1017/
 **Last Modified:** 2025-08-31T09:59:11+00:00
-**Scraped:** 2026-07-08T09:42:06.334086+00:00
+**Scraped:** 2026-07-09T10:28:54.076499+00:00
 
+Netskope Release Notes Hotfix Version 108.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 108.1.4
 Netskope Release Notes Version Hotfix 108.1.4
 Published on: December 14
@@ -9898,14 +9910,14 @@ To preview some of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 108.1.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 111.0.8
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-111-0-8/
 **Last Modified:** 2025-08-31T09:59:07+00:00
-**Scraped:** 2026-07-08T09:42:10.541452+00:00
+**Scraped:** 2026-07-09T10:28:56.399617+00:00
 
+Netskope Release Notes Hotfix Version 111.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.0.8
 Published on: December 19
 th
@@ -9921,14 +9933,14 @@ Product Change Notification
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 111.0.8 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 111.0.8
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-111-0-8/
 **Last Modified:** 2025-08-31T01:58:59+00:00
-**Scraped:** 2026-07-08T09:42:15.724792+00:00
+**Scraped:** 2026-07-09T10:28:58.724261+00:00
 
+Netskope Release Notes Hotfix Version 111.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.0.8
 Published on: December 19
 th
@@ -9944,14 +9956,14 @@ Product Change Notification
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 111.0.8 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 23.12
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-23-12/
 **Last Modified:** 2025-08-31T02:04:50+00:00
-**Scraped:** 2026-07-08T09:42:17.269532+00:00
+**Scraped:** 2026-07-09T10:28:59.884557+00:00
 
+Netskope Device Intelligence Release Notes in Version 23.12 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.12
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of December, i.e. in 23.12 version release notes.
 Release Notes Subscription
@@ -9959,14 +9971,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 23.12 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 111.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-111-1-0/
 **Last Modified:** 2025-08-31T09:59:06+00:00
-**Scraped:** 2026-07-08T09:42:21.358850+00:00
+**Scraped:** 2026-07-09T10:29:02.223860+00:00
 
+Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.1.0
 Published on: January 11
 th
@@ -9982,14 +9994,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 111.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-111-1-0/
 **Last Modified:** 2025-08-31T01:58:53+00:00
-**Scraped:** 2026-07-08T09:42:24.055875+00:00
+**Scraped:** 2026-07-09T10:29:03.389326+00:00
 
+Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.1.0
 Published on: January 11
 th
@@ -10005,14 +10017,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 111.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-111-1-0/
 **Last Modified:** 2025-08-31T01:58:54+00:00
-**Scraped:** 2026-07-08T09:42:26.851823+00:00
+**Scraped:** 2026-07-09T10:29:04.556958+00:00
 
+Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.1.0
 Published on: January 11
 th
@@ -10028,14 +10040,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 111.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-111-1-0/
 **Last Modified:** 2025-08-31T01:58:52+00:00
-**Scraped:** 2026-07-08T09:42:29.485015+00:00
+**Scraped:** 2026-07-09T10:29:05.724254+00:00
 
+Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.1.0
 Published on: January 11
 th
@@ -10051,14 +10063,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 111.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.01
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-01/
 **Last Modified:** 2025-08-31T02:04:48+00:00
-**Scraped:** 2026-07-08T09:42:32.852534+00:00
+**Scraped:** 2026-07-09T10:29:08.044353+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.01 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.01
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of January, i.e. in 24.01 version release notes.
 Release Notes Subscription
@@ -10066,14 +10078,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.01 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 112.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-112-0-0/
 **Last Modified:** 2025-08-31T09:59:06+00:00
-**Scraped:** 2026-07-08T09:42:36.996188+00:00
+**Scraped:** 2026-07-09T10:29:10.371434+00:00
 
+Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 112.0.0
 Published on: February 8
 th
@@ -10098,14 +10110,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 112.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-112-0-0/
 **Last Modified:** 2025-08-31T01:58:48+00:00
-**Scraped:** 2026-07-08T09:42:39.583484+00:00
+**Scraped:** 2026-07-09T10:29:11.542673+00:00
 
+Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 112.0.0
 Published on: February 8
 th
@@ -10130,13 +10142,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 112.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-112-0-0/
 **Last Modified:** 2025-08-31T01:58:49+00:00
-**Scraped:** 2026-07-08T09:42:40.686663+00:00
+**Scraped:** 2026-07-09T10:29:12.712278+00:00
 
 Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 112.0.0
@@ -10168,8 +10179,9 @@ Known Issues
 ## Netskope Release Notes Version 112.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-112-0-0/
 **Last Modified:** 2025-08-31T01:58:50+00:00
-**Scraped:** 2026-07-08T09:42:43.324526+00:00
+**Scraped:** 2026-07-09T10:29:13.881698+00:00
 
+Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 112.0.0
 Published on: February 8
 th
@@ -10194,14 +10206,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 112.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.02
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-02/
 **Last Modified:** 2025-08-31T02:04:46+00:00
-**Scraped:** 2026-07-08T09:42:52.584239+00:00
+**Scraped:** 2026-07-09T10:29:18.527551+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.02 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.02
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of February, i.e. in 24.02 version release notes.
 Release Notes Subscription
@@ -10209,13 +10221,12 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.02 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-113-0-0/
 **Last Modified:** 2025-08-31T09:59:04+00:00
-**Scraped:** 2026-07-08T09:42:56.769837+00:00
+**Scraped:** 2026-07-09T10:29:22.017276+00:00
 
 Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 113.0.0
@@ -10243,8 +10254,9 @@ Known Issues
 ## Netskope Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-113-0-0/
 **Last Modified:** 2025-08-31T01:58:42+00:00
-**Scraped:** 2026-07-08T09:42:59.416462+00:00
+**Scraped:** 2026-07-09T10:29:23.181084+00:00
 
+Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 113.0.0
 Published on: March 4
 th
@@ -10265,14 +10277,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-113-0-0/
 **Last Modified:** 2025-08-31T01:58:43+00:00
-**Scraped:** 2026-07-08T09:43:02.197439+00:00
+**Scraped:** 2026-07-09T10:29:24.347325+00:00
 
+Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 113.0.0
 Published on: March 4
 th
@@ -10293,14 +10305,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-113-0-0/
 **Last Modified:** 2025-08-31T01:58:44+00:00
-**Scraped:** 2026-07-08T09:43:04.780998+00:00
+**Scraped:** 2026-07-09T10:29:25.518994+00:00
 
+Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 113.0.0
 Published on: March 4
 th
@@ -10321,14 +10333,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 113.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 113.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-113-1-0/
 **Last Modified:** 2025-08-31T09:59:05+00:00
-**Scraped:** 2026-07-08T09:43:10.608551+00:00
+**Scraped:** 2026-07-09T10:29:29.013100+00:00
 
+Netskope Release Notes Hotfix Version 113.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 113.1.0
 Published on: March 18
 th
@@ -10344,14 +10356,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
 Deprecated
-Netskope Release Notes Hotfix Version 113.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 113.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-113-1-0/
 **Last Modified:** 2025-08-31T01:58:45+00:00
-**Scraped:** 2026-07-08T09:43:13.277753+00:00
+**Scraped:** 2026-07-09T10:29:30.178016+00:00
 
+Netskope Release Notes Hotfix Version 113.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 113.1.0
 Published on: March 18
 th
@@ -10367,14 +10379,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
 Deprecated
-Netskope Release Notes Hotfix Version 113.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 113.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-113-1-0/
 **Last Modified:** 2025-08-31T01:58:46+00:00
-**Scraped:** 2026-07-08T09:43:15.957788+00:00
+**Scraped:** 2026-07-09T10:29:31.343803+00:00
 
+Netskope Release Notes Hotfix Version 113.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 113.1.0
 Published on: March 18
 th
@@ -10390,14 +10402,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
 Deprecated
-Netskope Release Notes Hotfix Version 113.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 5.0.1
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-5-0-1/
 **Last Modified:** 2025-08-31T02:04:03+00:00
-**Scraped:** 2026-07-08T09:43:17.512222+00:00
+**Scraped:** 2026-07-09T10:29:32.511648+00:00
 
+Netskope Cloud Exchange Release Notes Version 5.0.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 5.0.1
 GA Release Date: March 12, 2024
 We are excited to announce our Cloud Exchange 5.0.1 updates! Here’s the latest features and changes, fixed issues, and known issues in this release.
@@ -10463,14 +10475,14 @@ Migration from an older CE version to CE v5.0.1 results in 1-2 hrs of delays of 
 Duplicate historical tasks will be run in parallel resulting into 409 errors on deletion and re-configuration of SIEM mapping for same source and destination in Log Shipper only, when deletion and reconfiguration should happens in few mins.
 CE HA Nodes need to be restarted when Majority RabbitMQ nodes status is down and RabbitMQ Cluster is experiencing the split brain issue.
 The Core container might experience trouble connecting with the MongoDB container on CE startup, resulting in Auto reconnect errors in logs, and restart of core container a few times, which will be auto resolved in a few minutes.
-Netskope Cloud Exchange Release Notes Version 5.0.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.03
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-03/
 **Last Modified:** 2025-08-31T02:04:45+00:00
-**Scraped:** 2026-07-08T09:43:20.696284+00:00
+**Scraped:** 2026-07-09T10:29:34.837720+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.03 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.03
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of March, i.e. in 24.03 version release notes.
 Release Notes Subscription
@@ -10478,13 +10490,12 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.03 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-113-0-0/
 **Last Modified:** 2025-08-31T02:07:49+00:00
-**Scraped:** 2026-07-08T09:43:28.631327+00:00
+**Scraped:** 2026-07-09T10:29:38.441081+00:00
 
 On-Premises Appliance Release Notes Version 113.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
@@ -10564,14 +10575,14 @@ EOL/EOS for DPoP r99
 What's New
 Fixed Issues
 Known Issues
-On-Premises Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-113-0-0/
 **Last Modified:** 2025-08-31T02:06:29+00:00
-**Scraped:** 2026-07-08T09:43:34.363285+00:00
+**Scraped:** 2026-07-09T10:29:40.798463+00:00
 
+Virtual Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 113.0.0
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
 Overview for Virtual Appliance Version 113.0.0
@@ -10657,14 +10668,14 @@ KVM Image
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 114.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-114-0-0/
 **Last Modified:** 2025-08-31T09:59:03+00:00
-**Scraped:** 2026-07-08T09:43:46.793009+00:00
+**Scraped:** 2026-07-09T10:29:48.089816+00:00
 
+Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 114.0.0
 Published on: April 18
 th
@@ -10696,8 +10707,9 @@ Known Issues
 ## Netskope Release Notes Version 114.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-114-0-0/
 **Last Modified:** 2025-08-31T01:58:39+00:00
-**Scraped:** 2026-07-08T09:43:49.439186+00:00
+**Scraped:** 2026-07-09T10:29:49.385740+00:00
 
+Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 114.0.0
 Published on: April 18
 th
@@ -10724,14 +10736,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 114.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-114-0-0/
 **Last Modified:** 2025-08-31T01:58:40+00:00
-**Scraped:** 2026-07-08T09:43:52.211265+00:00
+**Scraped:** 2026-07-09T10:29:50.551874+00:00
 
+Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 114.0.0
 Published on: April 18
 th
@@ -10758,14 +10770,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 114.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-114-0-0/
 **Last Modified:** 2025-08-31T01:58:41+00:00
-**Scraped:** 2026-07-08T09:43:54.878643+00:00
+**Scraped:** 2026-07-09T10:29:51.936203+00:00
 
+Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 114.0.0
 Published on: April 18
 th
@@ -10792,13 +10804,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 114.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.04
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-04/
 **Last Modified:** 2025-08-31T02:04:43+00:00
-**Scraped:** 2026-07-08T09:43:57.512952+00:00
+**Scraped:** 2026-07-09T10:29:54.256199+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.04 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.04
@@ -10813,8 +10824,9 @@ What's New
 ## Netskope Release Notes Version 115.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-115-0-0/
 **Last Modified:** 2025-08-31T09:59:01+00:00
-**Scraped:** 2026-07-08T09:44:01.753953+00:00
+**Scraped:** 2026-07-09T10:29:56.678145+00:00
 
+Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 115.0.0
 Published on: May 6
 th
@@ -10836,14 +10848,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 115.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-115-0-0/
 **Last Modified:** 2025-08-31T01:58:32+00:00
-**Scraped:** 2026-07-08T09:44:04.530873+00:00
+**Scraped:** 2026-07-09T10:29:57.844799+00:00
 
+Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 115.0.0
 Published on: May 6
 th
@@ -10865,14 +10877,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 115.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-115-0-0/
 **Last Modified:** 2025-08-31T01:58:33+00:00
-**Scraped:** 2026-07-08T09:44:07.110385+00:00
+**Scraped:** 2026-07-09T10:29:59.010380+00:00
 
+Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 115.0.0
 Published on: May 6
 th
@@ -10894,14 +10906,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 115.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-115-0-0/
 **Last Modified:** 2025-08-31T01:58:34+00:00
-**Scraped:** 2026-07-08T09:44:09.747042+00:00
+**Scraped:** 2026-07-09T10:30:00.195720+00:00
 
+Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 115.0.0
 Published on: May 6
 th
@@ -10923,14 +10935,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 115.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-115-0-0/
 **Last Modified:** 2025-08-31T01:58:35+00:00
-**Scraped:** 2026-07-08T09:44:12.454702+00:00
+**Scraped:** 2026-07-09T10:30:01.381952+00:00
 
+Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 115.0.0
 Published on: May 6
 th
@@ -10952,14 +10964,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 115.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 115.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-115-1-0/
 **Last Modified:** 2025-08-31T09:59:00+00:00
-**Scraped:** 2026-07-08T09:44:22.877459+00:00
+**Scraped:** 2026-07-09T10:30:06.072884+00:00
 
+Netskope Release Notes Hotfix Version 115.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 115.1.0
 Netskope Release Note Hotfix Version 115.1.0
 Published on: May 20
@@ -10975,14 +10987,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
-Netskope Release Notes Hotfix Version 115.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 115.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-115-1-0/
 **Last Modified:** 2025-08-31T01:58:31+00:00
-**Scraped:** 2026-07-08T09:44:25.459451+00:00
+**Scraped:** 2026-07-09T10:30:07.234549+00:00
 
+Netskope Release Notes Hotfix Version 115.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 115.1.0
 Netskope Release Note Hotfix Version 115.1.0
 Published on: May 20
@@ -10998,14 +11010,14 @@ Upcoming Product Changes
 To get a preview of what’s coming in the next release, see:
 Product Change Notification
 Known Issues
-Netskope Release Notes Hotfix Version 115.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 115.1.1
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-115-1-1/
 **Last Modified:** 2025-08-31T09:58:59+00:00
-**Scraped:** 2026-07-08T09:44:34.746934+00:00
+**Scraped:** 2026-07-09T10:30:11.906143+00:00
 
+Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 115.1.1
 Published on: May 23
 rd
@@ -11021,14 +11033,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 115.1.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-115-1-1/
 **Last Modified:** 2025-08-31T01:58:27+00:00
-**Scraped:** 2026-07-08T09:44:37.340615+00:00
+**Scraped:** 2026-07-09T10:30:13.071793+00:00
 
+Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 115.1.1
 Published on: May 23
 rd
@@ -11044,14 +11056,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 115.1.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-115-1-1/
 **Last Modified:** 2025-08-31T01:58:28+00:00
-**Scraped:** 2026-07-08T09:44:40.030160+00:00
+**Scraped:** 2026-07-09T10:30:14.235935+00:00
 
+Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 115.1.1
 Published on: May 23
 rd
@@ -11067,14 +11079,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 115.1.1
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-115-1-1/
 **Last Modified:** 2025-08-31T01:58:29+00:00
-**Scraped:** 2026-07-08T09:44:42.621576+00:00
+**Scraped:** 2026-07-09T10:30:15.400146+00:00
 
+Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 115.1.1
 Published on: May 23
 rd
@@ -11090,14 +11102,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 115.1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for May 2024
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-may-2024/
 **Last Modified:** 2025-08-31T02:03:30+00:00
-**Scraped:** 2026-07-08T09:44:44.163752+00:00
+**Scraped:** 2026-07-09T10:30:16.563528+00:00
 
+Netskope Digital Experience Management Release Notes for May 2024 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for May 2024
 The following is a list of Digital Experience Management (DEM) releases for the month of May 2024:
 New Features And Enhancements for May 31, 2024
@@ -11107,13 +11119,12 @@ DEM Configuration Services
 Starting with version 114.0.0, the Netskope Client makes use of the P-DEM Netskope Client Configuration Service (CCS) by which users subscribed to P-DEM Professional can control the collection of the network and device health information at various granularity including organizational unit, group, and individual user. With the release of version 114.0.0, all existing users of P-DEM Professional will have their current configuration seamlessly migrated to the CCS. To learn more about the P-DEM Netskope Client Configuration Service, please see
 Settings
 .
-Netskope Digital Experience Management Release Notes for May 2024 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 116.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-116-0-0/
 **Last Modified:** 2025-08-31T09:58:58+00:00
-**Scraped:** 2026-07-08T09:44:45.283289+00:00
+**Scraped:** 2026-07-09T10:30:17.729598+00:00
 
 Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 116.0.0
@@ -11138,8 +11149,9 @@ Deprecated
 ## Netskope Release Notes Version 116.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-116-0-0/
 **Last Modified:** 2025-08-31T01:58:23+00:00
-**Scraped:** 2026-07-08T09:44:47.931579+00:00
+**Scraped:** 2026-07-09T10:30:18.901648+00:00
 
+Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 116.0.0
 Published on: June 3
 rd
@@ -11157,14 +11169,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 116.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-116-0-0/
 **Last Modified:** 2025-08-31T01:58:23+00:00
-**Scraped:** 2026-07-08T09:44:50.566312+00:00
+**Scraped:** 2026-07-09T10:30:20.069455+00:00
 
+Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 116.0.0
 Published on: June 3
 rd
@@ -11182,14 +11194,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 116.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-116-0-0/
 **Last Modified:** 2025-08-31T01:58:25+00:00
-**Scraped:** 2026-07-08T09:44:53.201462+00:00
+**Scraped:** 2026-07-09T10:30:21.236616+00:00
 
+Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 116.0.0
 Published on: June 3
 rd
@@ -11207,14 +11219,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 116.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-116-0-0/
 **Last Modified:** 2025-08-31T01:58:26+00:00
-**Scraped:** 2026-07-08T09:44:55.825570+00:00
+**Scraped:** 2026-07-09T10:30:22.401001+00:00
 
+Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 116.0.0
 Published on: June 3
 rd
@@ -11232,14 +11244,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 116.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 114.0.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-114-0-5/
 **Last Modified:** 2025-08-31T01:58:37+00:00
-**Scraped:** 2026-07-08T09:45:05.646777+00:00
+**Scraped:** 2026-07-09T10:30:27.050734+00:00
 
+Netskope Release Notes Hotfix Version 114.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 114.0.5
 Published on: June 12
 th
@@ -11255,14 +11267,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 114.0.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 114.0.5
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-114-0-5/
 **Last Modified:** 2025-08-31T09:59:02+00:00
-**Scraped:** 2026-07-08T09:45:08.189682+00:00
+**Scraped:** 2026-07-09T10:30:28.302422+00:00
 
+Netskope Release Notes Hotfix Version 114.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 114.0.5
 Published on: June 12
 th
@@ -11278,14 +11290,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 114.0.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 116.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-116-1-0/
 **Last Modified:** 2025-08-31T09:58:57+00:00
-**Scraped:** 2026-07-08T09:45:10.752929+00:00
+**Scraped:** 2026-07-09T10:30:29.465838+00:00
 
+Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 116.1.0
 Published on: June 17
 th
@@ -11302,14 +11314,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 116.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-116-1-0/
 **Last Modified:** 2025-08-31T01:58:21+00:00
-**Scraped:** 2026-07-08T09:45:13.308799+00:00
+**Scraped:** 2026-07-09T10:30:30.627003+00:00
 
+Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 116.1.0
 Published on: June 17
 th
@@ -11326,14 +11338,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 116.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-116-1-0/
 **Last Modified:** 2025-08-31T01:58:19+00:00
-**Scraped:** 2026-07-08T09:45:15.940337+00:00
+**Scraped:** 2026-07-09T10:30:31.790201+00:00
 
+Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 116.1.0
 Published on: June 17
 th
@@ -11350,14 +11362,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 116.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-116-1-0/
 **Last Modified:** 2025-08-31T01:58:20+00:00
-**Scraped:** 2026-07-08T09:45:18.695054+00:00
+**Scraped:** 2026-07-09T10:30:32.951575+00:00
 
+Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 116.1.0
 Published on: June 17
 th
@@ -11374,14 +11386,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 116.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.06
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-06/
 **Last Modified:** 2025-08-31T02:04:41+00:00
-**Scraped:** 2026-07-08T09:45:20.281512+00:00
+**Scraped:** 2026-07-09T10:30:34.113966+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.06 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.06
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of June, i.e. in 24.06 version release notes.
 Release Notes Subscription
@@ -11389,13 +11401,12 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.06 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-117-0-0/
 **Last Modified:** 2025-08-31T09:58:56+00:00
-**Scraped:** 2026-07-08T09:45:24.461422+00:00
+**Scraped:** 2026-07-09T10:30:37.702765+00:00
 
 Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 117.0.0
@@ -11420,8 +11431,9 @@ Deprecated
 ## Netskope Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-117-0-0/
 **Last Modified:** 2025-08-31T01:58:14+00:00
-**Scraped:** 2026-07-08T09:45:27.168657+00:00
+**Scraped:** 2026-07-09T10:30:38.870117+00:00
 
+Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 117.0.0
 Published on: July 1
 st
@@ -11439,14 +11451,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-117-0-0/
 **Last Modified:** 2025-08-31T01:58:15+00:00
-**Scraped:** 2026-07-08T09:45:29.838935+00:00
+**Scraped:** 2026-07-09T10:30:40.036947+00:00
 
+Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 117.0.0
 Published on: July 1
 st
@@ -11464,14 +11476,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-117-0-0/
 **Last Modified:** 2025-08-31T01:58:16+00:00
-**Scraped:** 2026-07-08T09:45:32.535474+00:00
+**Scraped:** 2026-07-09T10:30:41.208089+00:00
 
+Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 117.0.0
 Published on: July 1
 st
@@ -11489,14 +11501,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-117-0-0/
 **Last Modified:** 2025-08-31T01:58:17+00:00
-**Scraped:** 2026-07-08T09:45:35.419835+00:00
+**Scraped:** 2026-07-09T10:30:42.373988+00:00
 
+Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 117.0.0
 Published on: July 1
 st
@@ -11514,14 +11526,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 117.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for July 2024
 **URL:** https://docs.netskope.com/en/the-following-is-a-list-of-digital-experience-management-dem-releases-for-the-month-of-july-2024/
 **Last Modified:** 2025-08-31T02:03:26+00:00
-**Scraped:** 2026-07-08T09:45:43.779515+00:00
+**Scraped:** 2026-07-09T10:30:47.040596+00:00
 
+Netskope Digital Experience Management Release Notes for July 2024 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for July 2024
 The following is a list of Digital Experience Management (DEM) releases for the month of July 2024:
 New Features And Enhancements for July 15, 2024
@@ -11549,14 +11561,14 @@ The user experience score algorithm has been updated. The update further optimiz
 User Experience Score
 documentation.
 Starting on June 13, 2024, the user experience scores will be computed using the new, optimized algorithm. However, scores prior to June 13th will continue to use the previous scoring model.
-Netskope Digital Experience Management Release Notes for July 2024 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 117.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-117-1-0/
 **Last Modified:** 2025-08-31T09:58:54+00:00
-**Scraped:** 2026-07-08T09:45:46.355432+00:00
+**Scraped:** 2026-07-09T10:30:48.204720+00:00
 
+Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 117.1.0
 Published on: July 17
 th
@@ -11572,14 +11584,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 117.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-117-1-0/
 **Last Modified:** 2025-08-31T01:58:09+00:00
-**Scraped:** 2026-07-08T09:45:48.978929+00:00
+**Scraped:** 2026-07-09T10:30:49.367723+00:00
 
+Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 117.1.0
 Published on: July 17
 th
@@ -11595,14 +11607,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 117.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-117-1-0/
 **Last Modified:** 2025-08-31T01:58:10+00:00
-**Scraped:** 2026-07-08T09:45:51.525147+00:00
+**Scraped:** 2026-07-09T10:30:50.544801+00:00
 
+Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 117.1.0
 Published on: July 17
 th
@@ -11618,14 +11630,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 117.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-117-1-0/
 **Last Modified:** 2025-08-31T01:58:10+00:00
-**Scraped:** 2026-07-08T09:45:54.099258+00:00
+**Scraped:** 2026-07-09T10:30:51.708806+00:00
 
+Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 117.1.0
 Published on: July 17
 th
@@ -11641,14 +11653,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 117.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.07
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-07/
 **Last Modified:** 2025-08-31T02:04:39+00:00
-**Scraped:** 2026-07-08T09:45:55.647837+00:00
+**Scraped:** 2026-07-09T10:30:53.084285+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.07 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.07
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of July, i.e. in 24.07 version release notes.
 Release Notes Subscription
@@ -11656,14 +11668,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.07 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 118.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-118-0-0/
 **Last Modified:** 2025-08-31T09:58:54+00:00
-**Scraped:** 2026-07-08T09:45:59.813583+00:00
+**Scraped:** 2026-07-09T10:30:55.450471+00:00
 
+Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 118.0.0
 Published on: August 5
 th
@@ -11692,14 +11704,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 118.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-118-0-0/
 **Last Modified:** 2025-08-31T01:58:04+00:00
-**Scraped:** 2026-07-08T09:46:02.545141+00:00
+**Scraped:** 2026-07-09T10:30:56.620056+00:00
 
+Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 118.0.0
 Published on: August 5
 th
@@ -11728,14 +11740,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 118.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-118-0-0/
 **Last Modified:** 2025-08-31T01:58:05+00:00
-**Scraped:** 2026-07-08T09:46:05.154156+00:00
+**Scraped:** 2026-07-09T10:30:57.787679+00:00
 
+Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 118.0.0
 Published on: August 5
 th
@@ -11764,14 +11776,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 118.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-118-0-0/
 **Last Modified:** 2025-08-31T01:58:06+00:00
-**Scraped:** 2026-07-08T09:46:07.995978+00:00
+**Scraped:** 2026-07-09T10:30:58.953228+00:00
 
+Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 118.0.0
 Published on: August 5
 th
@@ -11800,14 +11812,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 118.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-118-0-0/
 **Last Modified:** 2025-08-31T01:58:07+00:00
-**Scraped:** 2026-07-08T09:46:10.758911+00:00
+**Scraped:** 2026-07-09T10:31:00.149591+00:00
 
+Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 118.0.0
 Published on: August 5
 th
@@ -11836,14 +11848,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 118.0.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-117-0-0/
 **Last Modified:** 2025-08-31T02:07:43+00:00
-**Scraped:** 2026-07-08T09:46:13.593232+00:00
+**Scraped:** 2026-07-09T10:31:01.415895+00:00
 
+On-Premises Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 117.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 117.0.0
@@ -11922,14 +11934,14 @@ NETSKOPE-APPLIANCE-MIB-APL117
 Download
 What's New
 Fixed Issues
-On-Premises Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-117-0-0/
 **Last Modified:** 2025-08-31T02:06:22+00:00
-**Scraped:** 2026-07-08T09:46:21.427115+00:00
+**Scraped:** 2026-07-09T10:31:04.936998+00:00
 
+Virtual Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 117.0.0
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
 Requirements for Virtual Appliance Version 117.0.0
@@ -12013,14 +12025,14 @@ NETSKOPE-APPLIANCE-MIB-APL117
 Download
 What's New
 Fixed Issues
-Virtual Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 118.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-118-1-0/
 **Last Modified:** 2025-08-31T09:58:53+00:00
-**Scraped:** 2026-07-08T09:46:29.201087+00:00
+**Scraped:** 2026-07-09T10:31:08.440526+00:00
 
+Netskope Release Notes Hotfix Version 118.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 118.1.0
 Published on: August 19
 th
@@ -12037,14 +12049,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 118.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 118.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-118-1-0/
 **Last Modified:** 2025-08-31T01:57:52+00:00
-**Scraped:** 2026-07-08T09:46:31.829952+00:00
+**Scraped:** 2026-07-09T10:31:09.606932+00:00
 
+Netskope Release Notes Hotfix Version 118.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 118.1.0
 Published on: August 19
 th
@@ -12061,14 +12073,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 118.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 118.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-118-1-0/
 **Last Modified:** 2025-08-31T01:57:53+00:00
-**Scraped:** 2026-07-08T09:46:34.406800+00:00
+**Scraped:** 2026-07-09T10:31:10.769090+00:00
 
+Netskope Release Notes Hotfix Version 118.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 118.1.0
 Published on: August 19
 th
@@ -12085,14 +12097,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 118.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.08
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-08/
 **Last Modified:** 2025-08-31T02:04:37+00:00
-**Scraped:** 2026-07-08T09:46:45.272045+00:00
+**Scraped:** 2026-07-09T10:31:16.583623+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.08 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.08
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of August, i.e. in 24.08 version release notes.
 Release Notes Subscription
@@ -12100,13 +12112,12 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.08 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 119.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-119-0-0/
 **Last Modified:** 2025-08-31T09:58:52+00:00
-**Scraped:** 2026-07-08T09:46:47.951477+00:00
+**Scraped:** 2026-07-09T10:31:18.913743+00:00
 
 Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 119.0.0
@@ -12153,8 +12164,9 @@ Deprecated
 ## Netskope Release Notes Version 119.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-119-0-0/
 **Last Modified:** 2026-06-09T18:01:48+00:00
-**Scraped:** 2026-07-08T09:46:50.575465+00:00
+**Scraped:** 2026-07-09T10:31:20.178052+00:00
 
+Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 119.0.0
 Published on: September 3
 rd
@@ -12194,14 +12206,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 119.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-119-0-0/
 **Last Modified:** 2025-08-31T01:57:59+00:00
-**Scraped:** 2026-07-08T09:46:53.170663+00:00
+**Scraped:** 2026-07-09T10:31:21.356310+00:00
 
+Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 119.0.0
 Published on: September 3
 rd
@@ -12241,14 +12253,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 119.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-119-0-0/
 **Last Modified:** 2025-08-31T01:58:00+00:00
-**Scraped:** 2026-07-08T09:46:55.788444+00:00
+**Scraped:** 2026-07-09T10:31:22.531518+00:00
 
+Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 119.0.0
 Published on: September 3
 rd
@@ -12288,14 +12300,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 119.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-119-0-0/
 **Last Modified:** 2025-08-31T01:58:02+00:00
-**Scraped:** 2026-07-08T09:46:58.472879+00:00
+**Scraped:** 2026-07-09T10:31:23.703389+00:00
 
+Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 119.0.0
 Published on: September 3
 rd
@@ -12335,13 +12347,12 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 119.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for September 2024
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-september-2024/
 **Last Modified:** 2025-08-31T02:03:21+00:00
-**Scraped:** 2026-07-08T09:47:01.113186+00:00
+**Scraped:** 2026-07-09T10:31:26.034534+00:00
 
 Netskope Digital Experience Management Release Notes for September 2024 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for September 2024
@@ -12395,8 +12406,9 @@ This RCA functionality for user experience score will help accelerate problem id
 ## Netskope Digital Experience Management Release Notes for August 2024
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-august-2024/
 **Last Modified:** 2025-08-31T02:03:23+00:00
-**Scraped:** 2026-07-08T09:47:02.712964+00:00
+**Scraped:** 2026-07-09T10:31:27.199300+00:00
 
+Netskope Digital Experience Management Release Notes for August 2024 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for August 2024
 The following is a list of Digital Experience Management (DEM) releases for the month of August 2024:
 New Features And Enhancements for August 30, 2024
@@ -12440,14 +12452,14 @@ Cosmetic Enhancements
 Netskope has optimized space utilization and improved label alignment on the “User Overview” table view.
 App Filter Revamp
 The app filter has been revamped to display a preset list of configured applications, making it easier for you to see all monitored applications at a glance and quickly select the ones you want to focus on.
-Netskope Digital Experience Management Release Notes for August 2024 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 119.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-119-1-0/
 **Last Modified:** 2025-08-31T09:58:51+00:00
-**Scraped:** 2026-07-08T09:47:11.642087+00:00
+**Scraped:** 2026-07-09T10:31:31.858177+00:00
 
+Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 119.1.0
 Published on: September 16
 th
@@ -12473,8 +12485,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 119.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-119-1-0/
 **Last Modified:** 2025-08-31T01:57:55+00:00
-**Scraped:** 2026-07-08T09:47:14.249511+00:00
+**Scraped:** 2026-07-09T10:31:33.025974+00:00
 
+Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 119.1.0
 Published on: September 16
 th
@@ -12495,14 +12508,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 119.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-119-1-0/
 **Last Modified:** 2025-08-31T01:57:57+00:00
-**Scraped:** 2026-07-08T09:47:16.844683+00:00
+**Scraped:** 2026-07-09T10:31:34.283590+00:00
 
+Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 119.1.0
 Published on: September 16
 th
@@ -12523,14 +12536,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 119.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-119-1-0/
 **Last Modified:** 2025-08-31T01:57:56+00:00
-**Scraped:** 2026-07-08T09:47:19.582252+00:00
+**Scraped:** 2026-07-09T10:31:35.445846+00:00
 
+Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 119.1.0
 Published on: September 16
 th
@@ -12551,13 +12564,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 119.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 120.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-120-0-0/
 **Last Modified:** 2025-08-31T09:58:50+00:00
-**Scraped:** 2026-07-08T09:47:22.229514+00:00
+**Scraped:** 2026-07-09T10:31:37.775218+00:00
 
 Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 120.0.0
@@ -12592,8 +12604,9 @@ Deprecated
 ## Netskope Release Notes Version 120.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-120-0-0/
 **Last Modified:** 2025-08-31T01:57:47+00:00
-**Scraped:** 2026-07-08T09:47:24.905848+00:00
+**Scraped:** 2026-07-09T10:31:38.948912+00:00
 
+Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 120.0.0
 Published on: October 3
 rd
@@ -12621,14 +12634,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 120.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-120-0-0/
 **Last Modified:** 2025-08-31T01:57:48+00:00
-**Scraped:** 2026-07-08T09:47:27.623234+00:00
+**Scraped:** 2026-07-09T10:31:40.117649+00:00
 
+Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 120.0.0
 Published on: October 3
 rd
@@ -12656,14 +12669,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 120.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-120-0-0/
 **Last Modified:** 2025-08-31T01:57:49+00:00
-**Scraped:** 2026-07-08T09:47:30.276296+00:00
+**Scraped:** 2026-07-09T10:31:41.291875+00:00
 
+Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 120.0.0
 Published on: October 3
 rd
@@ -12691,14 +12704,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 120.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-120-0-0/
 **Last Modified:** 2025-08-31T01:57:50+00:00
-**Scraped:** 2026-07-08T09:47:32.927540+00:00
+**Scraped:** 2026-07-09T10:31:42.457312+00:00
 
+Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 120.0.0
 Published on: October 3
 rd
@@ -12726,14 +12739,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 120.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-120-1-0/
 **Last Modified:** 2025-08-31T09:58:49+00:00
-**Scraped:** 2026-07-08T09:47:41.157337+00:00
+**Scraped:** 2026-07-09T10:31:45.952016+00:00
 
+Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.0
 Published on: October 17
 th
@@ -12754,14 +12767,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-120-1-0/
 **Last Modified:** 2025-08-31T01:57:44+00:00
-**Scraped:** 2026-07-08T09:47:43.725858+00:00
+**Scraped:** 2026-07-09T10:31:47.115255+00:00
 
+Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.0
 Published on: October 17
 th
@@ -12782,14 +12795,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-120-1-0/
 **Last Modified:** 2025-08-31T01:57:45+00:00
-**Scraped:** 2026-07-08T09:47:46.312887+00:00
+**Scraped:** 2026-07-09T10:31:48.376556+00:00
 
+Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.0
 Published on: October 17
 th
@@ -12810,14 +12823,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-120-1-0/
 **Last Modified:** 2025-08-31T01:57:46+00:00
-**Scraped:** 2026-07-08T09:47:48.871271+00:00
+**Scraped:** 2026-07-09T10:31:49.539459+00:00
 
+Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.0
 Published on: October 17
 th
@@ -12838,14 +12851,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 120.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.3
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-120-1-3/
 **Last Modified:** 2025-08-31T09:58:47+00:00
-**Scraped:** 2026-07-08T09:47:51.435997+00:00
+**Scraped:** 2026-07-09T10:31:50.702750+00:00
 
+Netskope Release Notes Hotfix Version 120.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.3
 Published on: October 22
 nd
@@ -12861,14 +12874,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 120.1.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.2
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-120-1-2/
 **Last Modified:** 2025-08-31T09:58:48+00:00
-**Scraped:** 2026-07-08T09:47:54.028841+00:00
+**Scraped:** 2026-07-09T10:31:51.875938+00:00
 
+Netskope Release Notes Hotfix Version 120.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.2
 Published on: October 22
 nd
@@ -12884,14 +12897,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 120.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.2
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-121-1-2/
 **Last Modified:** 2025-08-31T01:57:42+00:00
-**Scraped:** 2026-07-08T09:47:56.599470+00:00
+**Scraped:** 2026-07-09T10:31:53.075953+00:00
 
+Netskope Release Notes Hotfix Version 120.1.2 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.2
 Published on: October 22
 nd
@@ -12907,14 +12920,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 120.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.3
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-120-1-3/
 **Last Modified:** 2025-08-31T01:57:40+00:00
-**Scraped:** 2026-07-08T09:47:59.168365+00:00
+**Scraped:** 2026-07-09T10:31:54.432465+00:00
 
+Netskope Release Notes Hotfix Version 120.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.3
 Published on: October 22
 nd
@@ -12930,14 +12943,14 @@ To get a preview of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 120.1.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 5.1.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-5-1-0/
 **Last Modified:** 2025-08-31T02:04:00+00:00
-**Scraped:** 2026-07-08T09:48:00.724973+00:00
+**Scraped:** 2026-07-09T10:31:55.609828+00:00
 
+Netskope Cloud Exchange Release Notes Version 5.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 5.1.0
 GA Release Date: 5th November 2024
 We are excited to announce our Cloud Exchange 5.1.0 updates! Here’s the latest features and changes, fixed issues, and known issues in this release.
@@ -13134,14 +13147,14 @@ Illumio
 MISP
 CTO
 ServiceNow
-Netskope Cloud Exchange Release Notes Version 5.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-121-0-0/
 **Last Modified:** 2025-08-31T09:58:46+00:00
-**Scraped:** 2026-07-08T09:48:03.375575+00:00
+**Scraped:** 2026-07-09T10:31:56.781860+00:00
 
+Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 121.0.0
 Published on: November 4
 th
@@ -13169,13 +13182,12 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-121-0-0/
 **Last Modified:** 2025-08-31T01:57:33+00:00
-**Scraped:** 2026-07-08T09:48:06.119581+00:00
+**Scraped:** 2026-07-09T10:31:57.935351+00:00
 
 Netskope Release Notes Version 121.0.0
 Published on: November 4
@@ -13204,14 +13216,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-121-0-0/
 **Last Modified:** 2025-08-31T01:57:34+00:00
-**Scraped:** 2026-07-08T09:48:08.701063+00:00
+**Scraped:** 2026-07-09T10:31:59.103101+00:00
 
+Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 121.0.0
 Published on: November 4
 th
@@ -13239,14 +13251,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-121-0-0/
 **Last Modified:** 2025-08-31T01:57:35+00:00
-**Scraped:** 2026-07-08T09:48:11.256022+00:00
+**Scraped:** 2026-07-09T10:32:00.275956+00:00
 
+Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 121.0.0
 Published on: November 4
 th
@@ -13274,14 +13286,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-121-0-0/
 **Last Modified:** 2025-08-31T01:57:36+00:00
-**Scraped:** 2026-07-08T09:48:13.860054+00:00
+**Scraped:** 2026-07-09T10:32:01.447252+00:00
 
+Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 121.0.0
 Published on: November 4
 th
@@ -13309,14 +13321,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 117.0.8
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-117-0-8/
 **Last Modified:** 2025-08-31T09:58:55+00:00
-**Scraped:** 2026-07-08T09:48:19.003053+00:00
+**Scraped:** 2026-07-09T10:32:03.785035+00:00
 
+Netskope Release Notes Hotfix Version 117.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 117.0.8
 We are excited to announce our release 117.0.8 updates! Get the latest features, issues fixed, and other updates in this release.
 Though this release does not have any notable new features and enhancements or bug fixes, it includes internal bug fixes and enhancements.
@@ -13329,14 +13341,14 @@ To preview some of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 117.0.8 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 117.0.8
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-117-0-8/
 **Last Modified:** 2025-08-31T01:58:12+00:00
-**Scraped:** 2026-07-08T09:48:21.624768+00:00
+**Scraped:** 2026-07-09T10:32:04.946511+00:00
 
+Netskope Release Notes Hotfix Version 117.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 117.0.8
 We are excited to announce our release 117.0.8 updates! Get the latest features, issues fixed, and other updates in this release.
 Though this release does not have any notable new features and enhancements or bug fixes, it includes internal bug fixes and enhancements.
@@ -13349,14 +13361,14 @@ To preview some of what’s coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 117.0.8 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 121.0.7
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-121-0-7/
 **Last Modified:** 2025-08-31T09:58:45+00:00
-**Scraped:** 2026-07-08T09:48:26.849447+00:00
+**Scraped:** 2026-07-09T10:32:07.275869+00:00
 
+Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 121.0.7
 Published on: November 20
 th
@@ -13373,14 +13385,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 121.0.7
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-121-0-7/
 **Last Modified:** 2025-08-31T01:57:29+00:00
-**Scraped:** 2026-07-08T09:48:29.410847+00:00
+**Scraped:** 2026-07-09T10:32:08.439309+00:00
 
+Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 121.0.7
 Published on: November 20
 th
@@ -13397,14 +13409,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 121.0.7
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-121-0-7/
 **Last Modified:** 2025-08-31T01:57:30+00:00
-**Scraped:** 2026-07-08T09:48:32.027217+00:00
+**Scraped:** 2026-07-09T10:32:09.599772+00:00
 
+Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 121.0.7
 Published on: November 20
 th
@@ -13421,14 +13433,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 121.0.7
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-121-0-7/
 **Last Modified:** 2025-08-31T01:57:31+00:00
-**Scraped:** 2026-07-08T09:48:34.580064+00:00
+**Scraped:** 2026-07-09T10:32:10.764532+00:00
 
+Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 121.0.7
 Published on: November 20
 th
@@ -13445,14 +13457,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 121.0.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.11
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-11/
 **Last Modified:** 2025-08-31T02:04:35+00:00
-**Scraped:** 2026-07-08T09:48:36.126321+00:00
+**Scraped:** 2026-07-09T10:32:11.927546+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.11
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of November, i.e. in 24.11 version release notes.
 Release Notes Subscription
@@ -13460,14 +13472,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.11 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 122.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-122-0-0/
 **Last Modified:** 2025-08-31T09:58:44+00:00
-**Scraped:** 2026-07-08T09:48:40.885847+00:00
+**Scraped:** 2026-07-09T10:32:14.261063+00:00
 
+Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 122.0.0
 Published on: December 3
 rd
@@ -13498,14 +13510,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 122.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-122-0-0/
 **Last Modified:** 2025-08-31T01:57:25+00:00
-**Scraped:** 2026-07-08T09:48:43.666991+00:00
+**Scraped:** 2026-07-09T10:32:15.432742+00:00
 
+Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 122.0.0
 Published on: December 3
 rd
@@ -13536,14 +13548,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 122.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-122-0-0/
 **Last Modified:** 2025-08-31T01:57:26+00:00
-**Scraped:** 2026-07-08T09:48:46.471876+00:00
+**Scraped:** 2026-07-09T10:32:16.604822+00:00
 
+Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 122.0.0
 Published on: December 3
 rd
@@ -13574,14 +13586,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 122.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-122-0-0/
 **Last Modified:** 2025-08-31T01:57:26+00:00
-**Scraped:** 2026-07-08T09:48:49.256238+00:00
+**Scraped:** 2026-07-09T10:32:17.772070+00:00
 
+Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 122.0.0
 Published on: December 3
 rd
@@ -13612,14 +13624,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 122.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-122-0-0/
 **Last Modified:** 2025-08-31T01:57:27+00:00
-**Scraped:** 2026-07-08T09:48:52.007001+00:00
+**Scraped:** 2026-07-09T10:32:18.942807+00:00
 
+Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 122.0.0
 Published on: December 3
 rd
@@ -13650,14 +13662,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 122.0.0 - Netskope Knowledge Portal
 
 ---
 ## On-Premises Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/on-premises-appliance-release-notes-version-121-0-0/
 **Last Modified:** 2025-08-31T02:07:38+00:00
-**Scraped:** 2026-07-08T09:49:00.337250+00:00
+**Scraped:** 2026-07-09T10:32:22.438105+00:00
 
+On-Premises Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 121.0.0
 This release provides several improvements for Netskope’s on-premises Cloud Access Security Broker (CASB), such as new features, enhancements, known issues, and fixed issues.
 Overview for On-Premises Appliance Version 121.0.0
@@ -13736,14 +13748,14 @@ NETSKOPE-APPLIANCE-MIB-APL121
 Download
 What's New
 Fixed Issues
-On-Premises Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-121-0-0/
 **Last Modified:** 2025-08-31T02:06:17+00:00
-**Scraped:** 2026-07-08T09:49:08.698544+00:00
+**Scraped:** 2026-07-09T10:32:25.958779+00:00
 
+Virtual Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 121.0.0
 Release Date: December 9, 2024
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
@@ -13829,14 +13841,14 @@ Download
 What's New
 Fixed Issues
 Known Issues
-Virtual Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 24.12
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-24-12/
 **Last Modified:** 2025-08-31T02:04:33+00:00
-**Scraped:** 2026-07-08T09:49:17.758840+00:00
+**Scraped:** 2026-07-09T10:32:30.719252+00:00
 
+Netskope Device Intelligence Release Notes in Version 24.12 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.12
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of December, i.e. in 24.12 version release notes.
 Release Notes Subscription
@@ -13844,14 +13856,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 24.12 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 10.0 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-10-0-release-notes/
 **Last Modified:** 2025-08-31T02:45:09+00:00
-**Scraped:** 2026-07-08T09:49:23.914009+00:00
+**Scraped:** 2026-07-09T10:32:34.219619+00:00
 
+Netskope One DSPM 10.0 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 10.0 Release Notes
 Major New Features
 Support for GCP Cloud Firestore
@@ -13860,14 +13872,14 @@ Improvements and Updates
 New Look and Feel
 Dasera is now part of Netskope, combining its DSPM innovation with the leader in secure access service edge (SASE) and security service edge (SSE). As part of this integration, Dasera has been rebranded to match the wider Netskope One platform, offering a seamless user experience for users of both applications.  The data security era continues!
 With Netskope, your data can be protected both at-rest and in-motion, in one unified data security platform.  To learn more, please reach out to your customer service manager.
-Netskope One DSPM 10.0 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 9.5 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-9-5-release-notes/
 **Last Modified:** 2025-08-31T02:45:10+00:00
-**Scraped:** 2026-07-08T09:49:25.611390+00:00
+**Scraped:** 2026-07-09T10:32:35.383993+00:00
 
+Netskope One DSPM 9.5 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 9.5 Release Notes
 Major New Features
 Support for NFS-Based On-Prem File Shares
@@ -13879,14 +13891,14 @@ Updates to Data Store Inventory Widgets
 The Data Store Inventory page now displays actionable insights for sensitive data detected in files within unstructured data stores and updates for Structured
 Quick Scans In-Progress Filter
 The Data Store Inventory page now displays an icon above the table that, when clicked, quickly switches the display to only show data stores with scans currently in-progress.  This allows you to easily focus on such data stores and monitor their activities to completion.
-Netskope One DSPM 9.5 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 9.4 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-9-4-release-notes/
 **Last Modified:** 2025-08-31T02:45:10+00:00
-**Scraped:** 2026-07-08T09:49:27.328917+00:00
+**Scraped:** 2026-07-09T10:32:36.639237+00:00
 
+Netskope One DSPM 9.4 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 9.4 Release Notes
 Major New Features
 Support for Unstructured On-Prem Fileshares
@@ -13898,13 +13910,12 @@ Updates to Classification Management Widgets for Unstructured Data
 The Classification Management page now displays actionable insights for sensitive data detected in files within unstructured data stores.
 Commvault Integration Tenant URL
 You’ll now be prompted to include your Commvault tenant URL while configuring the Commvault integration. This ensures that Netskope One DSPM integrates with the correct Commvault tenant and is a mandatory field for completing the connection.
-Netskope One DSPM 9.4 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 9.3 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-9-3-release-notes/
 **Last Modified:** 2025-08-31T02:45:11+00:00
-**Scraped:** 2026-07-08T09:49:28.802932+00:00
+**Scraped:** 2026-07-09T10:32:37.800802+00:00
 
 Netskope One DSPM 9.3 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 9.3 Release Notes
@@ -13920,8 +13931,9 @@ Netskope One DSPM now supports discovery and classification for Spanner, the ful
 ## Netskope One DSPM 9.2 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-9-2-release-notes/
 **Last Modified:** 2025-08-31T02:45:12+00:00
-**Scraped:** 2026-07-08T09:49:30.550545+00:00
+**Scraped:** 2026-07-09T10:32:38.965205+00:00
 
+Netskope One DSPM 9.2 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 9.2 Release Notes
 Major New Features
 Support for Elastic Block Storage (EBS) Volumes
@@ -13936,14 +13948,14 @@ India Unique Identification Number (Aadhaar)
 India Voter ID (EPIC)
 Domestic Bank Account Number
 This empowers organizations with sensitive Indian data to quickly realize value, achieve compliance, and better safeguard data across environments.
-Netskope One DSPM 9.2 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 9.1 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-9-1-release-notes/
 **Last Modified:** 2025-08-31T02:45:13+00:00
-**Scraped:** 2026-07-08T09:49:32.258613+00:00
+**Scraped:** 2026-07-09T10:32:40.219464+00:00
 
+Netskope One DSPM 9.1 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 9.1 Release Notes
 Major New Features
 Panoptica Integration
@@ -13958,14 +13970,14 @@ User Experience Improvements for Unstructured Databases
 The new a ll-files view on the Classification Management page provides easy-access insight into your security posture across all connected unstructured data stores. Search and filter within the Fields or Files tab to better understand Sensitive Data Types detected within different data stores.
 New India-specific Sensitive Data Types
 Netskope One DSPM now offers built-in Sensitive Data Types for India Permanent Account Number (PAN), India Unique Identification Number (Aadhaar), and India Universal Account Number (UAN). Expansion for India-specific classifiers improves usability and provides additional context to User Assessment.
-Netskope One DSPM 9.1 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 9.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-9-0-release-notes/
 **Last Modified:** 2025-08-31T02:45:14+00:00
-**Scraped:** 2026-07-08T09:49:33.976379+00:00
+**Scraped:** 2026-07-09T10:32:41.383841+00:00
 
+Netskope One DSPM 9.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 9.0 release notes
 Major New Features
 Data Security & Governance Dashboard
@@ -13989,14 +14001,14 @@ Built-in or custom sensitive data types and their categories can now be enabled 
 Data Tags
 Built-in or custom data tags and their categories can now be enabled or disabled at any time via the purple toggle in the Status column of the Data Tags page. Disabling a data tag or its category will remove it from all references across your data in Netskope One DSPM, so you will see a warning before completing. The data tags and sensitive data type toggles both require Update permissions as determined by a user’s Platform Role.
 You can also see a count of fields or files tagged with a specific data tag on the Data Tags page and a count of files or fields classified using a particular sensitive data type on the Sensitive Data Types page. Collectively, these improvements simplify managing sensitive data within an organization, so you can focus on taking preventive security measures.
-Netskope One DSPM 9.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 8.3 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-8-3-release-notes/
 **Last Modified:** 2025-08-31T02:45:15+00:00
-**Scraped:** 2026-07-08T09:49:35.692017+00:00
+**Scraped:** 2026-07-09T10:32:42.545364+00:00
 
+Netskope One DSPM 8.3 release notes - Netskope Knowledge Portal
 Netskope One DSPM 8.3 release notes
 Major New Features
 Support for Deep Privilege Analysis for Oracle Data Stores
@@ -14006,14 +14018,14 @@ Classification Engine Unification
 Netskope One DSPM’s classification engine now functions uniformly across structured and unstructured data stores. This means that built-in sensitive data types are used to classify data across all data stores using a reliable combination of indicators, such as keywords, field or file names, dictionaries, proximity, query logs, regex, and/or checksums. The Custom Sensitive Data Type UI has also been simplified to reflect unified match conditions for structured and unstructured data. Finally, we’ve significantly improved match results for classifiers across Netskope One DSPM, improving overall classification performance. Please contact your account team if your organization has match criteria defined for unstructured data.
 Sensitive File Counts
 The number of sensitive files sampled in an unstructured data store now appears in the data store summary, providing more detail on your unstructured data. This mirrors the sensitive field count for structured data stores, further unifying and enhancing Netskope One DSPM’s unstructured data capabilities.
-Netskope One DSPM 8.3 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 8.2 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-8-2-release-notes/
 **Last Modified:** 2025-08-31T02:45:15+00:00
-**Scraped:** 2026-07-08T09:49:37.441889+00:00
+**Scraped:** 2026-07-09T10:32:43.709762+00:00
 
+Netskope One DSPM 8.2 release notes - Netskope Knowledge Portal
 Netskope One DSPM 8.2 release notes
 Major New Features
 Low-Touch Onboarding for GCP Cloud SQL Data Stores
@@ -14025,14 +14037,14 @@ Platform Role Configuration: Future Datasets Access
 Users can now optionally configure their RBAC roles to apply to all datasets. This allows such roles to always account for future datasets as they’re connected (vs. remaining limited to a defined subset).
 Under-the-Hood Improvements
 We polished our infrastructure onboarding templates and improved count displays on the Dashboard, Data Store Inventory, and Platform Users pages. These tweaks offer smoother onboarding and provide increased accuracy in sharing insight into your organization’s security posture.
-Netskope One DSPM 8.2 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 8.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-8-1-release-notes/
 **Last Modified:** 2025-08-31T02:45:16+00:00
-**Scraped:** 2026-07-08T09:49:39.258969+00:00
+**Scraped:** 2026-07-09T10:32:44.876702+00:00
 
+Netskope One DSPM 8.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 8.1 release notes
 Major New Features
 Saved Views for Data Store Inventory
@@ -14052,14 +14064,14 @@ Credentials Sensitive Data Types help you better protect against breaches.
 Improvements and Updates
 Support for Netskope One DSPM Role Aliases for IDP User Management
 Prior to 8.1, customers managing Netskope One DSPM access via IDP were required to make their remote directory group names match the corresponding Netskope One DSPM role names exactly. Because this wasn’t possible for organizations that follow specific naming conventions, Netskope One DSPM has added the ability to define an alias per platform role. This will allow you to maintain your desired remote directory group names and map them to Netskope One DSPM platform roles.
-Netskope One DSPM 8.1 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 8.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-8-0-release-notes/
 **Last Modified:** 2025-08-31T02:45:17+00:00
-**Scraped:** 2026-07-08T09:49:40.800312+00:00
+**Scraped:** 2026-07-09T10:32:46.041502+00:00
 
+Netskope One DSPM 8.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 8.0 release notes
 Major New Features
 Snapshots for AWS RDS Data Store Connections
@@ -14080,14 +14092,14 @@ Built-in Classifiers for CUSIP and LEI
 Legal Entity Identifier (LEI) and Committee on Uniform Securities Identification Procedures numbers (CUSIP) are now supported as built-in classifiers on the Sensitive Data Types page under Financial Information. This capability improves Netskope One DSPM’s coverage of key classifiers for the Financial sector, helping our customers get better visibility into their data and inform corporate policies.
 Unstructured Support Improvements
 You’ll now see exactly how many sensitive files, mapped usernames, open alerts, and open tasks will be removed from Netskope One DSPM when disconnecting an unstructured data store, demonstrating the impact of the disconnection.
-Netskope One DSPM 8.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 7.3 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-7-3-release-notes/
 **Last Modified:** 2025-08-31T02:45:18+00:00
-**Scraped:** 2026-07-08T09:49:42.341305+00:00
+**Scraped:** 2026-07-09T10:32:47.211594+00:00
 
+Netskope One DSPM 7.3 release notes - Netskope Knowledge Portal
 Netskope One DSPM 7.3 release notes
 Major New Features
 Unstructured Data Classification for Google Cloud Storage
@@ -14104,14 +14116,14 @@ We’ve also introduced the ability to filter by data store status when searchin
 These enhancements make the Data Store Inventory page your central hub for insight into all data stores in your environment.
 Additional Context in Data Store CSV Export
 Exported CSV files from the Data Store Inventory page now show additional information when exporting from the Connected, Discovered, and Archived tabs. These new fields enable you to download all available information on a data store, getting a holistic look into the data store when viewing the information offline.
-Netskope One DSPM 7.3 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 7.2 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-7-2-release-notes/
 **Last Modified:** 2025-08-31T02:45:19+00:00
-**Scraped:** 2026-07-08T09:49:43.914993+00:00
+**Scraped:** 2026-07-09T10:32:48.374170+00:00
 
+Netskope One DSPM 7.2 release notes - Netskope Knowledge Portal
 Netskope One DSPM 7.2 release notes
 Major New Features
 Custom Sensitive Data Type Support for Unstructured Data Classification
@@ -14123,14 +14135,14 @@ Netskope One DSPM Email Server for SaaS Tenants
 A Netskope One DSPM-hosted email server is now available for all Netskope One DSPM-hosted SaaS instances. When setting up email notifications or report scheduling, you no longer need to configure an SMTP server to leverage this functionality and can use one built into the tenant.
 Platform User Management Updates
 When configuring Single Sign-On (SSO) and Identity Provider (IDP)-based user management, we’ve simplified the configuration flow, so the remote directory always serves as the central source of truth for determining all platform users’ access and role. When enabling these settings, Netskope One DSPM will notify users of specific outcomes of their configuration.
-Netskope One DSPM 7.2 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 7.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-7-1-release-notes/
 **Last Modified:** 2025-08-31T02:45:20+00:00
-**Scraped:** 2026-07-08T09:49:45.465334+00:00
+**Scraped:** 2026-07-09T10:32:49.538095+00:00
 
+Netskope One DSPM 7.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 7.1 release notes
 Major New Features
 Deep Privilege Analysis for SQL Server
@@ -14150,14 +14162,14 @@ Delete Platform Users
 We’ve streamlined user management and reduced clutter within Netskope One DSPM by enabling admins to delete platform users when employees no longer access Netskope One DSPM. Admins with a platform role that includes delete permissions can remove any platform users they’ve created within Netskope One DSPM. IDP-managed SSO users can only be deleted directly from your Identity Provider. Super admins can delete any user other than themselves. Deleted users cannot log in, or will be logged out if active at the time of removal. An entry with details of the deletion will display in the Activity Log.
 New Projects Auto-Discovery for GCP
 When adding GCP Organization infrastructure, you can now automatically onboard new projects by enabling auto-discovery. This streamlines the discovery, connection, and scanning of new GCP data stores within Netskope One DSPM.
-Netskope One DSPM 7.1 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 7.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-7-0-release-notes/
 **Last Modified:** 2025-08-31T02:45:20+00:00
-**Scraped:** 2026-07-08T09:49:47.014417+00:00
+**Scraped:** 2026-07-09T10:32:50.782134+00:00
 
+Netskope One DSPM 7.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 7.0 release notes
 Major New Features
 Support for Unstructured Data Classification for S3
@@ -14181,14 +14193,14 @@ Contained Data Tags
 From the Data Store Inventory page, you can now see within each data store where databases, schemas, tables, and fields are tagged. You have full visibility into which data stores host your sensitive data such as PII, credit card information, HIPAA-PI, and more centralized on the Data Store Inventory page. Contained data tags provide visibility into where sensitive data is tagged at all levels of your data hierarchy.
 Support for Multiple Expected Usernames
 Netskope One DSPM’s User Assessment page provides comprehensive user risk profiling, including the ability to detect data usage directly via username or indirectly via a 3rd party application. Netskope One DSPM maps individual queries made my usernames as Service accounts to corresponding Employees. An enhanced intuitive experience linking usernames as Service Accounts makes the Employee Management page the central source for managing identities of employees, service accounts, and unlinked (ghost) users.
-Netskope One DSPM 7.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 6.5 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-6-5-release-notes/
 **Last Modified:** 2025-08-31T02:45:21+00:00
-**Scraped:** 2026-07-08T09:49:48.557612+00:00
+**Scraped:** 2026-07-09T10:32:51.947207+00:00
 
+Netskope One DSPM 6.5 release notes - Netskope Knowledge Portal
 Netskope One DSPM 6.5 release notes
 Major New Features
 Deep Privilege Analysis for S3
@@ -14208,14 +14220,14 @@ Bulk Actions to Data Stores
 From the Data Store Inventory page, you can now take actions on multiple data stores at once, including adding and removing tags, editing owners, archiving, and enabling or disabling auto-scan. You can also adjust tags and owners in bulk for multiple databases within a data store, by clicking on the Data Store name. This streamlines your Data Governance within Netskope One DSPM.
 Manage Scan Impacts When Editing Custom Sensitive Data Types
 When editing a Sensitive Data Type from the Classification Management page, you now have the option to confirm whether you are choosing to reclassify all non-reviewed fields, only those of the same Sensitive Data Type, or none. By allowing you to better manage which fields are marked for reclassification upon the next scan, you can improve performance and reduce unnecessary re-evaluation of your previously-classified data stores.
-Netskope One DSPM 6.5 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 6.4 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-6-4-release-notes/
 **Last Modified:** 2025-08-31T02:45:22+00:00
-**Scraped:** 2026-07-08T09:49:50.098971+00:00
+**Scraped:** 2026-07-09T10:32:53.112525+00:00
 
+Netskope One DSPM 6.4 release notes - Netskope Knowledge Portal
 Netskope One DSPM 6.4 release notes
 Major New Features
 Secrets Manager Support for Data Store Credentials
@@ -14232,14 +14244,14 @@ Filter by Last Scan Status
 From the Data Store Inventory screen (Data Stores → Data Store Inventory), you can now filter by Last Scan Status, quickly seeing which of your data stores may be experiencing network issues.
 New Misconfiguration Policy Updates
 Misconfiguration Risk in your Data Stores now appears as specific risk scores, corresponding with low, medium, high, or critical risk ranges from the Configuration Analysis page. When creating a Policy for Misconfiguration Risk, you can create policy conditions that trigger Alerts based on specific Risk scores exhibited by your Data Stores.
-Netskope One DSPM 6.4 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 6.3 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-6-3-release-notes/
 **Last Modified:** 2025-08-31T02:45:23+00:00
-**Scraped:** 2026-07-08T09:49:51.656237+00:00
+**Scraped:** 2026-07-09T10:32:54.274489+00:00
 
+Netskope One DSPM 6.3 release notes - Netskope Knowledge Portal
 Netskope One DSPM 6.3 release notes
 Major New Features
 AWS Organization-Based Onboarding
@@ -14259,14 +14271,14 @@ Policy Retrospective UI Updates
 Retrospective policy testing is now completely optional within the policy editor. You can bypass this step when it takes more than 30 seconds to produce accurate results. A TEST POLICY button is available if you wish to run the simulation; otherwise, the results will be logged as Alerts/Tasks on the next data store scan.
 User Information on Classification Management page
 Netskope One DSPM now displays the count of users with access to each field on the Classification Management page. Clicking on this number displays additional user information to help analyze access control.
-Netskope One DSPM 6.3 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 6.2 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-6-2-release-notes/
 **Last Modified:** 2025-08-31T02:45:24+00:00
-**Scraped:** 2026-07-08T09:49:53.202360+00:00
+**Scraped:** 2026-07-09T10:32:55.746144+00:00
 
+Netskope One DSPM 6.2 release notes - Netskope Knowledge Portal
 Netskope One DSPM 6.2 release notes
 Major New Features
 Determining Risky Data Stores
@@ -14296,14 +14308,14 @@ Breadcrumbs for Sub-Level Navigation
 Netskope One DSPM now has page title with breadcrumbs on top of every page to help with navigation and understanding of where you are within the product. These breadcrumbs are clickable on the Data Store Inventory drill-down pages to help navigate through hierarchy of the data store. Also, we now have a universal back button to help go back to previous page.
 Support for On-Prem Oracle Data Stores
 Netskope One DSPM has expanded its Oracle connector coverage and can now classify sensitive data stored in your on-prem Oracle environments.
-Netskope One DSPM 6.2 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 6.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-6-1-release-notes/
 **Last Modified:** 2025-08-31T02:45:24+00:00
-**Scraped:** 2026-07-08T09:49:54.738363+00:00
+**Scraped:** 2026-07-09T10:32:56.910803+00:00
 
+Netskope One DSPM 6.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 6.1 release notes
 Major New Features
 New, Extensible Data Collection Architecture with Sidecar Pools
@@ -14345,14 +14357,14 @@ Tax Identification Number
 Medium
 Financial
 PCI
-Netskope One DSPM 6.1 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 6.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-6-0-release-notes/
 **Last Modified:** 2025-08-31T02:45:59+00:00
-**Scraped:** 2026-07-08T09:49:56.287456+00:00
+**Scraped:** 2026-07-09T10:32:58.172093+00:00
 
+Netskope One DSPM 6.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 6.0 release notes
 Major New Features
 New Data Collection Architecture
@@ -14405,13 +14417,12 @@ Indirect
 PII, GDPR, HIPPA-PI
 Deprecating Employee Whitelist
 The Employee Tag “Whitelist” has been replace by “Allowlist”. In addition, tagging an Employee as “Allowlist” will no longer have any impact on risk calculations or policy conditions.
-Netskope One DSPM 6.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 5.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-5-1-release-notes/
 **Last Modified:** 2025-08-31T02:46:00+00:00
-**Scraped:** 2026-07-08T09:49:57.392811+00:00
+**Scraped:** 2026-07-09T10:32:59.336540+00:00
 
 Netskope One DSPM 5.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 5.1 release notes
@@ -14449,8 +14460,9 @@ To access the new knowledge base, please log into the Netskope One DSPM applicat
 ## Netskope One DSPM 5.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-5-0-release-notes/
 **Last Modified:** 2025-08-31T02:46:01+00:00
-**Scraped:** 2026-07-08T09:49:58.925741+00:00
+**Scraped:** 2026-07-09T10:33:00.485852+00:00
 
+Netskope One DSPM 5.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 5.0 release notes
 Major New Features
 Netskope One DSPM Open APIs
@@ -14466,14 +14478,14 @@ Auditing User Activity
 With Netskope One DSPM’s enhanced Activity Log feature, the platform now records all system & user activity in a central, easy-to-search location. Use the logs to gain comprehensive visibility to all system & user actions, build awareness between data owners, and deliver on your data governance requirements.
 DynamoDB Support
 We have expanded our NoSQL connector coverage to AWS DynamoDB. We can now classify sensitive data stored in your DynamoDB Cloud environment.
-Netskope One DSPM 5.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 4.3 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-4-3-release-notes/
 **Last Modified:** 2025-08-31T02:46:02+00:00
-**Scraped:** 2026-07-08T09:50:00.536972+00:00
+**Scraped:** 2026-07-09T10:33:01.688930+00:00
 
+Netskope One DSPM 4.3 release notes - Netskope Knowledge Portal
 Netskope One DSPM 4.3 release notes
 Major New Features
 User Identity Enhancements
@@ -14493,14 +14505,14 @@ Ingesting GCP Policy Tags
 Netskope One DSPM now supports the ability to ingest GCP Policy Taxonomies and their Tag associations to GCP data store fields.  These are associated to  the respective Classification Fields within Netskope One DSPM’s Classification Management feature. With this capability, you can now quickly assess if any Sensitive Fields that must have a GCP Policy Tag is missing that business context, create Classification Policies which are future-proof, and be notified if new fields created in existing GCP data stores violated your business policies.
 SAP HANA Support for Classification
 We have expanded our connector coverage to SAP HANA. We can now classify sensitive data stored in your SAP HANA Cloud environment.
-Netskope One DSPM 4.3 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 4.2 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-4-2-release-notes/
 **Last Modified:** 2025-08-31T02:46:04+00:00
-**Scraped:** 2026-07-08T09:50:02.207302+00:00
+**Scraped:** 2026-07-09T10:33:02.853851+00:00
 
+Netskope One DSPM 4.2 release notes - Netskope Knowledge Portal
 Netskope One DSPM 4.2 release notes
 Major New Features
 Onboarding Enhancements
@@ -14517,14 +14529,14 @@ Custom Sensitive Data Type match criteria is extended to support the condition �
 Improvements
 AWS SNS and GCP Pub/Sub Notification Settings
 We now support sending JSON notifications via Google Pub/Sub between different GCP projects. When configuring a GCP Pub/Sub Workflow Channel, you can designate which GCP account should be used for publishing. This requires granting additional permissions to the Netskope One DSPM-specific service account in GCP. Please see full documentation for permissions needed to enable cross project notification. The same is supported for the AWS SNS service, as well.
-Netskope One DSPM 4.2 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 4.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-4-1-release-notes/
 **Last Modified:** 2025-08-31T02:46:04+00:00
-**Scraped:** 2026-07-08T09:50:03.778083+00:00
+**Scraped:** 2026-07-09T10:33:04.015132+00:00
 
+Netskope One DSPM 4.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 4.1 release notes
 Major New Features
 MongoDB Support for Classification
@@ -14559,13 +14571,12 @@ Improvements
 Classification Improvements
 Custom Sensitive Data Types now support matching the Field Content based on a user-defined Dictionary. With this feature, instead of just matching against a regular expression, you can have a higher level of confidence when matched against a set of expected input values.
 Empty Fields can now be highlighted in Netskope One DSPM and are automatically Marked for Reclassification on Next Scan. This forms the basis of detecting if an empty Field is later populated with sensitive data.
-Netskope One DSPM 4.1 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 4.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-4-0-release-notes/
 **Last Modified:** 2025-08-31T02:46:05+00:00
-**Scraped:** 2026-07-08T09:50:04.881412+00:00
+**Scraped:** 2026-07-09T10:33:05.176244+00:00
 
 Netskope One DSPM 4.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 4.0 release notes
@@ -14607,8 +14618,9 @@ The Dashboard and Executive Reports now include two new Task-related widgets whi
 ## Netskope One DSPM 3.2 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-3-2-release-notes/
 **Last Modified:** 2025-08-31T02:46:06+00:00
-**Scraped:** 2026-07-08T09:50:06.437843+00:00
+**Scraped:** 2026-07-09T10:33:06.331304+00:00
 
+Netskope One DSPM 3.2 release notes - Netskope Knowledge Portal
 Netskope One DSPM 3.2 release notes
 Major New Features
 Onboarding Flow Updates
@@ -14656,14 +14668,14 @@ xxxxxxxxxxx2028 will be classified as Credit Card (Masked)
 (xxx) xxx-1468 will be classified as Phone Number (Masked)
 xxx-xx-3456 will be classified as Social Security (Masked)
 We have also added a flag for Masked fields in our Classification Table to enable filtering by Masked data types.
-Netskope One DSPM 3.2 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 3.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-3-1-release-notes/
 **Last Modified:** 2025-08-31T02:46:07+00:00
-**Scraped:** 2026-07-08T09:50:07.997789+00:00
+**Scraped:** 2026-07-09T10:33:07.496906+00:00
 
+Netskope One DSPM 3.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 3.1 release notes
 Major New Features
 Data Owner Enhancements
@@ -14701,14 +14713,14 @@ When a field is marked as Reviewed, it will make the fields non-editable, essent
 If the User de-selects “Reviewed” and clicks Reclassify on Next Scan, all the fields including System Confidence, Sensitive Data Type, and Sensitivity Level are subject to reclassification and will take on system-defined values after the next scan. The “man” icon will also disappear for any manually classified field that is subsequently automatically reclassified. Previous tags will, however, be retained, and new Tags (if any) associated with the new sensitive data type will be added.
 New UI for Data Store Inventory, Configuration Analysis and Privilege Analysis
 We have a new, more scalable UI for the Data Stores Page which includes Discovered and Connected Data Stores, Configuration Analysis, and Privilege Analysis.
-Netskope One DSPM 3.1 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 3.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-3-0-release-notes/
 **Last Modified:** 2025-08-31T02:46:08+00:00
-**Scraped:** 2026-07-08T09:50:09.539822+00:00
+**Scraped:** 2026-07-09T10:33:08.659569+00:00
 
+Netskope One DSPM 3.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 3.0 release notes
 Major New Features
 New Information Architecture
@@ -14740,14 +14752,14 @@ Policy Enhancements
 We have added 2 new policy types:
 Field Classified: Generates an alert when a field is classified for the first time or reclassified.
 Data Modified: Generates an alert when an INSERT, UPDATE or DELETE operation was performed on a sensitive field(s)
-Netskope One DSPM 3.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 2.1.3 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-2-1-3-release-notes/
 **Last Modified:** 2025-08-31T02:46:09+00:00
-**Scraped:** 2026-07-08T09:50:11.084120+00:00
+**Scraped:** 2026-07-09T10:33:09.822916+00:00
 
+Netskope One DSPM 2.1.3 release notes - Netskope Knowledge Portal
 Netskope One DSPM 2.1.3 release notes
 Major New Features
 Support for AWS RDS for MySQL
@@ -14760,14 +14772,14 @@ Executive PDF Report
 Netskope One DSPM now features a downloadable executive PDF report.  Just go to Reports > Executive Reports, and enter the date range you’d like the report to cover.  A 4 page PDF report that summarizes Netskope One DSPM’s findings over that time period will then be generated and downloaded to your computer.
 Policy Categories
 To help organize policies, users can optionally create policy categories. Policies can be categorized into one or more categories.
-Netskope One DSPM 2.1.3 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 2.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-2-0-release-notes/
 **Last Modified:** 2025-08-31T02:46:10+00:00
-**Scraped:** 2026-07-08T09:50:12.654444+00:00
+**Scraped:** 2026-07-09T10:33:10.983866+00:00
 
+Netskope One DSPM 2.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 2.0 release notes
 Major New Features
 Support for BigQuery, GCP, and S3
@@ -14786,14 +14798,14 @@ Notifications via Slack, Email, Google Pub/Sub
 Netskope One DSPM now supports Slack, Email, and Google Pub/Sub, in addition to AWS SNS. Recipients can be subscribed to notifications based on policy severity.
 Data Visualizations
 Netskope One DSPM includes a number of new data visualizations throughout the product to help summarize risky data use and accelerate insight from data.
-Netskope One DSPM 2.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 1.2 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-1-2-release-notes/
 **Last Modified:** 2025-08-31T02:46:11+00:00
-**Scraped:** 2026-07-08T09:50:14.207357+00:00
+**Scraped:** 2026-07-09T10:33:12.143678+00:00
 
+Netskope One DSPM 1.2 release notes - Netskope Knowledge Portal
 Netskope One DSPM 1.2 release notes
 New Major Features
 New Add Data Warehouse Wizard & SNS Wizard Added, Permission Wizard Deprecated
@@ -14818,13 +14830,12 @@ When you either change the sensitive data type of a field, and/or you mark a fie
 If you’d like to change the sensitive data type of a field that’s already been reviewed, you’ll need to uncheck the “Reviewed” checkbox.  Note that when you uncheck the reviewed checkbox, the confidence score will change back to either (a) the original confidence score, if the original sensitive data type remained unchanged; or (b) a red question mark — since the sensitive data type was changed manually, Netskope One DSPM has no confidence level associated with the current classification.
 Performance Optimizations
 A number of performance optimizations were added to increase the throughput and reliability of Netskope One DSPM scans.  So now, both the initial scan and ongoing scans should be faster.
-Netskope One DSPM 1.2 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 1.1 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-1-1-release-notes/
 **Last Modified:** 2025-08-31T02:46:12+00:00
-**Scraped:** 2026-07-08T09:50:15.303187+00:00
+**Scraped:** 2026-07-09T10:33:13.400421+00:00
 
 Netskope One DSPM 1.1 release notes - Netskope Knowledge Portal
 Netskope One DSPM 1.1 release notes
@@ -14863,8 +14874,9 @@ Some minor bugs were fixed, including the ability to add a new data warehouse an
 ## Netskope One DSPM 1.0 release notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-1-0-release-notes/
 **Last Modified:** 2025-08-31T02:46:12+00:00
-**Scraped:** 2026-07-08T09:50:16.860986+00:00
+**Scraped:** 2026-07-09T10:33:14.564232+00:00
 
+Netskope One DSPM 1.0 release notes - Netskope Knowledge Portal
 Netskope One DSPM 1.0 release notes
 Major New Features
 First-Time User Onboarding
@@ -14898,14 +14910,14 @@ Administrators can change the frequency at which Netskope One DSPM scans a speci
 Notifications & Notification Settings
 Administrators can read and delete system notifications generated by Netskope One DSPM.
 Administrators can create a SNS topic — Netskope One DSPM alerts and system notifications will be sent to this SNS topic.
-Netskope One DSPM 1.0 release notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 122.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-122-1-0/
 **Last Modified:** 2025-08-31T09:58:43+00:00
-**Scraped:** 2026-07-08T09:50:21.048122+00:00
+**Scraped:** 2026-07-09T10:33:16.896549+00:00
 
+Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 122.1.0
 Published on: January 13
 th
@@ -14926,14 +14938,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 122.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-122-1-0/
 **Last Modified:** 2025-08-31T01:57:21+00:00
-**Scraped:** 2026-07-08T09:50:23.626915+00:00
+**Scraped:** 2026-07-09T10:33:18.065775+00:00
 
+Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 122.1.0
 Published on: January 13
 th
@@ -14954,14 +14966,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 122.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-122-1-0/
 **Last Modified:** 2025-08-31T01:57:22+00:00
-**Scraped:** 2026-07-08T09:50:26.282763+00:00
+**Scraped:** 2026-07-09T10:33:19.231597+00:00
 
+Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 122.1.0
 Published on: January 13
 th
@@ -14982,14 +14994,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 122.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-122-1-0/
 **Last Modified:** 2025-08-31T01:57:23+00:00
-**Scraped:** 2026-07-08T09:50:28.881685+00:00
+**Scraped:** 2026-07-09T10:33:20.487281+00:00
 
+Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 122.1.0
 Published on: January 13
 th
@@ -15010,14 +15022,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 122.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 25.01
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-25-01/
 **Last Modified:** 2025-08-31T02:04:32+00:00
-**Scraped:** 2026-07-08T09:50:30.448672+00:00
+**Scraped:** 2026-07-09T10:33:21.663301+00:00
 
+Netskope Device Intelligence Release Notes in Version 25.01 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.01
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of January, i.e. in 25.01 version release notes.
 Release Notes Subscription
@@ -15025,14 +15037,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 25.01 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 10.1 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-10-1-release-notes/
 **Last Modified:** 2025-08-31T02:05:24+00:00
-**Scraped:** 2026-07-08T09:50:33.554696+00:00
+**Scraped:** 2026-07-09T10:33:23.975691+00:00
 
+Netskope One DSPM 10.1 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 10.1 Release Notes
 Improvements and Updates
 Support for Classifying Microsoft PowerPoint Files
@@ -15049,14 +15061,14 @@ Count of connected data stores where Data In Use Monitoring (e.g. Query Analysis
 In addition, the application’s behavior when you exceed usage limits has been updated. For more information on how to leverage the reports for managing your usage, please visit the
 Licensing
 article within the legacy DSPM knowledge base (for access, please reach out to your account representative).
-Netskope One DSPM 10.1 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  212.251.11
 **URL:** https://docs.netskope.com/en/netskope-adapter-release-notes-212-251-11/
 **Last Modified:** 2025-08-31T02:05:51+00:00
-**Scraped:** 2026-07-08T09:50:36.276146+00:00
+**Scraped:** 2026-07-09T10:33:26.304229+00:00
 
+Netskope Adapter Release Notes 212.251.11 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  212.251.11
 Published On: February 3
 rd
@@ -15067,13 +15079,12 @@ Additional user attributes import now supports Active Directory V2 mode.
 To learn more:
 Directory Importer
 .
-Netskope Adapter Release Notes 212.251.11 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 123.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-123-0-0/
 **Last Modified:** 2025-08-31T09:58:42+00:00
-**Scraped:** 2026-07-08T09:50:37.396030+00:00
+**Scraped:** 2026-07-09T10:33:27.473512+00:00
 
 Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 123.0.0
@@ -15108,8 +15119,9 @@ Deprecated
 ## Netskope Release Notes Version 123.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-123-0-0/
 **Last Modified:** 2025-08-31T01:57:16+00:00
-**Scraped:** 2026-07-08T09:50:40.381016+00:00
+**Scraped:** 2026-07-09T10:33:28.641031+00:00
 
+Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 123.0.0
 Published on: February 3
 rd
@@ -15137,14 +15149,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 123.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-123-0-0/
 **Last Modified:** 2025-08-31T01:57:18+00:00
-**Scraped:** 2026-07-08T09:50:43.043158+00:00
+**Scraped:** 2026-07-09T10:33:29.947666+00:00
 
+Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 123.0.0
 Published on: February 3
 rd
@@ -15172,14 +15184,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 123.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-123-0-0/
 **Last Modified:** 2025-08-31T01:57:19+00:00
-**Scraped:** 2026-07-08T09:50:45.674559+00:00
+**Scraped:** 2026-07-09T10:33:31.114950+00:00
 
+Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 123.0.0
 Published on: February 3
 rd
@@ -15207,14 +15219,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 123.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-123-0-0/
 **Last Modified:** 2025-08-31T01:57:20+00:00
-**Scraped:** 2026-07-08T09:50:48.354908+00:00
+**Scraped:** 2026-07-09T10:33:32.280741+00:00
 
+Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 123.0.0
 Published on: February 3
 rd
@@ -15242,14 +15254,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 123.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 124.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-124-0-0/
 **Last Modified:** 2025-08-31T09:58:37+00:00
-**Scraped:** 2026-07-08T09:50:59.172522+00:00
+**Scraped:** 2026-07-09T10:33:38.195608+00:00
 
+Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 124.0.0
 Published on: March 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15270,14 +15282,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 124.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-124-0-0/
 **Last Modified:** 2026-03-14T04:50:18+00:00
-**Scraped:** 2026-07-08T09:51:01.833707+00:00
+**Scraped:** 2026-07-09T10:33:39.366096+00:00
 
+Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 124.0.0
 Published on: March 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15298,14 +15310,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 124.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-124-0-0/
 **Last Modified:** 2025-08-31T01:57:09+00:00
-**Scraped:** 2026-07-08T09:51:04.452707+00:00
+**Scraped:** 2026-07-09T10:33:40.532627+00:00
 
+Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 124.0.0
 Published on: March 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15326,14 +15338,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 124.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-124-0-0/
 **Last Modified:** 2025-08-31T01:57:10+00:00
-**Scraped:** 2026-07-08T09:51:07.088816+00:00
+**Scraped:** 2026-07-09T10:33:41.699313+00:00
 
+Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 124.0.0
 Published on: March 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15354,14 +15366,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 124.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-124-0-0/
 **Last Modified:** 2025-09-02T17:56:51+00:00
-**Scraped:** 2026-07-08T09:51:09.679670+00:00
+**Scraped:** 2026-07-09T10:33:42.870458+00:00
 
+Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 124.0.0
 Published on: March 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15382,14 +15394,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 124.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 10.2 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-10-2-release-notes/
 **Last Modified:** 2025-08-31T02:05:23+00:00
-**Scraped:** 2026-07-08T09:51:11.222041+00:00
+**Scraped:** 2026-07-09T10:33:44.032641+00:00
 
+Netskope One DSPM 10.2 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 10.2 Release Notes
 Major New Features
 Discover Unmanaged Data Stores in AWS Volumes
@@ -15431,14 +15443,14 @@ The portion of the Alerts UI that displayed the before/after for misconfiguratio
 Service Principal Support for Databricks Connections
 In addition to using Databricks user accounts, Netskope One DSPM now supports the use of Databricks service principals for connecting your Databricks data stores to the DSPM application.
 Service principals are often used to provide API-only access to your automated tools, jobs, and applications, without the need to associate them to individual persons.  This new flexibility in the connection method can be used for both standard Databricks and Azure Databricks connections.
-Netskope One DSPM 10.2 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 124.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-124-1-0/
 **Last Modified:** 2025-08-31T09:58:37+00:00
-**Scraped:** 2026-07-08T09:51:18.991322+00:00
+**Scraped:** 2026-07-09T10:33:47.539756+00:00
 
+Netskope Release Notes Hotfix Version 124.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 124.1.0
 Published on: March 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15458,14 +15470,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 124.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 124.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-124-1-0/
 **Last Modified:** 2025-08-31T01:57:05+00:00
-**Scraped:** 2026-07-08T09:51:21.690564+00:00
+**Scraped:** 2026-07-09T10:33:48.704617+00:00
 
+Netskope Release Notes Hotfix Version 124.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 124.1.0
 Published on: March 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15485,14 +15497,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 124.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 124.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-124-1-0/
 **Last Modified:** 2025-08-31T01:57:06+00:00
-**Scraped:** 2026-07-08T09:51:24.299664+00:00
+**Scraped:** 2026-07-09T10:33:49.869707+00:00
 
+Netskope Release Notes Hotfix Version 124.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 124.1.0
 Published on: March 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15512,14 +15524,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 124.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 25.03
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-25-03/
 **Last Modified:** 2025-08-31T02:04:30+00:00
-**Scraped:** 2026-07-08T09:51:33.667727+00:00
+**Scraped:** 2026-07-09T10:33:54.626211+00:00
 
+Netskope Device Intelligence Release Notes in Version 25.03 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.03
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of March, i.e. in 25.03 version release notes.
 Release Notes Subscription
@@ -15527,14 +15539,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 25.03 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 125.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-version-125-0-0/
 **Last Modified:** 2025-08-31T09:58:36+00:00
-**Scraped:** 2026-07-08T09:51:36.296697+00:00
+**Scraped:** 2026-07-09T10:33:57.164673+00:00
 
+Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 125.0.0
 Published on: April 1, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15563,8 +15575,9 @@ Known Issues
 ## Netskope Release Notes Version 125.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-125-0-0/
 **Last Modified:** 2025-10-15T09:01:31+00:00
-**Scraped:** 2026-07-08T09:51:38.947635+00:00
+**Scraped:** 2026-07-09T10:33:58.332809+00:00
 
+Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 125.0.0
 Published on: April 1, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15588,14 +15601,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 125.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-125-0-0/
 **Last Modified:** 2025-08-31T01:57:02+00:00
-**Scraped:** 2026-07-08T09:51:41.892737+00:00
+**Scraped:** 2026-07-09T10:33:59.502987+00:00
 
+Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 125.0.0
 Published on: April 1, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15619,14 +15632,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 125.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-125-0-0/
 **Last Modified:** 2025-08-31T01:57:03+00:00
-**Scraped:** 2026-07-08T09:51:44.513621+00:00
+**Scraped:** 2026-07-09T10:34:00.673572+00:00
 
+Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 125.0.0
 Published on: April 1, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15650,14 +15663,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 125.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.9
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-120-1-9/
 **Last Modified:** 2025-08-31T09:58:47+00:00
-**Scraped:** 2026-07-08T09:51:47.142256+00:00
+**Scraped:** 2026-07-09T10:34:01.839572+00:00
 
+Netskope Release Notes Hotfix Version 120.1.9 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.9
 Published on: April 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15672,14 +15685,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 120.1.9 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 120.1.9
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-120-1-9/
 **Last Modified:** 2025-08-31T01:57:39+00:00
-**Scraped:** 2026-07-08T09:51:49.759945+00:00
+**Scraped:** 2026-07-09T10:34:03.003860+00:00
 
+Netskope Release Notes Hotfix Version 120.1.9 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 120.1.9
 Published on: April 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15694,14 +15707,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 120.1.9 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 123.0.5
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-123-0-5/
 **Last Modified:** 2025-08-31T09:58:41+00:00
-**Scraped:** 2026-07-08T09:51:52.359530+00:00
+**Scraped:** 2026-07-09T10:34:04.165497+00:00
 
+Netskope Release Notes Hotfix Version 123.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 123.0.5
 Published on: April 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15717,14 +15730,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 123.0.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 123.0.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-123-0-5/
 **Last Modified:** 2025-08-31T01:57:14+00:00
-**Scraped:** 2026-07-08T09:51:54.947971+00:00
+**Scraped:** 2026-07-09T10:34:05.328362+00:00
 
+Netskope Release Notes Hotfix Version 123.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 123.0.5
 Published on: April 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15740,14 +15753,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 123.0.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 5.1.1
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-5-1-1/
 **Last Modified:** 2025-08-31T02:03:58+00:00
-**Scraped:** 2026-07-08T09:51:56.512867+00:00
+**Scraped:** 2026-07-09T10:34:06.503903+00:00
 
+Netskope Cloud Exchange Release Notes Version 5.1.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 5.1.1
 Release Date: April 7, 2025
 New Features and Enhancements
@@ -15814,14 +15827,14 @@ to its numeric equivalent.
 When using the Risk Exchange action for a Tag Application, there is an API limitation where the total length of all tags, including the commas used to separate static values, must not exceed 4,120 characters. If this limit is exceeded, the last tags or characters may be trimmed without any error message being generated. The system does not yet provide an explicit error when the tag length exceeds the limit.
 In older versions (e.g. 5.0.x, 4.x or earlier) of Cloud Exchange, you might start seeing errors while importing Netskope plugins and Risk Exchange 3rd-party vendor plugins:
 Error occurred while importing plugin netskope.plugin.***
-Netskope Cloud Exchange Release Notes Version 5.1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 125.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-note-hotfix-version-125-1-0/
 **Last Modified:** 2025-08-31T09:58:35+00:00
-**Scraped:** 2026-07-08T09:51:59.099899+00:00
+**Scraped:** 2026-07-09T10:34:07.760569+00:00
 
+Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 125.1.0
 Published on: April 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15841,14 +15854,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 125.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-125-1-0/
 **Last Modified:** 2025-08-31T01:56:57+00:00
-**Scraped:** 2026-07-08T09:52:01.721356+00:00
+**Scraped:** 2026-07-09T10:34:08.924026+00:00
 
+Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 125.1.0
 Published on: April 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15868,14 +15881,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 125.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-125-1-0/
 **Last Modified:** 2025-08-31T01:56:58+00:00
-**Scraped:** 2026-07-08T09:52:04.336272+00:00
+**Scraped:** 2026-07-09T10:34:10.091548+00:00
 
+Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 125.1.0
 Published on: April 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15895,14 +15908,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 125.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-125-1-0/
 **Last Modified:** 2025-08-31T01:56:59+00:00
-**Scraped:** 2026-07-08T09:52:06.964464+00:00
+**Scraped:** 2026-07-09T10:34:11.255344+00:00
 
+Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 125.1.0
 Published on: April 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -15922,13 +15935,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 125.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 123.0.5
 **URL:** https://docs.netskope.com/en/known-issues-in-release-123-0-5/
 **Last Modified:** 2025-08-31T01:57:15+00:00
-**Scraped:** 2026-07-08T09:52:08.067864+00:00
+**Scraped:** 2026-07-09T10:34:12.415366+00:00
 
 Netskope Release Notes Hotfix Version 123.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 123.0.5
@@ -15951,8 +15963,9 @@ Known Issues
 ## Netskope One DSPM 10.3 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-10-3-release-notes/
 **Last Modified:** 2025-08-31T02:05:23+00:00
-**Scraped:** 2026-07-08T09:52:18.909012+00:00
+**Scraped:** 2026-07-09T10:34:18.229071+00:00
 
+Netskope One DSPM 10.3 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 10.3 Release Notes
 Major New Features
 Discovery and Classification for Azure Managed Disks
@@ -15972,13 +15985,12 @@ Support for AWS FSx for Windows File Server
 Netskope DPSM can now connect to, scan, and classify unstructured data within Amazon Web Services (AWS) FSx for Windows File Server. Using our
 SMB
 connector, this expanded coverage for unstructured data provides enhanced visibility into all sensitive data across your on-prem and cloud environments.
-Netskope One DSPM 10.3 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 124.0.0.125
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-124-0-0-125/
 **Last Modified:** 2025-08-31T02:06:10+00:00
-**Scraped:** 2026-07-08T09:52:22.771705+00:00
+**Scraped:** 2026-07-09T10:34:20.579355+00:00
 
 Virtual Appliance Release Notes Version 124.0.0.125 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 124.0.0.125
@@ -16120,8 +16132,9 @@ Fixed Issues
 ## Netskope Device Intelligence Release Notes in Version 25.04
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-25-04/
 **Last Modified:** 2025-08-31T02:04:28+00:00
-**Scraped:** 2026-07-08T09:52:26.924251+00:00
+**Scraped:** 2026-07-09T10:34:22.913431+00:00
 
+Netskope Device Intelligence Release Notes in Version 25.04 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.04
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of April, i.e. in 25.04 version release notes.
 Release Notes Subscription
@@ -16145,52 +16158,51 @@ Manage
 >
 Assets
 menu. Previously, a pencil icon was provided, which is removed now.
-Netskope Device Intelligence Release Notes in Version 25.04 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  213.252.10.11
 **URL:** https://docs.netskope.com/en/netskope-adapter-release-notes-213-252-10-11/
 **Last Modified:** 2025-08-31T02:05:50+00:00
-**Scraped:** 2026-07-08T09:52:29.477448+00:00
+**Scraped:** 2026-07-09T10:34:24.073635+00:00
 
+Netskope Adapter Release Notes 213.252.10.11 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  213.252.10.11
 Published on: May 12, 2025
 We are excited to announce our Adapter 213.252.10.11 updates updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Adapter Release Notes 213.252.10.11 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  213.252.10.11
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-213-252-10-11/
 **Last Modified:** 2025-08-31T02:05:48+00:00
-**Scraped:** 2026-07-08T09:52:32.169135+00:00
+**Scraped:** 2026-07-09T10:34:25.234742+00:00
 
+Netskope Adapter Release Notes 213.252.10.11 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  213.252.10.11
 Published on: May 12, 2025
 We are excited to announce our Adapter 213.252.10.11 updates updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Adapter Release Notes 213.252.10.11 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  213.252.10.11
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-213-252-10-11/
 **Last Modified:** 2025-08-31T02:05:49+00:00
-**Scraped:** 2026-07-08T09:52:34.768047+00:00
+**Scraped:** 2026-07-09T10:34:26.396397+00:00
 
+Netskope Adapter Release Notes 213.252.10.11 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  213.252.10.11
 Published on: May 12, 2025
 We are excited to announce our Adapter 213.252.10.11 updates updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Adapter Release Notes 213.252.10.11 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 126.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-126-0-0/
 **Last Modified:** 2025-08-31T09:58:34+00:00
-**Scraped:** 2026-07-08T09:52:38.459131+00:00
+**Scraped:** 2026-07-09T10:34:28.726290+00:00
 
 Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 126.0.0
@@ -16217,8 +16229,9 @@ Known Issues
 ## Netskope Release Notes Version 126.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-126-0-0/
 **Last Modified:** 2025-11-17T09:04:36+00:00
-**Scraped:** 2026-07-08T09:52:41.501341+00:00
+**Scraped:** 2026-07-09T10:34:29.984657+00:00
 
+Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 126.0.0
 Published on: May 12, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16238,14 +16251,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 126.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-126-0-0/
 **Last Modified:** 2025-08-31T01:56:55+00:00
-**Scraped:** 2026-07-08T09:52:44.154982+00:00
+**Scraped:** 2026-07-09T10:34:31.151932+00:00
 
+Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 126.0.0
 Published on: May 12, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16265,14 +16278,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 126.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-126-0-0/
 **Last Modified:** 2025-08-31T01:56:56+00:00
-**Scraped:** 2026-07-08T09:52:47.042560+00:00
+**Scraped:** 2026-07-09T10:34:32.320671+00:00
 
+Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 126.0.0
 Published on: May 12, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16292,14 +16305,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 126.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for April 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-april-2025/
 **Last Modified:** 2025-08-31T02:03:17+00:00
-**Scraped:** 2026-07-08T09:52:51.174213+00:00
+**Scraped:** 2026-07-09T10:34:34.645380+00:00
 
+Netskope Digital Experience Management Release Notes for April 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for April 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of April 2025:
 This release provides several improvements to your DEM experience, focusing on improving the user experience and offering more flexible configuration options.
@@ -16322,40 +16335,39 @@ The loading process has been optimized, resulting in a noticeably faster initial
 Flexible Enterprise Station Configuration
 Downloadable Docker Compose File:
 For customers managing their own virtual machines with Docker, you now have the option to download a standalone Docker Compose file. This option offers enhanced flexibility in the deployment process.
-Netskope Digital Experience Management Release Notes for April 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for March 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-march-2025/
 **Last Modified:** 2025-08-31T02:03:18+00:00
-**Scraped:** 2026-07-08T09:52:52.724171+00:00
+**Scraped:** 2026-07-09T10:34:35.805984+00:00
 
+Netskope Digital Experience Management Release Notes for March 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for March 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of March 2025:
 Auto-Detection of Domains for Station’s Predefined Apps
 The configuration process for Application Probes within a Station has been streamlined. Previously, manual selection of domains was required when establishing predefined applications. This functionality has been updated to align with NSClient behavior—domains are now automatically populated. Domains are derived from NSProxy, based on the most used domains per tenant. This eliminates ambiguity in configuration. Simply set the app, and Netskope will manage the domains.
 Timeseries Legend Improvements
 Enhancements have been made to the timeseries legend to provide improved readability and usability. These improvements offer increased clarity and a more streamlined layout for faster analysis.
-Netskope Digital Experience Management Release Notes for March 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for February 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-february-2025/
 **Last Modified:** 2025-08-31T02:03:18+00:00
-**Scraped:** 2026-07-08T09:52:54.268409+00:00
+**Scraped:** 2026-07-09T10:34:36.966785+00:00
 
+Netskope Digital Experience Management Release Notes for February 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for February 2025
 Dashboard Auto-refresh Improvement
 In order to enhance the user experience and prevent the occurrence of unexpected reloads, a dynamic icon has been added. The purpose of this icon is to visually indicate the time remaining before the next reload.
 An Alternative (BETA) Graph Visualization for Network Path
 The visualization of routers, POPs, and latency within a graph has always been a key and popular feature of DEM! This release includes enhancements that improve the layout and clearly define the Netskope Area, tenant site, and other zones. More enhancements are on the way, but for now, early adopters are able to experience these updates by clicking “Switch to new view”.
-Netskope Digital Experience Management Release Notes for February 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 25.05
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-25-05/
 **Last Modified:** 2025-09-01T14:27:59+00:00
-**Scraped:** 2026-07-08T09:52:55.369770+00:00
+**Scraped:** 2026-07-09T10:34:38.229722+00:00
 
 Netskope Device Intelligence Release Notes in Version 25.05 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.05
@@ -16370,7 +16382,7 @@ What's New
 ## Netskope One DSPM 11.0 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-11-0-release-notes/
 **Last Modified:** 2025-08-31T02:05:22+00:00
-**Scraped:** 2026-07-08T09:52:58.052740+00:00
+**Scraped:** 2026-07-09T10:34:40.551258+00:00
 
 Netskope One DSPM 11.0 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 11.0 Release Notes
@@ -16394,8 +16406,9 @@ Existing customers will require an upgrade to access this new experience. Your a
 ## Netskope Release Notes Version 127.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-127-0-0/
 **Last Modified:** 2025-08-31T09:58:32+00:00
-**Scraped:** 2026-07-08T09:53:00.805670+00:00
+**Scraped:** 2026-07-09T10:34:41.720888+00:00
 
+Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 127.0.0
 Published on: June 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16428,14 +16441,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 127.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-127-0-0/
 **Last Modified:** 2026-06-23T06:20:49+00:00
-**Scraped:** 2026-07-08T09:53:03.445014+00:00
+**Scraped:** 2026-07-09T10:34:42.901542+00:00
 
+Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 127.0.0
 Published on: June 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16468,14 +16481,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 127.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-127-0-0/
 **Last Modified:** 2025-08-31T01:56:49+00:00
-**Scraped:** 2026-07-08T09:53:06.046820+00:00
+**Scraped:** 2026-07-09T10:34:44.070799+00:00
 
+Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 127.0.0
 Published on: June 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16508,14 +16521,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 127.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-127-0-0/
 **Last Modified:** 2025-08-31T01:56:50+00:00
-**Scraped:** 2026-07-08T09:53:08.651982+00:00
+**Scraped:** 2026-07-09T10:34:45.240505+00:00
 
+Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 127.0.0
 Published on: June 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16548,14 +16561,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 127.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-127-0-0/
 **Last Modified:** 2025-08-31T01:56:51+00:00
-**Scraped:** 2026-07-08T09:53:11.243216+00:00
+**Scraped:** 2026-07-09T10:34:46.408237+00:00
 
+Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 127.0.0
 Published on: June 3, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16588,13 +16601,12 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 127.0.0 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-127.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-127-0-0/
 **Last Modified:** 2026-06-25T02:45:05+00:00
-**Scraped:** 2026-07-08T09:53:13.905234+00:00
+**Scraped:** 2026-07-09T10:34:48.745586+00:00
 
 Inline App Connector Release AC-127.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-127.0.0
@@ -16626,7 +16638,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 127.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-127-1-0/
 **Last Modified:** 2025-08-31T09:58:31+00:00
-**Scraped:** 2026-07-08T09:53:22.750849+00:00
+**Scraped:** 2026-07-09T10:34:53.404969+00:00
 
 Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 127.1.0
@@ -16653,8 +16665,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 127.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-127-1-0/
 **Last Modified:** 2025-08-31T01:56:45+00:00
-**Scraped:** 2026-07-08T09:53:25.348354+00:00
+**Scraped:** 2026-07-09T10:34:54.659768+00:00
 
+Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 127.1.0
 Published on: June 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16674,14 +16687,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 127.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-127-1-0/
 **Last Modified:** 2025-08-31T01:56:46+00:00
-**Scraped:** 2026-07-08T09:53:27.925540+00:00
+**Scraped:** 2026-07-09T10:34:55.827196+00:00
 
+Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 127.1.0
 Published on: June 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16701,14 +16714,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 127.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-127-1-0/
 **Last Modified:** 2025-08-31T01:56:47+00:00
-**Scraped:** 2026-07-08T09:53:30.554895+00:00
+**Scraped:** 2026-07-09T10:34:57.198323+00:00
 
+Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 127.1.0
 Published on: June 16, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16728,14 +16741,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 127.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 5.1.2
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-5-1-2/
 **Last Modified:** 2025-08-31T02:03:58+00:00
-**Scraped:** 2026-07-08T09:53:34.746691+00:00
+**Scraped:** 2026-07-09T10:35:00.786608+00:00
 
+Netskope Cloud Exchange Release Notes Version 5.1.2 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 5.1.2
 Release Date: July 7, 2025
 New Features and Enhancements
@@ -16798,13 +16811,12 @@ $
 , it will be treated as Source type of action parameter only.
 Intermittently few of the celery tasks may gets stuck and cause disk pile up. Restarting Cloud Exchange should resolve the issue.
 If you migrate from 5.0.1 to 5.1.2, User Risk Exchange and Application Risk Exchange records will be listed in the Risk Exchange module, but they will not be qualified for the actions until the same records are pulled again from the source.
-Netskope Cloud Exchange Release Notes Version 5.1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-128-0-0/
 **Last Modified:** 2025-08-31T09:58:31+00:00
-**Scraped:** 2026-07-08T09:53:36.945723+00:00
+**Scraped:** 2026-07-09T10:35:03.131017+00:00
 
 Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 128.0.0
@@ -16837,8 +16849,9 @@ Known Issues
 ## Netskope Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-128-0-0/
 **Last Modified:** 2025-08-31T01:56:39+00:00
-**Scraped:** 2026-07-08T09:53:39.545893+00:00
+**Scraped:** 2026-07-09T10:35:04.301694+00:00
 
+Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 128.0.0
 Published on: July 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16864,14 +16877,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-128-0-0/
 **Last Modified:** 2025-09-04T19:41:27+00:00
-**Scraped:** 2026-07-08T09:53:42.491971+00:00
+**Scraped:** 2026-07-09T10:35:05.472263+00:00
 
+Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 128.0.0
 Published on: July 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16897,14 +16910,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-128-0-0/
 **Last Modified:** 2025-08-31T01:56:41+00:00
-**Scraped:** 2026-07-08T09:53:45.211698+00:00
+**Scraped:** 2026-07-09T10:35:06.640229+00:00
 
+Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 128.0.0
 Published on: July 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16930,14 +16943,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 128.0.0 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-128.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-128-0-0/
 **Last Modified:** 2026-06-25T02:43:56+00:00
-**Scraped:** 2026-07-08T09:53:47.857805+00:00
+**Scraped:** 2026-07-09T10:35:07.899073+00:00
 
+Inline App Connector Release AC-128.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-128.0.0
 Published on: July 14, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16964,14 +16977,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-128.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 128.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-128-1-0/
 **Last Modified:** 2025-08-31T09:58:30+00:00
-**Scraped:** 2026-07-08T09:54:03.993281+00:00
+**Scraped:** 2026-07-09T10:35:14.885085+00:00
 
+Netskope Release Notes Hotfix Version 128.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 128.1.0
 Published on: July 21, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -16990,14 +17003,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Hotfix Version 128.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 128.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-128-1-0/
 **Last Modified:** 2025-08-31T01:56:43+00:00
-**Scraped:** 2026-07-08T09:54:06.582261+00:00
+**Scraped:** 2026-07-09T10:35:16.053698+00:00
 
+Netskope Release Notes Hotfix Version 128.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 128.1.0
 Published on: July 21, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17016,14 +17029,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Hotfix Version 128.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 128.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-128-1-0/
 **Last Modified:** 2025-08-31T01:56:43+00:00
-**Scraped:** 2026-07-08T09:54:09.183817+00:00
+**Scraped:** 2026-07-09T10:35:17.216861+00:00
 
+Netskope Release Notes Hotfix Version 128.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 128.1.0
 Published on: July 21, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17042,14 +17055,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Hotfix Version 128.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 11.1 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-11-1-release-notes/
 **Last Modified:** 2025-08-31T02:05:22+00:00
-**Scraped:** 2026-07-08T09:54:10.743252+00:00
+**Scraped:** 2026-07-09T10:35:18.378390+00:00
 
+Netskope One DSPM 11.1 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 11.1 Release Notes
 Major New Features
 Support for Discovery & Classification of Oracle Cloud Infrastructure Data Stores
@@ -17058,13 +17071,12 @@ Support for Data Discovery & Classification for Box
 Netskope One DSPM now supports classifying data within Box application. Expanded coverage for Box provides enhanced visibility into all sensitive data across your on-prem and cloud environments.
 On-Prem IBM DB2
 Netskope One DSPM now supports classifying data within On-prem IBM DB2 databases. Expanded coverage provides enhanced visibility into all sensitive data across your on-prem and cloud environments.
-Netskope One DSPM 11.1 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-128-0-0/
 **Last Modified:** 2025-08-31T02:06:00+00:00
-**Scraped:** 2026-07-08T09:54:11.856094+00:00
+**Scraped:** 2026-07-09T10:35:19.553302+00:00
 
 Virtual Appliance Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 128.0.0
@@ -17209,7 +17221,7 @@ Known Issues
 ## Netskope Release Notes Version 129.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-129-0-0/
 **Last Modified:** 2025-08-31T09:58:29+00:00
-**Scraped:** 2026-07-08T09:54:22.375006+00:00
+**Scraped:** 2026-07-09T10:35:24.567971+00:00
 
 Netskope Release Notes Version 129.0.0
 Published on: August 4, 2025
@@ -17238,14 +17250,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 129.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-129-0-0/
 **Last Modified:** 2025-09-30T20:18:51+00:00
-**Scraped:** 2026-07-08T09:54:24.941253+00:00
+**Scraped:** 2026-07-09T10:35:25.738158+00:00
 
+Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 129.0.0
 Published on: August 4, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17273,14 +17285,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 129.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-129-0-0/
 **Last Modified:** 2025-10-01T12:35:08+00:00
-**Scraped:** 2026-07-08T09:54:27.545948+00:00
+**Scraped:** 2026-07-09T10:35:26.906802+00:00
 
+Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 129.0.0
 Published on: August 4, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17308,14 +17320,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 129.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-129-0-0/
 **Last Modified:** 2025-08-31T01:56:36+00:00
-**Scraped:** 2026-07-08T09:54:30.216904+00:00
+**Scraped:** 2026-07-09T10:35:28.073099+00:00
 
+Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 129.0.0
 Published on: August 4, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17343,14 +17355,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 129.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-129-0-0/
 **Last Modified:** 2025-08-31T01:56:37+00:00
-**Scraped:** 2026-07-08T09:54:32.861285+00:00
+**Scraped:** 2026-07-09T10:35:29.240057+00:00
 
+Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 129.0.0
 Published on: August 4, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17378,14 +17390,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 126.0.9
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-126-0-9/
 **Last Modified:** 2025-08-31T09:58:33+00:00
-**Scraped:** 2026-07-08T09:54:35.521423+00:00
+**Scraped:** 2026-07-09T10:35:30.402763+00:00
 
+Netskope Release Notes Hotfix Version 126.0.9 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 126.0.9
 Published on: August 7, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17403,14 +17415,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 126.0.9 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 126.0.9
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-126-0-9/
 **Last Modified:** 2025-08-31T01:56:52+00:00
-**Scraped:** 2026-07-08T09:54:38.218225+00:00
+**Scraped:** 2026-07-09T10:35:31.561778+00:00
 
+Netskope Release Notes Hotfix Version 126.0.9 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 126.0.9
 Published on: August 7, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17428,14 +17440,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 126.0.9 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 123.0.15
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-123-0-15/
 **Last Modified:** 2025-08-31T09:58:38+00:00
-**Scraped:** 2026-07-08T09:54:40.778016+00:00
+**Scraped:** 2026-07-09T10:35:32.724180+00:00
 
+Netskope Release Notes Hotfix Version 123.0.15 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 123.0.15
 Published on: August 7, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17453,14 +17465,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 123.0.15 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 123.0.15
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-123-0-15/
 **Last Modified:** 2025-08-31T01:57:12+00:00
-**Scraped:** 2026-07-08T09:54:43.671168+00:00
+**Scraped:** 2026-07-09T10:35:33.884515+00:00
 
+Netskope Release Notes Hotfix Version 123.0.15 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 123.0.15
 Published on: August 7, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17478,14 +17490,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 123.0.15 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for August 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-august-2025/
 **Last Modified:** 2025-11-03T19:36:12+00:00
-**Scraped:** 2026-07-08T09:54:45.205343+00:00
+**Scraped:** 2026-07-09T10:35:35.049215+00:00
 
+Netskope Digital Experience Management Release Notes for August 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for August 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of August 2025:
 Site Based Alerting
@@ -17507,14 +17519,14 @@ Traceroute visuals have been updated for a clearer user experience.
 Shift + Scroll
 now zooms in/out on traceroute diagrams.
 Traceroute paths and latency are now derived from backend APIs for improved accuracy.
-Netskope Digital Experience Management Release Notes for August 2025 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-129.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-129-0-0/
 **Last Modified:** 2026-06-25T02:42:52+00:00
-**Scraped:** 2026-07-08T09:54:55.500828+00:00
+**Scraped:** 2026-07-09T10:35:39.786421+00:00
 
+Inline App Connector Release AC-129.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-129.0.0
 Published on: August 17, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17541,14 +17553,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-129.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 129.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-129-1-0/
 **Last Modified:** 2025-08-31T10:03:14+00:00
-**Scraped:** 2026-07-08T09:55:06.105160+00:00
+**Scraped:** 2026-07-09T10:35:44.553527+00:00
 
+Netskope Release Notes Hotfix Version 129.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 129.1.0
 Published on: August 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17567,14 +17579,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Hotfix Version 129.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 129.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-129-1-0/
 **Last Modified:** 2025-08-31T01:56:32+00:00
-**Scraped:** 2026-07-08T09:55:08.992461+00:00
+**Scraped:** 2026-07-09T10:35:45.715832+00:00
 
+Netskope Release Notes Hotfix Version 129.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 129.1.0
 Published on: August 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17593,14 +17605,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Hotfix Version 129.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 129.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-129-1-0/
 **Last Modified:** 2025-08-31T01:56:33+00:00
-**Scraped:** 2026-07-08T09:55:11.560907+00:00
+**Scraped:** 2026-07-09T10:35:46.876225+00:00
 
+Netskope Release Notes Hotfix Version 129.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 129.1.0
 Published on: August 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17619,14 +17631,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Hotfix Version 129.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 25.08
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-25-08/
 **Last Modified:** 2025-09-01T14:25:08+00:00
-**Scraped:** 2026-07-08T09:55:13.092775+00:00
+**Scraped:** 2026-07-09T10:35:48.039828+00:00
 
+Netskope Device Intelligence Release Notes in Version 25.08 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.08
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of August, i.e. in 25.08 version release notes.
 Release Notes Subscription
@@ -17634,14 +17646,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 25.08 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 11.2 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-11-2-release-notes/
 **Last Modified:** 2025-09-02T15:56:30+00:00
-**Scraped:** 2026-07-08T09:55:16.202852+00:00
+**Scraped:** 2026-07-09T10:35:50.363202+00:00
 
+Netskope One DSPM 11.2 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 11.2 Release Notes
 Major New Features
 DSPM for Salesforce (SFDC)
@@ -17650,13 +17662,12 @@ Configuration & Privilege Analysis for On-Premises IBM Db2
 Netskope One DSPM now offers the capability to perform Configuration Analysis and Deep Privilege Analysis for on-premises IBM Db2 data stores. This new functionality provides valuable insights into the security posture of your IBM Db2 instances, including misconfiguration risks and who has access to sensitive data. This expanded coverage significantly enhances visibility into data risks within on-premises environments.
 Support for custom DLP Profiles and Rules in DSPM for SaaS Applications
 DSPM for SaaS Applications now supports the ability to select custom DLP Profiles & Rules to scan against your SaaS applications. Now you can enable / disable any type of DLP Profile, regardless of type (pre-defined or custom). For your existing connections, you can update your selected profiles, and changes will take effect at the next scan.
-Netskope One DSPM 11.2 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 130.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-130-0-0/
 **Last Modified:** 2025-10-16T05:58:45+00:00
-**Scraped:** 2026-07-08T09:55:18.799884+00:00
+**Scraped:** 2026-07-09T10:35:51.626468+00:00
 
 Netskope Release Notes Version 130.0.0
 Published on: September 2, 2025
@@ -17689,14 +17700,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 130.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-130-0-0/
 **Last Modified:** 2025-11-20T06:43:33+00:00
-**Scraped:** 2026-07-08T09:55:21.388884+00:00
+**Scraped:** 2026-07-09T10:35:52.796613+00:00
 
+Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 130.0.0
 Published on: September 2, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17728,14 +17739,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 130.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-130-0-0/
 **Last Modified:** 2025-10-02T17:05:47+00:00
-**Scraped:** 2026-07-08T09:55:23.972611+00:00
+**Scraped:** 2026-07-09T10:35:54.057272+00:00
 
+Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 130.0.0
 Published on: September 2, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17767,14 +17778,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 130.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-130-0-0/
 **Last Modified:** 2025-08-31T01:56:30+00:00
-**Scraped:** 2026-07-08T09:55:26.545277+00:00
+**Scraped:** 2026-07-09T10:35:55.225080+00:00
 
+Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 130.0.0
 Published on: September 2, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17806,14 +17817,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 130.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-130-0-0/
 **Last Modified:** 2025-09-02T14:57:13+00:00
-**Scraped:** 2026-07-08T09:55:30.552744+00:00
+**Scraped:** 2026-07-09T10:35:56.395285+00:00
 
+Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 130.0.0
 Published on: September 2, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17845,38 +17856,38 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 130.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  214.253.15.1
 **URL:** https://docs.netskope.com/en/netskope-adapter-release-notes-214-253-15-1-2/
 **Last Modified:** 2025-10-07T10:07:53+00:00
-**Scraped:** 2026-07-08T09:55:33.094764+00:00
+**Scraped:** 2026-07-09T10:36:02.303937+00:00
 
+Netskope Adapter Release Notes 214.253.15.1 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  214.253.15.1
 Published on: September 2, 2025
 We are excited to announce our Adapter 214.253.15.1 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Adapter Release Notes 214.253.15.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  214.253.15.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-214-253-15-1/
 **Last Modified:** 2025-09-03T02:17:34+00:00
-**Scraped:** 2026-07-08T09:55:35.669879+00:00
+**Scraped:** 2026-07-09T10:36:03.561021+00:00
 
+Netskope Adapter Release Notes 214.253.15.1 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  214.253.15.1
 Published on: September 2, 2025
 We are excited to announce our Adapter 214.253.15.1 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Adapter Release Notes 214.253.15.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for September 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-september-2025/
 **Last Modified:** 2025-11-03T19:48:31+00:00
-**Scraped:** 2026-07-08T09:55:37.229853+00:00
+**Scraped:** 2026-07-09T10:36:04.771710+00:00
 
+Netskope Digital Experience Management Release Notes for September 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for September 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of September 2025:
 DEM Browser Extension: Performance Monitoring & Intelligence
@@ -17921,13 +17932,12 @@ Terminology Changes
 What’s new:
 Terminology changes have been made to the DEM “Tenant Overview” dashboard, specifically the “POP & Service Status“ widget, to more accurately represent the activities occurring across the Netskope data centers and services.
 Terminology changes have been made to the DEM Alerts “Platform > Service Status“ alert type. The triggered alerts will showcase the new terminology, as well as the email and webhook notification templates. This new terminology will more accurately represent the activities occurring across the Netskope data centers and services.
-Netskope Digital Experience Management Release Notes for September 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 130.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-130-1-0/
 **Last Modified:** 2025-10-16T22:27:27+00:00
-**Scraped:** 2026-07-08T09:55:49.178466+00:00
+**Scraped:** 2026-07-09T10:36:10.816571+00:00
 
 Netskope Release Notes Hotfix Version 130.1.0
 Published on: September 23, 2025
@@ -17948,14 +17958,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 130.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 130.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-130-1-0/
 **Last Modified:** 2025-10-29T06:06:04+00:00
-**Scraped:** 2026-07-08T09:55:51.750734+00:00
+**Scraped:** 2026-07-09T10:36:11.979448+00:00
 
+Netskope Release Notes Hotfix Version 130.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 130.1.0
 Published on: September 23, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -17975,14 +17985,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 130.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 130.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-130-1-0/
 **Last Modified:** 2025-09-23T10:15:24+00:00
-**Scraped:** 2026-07-08T09:55:54.364311+00:00
+**Scraped:** 2026-07-09T10:36:13.143615+00:00
 
+Netskope Release Notes Hotfix Version 130.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 130.1.0
 Published on: September 23, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18002,14 +18012,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 130.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 130.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-130-1-0/
 **Last Modified:** 2025-10-17T10:15:31+00:00
-**Scraped:** 2026-07-08T09:55:55.473757+00:00
+**Scraped:** 2026-07-09T10:36:14.307941+00:00
 
+Netskope Release Notes Hotfix Version 130.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 130.1.0
 Published on: September 23, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18034,8 +18044,9 @@ Known Issues
 ## Inline App Connector Release AC-130.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-130-0-0/
 **Last Modified:** 2026-06-25T03:23:11+00:00
-**Scraped:** 2026-07-08T09:55:58.060365+00:00
+**Scraped:** 2026-07-09T10:36:15.474508+00:00
 
+Inline App Connector Release AC-130.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-130.0.0
 Published on: September 24, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18063,39 +18074,37 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-130.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  214.253.15.10
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-214-253-15-10/
 **Last Modified:** 2025-10-07T17:49:59+00:00
-**Scraped:** 2026-07-08T09:56:08.527009+00:00
+**Scraped:** 2026-07-09T10:36:20.230395+00:00
 
+Netskope Adapter Release Notes 214.253.15.10 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  214.253.15.10
 Published on: October 7, 2025
 We are excited to announce our Adapter 214.253.15.10 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Adapter Release Notes 214.253.15.10 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  214.253.15.10
 **URL:** https://docs.netskope.com/en/netskope-adapter-release-notes-214-253-15-10/
 **Last Modified:** 2025-10-07T18:13:48+00:00
-**Scraped:** 2026-07-08T09:56:11.086366+00:00
+**Scraped:** 2026-07-09T10:36:21.398908+00:00
 
+Netskope Adapter Release Notes 214.253.15.10 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  214.253.15.10
 Published on: October 7, 2025
 We are excited to announce our Adapter 214.253.15.10 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
-Netskope Adapter Release Notes 214.253.15.10 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 131.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-131-0-0/
 **Last Modified:** 2026-02-02T03:45:25+00:00
-**Scraped:** 2026-07-08T09:56:14.812442+00:00
+**Scraped:** 2026-07-09T10:36:24.022925+00:00
 
-Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 131.0.0
 Published on: October 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18137,8 +18146,9 @@ Deprecated
 ## Netskope Release Notes Version 131.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-131-0-0/
 **Last Modified:** 2026-02-02T03:48:39+00:00
-**Scraped:** 2026-07-08T09:56:17.494342+00:00
+**Scraped:** 2026-07-09T10:36:25.192856+00:00
 
+Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 131.0.0
 Published on: October 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18175,14 +18185,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 131.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-131-0-0/
 **Last Modified:** 2025-10-17T10:13:30+00:00
-**Scraped:** 2026-07-08T09:56:20.118377+00:00
+**Scraped:** 2026-07-09T10:36:26.362315+00:00
 
+Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 131.0.0
 Published on: October 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18219,14 +18229,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 131.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-131-0-0/
 **Last Modified:** 2025-10-17T10:13:44+00:00
-**Scraped:** 2026-07-08T09:56:22.714739+00:00
+**Scraped:** 2026-07-09T10:36:27.532184+00:00
 
+Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 131.0.0
 Published on: October 8, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18263,14 +18273,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-131.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-131-0-0/
 **Last Modified:** 2026-06-25T02:40:39+00:00
-**Scraped:** 2026-07-08T09:56:28.514676+00:00
+**Scraped:** 2026-07-09T10:36:31.034033+00:00
 
+Inline App Connector Release AC-131.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-131.0.0
 Published on: October 19, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18294,13 +18304,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-131.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 131.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-131-1-0/
 **Last Modified:** 2025-10-24T06:06:15+00:00
-**Scraped:** 2026-07-08T09:56:37.363318+00:00
+**Scraped:** 2026-07-09T10:36:35.892540+00:00
 
 Netskope Release Notes Hotfix Version 131.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 131.1.0
@@ -18327,8 +18336,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version129.1.4
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-129-1-4/
 **Last Modified:** 2025-10-24T15:04:59+00:00
-**Scraped:** 2026-07-08T09:56:42.503515+00:00
+**Scraped:** 2026-07-09T10:36:38.225254+00:00
 
+Netskope Release Notes Hotfix Version129.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version129.1.4
 Published on: October 24, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18343,14 +18353,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version129.1.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version129.1.4
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-netskope-release-notes-hotfix-version-129-1-4/
 **Last Modified:** 2025-10-24T15:02:36+00:00
-**Scraped:** 2026-07-08T09:56:45.483742+00:00
+**Scraped:** 2026-07-09T10:36:39.387181+00:00
 
+Netskope Release Notes Hotfix Version129.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version129.1.4
 Published on: October 24, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18365,14 +18375,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version129.1.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for October 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-october-2025/
 **Last Modified:** 2025-11-14T18:01:47+00:00
-**Scraped:** 2026-07-08T09:56:47.049648+00:00
+**Scraped:** 2026-07-09T10:36:40.578555+00:00
 
+Netskope Digital Experience Management Release Notes for October 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for October 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of October 2025:
 Enhanced IPSEC/GRE Tunnel Error Reporting for DEM
@@ -18428,28 +18438,28 @@ Now, when you use a custom webhook for Tunnel Status Alerts, the notification pa
 Terminology Changes
 Terminology changes have been made to the DEM “Tenant Overview” dashboard, specifically the “POP & Service Status“ widget, to more accurately represent the activities occurring across the Netskope data centers and services.
 Terminology changes have been made to the DEM Alerts “Platform > Service Status“ alert type. The triggered alerts will showcase the new terminology, as well as the email and webhook notification templates. This new terminology will more accurately represent the activities occurring across the Netskope data centers and services.
-Netskope Digital Experience Management Release Notes for October 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 6.0.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-6-0-0/
 **Last Modified:** 2025-10-30T20:03:09+00:00
-**Scraped:** 2026-07-08T09:56:51.162450+00:00
+**Scraped:** 2026-07-09T10:36:42.998916+00:00
 
+Netskope Cloud Exchange Release Notes Version 6.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.0
 Release Date: October 30, 2025
 We are excited to announce our release updates! Here’s the latest features, fixed issues, and known issues in this release.
 What's New
 Fixed Issues
 Known Issues
-Netskope Cloud Exchange Release Notes Version 6.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 131.1.1
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-131-1-1/
 **Last Modified:** 2025-11-05T03:03:52+00:00
-**Scraped:** 2026-07-08T09:56:58.582776+00:00
+**Scraped:** 2026-07-09T10:36:47.744906+00:00
 
+Netskope Release Notes Hotfix Version 131.1.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 131.1.1
 Published on: November 4, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18468,13 +18478,12 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 131.1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 132.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-132-0-0/
 **Last Modified:** 2026-01-30T14:01:55+00:00
-**Scraped:** 2026-07-08T09:57:02.379130+00:00
+**Scraped:** 2026-07-09T10:36:50.081443+00:00
 
 Netskope Release Notes Version 132.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 132.0.0
@@ -18508,7 +18517,7 @@ Known Issues
 ## Netskope Release Notes Version 132.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-132-0-0/
 **Last Modified:** 2026-03-31T06:58:05+00:00
-**Scraped:** 2026-07-08T09:57:03.468420+00:00
+**Scraped:** 2026-07-09T10:36:51.232659+00:00
 
 Netskope Release Notes Version 132.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 132.0.0
@@ -18542,8 +18551,9 @@ Known Issues
 ## Netskope Release Notes Version 132.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-132-0-0/
 **Last Modified:** 2025-11-05T04:33:30+00:00
-**Scraped:** 2026-07-08T09:57:06.104014+00:00
+**Scraped:** 2026-07-09T10:36:52.402452+00:00
 
+Netskope Release Notes Version 132.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 132.0.0
 Published on: November 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18570,14 +18580,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 132.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 132.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-132-0-0/
 **Last Modified:** 2025-11-24T11:14:59+00:00
-**Scraped:** 2026-07-08T09:57:08.696511+00:00
+**Scraped:** 2026-07-09T10:36:53.573462+00:00
 
+Netskope Release Notes Version 132.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 132.0.0
 Published on: November 5, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18604,14 +18614,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 132.0.0 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-132.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-132-0-0/
 **Last Modified:** 2026-06-25T02:40:02+00:00
-**Scraped:** 2026-07-08T09:57:17.829911+00:00
+**Scraped:** 2026-07-09T10:36:58.549383+00:00
 
+Inline App Connector Release AC-132.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-132.0.0
 Published on: November 11, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18636,14 +18646,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-132.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 11.3 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-11-3-release-notes/
 **Last Modified:** 2026-03-03T16:57:57+00:00
-**Scraped:** 2026-07-08T09:57:19.366794+00:00
+**Scraped:** 2026-07-09T10:36:59.717471+00:00
 
+Netskope One DSPM 11.3 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 11.3 Release Notes
 Major New Features
 New On-Prem Deployment Option for DSPM Sidecars
@@ -18668,28 +18678,28 @@ example.us-west-2.compute.amazonaws.com
 ).
 In addition, special character support has been added for SMB file share / mount names. The following valid characters can now be used:
 ! @ # $ % & ' _ - . ~ ( ) { }
-Netskope One DSPM 11.3 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for November 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-november-2025/
 **Last Modified:** 2025-11-14T18:08:38+00:00
-**Scraped:** 2026-07-08T09:57:20.909355+00:00
+**Scraped:** 2026-07-09T10:37:00.878692+00:00
 
+Netskope Digital Experience Management Release Notes for November 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for November 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of November 2025:
 Client Steering Widget Datasource Improvement
 Enhancements have been made to the datasources powering the “Active Device Count by POP” and “Active Device Count By POP Per Hour” widgets within the DEM Client Steering dashboard.
 Fixed Issue
 There was an issue with the DEM User Drill Down dashboard. It would show devices of the user that are not DEM-enabled, apart from DEM-enabled devices. This issue has been fixed.
-Netskope Digital Experience Management Release Notes for November 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 132.0.7
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-132-0-7/
 **Last Modified:** 2026-01-30T14:02:31+00:00
-**Scraped:** 2026-07-08T09:57:25.180047+00:00
+**Scraped:** 2026-07-09T10:37:03.211995+00:00
 
+Netskope Release Notes Hotfix Version 132.0.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 132.0.7
 Published on: November 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18704,14 +18714,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 132.0.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 132.0.7
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-132-0-7/
 **Last Modified:** 2025-11-18T13:51:04+00:00
-**Scraped:** 2026-07-08T09:57:27.775101+00:00
+**Scraped:** 2026-07-09T10:37:04.375881+00:00
 
+Netskope Release Notes Hotfix Version 132.0.7 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 132.0.7
 Published on: November 18, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18726,14 +18736,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 132.0.7 - Netskope Knowledge Portal
 
 ---
 ## Netskope Device Intelligence Release Notes in Version 25.11
 **URL:** https://docs.netskope.com/en/netskope-device-intelligence-release-notes-in-version-25-11/
 **Last Modified:** 2025-11-26T03:43:00+00:00
-**Scraped:** 2026-07-08T09:57:29.325298+00:00
+**Scraped:** 2026-07-09T10:37:05.538948+00:00
 
+Netskope Device Intelligence Release Notes in Version 25.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.11
 We are excited to announce our recent updates on the product! Get the features, issues fixed, and other updates published in the month of November, i.e. in 25.11 version release notes.
 Release Notes Subscription
@@ -18741,13 +18751,12 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-Netskope Device Intelligence Release Notes in Version 25.11 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 133.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-133-0-0/
 **Last Modified:** 2026-01-30T14:02:03+00:00
-**Scraped:** 2026-07-08T09:57:32.005869+00:00
+**Scraped:** 2026-07-09T10:37:08.014613+00:00
 
 Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 133.0.0
@@ -18792,7 +18801,7 @@ Deprecated
 ## Netskope Release Notes Version 133.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-133-0-0/
 **Last Modified:** 2026-04-17T03:58:10+00:00
-**Scraped:** 2026-07-08T09:57:33.132107+00:00
+**Scraped:** 2026-07-09T10:37:09.235302+00:00
 
 Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 133.0.0
@@ -18837,7 +18846,7 @@ Deprecated
 ## Netskope Release Notes Version 133.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-133-0-0/
 **Last Modified:** 2026-02-16T04:30:50+00:00
-**Scraped:** 2026-07-08T09:57:34.256851+00:00
+**Scraped:** 2026-07-09T10:37:10.413354+00:00
 
 Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 133.0.0
@@ -18882,8 +18891,9 @@ Deprecated
 ## Netskope Release Notes Version 133.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-133-0-0/
 **Last Modified:** 2025-12-04T04:42:48+00:00
-**Scraped:** 2026-07-08T09:57:36.899759+00:00
+**Scraped:** 2026-07-09T10:37:11.588740+00:00
 
+Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 133.0.0
 Published on: December 2, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18921,14 +18931,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 133.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-133-0-0/
 **Last Modified:** 2025-12-02T08:58:43+00:00
-**Scraped:** 2026-07-08T09:57:39.535969+00:00
+**Scraped:** 2026-07-09T10:37:12.764398+00:00
 
+Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 133.0.0
 Published on: December 2, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -18966,13 +18976,12 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 133.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 132.0.1
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-132-0-1/
 **Last Modified:** 2026-02-04T17:30:32+00:00
-**Scraped:** 2026-07-08T09:57:50.673434+00:00
+**Scraped:** 2026-07-09T10:37:18.699615+00:00
 
 Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 132.0.1
@@ -19066,8 +19075,9 @@ Deprecated
 ## Netskope Release Notes Hotfix Version 133.0.4
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-133-0-4/
 **Last Modified:** 2026-01-30T13:57:55+00:00
-**Scraped:** 2026-07-08T09:58:01.123102+00:00
+**Scraped:** 2026-07-09T10:37:23.345733+00:00
 
+Netskope Release Notes Hotfix Version 133.0.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 133.0.4
 Published on: December 10, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19082,14 +19092,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 133.0.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 133.0.4
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-133-0-4/
 **Last Modified:** 2025-12-10T12:46:21+00:00
-**Scraped:** 2026-07-08T09:58:03.701280+00:00
+**Scraped:** 2026-07-09T10:37:24.504458+00:00
 
+Netskope Release Notes Hotfix Version 133.0.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 133.0.4
 Published on: December 10, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19104,14 +19114,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 133.0.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 132.0.13
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-132-0-13/
 **Last Modified:** 2026-01-30T14:02:11+00:00
-**Scraped:** 2026-07-08T09:58:06.345837+00:00
+**Scraped:** 2026-07-09T10:37:25.668573+00:00
 
+Netskope Release Notes Hotfix Version 132.0.13 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 132.0.13
 Published on: December 10, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19126,14 +19136,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 132.0.13 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 132.0.13
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-132-0-13/
 **Last Modified:** 2025-12-10T12:40:41+00:00
-**Scraped:** 2026-07-08T09:58:08.929543+00:00
+**Scraped:** 2026-07-09T10:37:26.828725+00:00
 
+Netskope Release Notes Hotfix Version 132.0.13 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 132.0.13
 Published on: December 10, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19148,14 +19158,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 132.0.13 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 129.1.6
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-129-1-6/
 **Last Modified:** 2025-12-10T12:33:45+00:00
-**Scraped:** 2026-07-08T09:58:11.532550+00:00
+**Scraped:** 2026-07-09T10:37:27.993291+00:00
 
+Netskope Release Notes Hotfix Version 129.1.6 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 129.1.6
 Published on: December 10, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19170,14 +19180,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 129.1.6 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 129.1.6
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-129-1-6/
 **Last Modified:** 2025-12-10T12:33:57+00:00
-**Scraped:** 2026-07-08T09:58:14.128199+00:00
+**Scraped:** 2026-07-09T10:37:29.248902+00:00
 
+Netskope Release Notes Hotfix Version 129.1.6 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 129.1.6
 Published on: December 10, 2025
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19192,14 +19202,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 129.1.6 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-133.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-133-0-0/
 **Last Modified:** 2026-06-25T02:37:39+00:00
-**Scraped:** 2026-07-08T09:58:26.048457+00:00
+**Scraped:** 2026-07-09T10:37:35.072661+00:00
 
+Inline App Connector Release AC-133.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-133.0.0
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -19221,14 +19231,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-133.0.0 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 132.0.1
 **URL:** https://docs.netskope.com/en/deprecated-features-in-virtual-appliance-release-notes-132-0-0/
 **Last Modified:** 2026-01-05T20:29:59+00:00
-**Scraped:** 2026-07-08T09:58:30.191677+00:00
+**Scraped:** 2026-07-09T10:37:37.501317+00:00
 
+Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 132.0.1
 Release Date: February 4, 2026
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
@@ -19315,14 +19325,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 132.0.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-virtual-appliance-release-notes-132-0-0/
 **Last Modified:** 2026-04-21T17:29:11+00:00
-**Scraped:** 2026-07-08T09:58:32.807609+00:00
+**Scraped:** 2026-07-09T10:37:38.673274+00:00
 
+Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 132.0.1
 Release Date: February 4, 2026
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
@@ -19409,14 +19419,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 132.0.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-virtual-appliance-release-notes-132-0-0/
 **Last Modified:** 2026-02-03T21:13:05+00:00
-**Scraped:** 2026-07-08T09:58:35.467267+00:00
+**Scraped:** 2026-07-09T10:37:39.847338+00:00
 
+Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 132.0.1
 Release Date: February 4, 2026
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
@@ -19503,14 +19513,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 133.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-133-1-0/
 **Last Modified:** 2026-01-30T13:50:03+00:00
-**Scraped:** 2026-07-08T09:58:38.096182+00:00
+**Scraped:** 2026-07-09T10:37:41.017744+00:00
 
+Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 133.1.0
 Published on: January 15, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19530,14 +19540,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 133.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-133-1-0/
 **Last Modified:** 2026-02-04T06:24:57+00:00
-**Scraped:** 2026-07-08T09:58:40.674052+00:00
+**Scraped:** 2026-07-09T10:37:42.181473+00:00
 
+Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 133.1.0
 Published on: January 15, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19557,14 +19567,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 133.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-133-1-0/
 **Last Modified:** 2026-01-15T19:58:23+00:00
-**Scraped:** 2026-07-08T09:58:43.283422+00:00
+**Scraped:** 2026-07-09T10:37:43.347889+00:00
 
+Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 133.1.0
 Published on: January 15, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19584,14 +19594,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 133.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-133-1-0/
 **Last Modified:** 2026-01-19T19:51:19+00:00
-**Scraped:** 2026-07-08T09:58:45.926387+00:00
+**Scraped:** 2026-07-09T10:37:44.509942+00:00
 
+Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 133.1.0
 Published on: January 15, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19611,14 +19621,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 133.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for December 2025
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-december-2025/
 **Last Modified:** 2026-01-27T04:37:24+00:00
-**Scraped:** 2026-07-08T09:58:47.755766+00:00
+**Scraped:** 2026-07-09T10:37:45.765906+00:00
 
+Netskope Digital Experience Management Release Notes for December 2025 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for December 2025
 The following is a list of Digital Experience Management (DEM) releases for the month of December 2025:
 DEM Licensing
@@ -19627,13 +19637,12 @@ Disk Score
 The Disk Score, which is a part of the Device Score, has been updated. This change will lower the score of devices which match the following criteria:
 Having a disk of more than 500,000 KB
 Having less than 10% of disk availability
-Netskope Digital Experience Management Release Notes for December 2025 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 6.0.1
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-6-0-1/
 **Last Modified:** 2026-02-24T02:35:08+00:00
-**Scraped:** 2026-07-08T09:58:48.856182+00:00
+**Scraped:** 2026-07-09T10:37:46.973709+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.1
@@ -19647,8 +19656,9 @@ Known Issues
 ## AI Gateway Release Notes Version - 1.0
 **URL:** https://docs.netskope.com/en/ai-gateway-release-notes-version-1-0/
 **Last Modified:** 2026-01-29T05:15:08+00:00
-**Scraped:** 2026-07-08T09:58:55.036934+00:00
+**Scraped:** 2026-07-09T10:37:51.637178+00:00
 
+AI Gateway Release Notes Version - 1.0 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.0
 We are excited to announce our recent updates on the product! Get the issues fixed published in the month of January, 2026 i.e. in 1.0 version release notes.
 AI Gateway is currently in beta. Contact Netskope Support or your Sales Representative to enable this feature for your tenant.
@@ -19657,14 +19667,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 Fixed Issues
-AI Gateway Release Notes Version - 1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 134.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-release-134-0-0/
 **Last Modified:** 2026-05-18T21:24:18+00:00
-**Scraped:** 2026-07-08T09:58:59.216855+00:00
+**Scraped:** 2026-07-09T10:37:53.980444+00:00
 
+Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 134.0.0
 Published on: February 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19696,14 +19706,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 134.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-release-134-0-0/
 **Last Modified:** 2026-02-17T22:12:39+00:00
-**Scraped:** 2026-07-08T09:59:01.892637+00:00
+**Scraped:** 2026-07-09T10:37:55.153210+00:00
 
+Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 134.0.0
 Published on: February 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19735,14 +19745,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 134.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-release-134-0-0/
 **Last Modified:** 2026-02-25T09:17:58+00:00
-**Scraped:** 2026-07-08T09:59:04.535480+00:00
+**Scraped:** 2026-07-09T10:37:56.332005+00:00
 
+Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 134.0.0
 Published on: February 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19774,14 +19784,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 134.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-134-0-0/
 **Last Modified:** 2026-02-03T06:03:45+00:00
-**Scraped:** 2026-07-08T09:59:05.655960+00:00
+**Scraped:** 2026-07-09T10:37:57.506992+00:00
 
+Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 134.0.0
 Published on: February 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19818,8 +19828,9 @@ Deprecated
 ## Netskope Release Notes Version 134.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-134-0-0/
 **Last Modified:** 2026-05-18T21:05:05+00:00
-**Scraped:** 2026-07-08T09:59:08.284340+00:00
+**Scraped:** 2026-07-09T10:37:58.792758+00:00
 
+Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 134.0.0
 Published on: February 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19851,13 +19862,12 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Netskope Release Notes Version 134.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for February 2026
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-february-2026/
 **Last Modified:** 2026-03-31T15:05:03+00:00
-**Scraped:** 2026-07-08T09:59:09.381020+00:00
+**Scraped:** 2026-07-09T10:37:59.961630+00:00
 
 Netskope Digital Experience Management Release Notes for February 2026 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for February 2026
@@ -19892,8 +19902,9 @@ Previous behavior: These actions formerly redirected users to separate pages.
 ## Inline App Connector Release AC-134.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-134-0-0/
 **Last Modified:** 2026-06-25T02:36:01+00:00
-**Scraped:** 2026-07-08T09:59:22.634130+00:00
+**Scraped:** 2026-07-09T10:38:05.858456+00:00
 
+Inline App Connector Release AC-134.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-134.0.0
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -19918,14 +19929,14 @@ What's New
 Fixed Issues
 Known Issues
 Deprecated
-Inline App Connector Release AC-134.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 134.0.5
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-134-0-5/
 **Last Modified:** 2026-02-15T14:21:34+00:00
-**Scraped:** 2026-07-08T09:59:38.363329+00:00
+**Scraped:** 2026-07-09T10:38:14.101659+00:00
 
+Netskope Release Notes Hotfix Version 134.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 134.0.5
 Published on: February 15, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19948,7 +19959,7 @@ What's New
 ## Netskope Release Notes Hotfix Version 134.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-134-1-0/
 **Last Modified:** 2026-03-16T09:54:11+00:00
-**Scraped:** 2026-07-08T09:59:43.513694+00:00
+**Scraped:** 2026-07-09T10:38:16.430948+00:00
 
 Netskope Release Notes Hotfix Version 134.1.0
 Published on: February 17, 2026
@@ -19968,14 +19979,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 134.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 134.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-134-1-0/
 **Last Modified:** 2026-02-17T04:36:24+00:00
-**Scraped:** 2026-07-08T09:59:46.145802+00:00
+**Scraped:** 2026-07-09T10:38:17.595698+00:00
 
+Netskope Release Notes Hotfix Version 134.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 134.1.0
 Published on: February 17, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -19994,14 +20005,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 134.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 134.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-134-1-0/
 **Last Modified:** 2026-02-17T04:37:42+00:00
-**Scraped:** 2026-07-08T09:59:48.974977+00:00
+**Scraped:** 2026-07-09T10:38:18.759540+00:00
 
+Netskope Release Notes Hotfix Version 134.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 134.1.0
 Published on: February 17, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20020,14 +20031,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 134.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 12.0 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-12-0-release-notes/
 **Last Modified:** 2026-03-03T16:42:29+00:00
-**Scraped:** 2026-07-08T09:59:50.514856+00:00
+**Scraped:** 2026-07-09T10:38:19.924226+00:00
 
+Netskope One DSPM 12.0 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 12.0 Release Notes
 Major New Features
 DSPM integration with DLP
@@ -20067,27 +20078,27 @@ share
 and mount
 backup
 .
-Netskope One DSPM 12.0 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  215.254.18.1
 **URL:** https://docs.netskope.com/en/netskope-adapter-release-notes-215-254-18-1/
 **Last Modified:** 2026-02-25T04:53:24+00:00
-**Scraped:** 2026-07-08T09:59:53.072680+00:00
+**Scraped:** 2026-07-09T10:38:21.082741+00:00
 
+Netskope Adapter Release Notes 215.254.18.1 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  215.254.18.1
 Published on: February 25, 2026
 We are excited to announce our Adapter 215.254.18.1 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Adapter Release Notes 215.254.18.1 - Netskope Knowledge Portal
 
 ---
 ## AI Gateway Release Notes Version - 1.1
 **URL:** https://docs.netskope.com/en/ai-gateway-release-notes-version-1-1/
 **Last Modified:** 2026-02-27T15:17:57+00:00
-**Scraped:** 2026-07-08T10:00:03.221750+00:00
+**Scraped:** 2026-07-09T10:38:26.901187+00:00
 
+AI Gateway Release Notes Version - 1.1 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.1
 We are excited to announce our recent updates on the product! Get the issues fixed published in the month of February, 2026 i.e. in 1.1 version release notes.
 AI Gateway is currently in beta. Contact Netskope Support or your Sales Representative to enable this feature for your tenant.
@@ -20097,14 +20108,14 @@ Release Notes Subscription
 .
 What's New
 Fixed Issues
-AI Gateway Release Notes Version - 1.1 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-135-0-0/
 **Last Modified:** 2026-03-12T21:24:48+00:00
-**Scraped:** 2026-07-08T10:00:04.334388+00:00
+**Scraped:** 2026-07-09T10:38:28.073476+00:00
 
+Netskope Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 135.0.0
 Published on: March 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20142,8 +20153,9 @@ Known Issues
 ## Netskope Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-release-135-0-0/
 **Last Modified:** 2026-04-27T17:55:09+00:00
-**Scraped:** 2026-07-08T10:00:06.949779+00:00
+**Scraped:** 2026-07-09T10:38:29.266286+00:00
 
+Netskope Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 135.0.0
 Published on: March 2, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20176,14 +20188,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 135.0.0 - Netskope Knowledge Portal
 
 ---
 ## AI Gateway Release Notes Version - 1.2
 **URL:** https://docs.netskope.com/en/ai-gateway-release-notes-version-1-2/
 **Last Modified:** 2026-03-10T12:09:49+00:00
-**Scraped:** 2026-07-08T10:00:17.127099+00:00
+**Scraped:** 2026-07-09T10:38:35.199790+00:00
 
+AI Gateway Release Notes Version - 1.2 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.2
 We are excited to announce our recent updates on the product! Get the issues fixed published in the month of March, 2026 i.e. in 1.2 version release notes.
 Release Notes Subscription
@@ -20191,14 +20203,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-AI Gateway Release Notes Version - 1.2 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for March 2026
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-march-2026/
 **Last Modified:** 2026-03-31T14:57:46+00:00
-**Scraped:** 2026-07-08T10:00:18.672346+00:00
+**Scraped:** 2026-07-09T10:38:36.366309+00:00
 
+Netskope Digital Experience Management Release Notes for March 2026 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for March 2026
 The following is a list of Digital Experience Management (DEM) releases for the month of March 2026:
 DEM Data Intelligence Agent: Generative AI for DEM
@@ -20263,14 +20275,14 @@ DEM Enterprise API Availability (BETA)
 We are launching the initial suite of Digital Experience Management (DEM) enterprise APIs in BETA to allow customers programmatic access to critical DEM data for integration into their proprietary workflows and tools. This release prioritizes the readiness and external availability of the most vital endpoints, enabling early adopters to commence integrating DEM metrics into their existing systems. These APIs are engineered to support enterprise-level environments, thereby assisting operations teams in monitoring digital experience with greater efficiency.
 DEM Alerts – More Flexible User Experience Score Alert Conditions
 DEM User Experience Score alerts now support additional configuration options for score, number of impacted users, and time duration, giving admins more precise control over when alerts are triggered. This added flexibility helps customers tune alerts to their environment so they can detect user experience issues earlier and reduce alert noise.
-Netskope Digital Experience Management Release Notes for March 2026 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-135.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-135-0-0/
 **Last Modified:** 2026-06-25T02:33:12+00:00
-**Scraped:** 2026-07-08T10:00:23.884249+00:00
+**Scraped:** 2026-07-09T10:38:38.697170+00:00
 
+Inline App Connector Release AC-135.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-135.0.0
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -20292,14 +20304,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-135.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 12.1 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-12-1-release-notes/
 **Last Modified:** 2026-03-17T20:18:56+00:00
-**Scraped:** 2026-07-08T10:00:36.175195+00:00
+**Scraped:** 2026-07-09T10:38:44.550384+00:00
 
+Netskope One DSPM 12.1 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 12.1 Release Notes
 Major New Features
 Refreshed data-at-rest dashboard report
@@ -20320,14 +20332,14 @@ AWS EBS volumes can now be onboarded and scanned using existing VPCs, subnets an
 Changes
 Deprecation of emailed scheduled reporting
 As part of our ongoing integration with Netskope Advanced Analytics (NAA), the standalone Scheduled Report functionality within DSPM is being deprecated to centralize reporting across the Netskope platform. Moving forward, users can leverage NAA for automated reporting needs, ensuring a consistent experience across all services. While automated scheduling within the DSPM module will be retired, administrators can still manually generate, download, and email reports directly to stakeholders as needed.
-Netskope One DSPM 12.1 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 135.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-135-1-0/
 **Last Modified:** 2026-03-16T13:02:14+00:00
-**Scraped:** 2026-07-08T10:00:40.280384+00:00
+**Scraped:** 2026-07-09T10:38:46.881588+00:00
 
+Netskope Release Notes Hotfix Version 135.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.0
 Published on: March 23, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20346,14 +20358,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 135.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 135.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-135-1-0/
 **Last Modified:** 2026-03-24T17:08:34+00:00
-**Scraped:** 2026-07-08T10:00:42.919271+00:00
+**Scraped:** 2026-07-09T10:38:48.050991+00:00
 
+Netskope Release Notes Hotfix Version 135.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.0
 Published on: March 23, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20372,14 +20384,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 135.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 135.1.4
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-135-1-4/
 **Last Modified:** 2026-03-24T06:02:06+00:00
-**Scraped:** 2026-07-08T10:00:48.077311+00:00
+**Scraped:** 2026-07-09T10:38:50.375623+00:00
 
+Netskope Release Notes Hotfix Version 135.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.4
 Published on: March 23, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20397,14 +20409,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Hotfix Version 135.1.4 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 132.0.23
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-132-0-23/
 **Last Modified:** 2026-03-24T06:04:27+00:00
-**Scraped:** 2026-07-08T10:00:56.296391+00:00
+**Scraped:** 2026-07-09T10:38:53.953808+00:00
 
+Netskope Release Notes Hotfix Version 132.0.23 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 132.0.23
 Published on: March 23, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20421,14 +20433,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 132.0.23 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 12.2 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-12-2-release-notes/
 **Last Modified:** 2026-06-24T20:49:35+00:00
-**Scraped:** 2026-07-08T10:01:00.485134+00:00
+**Scraped:** 2026-07-09T10:38:56.282964+00:00
 
+Netskope One DSPM 12.2 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 12.2 Release Notes
 Major New Features
 DSPM Privilege Analysis for SMB On-Premises File Shares
@@ -20452,13 +20464,12 @@ rating to the overall data store risk rating, reinforcing Netskope’s leadershi
 Improvements and Updates
 Ability to select profiles used to fetch unstructured snippets
 Users can now select which DLP Profiles should be used when fetching snippets for unstructured files. By giving users control over which specific DLP profiles are applied vs. using all profiles currently-enabled in the DSPM Discovery Profile, this reduces the time required to fetch snippets and allows for ad-hoc re-inspection of existing sensitive files.
-Netskope One DSPM 12.2 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Virtual Appliance Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/virtual-appliance-release-notes-version-135-0-0/
 **Last Modified:** 2026-03-31T15:22:53+00:00
-**Scraped:** 2026-07-08T10:01:09.484306+00:00
+**Scraped:** 2026-07-09T10:39:01.006621+00:00
 
 Virtual Appliance Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 135.0.0
@@ -20550,8 +20561,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.10
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-135-1-10/
 **Last Modified:** 2026-04-02T06:36:33+00:00
-**Scraped:** 2026-07-08T10:01:19.315788+00:00
+**Scraped:** 2026-07-09T10:39:06.865392+00:00
 
+Netskope Release Notes Hotfix Version 135.1.10 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.10
 Published on: April 1, 2026
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
@@ -20567,13 +20579,12 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 135.1.10 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 136.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-136-0-0/
 **Last Modified:** 2026-04-06T18:58:31+00:00
-**Scraped:** 2026-07-08T10:01:22.971128+00:00
+**Scraped:** 2026-07-09T10:39:09.194851+00:00
 
 Netskope Release Notes Version 136.0.0
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
@@ -20608,8 +20619,9 @@ Known Issues
 ## Inline App Connector Release AC-136.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-136-0-0/
 **Last Modified:** 2026-06-25T02:31:43+00:00
-**Scraped:** 2026-07-08T10:01:34.975065+00:00
+**Scraped:** 2026-07-09T10:39:15.233248+00:00
 
+Inline App Connector Release AC-136.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-136.0.0
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -20630,14 +20642,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-136.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 136.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-136-1-0/
 **Last Modified:** 2026-04-28T17:15:55+00:00
-**Scraped:** 2026-07-08T10:01:53.620073+00:00
+**Scraped:** 2026-07-09T10:39:24.651129+00:00
 
+Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.1.0
 Published on: April 20, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20657,14 +20669,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 136.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-136-1-0/
 **Last Modified:** 2026-04-28T17:18:39+00:00
-**Scraped:** 2026-07-08T10:01:56.214342+00:00
+**Scraped:** 2026-07-09T10:39:25.816887+00:00
 
+Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.1.0
 Published on: April 20, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20684,14 +20696,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 136.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-hotfix-release-136-1-0/
 **Last Modified:** 2026-04-20T06:06:51+00:00
-**Scraped:** 2026-07-08T10:01:58.854665+00:00
+**Scraped:** 2026-07-09T10:39:26.982073+00:00
 
+Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.1.0
 Published on: April 20, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20711,14 +20723,14 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 136.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-136-1-0/
 **Last Modified:** 2026-04-20T06:06:34+00:00
-**Scraped:** 2026-07-08T10:02:01.639020+00:00
+**Scraped:** 2026-07-09T10:39:28.146715+00:00
 
+Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.1.0
 Published on: April 20, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20738,13 +20750,12 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 136.1.0 - Netskope Knowledge Portal
 
 ---
 ## AI Gateway Release Notes Version - 1.3
 **URL:** https://docs.netskope.com/en/ai-gateway-release-notes-version-1-3/
 **Last Modified:** 2026-04-21T06:33:03+00:00
-**Scraped:** 2026-07-08T10:02:04.289487+00:00
+**Scraped:** 2026-07-09T10:39:30.474389+00:00
 
 AI Gateway Release Notes Version - 1.3 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.3
@@ -20759,8 +20770,9 @@ What's New
 ## Netskope Release Notes Hotfix Version 136.1.5
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-136-1-5/
 **Last Modified:** 2026-04-21T15:45:45+00:00
-**Scraped:** 2026-07-08T10:02:08.406973+00:00
+**Scraped:** 2026-07-09T10:39:32.803674+00:00
 
+Netskope Release Notes Hotfix Version 136.1.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 136.1.5
 Published on: April 21, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20778,14 +20790,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 136.1.5 - Netskope Knowledge Portal
 
 ---
 ## Netskope Cloud Exchange Release Notes Version 6.1.0
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange-release-notes-version-6-1-0/
 **Last Modified:** 2026-04-27T18:58:23+00:00
-**Scraped:** 2026-07-08T10:02:13.650279+00:00
+**Scraped:** 2026-07-09T10:39:36.293884+00:00
 
+Netskope Cloud Exchange Release Notes Version 6.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.1.0
 Release Date: April 28, 2026
 We are excited to announce our release updates! Here’s the new changes, fixed issues, and known issues in this release.
@@ -20797,7 +20809,7 @@ Known Issues
 ## Netskope One DSPM 12.3 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-12-3-release-notes/
 **Last Modified:** 2026-06-24T20:49:23+00:00
-**Scraped:** 2026-07-08T10:02:19.858229+00:00
+**Scraped:** 2026-07-09T10:39:40.966730+00:00
 
 Netskope One DSPM 12.3 Release Notes
 Major New Features
@@ -20841,13 +20853,12 @@ workflow for S3 buckets. This provides finer control over how DSPM collects file
 During Smart Scan, the Data Store Inventory page now displays a
 “Preparing Metadata”
 scan stage while the clustering algorithm is processing file metadata prior to sampling. This gives users clear visibility into scan progress and reduces confusion when a scan appears to be in a holding state before results begin appearing.
-Netskope One DSPM 12.3 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Enterprise Browser Release Notes April 30, 2026
 **URL:** https://docs.netskope.com/en/enterprise-browser-release-notes-april-30-2026/
 **Last Modified:** 2026-04-30T15:52:53+00:00
-**Scraped:** 2026-07-08T10:02:22.499296+00:00
+**Scraped:** 2026-07-09T10:39:43.292063+00:00
 
 Enterprise Browser Release Notes April 30, 2026 - Netskope Knowledge Portal
 Enterprise Browser Release Notes April 30, 2026
@@ -20857,8 +20868,9 @@ What's New
 ## Netskope Release Notes Version 137.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-137-0-0/
 **Last Modified:** 2026-05-04T14:43:04+00:00
-**Scraped:** 2026-07-08T10:02:23.600103+00:00
+**Scraped:** 2026-07-09T10:39:44.461364+00:00
 
+Netskope Release Notes Version 137.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.0.0
 Published on: May 4, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20889,8 +20901,9 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.13
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-135-1-13/
 **Last Modified:** 2026-05-05T04:05:04+00:00
-**Scraped:** 2026-07-08T10:02:34.185970+00:00
+**Scraped:** 2026-07-09T10:39:49.137621+00:00
 
+Netskope Release Notes Hotfix Version 135.1.13 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.13
 Published on: May 4, 2026
 Release Notes Subscription
@@ -20902,14 +20915,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 135.1.13 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 137.0.1
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-137-0-1/
 **Last Modified:** 2026-05-06T07:41:34+00:00
-**Scraped:** 2026-07-08T10:02:39.331325+00:00
+**Scraped:** 2026-07-09T10:39:51.461708+00:00
 
+Netskope Release Notes Hotfix Version 137.0.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 137.0.1
 Published on: May 4, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -20928,14 +20941,14 @@ Product Change Notification
 .
 What's New
 Fixed Issues
-Netskope Release Notes Hotfix Version 137.0.1 - Netskope Knowledge Portal
 
 ---
 ## AI Gateway Release Notes Version - 1.4
 **URL:** https://docs.netskope.com/en/ai-gateway-release-notes-version-1-4/
 **Last Modified:** 2026-05-08T04:45:56+00:00
-**Scraped:** 2026-07-08T10:02:52.886819+00:00
+**Scraped:** 2026-07-09T10:39:59.910460+00:00
 
+AI Gateway Release Notes Version - 1.4 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.4
 We are excited to announce our recent updates on the product.
 Release Notes Subscription
@@ -20943,14 +20956,14 @@ Would you like to subscribe to our release notes? To learn more:
 Release Notes Subscription
 .
 What's New
-AI Gateway Release Notes Version - 1.4 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-137.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-137-0-0/
 **Last Modified:** 2026-06-25T02:30:05+00:00
-**Scraped:** 2026-07-08T10:02:56.580496+00:00
+**Scraped:** 2026-07-09T10:40:02.257387+00:00
 
+Inline App Connector Release AC-137.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-137.0.0
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -20971,28 +20984,28 @@ Product Change Notification
 What's New
 Fixed Issues
 Known Issues
-Inline App Connector Release AC-137.0.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for April 2026
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-april-2026/
 **Last Modified:** 2026-05-12T02:11:28+00:00
-**Scraped:** 2026-07-08T10:03:03.359290+00:00
+**Scraped:** 2026-07-09T10:40:05.859211+00:00
 
+Netskope Digital Experience Management Release Notes for April 2026 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for April 2026
 The following is a list of Digital Experience Management (DEM) releases for the month of April 2026:
 Tenant URL Added to DEM Alert Notifications
 All alert notifications will now contain the Tenant URL of the tenant for which the alert was triggered.
 Browser Extension Graph Tooltip Values
 We resolved an issue where the value displayed in the mouse-over tooltip for the Browser Extension server response time graph did not match the Y-axis scale. Tooltip values now accurately reflect the server response time shown on the graph.
-Netskope Digital Experience Management Release Notes for April 2026 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Hotfix Version 135.1.14
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-135-1-14/
 **Last Modified:** 2026-05-14T17:33:19+00:00
-**Scraped:** 2026-07-08T10:03:08.551489+00:00
+**Scraped:** 2026-07-09T10:40:08.184351+00:00
 
+Netskope Release Notes Hotfix Version 135.1.14 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.14
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -21007,14 +21020,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Hotfix Version 135.1.14 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 137.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-hotfix-version-137-1-0/
 **Last Modified:** 2026-05-18T11:18:38+00:00
-**Scraped:** 2026-07-08T10:03:17.063401+00:00
+**Scraped:** 2026-07-09T10:40:14.089176+00:00
 
+Netskope Release Notes Version 137.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.1.0
 Published on: May 18, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -21033,14 +21046,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Version 137.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 137.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-hotfix-release-137-1-0/
 **Last Modified:** 2026-05-18T17:02:16+00:00
-**Scraped:** 2026-07-08T10:03:19.816208+00:00
+**Scraped:** 2026-07-09T10:40:15.252800+00:00
 
+Netskope Release Notes Version 137.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.1.0
 Published on: May 18, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -21059,14 +21072,14 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Version 137.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 137.1.3
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-137-1-3/
 **Last Modified:** 2026-05-19T10:16:42+00:00
-**Scraped:** 2026-07-08T10:03:22.811283+00:00
+**Scraped:** 2026-07-09T10:40:16.415280+00:00
 
+Netskope Release Notes Version 137.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.1.3
 Deployments occur over a one-week window. If you do not see this feature in your tenant immediately, please wait until the deployment period has concluded.
 To check your tenant software version, navigate to
@@ -21082,14 +21095,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 137.1.3 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 137.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-hotfix-release-137-1-0/
 **Last Modified:** 2026-05-21T17:02:51+00:00
-**Scraped:** 2026-07-08T10:03:30.739089+00:00
+**Scraped:** 2026-07-09T10:40:20.006196+00:00
 
+Netskope Release Notes Version 137.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.1.0
 Published on: May 18, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -21108,27 +21121,26 @@ Product Change Notification
 .
 What's New
 Known Issues
-Netskope Release Notes Version 137.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for May 2026
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-may-2026/
 **Last Modified:** 2026-06-06T04:22:07+00:00
-**Scraped:** 2026-07-08T10:03:32.332873+00:00
+**Scraped:** 2026-07-09T10:40:21.165951+00:00
 
+Netskope Digital Experience Management Release Notes for May 2026 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for May 2026
 The following is a list of Digital Experience Management (DEM) releases for the month of May 2026:
 User Experience RCA
 Users can now run User Experience RCA for any score from 0–100, improving analysis flexibility in the User Details experience.
 DEM User Details: Zoom In Now Works on Collapsed Sections
 Previously, using the zoom in feature on the User Details page would not expand collapsed sections, leaving content invisible. The zoom in feature now correctly expands and renders all sections regardless of their collapsed state.
-Netskope Digital Experience Management Release Notes for May 2026 - Netskope Knowledge Portal
 
 ---
 ## AI Gateway Release Notes Version - 1.5
 **URL:** https://docs.netskope.com/en/ai-gateway-release-notes-version-1-5/
 **Last Modified:** 2026-06-08T04:32:29+00:00
-**Scraped:** 2026-07-08T10:03:36.514263+00:00
+**Scraped:** 2026-07-09T10:40:24.657880+00:00
 
 AI Gateway Release Notes Version - 1.5 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.5
@@ -21144,7 +21156,7 @@ Fixed Issues
 ## Netskope Release Notes Version 138.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-138-0-0/
 **Last Modified:** 2026-06-08T06:46:27+00:00
-**Scraped:** 2026-07-08T10:03:37.611048+00:00
+**Scraped:** 2026-07-09T10:40:25.809933+00:00
 
 Netskope Release Notes Version 138.0.0
 Published on: June 8, 2026
@@ -21174,8 +21186,9 @@ Known Issues
 ## Netskope Release Notes Version 138.0.2
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-138-0-2/
 **Last Modified:** 2026-06-10T01:55:59+00:00
-**Scraped:** 2026-07-08T10:03:50.678981+00:00
+**Scraped:** 2026-07-09T10:40:31.647650+00:00
 
+Netskope Release Notes Version 138.0.2 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.0.2
 Published on: June 9, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -21193,13 +21206,12 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Version 138.0.2 - Netskope Knowledge Portal
 
 ---
 ## Inline App Connector Release AC-138.0.0
 **URL:** https://docs.netskope.com/en/inline-app-connector-release-ac-138-0-0/
 **Last Modified:** 2026-06-25T02:26:47+00:00
-**Scraped:** 2026-07-08T10:03:54.722368+00:00
+**Scraped:** 2026-07-09T10:40:33.979707+00:00
 
 Inline App Connector Release AC-138.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-138.0.0
@@ -21229,8 +21241,9 @@ Deprecated
 ## Netskope Digital Experience Management Release Notes for June 2026
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-june-2026/
 **Last Modified:** 2026-06-16T01:26:05+00:00
-**Scraped:** 2026-07-08T10:04:06.889273+00:00
+**Scraped:** 2026-07-09T10:40:41.027497+00:00
 
+Netskope Digital Experience Management Release Notes for June 2026 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for June 2026
 The following is a list of Digital Experience Management (DEM) releases for the month of June 2026:
 Aggregated Traceroute
@@ -21244,27 +21257,27 @@ User Overview — Metrics
 .
 DEM User Details: Zoom In on Collapsed Sections
 Previously, using the zoom in feature on the User Details page did not expand collapsed sections, leaving content invisible. This has been resolved and the zoom in feature now correctly expands and renders all sections regardless of their collapsed state.
-Netskope Digital Experience Management Release Notes for June 2026 - Netskope Knowledge Portal
 
 ---
 ## Netskope Adapter Release Notes  215.255.20261.23
 **URL:** https://docs.netskope.com/en/netskope-adapter-release-notes-215-255-20261-23/
 **Last Modified:** 2026-06-19T00:19:51+00:00
-**Scraped:** 2026-07-08T10:04:16.006615+00:00
+**Scraped:** 2026-07-09T10:40:45.683678+00:00
 
+Netskope Adapter Release Notes 215.255.20261.23 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  215.255.20261.23
 Published on: June 19, 2026
 We are excited to announce our Adapter 215.255.20261.23 updates! Get the latest features, issues fixed, and other updates in this release.
 What's New
 Fixed Issues
-Netskope Adapter Release Notes 215.255.20261.23 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 138.1.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-138-1-0/
 **Last Modified:** 2026-06-22T08:01:33+00:00
-**Scraped:** 2026-07-08T10:04:23.666905+00:00
+**Scraped:** 2026-07-09T10:40:49.196788+00:00
 
+Netskope Release Notes Version 138.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.1.0
 Published on: June 23, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -21283,14 +21296,14 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 138.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope One DSPM 12.4 Release Notes
 **URL:** https://docs.netskope.com/en/netskope-one-dspm-12-4-release-notes/
 **Last Modified:** 2026-06-24T20:51:59+00:00
-**Scraped:** 2026-07-08T10:04:27.762480+00:00
+**Scraped:** 2026-07-09T10:40:51.522461+00:00
 
+Netskope One DSPM 12.4 Release Notes - Netskope Knowledge Portal
 Netskope One DSPM 12.4 Release Notes
 Ensure that your sidecars are at least version 12.3 in order to take full advantage of the latest Netskope One DSPM features, including Smart Scan.
 Major New Features
@@ -21312,14 +21325,14 @@ Abort Queued Scans
 Users can now abort scans that are in a queued state before they begin execution. Previously, only active scans could be cancelled.
 Improved on-screen display when DB Role Count is not available
 When DB Role Count analysis is unavailable for a data store, the UI now displays a clear restriction message explaining why the analysis cannot be performed, rather than showing an empty or confusing state. This addresses an issue where the current icon and tooltip may appear misleading or alarming due to the limited context provided (for example with S3, an object storage service which does not have the concept of database roles).
-Netskope One DSPM 12.4 Release Notes - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 138.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-in-hotfix-release-138-1-0/
 **Last Modified:** 2026-06-25T15:49:04+00:00
-**Scraped:** 2026-07-08T10:04:30.349168+00:00
+**Scraped:** 2026-07-09T10:40:52.687760+00:00
 
+Netskope Release Notes Version 138.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.1.0
 Published on: June 23, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -21338,27 +21351,26 @@ Product Change Notification
 .
 Fixed Issues
 Known Issues
-Netskope Release Notes Version 138.1.0 - Netskope Knowledge Portal
 
 ---
 ## Netskope Digital Experience Management Release Notes for July 2026
 **URL:** https://docs.netskope.com/en/netskope-digital-experience-management-release-notes-for-july-2026/
 **Last Modified:** 2026-07-06T18:03:01+00:00
-**Scraped:** 2026-07-08T10:04:31.910548+00:00
+**Scraped:** 2026-07-09T10:40:53.855402+00:00
 
+Netskope Digital Experience Management Release Notes for July 2026 - Netskope Knowledge Portal
 Netskope Digital Experience Management Release Notes for July 2026
 The following is a list of Digital Experience Management (DEM) releases for the month of July 2026:
 Browser Extension Details Table Improvement
 Fixed an issue where processing-time breakdown bars in the Browser Extension detail tables displayed incorrect widths. The bars now accurately represent each timing segment.
 Aggregated Traceroute Latency Fix
 Fixed an issue with DEM hop‑by‑hop traceroute so aggregated latency now correctly matches node tooltips and the underlay time‑series chart.
-Netskope Digital Experience Management Release Notes for July 2026 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 139.0.0
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-139-0-0/
 **Last Modified:** 2026-07-06T06:00:53+00:00
-**Scraped:** 2026-07-08T10:04:33.004341+00:00
+**Scraped:** 2026-07-09T10:40:55.025719+00:00
 
 Netskope Release Notes Version 139.0.0
 Published on: July 6, 2026
@@ -21391,8 +21403,9 @@ Known Issues
 ## Netskope Release Notes Version 138.1.5
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-138-1-5/
 **Last Modified:** 2026-07-08T04:28:05+00:00
-**Scraped:** 2026-07-08T10:04:43.665531+00:00
+**Scraped:** 2026-07-09T10:41:00.978233+00:00
 
+Netskope Release Notes Version 138.1.5 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.1.5
 Published on: July 7, 2026
 We are excited to announce our release updates! Get the issues fixed and other updates in this release.
@@ -21414,8 +21427,9 @@ Fixed Issues
 ## Netskope Release Notes Version 135.1.20
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-135-1-20/
 **Last Modified:** 2026-07-08T04:30:59+00:00
-**Scraped:** 2026-07-08T10:04:48.832613+00:00
+**Scraped:** 2026-07-09T10:41:03.398642+00:00
 
+Netskope Release Notes Version 135.1.20 - Netskope Knowledge Portal
 Netskope Release Notes Version 135.1.20
 Published on: July 7, 2026
 We are excited to announce our release updates! Get the issues fixed and other updates in this release.
@@ -21432,14 +21446,14 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Version 135.1.20 - Netskope Knowledge Portal
 
 ---
 ## Netskope Release Notes Version 132.0.28
 **URL:** https://docs.netskope.com/en/netskope-release-notes-version-132-0-28/
 **Last Modified:** 2026-07-08T04:33:58+00:00
-**Scraped:** 2026-07-08T10:04:54.229366+00:00
+**Scraped:** 2026-07-09T10:41:05.728937+00:00
 
+Netskope Release Notes Version 132.0.28 - Netskope Knowledge Portal
 Netskope Release Notes Version 132.0.28
 Published on: July 7, 2026
 We are excited to announce our release updates! Get the issues fixed and other updates in this release.
@@ -21456,4 +21470,3 @@ To preview some of what's coming in the next release, see:
 Product Change Notification
 .
 Fixed Issues
-Netskope Release Notes Version 132.0.28 - Netskope Knowledge Portal
