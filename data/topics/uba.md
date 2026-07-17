@@ -1,12 +1,12 @@
 # Netskope Docs — Uba
-_Generated: 2026-07-16 09:13 UTC_
+_Generated: 2026-07-17 09:10 UTC_
 _Pages: 22_
 
 ---
 ## Deactivated User Behavior in Workplace from Meta
 **URL:** https://docs.netskope.com/en/deactivated-user-behavior-in-workplace-from-meta/
 **Last Modified:** 2025-08-31T01:41:56+00:00
-**Scraped:** 2026-07-16T08:12:59.109424+00:00
+**Scraped:** 2026-07-17T08:09:36.643462+00:00
 
 Deactivated User Behavior in Workplace from Meta - Netskope Knowledge Portal
 Deactivated User Behavior in Workplace from Meta
@@ -26,7 +26,7 @@ Deactivated User Behavior in Workplace from Meta
 ## Deleted/Deactivated User Behavior in Egnyte
 **URL:** https://docs.netskope.com/en/deleted-deactivated-user-behavior-in-egnyte/
 **Last Modified:** 2025-08-31T01:40:17+00:00
-**Scraped:** 2026-07-16T08:13:05.914533+00:00
+**Scraped:** 2026-07-17T08:09:43.477714+00:00
 
 Deleted/Deactivated User Behavior in Egnyte - Netskope Knowledge Portal
 Deleted/Deactivated User Behavior in Egnyte
@@ -54,7 +54,7 @@ Deleted/Deactivated User Behavior in Egnyte
 ## Deleted/Suspended User Behavior in Dropbox
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-dropbox/
 **Last Modified:** 2025-08-31T01:40:11+00:00
-**Scraped:** 2026-07-16T08:13:07.072026+00:00
+**Scraped:** 2026-07-17T08:09:44.608748+00:00
 
 Deleted/Suspended User Behavior in Dropbox - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Dropbox
@@ -76,8 +76,9 @@ Deleted/Suspended User Behavior in Dropbox
 ## Deleted/Suspended User Behavior in Box
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-box/
 **Last Modified:** 2025-08-31T01:39:55+00:00
-**Scraped:** 2026-07-16T08:13:08.215293+00:00
+**Scraped:** 2026-07-17T08:09:45.739719+00:00
 
+Deleted/Suspended User Behavior in Box - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Box
 This article describes how API Data Protection deals when a user is either deleted or suspended in Box.
 User State
@@ -97,7 +98,7 @@ Deleted/Suspended User Behavior in Box
 ## Deleted/Suspended User Behavior in Gmail
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-gmail/
 **Last Modified:** 2025-08-31T01:40:31+00:00
-**Scraped:** 2026-07-16T08:13:09.351425+00:00
+**Scraped:** 2026-07-17T08:09:46.876870+00:00
 
 Deleted/Suspended User Behavior in Gmail - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Gmail
@@ -116,7 +117,7 @@ Deleted/Suspended User Behavior in Gmail
 ## Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-sharepoint/
 **Last Modified:** 2025-08-31T01:41:18+00:00
-**Scraped:** 2026-07-16T08:13:10.481322+00:00
+**Scraped:** 2026-07-17T08:09:48.008411+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
@@ -138,7 +139,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 ## Deleted/Suspended User Behavior in Google Drive
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-google-drive/
 **Last Modified:** 2025-08-31T01:40:41+00:00
-**Scraped:** 2026-07-16T08:13:11.631745+00:00
+**Scraped:** 2026-07-17T08:09:49.144666+00:00
 
 Deleted/Suspended User Behavior in Google Drive - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Google Drive
@@ -164,9 +165,8 @@ Deleted/Suspended User Behavior in Google Drive
 ## Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-onedrive/
 **Last Modified:** 2025-08-31T01:40:55+00:00
-**Scraped:** 2026-07-16T08:13:12.750792+00:00
+**Scraped:** 2026-07-17T08:09:50.286909+00:00
 
-Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 This article describes how API Data Protection deals when a user is either deleted or suspended in OneDrive.
 User State
@@ -186,7 +186,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 ## Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-outlook/
 **Last Modified:** 2025-08-31T01:41:02+00:00
-**Scraped:** 2026-07-16T08:13:13.884170+00:00
+**Scraped:** 2026-07-17T08:09:51.419460+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 Outlook - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
@@ -205,7 +205,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
 ## Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-teams/
 **Last Modified:** 2025-08-31T01:41:22+00:00
-**Scraped:** 2026-07-16T08:13:15.029091+00:00
+**Scraped:** 2026-07-17T08:09:52.565508+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 Teams - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 Teams
@@ -226,7 +226,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 ## Deleted User Behavior in Slack Teams
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-slack-teams/
 **Last Modified:** 2025-08-31T01:41:49+00:00
-**Scraped:** 2026-07-16T08:13:16.137317+00:00
+**Scraped:** 2026-07-17T08:09:53.695508+00:00
 
 Deleted User Behavior in Slack Teams - Netskope Knowledge Portal
 Deleted User Behavior in Slack Teams
@@ -243,7 +243,7 @@ Deleted User Behavior in Slack Teams
 ## Deleted User Behavior in Cisco Webex Teams
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-cisco-webex-teams/
 **Last Modified:** 2025-08-31T01:40:02+00:00
-**Scraped:** 2026-07-16T08:13:18.393405+00:00
+**Scraped:** 2026-07-17T08:09:55.984536+00:00
 
 Deleted User Behavior in Cisco Webex Teams - Netskope Knowledge Portal
 Deleted User Behavior in Cisco Webex Teams
@@ -262,7 +262,7 @@ Deleted User Behavior in Cisco Webex Teams
 ## Deleted User Behavior in Slack Enterprise
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-slack-enterprise/
 **Last Modified:** 2025-08-31T01:41:42+00:00
-**Scraped:** 2026-07-16T08:13:19.515790+00:00
+**Scraped:** 2026-07-17T08:09:57.105777+00:00
 
 Deleted User Behavior in Slack Enterprise - Netskope Knowledge Portal
 Deleted User Behavior in Slack Enterprise
@@ -279,7 +279,7 @@ Deleted User Behavior in Slack Enterprise
 ## Inactive/Freeze User Behavior in Salesforce
 **URL:** https://docs.netskope.com/en/inactive-freeze-user-behavior-in-salesforce/
 **Last Modified:** 2025-08-31T01:41:28+00:00
-**Scraped:** 2026-07-16T08:14:59.890702+00:00
+**Scraped:** 2026-07-17T08:11:38.318592+00:00
 
 Inactive/Freeze User Behavior in Salesforce - Netskope Knowledge Portal
 Inactive/Freeze User Behavior in Salesforce
@@ -299,7 +299,7 @@ Inactive/Freeze User Behavior in Salesforce
 ## Removed/Blocked User Behavior in GitHub
 **URL:** https://docs.netskope.com/en/removed-blocked-user-behavior-in-github/
 **Last Modified:** 2025-08-31T01:40:23+00:00
-**Scraped:** 2026-07-16T08:17:20.570945+00:00
+**Scraped:** 2026-07-17T08:14:01.567227+00:00
 
 Removed/Blocked User Behavior in GitHub - Netskope Knowledge Portal
 Removed/Blocked User Behavior in GitHub
@@ -320,8 +320,9 @@ Removed/Blocked User Behavior in GitHub
 ## Advanced UEBA Quick Start
 **URL:** https://docs.netskope.com/en/advanced-ueba-quick-start/
 **Last Modified:** 2026-06-04T21:24:55+00:00
-**Scraped:** 2026-07-16T08:33:44.624938+00:00
+**Scraped:** 2026-07-17T08:30:25.695457+00:00
 
+Advanced UEBA Quick Start - Netskope Knowledge Portal
 Advanced UEBA Quick Start
 Once Advanced UEBA is enabled in your account, the recommended next step is to disable the Standard UEBA policies.
 Machine Learning detections in Advanced UEBA will automatically learn the baselines for different users and raise individual alerts if there is anomalous behavior. Therefore, best practice is to disable the Standard UEBA policies.
@@ -410,7 +411,7 @@ Advanced UEBA Quick Start
 ## Advanced UEBA Troubleshooting
 **URL:** https://docs.netskope.com/en/advanced-ueba-troubleshooting/
 **Last Modified:** 2026-04-10T22:22:46+00:00
-**Scraped:** 2026-07-16T08:33:45.740378+00:00
+**Scraped:** 2026-07-17T08:30:26.821323+00:00
 
 Advanced UEBA Troubleshooting - Netskope Knowledge Portal
 Advanced UEBA Troubleshooting
@@ -425,7 +426,7 @@ Advanced UEBA Troubleshooting
 ## Third-party Integrations with Advanced UEBA
 **URL:** https://docs.netskope.com/en/third-party-integrations-with-advanced-ueba/
 **Last Modified:** 2026-04-10T22:22:21+00:00
-**Scraped:** 2026-07-16T08:33:46.856490+00:00
+**Scraped:** 2026-07-17T08:30:27.954239+00:00
 
 Third-party Integrations with Advanced UEBA - Netskope Knowledge Portal
 Third-party Integrations with Advanced UEBA
@@ -448,7 +449,7 @@ Third-party Integrations with Advanced UEBA
 ## Advanced UEBA SOC Detections Pack
 **URL:** https://docs.netskope.com/en/advanced-ueba-soc-detections-pack/
 **Last Modified:** 2026-04-22T12:45:39+00:00
-**Scraped:** 2026-07-16T08:41:07.473412+00:00
+**Scraped:** 2026-07-17T08:37:48.076786+00:00
 
 Advanced UEBA SOC Detections Pack - Netskope Knowledge Portal
 Advanced UEBA SOC Detections Pack
@@ -467,7 +468,7 @@ Advanced UEBA SOC Detections Pack
 ## HPE Aruba Networking Central Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/hpe-aruba-networking-central-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T22:46:10+00:00
-**Scraped:** 2026-07-16T08:41:33.805976+00:00
+**Scraped:** 2026-07-17T08:38:14.615270+00:00
 
 HPE Aruba Networking Central Plugin for Risk Exchange - Netskope Knowledge Portal
 HPE Aruba Networking Central Plugin for Risk Exchange
@@ -1141,7 +1142,7 @@ HPE Aruba Networking Central Plugin for Risk Exchange
 ## Advanced UEBA Best Practices
 **URL:** https://docs.netskope.com/en/advanced-ueba-best-practices/
 **Last Modified:** 2026-05-04T15:00:33+00:00
-**Scraped:** 2026-07-16T08:51:17.693861+00:00
+**Scraped:** 2026-07-17T08:47:51.696118+00:00
 
 Advanced UEBA Best Practices - Netskope Knowledge Portal
 Advanced UEBA Best Practices
@@ -1161,7 +1162,7 @@ Advanced UEBA Best Practices
 ## Advanced UEBA Optional Tuning
 **URL:** https://docs.netskope.com/en/advanced-ueba-optional-tuning/
 **Last Modified:** 2026-05-04T15:00:37+00:00
-**Scraped:** 2026-07-16T08:51:18.848045+00:00
+**Scraped:** 2026-07-17T08:47:52.810341+00:00
 
 Advanced UEBA Optional Tuning - Netskope Knowledge Portal
 Advanced UEBA Optional Tuning
