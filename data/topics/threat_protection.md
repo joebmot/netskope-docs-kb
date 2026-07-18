@@ -1,12 +1,12 @@
 # Netskope Docs — Threat Protection
-_Generated: 2026-07-17 09:10 UTC_
+_Generated: 2026-07-18 08:53 UTC_
 _Pages: 83_
 
 ---
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection/
 **Last Modified:** 2025-08-31T01:51:23+00:00
-**Scraped:** 2026-07-17T08:03:20.581933+00:00
+**Scraped:** 2026-07-18T07:43:01.957697+00:00
 
 Advanced Threat Protection - Netskope Knowledge Portal
 Advanced Threat Protection
@@ -26,7 +26,7 @@ Advanced Threat Protection
 ## Identify Malware in data repositories and action per defined policy
 **URL:** https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
 **Last Modified:** 2025-09-01T12:59:19+00:00
-**Scraped:** 2026-07-17T08:04:46.323627+00:00
+**Scraped:** 2026-07-18T07:44:31.511760+00:00
 
 Identify Malware in data repositories and action per defined policy - Netskope Knowledge Portal
 Identify Malware in data repositories and action per defined policy
@@ -52,7 +52,7 @@ Identify Malware in data repositories and action per defined policy
 ## Protect against unknown web threats
 **URL:** https://docs.netskope.com/en/protect-against-unknown-web-threats/
 **Last Modified:** 2025-08-31T01:51:24+00:00
-**Scraped:** 2026-07-17T08:05:12.529204+00:00
+**Scraped:** 2026-07-18T07:44:59.527747+00:00
 
 Protect against unknown web threats - Netskope Knowledge Portal
 Protect against unknown web threats
@@ -73,7 +73,7 @@ Protect against unknown web threats
 ## Protection against Insider threats
 **URL:** https://docs.netskope.com/en/protection-against-insider-threats/
 **Last Modified:** 2025-08-31T01:51:25+00:00
-**Scraped:** 2026-07-17T08:05:16.140365+00:00
+**Scraped:** 2026-07-18T07:45:03.113543+00:00
 
 Protection against Insider threats - Netskope Knowledge Portal
 Protection against Insider threats
@@ -99,7 +99,7 @@ Protection against Insider threats
 ## Threat Protection – Protect state for Managed App Activities
 **URL:** https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:31+00:00
-**Scraped:** 2026-07-17T08:05:30.898652+00:00
+**Scraped:** 2026-07-18T07:45:18.593607+00:00
 
 Threat Protection – Protect state for Managed App Activities - Netskope Knowledge Portal
 Threat Protection – Protect state for Managed App Activities
@@ -111,7 +111,7 @@ Threat Protection – Protect state for Managed App Activities
 ## Threat scan on IaaS Storage
 **URL:** https://docs.netskope.com/en/threat-scan-on-iaas-storage/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-07-17T08:05:32.036029+00:00
+**Scraped:** 2026-07-18T07:45:19.778880+00:00
 
 Threat scan on IaaS Storage - Netskope Knowledge Portal
 Threat scan on IaaS Storage
@@ -132,8 +132,9 @@ Threat scan on IaaS Storage
 ## Threat Protection Features
 **URL:** https://docs.netskope.com/en/threat-protection-features/
 **Last Modified:** 2025-08-31T01:51:01+00:00
-**Scraped:** 2026-07-17T08:05:33.164398+00:00
+**Scraped:** 2026-07-18T07:45:21.009149+00:00
 
+Threat Protection Features - Netskope Knowledge Portal
 Threat Protection Features
 Feature
 Description
@@ -152,8 +153,9 @@ Threat Protection Features
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection-86194/
 **Last Modified:** 2025-09-03T18:23:15+00:00
-**Scraped:** 2026-07-17T08:06:29.016629+00:00
+**Scraped:** 2026-07-18T07:46:20.534384+00:00
 
+Advanced Threat Protection - Netskope Knowledge Portal
 Advanced Threat Protection
 Netskope Advanced Threat Protection includes multiple detection engines that detect sophisticated zero day threats and targeted attacks. The comprehensive, multi-engine approach ensures higher efficacy and protection against evasive threats that may be optimized to bypass some detection engines.
 Advanced Threat Protection is not offered for applications accessed through China PoPs.
@@ -269,8 +271,9 @@ Advanced Threat Protection
 ## Creating a Malware Detection Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-detection-profile/
 **Last Modified:** 2025-09-03T18:23:18+00:00
-**Scraped:** 2026-07-17T08:09:18.470772+00:00
+**Scraped:** 2026-07-18T07:49:15.118688+00:00
 
+Creating a Malware Detection Profile - Netskope Knowledge Portal
 Creating a Malware Detection Profile
 You can extend the default Netskope malware scan by creating custom malware detection profiles. In the malware detection profile, you can select the
 file profile
@@ -326,7 +329,7 @@ Creating a Malware Detection Profile
 ## Creating a Threat Protection Policy for API Data Protection
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-api-data-protection/
 **Last Modified:** 2025-09-03T18:23:17+00:00
-**Scraped:** 2026-07-17T08:09:19.608839+00:00
+**Scraped:** 2026-07-18T07:49:16.309713+00:00
 
 Creating a Threat Protection Policy for API Data Protection - Netskope Knowledge Portal
 Creating a Threat Protection Policy for API Data Protection
@@ -449,8 +452,9 @@ Creating a Threat Protection Policy for API Data Protection
 ## Creating a Threat Protection Policy for Patient Zero
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-patient-zero/
 **Last Modified:** 2026-01-14T18:59:52+00:00
-**Scraped:** 2026-07-17T08:09:21.875383+00:00
+**Scraped:** 2026-07-18T07:49:18.732437+00:00
 
+Creating a Threat Protection Policy for Patient Zero - Netskope Knowledge Portal
 Creating a Threat Protection Policy for Patient Zero
 A patient zero event occurs when a user downloads a file that’s not detected by signature-based analysis (e.g., Netskope AV engine) in Standard Threat Protection. However, if you have Advanced Threat Protection, you can prevent patient zero events by creating a Threat Protection policy that only releases unknown files to users after the Netskope advanced threat engines determine they’re benign. Netskope holds the unknown file and notifies the user that it’s analyzing the file until it determines a verdict. The Netskope advanced threat engines can take up to 10 minutes to analyze the file.
 Netskope recommends using patient zero policies for high risk use cases, such as the following:
@@ -574,7 +578,7 @@ Creating a Threat Protection Policy for Patient Zero
 ## Improved Reporting on Malware Files in API Data Protection
 **URL:** https://docs.netskope.com/en/improved-reporting-on-malware-files-in-api-data-protection/
 **Last Modified:** 2025-09-04T01:12:02+00:00
-**Scraped:** 2026-07-17T08:11:39.510965+00:00
+**Scraped:** 2026-07-18T07:51:41.820260+00:00
 
 Improved Reporting on Malware Files in API Data Protection - Netskope Knowledge Portal
 Improved Reporting on Malware Files in API Data Protection
@@ -641,8 +645,9 @@ Improved Reporting on Malware Files in API Data Protection
 ## Malware and Malicious Sites Pages
 **URL:** https://docs.netskope.com/en/malware-and-malicious-sites-pages/
 **Last Modified:** 2025-09-03T18:23:21+00:00
-**Scraped:** 2026-07-17T08:12:07.104184+00:00
+**Scraped:** 2026-07-18T07:52:09.600450+00:00
 
+Malware and Malicious Sites Pages - Netskope Knowledge Portal
 Malware and Malicious Sites Pages
 The malware and malicious sites pages help you manage threats to your network.
 Malware
@@ -655,7 +660,7 @@ Malware and Malicious Sites Pages
 ## API Source Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/api-source-plugin-for-threat-exchange/
 **Last Modified:** 2025-08-31T01:53:26+00:00
-**Scraped:** 2026-07-17T08:18:15.496595+00:00
+**Scraped:** 2026-07-18T07:58:35.625645+00:00
 
 API Source Plugin for Threat Exchange - Netskope Knowledge Portal
 API Source Plugin for Threat Exchange
@@ -835,7 +840,7 @@ API Source Plugin for Threat Exchange
 ## AWS GuardDuty Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/aws-guardduty-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:24+00:00
-**Scraped:** 2026-07-17T08:18:16.676145+00:00
+**Scraped:** 2026-07-18T07:58:36.878585+00:00
 
 AWS GuardDuty Plugin for Threat Exchange - Netskope Knowledge Portal
 AWS GuardDuty Plugin for Threat Exchange
@@ -1484,7 +1489,7 @@ AWS GuardDuty Plugin for Threat Exchange
 ## Carbon Black Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/carbon-black-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:33+00:00
-**Scraped:** 2026-07-17T08:18:27.591494+00:00
+**Scraped:** 2026-07-18T07:58:47.952916+00:00
 
 Carbon Black Plugin for Threat Exchange - Netskope Knowledge Portal
 Carbon Black Plugin for Threat Exchange
@@ -2184,7 +2189,7 @@ Carbon Black Plugin for Threat Exchange
 ## Configure 3rd-party Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:24:01+00:00
-**Scraped:** 2026-07-17T08:18:41.398586+00:00
+**Scraped:** 2026-07-18T07:59:02.593520+00:00
 
 Configure 3rd-party Threat Exchange Plugins - Netskope Knowledge Portal
 Configure 3rd-party Threat Exchange Plugins
@@ -2248,7 +2253,7 @@ Configure 3rd-party Threat Exchange Plugins
 ## Configure Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-business-rules/
 **Last Modified:** 2025-10-31T23:38:47+00:00
-**Scraped:** 2026-07-17T08:19:10.937179+00:00
+**Scraped:** 2026-07-18T07:59:34.073223+00:00
 
 Configure Threat Exchange Business Rules - Netskope Knowledge Portal
 Configure Threat Exchange Business Rules
@@ -2311,7 +2316,7 @@ Configure Threat Exchange Business Rules
 ## Configure Threat Exchange Sharing with your Netskope Tenant
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-sharing-with-your-netskope-tenant/
 **Last Modified:** 2025-11-01T00:39:40+00:00
-**Scraped:** 2026-07-17T08:19:12.056711+00:00
+**Scraped:** 2026-07-18T07:59:35.258772+00:00
 
 Configure Threat Exchange Sharing with your Netskope Tenant - Netskope Knowledge Portal
 Configure Threat Exchange Sharing with your Netskope Tenant
@@ -2333,7 +2338,7 @@ Configure Threat Exchange Sharing with your Netskope Tenant
 ## Configure Threat Exchange IoC Sharing
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-ioc-sharing/
 **Last Modified:** 2026-05-28T02:31:00+00:00
-**Scraped:** 2026-07-17T08:19:13.216565+00:00
+**Scraped:** 2026-07-18T07:59:36.487433+00:00
 
 Configure Threat Exchange IoC Sharing - Netskope Knowledge Portal
 Configure Threat Exchange IoC Sharing
@@ -2542,7 +2547,7 @@ Configure Threat Exchange IoC Sharing
 ## Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 **URL:** https://docs.netskope.com/en/configure-your-netskope-tenant-for-cloud-threat-exchange-file-hash-sharing/
 **Last Modified:** 2025-11-01T00:37:21+00:00
-**Scraped:** 2026-07-17T08:19:17.760541+00:00
+**Scraped:** 2026-07-18T07:59:41.285105+00:00
 
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing - Netskope Knowledge Portal
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing
@@ -2559,7 +2564,7 @@ Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 ## Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
 **URL:** https://docs.netskope.com/en/create-a-malware-detection-profile-in-your-netskope-tenant-to-use-threat-exchange-file-hash-es/
 **Last Modified:** 2026-03-21T02:25:14+00:00
-**Scraped:** 2026-07-17T08:19:21.407493+00:00
+**Scraped:** 2026-07-18T07:59:44.852745+00:00
 
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes - Netskope Knowledge Portal
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
@@ -2584,7 +2589,7 @@ Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchang
 ## Digital Shadow Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/digital-shadow-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:58+00:00
-**Scraped:** 2026-07-17T08:19:34.600052+00:00
+**Scraped:** 2026-07-18T07:59:58.084472+00:00
 
 Digital Shadow Plugin for Threat Exchange - Netskope Knowledge Portal
 Digital Shadow Plugin for Threat Exchange
@@ -2808,7 +2813,7 @@ Digital Shadow Plugin for Threat Exchange
 ## GitHub Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/github-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:41:57+00:00
-**Scraped:** 2026-07-17T08:19:43.706573+00:00
+**Scraped:** 2026-07-18T08:00:07.932731+00:00
 
 GitHub Plugin for Threat Exchange - Netskope Knowledge Portal
 GitHub Plugin for Threat Exchange
@@ -2946,7 +2951,7 @@ GitHub Plugin for Threat Exchange
 ## Manage Threat Exchange Business Rules and IoC Sharing
 **URL:** https://docs.netskope.com/en/manage-threat-exchange-business-rules-and-ioc-sharing/
 **Last Modified:** 2026-03-21T02:21:37+00:00
-**Scraped:** 2026-07-17T08:20:14.496680+00:00
+**Scraped:** 2026-07-18T08:00:40.415692+00:00
 
 Manage Threat Exchange Business Rules and IoC Sharing - Netskope Knowledge Portal
 Manage Threat Exchange Business Rules and IoC Sharing
@@ -2964,7 +2969,7 @@ Manage Threat Exchange Business Rules and IoC Sharing
 ## Mandiant Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mandiant-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:45:30+00:00
-**Scraped:** 2026-07-17T08:20:16.806871+00:00
+**Scraped:** 2026-07-18T08:00:42.862800+00:00
 
 Mandiant Plugin for Threat Exchange - Netskope Knowledge Portal
 Mandiant Plugin for Threat Exchange
@@ -3422,7 +3427,7 @@ Mandiant Plugin for Threat Exchange
 ## Map a Threat Exchange Business Rule to a Target
 **URL:** https://docs.netskope.com/en/map-a-threat-exchange-business-rule-to-a-target/
 **Last Modified:** 2025-10-31T23:46:43+00:00
-**Scraped:** 2026-07-17T08:20:17.942842+00:00
+**Scraped:** 2026-07-18T08:00:44.046590+00:00
 
 Map a Threat Exchange Business Rule to a Target - Netskope Knowledge Portal
 Map a Threat Exchange Business Rule to a Target
@@ -3451,8 +3456,9 @@ Map a Threat Exchange Business Rule to a Target
 ## Microsoft Defender for Endpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-endpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T02:10:36+00:00
-**Scraped:** 2026-07-17T08:20:25.213355+00:00
+**Scraped:** 2026-07-18T08:00:51.435574+00:00
 
+Microsoft Defender for Endpoint Plugin for Threat Exchange - Netskope Knowledge Portal
 Microsoft Defender for Endpoint Plugin for Threat Exchange
 Release Notes
 1.4.0
@@ -4145,174 +4151,316 @@ Microsoft Defender for Endpoint Plugin for Threat Exchange
 ---
 ## Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-cloud-apps-plugin-for-threat-exchange/
-**Last Modified:** 2026-05-27T23:45:52+00:00
-**Scraped:** 2026-07-17T08:20:26.376187+00:00
+**Last Modified:** 2026-07-18T00:43:44+00:00
+**Scraped:** 2026-07-18T08:00:52.655013+00:00
 
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange - Netskope Knowledge Portal
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange
-This document provides instructions to configure Microsoft Defender for Cloud Apps with the Threat Exchange module of the Netskope Cloud Exchange platform. This integration allows for sharing of sanctioned URLs with Netskope.
+Release Notes
+1.1.0
+Added
+Added support for IoC(s) retraction.
+Added support for Sanctioned, Unsanctioned, Allow, and Protected status indicators.
+Added wildcard character support to indicators.
+Fixed
+Enhanced error handling and logging with detailed resolutions.
+Improved indicator type detection for Domain, Hostname and FQDN types.
+Optimized API authentication and request handling.
+1.0.1
+Changed
+Changed Plugin name MCAS to Microsoft Defender for Cloud Apps.
+1.0.0
+Added
+Initial Release.
+This document explains how to configure the Microsoft Defender for Cloud Apps v1.1.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to pull IoCs of type Domains (Domains, FQDNs and Hostnames) from
+Show navigation > Cloud apps > Cloud app catalog
+under Microsoft Defender platform. The plugin supports pull retraction of IoCs from Microsoft Defender. This plugin does not support sharing of IoCs to Microsoft Defender platform.
 Prerequisites
 To complete this configuration, you need:
-A Netskope tenant (or multiple, for example, production and development/test instances).
-A Secure Web Gateway subscription for URL sharing.
-A Netskope Cloud Exchange tenant with the
+Netskope Tenant (or multiple, for example, production and development/test instances)
+A Netskope Cloud Exchange instance with the
 Tenant plugin
 and
-Threat Exchange
-plugin already configured.
-A Microsoft Defender for Cloud Apps instance.
+Threat Exchange plugin
+already configured with the Threat Exchange module enabled.
+A
+URL List
+on your Netskope tenant.
+A
+Destination Profile
+on your Netskope tenant.
+A
+Private App
+on your Netskope tenant.
+A
+DNS Profile
+on your Netskope Tenant
+Microsoft Defender for Cloud Apps platform credentials
+Connectivity to the following hosts:
+Microsoft Defender Cloud Apps instance URL
+Example: https://your-instance.portal.cloudappsecurity.com
+Microsoft Defender for Cloud Apps Plugin Support
+This plugin is used to pull IoCs of type Domains (Domains, FQDNs and Hostnames) from
+Show navigation > Cloud apps > Cloud app catalog
+under Microsoft Defender platform. The plugin supports pull retraction of IoCs from Microsoft Defender. This plugin does not support sharing of IoCs to Microsoft Defender platform.
+Fetched Indicator Types
+Shared Indicator Types
+Domains (Domains, FQDNs and Hostnames)
+Not Supported
+IOC Retraction
+IOC Retraction (Pull): IoCs that are deleted on the Microsoft Defender or that are not under the selected status in the plugin configuration will be marked as retraced in Cloud Exchange.
+For retraction to work, IoC(s) Retraction toggle must be enabled under Settings > Threat Exchange.
+Retraction Type
+Supported Retraction Type
+IoC Retraction (Pull)
+Yes
+IoC Retraction (Push)
+No
+Mappings
+Mappings for Pull(Netskope field – Microsoft Defender for Cloud Apps fields)
+Netskope CTE Field
+Microsoft Defender for Cloud Apps API Field
+Type
+status
+type
+String
+page_size
+limit
+Integer
+skip
+skip
+Integer
+Permissions
+Microsoft Defender Cloud Apps API token with Read-only access.
+API Details
+List of APIs Used
+API Endpoint
+Method
+Use case
+/api/discovery_block_scripts/
+GET
+Validate Credentials and Pull indicators
+Query Parameters:
+Parameter
+Type
+Description
+type
+string
+banned, sanctioned, protected, allow
+limit
+integer
+Page size (default: 1000)
+skip
+integer
+Pagination offset (default: 0)
+Request Headers
+Key
+Value
+Authorization
+Token <API Token>
+Content-Type
+application/json
+User-Agent
+netskope-ce-5.1.2-cte-microsoft-defender-for-cloud-apps-v1.1.0
+Sample Response
+{
+    "data": [
+        {
+            "_id": "mock0000abc1",
+            "appId": 10000,
+            "name": "Microsoft Office 365",
+            "domainList": [
+                "office.com",
+                "outlook.com",
+                "teams.com"
+            ]
+        },
+        {
+            "_id": "mock0000def2",
+            "appId": 10001,
+            "name": "Salesforce",
+            "domainList": [
+                "salesforce.com",
+                "app.salesforce.com"
+            ]
+        }
+    ]
+}
+Performance Matrix
+Here is the performance reading conducted for fetching 100K IoCs in each plugin lifecycle on a Large CE instance with these specifications.
+Description
+Specification
+Stack details
+Size: Large
+RAM: 32 GB
+CPU: 16 Cores
+Indicators fetched from Microsoft Defender for Cloud Apps
+~45k IOCs per minute
+User Agent
+netskope-ce-6.1.0-cte-microsoft-defender-for-cloud-apps-v1.1.0
 Workflow
-Get the Microsoft Defender for Cloud Apps API token.
-Configure the Microsoft Defender for Cloud Apps Plugin.
-Configure sharing between Netskope and Microsoft Defender for Cloud Apps.
-Validate the Microsoft Defender for Cloud Apps Plugin.
+Get your API URL and API token.
+Configure the Microsoft Defender for Cloud Apps plugin.
+Configure a Business Rule.
+Configure Sharing.
+Validate the plugin.
+Watch a Video
 Click play to watch a video.
-Create a Custom Category for the Microsoft Defender URL List
-In the Netskope UI, go to
-Policies
-, and in the Profile section, and click
-Web
+Get your API URL from Microsoft Defender
+Log in to Microsoft Defender platform and go to
+Show navigation > System > Settings > About
 .
-Create new
-Custom Category
+Copy the API URL as it will be used while configuring the plugin.
+Get your API Token from Microsoft Defender
+Log in to Microsoft Defender platform and go to
+Show navigation > System > Settings > API tokens
 .
-Add the required details for the
-Custom Category.
-List created by the Microsoft Defender Plugin adds it in the Include/Exclude List. Click
-Save.
-Create a Real-time Threat Protection Policy for Microsoft Custom Category
-In the Netskope UI, go to
-Policies > Real-time Protection
-.
-Note
-The policy configured here is just an example. Modify as appropriate for your organization.
 Click
-New Policy
-and select
-Web Access
-.
-For
-Source
-, leave the default (User = All Users)
-For
-Destination
-: select
-Category
-Select the Custom Category created for the URL List shared by the Microsoft Defender for Cloud Apps Plugin.
-When the Activities & Constraints section opens, click
-Edit
-.
-Select
-All
-, and then click
-Save
-.
-For
-Profile & Action
-, click in the text field.
-Select
-Action
-to
-Block
-or choose any other option from the list
-.
-Select
-Template
->
-Default Template
-.
-For
-Set Policy
-, enter a descriptive Policy Name.
-Click
-Save
-in the top right to save the policy.
-Choose the
-To the top
-option when it appears. (Or appropriate location in your security policy.)
-To publish this policy into the tenant, select
-Apply Changes
-in the top right.
-Get the Microsoft Defender for Cloud Apps API Token
-Log in to your Microsoft 365 Defender dashboard.
-On the
-Settings
-menu, click
-Cloud Apps > API tokens
-, and then click
-+ Add token
-.
-Provide a name to identify the token in the future, and then click
+Add token
+, enter a Token name, and click
 Generate
 .
-Copy the newly generated API Token and URL.
-Configure the Microsoft Defender for Cloud Apps Plugin
-In Cloud Exchange, go to
-Settings
-and click
-Plugins
+Copy the generated API token as it will be used while configuring the plugin.
+Configuring Microsoft Defender for Cloud Apps Plugin
+In Cloud Exchange, and go to
+Settings > Plugin Store
 .
 Search for and select the
-Microsoft Defender for Cloud Apps (CTE)
-plugin box to open the plugin creation pages.
-Enter and select the Basic Information on the first page:
-Configuration Name: Enter a name appropriate for your integration.
-Sync Interval: Adjust to environment needs. We recommend not to go below 5 minutes for production environments.
-Aging Criteria: Leave the default.
-Last Run: Click the calendar icon and choose a date and time.
-Override Reputation: Leave the default.
-Enable SSL Verification: Leave the default.
+Microsoft Defender for Cloud Apps v1.1.0 (CTE)
+plugin.
+Enter the Basic Information:
+Configuration Name
+: Plugin configuration name.
+Sync Interval
+: Interval to fetch data from this plugin and share data to this plugin from other sources.
+Indicator Aging Criteria:
+Expire indicators after specific time.(. Default: 90)
+Override Reputation
+: Set a value to override the reputation of indicators received from this configuration. (Default: 5)
+Tags Aggregate Strategy:
+Choose whether to append new tags to existing IoC(s) or overwrite them. This configuration parameter determines how tags are stored for indicators pulled for this configuration.
+Enable SSL Validation
+: Enable or Disable SSL Certificate validation.
 Click
 Next
+and enter the Configuration Parameters:
+URL:
+Microsoft Defender Cloud Apps instance URL obtained previously. Example:
+https://your-instance.portal.cloudappsecurity.com
 .
-Enter and select the Configuration Parameters on the second page:
-URL: Enter the URL of your Microsoft Defender for Cloud Apps API.
-API Token: Enter your Microsoft Defender for Cloud Apps API token.
-Enable Tagging: Leave the default (Yes).
-Tag Name: Leave the default.
+API Token:
+Microsoft Defender Cloud Apps API token with Read-only permissions you generated previously.
+Status:
+Select the Cloud App status types to pull IoCs from. If no status is selected, IoCs from all Cloud Apps will be pulled.
+Enable Tagging:
+Enable/Disable tagging functionality. When Yes is selected, status-specific tags will be added to the pulled IoCs.
+Add Wildcard Prefix to IoCs:
+Add Wildcard Prefix functionality. When Yes is selected, a wildcard character will be prepended to each pulled IoC.
+Wildcard:
+Wildcard character to prepend to each IoC when Add Wildcard Prefix to IoC(s) is set to
+Yes
+. A dot (.) is automatically inserted between the wildcard character and the IoC. Note that if the wildcard is kept empty while configuring the plugin, then it will prepend ‘*’ by default to all pulled IoCs ,and while editing the plugin configuring, it will throw a validation error to set the wildcard.
+Note
+When the Allow status is selected, all indicators associated with apps, except Sanctioned, Unsanctioned, and Protected apps are pulled from the Cloud app catalog page into Cloud Exchange and are assigned with the allow tag.
+IoC retraction will be based on Status field. Example: If the plugin was configured with Unsanctioned, Sanctioned, and Protected statuses, and then you edit the plugin and keep only Unsanctioned, Sanctioned statuses, then the IoCs that were pulled from apps with the Protected status will be marked as retracted
+yes
+in Cloud Exchange.
 Click
 Save
-in the top right corner. Go to
+. Your plugin will be added on the
 Threat Exchange > Plugins
-to see your new Microsoft Defender for Cloud Apps (CAS) plugin.
-Configure Sharing for Netskope and Microsoft Defender for Cloud Apps
+page.
+Configure a Threat Exchange Business Rule for Microsoft Defender for Cloud Apps
+To share indicators fetched from the Microsoft Defender for Cloud Apps to the Netskope Tenant or any 3rd-party platform, you need to have a business rule that filters out the indicators that you want to share.
 Go to
-Threat Exchange
-and select
-Sharing
-. The Sharing page displays the existing relationships for each sharing configuration in grid view as shown below. The Sharing page also has inputs to configure new sharing from one plugin to another.
-Click
-Add Sharing Configuration
-, and in the Source Configuration dropdown list, select
-Microsoft Defender
+Threat Exchange > Business Rules
+and
+Create New Rule
 .
-Select a Business Rule, and then select Netskope for the Destination Configuration. Sharing configurations are unidirectional for the Microsoft Defender for Cloud Apps plugin. Data can only be shared from Microsoft to Netskope plugin.
-Select a Target. Each plugin will have a different target or destination for the IoC.
+Add the filter according to your requirements in the rule, and then click
+Save
+.
+Configure Threat Exchange Sharing for Microsoft Defender for Cloud Apps
+To share IOCs from the Microsoft Defender for Cloud Apps to the Netskope Tenant or any 3rd-party platform, you need to create a Sharing configuration.
+Go to
+Threat Exchange > Sharing
+and click
+Add Sharing Configuration
+.
+Select your Source Configuration (CTE Microsoft Defender for Cloud Apps), Business Rule, Destination Configuration (CTE Netskope Threat Exchange), and Targets.
 Click
 Save
 .
-Adding a new sharing configuration on the active source poll will share the existing IoCs of the source configuration to the destination configuration. Whenever a new sharing configuration is built, all the active IoCs will also be considered for sharing if they match the source/destination combination.
-After a sharing configuration has been created, the sharing table will show the rule being invoked, the source system providing the potential IoC matches, the destination system that will receive matching IoC, and the target applicable to that rule. Multiple Sharing configurations can be made to support mapping certain IoC to multiple targets even on the system destination system.
-Modify, Test, or Delete a Sharing Configuration
-Each configuration supports three actions:
-Edit the rule by clicking on the pencil icon.
-Test the rule by clicking on the synchronization icon. This tests how many IoC will actually be sent to the destination system based on the timeframe and the rule.
-Delete the rule by clicking on the garbage can icon.
-Validate the Microsoft Defender for Cloud Apps Plugin
-In order to validate the integration you must have Unsanctioned apps on Microsoft Defender. Microsoft Defender sync Intervals were defined during plugin configuration.
-Go to
-Cloud Exchange
-and select
-Threat IoCs
-. You should see records from your Defender plugin. You can filter based on Source values to check both the Netskope and Microsoft Defender for Cloud Apps plugins.
-In the Netskope UI, go to
-Policies > Web
-,  and click
-URL List
+Note
+Sharing of IoCs on Defender is not supported for Microsoft Defender for Cloud Apps. To push IoCs from Microsoft Defender for Cloud Apps to Netskope, or to see IoC retraction workflow, refer to the
+Netskope plugin guide
+. Here is a list of Netskope Threat Exchange actions supported for IoCs pulled from Microsoft Defender for Cloud Apps:
+Add to a URL List
+Add to Private App
+Add to Destination Profile
+Add to DNS Profile
+We have observed that the IoCs with the ‘*’ Wildcard prepended cannot be shared to the Destination Profile.
+Validation
+Validate the Pull
+To verify the data available for pulling on Microsoft Defender for Cloud Apps. Log in to Microsoft Defender platform and navigate to
+Show navigation > Cloud apps > Cloud app catalog
 .
-Click on the URL List used to configure the plugin. If data is not being brokered between the platforms, you can look at the audit logs in Cloud Exchange. In Threat Exchange, go to
+Open any of the applications, and then you will be able to see the
+Domain
+field. Those are the IoCs that will be pulled in Cloud Exchange.
+Pulled data will be listed on the Threat IoCs page in Cloud Exchange. You can filter the IOCs pulled from the platform using the filter:
+sources.source Like “<plugin configuration name>”
+.
+Here are some sample IoCs pulled with the Add Wildcard Prefix to IoCs as
+Yes
+:
+Here are some sample IoCs pulled with the Add Wildcard Prefix to IoCs as
+No
+:
+To verify pulled logs on Cloud Exchange, go to
 Logging
-and look through the logs for errors.
+and search logs from the CTE Microsoft Defender for Cloud Apps plugin using the plugin configuration name.
+Validate the Pull Retraction
+You can filter the logs related to retraction by using the filter:
+sources.source Like “[Retraction]”
+You can validate the retracted IoCs on the
+Threat IoCs
+page:
+When IoCs pulled from Microsoft Defender for Cloud Apps are marked as retracted
+yes
+, then it will be marked as
+<plugin-config-name>: retracted
+in the Retraction Result if that IoC was already shared to Netskope tenant, or third Party platform and that destination plugin supports push retraction.
+Sharing result will be only populated when the IoCs are pulled after creating the Sharing Configuration, that means Sharing result will not be populated for the IoCs that were already pulled before creating the Sharing Configuration.
+Validate the Push Retraction
+Push Retraction is not supported for Microsoft Defender for Cloud Apps. To push IoCs from Microsoft Defender for Cloud Apps to Netskope, or to see IoC retraction workflow, refer to the
+Netskope plugin guide
+.
+IoCs pulled from Microsoft Defender for Cloud Apps were shared to the Destination Profile
+CTE Demo
+on the Netskope Tenant.
+If any of the shared IoCs are marked as retracted in Cloud Exchange, it would be deleted from the Netskope tenant as well, and then retraction result will be marked as
+CTE Netskope Threat Exchange: retracted
+.
+Here you can see the IoCs that were marked Retracted
+Yes
+in the retraction screenshot, and were also deleted from the Destination Profile on the Netskope tenant.
+Troubleshooting the Microsoft Defender for Cloud Apps plugin
+Unable to configure the Microsoft Defender for Cloud Apps plugin
+It might be due to invalid credentials for Microsoft Defender for Cloud Apps.
+What to do:
+Follow the steps in
+Configuration on the Microsoft Defender Platform
+.
+Unable to pull IoCs from the Microsoft Defender for Cloud Apps platform
+After the plugin configuration if the IoCs are not pulled from the platform, it might be due to there being no IoCs available on the platform to pull.
+What to do:
+Identity your root cause from above and check if the IoCs are
+available on the platform
+to pull.
+Known Behaviors
+We have observed that the IoCs with the ‘*’ Wildcard prepended cannot be shared to the Destination Profile.
+If the same IoC is present under multiple applications having different status, then that IoC will not be marked as retracted in Cloud Exchange.
 In this Topic
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 
@@ -4320,7 +4468,7 @@ Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 ## Microsoft Office 365 Endpoints Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-office-365-endpoints-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:46:26+00:00
-**Scraped:** 2026-07-17T08:20:28.720362+00:00
+**Scraped:** 2026-07-18T08:00:55.141411+00:00
 
 Microsoft Office 365 Endpoints Plugin for Threat Exchange - Netskope Knowledge Portal
 Microsoft Office 365 Endpoints Plugin for Threat Exchange
@@ -4393,7 +4541,7 @@ Microsoft Office 365 Endpoints Plugin for Threat Exchange
 ## Mimecast Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mimecast-plugin-for-threat-exchange/
 **Last Modified:** 2026-03-25T00:02:28+00:00
-**Scraped:** 2026-07-17T08:20:31.103898+00:00
+**Scraped:** 2026-07-18T08:00:57.619258+00:00
 
 Mimecast Plugin for Threat Exchange - Netskope Knowledge Portal
 Mimecast Plugin for Threat Exchange
@@ -5277,7 +5425,7 @@ Mimecast Plugin for Threat Exchange
 ## MISP Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/misp-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-28T03:37:34+00:00
-**Scraped:** 2026-07-17T08:20:33.512673+00:00
+**Scraped:** 2026-07-18T08:01:00.167463+00:00
 
 MISP Plugin for Threat Exchange - Netskope Knowledge Portal
 MISP Plugin for Threat Exchange
@@ -6406,7 +6554,7 @@ MISP Plugin for Threat Exchange
 ## Palo Alto Networks Panorama Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-panorama-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:42+00:00
-**Scraped:** 2026-07-17T08:20:58.854727+00:00
+**Scraped:** 2026-07-18T08:01:26.926992+00:00
 
 Palo Alto Networks Panorama Plugin for Threat Exchange - Netskope Knowledge Portal
 Palo Alto Networks Panorama Plugin for Threat Exchange
@@ -6677,7 +6825,7 @@ Palo Alto Networks Panorama Plugin for Threat Exchange
 ## Proofpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/proofpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T00:57:36+00:00
-**Scraped:** 2026-07-17T08:21:04.558675+00:00
+**Scraped:** 2026-07-18T08:01:33.025222+00:00
 
 Proofpoint Plugin for Threat Exchange - Netskope Knowledge Portal
 Proofpoint Plugin for Threat Exchange
@@ -6983,8 +7131,9 @@ Proofpoint Plugin for Threat Exchange
 ## SentinelOne Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sentinelone-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:26+00:00
-**Scraped:** 2026-07-17T08:21:26.556306+00:00
+**Scraped:** 2026-07-18T08:01:56.171685+00:00
 
+SentinelOne Plugin for Threat Exchange - Netskope Knowledge Portal
 SentinelOne Plugin for Threat Exchange
 This document explains how to configure the SentinelOne v1.4.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches IoCs of type SHA256 and MD5 file hash from the
 Incidents
@@ -7799,7 +7948,7 @@ SentinelOne Plugin for Threat Exchange
 ## ServiceNow Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/servicenow-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:34+00:00
-**Scraped:** 2026-07-17T08:21:30.007429+00:00
+**Scraped:** 2026-07-18T08:01:59.787599+00:00
 
 ServiceNow Plugin for Threat Exchange - Netskope Knowledge Portal
 ServiceNow Plugin for Threat Exchange
@@ -8033,7 +8182,7 @@ ServiceNow Plugin for Threat Exchange
 ## Skyhigh Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/skyhigh-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:58+00:00
-**Scraped:** 2026-07-17T08:21:31.154185+00:00
+**Scraped:** 2026-07-18T08:02:01.026806+00:00
 
 Skyhigh Plugin for Threat Exchange - Netskope Knowledge Portal
 Skyhigh Plugin for Threat Exchange
@@ -8099,7 +8248,7 @@ Skyhigh Plugin for Threat Exchange
 ## Sophos Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sophos-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:33+00:00
-**Scraped:** 2026-07-17T08:21:35.859324+00:00
+**Scraped:** 2026-07-18T08:02:05.943398+00:00
 
 Sophos Plugin for Threat Exchange - Netskope Knowledge Portal
 Sophos Plugin for Threat Exchange
@@ -8183,7 +8332,7 @@ Sophos Plugin for Threat Exchange
 ## STIX/TAXII Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/stix-taxii-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:09+00:00
-**Scraped:** 2026-07-17T08:21:37.058392+00:00
+**Scraped:** 2026-07-18T08:02:07.171764+00:00
 
 STIX/TAXII Plugin for Threat Exchange - Netskope Knowledge Portal
 STIX/TAXII Plugin for Threat Exchange
@@ -8528,7 +8677,7 @@ STIX/TAXII Plugin for Threat Exchange
 ## Threat Exchange Module
 **URL:** https://docs.netskope.com/en/threat-exchange-module/
 **Last Modified:** 2026-06-02T18:38:13+00:00
-**Scraped:** 2026-07-17T08:21:46.249435+00:00
+**Scraped:** 2026-07-18T08:02:17.141469+00:00
 
 Threat Exchange Module - Netskope Knowledge Portal
 Threat Exchange Module
@@ -8567,7 +8716,7 @@ Threat Exchange Module
 ## ThreatConnect Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatconnect-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-28T00:23:08+00:00
-**Scraped:** 2026-07-17T08:21:47.455343+00:00
+**Scraped:** 2026-07-18T08:02:18.418475+00:00
 
 ThreatConnect Plugin for Threat Exchange - Netskope Knowledge Portal
 ThreatConnect Plugin for Threat Exchange
@@ -9538,7 +9687,7 @@ ThreatConnect Plugin for Threat Exchange
 ## Threat Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/threat-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2026-03-21T02:27:56+00:00
-**Scraped:** 2026-07-17T08:21:48.664552+00:00
+**Scraped:** 2026-07-18T08:02:19.710551+00:00
 
 Threat Exchange Custom Plugin Developers Guide - Netskope Knowledge Portal
 Threat Exchange Custom Plugin Developers Guide
@@ -10723,7 +10872,7 @@ Threat Exchange Custom Plugin Developers Guide
 ## ThreatQ Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatq-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:54:47+00:00
-**Scraped:** 2026-07-17T08:21:49.851329+00:00
+**Scraped:** 2026-07-18T08:02:20.929024+00:00
 
 ThreatQ Plugin for Threat Exchange - Netskope Knowledge Portal
 ThreatQ Plugin for Threat Exchange
@@ -10989,7 +11138,7 @@ ThreatQ Plugin for Threat Exchange
 ## Trend Vision One Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trend-micro-vision-one-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:55:39+00:00
-**Scraped:** 2026-07-17T08:21:52.150608+00:00
+**Scraped:** 2026-07-18T08:02:23.347960+00:00
 
 Trend Vision One Plugin for Threat Exchange - Netskope Knowledge Portal
 Trend Vision One Plugin for Threat Exchange
@@ -11313,7 +11462,7 @@ Trend Vision One Plugin for Threat Exchange
 ## Update Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/update-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:29:26+00:00
-**Scraped:** 2026-07-17T08:21:56.686075+00:00
+**Scraped:** 2026-07-18T08:02:28.152427+00:00
 
 Update Configured Threat Exchange Plugins - Netskope Knowledge Portal
 Update Configured Threat Exchange Plugins
@@ -11329,7 +11478,7 @@ Update Configured Threat Exchange Plugins
 ## View Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/view-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:25:57+00:00
-**Scraped:** 2026-07-17T08:22:10.399387+00:00
+**Scraped:** 2026-07-18T08:02:42.564975+00:00
 
 View Configured Threat Exchange Plugins - Netskope Knowledge Portal
 View Configured Threat Exchange Plugins
@@ -11355,7 +11504,7 @@ View Configured Threat Exchange Plugins
 ## View Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/view-threat-exchange-business-rules/
 **Last Modified:** 2025-10-31T23:49:11+00:00
-**Scraped:** 2026-07-17T08:22:12.661245+00:00
+**Scraped:** 2026-07-18T08:02:44.989674+00:00
 
 View Threat Exchange Business Rules - Netskope Knowledge Portal
 View Threat Exchange Business Rules
@@ -11371,7 +11520,7 @@ View Threat Exchange Business Rules
 ## Schedule Auto-Upgrade for the Content and Threat Feed Packages
 **URL:** https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/
 **Last Modified:** 2025-08-31T01:43:04+00:00
-**Scraped:** 2026-07-17T08:27:53.310319+00:00
+**Scraped:** 2026-07-18T08:08:43.604604+00:00
 
 Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Knowledge Portal
 Schedule Auto-Upgrade for the Content and Threat Feed Packages
@@ -11398,7 +11547,7 @@ Schedule Auto-Upgrade for the Content and Threat Feed Packages
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection-115996/
 **Last Modified:** 2025-09-01T12:49:04+00:00
-**Scraped:** 2026-07-17T08:27:57.811510+00:00
+**Scraped:** 2026-07-18T08:08:48.364536+00:00
 
 Threat Protection - Netskope Knowledge Portal
 Threat Protection
@@ -11417,7 +11566,7 @@ Threat Protection
 ## Cybereason Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/cybereason-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:32+00:00
-**Scraped:** 2026-07-17T08:28:29.907106+00:00
+**Scraped:** 2026-07-18T08:09:21.056552+00:00
 
 Cybereason Plugin for Threat Exchange - Netskope Knowledge Portal
 Cybereason Plugin for Threat Exchange
@@ -11786,7 +11935,7 @@ Cybereason Plugin for Threat Exchange
 ## Illumio Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/illumio-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-02T02:58:09+00:00
-**Scraped:** 2026-07-17T08:28:59.991266+00:00
+**Scraped:** 2026-07-18T08:09:52.823168+00:00
 
 Illumio Plugin for Threat Exchange - Netskope Knowledge Portal
 Illumio Plugin for Threat Exchange
@@ -11801,7 +11950,7 @@ Illumio Plugin for Threat Exchange
 ## Feedly Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/feedly-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:43+00:00
-**Scraped:** 2026-07-17T08:29:05.858711+00:00
+**Scraped:** 2026-07-18T08:09:58.897098+00:00
 
 Feedly Plugin for Threat Exchange - Netskope Knowledge Portal
 Feedly Plugin for Threat Exchange
@@ -11928,7 +12077,7 @@ Feedly Plugin for Threat Exchange
 ## Threat and Data Protection for RBI
 **URL:** https://docs.netskope.com/en/threat-and-data-protection-for-rbi/
 **Last Modified:** 2025-08-31T01:46:40+00:00
-**Scraped:** 2026-07-17T08:29:13.834651+00:00
+**Scraped:** 2026-07-18T08:10:07.325548+00:00
 
 Threat and Data Protection for RBI - Netskope Knowledge Portal
 Threat and Data Protection for RBI
@@ -12160,7 +12309,7 @@ Threat and Data Protection for RBI
 ## SecurityScorecard Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/securityscorecard-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:51+00:00
-**Scraped:** 2026-07-17T08:29:21.831821+00:00
+**Scraped:** 2026-07-18T08:10:15.779526+00:00
 
 SecurityScorecard Plugin for Threat Exchange - Netskope Knowledge Portal
 SecurityScorecard Plugin for Threat Exchange
@@ -12320,8 +12469,9 @@ SecurityScorecard Plugin for Threat Exchange
 ## CrowdStrike Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-plugin-for-threat-exchange-2/
 **Last Modified:** 2026-05-27T23:40:14+00:00
-**Scraped:** 2026-07-17T08:29:23.289359+00:00
+**Scraped:** 2026-07-18T08:10:17.074301+00:00
 
+CrowdStrike Plugin for Threat Exchange - Netskope Knowledge Portal
 CrowdStrike Plugin for Threat Exchange
 This document explains how to configure the CrowdStrike v2.3.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches Threat IoCs of type Hash (MD5 and SHA256), Domains, IPv4, IPv6 from CrowdStrike’s Endpoint detections and the IoC management page.
 This plugin supports sharing the Threat IoCs to CrowdStrike’s IoC management page and can perform Isolate/Remediate actions for hosts. Only file hash IoCs activate prevention; Domain, IPv4, IPv6 don’t trigger prevention in CrowdStrike. Sharing URL information from Netskope Cloud Exchange to CrowdStrike is not recommended, as CrowdStrike currently only supports ingesting SHA256, MD5, Domain, IPv4, and IPv6.
@@ -13673,39 +13823,190 @@ CrowdStrike Plugin for Threat Exchange
 ---
 ## HarfangLab Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/harfanglab-plugin-for-threat-exchange/
-**Last Modified:** 2026-05-27T23:42:09+00:00
-**Scraped:** 2026-07-17T08:29:41.809662+00:00
+**Last Modified:** 2026-07-18T00:49:34+00:00
+**Scraped:** 2026-07-18T08:10:36.528372+00:00
 
 HarfangLab Plugin for Threat Exchange - Netskope Knowledge Portal
 HarfangLab Plugin for Threat Exchange
-This document explains how to configure the Harfanglab v1.0.0 integration with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin does not support pulling any indicators from the HarfangLab platform. This plugin supports sharing the Netskope CE indicators with the IoC List available under the Threat Intelligence module on the HarfangLab platform.
+Release Notes
+2.0.0 (Required minimum CE version for this is 6.0.0)
+Added
+Added support to pull IoC(s).
+Added support for pull and push retraction.
+Added support to bifurcate the URL by types (Domain, FQDN, Hostname and URL) and hashes by types (SHA256, MD5).
+Added handling of API rate limit.
+Changed
+Improved error handling.
+Added resolution for error logs.
+1.0.0
+Added
+Initial Release.
+This document explains how to configure the HarfangLab v2.0.0 plugin in the Cloud Exchange platform. This plugin pulls IoCs of type Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5 from the
+Threat intelligence > IoC Sources
+page, and SHA256, MD5 from the
+Threat intelligence > Driver Block List
+page on the HarfangLab platform. This plugin also supports sharing IoCs of type Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5 back to the HarfangLab
+Threat intelligence > IoC Sources
+page. This plugin supports pull and push retraction of IoCs from the
+Threat intelligence > IoC Sources
+page from HarfangLab.
 Prerequisites
 To complete this configuration, you need:
-A Netskope tenant (or multiple, for example, production and development/test instances).
-A Netskope Cloud Exchange tenant with the
+Netskope Tenant (or multiple, for example, production and development/test instances)
+A Netskope Cloud Exchange instance with the
 Tenant plugin
 and
-Threat Exchange
-plugin already configured.
-Connectivity to the HarfangLab platform login URL.
-Example: https://b517af1bf2225fc3.hurukai.io:8443/
+Netskope Threat Exchange plugin
+already configured and the Threat Exchange module enabled.
+A
+URL List
+on your Netskope tenant.
+A
+Destination Profile
+on your Netskope tenant.
+A
+Private App
+on your Netskope tenant.
+A
+DNS Profile
+on your Netskope tenant.
+A
+File Profile
+on your Netskope tenant.
+Connectivity to the following host: HarfangLab Partner login URL.
+Example:
+https://<id>.hurukai.io:8443/
 HarfangLab Plugin Support
+This plugin pulls IoCs of type Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5 from the
+Threat intelligence > IoC Sources
+page, and SHA256, MD5 from the
+Threat intelligence > Driver Block List
+page on the HarfangLab platform. This plugin also supports sharing IoCs of type Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5 back to the HarfangLab
+Threat intelligence > IoC Sources
+page. This plugin supports pull and push retraction of IoCs from the
+Threat intelligence > IoC Sources
+page from HarfangLab.
 Fetched indicator types
-NA
 Shared indicator types
-SHA256, MD5, URL(URLs, IPv4, IPv6, Domains)
+Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5
+Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5
+Per HarfangLab’s IoC types, this plugin supports pulling of URL, Hash, Domain Name, Source IP, Destination IP and Dest. or Source IP. Also, this plugin supports sharing of URL, Domain Name, Hash and Dest. or Source IP.
+IoC Retraction
+For retraction to work, IoC(s) Retraction toggle must be enabled under
+Settings > Threat Exchange
+.
+IoC Retraction (Pull)
+: IoCs that are deleted on the HarfangLab, or that are not under the selected Source Type or Type of Threat data to pull, and not under the retraction interval (only for source type IoC sources) in the plugin configuration, will be marked as retracted in Cloud Exchange.
+IoC Retraction (Push)
+: IoCs that were already shared to HarfangLab, and are marked as retracted
+Yes
+in Cloud Exchange, will be deleted from HarfangLab platform.
+Retraction Type
+Supported Retraction Type
+IoC Retraction (Pull)
+Yes (IoC Sources, Driver block list)
+IoC Retraction (Push)
+Yes (IoC Sources)
+Mapping
+Since HarfangLab uses the URL IoC type to store all types of indicators, we are bifurcating them into IPv4, IPv6, FQDN, Domain, Hostname, and URL for accurate IoC type mapping.
+Push Indicators Mappings
+HarfangLab Field
+Netskope Indicator Field
+value
+indicator.value
+type
+indicator.type → HarfangLab type
+source_id
+Resolved from action ioc_list_name
+global_state
+Action param Action (global_state)
+hl_status
+Action param Maturity (hl_status)
+description
+Force-stamped CE prefix (not a raw param)
+comment
+Action param comment
+name
+Action param name
+references
+Action param references
+rule_level_override
+Derived from indicator.severity (
+not
+a param)
+rule_confidence_override
+Action param Confidence Override (rule_confidence_override)
+If Confidence Override is set to
+No Override
+, the HarfangLab platform sets the confidence level to
+Moderate
+.
+Severity Mappings
+Netskope Severity
+HarfangLab Severity
+unknown
+informational
+low
+low
+medium
+medium
+high
+high
+critical
+critical
+Push Reputation Mappings
+CE Reputation
+HarfangLab Confidence
+1-3
+weak
+4-7
+moderate
+8-10
+strong
+Push IoC Types Mappings
+Netskope CE Type
+HarfangLab Type
+Example Value
+SHA256
+Hash
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+MD5
+Hash
+d41d8cd98f00b204e9800998ecf8427e
+URL
+URL
+https://malware.com/payload.exe
+Hostname
+URL
+localhost, WIN-SERVER01
+Domain
+Domain Name
+example.com
+FQDN
+Domain name
+sub.example.com
+IPv4
+Dest. or Source IP
+8.8.8.8
+IPv6
+Dest. or Source IP
+2001:db8::1
+IPv4 + tag Harfanglab-Type:Source IP
+Source IP
+8.8.8.8
+IPv4 + tag Harfanglab-Type:Destination IP
+Destination IP
+8.8.8.8
+IPv6 + tag Harfanglab-Type:Source IP
+Source IP
+2001:db8::1
+IPv6 + tag Harfanglab-Type:Destination IP
+Destination IP
+2001:db8::1
 Permissions
-These two permissions are needed for the plugin to share IoCs on the HarfangLab platform.
-View rules, IOC, rulesets, and whitelists
-Edit rules, IOC, and rulesets
-Performance Matrix
-Here is the performance reading conducted after sharing 1K IoCs on a large CE instance with the below specifications.
-Stack details
-Size: Large
-RAM: 32 GB
-CPU: 16 Cores
-Indicators shared with HarfangLab
-~100 per minute
+Here are the two permissions needed for the plugin to pull and share IoCs on the HarfangLab platform.
+View & edit Yara,Sigma, IOC & Driver block list engines
+View & manage rules at ‘Testing’ and ‘Experimental’ maturity level
 API Details
 List of APIs used
 API Detail
@@ -13716,224 +14017,494 @@ POST
 /api/data/threat_intelligence/IOCSource/
 Fetch Existing IOC List
 GET
-/api/data/threat_intelligence/IOCSource/?limit=100
+/api/data/threat_intelligence/IOCSource/?limit=500&offset=0
+Fetch IOC Rules (Pull Indicators)
+GET
+/api/data/threat_intelligence/IOCRule/
 Push Indicators
 POST
 /api/data/threat_intelligence/IOCRule/
-Create IoC List
-Parameters
-: None.
-API Request Curl
-:
-curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCSource/' \
---header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx' \
---header 'Content-Type: application/json' \
---data '{
-"block_on_agent": true,
-"description": "IOC list",
-"enabled": true,
-"endpoint_detection": true,
-"name": "Test IOC List"
-}'
+Delete IOC Rule (Push Retraction)
+DELETE
+/api/data/threat_intelligence/IOCRule/{id}/
+Fetch Driver Block List
+GET
+/api/data/threat_intelligence/DriverBlocklist/?limit=500&offset=0
+Create IOC List
+Parameters:
+None
+API Request with Curl
+curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCSource/' \ --header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx' \ --header 'Content-Type: application/json' \ --data '{ "name": "Test IOC List", "description": "IOC List created from Netskope CE" }'
 Sample API Response
-:
 {
-"id": "7f3ceca9-33d4-4db7-bdd6-3e1dc63a7aa0",
-"ioc_count": 0,
-"ioc_testing_in_progress_count": 0,
-"ioc_testing_count": 0,
-"ioc_experimental_count": 0,
-"last_update": "2023-10-03T12:59:16.381480Z",
-"creation_date": "2023-10-03T12:59:16.381564Z",
-"name": "Test IOC List",
-"description": "IOC list",
-"enabled": true,
-"block_on_agent": true,
-"endpoint_detection": true,
-"last_modifier": null
+  "id": "7f3ceca9-33d4-4db7-bdd6-3e1dc63a7aa0",
+  "ioc_count": 0,
+  "ioc_testing_in_progress_count": 0,
+  "ioc_testing_count": 0,
+  "ioc_experimental_count": 0,
+  "last_update": "2023-10-03T12:59:16.381480Z",
+  "creation_date": "2023-10-03T12:59:16.381564Z",
+  "name": "Test IOC List",
+  "description": "IOC List created from Netskope CE",
+  "enabled": true,
+  "block_on_agent": true,
+  "endpoint_detection": true,
+  "last_modifier": null
 }
 Fetch Existing IOC List
 Parameters
-:
 Parameter
 Value
 Comments
 limit
-1000
+500
 Limit for 1 page
-next
-For example,
-/api/data/threat_intelligence/IOCSource/?limit=1000&offset=1000
-api endpoint for next api call containing the offset
-API Request Curl
-:
-curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCSource/?limit=1000&offset=1' \
---header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx'
+offset
+0, 500, 1000…
+Incremented by limit for each page until next is null
+API Request with Curl
+curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCSource/?limit=500&offset=0' \
+ --header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx'
 Sample API Response
-:
 {
-"count": 8,
-"next": null,
-"previous": "/api/data/threat_intelligence/IOCSource/?limit=20",
-"results": [
-{
-"id": "f72c82c9-e136-43a5-8a37-4bd121af5464",
-"ioc_count": 370,
-"ioc_testing_in_progress_count": 0,
-"ioc_testing_count": 0,
-"ioc_experimental_count": 0,
-"last_update": "2023-09-29T06:02:41.011727Z",
-"creation_date": "2023-09-29T06:02:41.011770Z",
-"name": "test",
-"description": "IOC List created from Netskope CE",
-"enabled": false,
-"block_on_agent": false,
-"endpoint_detection": false,
-"last_modifier": null
-}
-]
+  "count": 8,
+  "next": null,
+  "previous": "/api/data/threat_intelligence/IOCSource/?limit=500",
+  "results": [
+    {
+      "id": "f72c82c9-e136-43a5-8a37-4bd121af5464",
+      "ioc_count": 370,
+      "ioc_testing_in_progress_count": 0,
+      "ioc_testing_count": 0,
+      "ioc_experimental_count": 0,
+      "last_update": "2023-09-29T06:02:41.011727Z",
+      "creation_date": "2023-09-29T06:02:41.011770Z",
+      "name": "test",
+      "description": "IOC List created from Netskope CE",
+      "enabled": false,
+      "block_on_agent": false,
+      "endpoint_detection": false,
+      "last_modifier": null
+    }
+  ]
 }
 Push Indicators
-Parameters
-: None.
-API Request Curl
-:
+Parameters:
+None
+API Request with Curl
 curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCRule/' \
 --header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx' \
 --header 'Content-Type: application/json' \
 --data '{
-"value": "61.134.36.102",
-"source_id": "6345304d-2592-4286-9682-06a900d6ca96",
-"type": "url"
+    "value": "61.134.36.102",
+    "source_id": "6345304d-2592-4286-9682-06a900d6ca96",
+    "type": "url",
+    "global_state": "alert",
+    "hl_status": "stable",
+    "description": "Netskope CE | <plugin_name>",
+    "rule_level_override": "high",
+    "rule_confidence_override": null
 }'
 Sample API Response
-:
 {
-"id": "19a89c4e-b58a-446a-b27a-6b55d4fb891e",
-"source_id": "6345304d-2592-4286-9682-06a900d6ca96",
-"last_modifier": {
-"id": 7,
-"username": "NetskopeCE"
-},
-"last_update": "2023-10-03T12:54:24.608988Z",
-"creation_date": "2023-10-03T12:54:24.609060Z",
-"hl_status": "stable",
-"hl_local_testing_status": null,
-"enabled": true,
-"type": "url",
-"value": "61.134.36.102",
-"comment": null,
-"info": null,
-"category": null,
-"description": null,
-"references": [],
-"source": "6345304d-2592-4286-9682-06a900d6ca96"
+  "id": "19a89c4e-b58a-446a-b27a-6b55d4fb891e",
+  "source_id": "6345304d-2592-4286-9682-06a900d6ca96",
+  "last_modifier": {
+    "id": 7,
+    "username": "NetskopeCE"
+  },
+  "last_update": "2023-10-03T12:54:24.608988Z",
+  "creation_date": "2023-10-03T12:54:24.609060Z",
+  "hl_status": "stable",
+  "hl_local_testing_status": null,
+  "enabled": true,
+  "type": "url",
+  "value": "61.134.36.102",
+  "comment": null,
+  "info": null,
+  "category": null,
+  "description": "Netskope CE | <plugin_name>",
+  "references": [
+  ],
+  "source": "6345304d-2592-4286-9682-06a900d6ca96"
 }
+Fetch IoC Rules(Pull Indicators)
+Parameters
+Parameter
+Value
+Comments
+source_id
+Eg., 6345304d-2592-4286-9682-06a900d6ca96
+IOC Source list ID to pull from
+last_update__gte
+2024-01-01 00:00:00
+Window start — space-separated datetime (no T/Z)
+last_update__lte
+2024-01-02 00:00:00
+Window end (now)
+limit
+500
+Limit for 1 page
+offset
+0, 500, 1000…
+Incremented by limit for each page until next is null
+API Request with Curl
+curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCRule/?source_id=6345304d-2592-4286-9682-06a900d6ca96&last_update__gte=2024-01-01%2000:00:00&last_update__lte=2024-01-02%2000:00:00&limit=500&offset=0' \
+--header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx'
+Sample API Response
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "19a89c4e-b58a-446a-b27a-6b55d4fb891e",
+      "source_id": "6345304d-2592-4286-9682-06a900d6ca96",
+      "last_modifier": {
+        "id": 7,
+        "username": "NetskopeCE"
+      },
+      "last_update": "2023-10-03T12:54:24.608988Z",
+      "creation_date": "2023-10-03T12:54:24.609060Z",
+      "hl_status": "stable",
+      "hl_local_testing_status": null,
+      "enabled": true,
+      "type": "url",
+      "value": "61.134.36.102",
+      "comment": null,
+      "info": null,
+      "category": null,
+      "description": null,
+      "references": [
+      ],
+      "source": "6345304d-2592-4286-9682-06a900d6ca96"
+    }
+  ]
+}
+Fetch Driver Block List
+Parameters
+Parameter
+Value
+Comments
+limit
+500
+Limit for 1 page
+offset
+0, 500, 1000…
+Incremented by limit for each page until next is null
+API Request with Curl
+curl --location 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/DriverBlocklist/?limit=500&offset=0' \--header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx'
+Sample API Response
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "b2d4f8a1-1c3e-4f5a-9b7d-8e2c1a6f0d3b",
+      "last_update": "2023-10-03T12:54:24.608988Z",
+      "creation_date": "2023-10-03T12:54:24.609060Z",
+      "enabled": true,
+      "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "comment": null,
+      "description": null
+    }
+  ]
+}
+Delete IOC Rule for Push
+API Request with Curl
+curl --location --request DELETE 'https://b517af1bf2225fc3.hurukai.io:8443/api/data/threat_intelligence/IOCRule/19a89c4e-b58a-446a-b27a-6b55d4fb891e/' \--header 'Authorization: Token 66752e19a9872d67e348e0e192a9bexxxxxxxxxx'
+Sample API Response
+HTTP/1.1 204 No Content
+Performance Matrix
+Here is the performance reading conducted after pulling 100K IoCs and sharing 1K IoCs on a Large CE instance with these specifications.
+Description
+Specification
+Stack details
+Size: Large
+RAM: 32 GB
+CPU: 16 Cores
+Indicators pulled from HarfangLab
+~ 10K IoCs per minute
+Indicators shared with HarfangLab
+~ 45 IoCs per minute
 User Agent
-The user agent added for this plugin is in the following format: “netskope-ce-<CE VERSION>-<MODULE NAME>-<PLUGIN NAME>-v<PLUGIN VERSION>”
-For example: netskope-ce-4.2.0-cte-harfanglab-v1.0.0
+netskope-ce-6.1.0-cte-harfanglab-v2.0.0
 Workflow
-Get your HarfangLab API token and Ioc List.
+Get your HarfangLab API token.
 Configure the HarfangLab plugin.
 Configure business rules for the HarfangLab plugin.
 Configure sharing for Netskope and HarfangLab.
 Validate the HarfangLab plugin.
+Watch a Video
 Click play to watch a video.
-Get your HarfangLab API Token and IoC List
-Get your API Token
-Go to your HarfangLab platform and log in with your credentials.
+Get your HarfangLab API Token
+Create a Role on Harfanglab
+Log in to your HarfangLab instance and go to
+Administration > Roles
+.
+Click
+Roles
+and then click
+Create role
+.
+Enter a name and description for the new role, and then click
+Create
+.
+Click the
+i
+icon for that specific role name to edit it.
+Only give permissions for
+YARA, Sigma, IOC & Driver block list engines
+to view and edit on the
+Threat Intelligence
+permission, and click the checkbox
+View & manage rules at ‘Testing’ and ‘Experimental’ maturity level
+.
+Click
+Save
+.
+Attach this role to a specific user.
+Assign a Role to the User
+In the left panel, go to
+Administration > Users
+.
+Select the user and click on
+i
+icon to edit its role. If you want to create a new user, then click
+Create new user
+.
+Update the role with the role that you created in the
+Create role
+section.
+Get the API Token
 On the left panel, go to
 Administration > Users
 .
-If you already have a user created, jump to step 7. If you do not have any user created, continue here.
-Click
-Create a User
-and enter your Username and Password, and Password Confirmation values.
-Select the Role as
-admin
-from the Roles dropdown list.
-Click
-Create
-to create the user.
 Click on your username and scroll down to API Token. Click
 Generate Token
-(if the token hasn’t already been generated), and copy the API Token to use it in the plugin configuration.
-Create an IoC List
-Indicators pushed from Netskope CE will be stored in an IoC List available on the HarfangLab platform. To create an IoC List:
-Log in to the HarfangLab platform and go to
-Threat Intelligence > IoC
-on the left panel.
-If you already have an IoC List created, you can use it, or follow these steps to create a new IoC List to store the indicators pushed from Netskope CE.
-Click
-Create IoC List
-.
-Provide the Name and Description for the IoC list, and click
-Add IoC List
-to create the list.
+if the token hasn’t already been generated, and copy the API Token to use it when configuring in the plugin.
 Configure the HarfangLab Plugin
-Go to
-Settings > Plugins,
-and then search for and select the Threat Exchange HarfangLab plugin box.
-Enter the Basic Information with these values:
-Configuration Name: Unique name for the configuration
-Sync Interval: Leave the default.
-Aging Criteria
-:
-Expiry time of the plugin in days. (Default: 90)
-Override Reputation: Set a value to override the reputation of indicators received from this configuration.
-Enable SSL Validation: Enable SSL Certificate validation.
-Use System Proxy: Enable if a proxy is required for communication.
+In Cloud Exchange, go to
+Settings > Plugin Store
+. Search for and select the
+HarfangLab v2.0.0 (CTE)
+plugin.
+Enter the Basic Information:
+Configuration Name
+: Unique name for the configuration.
+Sync Interval
+: Interval to fetch data from this plugin and share data to this plugin from other sources.
+Indicator Aging Criteria:
+Define Expiry Time (In Days) for Threat Intel/Indicators. (Default: 90)
+Override Reputation
+: Set value to override the reputation of indicators received from this configuration. Use 0 to retain the default value, which will not override the indicator’s reputation.
+Tags Aggregate Strategy:
+Choose whether to append new tags to existing IoC(s) or overwrite them. This configuration parameter determines how tags are stored for indicators pulled for this configuration.
+Enable SSL Validation
+: Enable SSL Certificate validation.
 Click
 Next
+and enter the Configuration Parameters:
+Tenant URL
+: Base URL of HarfangLab instance. For example:
+https://<instance_id>.hurukai.io:<port>
 .
-Enter the Configuration Parameters with these values:
-Tenant URL: URL of your Harfang Lab platform.
-API Token: API Token of your user.
+API Token
+: API Token for authenticating to HarfangLab.
+Source Type:
+Select the source(s) to pull Threat IoCs from HarfangLab. At least one source must be selected.
+Type of Threat data to pull:
+Type of Threat IoCs to pull from HarfangLab. Allowed values are SHA256, MD5, Domain, FQDN, Hostname, IPv4, IPv6, URL. Driver Block List only supports SHA256 and MD5. Leave empty to pull all supported types.
+IOC Sources Name:
+Comma-separated names of IoC Sources to pull from HarfangLab. Leave this empty to pull from all available IoC Sources. Applicable only when
+IoC Sources
+is selected as the Source Type.
+Initial Range (in days):
+Number of days Threat IoCs to pull from IoC Sources in the initial run. Valid values are in range from 0 to 100000 days. Applicable only when
+IoC Sources
+is selected as the Source Type.
+Enable Retraction:
+Enable retraction for pulled indicators. When
+Yes
+, indicators no longer present on HarfangLab will be retracted in Cloud Exchange. For IoC Sources, a Retraction Interval must also be configured. This parameter is only considered if
+IoC(s) Retraction
+is enabled in the Threat Exchange settings.
+Retraction Interval (in days):
+Number of days to use as the retraction interval for IoC Sources retraction. Valid values are in the range from 1 to 100000 days. Required when Enable Retraction is
+Yes
+and
+IoC Sources
+is selected as the Source Type. This parameter will only be considered if
+IoC(s) Retraction
+is enabled in the Threat Exchange settings.
+Enable Tagging:
+Enable/Disable tagging of pulled indicators. When enabled, indicators pulled from IoC Sources are tagged with the IoC Source name, and indicators pulled from Driver Block List are tagged with
+HarfangLab-Driver-Block-List
+.
+Enable Polling:
+Enable/Disable polling Threat IoCs from HarfangLab. Disable if you only need to push Threat IoCs to HarfangLab.
 Click
 Save
 .
-Configure a Business Rule for the HarfangLab Plugin
-To share indicators from Netskope CE to HarfangLab, you need to have a business rule that can filter out the indicators that you want to share. To configure a business rule:
+Configure a Threat Exchange Business Rule for the HarfangLab Plugin
+To share indicators from Netskope Cloud Exchange to HarfangLab, you need to have a business rule that will filter out the indicators that you want to share.
 Go to
-Threat Exchange > Business Rule > Create New Rule
+Threat Exchange > Business Rules
+and click
+Create New Rule
 .
-Add your required filter(s) for the IoCs you want to share, and then click
+Enter a rule name and add a filter as per your requirement for the IoCs you want to share, and then click
 Save
 .
 Configure Sharing for the HarfangLab Plugin
-The HarfangLab plugin supports the sharing of URLs, MD5, and SHA256 types of IoCs. To share IoCs with HarfangLab:
+The HarfangLab plugin supports the sharing of URLs, MD5, and SHA256 types of IoCs.
 Go to
 Threat Exchange > Sharing
-and click on the
+and click
 Add Sharing Configuration
 .
-Select your Source Configuration (Netskope), Business Rule, and Destination Configuration (HarfangLab), and Target, and select an existing IoC List Name, or create a new IoC list on the platform.
+Select your Source Configuration (CTE Netskope Threat Exchange), Business Rule, and Destination Configuration (CTE HarfangLab), and Target, and then select the following parameters:
+IOC Source Name:
+Select an existing IoC Source list dropdown or select
+Create New IOC List
+.
+New IOC Sources Name:
+Name of the new IoC Sources to create on HarfangLab. Required when
+Create New IOC List
+is selected.
+Name:
+Optional display name for the IoC.
+Description:
+Optional description for the IoC.
+Comment:
+Optional comment for the IoC.
+References:
+Optional comma-separated list of reference URLs or identifiers. Each entry will be sent as a separate item.
+Confidence Override:
+Override the confidence for all pushed IoC(s). Select
+IoC Reputation
+to derive confidence from the indicator’s reputation score (1-3: weak, 4-7: moderate, 8-10: strong). For No override, it’s been observed that even if you create an IoC with Confidence as
+No override
+, the HarfangLab UI will show it as
+moderate
+.
+Action:
+Select the action for all pushed IoC(s). The default value is
+Alert
+.
+Maturity:
+Select the maturity status for all pushed IoC(s). The default value is
+Stable
+.
 Click
 Save
 .
+Note
+Refer to the
+Netskope Threat Exchange plugin
+guide for more information related to sharing on the Netskope Tenant. As the HarfangLab plugin supports pulling URL, IPv4, IPv6,Hostname, Domain, FQDN, SHA256, and MD5, you can perform these actions on Netskope using these indicators:
+Add to a URL List
+Add a File Profile
+Add to Private App
+Add to Destination Profile
+Add to DNS Profile
 Validate the HarfangLab Plugin
 Validate the Pull
-Pulling indicators from the HarfangLab plugin is not supported.
+This plugin supports pulling IoCs of type Domain, FQDN, Hostname, IPv4, IPv6, URL, SHA256 and MD5 from the
+IoC Sources
+page, and SHA256, MD5 from the
+Driver Block List
+page.
+To verify the available IoCs on HarfangLab, go to the
+Threat Intelligence > IoC
+page.
+Go to the
+Driver Block List
+tab to see Hashes (SHA256 and MD5).
+Go to the
+IoC Sources
+tab to see all the IoC sources.
+Click on any of the source names to check the IoCs present under that IoC source.
+To verify the pulling of IoCs on Cloud Exchange, go to
+Settings > Logging
+and apply the filter with the plugin configuration name. Example:
+message Like “CTE HarfangLab”
+.
+Pulled IoCs will be visible on the Threat IoCs page in Cloud Exchange.
 Validate the Push
-To verify pushed IoCs on HarfangLab, Navigate to HarfangLab Platform > Threat Intelligence > IOC.
-Click on the IoC List name that you have used while configuring the plugin and check the IoCs available in the list.
-To validate the pushed indicator on Netskope CE, go to Threat IOCs and search for IOCs that are shared with HarfangLab.
-You can also verify the pushed IOCs from Logging in Netskope CE.
-Filter the logs available from the Harfanglab platform.
-Troubleshooting
+To verify pushed IoCs on HarfangLab, go to
+Threat Intelligence > IoC Sources
+.
+Click on the IoC List name that you used while configuring the plugin, and check the IoCs available in the list.
+Click on the IoC to view its details. Note that IoCs having description like ‘
+Netskope CE | <plugin name>’
+will not be pulled again back to Cloud Exchange.
+To validate the pushed indicator in Cloud Exchange, go to
+Threat IoCs
+and search for IoCs that are shared with HarfangLab.
+You can also verify the pushed IoCs from
+Logging
+in Cloud Exchange. Filter the logs available from the Harfanglab platform.
+Validate the Retraction
+For Pull Retraction
+To verify the retracted IoCs, go to
+Threat IoCs
+and apply the filter shown here.
+To verify the logs related to retraction, you can apply the filter shown here.
+This is the Destination profile where the IoCs pulled from Harfanglab were shared.
+As the IoCs pulled from HarfangLab was marked as Retracted
+yes
+, and it was already shared to the destination profile on the Netskope tenant, it will get deleted from that destination profile, and the status for it can be verified from retraction result. In this case the retraction result is
+CTE Netskope Threat Exchange: retracted
+, which means it was deleted from the destination profile.
+Here you can see the retracted IoCs were deleted from this destination profile.
+For Push Retraction
+As the HarfangLab plugin supports push retraction, so the IoCs that were shared to HarfangLab platform and are marked as Retracted
+yes
+, it will be deleted from the HarfangLab platform at the next sync interval, and its result can be verified from retraction result field. Here the retraction result is
+CTE HarfangLab: retracted
+, which means this IoC is deleted from the IoC Sources on HarfangLab that was used in the sharing configuration.
+To verify the logs related to retraction, you can apply the filter as shown here.
+Here you can see the same IoC is deleted on HarfangLab.
+Troubleshooting the HarfangLab Plugin
+Unable to use the plugin after upgrading from older plugin version
+It may be due to a change in format for API token. You may encounter this error.
+What to do:
+Use the Skip button while upgrading the plugin, and then go to the plugins page and edit the HarfangLab plugin configuration. Update the API token with the format shown below, save the plugin, and then enable it.
+Old API Token format: “Token 66752e19a9872d67e348e0e192a9besxxxxxxxxx”
+New API Token format for HarfangLab v2.0.0: “66752e19a9872d67e348e0e192a9besxxxxxxxxx”
+Unable to pull IoCs from HarfangLab
+If you are not able to pull IoCs from HarfangLab, then this may be due to incorrect Source Name, or no IoCs present on the IoC Sources page or the Drivier block list page.
+What to do:
+Make sure the IoCs are present on the Harfang Lab platform, and the Source Name in the plugin configuration is correct. Refer to the
+Validate the Pull
+section.
 Receiving an invalid URL or invalid Token error while creating the plugin configuration.
 This error might occur if the provided URL in the plugin configuration is invalid.
 What to do:
-Make sure to give the correct URL that you use to access your HarfangLab platform. Make sure to only add the Base URL along with the port.
+Make sure to give the correct URL that you use to access your HarfangLab platform. Make sure to only add the Tenant URL along with the port. Refer to the
+Configuration on HarfangLab
+section.
 Receiving error for exit code 401, Unauthorization
-If you are receiving this error, verify the API Token provided.
+If you are receiving the 401 error, it may be due to an incorrect API token.
 What to do:
-Make sure that the Token provided exists on the HarfangLab platform. Or generate a new API Token.
+Make sure that the Token provided exists on the HarfangLab platform. Or generate a new API Token. Refer to the
+Configuration on HarfangLab
+section.
 Receiving error for exit code 403, Forbidden error
+If you are receiving the 403 error, it may be due to the token with insufficient permissions.
 What to do:
-If the below error is received while configuring the plugin or any time in the plugin lifecycle, check the API Tokens permission. Below are the two permissions needed for this plugin to share the IOCs.
-View rules, IOC, rulesets, and whitelists
-Edit rules, IOC, and rulesets
+If this error is received while configuring the plugin, or any time in the plugin lifecycle, check the API Tokens permission. Refer to the
+Configuration on HarfangLab
+section.
+Known Behaviors
+It has been observed that even if you create an IoC with confidence as
+No override
+, the HarfangLab UI will show it as
+moderate
+.
+HarfangLab APIs do not support updating the IoCs, which means if you want to update any of the existing IoCs, then you need to either share that IoC to a New IoC Source, or delete that IoC from the current IoC Sources, and share it again.
 In this Topic
 HarfangLab Plugin for Threat Exchange
 
@@ -13941,7 +14512,7 @@ HarfangLab Plugin for Threat Exchange
 ## ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/extrahop-revealx-360-plugin-for-threat-exchange/
 **Last Modified:** 2026-01-30T01:06:15+00:00
-**Scraped:** 2026-07-17T08:30:07.225805+00:00
+**Scraped:** 2026-07-18T08:11:04.052409+00:00
 
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange - Netskope Knowledge Portal
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange
@@ -14266,7 +14837,7 @@ ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 ## Commvault Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/commvault-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:58+00:00
-**Scraped:** 2026-07-17T08:30:30.240576+00:00
+**Scraped:** 2026-07-18T08:11:28.072579+00:00
 
 Commvault Plugin for Threat Exchange - Netskope Knowledge Portal
 Commvault Plugin for Threat Exchange
@@ -14650,7 +15221,7 @@ Commvault Plugin for Threat Exchange
 ## Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-cortex-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:30+00:00
-**Scraped:** 2026-07-17T08:30:31.413943+00:00
+**Scraped:** 2026-07-18T08:11:29.375346+00:00
 
 Palo Alto Networks Cortex XDR Plugin for Threat Exchange - Netskope Knowledge Portal
 Palo Alto Networks Cortex XDR Plugin for Threat Exchange
@@ -15142,7 +15713,7 @@ Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 ## Anomali ThreatStream XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/anomali-threatstream-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:38:52+00:00
-**Scraped:** 2026-07-17T08:30:33.813359+00:00
+**Scraped:** 2026-07-18T08:11:31.906671+00:00
 
 Anomali ThreatStream XDR Plugin for Threat Exchange - Netskope Knowledge Portal
 Anomali ThreatStream XDR Plugin for Threat Exchange
@@ -15655,7 +16226,7 @@ Anomali ThreatStream XDR Plugin for Threat Exchange
 ## Trellix Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trellix-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:55:19+00:00
-**Scraped:** 2026-07-17T08:31:18.387391+00:00
+**Scraped:** 2026-07-18T08:12:19.179432+00:00
 
 Trellix Plugin for Threat Exchange - Netskope Knowledge Portal
 Trellix Plugin for Threat Exchange
@@ -15955,7 +16526,7 @@ Trellix Plugin for Threat Exchange
 ## Malware
 **URL:** https://docs.netskope.com/en/about-malware/
 **Last Modified:** 2026-07-06T19:52:34+00:00
-**Scraped:** 2026-07-17T08:32:35.422205+00:00
+**Scraped:** 2026-07-18T08:13:40.523150+00:00
 
 Malware - Netskope Knowledge Portal
 Malware
@@ -16172,7 +16743,7 @@ Malware
 ## Secureworks Taegis Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/secureworks-taegis-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T22:57:55+00:00
-**Scraped:** 2026-07-17T08:32:41.176841+00:00
+**Scraped:** 2026-07-18T08:13:46.610593+00:00
 
 Secureworks Taegis Plugin for Threat Exchange - Netskope Knowledge Portal
 Secureworks Taegis Plugin for Threat Exchange
@@ -16450,7 +17021,7 @@ Secureworks Taegis Plugin for Threat Exchange
 ## Web Page IoC Scraper Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/web-page-ioc-scraper-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T22:58:31+00:00
-**Scraped:** 2026-07-17T08:32:42.332933+00:00
+**Scraped:** 2026-07-18T08:13:47.864276+00:00
 
 Web Page IoC Scraper Plugin for Threat Exchange - Netskope Knowledge Portal
 Web Page IoC Scraper Plugin for Threat Exchange
@@ -16674,7 +17245,7 @@ Web Page IoC Scraper Plugin for Threat Exchange
 ## Rubrik Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/rubrik-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:06+00:00
-**Scraped:** 2026-07-17T08:32:52.605345+00:00
+**Scraped:** 2026-07-18T08:13:58.670524+00:00
 
 Rubrik Plugin for Threat Exchange - Netskope Knowledge Portal
 Rubrik Plugin for Threat Exchange
@@ -17520,7 +18091,7 @@ Rubrik Plugin for Threat Exchange
 ## Setting Up an Application Instance for Malware Retention
 **URL:** https://docs.netskope.com/en/setting-up-an-application-instance-for-malware-retention/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-07-17T08:33:09.818877+00:00
+**Scraped:** 2026-07-18T08:14:16.903591+00:00
 
 Setting Up an Application Instance for Malware Retention - Netskope Knowledge Portal
 Setting Up an Application Instance for Malware Retention
@@ -17671,7 +18242,7 @@ Setting Up an Application Instance for Malware Retention
 ## Creating a Malware Retention Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-retention-profile/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-07-17T08:33:10.952417+00:00
+**Scraped:** 2026-07-18T08:14:18.110132+00:00
 
 Creating a Malware Retention Profile - Netskope Knowledge Portal
 Creating a Malware Retention Profile
@@ -17720,7 +18291,7 @@ Creating a Malware Retention Profile
 ## Threat Exchange Plugin
 **URL:** https://docs.netskope.com/en/threat-exchange-plugin/
 **Last Modified:** 2026-06-02T23:42:49+00:00
-**Scraped:** 2026-07-17T08:34:02.846754+00:00
+**Scraped:** 2026-07-18T08:15:12.923886+00:00
 
 Threat Exchange Plugin - Netskope Knowledge Portal
 Threat Exchange Plugin
@@ -19873,7 +20444,7 @@ Threat Exchange Plugin
 ## About Malware Retention
 **URL:** https://docs.netskope.com/en/about-malware-retention/
 **Last Modified:** 2025-08-31T01:47:31+00:00
-**Scraped:** 2026-07-17T08:35:14.776602+00:00
+**Scraped:** 2026-07-18T08:16:28.642104+00:00
 
 About Malware Retention - Netskope Knowledge Portal
 About Malware Retention
@@ -19936,7 +20507,7 @@ About Malware Retention
 ## Maltiverse Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/maltiverse-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:44:19+00:00
-**Scraped:** 2026-07-17T08:35:39.623981+00:00
+**Scraped:** 2026-07-18T08:16:54.352853+00:00
 
 Maltiverse Plugin for Threat Exchange - Netskope Knowledge Portal
 Maltiverse Plugin for Threat Exchange
@@ -20224,7 +20795,7 @@ Maltiverse Plugin for Threat Exchange
 ## Malware Severity Levels and Detection Types
 **URL:** https://docs.netskope.com/en/malware-severity-levels-and-detection-types/
 **Last Modified:** 2025-12-08T22:36:38+00:00
-**Scraped:** 2026-07-17T08:37:40.069582+00:00
+**Scraped:** 2026-07-18T08:19:02.313982+00:00
 
 Malware Severity Levels and Detection Types - Netskope Knowledge Portal
 Malware Severity Levels and Detection Types
@@ -20355,7 +20926,7 @@ Malware Severity Levels and Detection Types
 ## Vectra AI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vectra-ai-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:02+00:00
-**Scraped:** 2026-07-17T08:37:58.485397+00:00
+**Scraped:** 2026-07-18T08:19:21.974309+00:00
 
 Vectra AI Plugin for Threat Exchange - Netskope Knowledge Portal
 Vectra AI Plugin for Threat Exchange
@@ -20804,7 +21375,7 @@ Vectra AI Plugin for Threat Exchange
 ## SecLytics Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/seclytics-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:26+00:00
-**Scraped:** 2026-07-17T08:37:59.628079+00:00
+**Scraped:** 2026-07-18T08:19:23.151246+00:00
 
 SecLytics Plugin for Threat Exchange - Netskope Knowledge Portal
 SecLytics Plugin for Threat Exchange
@@ -20894,7 +21465,7 @@ SecLytics Plugin for Threat Exchange
 ## OpenCTI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/opencti-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:01+00:00
-**Scraped:** 2026-07-17T08:38:07.710981+00:00
+**Scraped:** 2026-07-18T08:19:30.390825+00:00
 
 OpenCTI Plugin for Threat Exchange - Netskope Knowledge Portal
 OpenCTI Plugin for Threat Exchange
@@ -21533,7 +22104,7 @@ OpenCTI Plugin for Threat Exchange
 ## Infoblox Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/infoblox-tide-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:43:16+00:00
-**Scraped:** 2026-07-17T08:38:26.197032+00:00
+**Scraped:** 2026-07-18T08:19:49.814075+00:00
 
 Infoblox Plugin for Threat Exchange - Netskope Knowledge Portal
 Infoblox Plugin for Threat Exchange
@@ -22490,7 +23061,7 @@ Infoblox Plugin for Threat Exchange
 ## Tanium Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/tanium-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:43+00:00
-**Scraped:** 2026-07-17T08:41:47.080056+00:00
+**Scraped:** 2026-07-18T08:23:21.372803+00:00
 
 Tanium Plugin for Threat Exchange - Netskope Knowledge Portal
 Tanium Plugin for Threat Exchange
@@ -22894,7 +23465,7 @@ Tanium Plugin for Threat Exchange
 ## Abnormal Security Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/abnormal-security-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T03:59:33+00:00
-**Scraped:** 2026-07-17T08:42:27.257596+00:00
+**Scraped:** 2026-07-18T08:24:03.754536+00:00
 
 Abnormal Security Plugin for Threat Exchange - Netskope Knowledge Portal
 Abnormal Security Plugin for Threat Exchange
@@ -23330,7 +23901,7 @@ Abnormal Security Plugin for Threat Exchange
 ## Imperva Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/imperva-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:42:53+00:00
-**Scraped:** 2026-07-17T08:44:57.349478+00:00
+**Scraped:** 2026-07-18T08:26:45.228766+00:00
 
 Imperva Plugin for Threat Exchange - Netskope Knowledge Portal
 Imperva Plugin for Threat Exchange
@@ -23621,8 +24192,9 @@ Imperva Plugin for Threat Exchange
 ## Creating a Threat Protection Policy for Blocking DNS over HTTPS
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-blocking-dns-over-https/
 **Last Modified:** 2026-02-11T19:38:47+00:00
-**Scraped:** 2026-07-17T08:45:10.042910+00:00
+**Scraped:** 2026-07-18T08:26:58.540886+00:00
 
+Creating a Threat Protection Policy for Blocking DNS over HTTPS - Netskope Knowledge Portal
 Creating a Threat Protection Policy for Blocking DNS over HTTPS
 Netskope recommends creating a security policy (i.e., [Utility] Block DNS over HTTPS) that blocks DNS operating over port 443 (HTTPS) due to its incompatibility for steering. This policy will block silently. Netskope recommends placing this policy with your other Threat Protection policies.
 Recommended Threat Protection Policy
@@ -23685,7 +24257,7 @@ Creating a Threat Protection Policy for Blocking DNS over HTTPS
 ## Darktrace Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/darktrace-plugin-for-threat-exchange/
 **Last Modified:** 2026-04-10T00:26:25+00:00
-**Scraped:** 2026-07-17T08:46:50.834243+00:00
+**Scraped:** 2026-07-18T08:28:40.941382+00:00
 
 Darktrace Plugin for Threat Exchange - Netskope Knowledge Portal
 Darktrace Plugin for Threat Exchange
@@ -24182,7 +24754,7 @@ Darktrace Plugin for Threat Exchange
 ## Threat Hunting
 **URL:** https://docs.netskope.com/en/threat-hunting/
 **Last Modified:** 2026-07-06T18:51:59+00:00
-**Scraped:** 2026-07-17T08:49:35.444733+00:00
+**Scraped:** 2026-07-18T08:31:39.968054+00:00
 
 Threat Hunting - Netskope Knowledge Portal
 Threat Hunting
@@ -24266,7 +24838,7 @@ Threat Hunting
 ## VMRay Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vmray-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-06T21:45:48+00:00
-**Scraped:** 2026-07-17T08:49:36.633573+00:00
+**Scraped:** 2026-07-18T08:31:41.228171+00:00
 
 VMRay Plugin for Threat Exchange - Netskope Knowledge Portal
 VMRay Plugin for Threat Exchange
@@ -25181,8 +25753,9 @@ VMRay Plugin for Threat Exchange
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection/
 **Last Modified:** 2026-05-07T18:16:07+00:00
-**Scraped:** 2026-07-17T08:50:46.646472+00:00
+**Scraped:** 2026-07-18T08:32:53.867723+00:00
 
+Threat Protection - Netskope Knowledge Portal
 Threat Protection
 Modern threats need a multi-layered security approach able to defend organizations from known threats and zero-days with the same level of efficacy. Netskope has built a comprehensive threat protection framework that allows organizations to defend against malware through different engines including viruses, worms, trojans, ransomware, keyloggers, rootkits, downloaders, backdoors, botnets, spyware, info stealers, adware, mobile threats, potentially unwanted software, fileless malware, crypto-mining, wipers, packers, installers, malicious websites, URLs, malicious scripts (XSS, etc.), HTML smuggling, documents, macros, archives (up to 9 levels), exploits, credential compromise, domains (including Punycode, hijacking, compromise, typosquatting, character substitution, etc.), command and control, data exfiltration, beaconing, and other attacker artifacts, traffic, and malicious infrastructure.
 The Standard Inline Threat engines support:
