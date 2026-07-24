@@ -1,12 +1,12 @@
 # Netskope Docs — Dlp
-_Generated: 2026-07-23 09:36 UTC_
+_Generated: 2026-07-24 09:30 UTC_
 _Pages: 87_
 
 ---
 ## Award-Winning DLP Features
 **URL:** https://docs.netskope.com/en/award-winning-dlp-features/
 **Last Modified:** 2025-08-31T01:51:00+00:00
-**Scraped:** 2026-07-23T08:24:24.912866+00:00
+**Scraped:** 2026-07-24T08:21:32.966653+00:00
 
 Award-Winning DLP Features - Netskope Knowledge Portal
 Award-Winning DLP Features
@@ -29,7 +29,7 @@ Award-Winning DLP Features
 ## Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules
 **URL:** https://docs.netskope.com/en/create-a-dlp-policy-to-search-an-entire-data-repository-and-apply-predefined-labels-per-enterprise-data-classification-rules/
 **Last Modified:** 2025-09-01T12:58:18+00:00
-**Scraped:** 2026-07-23T08:24:42.414500+00:00
+**Scraped:** 2026-07-24T08:21:49.441211+00:00
 
 Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules - Netskope Knowledge Portal
 Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules
@@ -56,7 +56,7 @@ Create a DLP policy to search an entire data repository and apply predefined lab
 ## Create DLP policies for sensitive data for a specific OU from a user and provide user coaching
 **URL:** https://docs.netskope.com/en/create-dlp-policies-for-sensitive-data-for-a-specific-ou-from-a-user-and-provide-user-coaching/
 **Last Modified:** 2025-08-31T01:51:05+00:00
-**Scraped:** 2026-07-23T08:24:59.632141+00:00
+**Scraped:** 2026-07-24T08:22:06.697689+00:00
 
 Create DLP policies for sensitive data for a specific OU from a user and provide user coaching - Netskope Knowledge Portal
 Create DLP policies for sensitive data for a specific OU from a user and provide user coaching
@@ -74,9 +74,8 @@ Create DLP policies for sensitive data for a specific OU from a user and provide
 ## DLP – Protect state for Managed App Activities
 **URL:** https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:30+00:00
-**Scraped:** 2026-07-23T08:25:06.974393+00:00
+**Scraped:** 2026-07-24T08:22:13.922112+00:00
 
-DLP – Protect state for Managed App Activities - Netskope Knowledge Portal
 DLP – Protect state for Managed App Activities
 This section outlines specific use cases to protect managed app activities. Check back because new use cases are added periodically.
 Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules
@@ -91,7 +90,7 @@ DLP – Protect state for Managed App Activities
 ## DLP Scans on AWS Accounts
 **URL:** https://docs.netskope.com/en/dlp-scans-on-aws-accounts/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-07-23T08:25:10.715874+00:00
+**Scraped:** 2026-07-24T08:22:17.446423+00:00
 
 DLP Scans on AWS Accounts - Netskope Knowledge Portal
 DLP Scans on AWS Accounts
@@ -112,7 +111,7 @@ DLP Scans on AWS Accounts
 ## DLP Scans on AWS, Azure, and GCP Accounts
 **URL:** https://docs.netskope.com/en/dlp-scans-on-cloud-saas/
 **Last Modified:** 2026-06-25T19:32:43+00:00
-**Scraped:** 2026-07-23T08:25:11.916477+00:00
+**Scraped:** 2026-07-24T08:22:18.620449+00:00
 
 DLP Scans on AWS, Azure, and GCP Accounts - Netskope Knowledge Portal
 DLP Scans on AWS, Azure, and GCP Accounts
@@ -135,7 +134,7 @@ DLP Scans on AWS, Azure, and GCP Accounts
 ## DLP Scans on Azure Accounts
 **URL:** https://docs.netskope.com/en/dlp-scans-on-azure-accounts/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-07-23T08:25:15.656431+00:00
+**Scraped:** 2026-07-24T08:22:22.332457+00:00
 
 DLP Scans on Azure Accounts - Netskope Knowledge Portal
 DLP Scans on Azure Accounts
@@ -156,8 +155,9 @@ DLP Scans on Azure Accounts
 ## Create a Custom DLP Profile
 **URL:** https://docs.netskope.com/en/create-a-custom-dlp-profile/
 **Last Modified:** 2026-06-25T19:19:21+00:00
-**Scraped:** 2026-07-23T08:29:36.434891+00:00
+**Scraped:** 2026-07-24T08:26:34.074384+00:00
 
+Create a Custom DLP Profile - Netskope Knowledge Portal
 Create a Custom DLP Profile
 Creating a DLP profile involves selecting a file profile and then providing a DLP rule, content classification, or fingerprint rule.
 File profile section allows you to include or exclude specific files based on different attributes of a file. You can use existing file profiles or create a new file profile.
@@ -211,7 +211,7 @@ Create a Custom DLP Profile
 ## Create a Custom DLP Rule
 **URL:** https://docs.netskope.com/en/creating-a-custom-dlp-rule/
 **Last Modified:** 2026-06-25T19:14:26+00:00
-**Scraped:** 2026-07-23T08:30:08.529982+00:00
+**Scraped:** 2026-07-24T08:27:05.716450+00:00
 
 Create a Custom DLP Rule - Netskope Knowledge Portal
 Create a Custom DLP Rule
@@ -234,7 +234,7 @@ Create a Custom DLP Rule
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117716/
 **Last Modified:** 2025-08-31T01:40:51+00:00
-**Scraped:** 2026-07-23T08:31:05.521283+00:00
+**Scraped:** 2026-07-24T08:28:01.182243+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -261,7 +261,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117840/
 **Last Modified:** 2025-09-01T12:30:42+00:00
-**Scraped:** 2026-07-23T08:31:06.732473+00:00
+**Scraped:** 2026-07-24T08:28:02.476348+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -288,7 +288,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117929/
 **Last Modified:** 2025-09-01T12:33:25+00:00
-**Scraped:** 2026-07-23T08:31:10.355091+00:00
+**Scraped:** 2026-07-24T08:28:06.098964+00:00
 
 DLP
 This section of the API Data Protection Policy page specifies the type of DLP profile that triggers a policy violation.
@@ -314,7 +314,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117863/
 **Last Modified:** 2025-09-01T12:34:08+00:00
-**Scraped:** 2026-07-23T08:31:11.561980+00:00
+**Scraped:** 2026-07-24T08:28:07.280380+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -343,7 +343,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117951/
 **Last Modified:** 2025-09-01T12:32:07+00:00
-**Scraped:** 2026-07-23T08:31:12.770463+00:00
+**Scraped:** 2026-07-24T08:28:08.456928+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -370,7 +370,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117885/
 **Last Modified:** 2025-09-01T12:30:47+00:00
-**Scraped:** 2026-07-23T08:31:13.980474+00:00
+**Scraped:** 2026-07-24T08:28:09.631874+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -397,7 +397,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117983/
 **Last Modified:** 2025-09-01T12:31:42+00:00
-**Scraped:** 2026-07-23T08:31:15.314885+00:00
+**Scraped:** 2026-07-24T08:28:10.807142+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -426,7 +426,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118036/
 **Last Modified:** 2025-09-01T12:31:11+00:00
-**Scraped:** 2026-07-23T08:31:16.522053+00:00
+**Scraped:** 2026-07-24T08:28:11.982510+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -453,7 +453,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118130/
 **Last Modified:** 2025-09-01T12:31:15+00:00
-**Scraped:** 2026-07-23T08:31:17.732766+00:00
+**Scraped:** 2026-07-24T08:28:13.166905+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -482,7 +482,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118108/
 **Last Modified:** 2025-09-01T12:32:12+00:00
-**Scraped:** 2026-07-23T08:31:18.940339+00:00
+**Scraped:** 2026-07-24T08:28:14.343056+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -509,7 +509,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-120387/
 **Last Modified:** 2025-09-01T12:31:20+00:00
-**Scraped:** 2026-07-23T08:31:20.149032+00:00
+**Scraped:** 2026-07-24T08:28:15.520403+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -536,7 +536,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118083/
 **Last Modified:** 2025-09-01T12:31:46+00:00
-**Scraped:** 2026-07-23T08:31:21.353254+00:00
+**Scraped:** 2026-07-24T08:28:16.695469+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -563,8 +563,9 @@ DLP
 ## DLP Profiles
 **URL:** https://docs.netskope.com/en/dlp-profiles/
 **Last Modified:** 2026-06-25T17:36:59+00:00
-**Scraped:** 2026-07-23T08:31:22.554415+00:00
+**Scraped:** 2026-07-24T08:28:17.968233+00:00
 
+DLP Profiles - Netskope Knowledge Portal
 DLP Profiles
 A DLP profile is a collection of predefined or custom DLP rules, classifiers, and custom fingerprint rules. If any of the rules or classifiers match the content, then the DLP profile flags the content as a policy violation. Using predefined profiles let you start evaluating loss of critical data in the cloud immediately. Creating new DLP profiles and rules enables you to refine custom methods of prevention. For insight about building custom DLP profiles and rules, see
 DLP Best Practices Runbook
@@ -606,7 +607,7 @@ DLP Profiles
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp/
 **Last Modified:** 2025-09-01T12:30:37+00:00
-**Scraped:** 2026-07-23T08:31:23.889193+00:00
+**Scraped:** 2026-07-24T08:28:19.242047+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -634,7 +635,7 @@ DLP
 ## DLP Rules
 **URL:** https://docs.netskope.com/en/dlp-rules/
 **Last Modified:** 2026-06-25T19:22:14+00:00
-**Scraped:** 2026-07-23T08:31:26.423199+00:00
+**Scraped:** 2026-07-24T08:28:21.597251+00:00
 
 DLP Rules
 DLP rules can contain one or more of these elements:
@@ -685,7 +686,7 @@ DLP Rules
 ## Edit a Custom DLP Profile
 **URL:** https://docs.netskope.com/en/edit-a-custom-dlp-profile/
 **Last Modified:** 2026-06-25T19:19:22+00:00
-**Scraped:** 2026-07-23T08:31:28.826819+00:00
+**Scraped:** 2026-07-24T08:28:24.028557+00:00
 
 Edit a Custom DLP Profile - Netskope Knowledge Portal
 Edit a Custom DLP Profile
@@ -697,7 +698,7 @@ Edit a Custom DLP Profile
 ## Endpoint Data Loss Prevention
 **URL:** https://docs.netskope.com/en/endpoint-data-loss-prevention/
 **Last Modified:** 2026-06-25T17:37:02+00:00
-**Scraped:** 2026-07-23T08:31:53.551813+00:00
+**Scraped:** 2026-07-24T08:28:47.708576+00:00
 
 Endpoint Data Loss Prevention
 Note
@@ -857,7 +858,7 @@ Endpoint Data Loss Prevention
 ## Name the DLP Rule
 **URL:** https://docs.netskope.com/en/name-the-dlp-rule/
 **Last Modified:** 2026-06-25T19:14:31+00:00
-**Scraped:** 2026-07-23T08:33:49.225516+00:00
+**Scraped:** 2026-07-24T08:30:39.473235+00:00
 
 Name the DLP Rule - Netskope Knowledge Portal
 Name the DLP Rule
@@ -871,7 +872,7 @@ Name the DLP Rule
 ## Select a Predefined DLP Profile
 **URL:** https://docs.netskope.com/en/select-a-predefined-dlp-profile/
 **Last Modified:** 2026-06-25T19:19:20+00:00
-**Scraped:** 2026-07-23T08:35:50.243671+00:00
+**Scraped:** 2026-07-24T08:32:36.879928+00:00
 
 Select a Predefined DLP Profile - Netskope Knowledge Portal
 Select a Predefined DLP Profile
@@ -948,8 +949,9 @@ Select a Predefined DLP Profile
 ## Select a DLP Entity
 **URL:** https://docs.netskope.com/en/select-dlp-entity/
 **Last Modified:** 2026-06-25T19:14:27+00:00
-**Scraped:** 2026-07-23T08:35:51.445241+00:00
+**Scraped:** 2026-07-24T08:32:38.057693+00:00
 
+Select a DLP Entity - Netskope Knowledge Portal
 Select a DLP Entity
 DLP entities can be data identifiers or dictionaries. DLP provides a library of predefined data identifiers. You can also create custom entities and use them in a rule.
 To learn more:
@@ -964,7 +966,7 @@ Select a DLP Entity
 ## Using DLP with Netskope Public Cloud Security
 **URL:** https://docs.netskope.com/en/using-dlp-with-netskope-public-cloud-security/
 **Last Modified:** 2026-06-25T17:37:00+00:00
-**Scraped:** 2026-07-23T08:37:53.987997+00:00
+**Scraped:** 2026-07-24T08:34:36.340177+00:00
 
 Using DLP with Netskope Public Cloud Security - Netskope Knowledge Portal
 Using DLP with Netskope Public Cloud Security
@@ -1004,7 +1006,7 @@ Using DLP with Netskope Public Cloud Security
 ## Viewing DLP and Malware Alerts for Public Cloud Storage
 **URL:** https://docs.netskope.com/en/viewing-dlp-and-malware-alerts-for-public-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:19+00:00
-**Scraped:** 2026-07-23T08:38:23.764430+00:00
+**Scraped:** 2026-07-24T08:35:04.941283+00:00
 
 Viewing DLP and Malware Alerts for Public Cloud Storage - Netskope Knowledge Portal
 Viewing DLP and Malware Alerts for Public Cloud Storage
@@ -1036,7 +1038,7 @@ Viewing DLP and Malware Alerts for Public Cloud Storage
 ## DLP Behavior with SMTP Proxy
 **URL:** https://docs.netskope.com/en/dlp-behavior-with-smtp-proxy/
 **Last Modified:** 2025-08-31T01:55:52+00:00
-**Scraped:** 2026-07-23T08:41:21.475518+00:00
+**Scraped:** 2026-07-24T08:37:53.643523+00:00
 
 DLP Behavior with SMTP Proxy - Netskope Knowledge Portal
 DLP Behavior with SMTP Proxy
@@ -1074,7 +1076,7 @@ DLP Behavior with SMTP Proxy
 ## View DLP Incidents related to SMTP Proxy
 **URL:** https://docs.netskope.com/en/view-dlp-incidents-related-to-smtp-proxy/
 **Last Modified:** 2025-08-31T01:55:51+00:00
-**Scraped:** 2026-07-23T08:44:03.419092+00:00
+**Scraped:** 2026-07-24T08:40:30.786414+00:00
 
 View DLP Incidents related to SMTP Proxy - Netskope Knowledge Portal
 View DLP Incidents related to SMTP Proxy
@@ -1126,8 +1128,9 @@ View DLP Incidents related to SMTP Proxy
 ## Downloading DLP Incident Files
 **URL:** https://docs.netskope.com/en/downloading-dlp-incident-files/
 **Last Modified:** 2025-08-31T01:38:58+00:00
-**Scraped:** 2026-07-23T08:46:00.997892+00:00
+**Scraped:** 2026-07-24T08:42:23.852921+00:00
 
+Downloading DLP Incident Files - Netskope Knowledge Portal
 Downloading DLP Incident Files
 Each DLP incident object has a download option so you can download the incident file. This file contains the content that violated the DLP policy and caused the incident. When you download the file, it’s downloaded into the forensic folder you defined in your Forensic profile.
 To download a DLP incident file:
@@ -1180,7 +1183,7 @@ Downloading DLP Incident Files
 ## Create a DLP Exact Match Hash from a Virtual Appliance
 **URL:** https://docs.netskope.com/en/create-a-dlp-exact-match-hash-from-a-virtual-appliance/
 **Last Modified:** 2025-08-31T01:42:47+00:00
-**Scraped:** 2026-07-23T08:49:19.120759+00:00
+**Scraped:** 2026-07-24T08:45:35.602741+00:00
 
 Create a DLP Exact Match Hash from a Virtual Appliance - Netskope Knowledge Portal
 Create a DLP Exact Match Hash from a Virtual Appliance
@@ -1259,9 +1262,8 @@ Create a DLP Exact Match Hash from a Virtual Appliance
 ## Mimecast and Netskope DLP Configuration
 **URL:** https://docs.netskope.com/en/mimecast-and-netskope-dlp-configuration/
 **Last Modified:** 2025-08-31T01:55:32+00:00
-**Scraped:** 2026-07-23T08:50:52.890825+00:00
+**Scraped:** 2026-07-24T08:47:06.252059+00:00
 
-Mimecast and Netskope DLP Configuration - Netskope Knowledge Portal
 Mimecast and Netskope DLP Configuration
 This document explains how to configure Netskope DLP with Mimecast.
 Netskope and Mimecast collaborate to provide a comprehensive data loss prevention (DLP) solution that effectively detects and safeguards sensitive information across the evolving cloud environment of joint customers. This approach is agnostic to sharing methods, user locations, applications, or device types. Netskope leverages its extensive knowledge of data sharing and extends it to email by employing a unified approach to DLP match rules. This allows customers to utilize their Mimecast environment to manage flagged email in accordance with established email policies.
@@ -1391,7 +1393,7 @@ Mimecast and Netskope DLP Configuration
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117816/
 **Last Modified:** 2025-08-31T01:41:45+00:00
-**Scraped:** 2026-07-23T08:52:08.502504+00:00
+**Scraped:** 2026-07-24T08:48:19.989761+00:00
 
 DLP - Netskope Knowledge Portal
 DLP
@@ -1421,7 +1423,7 @@ DLP
 ## Enforce DLP for NPA Browser Access Private Apps
 **URL:** https://docs.netskope.com/en/enforce-dlp-for-npa-browser-access-private-apps/
 **Last Modified:** 2026-05-28T22:38:29+00:00
-**Scraped:** 2026-07-23T08:58:39.882965+00:00
+**Scraped:** 2026-07-24T08:54:39.898916+00:00
 
 Enforce DLP for NPA Browser Access Private Apps
 Prerequisites
@@ -1520,9 +1522,8 @@ Enforce DLP for NPA Browser Access Private Apps
 ## Netskope One for Microsoft Purview DLP
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp/
 **Last Modified:** 2026-07-02T02:19:51+00:00
-**Scraped:** 2026-07-23T09:01:04.452513+00:00
+**Scraped:** 2026-07-24T08:56:57.819734+00:00
 
-Netskope One for Microsoft Purview DLP - Netskope Knowledge Portal
 Netskope One for Microsoft Purview DLP
 To use this feature, please get in touch with the Netskope account team to get this feature enabled on your tenant. If you are a new customer, please reach out to the Netskope sales team.
 If you would like a demo, please reach out to
@@ -1566,7 +1567,7 @@ Netskope One for Microsoft Purview DLP
 ## Netskope One for Microsoft Purview DLP Troubleshooting and FAQ
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp-troubleshooting-and-faq/
 **Last Modified:** 2026-06-25T19:18:23+00:00
-**Scraped:** 2026-07-23T09:01:05.658860+00:00
+**Scraped:** 2026-07-24T08:56:59.092341+00:00
 
 Netskope One for Microsoft Purview DLP Troubleshooting and FAQ - Netskope Knowledge Portal
 Netskope One for Microsoft Purview DLP Troubleshooting and FAQ
@@ -1618,7 +1619,7 @@ Netskope One for Microsoft Purview DLP Troubleshooting and FAQ
 ## Netskope One for Microsoft Purview DLP Configuration
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp-configuration/
 **Last Modified:** 2026-07-02T02:41:16+00:00
-**Scraped:** 2026-07-23T09:01:07.017997+00:00
+**Scraped:** 2026-07-24T08:57:00.272307+00:00
 
 Netskope One for Microsoft Purview DLP Configuration
 This configuration will have to be performed on both the Microsoft and Netskope-side.
@@ -1743,7 +1744,7 @@ Netskope One for Microsoft Purview DLP Configuration
 ## Data Loss Prevention On Demand
 **URL:** https://docs.netskope.com/en/data-loss-prevention-on-demand/
 **Last Modified:** 2026-06-25T17:36:59+00:00
-**Scraped:** 2026-07-23T09:01:12.373482+00:00
+**Scraped:** 2026-07-24T08:57:05.250755+00:00
 
 Data Loss Prevention On Demand - Netskope Knowledge Portal
 Data Loss Prevention On Demand
@@ -1773,7 +1774,7 @@ Data Loss Prevention On Demand
 ## Appliance Setup
 **URL:** https://docs.netskope.com/en/dlpondemandconfig/
 **Last Modified:** 2026-06-25T19:19:27+00:00
-**Scraped:** 2026-07-23T09:01:13.635965+00:00
+**Scraped:** 2026-07-24T08:57:06.471389+00:00
 
 Appliance Setup - Netskope Knowledge Portal
 Appliance Setup
@@ -2326,7 +2327,7 @@ Appliance Setup
 ## Endpoint DLP Device and Content Control Policies
 **URL:** https://docs.netskope.com/en/epdlpcontrol/
 **Last Modified:** 2026-06-25T19:14:33+00:00
-**Scraped:** 2026-07-23T09:04:40.602909+00:00
+**Scraped:** 2026-07-24T09:00:26.029413+00:00
 
 Endpoint DLP Device and Content Control Policies
 Endpoint DLP Policy
@@ -2734,7 +2735,7 @@ Endpoint DLP Device and Content Control Policies
 ## About DLP
 **URL:** https://docs.netskope.com/en/about-dlp/
 **Last Modified:** 2026-06-25T19:32:37+00:00
-**Scraped:** 2026-07-23T09:05:15.554934+00:00
+**Scraped:** 2026-07-24T09:00:59.703413+00:00
 
 About DLP - Netskope Knowledge Portal
 About DLP
@@ -3214,7 +3215,7 @@ About DLP
 ## Start a DLP Content Inspection Job for Unstructured Data (Asynchronous)
 **URL:** https://docs.netskope.com/en/start-dlp-content-inspection-job/
 **Last Modified:** 2026-06-25T19:16:10+00:00
-**Scraped:** 2026-07-23T09:05:23.181684+00:00
+**Scraped:** 2026-07-24T09:01:06.906642+00:00
 
 Start a DLP Content Inspection Job for Unstructured Data (Asynchronous) - Netskope Knowledge Portal
 Start a DLP Content Inspection Job for Unstructured Data (Asynchronous)
@@ -3747,7 +3748,7 @@ Start a DLP Content Inspection Job for Unstructured Data (Asynchronous)
 ## Get Results of Prior DLP Inspection
 **URL:** https://docs.netskope.com/en/getting-dlp-inspection-results-cache/
 **Last Modified:** 2026-06-25T19:16:06+00:00
-**Scraped:** 2026-07-23T09:05:24.557408+00:00
+**Scraped:** 2026-07-24T09:01:08.123799+00:00
 
 Get Results of Prior DLP Inspection - Netskope Knowledge Portal
 Get Results of Prior DLP Inspection
@@ -4476,8 +4477,9 @@ Get Results of Prior DLP Inspection
 ## Perform DLP Content Inspection and Retrieve Results (Synchronous)
 **URL:** https://docs.netskope.com/en/starting-a-synchronous-dlp-content-inspection-job/
 **Last Modified:** 2026-06-25T19:16:08+00:00
-**Scraped:** 2026-07-23T09:05:27.152389+00:00
+**Scraped:** 2026-07-24T09:01:10.642271+00:00
 
+Perform DLP Content Inspection and Retrieve Results (Synchronous) - Netskope Knowledge Portal
 Perform DLP Content Inspection and Retrieve Results (Synchronous)
 This API endpoint is used to synchronously perform a DLP Content Inspection and retrieve the results. If the content inspection exceeds the maximum timeout of 10 seconds, a HTTP 200 is returned with the status field set to ‘timeout’. This call only supports the following verdict types:
 summary
@@ -5234,7 +5236,7 @@ Perform DLP Content Inspection and Retrieve Results (Synchronous)
 ## Sending Data to DLP On Demand
 **URL:** https://docs.netskope.com/en/dlp-on-demand-usage/
 **Last Modified:** 2026-06-25T19:18:16+00:00
-**Scraped:** 2026-07-23T09:05:28.359500+00:00
+**Scraped:** 2026-07-24T09:01:11.814032+00:00
 
 Sending Data to DLP On Demand - Netskope Knowledge Portal
 Sending Data to DLP On Demand
@@ -5295,7 +5297,7 @@ Sending Data to DLP On Demand
 ## Retrieve Results from a Submitted Asynchronous DLP Content Inspection job
 **URL:** https://docs.netskope.com/en/retrieve-result-from-dlp-content-inspection-job/
 **Last Modified:** 2026-06-25T19:16:09+00:00
-**Scraped:** 2026-07-23T09:05:29.610568+00:00
+**Scraped:** 2026-07-24T09:01:13.031084+00:00
 
 Retrieve Results from a Submitted Asynchronous DLP Content Inspection job - Netskope Knowledge Portal
 Retrieve Results from a Submitted Asynchronous DLP Content Inspection job
@@ -5970,7 +5972,7 @@ Retrieve Results from a Submitted Asynchronous DLP Content Inspection job
 ## Appliance Troubleshooting
 **URL:** https://docs.netskope.com/en/dlpondemandtroubleshooting/
 **Last Modified:** 2026-06-25T19:19:33+00:00
-**Scraped:** 2026-07-23T09:05:43.763885+00:00
+**Scraped:** 2026-07-24T09:01:26.205302+00:00
 
 Appliance Troubleshooting - Netskope Knowledge Portal
 Appliance Troubleshooting
@@ -6003,7 +6005,7 @@ Appliance Troubleshooting
 ## DLP On Demand Appliance
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance/
 **Last Modified:** 2026-06-25T19:18:15+00:00
-**Scraped:** 2026-07-23T09:05:48.597386+00:00
+**Scraped:** 2026-07-24T09:01:30.989917+00:00
 
 DLP On Demand Appliance - Netskope Knowledge Portal
 DLP On Demand Appliance
@@ -6022,7 +6024,7 @@ DLP On Demand Appliance
 ## Manage DLP On Demand
 **URL:** https://docs.netskope.com/en/manage-dlp-on-demand/
 **Last Modified:** 2026-06-25T19:19:29+00:00
-**Scraped:** 2026-07-23T09:05:54.927234+00:00
+**Scraped:** 2026-07-24T09:01:37.091842+00:00
 
 Manage DLP On Demand - Netskope Knowledge Portal
 Manage DLP On Demand
@@ -6044,8 +6046,9 @@ Manage DLP On Demand
 ## DLP Detection
 **URL:** https://docs.netskope.com/en/dlp-detection/
 **Last Modified:** 2026-06-25T17:36:58+00:00
-**Scraped:** 2026-07-23T09:06:25.894804+00:00
+**Scraped:** 2026-07-24T09:02:06.865668+00:00
 
+DLP Detection - Netskope Knowledge Portal
 DLP Detection
 For more information on DLP Detection, see the following pages:
 Steganographic Detection
@@ -6063,7 +6066,7 @@ DLP Detection
 ## Netskope One for Microsoft Purview DLP Supported Activities
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp-supported-activities/
 **Last Modified:** 2026-06-25T19:18:20+00:00
-**Scraped:** 2026-07-23T09:06:37.370439+00:00
+**Scraped:** 2026-07-24T09:02:17.543730+00:00
 
 Netskope One for Microsoft Purview DLP Supported Activities - Netskope Knowledge Portal
 Netskope One for Microsoft Purview DLP Supported Activities
@@ -6135,7 +6138,7 @@ Netskope One for Microsoft Purview DLP Supported Activities
 ## Configure a DLP Profile on a Netskope Tenant (Beta)
 **URL:** https://docs.netskope.com/en/configure-a-dlp-profile-on-netskope-tenant-beta/
 **Last Modified:** 2025-11-14T01:30:57+00:00
-**Scraped:** 2026-07-23T09:06:43.682002+00:00
+**Scraped:** 2026-07-24T09:02:23.484491+00:00
 
 Configure a DLP Profile on a Netskope Tenant (Beta) - Netskope Knowledge Portal
 Configure a DLP Profile on a Netskope Tenant (Beta)
@@ -6167,8 +6170,9 @@ Configure a DLP Profile on a Netskope Tenant (Beta)
 ## Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta)
 **URL:** https://docs.netskope.com/en/configure-a-real-time-protection-policy-using-the-dlp-profile-on-netskope-tenant-beta/
 **Last Modified:** 2025-11-14T02:31:46+00:00
-**Scraped:** 2026-07-23T09:06:44.893603+00:00
+**Scraped:** 2026-07-24T09:02:24.665220+00:00
 
+Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta) - Netskope Knowledge Portal
 Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta)
 This policy configuration is just an example of how the File Hashes sent from Netskope CE can be utilized for Real Time Protection. Modify as appropriate for your organization and use-case.
 Go to Policies > Real-time Protection.
@@ -6195,7 +6199,7 @@ Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant
 ## Exact Data Match Plugin (Beta)
 **URL:** https://docs.netskope.com/en/exact-data-match-plugin/
 **Last Modified:** 2026-03-20T23:52:37+00:00
-**Scraped:** 2026-07-23T09:07:21.253075+00:00
+**Scraped:** 2026-07-24T09:02:58.224089+00:00
 
 Exact Data Match Plugin (Beta) - Netskope Knowledge Portal
 Exact Data Match Plugin (Beta)
@@ -6694,7 +6698,7 @@ Exact Data Match Plugin (Beta)
 ## View Configured Exact Data Match Plugins (Beta)
 **URL:** https://docs.netskope.com/en/view-configured-exact-data-match-plugins/
 **Last Modified:** 2025-12-09T00:01:09+00:00
-**Scraped:** 2026-07-23T09:07:22.464985+00:00
+**Scraped:** 2026-07-24T09:02:59.510465+00:00
 
 View Configured Exact Data Match Plugins (Beta) - Netskope Knowledge Portal
 View Configured Exact Data Match Plugins (Beta)
@@ -6727,7 +6731,7 @@ View Configured Exact Data Match Plugins (Beta)
 ## Update Configured Exact Data Match Plugins (Beta)
 **URL:** https://docs.netskope.com/en/update-configured-exact-data-match-plugins/
 **Last Modified:** 2025-12-09T00:01:45+00:00
-**Scraped:** 2026-07-23T09:07:23.670696+00:00
+**Scraped:** 2026-07-24T09:03:00.687927+00:00
 
 Update Configured Exact Data Match Plugins (Beta) - Netskope Knowledge Portal
 Update Configured Exact Data Match Plugins (Beta)
@@ -6740,9 +6744,8 @@ Update Configured Exact Data Match Plugins (Beta)
 ## Configure 3rd-party Exact Data Match Plugins (Beta)
 **URL:** https://docs.netskope.com/en/configure-3rd-party-exact-data-match-plugins/
 **Last Modified:** 2025-12-09T02:15:19+00:00
-**Scraped:** 2026-07-23T09:07:24.875080+00:00
+**Scraped:** 2026-07-24T09:03:01.882429+00:00
 
-Configure 3rd-party Exact Data Match Plugins (Beta) - Netskope Knowledge Portal
 Configure 3rd-party Exact Data Match Plugins (Beta)
 Only admins and write-access users can configure 3rd-party Exact Data Match plugins. Exact Data Match comes with a library of supported plugins. Plugins can be easily configured to collect and share Exact Data Match hashes of structured data by following the plugin guide.
 You can also disable, enable, or delete existing plugin configurations. Exact Data Match can be configured with multiple plugins to the same system for different workflows from either the same Netskope tenant or multiple Netskope tenants.
@@ -6761,7 +6764,7 @@ Configure 3rd-party Exact Data Match Plugins (Beta)
 ## Linux File Share Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/linux-file-share-plugin-for-exact-data-match/
 **Last Modified:** 2026-06-05T01:16:04+00:00
-**Scraped:** 2026-07-23T09:07:26.113736+00:00
+**Scraped:** 2026-07-24T09:03:03.065567+00:00
 
 Linux File Share Plugin for Exact Data Match - Netskope Knowledge Portal
 Linux File Share Plugin for Exact Data Match
@@ -7080,7 +7083,7 @@ Linux File Share Plugin for Exact Data Match
 ## OracleDB Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/oracledb-plugin-for-exact-data-match/
 **Last Modified:** 2026-06-05T02:27:23+00:00
-**Scraped:** 2026-07-23T09:07:27.348026+00:00
+**Scraped:** 2026-07-24T09:03:04.434685+00:00
 
 OracleDB Plugin for Exact Data Match - Netskope Knowledge Portal
 OracleDB Plugin for Exact Data Match
@@ -7372,7 +7375,7 @@ OracleDB Plugin for Exact Data Match
 ## Microsoft File Share Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/microsoft-file-share-plugin-for-exact-data-match/
 **Last Modified:** 2026-06-05T02:17:27+00:00
-**Scraped:** 2026-07-23T09:07:28.610611+00:00
+**Scraped:** 2026-07-24T09:03:05.689005+00:00
 
 Microsoft File Share Plugin for Exact Data Match - Netskope Knowledge Portal
 Microsoft File Share Plugin for Exact Data Match
@@ -7882,7 +7885,7 @@ Microsoft File Share Plugin for Exact Data Match
 ## MySQL Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/mysql-plugin-for-exact-data-match/
 **Last Modified:** 2026-06-05T02:27:05+00:00
-**Scraped:** 2026-07-23T09:07:29.854000+00:00
+**Scraped:** 2026-07-24T09:03:06.901257+00:00
 
 MySQL Plugin for Exact Data Match - Netskope Knowledge Portal
 MySQL Plugin for Exact Data Match
@@ -8215,7 +8218,7 @@ MySQL Plugin for Exact Data Match
 ## Microsoft SQL Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/microsoft-sql-plugin-for-exact-data-match/
 **Last Modified:** 2026-06-05T02:18:14+00:00
-**Scraped:** 2026-07-23T09:07:37.433115+00:00
+**Scraped:** 2026-07-24T09:03:21.361483+00:00
 
 Microsoft SQL Plugin for Exact Data Match - Netskope Knowledge Portal
 Microsoft SQL Plugin for Exact Data Match
@@ -8522,7 +8525,7 @@ Microsoft SQL Plugin for Exact Data Match
 ## Netskope EDM Forwarder/Receiver Plugin for Exact Data Match (Beta)
 **URL:** https://docs.netskope.com/en/netskope-edm-forwarder-receiver-plugin-for-exact-data-match/
 **Last Modified:** 2026-02-14T02:11:10+00:00
-**Scraped:** 2026-07-23T09:07:38.662707+00:00
+**Scraped:** 2026-07-24T09:03:22.557603+00:00
 
 Netskope EDM Forwarder/Receiver Plugin for Exact Data Match (Beta) - Netskope Knowledge Portal
 Netskope EDM Forwarder/Receiver Plugin for Exact Data Match (Beta)
@@ -8772,7 +8775,7 @@ Netskope EDM Forwarder/Receiver Plugin for Exact Data Match (Beta)
 ## Integrating with DLP on Demand
 **URL:** https://docs.netskope.com/en/integrating-with-dlp-on-demand/
 **Last Modified:** 2026-05-18T15:00:38+00:00
-**Scraped:** 2026-07-23T09:08:00.524158+00:00
+**Scraped:** 2026-07-24T09:03:43.721783+00:00
 
 Integrating with DLP on Demand - Netskope Knowledge Portal
 Integrating with DLP on Demand
@@ -8862,9 +8865,8 @@ Integrating with DLP on Demand
 ## DLP Policies for AI Traffic
 **URL:** https://docs.netskope.com/en/dlp-policies-for-ai-traffic/
 **Last Modified:** 2026-05-18T15:00:30+00:00
-**Scraped:** 2026-07-23T09:08:23.126966+00:00
+**Scraped:** 2026-07-24T09:04:05.389521+00:00
 
-DLP Policies for AI Traffic - Netskope Knowledge Portal
 DLP Policies for AI Traffic
 You can define a DLP policy by configuring traffic matches on various criteria. You can create policy groups and add multiple policies to the group. A default policy group is present.
 Create New DLP Policy Group
@@ -8943,7 +8945,7 @@ DLP Policies for AI Traffic
 ## Understanding the DSPM DLP Profiles & Rules Screen
 **URL:** https://docs.netskope.com/en/understanding-the-dspm-dlp-profiles-rules-screen/
 **Last Modified:** 2026-04-08T22:49:48+00:00
-**Scraped:** 2026-07-23T09:09:05.027567+00:00
+**Scraped:** 2026-07-24T09:04:45.419919+00:00
 
 Understanding the DSPM DLP Profiles & Rules Screen - Netskope Knowledge Portal
 Understanding the DSPM DLP Profiles & Rules Screen
@@ -9021,9 +9023,10 @@ Understanding the DSPM DLP Profiles & Rules Screen
 ---
 ## DLP AISecOps Agent
 **URL:** https://docs.netskope.com/en/aisecops-dlp-agent/
-**Last Modified:** 2026-07-16T20:08:20+00:00
-**Scraped:** 2026-07-23T09:09:14.946294+00:00
+**Last Modified:** 2026-07-23T19:16:29+00:00
+**Scraped:** 2026-07-24T09:04:54.939313+00:00
 
+DLP AISecOps Agent - Netskope Knowledge Portal
 DLP AISecOps Agent
 This feature is licensed. See your account executive or Netskope’s sales team to enable this feature in your tenant.
 The
@@ -9151,7 +9154,7 @@ DLP AISecOps Agent
 ## Granular Control and Data Loss Prevention (DLP)
 **URL:** https://docs.netskope.com/en/granular-control-and-data-loss-prevention-dlp/
 **Last Modified:** 2026-05-11T23:29:13+00:00
-**Scraped:** 2026-07-23T09:09:21.137015+00:00
+**Scraped:** 2026-07-24T09:05:00.922046+00:00
 
 Granular Control and Data Loss Prevention (DLP) - Netskope Knowledge Portal
 Granular Control and Data Loss Prevention (DLP)
@@ -9229,7 +9232,7 @@ Granular Control and Data Loss Prevention (DLP)
 ## Configure Exact Data Match Sharing (Beta)
 **URL:** https://docs.netskope.com/en/configure-exact-data-match-sharing/
 **Last Modified:** 2026-04-28T07:04:39+00:00
-**Scraped:** 2026-07-23T09:11:17.906029+00:00
+**Scraped:** 2026-07-24T09:06:53.774949+00:00
 
 Configure Exact Data Match Sharing (Beta) - Netskope Knowledge Portal
 Configure Exact Data Match Sharing (Beta)
@@ -9297,9 +9300,8 @@ Configure Exact Data Match Sharing (Beta)
 ## Exact Data Match Module (Beta)
 **URL:** https://docs.netskope.com/en/exact-data-match-module/
 **Last Modified:** 2026-04-28T07:05:13+00:00
-**Scraped:** 2026-07-23T09:11:21.523570+00:00
+**Scraped:** 2026-07-24T09:06:57.314791+00:00
 
-Exact Data Match Module (Beta) - Netskope Knowledge Portal
 Exact Data Match Module (Beta)
 The Exact Data Match (EDM) module is a part of Cloud Exchange’s Data Protection (DLP) suite, designed to help organizations protect structured sensitive data. It works by generating cryptographic hashes of structured data (like from CSV files or database queries) and securely shares these hashes with the Netskope Tenant. These hashes are used to create real-time DLP policies that prevent sensitive data from leaving your network.
 The module is designed exclusively for deployment within Standalone containers on RHEL and Ubuntu systems and is not supported on medium stack instances or high-availability (HA) clusters. These deployment restrictions are now enforced.
@@ -9329,8 +9331,9 @@ Exact Data Match Module (Beta)
 ## Predefined DLP Profiles for DSPM
 **URL:** https://docs.netskope.com/en/predefined-dlp-profiles-for-dspm/
 **Last Modified:** 2026-05-05T21:45:08+00:00
-**Scraped:** 2026-07-23T09:12:10.090597+00:00
+**Scraped:** 2026-07-24T09:07:44.209933+00:00
 
+Predefined DLP Profiles for DSPM - Netskope Knowledge Portal
 Predefined DLP Profiles for DSPM
 Overview
 The DSPM Discovery Profile includes a set of predefined Data Loss Prevention (DLP) Profiles covering common regulatory and compliance frameworks. Each profile contains:
@@ -9666,7 +9669,7 @@ Predefined DLP Profiles for DSPM
 ## Troubleshooting DSPM with DLP
 **URL:** https://docs.netskope.com/en/troubleshooting-dspm-with-dlp/
 **Last Modified:** 2026-06-18T22:55:31+00:00
-**Scraped:** 2026-07-23T09:12:25.883118+00:00
+**Scraped:** 2026-07-24T09:08:00.272210+00:00
 
 Troubleshooting DSPM with DLP - Netskope Knowledge Portal
 Troubleshooting DSPM with DLP
@@ -9760,7 +9763,7 @@ Troubleshooting DSPM with DLP
 ## Deploy the DLP Appliance for DSPM
 **URL:** https://docs.netskope.com/en/deploy-the-dlp-appliance-for-dspm/
 **Last Modified:** 2026-06-18T22:52:44+00:00
-**Scraped:** 2026-07-23T09:12:27.138370+00:00
+**Scraped:** 2026-07-24T09:08:01.495776+00:00
 
 Deploy the DLP Appliance for DSPM - Netskope Knowledge Portal
 Deploy the DLP Appliance for DSPM
@@ -10242,7 +10245,7 @@ Deploy the DLP Appliance for DSPM
 ## SMB File Share Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/smb-file-share-plugin-for-exact-data-match/
 **Last Modified:** 2026-06-05T02:16:21+00:00
-**Scraped:** 2026-07-23T09:12:48.335523+00:00
+**Scraped:** 2026-07-24T09:08:22.396252+00:00
 
 SMB File Share Plugin for Exact Data Match - Netskope Knowledge Portal
 SMB File Share Plugin for Exact Data Match
@@ -10644,7 +10647,7 @@ SMB File Share Plugin for Exact Data Match
 ## DLP Entity
 **URL:** https://docs.netskope.com/en/dlp-entity/
 **Last Modified:** 2026-06-25T19:14:24+00:00
-**Scraped:** 2026-07-23T09:13:29.415531+00:00
+**Scraped:** 2026-07-24T09:09:01.891256+00:00
 
 DLP Entity - Netskope Knowledge Portal
 DLP Entity
@@ -10829,9 +10832,8 @@ DLP Entity
 ## Data Loss Prevention
 **URL:** https://docs.netskope.com/en/data-loss-prevention/
 **Last Modified:** 2026-02-18T21:53:34+00:00
-**Scraped:** 2026-07-23T09:14:24.934156+00:00
+**Scraped:** 2026-07-24T09:09:55.148003+00:00
 
-Data Loss Prevention - Netskope Knowledge Portal
 Data Loss Prevention
 The definition of
 Data Loss Prevention
@@ -10855,7 +10857,7 @@ Data Loss Prevention
 ## DLP On Demand Appliance
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance-2/
 **Last Modified:** 2026-04-22T19:31:04+00:00
-**Scraped:** 2026-07-23T09:15:21.906809+00:00
+**Scraped:** 2026-07-24T09:10:52.525517+00:00
 
 DLP On Demand Appliance - Netskope Knowledge Portal
 DLP On Demand Appliance
@@ -10866,7 +10868,7 @@ DLP On Demand Appliance
 ## AI Security Ops
 **URL:** https://docs.netskope.com/en/ai-security-ops-dlp-agent/
 **Last Modified:** 2026-07-17T22:18:13+00:00
-**Scraped:** 2026-07-23T09:15:25.521949+00:00
+**Scraped:** 2026-07-24T09:10:56.033523+00:00
 
 AI Security Ops - Netskope Knowledge Portal
 AI Security Ops
@@ -10877,7 +10879,7 @@ AI Security Ops
 ## DLP On Demand Appliance Release Notes Version - 135.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-dlp-on-demand-appliance-135/
 **Last Modified:** 2026-03-30T23:51:43+00:00
-**Scraped:** 2026-07-23T09:33:34.571097+00:00
+**Scraped:** 2026-07-24T09:28:33.181542+00:00
 
 DLP On Demand Appliance Release Notes Version - 135.0.0 - Netskope Knowledge Portal
 DLP On Demand Appliance Release Notes Version - 135.0.0
@@ -10890,7 +10892,7 @@ Fixed Issues
 ## DLP On Demand Appliance Release Notes Version - 135.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-dlp-on-demand-appliance-135/
 **Last Modified:** 2026-03-30T23:52:04+00:00
-**Scraped:** 2026-07-23T09:33:35.903708+00:00
+**Scraped:** 2026-07-24T09:28:34.353031+00:00
 
 DLP On Demand Appliance Release Notes Version - 135.0.0 - Netskope Knowledge Portal
 DLP On Demand Appliance Release Notes Version - 135.0.0
@@ -10903,7 +10905,7 @@ Fixed Issues
 ## DLP On Demand Appliance Release Notes Version - 135.0.0
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance-release-notes-version-135/
 **Last Modified:** 2026-03-31T02:26:52+00:00
-**Scraped:** 2026-07-23T09:33:37.107254+00:00
+**Scraped:** 2026-07-24T09:28:35.522055+00:00
 
 DLP On Demand Appliance Release Notes Version - 135.0.0 - Netskope Knowledge Portal
 DLP On Demand Appliance Release Notes Version - 135.0.0
@@ -10916,7 +10918,7 @@ Fixed Issues
 ## AI Security Ops Release Notes Version - March 2026
 **URL:** https://docs.netskope.com/en/ai-security-ops-dlp-agent-release-notes-version-136-1/
 **Last Modified:** 2026-07-17T21:10:48+00:00
-**Scraped:** 2026-07-23T09:34:07.589813+00:00
+**Scraped:** 2026-07-24T09:29:05.297945+00:00
 
 AI Security Ops Release Notes Version - March 2026 - Netskope Knowledge Portal
 AI Security Ops Release Notes Version - March 2026
@@ -10943,7 +10945,7 @@ Provides comprehensive Triage, Investigate, and Respond workflows, including the
 ## DLP On Demand Appliance Release Notes Version - 139.0.0
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance-release-notes-version-139-0-0-0-0/
 **Last Modified:** 2026-07-06T22:14:18+00:00
-**Scraped:** 2026-07-23T09:35:42.773474+00:00
+**Scraped:** 2026-07-24T09:30:37.073743+00:00
 
 DLP On Demand Appliance Release Notes Version - 139.0.0 - Netskope Knowledge Portal
 DLP On Demand Appliance Release Notes Version - 139.0.0
