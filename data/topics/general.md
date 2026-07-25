@@ -1,13 +1,14 @@
 # Netskope Docs — General
-_Generated: 2026-07-24 09:30 UTC_
+_Generated: 2026-07-25 09:10 UTC_
 _Pages: 2173_
 
 ---
 ## Add Bypasses in Netskope
 **URL:** https://docs.netskope.com/en/add-bypasses-in-netskope/
 **Last Modified:** 2025-09-18T10:56:27+00:00
-**Scraped:** 2026-07-24T08:20:58.632848+00:00
+**Scraped:** 2026-07-25T08:01:03.359184+00:00
 
+Add Bypasses in Netskope - Netskope Knowledge Portal
 Add Bypasses in Netskope
 There are two types of bypasses when it comes to Netskope: Steering Bypasses and SSL Bypasses.
 Bypass Types
@@ -152,8 +153,9 @@ Add Bypasses in Netskope
 ## Alert/block upon detection of password protected files
 **URL:** https://docs.netskope.com/en/alert-block-upon-detection-of-password-protected-files/
 **Last Modified:** 2026-06-25T19:32:38+00:00
-**Scraped:** 2026-07-24T08:21:00.979262+00:00
+**Scraped:** 2026-07-25T08:01:05.711577+00:00
 
+Alert/block upon detection of password protected files - Netskope Knowledge Portal
 Alert/block upon detection of password protected files
 To create inline policies that are meant to block upon detection of password protected files, follow the steps as shown below:
 Navigate to
@@ -180,7 +182,7 @@ Alert/block upon detection of password protected files
 ## Alert when a file is made public
 **URL:** https://docs.netskope.com/en/alert-when-a-file-is-made-public/
 **Last Modified:** 2025-09-01T12:56:43+00:00
-**Scraped:** 2026-07-24T08:21:02.190860+00:00
+**Scraped:** 2026-07-25T08:01:06.885223+00:00
 
 Alert when a file is made public - Netskope Knowledge Portal
 Alert when a file is made public
@@ -203,7 +205,7 @@ Alert when a file is made public
 ## Alert when a file is shared with large number of users (internal/external)
 **URL:** https://docs.netskope.com/en/alert-when-a-file-is-shared-with-large-number-of-users-internal-external/
 **Last Modified:** 2025-09-01T12:56:33+00:00
-**Scraped:** 2026-07-24T08:21:03.366548+00:00
+**Scraped:** 2026-07-25T08:01:08.081069+00:00
 
 Alert when a file is shared with large number of users (internal/external) - Netskope Knowledge Portal
 Alert when a file is shared with large number of users (internal/external)
@@ -226,7 +228,7 @@ Alert when a file is shared with large number of users (internal/external)
 ## Alert on all activities accessing a managed service via reverse proxy
 **URL:** https://docs.netskope.com/en/alert-on-all-activities-accessing-a-managed-service-via-reverse-proxy/
 **Last Modified:** 2025-08-31T01:51:05+00:00
-**Scraped:** 2026-07-24T08:21:04.538730+00:00
+**Scraped:** 2026-07-25T08:01:09.255841+00:00
 
 Alert on all activities accessing a managed service via reverse proxy - Netskope Knowledge Portal
 Alert on all activities accessing a managed service via reverse proxy
@@ -237,7 +239,7 @@ Alert on all activities accessing a managed service via reverse proxy
 ## Alert when a file is externally shared
 **URL:** https://docs.netskope.com/en/alert-when-a-file-is-externally-shared/
 **Last Modified:** 2025-09-01T12:56:43+00:00
-**Scraped:** 2026-07-24T08:21:05.714208+00:00
+**Scraped:** 2026-07-25T08:01:10.432619+00:00
 
 Alert when a file is externally shared - Netskope Knowledge Portal
 Alert when a file is externally shared
@@ -260,7 +262,7 @@ Alert when a file is externally shared
 ## Alert when a file is shared with specific groups
 **URL:** https://docs.netskope.com/en/alert-when-a-file-is-shared-with-specific-groups/
 **Last Modified:** 2025-09-01T12:56:35+00:00
-**Scraped:** 2026-07-24T08:21:06.893689+00:00
+**Scraped:** 2026-07-25T08:01:11.608337+00:00
 
 Alert when a file is shared with specific groups - Netskope Knowledge Portal
 Alert when a file is shared with specific groups
@@ -283,7 +285,7 @@ Alert when a file is shared with specific groups
 ## Allow access to a sanctioned instance of a supported corporate app
 **URL:** https://docs.netskope.com/en/allow-access-to-a-sanctioned-instance-of-a-supported-corporate-app/
 **Last Modified:** 2025-09-01T12:57:13+00:00
-**Scraped:** 2026-07-24T08:21:08.064406+00:00
+**Scraped:** 2026-07-25T08:01:12.781374+00:00
 
 Allow access to a sanctioned instance of a supported corporate app - Netskope Knowledge Portal
 Allow access to a sanctioned instance of a supported corporate app
@@ -310,7 +312,7 @@ Allow access to a sanctioned instance of a supported corporate app
 ## Allow access to a sanctioned application based on app tag
 **URL:** https://docs.netskope.com/en/allow-access-to-a-sanctioned-application-based-on-app-tag/
 **Last Modified:** 2025-09-01T12:57:16+00:00
-**Scraped:** 2026-07-24T08:21:09.237731+00:00
+**Scraped:** 2026-07-25T08:01:13.950784+00:00
 
 Allow access to a sanctioned application based on app tag - Netskope Knowledge Portal
 Allow access to a sanctioned application based on app tag
@@ -341,7 +343,7 @@ Allow access to a sanctioned application based on app tag
 ## Analyze and report on using corporate credentials on non-sanctioned apps
 **URL:** https://docs.netskope.com/en/analyze-and-report-on-using-corporate-credentials-on-non-sanctioned-apps/
 **Last Modified:** 2025-09-01T13:08:43+00:00
-**Scraped:** 2026-07-24T08:21:10.409612+00:00
+**Scraped:** 2026-07-25T08:01:15.125911+00:00
 
 Analyze and report on using corporate credentials on non-sanctioned apps - Netskope Knowledge Portal
 Analyze and report on using corporate credentials on non-sanctioned apps
@@ -360,7 +362,7 @@ Analyze and report on using corporate credentials on non-sanctioned apps
 ## Analyze user activity, such as uploads or posts, in cloud apps that create or shares content
 **URL:** https://docs.netskope.com/en/analyze-user-activity-such-as-uploads-or-posts-in-cloud-apps-that-create-or-shares-content/
 **Last Modified:** 2025-09-01T13:08:42+00:00
-**Scraped:** 2026-07-24T08:21:11.588265+00:00
+**Scraped:** 2026-07-25T08:01:16.300544+00:00
 
 Analyze user activity, such as uploads or posts, in cloud apps that create or shares content - Netskope Knowledge Portal
 Analyze user activity, such as uploads or posts, in cloud apps that create or shares content
@@ -382,8 +384,9 @@ Analyze user activity, such as uploads or posts, in cloud apps that create or sh
 ## API Protection (Managed App Activities) use cases
 **URL:** https://docs.netskope.com/en/api-protection-managed-app-activities-use-cases/
 **Last Modified:** 2025-09-01T12:58:18+00:00
-**Scraped:** 2026-07-24T08:21:17.547351+00:00
+**Scraped:** 2026-07-25T08:01:22.379769+00:00
 
+API Protection (Managed App Activities) use cases - Netskope Knowledge Portal
 API Protection (Managed App Activities) use cases
 Here are some widely used real world use cases that will address your organization’s API Protection (Managed App Activities) needs.
 Use Case #
@@ -447,8 +450,9 @@ API Protection (Managed App Activities) use cases
 ## API (Protection for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-protection-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:30+00:00
-**Scraped:** 2026-07-24T08:21:18.700869+00:00
+**Scraped:** 2026-07-25T08:01:23.550664+00:00
 
+API (Protection for Managed App Activities) - Netskope Knowledge Portal
 API (Protection for Managed App Activities)
 This section outlines specific use cases to protect managed app activities. Check back because new use cases are added periodically.
 Create a policy to allow sharing with approved external users
@@ -461,8 +465,9 @@ API (Protection for Managed App Activities)
 ## API Protection features
 **URL:** https://docs.netskope.com/en/api-protection-features/
 **Last Modified:** 2025-09-01T12:58:16+00:00
-**Scraped:** 2026-07-24T08:21:19.869058+00:00
+**Scraped:** 2026-07-25T08:01:24.720861+00:00
 
+API Protection features - Netskope Knowledge Portal
 API Protection features
 Quarantined Profile: defines which repository is to be used for quarantined files and if any custom tombstone files will be used.  Quarantined files are moved to the specified repository and replaced by a tombstone file (placeholder).  Once quarantined, files can be downloaded for inspection, encrypted, restored or permanently deleted pending outcome of incident analysis.
 Forensic profile: determines where the DLP Incident metadata is stored.  Each zip file contains the extracted text from the document and incident violation details.
@@ -474,8 +479,9 @@ API Protection features
 ## API Protection Dashboard
 **URL:** https://docs.netskope.com/en/api-protection-dashboard/
 **Last Modified:** 2025-09-01T12:58:15+00:00
-**Scraped:** 2026-07-24T08:21:21.137766+00:00
+**Scraped:** 2026-07-25T08:01:25.893941+00:00
 
+API Protection Dashboard - Netskope Knowledge Portal
 API Protection Dashboard
 API Protection Dashboard provides overall visibility into your API Protection instance. It will list total files, number of users and type, file exposure, file types and, if configured, files that violate DLP policiesFile information is not stored, only the metadata required to render the displayed information.
 Metadata includes the following:
@@ -492,8 +498,9 @@ API Protection Dashboard
 ## Apply policies based on the application instance
 **URL:** https://docs.netskope.com/en/apply-policies-based-on-the-application-instance/
 **Last Modified:** 2025-09-01T13:08:36+00:00
-**Scraped:** 2026-07-24T08:21:22.313364+00:00
+**Scraped:** 2026-07-25T08:01:27.068959+00:00
 
+Apply policies based on the application instance - Netskope Knowledge Portal
 Apply policies based on the application instance
 To apply inline policies based on security needs and various constraints such as AD/user groups/Organizational unit, Source of traffic/Trusted or untrusted, networks/Forward or reverse proxy, Application instance, Constraint profile or augmenting authentication (Multifactor authentication),  follow the steps as shown below:
 Navigate to
@@ -528,8 +535,9 @@ Apply policies based on the application instance
 ## API Protection scans
 **URL:** https://docs.netskope.com/en/api-protection-scans/
 **Last Modified:** 2025-09-01T12:58:17+00:00
-**Scraped:** 2026-07-24T08:21:23.482594+00:00
+**Scraped:** 2026-07-25T08:01:28.343829+00:00
 
+API Protection scans - Netskope Knowledge Portal
 API Protection scans
 API Protection utilizes two different types of DLP Scans to provide visibility and controls.
 Ongoing Scan: Activates once a policy is defined for the instance AND when a file/action matches the policy scope
@@ -546,8 +554,9 @@ API Protection scans
 ## Apply policies based on the constraint profile
 **URL:** https://docs.netskope.com/en/apply-policies-based-on-the-constraint-profile/
 **Last Modified:** 2025-09-01T13:08:37+00:00
-**Scraped:** 2026-07-24T08:21:25.828179+00:00
+**Scraped:** 2026-07-25T08:01:30.679696+00:00
 
+Apply policies based on the constraint profile - Netskope Knowledge Portal
 Apply policies based on the constraint profile
 To apply inline policies based on security needs and various constraints such as AD/user groups/Organizational unit, Source of traffic/Trusted or untrusted, networks/Forward or reverse proxy, Application instance, Constraint profile or augmenting authentication (Multifactor authentication),  follow the steps as shown below:
 Navigate to
@@ -582,7 +591,7 @@ Apply policies based on the constraint profile
 ## Apply policies to enforce step up authentication as required
 **URL:** https://docs.netskope.com/en/apply-policies-to-enforce-step-up-authentication-as-required/
 **Last Modified:** 2025-09-01T13:08:38+00:00
-**Scraped:** 2026-07-24T08:21:28.277724+00:00
+**Scraped:** 2026-07-25T08:01:33.025436+00:00
 
 Apply policies to enforce step up authentication as required - Netskope Knowledge Portal
 Apply policies to enforce step up authentication as required
@@ -619,7 +628,7 @@ Apply policies to enforce step up authentication as required
 ## Architectural Advantage Features
 **URL:** https://docs.netskope.com/en/architectural-advantage-features/
 **Last Modified:** 2025-08-31T01:51:01+00:00
-**Scraped:** 2026-07-24T08:21:30.621277+00:00
+**Scraped:** 2026-07-25T08:01:35.368954+00:00
 
 Architectural Advantage Features - Netskope Knowledge Portal
 Architectural Advantage Features
@@ -636,7 +645,7 @@ Architectural Advantage Features
 ## Block risky activities to Low / Poor CCL apps
 **URL:** https://docs.netskope.com/en/block-risky-activities-to-low-poor-ccl-apps/
 **Last Modified:** 2025-08-31T01:51:52+00:00
-**Scraped:** 2026-07-24T08:21:31.793800+00:00
+**Scraped:** 2026-07-25T08:01:36.542562+00:00
 
 Block risky activities to Low / Poor CCL apps - Netskope Knowledge Portal
 Block risky activities to Low / Poor CCL apps
@@ -677,7 +686,7 @@ Block risky activities to Low / Poor CCL apps
 ## Auto Remediation
 **URL:** https://docs.netskope.com/en/auto-remediation/
 **Last Modified:** 2025-08-31T01:51:14+00:00
-**Scraped:** 2026-07-24T08:21:34.121361+00:00
+**Scraped:** 2026-07-25T08:01:38.890296+00:00
 
 Auto Remediation - Netskope Knowledge Portal
 Auto Remediation
@@ -701,8 +710,9 @@ Auto Remediation
 ## Block risky activities to Unsanctioned/non-IT purchased apps
 **URL:** https://docs.netskope.com/en/block-risky-activities-to-unsanctioned-non-it-purchased-apps/
 **Last Modified:** 2025-09-01T12:57:17+00:00
-**Scraped:** 2026-07-24T08:21:35.292329+00:00
+**Scraped:** 2026-07-25T08:01:40.063021+00:00
 
+Block risky activities to Unsanctioned/non-IT purchased apps - Netskope Knowledge Portal
 Block risky activities to Unsanctioned/non-IT purchased apps
 To create inline policies that are meant to block risky activities in Unsanctioned/non-IT purchased apps, follow the steps as shown below:
 Navigate to
@@ -743,7 +753,7 @@ Block risky activities to Unsanctioned/non-IT purchased apps
 ## Blocking Online Ads Silently
 **URL:** https://docs.netskope.com/en/blocking-online-ads-silently/
 **Last Modified:** 2025-08-31T01:51:21+00:00
-**Scraped:** 2026-07-24T08:21:36.472227+00:00
+**Scraped:** 2026-07-25T08:01:41.337454+00:00
 
 Blocking Online Ads Silently - Netskope Knowledge Portal
 Blocking Online Ads Silently
@@ -779,7 +789,7 @@ Blocking Online Ads Silently
 ## Bypass Netskope from your VPN
 **URL:** https://docs.netskope.com/en/bypass-netskope-from-your-vpn/
 **Last Modified:** 2025-08-31T01:50:48+00:00
-**Scraped:** 2026-07-24T08:21:37.641355+00:00
+**Scraped:** 2026-07-25T08:01:42.495281+00:00
 
 Bypass Netskope from your VPN - Netskope Knowledge Portal
 Bypass Netskope from your VPN
@@ -802,7 +812,7 @@ Bypass Netskope from your VPN
 ## Block unmanaged devices from malicious files uploaded or downloaded from our sanctioned apps
 **URL:** https://docs.netskope.com/en/block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps/
 **Last Modified:** 2025-08-31T01:51:06+00:00
-**Scraped:** 2026-07-24T08:21:41.129067+00:00
+**Scraped:** 2026-07-25T08:01:46.012594+00:00
 
 Block unmanaged devices from malicious files uploaded or downloaded from our sanctioned apps - Netskope Knowledge Portal
 Block unmanaged devices from malicious files uploaded or downloaded from our sanctioned apps
@@ -839,7 +849,7 @@ Block unmanaged devices from malicious files uploaded or downloaded from our san
 ## Coach users away from unsanctioned applications and allow justification of required use
 **URL:** https://docs.netskope.com/en/coach-users-away-from-unsanctioned-applications-and-allow-justification-of-required-use/
 **Last Modified:** 2025-08-31T01:51:53+00:00
-**Scraped:** 2026-07-24T08:21:42.302153+00:00
+**Scraped:** 2026-07-25T08:01:47.186367+00:00
 
 Coach users away from unsanctioned applications and allow justification of required use - Netskope Knowledge Portal
 Coach users away from unsanctioned applications and allow justification of required use
@@ -881,8 +891,9 @@ Coach users away from unsanctioned applications and allow justification of requi
 ## Cloud Inline Protection
 **URL:** https://docs.netskope.com/en/cloud-inline-protection/
 **Last Modified:** 2025-08-31T01:51:44+00:00
-**Scraped:** 2026-07-24T08:21:43.468213+00:00
+**Scraped:** 2026-07-25T08:01:48.354338+00:00
 
+Cloud Inline Protection - Netskope Knowledge Portal
 Cloud Inline Protection
 Inline monitoring for Cloud apps
 Inline protection of Cloud apps
@@ -893,7 +904,7 @@ Cloud Inline Protection
 ## Control AWS apps using Instance IDs
 **URL:** https://docs.netskope.com/en/control-aws-apps-using-instance-ids/
 **Last Modified:** 2025-08-31T01:51:27+00:00
-**Scraped:** 2026-07-24T08:21:44.639011+00:00
+**Scraped:** 2026-07-25T08:01:49.620362+00:00
 
 Control AWS apps using Instance IDs - Netskope Knowledge Portal
 Control AWS apps using Instance IDs
@@ -916,7 +927,7 @@ Control AWS apps using Instance IDs
 ## Create a list of externally shared documents stored in an API-Protected service
 **URL:** https://docs.netskope.com/en/create-a-list-of-externally-shared-documents-stored-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T13:15:06+00:00
-**Scraped:** 2026-07-24T08:21:48.167288+00:00
+**Scraped:** 2026-07-25T08:01:53.159411+00:00
 
 Create a list of externally shared documents stored in an API-Protected service - Netskope Knowledge Portal
 Create a list of externally shared documents stored in an API-Protected service
@@ -947,7 +958,7 @@ Create a list of externally shared documents stored in an API-Protected service
 ## Create a list of publicly accessible documents in an API-Protected service
 **URL:** https://docs.netskope.com/en/create-a-list-of-publicly-accessible-documents-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T12:58:21+00:00
-**Scraped:** 2026-07-24T08:21:50.613854+00:00
+**Scraped:** 2026-07-25T08:01:55.600658+00:00
 
 Create a list of publicly accessible documents in an API-Protected service - Netskope Knowledge Portal
 Create a list of publicly accessible documents in an API-Protected service
@@ -978,7 +989,7 @@ Create a list of publicly accessible documents in an API-Protected service
 ## Create a list of private documents stored in an API-Protected service
 **URL:** https://docs.netskope.com/en/create-a-list-of-private-documents-stored-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T13:15:09+00:00
-**Scraped:** 2026-07-24T08:21:51.789383+00:00
+**Scraped:** 2026-07-25T08:01:56.777264+00:00
 
 Create a list of private documents stored in an API-Protected service - Netskope Knowledge Portal
 Create a list of private documents stored in an API-Protected service
@@ -1009,7 +1020,7 @@ Create a list of private documents stored in an API-Protected service
 ## Create a list of executable or other files stored in an API-Protected service
 **URL:** https://docs.netskope.com/en/create-a-list-of-executable-or-other-files-stored-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T13:13:52+00:00
-**Scraped:** 2026-07-24T08:21:52.959523+00:00
+**Scraped:** 2026-07-25T08:01:57.951702+00:00
 
 Create a list of executable or other files stored in an API-Protected service - Netskope Knowledge Portal
 Create a list of executable or other files stored in an API-Protected service
@@ -1040,7 +1051,7 @@ Create a list of executable or other files stored in an API-Protected service
 ## Create a list of users with most public files stored in an API-protected service
 **URL:** https://docs.netskope.com/en/create-a-list-of-users-with-most-public-files-stored-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T13:13:54+00:00
-**Scraped:** 2026-07-24T08:21:54.131287+00:00
+**Scraped:** 2026-07-25T08:01:59.125703+00:00
 
 Create a list of users with most public files stored in an API-protected service - Netskope Knowledge Portal
 Create a list of users with most public files stored in an API-protected service
@@ -1071,7 +1082,7 @@ Create a list of users with most public files stored in an API-protected service
 ## Create a list of users with non-expiring links to files stored in an API-Protected service
 **URL:** https://docs.netskope.com/en/create-a-list-of-users-with-non-expiring-links-to-files-stored-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T13:13:55+00:00
-**Scraped:** 2026-07-24T08:21:55.420193+00:00
+**Scraped:** 2026-07-25T08:02:00.496872+00:00
 
 Create a list of users with non-expiring links to files stored in an API-Protected service - Netskope Knowledge Portal
 Create a list of users with non-expiring links to files stored in an API-Protected service
@@ -1102,8 +1113,9 @@ Create a list of users with non-expiring links to files stored in an API-Protect
 ## Create a policy to block sharing with identified external users
 **URL:** https://docs.netskope.com/en/create-a-policy-to-block-sharing-with-identified-external-users/
 **Last Modified:** 2025-09-01T13:11:28+00:00
-**Scraped:** 2026-07-24T08:21:56.924958+00:00
+**Scraped:** 2026-07-25T08:02:01.695520+00:00
 
+Create a policy to block sharing with identified external users - Netskope Knowledge Portal
 Create a policy to block sharing with identified external users
 Prerequisites for the API protection use cases
 Roles/actors using the use cases
@@ -1170,7 +1182,7 @@ Create a policy to block sharing with identified external users
 ## Create a policy to allow sharing with approved external users
 **URL:** https://docs.netskope.com/en/create-a-policy-to-allow-sharing-with-approved-external-users/
 **Last Modified:** 2025-09-01T13:11:23+00:00
-**Scraped:** 2026-07-24T08:21:58.111788+00:00
+**Scraped:** 2026-07-25T08:02:02.869150+00:00
 
 Create a policy to allow sharing with approved external users
 Prerequisites for the API protection use cases
@@ -1238,7 +1250,7 @@ Create a policy to allow sharing with approved external users
 ## Create a policy to alert or block sharing of sensitive data with external Teams
 **URL:** https://docs.netskope.com/en/create-a-policy-to-alert-or-block-sharing-of-sensitive-data-with-external-teams/
 **Last Modified:** 2025-09-01T12:58:19+00:00
-**Scraped:** 2026-07-24T08:21:59.346716+00:00
+**Scraped:** 2026-07-25T08:02:04.140446+00:00
 
 Create a policy to alert or block sharing of sensitive data with external Teams - Netskope Knowledge Portal
 Create a policy to alert or block sharing of sensitive data with external Teams
@@ -1267,8 +1279,9 @@ Create a policy to alert or block sharing of sensitive data with external Teams
 ## Create a policy to identify sensitive data in specific locations (public, external or non-approved groups)
 **URL:** https://docs.netskope.com/en/create-a-policy-to-identify-sensitive-data-in-specific-locations-public-external-or-non-approved-groups/
 **Last Modified:** 2025-09-01T12:58:19+00:00
-**Scraped:** 2026-07-24T08:22:00.573677+00:00
+**Scraped:** 2026-07-25T08:02:05.324093+00:00
 
+Create a policy to identify sensitive data in specific locations (public, external or non-approved groups) - Netskope Knowledge Portal
 Create a policy to identify sensitive data in specific locations (public, external or non-approved groups)
 Prerequisites for the API protection use cases
 Roles/actors in the use cases
@@ -1300,7 +1313,7 @@ Create a policy to identify sensitive data in specific locations (public, extern
 ## Create a policy to identify and modify internal and external sharing
 **URL:** https://docs.netskope.com/en/create-a-policy-to-identify-and-modify-internal-and-external-sharing/
 **Last Modified:** 2025-09-01T13:11:28+00:00
-**Scraped:** 2026-07-24T08:22:01.810318+00:00
+**Scraped:** 2026-07-25T08:02:06.600982+00:00
 
 Create a policy to identify and modify internal and external sharing - Netskope Knowledge Portal
 Create a policy to identify and modify internal and external sharing
@@ -1369,8 +1382,9 @@ Create a policy to identify and modify internal and external sharing
 ## Create a policy to find encrypted or password protected files
 **URL:** https://docs.netskope.com/en/create-a-policy-to-find-encrypted-or-password-protected-files/
 **Last Modified:** 2025-09-01T12:58:20+00:00
-**Scraped:** 2026-07-24T08:22:02.984993+00:00
+**Scraped:** 2026-07-25T08:02:07.775149+00:00
 
+Create a policy to find encrypted or password protected files - Netskope Knowledge Portal
 Create a policy to find encrypted or password protected files
 Prerequisites for the API protection use cases
 Roles/actors in the use cases
@@ -1396,7 +1410,7 @@ Create a policy to find encrypted or password protected files
 ## Create and apply a legal hold policy if required
 **URL:** https://docs.netskope.com/en/create-and-apply-a-legal-hold-policy-if-required/
 **Last Modified:** 2025-09-01T12:58:21+00:00
-**Scraped:** 2026-07-24T08:22:04.257983+00:00
+**Scraped:** 2026-07-25T08:02:08.950034+00:00
 
 Create and apply a legal hold policy if required - Netskope Knowledge Portal
 Create and apply a legal hold policy if required
@@ -1424,7 +1438,7 @@ Create and apply a legal hold policy if required
 ## Create and Validate a Security Policy
 **URL:** https://docs.netskope.com/en/create-and-validate-a-security-policy/
 **Last Modified:** 2025-08-31T01:50:52+00:00
-**Scraped:** 2026-07-24T08:22:05.526991+00:00
+**Scraped:** 2026-07-25T08:02:10.232198+00:00
 
 Create and Validate a Security Policy - Netskope Knowledge Portal
 Create and Validate a Security Policy
@@ -1554,7 +1568,7 @@ Create and Validate a Security Policy
 ## CSPM Scans on AWS Accounts
 **URL:** https://docs.netskope.com/en/cspm-scans-on-aws-accounts/
 **Last Modified:** 2025-08-31T01:51:09+00:00
-**Scraped:** 2026-07-24T08:22:09.138822+00:00
+**Scraped:** 2026-07-25T08:02:13.743514+00:00
 
 CSPM Scans on AWS Accounts - Netskope Knowledge Portal
 CSPM Scans on AWS Accounts
@@ -1576,7 +1590,7 @@ CSPM Scans on AWS Accounts
 ## Create reports on activity or incidents in an API-Protected service
 **URL:** https://docs.netskope.com/en/create-reports-on-activity-or-incidents-in-an-api-protected-service/
 **Last Modified:** 2025-09-01T13:13:56+00:00
-**Scraped:** 2026-07-24T08:22:10.314913+00:00
+**Scraped:** 2026-07-25T08:02:14.914934+00:00
 
 Create reports on activity or incidents in an API-Protected service - Netskope Knowledge Portal
 Create reports on activity or incidents in an API-Protected service
@@ -1606,7 +1620,7 @@ Create reports on activity or incidents in an API-Protected service
 ## CSPM Scans on Azure Accounts
 **URL:** https://docs.netskope.com/en/cspm-scans-on-azure-accounts/
 **Last Modified:** 2025-08-31T01:51:10+00:00
-**Scraped:** 2026-07-24T08:22:11.492204+00:00
+**Scraped:** 2026-07-25T08:02:16.086956+00:00
 
 CSPM Scans on Azure Accounts - Netskope Knowledge Portal
 CSPM Scans on Azure Accounts
@@ -1628,9 +1642,8 @@ CSPM Scans on Azure Accounts
 ## Deployment Options
 **URL:** https://docs.netskope.com/en/deployment-options/
 **Last Modified:** 2025-08-31T01:50:46+00:00
-**Scraped:** 2026-07-24T08:22:12.650989+00:00
+**Scraped:** 2026-07-25T08:02:17.343862+00:00
 
-Deployment Options - Netskope Knowledge Portal
 Deployment Options
 Netskope deployment options support any use case, from an API only deployment mode to several real-time options.
 Top Use Cases at a Glance
@@ -1650,9 +1663,8 @@ Deployment Options
 ## CSPM Scans on GCP Accounts
 **URL:** https://docs.netskope.com/en/cspm-scans-on-gcp-accounts/
 **Last Modified:** 2025-08-31T01:51:10+00:00
-**Scraped:** 2026-07-24T08:22:15.094691+00:00
+**Scraped:** 2026-07-25T08:02:19.677240+00:00
 
-CSPM Scans on GCP Accounts - Netskope Knowledge Portal
 CSPM Scans on GCP Accounts
 A CSPM scan would ensure that your environment is assessed and measured against compliances, benchmarks and best practices to determine if there are potentially exploitable misconfigurations.
 A quick view of the compliances, benchmarks and best practices is shown below:
@@ -1672,8 +1684,9 @@ CSPM Scans on GCP Accounts
 ## Encryption and Tokenization Features
 **URL:** https://docs.netskope.com/en/encryption-and-tokenization-features/
 **Last Modified:** 2025-08-31T01:51:00+00:00
-**Scraped:** 2026-07-24T08:22:19.893445+00:00
+**Scraped:** 2026-07-25T08:02:24.356377+00:00
 
+Encryption and Tokenization Features - Netskope Knowledge Portal
 Encryption and Tokenization Features
 Feature
 Description
@@ -1690,7 +1703,7 @@ Encryption and Tokenization Features
 ## Filtering Top Level Domains
 **URL:** https://docs.netskope.com/en/filtering-top-level-domains/
 **Last Modified:** 2025-08-31T01:51:21+00:00
-**Scraped:** 2026-07-24T08:22:23.505034+00:00
+**Scraped:** 2026-07-25T08:02:27.971706+00:00
 
 Filtering Top Level Domains - Netskope Knowledge Portal
 Filtering Top Level Domains
@@ -1718,7 +1731,7 @@ Filtering Top Level Domains
 ## IaaS - Monitor
 **URL:** https://docs.netskope.com/en/iaas-monitor/
 **Last Modified:** 2025-10-28T11:02:32+00:00
-**Scraped:** 2026-07-24T08:22:24.782929+00:00
+**Scraped:** 2026-07-25T08:02:29.146470+00:00
 
 IaaS - Monitor - Netskope Knowledge Portal
 IaaS - Monitor
@@ -1774,7 +1787,7 @@ IaaS - Monitor
 ## IaaS - Protect
 **URL:** https://docs.netskope.com/en/iaas-protect/
 **Last Modified:** 2025-10-28T11:03:06+00:00
-**Scraped:** 2026-07-24T08:22:25.954838+00:00
+**Scraped:** 2026-07-25T08:02:30.320500+00:00
 
 IaaS - Protect - Netskope Knowledge Portal
 IaaS - Protect
@@ -1810,7 +1823,7 @@ IaaS - Protect
 ## HTTP Header Policies
 **URL:** https://docs.netskope.com/en/http-header-policies/
 **Last Modified:** 2025-08-31T01:51:21+00:00
-**Scraped:** 2026-07-24T08:22:27.125443+00:00
+**Scraped:** 2026-07-25T08:02:31.490727+00:00
 
 HTTP Header Policies - Netskope Knowledge Portal
 HTTP Header Policies
@@ -1835,7 +1848,7 @@ HTTP Header Policies
 ## Granular Visibility and Control of SaaS, IaaS, and Web Features
 **URL:** https://docs.netskope.com/en/granular-visibility-and-control-of-saas-iaas-and-web-features/
 **Last Modified:** 2025-08-31T01:51:00+00:00
-**Scraped:** 2026-07-24T08:22:28.296385+00:00
+**Scraped:** 2026-07-25T08:02:32.671189+00:00
 
 Granular Visibility and Control of SaaS, IaaS, and Web Features - Netskope Knowledge Portal
 Granular Visibility and Control of SaaS, IaaS, and Web Features
@@ -1858,7 +1871,7 @@ Granular Visibility and Control of SaaS, IaaS, and Web Features
 ## Inline monitoring for Cloud apps
 **URL:** https://docs.netskope.com/en/inline-monitoring-for-cloud-apps/
 **Last Modified:** 2025-09-01T13:12:51+00:00
-**Scraped:** 2026-07-24T08:22:30.648529+00:00
+**Scraped:** 2026-07-25T08:02:35.004134+00:00
 
 Inline monitoring for Cloud apps - Netskope Knowledge Portal
 Inline monitoring for Cloud apps
@@ -1894,7 +1907,7 @@ Inline monitoring for Cloud apps
 ## IaaS
 **URL:** https://docs.netskope.com/en/iaas/
 **Last Modified:** 2025-10-28T11:04:45+00:00
-**Scraped:** 2026-07-24T08:22:31.913418+00:00
+**Scraped:** 2026-07-25T08:02:36.171199+00:00
 
 IaaS - Netskope Knowledge Portal
 IaaS
@@ -1908,7 +1921,7 @@ IaaS
 ## Identify and act on individual files or folders on a case by case basis
 **URL:** https://docs.netskope.com/en/identify-and-act-on-individual-files-or-folders-on-a-case-by-case-basis/
 **Last Modified:** 2025-09-01T12:56:42+00:00
-**Scraped:** 2026-07-24T08:22:33.090613+00:00
+**Scraped:** 2026-07-25T08:02:37.343316+00:00
 
 Identify and act on individual files or folders on a case by case basis - Netskope Knowledge Portal
 Identify and act on individual files or folders on a case by case basis
@@ -1938,8 +1951,9 @@ Identify and act on individual files or folders on a case by case basis
 ## Inline protection of Cloud apps
 **URL:** https://docs.netskope.com/en/inline-protection-of-cloud-apps/
 **Last Modified:** 2025-09-01T13:12:53+00:00
-**Scraped:** 2026-07-24T08:22:34.261791+00:00
+**Scraped:** 2026-07-25T08:02:38.501130+00:00
 
+Inline protection of Cloud apps - Netskope Knowledge Portal
 Inline protection of Cloud apps
 Here are some widely used real world use cases that will address your organization’s needs regarding protection of cloud apps via Inline.
 Use Case #
@@ -1970,8 +1984,9 @@ Inline protection of Cloud apps
 ## Third-Party Integration Videos
 **URL:** https://docs.netskope.com/en/integrations-videos/
 **Last Modified:** 2025-08-31T01:50:58+00:00
-**Scraped:** 2026-07-24T08:22:35.437157+00:00
+**Scraped:** 2026-07-25T08:02:39.776928+00:00
 
+Third-Party Integration Videos - Netskope Knowledge Portal
 Third-Party Integration Videos
 Integrating Netskope SCIM Provisioning with Okta
 Integrating Netskope Authentication Proxy with Okta & O365
@@ -1991,7 +2006,7 @@ Third-Party Integration Videos
 ## Investigate specific internal user activity to determine risk posture
 **URL:** https://docs.netskope.com/en/investigate-specific-internal-user-activity-to-determine-risk-posture/
 **Last Modified:** 2025-09-01T12:56:38+00:00
-**Scraped:** 2026-07-24T08:22:37.784570+00:00
+**Scraped:** 2026-07-25T08:02:42.133827+00:00
 
 Investigate specific internal user activity to determine risk posture - Netskope Knowledge Portal
 Investigate specific internal user activity to determine risk posture
@@ -2021,7 +2036,7 @@ Investigate specific internal user activity to determine risk posture
 ## Investigate specific external user activity to determine risk posture
 **URL:** https://docs.netskope.com/en/investigate-specific-external-user-activity-to-determine-risk-posture/
 **Last Modified:** 2025-09-01T12:56:36+00:00
-**Scraped:** 2026-07-24T08:22:39.060496+00:00
+**Scraped:** 2026-07-25T08:02:43.306437+00:00
 
 Investigate specific external user activity to determine risk posture - Netskope Knowledge Portal
 Investigate specific external user activity to determine risk posture
@@ -2051,8 +2066,9 @@ Investigate specific external user activity to determine risk posture
 ## Monitor activity with reverse proxy as an access method
 **URL:** https://docs.netskope.com/en/monitor-activity-with-reverse-proxy-as-an-access-method/
 **Last Modified:** 2025-08-31T01:51:04+00:00
-**Scraped:** 2026-07-24T08:22:40.231245+00:00
+**Scraped:** 2026-07-25T08:02:44.476798+00:00
 
+Monitor activity with reverse proxy as an access method - Netskope Knowledge Portal
 Monitor activity with reverse proxy as an access method
 To view activities/application events based on access method specifically, reverse proxy, perform the following steps:
 Navigate to
@@ -2079,7 +2095,7 @@ Monitor activity with reverse proxy as an access method
 ## Manual steps for remediation
 **URL:** https://docs.netskope.com/en/manual-steps-for-remediation/
 **Last Modified:** 2025-08-31T01:51:13+00:00
-**Scraped:** 2026-07-24T08:22:41.402692+00:00
+**Scraped:** 2026-07-25T08:02:45.646338+00:00
 
 Manual steps for remediation - Netskope Knowledge Portal
 Manual steps for remediation
@@ -2096,8 +2112,9 @@ Manual steps for remediation
 ## Microlearning Video Library
 **URL:** https://docs.netskope.com/microlearning-video-library/
 **Last Modified:** 2025-08-31T01:50:57+00:00
-**Scraped:** 2026-07-24T08:22:42.724318+00:00
+**Scraped:** 2026-07-25T08:02:46.976022+00:00
 
+Microlearning Video Library - Netskope Knowledge Portal
 Microlearning Video Library
 These videos will help you tailor your Netskope installation for your specific needs:
 Netskope Client Videos
@@ -2110,7 +2127,7 @@ Microlearning Video Library
 ## Monitor – Unmanaged Device Protection
 **URL:** https://docs.netskope.com/en/monitor-unmanaged-device-protection/
 **Last Modified:** 2025-08-31T01:51:03+00:00
-**Scraped:** 2026-07-24T08:22:45.083170+00:00
+**Scraped:** 2026-07-25T08:02:49.469772+00:00
 
 Monitor – Unmanaged Device Protection - Netskope Knowledge Portal
 Monitor – Unmanaged Device Protection
@@ -2121,7 +2138,7 @@ Monitor – Unmanaged Device Protection
 ## Netskope Directory Importer Videos
 **URL:** https://docs.netskope.com/en/netskope-directory-importer-videos/
 **Last Modified:** 2025-08-31T01:50:58+00:00
-**Scraped:** 2026-07-24T08:22:46.239419+00:00
+**Scraped:** 2026-07-25T08:02:50.640018+00:00
 
 Netskope Directory Importer Videos - Netskope Knowledge Portal
 Netskope Directory Importer Videos
@@ -2134,8 +2151,9 @@ Netskope Directory Importer Videos
 ## Netskope Security Cloud Features
 **URL:** https://docs.netskope.com/en/netskope-security-cloud-features/
 **Last Modified:** 2025-08-31T01:50:59+00:00
-**Scraped:** 2026-07-24T08:22:47.412359+00:00
+**Scraped:** 2026-07-25T08:02:51.807412+00:00
 
+Netskope Security Cloud Features - Netskope Knowledge Portal
 Netskope Security Cloud Features
 SaaS, IaaS, Web Discovery, and Risk Assessment Features
 Granular Visibility and Control of SaaS, IaaS, and Web Features
@@ -2151,8 +2169,9 @@ Netskope Security Cloud Features
 ## Netskope Success Resource Center
 **URL:** https://docs.netskope.com/en/netskope-success-resource-center/
 **Last Modified:** 2025-08-31T01:51:02+00:00
-**Scraped:** 2026-07-24T08:22:48.584736+00:00
+**Scraped:** 2026-07-25T08:02:52.976797+00:00
 
+Netskope Success Resource Center - Netskope Knowledge Portal
 Netskope Success Resource Center
 This resource center provides use case driven examples and practical application of the Netskope suite of products. This resource is dynamic and updated periodically so check back for updates.
 Unmanaged Device Protection
@@ -2170,7 +2189,7 @@ Netskope Success Resource Center
 ## Next Steps
 **URL:** https://docs.netskope.com/en/next-steps/
 **Last Modified:** 2026-05-27T08:04:52+00:00
-**Scraped:** 2026-07-24T08:22:49.765274+00:00
+**Scraped:** 2026-07-25T08:02:54.256258+00:00
 
 Next Steps - Netskope Knowledge Portal
 Next Steps
@@ -2234,8 +2253,9 @@ Next Steps
 ## Observe Cloud App Activities (OPLP) and Risk Insights
 **URL:** https://docs.netskope.com/en/observe-cloud-app-activities-oplp-and-risk-insights/
 **Last Modified:** 2025-08-31T01:51:17+00:00
-**Scraped:** 2026-07-24T08:22:52.107665+00:00
+**Scraped:** 2026-07-25T08:02:56.698231+00:00
 
+Observe Cloud App Activities (OPLP) and Risk Insights - Netskope Knowledge Portal
 Observe Cloud App Activities (OPLP) and Risk Insights
 Netskope Risk Insights gives you an ongoing view of the cloud and web use at your organization and uses the Netskope Cloud Confidence Index (CCI) to assess the enterprise readiness of cloud services based on a set of objective criteria. This serves as a guidepost to mitigate risk, influence usage and reduce costs for the cloud services in your organization.
 As a general methodology, Risk Insights is the process by which enterprises can routinely assess the risk associated with any cloud traffic, developing specific reports, queries, and dashboards to allow enterprises to monitor potential cloud threats in their environment and adjust their security posture appropriately.
@@ -2284,7 +2304,7 @@ Observe Cloud App Activities (OPLP) and Risk Insights
 ## Protect – Unmanaged Device Protection
 **URL:** https://docs.netskope.com/en/protect-unmanaged-device-protection/
 **Last Modified:** 2025-08-31T01:51:05+00:00
-**Scraped:** 2026-07-24T08:22:53.276093+00:00
+**Scraped:** 2026-07-25T08:02:57.866934+00:00
 
 Protect – Unmanaged Device Protection - Netskope Knowledge Portal
 Protect – Unmanaged Device Protection
@@ -2295,7 +2315,7 @@ Protect – Unmanaged Device Protection
 ## Protect against unknown malicious websites
 **URL:** https://docs.netskope.com/en/protect-against-unknown-malicious-websites/
 **Last Modified:** 2025-08-31T01:51:23+00:00
-**Scraped:** 2026-07-24T08:22:55.716391+00:00
+**Scraped:** 2026-07-25T08:03:00.318432+00:00
 
 Protect against unknown malicious websites - Netskope Knowledge Portal
 Protect against unknown malicious websites
@@ -2319,8 +2339,9 @@ Protect against unknown malicious websites
 ## Provide a risk assessment of a cloud service using CCI
 **URL:** https://docs.netskope.com/en/provide-a-risk-assessment-of-a-cloud-service-using-cci/
 **Last Modified:** 2025-08-31T01:51:16+00:00
-**Scraped:** 2026-07-24T08:22:58.242771+00:00
+**Scraped:** 2026-07-25T08:03:02.954121+00:00
 
+Provide a risk assessment of a cloud service using CCI - Netskope Knowledge Portal
 Provide a risk assessment of a cloud service using CCI
 Value to the customer: Decide on the continued usage or decommissioning of cloud apps based on the identified CCI scores
 Clicking on any of the apps shown opens the app specific details page that allows you to research individual applications and perform risk assessment.
@@ -2350,7 +2371,7 @@ Provide a risk assessment of a cloud service using CCI
 ## Protect against Unmanaged S3 access
 **URL:** https://docs.netskope.com/en/protect-against-unmanaged-s3-access/
 **Last Modified:** 2025-08-31T01:51:26+00:00
-**Scraped:** 2026-07-24T08:22:59.413243+00:00
+**Scraped:** 2026-07-25T08:03:04.123373+00:00
 
 Protect against Unmanaged S3 access - Netskope Knowledge Portal
 Protect against Unmanaged S3 access
@@ -2364,7 +2385,7 @@ Protect against Unmanaged S3 access
 ## Protect against viruses and malicious files
 **URL:** https://docs.netskope.com/en/protect-against-viruses-and-malicious-files/
 **Last Modified:** 2025-08-31T01:51:24+00:00
-**Scraped:** 2026-07-24T08:23:01.792831+00:00
+**Scraped:** 2026-07-25T08:03:06.571511+00:00
 
 Protect against viruses and malicious files - Netskope Knowledge Portal
 Protect against viruses and malicious files
@@ -2389,7 +2410,7 @@ Protect against viruses and malicious files
 ## Remediate IaaS misconfigurations
 **URL:** https://docs.netskope.com/en/remediate-iaas-misconfigurations/
 **Last Modified:** 2025-08-31T01:51:13+00:00
-**Scraped:** 2026-07-24T08:23:02.985925+00:00
+**Scraped:** 2026-07-25T08:03:07.745090+00:00
 
 Remediate IaaS misconfigurations - Netskope Knowledge Portal
 Remediate IaaS misconfigurations
@@ -2410,7 +2431,7 @@ Remediate IaaS misconfigurations
 ## Public Cloud Overview
 **URL:** https://docs.netskope.com/en/public-cloud-overview/
 **Last Modified:** 2025-08-31T01:51:07+00:00
-**Scraped:** 2026-07-24T08:23:04.155751+00:00
+**Scraped:** 2026-07-25T08:03:08.911936+00:00
 
 Public Cloud Overview - Netskope Knowledge Portal
 Public Cloud Overview
@@ -2429,7 +2450,7 @@ Public Cloud Overview
 ## Public Cloud Security Posture
 **URL:** https://docs.netskope.com/en/public-cloud-security-posture/
 **Last Modified:** 2025-08-31T01:51:09+00:00
-**Scraped:** 2026-07-24T08:23:05.329853+00:00
+**Scraped:** 2026-07-25T08:03:10.085922+00:00
 
 Public Cloud Security Posture - Netskope Knowledge Portal
 Public Cloud Security Posture
@@ -2451,8 +2472,9 @@ Public Cloud Security Posture
 ## Quick Start
 **URL:** https://docs.netskope.com/en/quick-start/
 **Last Modified:** 2025-08-31T01:50:46+00:00
-**Scraped:** 2026-07-24T08:23:06.501273+00:00
+**Scraped:** 2026-07-25T08:03:11.261207+00:00
 
+Quick Start - Netskope Knowledge Portal
 Quick Start
 There are two fundamental steps required to deploy Netskope in your environment:
 Add Users and Groups to the Platform
@@ -2497,7 +2519,7 @@ Quick Start
 ## Report on all activity with reverse proxy as the access method
 **URL:** https://docs.netskope.com/en/report-on-all-activity-with-reverse-proxy-as-the-access-method/
 **Last Modified:** 2025-08-31T01:51:04+00:00
-**Scraped:** 2026-07-24T08:23:07.772166+00:00
+**Scraped:** 2026-07-25T08:03:12.432620+00:00
 
 Report on all activity with reverse proxy as the access method - Netskope Knowledge Portal
 Report on all activity with reverse proxy as the access method
@@ -2508,7 +2530,7 @@ Report on all activity with reverse proxy as the access method
 ## Review Available Metrics and Confirm Reports
 **URL:** https://docs.netskope.com/en/review-available-metrics-and-confirm-reports/
 **Last Modified:** 2025-08-31T01:51:22+00:00
-**Scraped:** 2026-07-24T08:23:08.943476+00:00
+**Scraped:** 2026-07-25T08:03:13.701265+00:00
 
 Review Available Metrics and Confirm Reports - Netskope Knowledge Portal
 Review Available Metrics and Confirm Reports
@@ -2528,7 +2550,7 @@ Review Available Metrics and Confirm Reports
 ## Shadow IT – Identifying unsanctioned AWS accounts using Advanced Analytics
 **URL:** https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-advanced-analytics/
 **Last Modified:** 2025-09-01T13:14:24+00:00
-**Scraped:** 2026-07-24T08:23:11.476376+00:00
+**Scraped:** 2026-07-25T08:03:16.227263+00:00
 
 Shadow IT – Identifying unsanctioned AWS accounts using Advanced Analytics - Netskope Knowledge Portal
 Shadow IT – Identifying unsanctioned AWS accounts using Advanced Analytics
@@ -2541,7 +2563,7 @@ Shadow IT – Identifying unsanctioned AWS accounts using Advanced Analytics
 ## Shadow IT – Identifying unsanctioned AWS accounts using Skope IT
 **URL:** https://docs.netskope.com/en/shadow-it-identifying-unsanctioned-aws-accounts-using-skope-it/
 **Last Modified:** 2025-09-01T13:14:21+00:00
-**Scraped:** 2026-07-24T08:23:12.645045+00:00
+**Scraped:** 2026-07-25T08:03:17.397204+00:00
 
 Shadow IT – Identifying unsanctioned AWS accounts using Skope IT - Netskope Knowledge Portal
 Shadow IT – Identifying unsanctioned AWS accounts using Skope IT
@@ -2553,8 +2575,9 @@ Shadow IT – Identifying unsanctioned AWS accounts using Skope IT
 ## SaaS, IaaS, Web Discovery, and Risk Assessment Features
 **URL:** https://docs.netskope.com/en/saas-iaas-web-discovery-and-risk-assessment-features/
 **Last Modified:** 2025-08-31T01:50:59+00:00
-**Scraped:** 2026-07-24T08:23:13.820456+00:00
+**Scraped:** 2026-07-25T08:03:18.568967+00:00
 
+SaaS, IaaS, Web Discovery, and Risk Assessment Features - Netskope Knowledge Portal
 SaaS, IaaS, Web Discovery, and Risk Assessment Features
 Feature
 Description
@@ -2573,7 +2596,7 @@ SaaS, IaaS, Web Discovery, and Risk Assessment Features
 ## Supported Integrations Features
 **URL:** https://docs.netskope.com/en/supported-integrations-features/
 **Last Modified:** 2025-08-31T01:51:02+00:00
-**Scraped:** 2026-07-24T08:23:19.773831+00:00
+**Scraped:** 2026-07-25T08:03:24.620117+00:00
 
 Supported Integrations Features - Netskope Knowledge Portal
 Supported Integrations Features
@@ -2604,7 +2627,7 @@ Supported Integrations Features
 ## Understand the risk of cloud services utilization by leveraging CCI
 **URL:** https://docs.netskope.com/en/understand-the-risk-of-cloud-services-utilization-by-leveraging-cci/
 **Last Modified:** 2025-08-31T01:51:16+00:00
-**Scraped:** 2026-07-24T08:23:20.930983+00:00
+**Scraped:** 2026-07-25T08:03:25.790849+00:00
 
 Understand the risk of cloud services utilization by leveraging CCI - Netskope Knowledge Portal
 Understand the risk of cloud services utilization by leveraging CCI
@@ -2623,7 +2646,7 @@ Understand the risk of cloud services utilization by leveraging CCI
 ## Understanding API Protection
 **URL:** https://docs.netskope.com/en/understanding-api-protection/
 **Last Modified:** 2025-09-01T13:13:11+00:00
-**Scraped:** 2026-07-24T08:23:22.091547+00:00
+**Scraped:** 2026-07-25T08:03:26.961852+00:00
 
 Understanding API Protection - Netskope Knowledge Portal
 Understanding API Protection
@@ -2646,8 +2669,9 @@ Understanding API Protection
 ## Unmanaged Device Protection
 **URL:** https://docs.netskope.com/en/unmanaged-device-protection/
 **Last Modified:** 2025-08-31T01:51:03+00:00
-**Scraped:** 2026-07-24T08:23:23.348564+00:00
+**Scraped:** 2026-07-25T08:03:28.132963+00:00
 
+Unmanaged Device Protection - Netskope Knowledge Portal
 Unmanaged Device Protection
 Unmanaged device protection is an advanced protection level. Here are some widely used real world use cases that will address your organization’s unmanaged device protection needs.
 Use case #
@@ -2681,8 +2705,9 @@ Unmanaged Device Protection
 ## Use CCI to understand cloud spending
 **URL:** https://docs.netskope.com/en/use-cci-to-understand-cloud-spending/
 **Last Modified:** 2025-08-31T01:51:17+00:00
-**Scraped:** 2026-07-24T08:23:24.518095+00:00
+**Scraped:** 2026-07-25T08:03:29.301980+00:00
 
+Use CCI to understand cloud spending - Netskope Knowledge Portal
 Use CCI to understand cloud spending
 Value to the customer: Influence budget decisions as it relates to cloud access
 Clicking on any of the apps shown opens the app specific details page that allows you to research individual applications.
@@ -2710,7 +2735,7 @@ Use CCI to understand cloud spending
 ## View all inventory for IaaS providers
 **URL:** https://docs.netskope.com/en/view-all-inventory-for-iaas-providers/
 **Last Modified:** 2025-08-31T01:51:08+00:00
-**Scraped:** 2026-07-24T08:23:25.696322+00:00
+**Scraped:** 2026-07-25T08:03:30.571491+00:00
 
 View all inventory for IaaS providers - Netskope Knowledge Portal
 View all inventory for IaaS providers
@@ -2734,7 +2759,7 @@ View all inventory for IaaS providers
 ## Using Classic Reports
 **URL:** https://docs.netskope.com/en/using-classic-reports/
 **Last Modified:** 2025-08-31T01:51:14+00:00
-**Scraped:** 2026-07-24T08:23:28.040692+00:00
+**Scraped:** 2026-07-25T08:03:32.920347+00:00
 
 Using Classic Reports - Netskope Knowledge Portal
 Using Classic Reports
@@ -2751,7 +2776,7 @@ Using Classic Reports
 ## Using Advanced Analytics
 **URL:** https://docs.netskope.com/en/using-advanced-analytics/
 **Last Modified:** 2025-08-31T01:51:14+00:00
-**Scraped:** 2026-07-24T08:23:29.311830+00:00
+**Scraped:** 2026-07-25T08:03:34.191057+00:00
 
 Using Advanced Analytics - Netskope Knowledge Portal
 Using Advanced Analytics
@@ -2798,7 +2823,7 @@ Using Advanced Analytics
 ## Vendor Risk Assessment
 **URL:** https://docs.netskope.com/en/vendor-risk-assessment/
 **Last Modified:** 2025-08-31T01:51:15+00:00
-**Scraped:** 2026-07-24T08:23:30.469506+00:00
+**Scraped:** 2026-07-25T08:03:35.369277+00:00
 
 Vendor Risk Assessment - Netskope Knowledge Portal
 Vendor Risk Assessment
@@ -2821,7 +2846,7 @@ Vendor Risk Assessment
 ## View the number of sessions and users by category or app
 **URL:** https://docs.netskope.com/en/view-the-number-of-sessions-and-users-by-category-or-app/
 **Last Modified:** 2025-08-31T01:51:19+00:00
-**Scraped:** 2026-07-24T08:23:31.638376+00:00
+**Scraped:** 2026-07-25T08:03:36.540105+00:00
 
 View the number of sessions and users by category or app - Netskope Knowledge Portal
 View the number of sessions and users by category or app
@@ -2838,7 +2863,7 @@ View the number of sessions and users by category or app
 ## View top apps, activities, and data by usage
 **URL:** https://docs.netskope.com/en/view-top-apps-activities-and-data-by-usage/
 **Last Modified:** 2025-08-31T01:51:19+00:00
-**Scraped:** 2026-07-24T08:23:32.906382+00:00
+**Scraped:** 2026-07-25T08:03:37.710900+00:00
 
 View top apps, activities, and data by usage - Netskope Knowledge Portal
 View top apps, activities, and data by usage
@@ -2866,7 +2891,7 @@ View top apps, activities, and data by usage
 ## Visibility on data movements to and from cloud services
 **URL:** https://docs.netskope.com/en/visibility-on-data-movements-to-and-from-cloud-services/
 **Last Modified:** 2025-08-31T01:51:18+00:00
-**Scraped:** 2026-07-24T08:23:34.081591+00:00
+**Scraped:** 2026-07-25T08:03:38.883446+00:00
 
 Visibility on data movements to and from cloud services - Netskope Knowledge Portal
 Visibility on data movements to and from cloud services
@@ -2907,7 +2932,7 @@ Visibility on data movements to and from cloud services
 ## View users access to cloud services geographically
 **URL:** https://docs.netskope.com/en/view-users-access-to-cloud-services-geographically/
 **Last Modified:** 2025-08-31T01:51:19+00:00
-**Scraped:** 2026-07-24T08:23:35.250139+00:00
+**Scraped:** 2026-07-25T08:03:40.053082+00:00
 
 View users access to cloud services geographically - Netskope Knowledge Portal
 View users access to cloud services geographically
@@ -2925,7 +2950,7 @@ View users access to cloud services geographically
 ## View top cloud categories by usage
 **URL:** https://docs.netskope.com/en/view-top-cloud-categories-by-usage/
 **Last Modified:** 2025-08-31T01:51:18+00:00
-**Scraped:** 2026-07-24T08:23:36.422640+00:00
+**Scraped:** 2026-07-25T08:03:41.224399+00:00
 
 View top cloud categories by usage - Netskope Knowledge Portal
 View top cloud categories by usage
@@ -2952,7 +2977,7 @@ View top cloud categories by usage
 ## "Workplace from Meta" Groups Page
 **URL:** https://docs.netskope.com/en/workplace-from-meta-groups-page/
 **Last Modified:** 2025-09-01T12:33:29+00:00
-**Scraped:** 2026-07-24T08:23:37.597005+00:00
+**Scraped:** 2026-07-25T08:03:42.396790+00:00
 
 "Workplace from Meta" Groups Page - Netskope Knowledge Portal
 "Workplace from Meta" Groups Page
@@ -2990,7 +3015,7 @@ In this Topic
 ## (Optional) Uninstall the Netskope App from the Zoom Account
 **URL:** https://docs.netskope.com/en/optional-uninstall-the-netskope-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:46:45+00:00
-**Scraped:** 2026-07-24T08:23:38.756410+00:00
+**Scraped:** 2026-07-25T08:03:43.568299+00:00
 
 (Optional) Uninstall the Netskope App from the Zoom Account - Netskope Knowledge Portal
 (Optional) Uninstall the Netskope App from the Zoom Account
@@ -3025,7 +3050,7 @@ In this Topic
 ## "Workplace from Meta" Posts with Violations Page
 **URL:** https://docs.netskope.com/en/workplace-from-meta-posts-with-violations-page/
 **Last Modified:** 2025-09-01T12:30:00+00:00
-**Scraped:** 2026-07-24T08:23:39.935926+00:00
+**Scraped:** 2026-07-25T08:03:44.743359+00:00
 
 "Workplace from Meta" Posts with Violations Page - Netskope Knowledge Portal
 "Workplace from Meta" Posts with Violations Page
@@ -3083,7 +3108,7 @@ In this Topic
 ## "Workplace from Meta" Messages with Violations Page
 **URL:** https://docs.netskope.com/en/workplace-from-meta-messages-with-violations-page/
 **Last Modified:** 2025-09-01T12:30:07+00:00
-**Scraped:** 2026-07-24T08:23:41.110486+00:00
+**Scraped:** 2026-07-25T08:03:45.917372+00:00
 
 "Workplace from Meta" Messages with Violations Page - Netskope Knowledge Portal
 "Workplace from Meta" Messages with Violations Page
@@ -3130,7 +3155,7 @@ In this Topic
 ## "Workplace from Meta" Summary Page
 **URL:** https://docs.netskope.com/en/workplace-from-meta-summary-page/
 **Last Modified:** 2025-09-01T12:29:34+00:00
-**Scraped:** 2026-07-24T08:23:42.382049+00:00
+**Scraped:** 2026-07-25T08:03:47.199398+00:00
 
 "Workplace from Meta" Summary Page - Netskope Knowledge Portal
 "Workplace from Meta" Summary Page
@@ -3156,7 +3181,7 @@ In this Topic
 ## "Workplace from Meta" Users Page
 **URL:** https://docs.netskope.com/en/workplace-from-meta-users-page/
 **Last Modified:** 2025-09-01T12:33:28+00:00
-**Scraped:** 2026-07-24T08:23:43.561657+00:00
+**Scraped:** 2026-07-25T08:03:48.373965+00:00
 
 "Workplace from Meta" Users Page - Netskope Knowledge Portal
 "Workplace from Meta" Users Page
@@ -3200,9 +3225,8 @@ In this Topic
 ## Malicious Sites
 **URL:** https://docs.netskope.com/en/about-malicious-sites/
 **Last Modified:** 2026-07-06T19:53:07+00:00
-**Scraped:** 2026-07-24T08:23:46.005836+00:00
+**Scraped:** 2026-07-25T08:03:50.718396+00:00
 
-Malicious Sites - Netskope Knowledge Portal
 Malicious Sites
 About Malicious Sites
 Netskope can detect malicious sites both inline and with
@@ -3345,7 +3369,7 @@ Malicious Sites
 ## Action
 **URL:** https://docs.netskope.com/en/action-117817/
 **Last Modified:** 2025-08-31T01:41:45+00:00
-**Scraped:** 2026-07-24T08:23:47.175858+00:00
+**Scraped:** 2026-07-25T08:03:51.986796+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -3373,7 +3397,7 @@ Action
 ## About Page Events
 **URL:** https://docs.netskope.com/en/about-page-events/
 **Last Modified:** 2025-09-01T13:19:57+00:00
-**Scraped:** 2026-07-24T08:23:48.466108+00:00
+**Scraped:** 2026-07-25T08:03:53.163783+00:00
 
 About Page Events - Netskope Knowledge Portal
 About Page Events
@@ -3474,9 +3498,8 @@ About Page Events
 ## Access Control in Device Intelligence
 **URL:** https://docs.netskope.com/en/access-control-in-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:52+00:00
-**Scraped:** 2026-07-24T08:23:49.659646+00:00
+**Scraped:** 2026-07-25T08:03:54.440845+00:00
 
-Access Control in Device Intelligence - Netskope Knowledge Portal
 Access Control in Device Intelligence
 You need to log in using your
 Super Administrator
@@ -3605,7 +3628,7 @@ Access Control in Device Intelligence
 ## Action
 **URL:** https://docs.netskope.com/en/action-117717/
 **Last Modified:** 2025-09-01T12:31:39+00:00
-**Scraped:** 2026-07-24T08:23:50.844521+00:00
+**Scraped:** 2026-07-25T08:03:55.602010+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -3716,7 +3739,7 @@ Action
 ## About Websites
 **URL:** https://docs.netskope.com/en/about-websites/
 **Last Modified:** 2025-09-01T13:19:56+00:00
-**Scraped:** 2026-07-24T08:23:52.024550+00:00
+**Scraped:** 2026-07-25T08:03:56.775951+00:00
 
 About Websites - Netskope Knowledge Portal
 About Websites
@@ -3769,9 +3792,8 @@ About Websites
 ## Action
 **URL:** https://docs.netskope.com/en/action-117930/
 **Last Modified:** 2025-09-01T12:33:26+00:00
-**Scraped:** 2026-07-24T08:23:53.197015+00:00
+**Scraped:** 2026-07-25T08:03:57.946721+00:00
 
-Action - Netskope Knowledge Portal
 Action
 This section of the API Data Protection policy page specifies the action to be taken when a policy violation occurs. The actions vary depending on the app chosen. For some apps, the only action is alert. Similarly, restrict access options vary depending on the app chosen.
 Select the action you want to take from the drop-down list, like Alert, Block, Change Ownership, Restrict Access, Encrypt, Delete, Quarantine, Legal Hold, Restrict Sharing to View, Apply Azure RMS Template, Data Classification, Disable Print and Download, or IRM Protect.
@@ -3792,8 +3814,9 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-117886/
 **Last Modified:** 2025-09-01T12:30:47+00:00
-**Scraped:** 2026-07-24T08:23:54.454016+00:00
+**Scraped:** 2026-07-25T08:03:59.125311+00:00
 
+Action - Netskope Knowledge Portal
 Action
 This section of the API Data Protection policy page specifies the action to be taken when a policy violation occurs. The actions vary depending on the app chosen. For some apps, the only action is alert. Similarly, restrict access options vary depending on the app chosen.
 Select the action you want to take from the drop-down list, like Alert, Block, Change Ownership, Restrict Access, Encrypt, Delete, Quarantine, Legal Hold, Restrict Sharing to View, Apply Azure RMS Template, Data Classification, Disable Print and Download, or IRM Protect.
@@ -3871,7 +3894,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-117841/
 **Last Modified:** 2025-09-01T12:30:42+00:00
-**Scraped:** 2026-07-24T08:23:55.629598+00:00
+**Scraped:** 2026-07-25T08:04:00.401619+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -3893,8 +3916,9 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-117864/
 **Last Modified:** 2025-09-01T12:34:08+00:00
-**Scraped:** 2026-07-24T08:23:56.904458+00:00
+**Scraped:** 2026-07-25T08:04:01.587683+00:00
 
+Action - Netskope Knowledge Portal
 Action
 This section of the API Data Protection policy page specifies the action to be taken when a policy violation occurs. The actions vary depending on the app chosen. For some apps, the only action is alert. Similarly, restrict access options vary depending on the app chosen.
 Select the action you want to take from the drop-down list, like Alert, Block, Change Ownership, Restrict Access, Encrypt, Delete, Quarantine, Legal Hold, Restrict Sharing to View, Apply Azure RMS Template, Data Classification, Disable Print and Download, or IRM Protect.
@@ -3923,7 +3947,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-118037/
 **Last Modified:** 2025-09-01T12:31:12+00:00
-**Scraped:** 2026-07-24T08:23:58.172204+00:00
+**Scraped:** 2026-07-25T08:04:02.950824+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -3987,7 +4011,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-118084/
 **Last Modified:** 2025-09-01T12:31:47+00:00
-**Scraped:** 2026-07-24T08:23:59.464480+00:00
+**Scraped:** 2026-07-25T08:04:04.142135+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -4100,7 +4124,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-117984/
 **Last Modified:** 2025-09-01T12:31:43+00:00
-**Scraped:** 2026-07-24T08:24:00.669284+00:00
+**Scraped:** 2026-07-25T08:04:05.316872+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -4122,7 +4146,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-117952/
 **Last Modified:** 2025-09-01T12:32:08+00:00
-**Scraped:** 2026-07-24T08:24:01.870289+00:00
+**Scraped:** 2026-07-25T08:04:06.589354+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -4147,7 +4171,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-118109/
 **Last Modified:** 2025-09-01T12:32:12+00:00
-**Scraped:** 2026-07-24T08:24:03.041702+00:00
+**Scraped:** 2026-07-25T08:04:07.845899+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -4208,7 +4232,7 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action-118131/
 **Last Modified:** 2025-09-01T12:31:16+00:00
-**Scraped:** 2026-07-24T08:24:04.221351+00:00
+**Scraped:** 2026-07-25T08:04:09.142879+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -4230,8 +4254,9 @@ Action
 ## Action
 **URL:** https://docs.netskope.com/en/action/
 **Last Modified:** 2026-06-25T19:25:52+00:00
-**Scraped:** 2026-07-24T08:24:05.401739+00:00
+**Scraped:** 2026-07-25T08:04:10.324711+00:00
 
+Action - Netskope Knowledge Portal
 Action
 This section refers to the old DRM solution. For the new DRM solution, see
 Digital Rights Management
@@ -4349,8 +4374,9 @@ Action
 ## Add Users
 **URL:** https://docs.netskope.com/en/add-users/
 **Last Modified:** 2026-01-30T21:16:25+00:00
-**Scraped:** 2026-07-24T08:24:06.574290+00:00
+**Scraped:** 2026-07-25T08:04:11.494962+00:00
 
+Add Users - Netskope Knowledge Portal
 Add Users
 Add users that you want to have access to Cloud Firewall. Users are specified in the Real-time Protection policy that grants access.
 Go to
@@ -4373,7 +4399,7 @@ Add Users
 ## Activity
 **URL:** https://docs.netskope.com/en/activity/
 **Last Modified:** 2025-08-31T01:39:50+00:00
-**Scraped:** 2026-07-24T08:24:07.747312+00:00
+**Scraped:** 2026-07-25T08:04:12.668138+00:00
 
 Activity - Netskope Knowledge Portal
 Activity
@@ -4396,8 +4422,9 @@ Activity
 ## File Profile
 **URL:** https://docs.netskope.com/en/adding-a-file-profile/
 **Last Modified:** 2026-06-25T19:22:22+00:00
-**Scraped:** 2026-07-24T08:24:10.091631+00:00
+**Scraped:** 2026-07-25T08:04:15.107999+00:00
 
+File Profile - Netskope Knowledge Portal
 File Profile
 Note
 To enable this feature, contact Netskope Sales.
@@ -4547,7 +4574,7 @@ File Profile
 ## Additional configurations for AWS Data Protection
 **URL:** https://docs.netskope.com/en/additional-configurations-for-aws-data-protection/
 **Last Modified:** 2025-08-31T01:46:11+00:00
-**Scraped:** 2026-07-24T08:24:11.274346+00:00
+**Scraped:** 2026-07-25T08:04:16.290070+00:00
 
 Additional configurations for AWS Data Protection - Netskope Knowledge Portal
 Additional configurations for AWS Data Protection
@@ -4607,7 +4634,7 @@ Additional configurations for AWS Data Protection
 ## Additional Reading
 **URL:** https://docs.netskope.com/en/additional-reading/
 **Last Modified:** 2025-08-31T01:40:45+00:00
-**Scraped:** 2026-07-24T08:24:12.445377+00:00
+**Scraped:** 2026-07-25T08:04:17.511649+00:00
 
 Additional Reading - Netskope Knowledge Portal
 Additional Reading
@@ -4629,7 +4656,7 @@ Additional Reading
 ## Additional Reading
 **URL:** https://docs.netskope.com/en/additional-reading-326338/
 **Last Modified:** 2025-09-01T12:33:29+00:00
-**Scraped:** 2026-07-24T08:24:13.618740+00:00
+**Scraped:** 2026-07-25T08:04:18.734978+00:00
 
 Additional Reading - Netskope Knowledge Portal
 Additional Reading
@@ -4650,7 +4677,7 @@ Additional Reading
 ## Additional Reading
 **URL:** https://docs.netskope.com/en/additional-reading-326326/
 **Last Modified:** 2025-09-01T12:33:21+00:00
-**Scraped:** 2026-07-24T08:24:14.787783+00:00
+**Scraped:** 2026-07-25T08:04:19.912680+00:00
 
 Additional Reading - Netskope Knowledge Portal
 Additional Reading
@@ -4663,8 +4690,9 @@ Additional Reading
 ## Advanced Content Scanning
 **URL:** https://docs.netskope.com/en/advanced-file-scanning/
 **Last Modified:** 2026-06-25T19:22:12+00:00
-**Scraped:** 2026-07-24T08:24:15.972667+00:00
+**Scraped:** 2026-07-25T08:04:21.094175+00:00
 
+Advanced Content Scanning - Netskope Knowledge Portal
 Advanced Content Scanning
 The limits on this page do not apply to USB or SMTP.
 You can enable
@@ -4824,8 +4852,9 @@ Advanced Content Scanning
 ## API Data Protection for Cisco Webex Teams
 **URL:** https://docs.netskope.com/en/api-data-protection-for-cisco-webex-teams/
 **Last Modified:** 2025-08-31T01:39:55+00:00
-**Scraped:** 2026-07-24T08:24:19.524778+00:00
+**Scraped:** 2026-07-25T08:04:24.703182+00:00
 
+API Data Protection for Cisco Webex Teams - Netskope Knowledge Portal
 API Data Protection for Cisco Webex Teams
 Using API Data Protection involves first configuring the API connection for Cisco Webex Teams, and then creating API Data Protection policies that scan for policy violations. Lastly, use the API Data Protection dashboard to view analytics about your Cisco Webex Teams app usage.
 Configure Cisco Webex Teams for API Data Protection
@@ -4839,8 +4868,9 @@ API Data Protection for Cisco Webex Teams
 ## API Data Protection for Dropbox
 **URL:** https://docs.netskope.com/en/api-data-protection-for-dropbox/
 **Last Modified:** 2025-08-31T01:40:03+00:00
-**Scraped:** 2026-07-24T08:24:20.703796+00:00
+**Scraped:** 2026-07-25T08:04:25.872757+00:00
 
+API Data Protection for Dropbox - Netskope Knowledge Portal
 API Data Protection for Dropbox
 Using API Data Protection involves first configuring the API connection for your Dropbox app, and then creating API Data Protection policies that scan for policy violations. Lastly, use the API Data Protection dashboard to view analytics about your Dropbox app usage.
 Configure Dropbox for API Data Protection
@@ -4855,7 +4885,7 @@ API Data Protection for Dropbox
 ## Classic API Data Protection Features
 **URL:** https://docs.netskope.com/en/api-data-protection-features/
 **Last Modified:** 2025-08-31T01:39:45+00:00
-**Scraped:** 2026-07-24T08:24:21.876932+00:00
+**Scraped:** 2026-07-25T08:04:27.044864+00:00
 
 Classic API Data Protection Features - Netskope Knowledge Portal
 Classic API Data Protection Features
@@ -4893,7 +4923,7 @@ Classic API Data Protection Features
 ## API Data Protection for Box
 **URL:** https://docs.netskope.com/en/api-data-protection-for-box/
 **Last Modified:** 2025-08-31T01:39:46+00:00
-**Scraped:** 2026-07-24T08:24:23.145855+00:00
+**Scraped:** 2026-07-25T08:04:28.222261+00:00
 
 API Data Protection for Box - Netskope Knowledge Portal
 API Data Protection for Box
@@ -4912,9 +4942,8 @@ API Data Protection for Box
 ## API Data Protection for Egnyte
 **URL:** https://docs.netskope.com/en/api-data-protection-for-egnyte/
 **Last Modified:** 2025-08-31T01:40:12+00:00
-**Scraped:** 2026-07-24T08:24:24.316956+00:00
+**Scraped:** 2026-07-25T08:04:29.395149+00:00
 
-API Data Protection for Egnyte - Netskope Knowledge Portal
 API Data Protection for Egnyte
 Using API Data Protection involves first configuring the API connection for your Egnyte app, and then creating API Data Protection policies that scan for policy violations. Lastly, use the API Data Protection dashboard to view analytics about your Engyte app usage.
 Configure Egnyte for API Data Protection
@@ -4929,7 +4958,7 @@ API Data Protection for Egnyte
 ## API Data Protection for Google Drive
 **URL:** https://docs.netskope.com/en/api-data-protection-for-google-drive/
 **Last Modified:** 2025-08-31T01:40:32+00:00
-**Scraped:** 2026-07-24T08:24:25.489169+00:00
+**Scraped:** 2026-07-25T08:04:30.663970+00:00
 
 API Data Protection for Google Drive - Netskope Knowledge Portal
 API Data Protection for Google Drive
@@ -4947,7 +4976,7 @@ API Data Protection for Google Drive
 ## API Data Protection for Gmail
 **URL:** https://docs.netskope.com/en/api-data-protection-for-gmail/
 **Last Modified:** 2025-08-31T01:40:24+00:00
-**Scraped:** 2026-07-24T08:24:26.664153+00:00
+**Scraped:** 2026-07-25T08:04:31.934352+00:00
 
 API Data Protection for Gmail - Netskope Knowledge Portal
 API Data Protection for Gmail
@@ -4963,7 +4992,7 @@ API Data Protection for Gmail
 ## API Data Protection for Microsoft Office 365 OneDrive
 **URL:** https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-onedrive/
 **Last Modified:** 2025-08-31T01:40:41+00:00
-**Scraped:** 2026-07-24T08:24:27.820495+00:00
+**Scraped:** 2026-07-25T08:04:33.091914+00:00
 
 API Data Protection for Microsoft Office 365 OneDrive - Netskope Knowledge Portal
 API Data Protection for Microsoft Office 365 OneDrive
@@ -4982,8 +5011,9 @@ API Data Protection for Microsoft Office 365 OneDrive
 ## API Data Protection for GitHub
 **URL:** https://docs.netskope.com/en/api-data-protection-for-github/
 **Last Modified:** 2025-08-31T01:40:20+00:00
-**Scraped:** 2026-07-24T08:24:28.991159+00:00
+**Scraped:** 2026-07-25T08:04:34.360252+00:00
 
+API Data Protection for GitHub - Netskope Knowledge Portal
 API Data Protection for GitHub
 Using API Data Protection involves first configuring the API connection for your GitHub app, and then creating API Data Protection policies that scan for policy violations. Lastly, use the API Data Protection dashboard to view analytics about your GitHub app usage.
 Configure GitHub for API Data Protection
@@ -4998,7 +5028,7 @@ API Data Protection for GitHub
 ## API Data Protection for Microsoft Office 365 Outlook
 **URL:** https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-outlook/
 **Last Modified:** 2025-08-31T01:40:55+00:00
-**Scraped:** 2026-07-24T08:24:30.267255+00:00
+**Scraped:** 2026-07-25T08:04:35.520282+00:00
 
 API Data Protection for Microsoft Office 365 Outlook - Netskope Knowledge Portal
 API Data Protection for Microsoft Office 365 Outlook
@@ -5017,8 +5047,9 @@ API Data Protection for Microsoft Office 365 Outlook
 ## API Data Protection for Microsoft Office 365 Teams
 **URL:** https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-teams/
 **Last Modified:** 2025-08-31T01:41:18+00:00
-**Scraped:** 2026-07-24T08:24:31.436822+00:00
+**Scraped:** 2026-07-25T08:04:36.692727+00:00
 
+API Data Protection for Microsoft Office 365 Teams - Netskope Knowledge Portal
 API Data Protection for Microsoft Office 365 Teams
 Using API Data Protection involves first configuring the API connection for your Microsoft Office 365 Teams app, and then creating API Data Protection policies that scan for policy violations. Lastly, use the API Data Protection dashboard to view analytics about your Microsoft Office 365 Teams app usage.
 Supported Microsoft Office 365 Licenses for API Data Protection
@@ -5036,7 +5067,7 @@ API Data Protection for Microsoft Office 365 Teams
 ## API Data Protection for Salesforce
 **URL:** https://docs.netskope.com/en/api-data-protection-for-salesforce/
 **Last Modified:** 2025-08-31T01:41:23+00:00
-**Scraped:** 2026-07-24T08:24:32.613396+00:00
+**Scraped:** 2026-07-25T08:04:37.862410+00:00
 
 API Data Protection for Salesforce - Netskope Knowledge Portal
 API Data Protection for Salesforce
@@ -5054,7 +5085,7 @@ API Data Protection for Salesforce
 ## API Data Protection for ServiceNow
 **URL:** https://docs.netskope.com/en/api-data-protection-for-servicenow/
 **Last Modified:** 2025-08-31T01:41:31+00:00
-**Scraped:** 2026-07-24T08:24:33.785003+00:00
+**Scraped:** 2026-07-25T08:04:39.034362+00:00
 
 API Data Protection for ServiceNow - Netskope Knowledge Portal
 API Data Protection for ServiceNow
@@ -5069,7 +5100,7 @@ API Data Protection for ServiceNow
 ## API Data Protection for Workplace by Meta
 **URL:** https://docs.netskope.com/en/api-data-protection-for-workplace-by-facebook/
 **Last Modified:** 2025-08-31T01:41:49+00:00
-**Scraped:** 2026-07-24T08:24:34.961191+00:00
+**Scraped:** 2026-07-25T08:04:40.304214+00:00
 
 API Data Protection for Workplace by Meta - Netskope Knowledge Portal
 API Data Protection for Workplace by Meta
@@ -5086,7 +5117,7 @@ API Data Protection for Workplace by Meta
 ## Classic API Data Protection Use Cases
 **URL:** https://docs.netskope.com/en/api-data-protection-use-cases/
 **Last Modified:** 2025-08-31T01:39:44+00:00
-**Scraped:** 2026-07-24T08:24:36.139908+00:00
+**Scraped:** 2026-07-25T08:04:41.578530+00:00
 
 Classic API Data Protection Use Cases - Netskope Knowledge Portal
 Classic API Data Protection Use Cases
@@ -5132,8 +5163,9 @@ Classic API Data Protection Use Cases
 ## API Data Protection for Slack for Teams
 **URL:** https://docs.netskope.com/en/api-data-protection-for-slack-for-teams/
 **Last Modified:** 2025-08-31T01:41:43+00:00
-**Scraped:** 2026-07-24T08:24:37.405284+00:00
+**Scraped:** 2026-07-25T08:04:42.753528+00:00
 
+API Data Protection for Slack for Teams - Netskope Knowledge Portal
 API Data Protection for Slack for Teams
 Using API Data Protection involves first configuring the API connection for your Slack for Teams app, and then creating API Data Protection policies that scan for policy violations. Lastly, use the API Data Protection dashboard to view analytics about your Slack for Teams app usage.
 Configure Slack for Team for API Data Protection
@@ -5147,7 +5179,7 @@ API Data Protection for Slack for Teams
 ## API-enriched Real-time Controls for Slack Enterprise
 **URL:** https://docs.netskope.com/en/api-enriched-real-time-controls-for-slack-enterprise/
 **Last Modified:** 2025-08-31T01:50:16+00:00
-**Scraped:** 2026-07-24T08:24:38.577706+00:00
+**Scraped:** 2026-07-25T08:04:43.925091+00:00
 
 API-enriched Real-time Controls for Slack Enterprise - Netskope Knowledge Portal
 API-enriched Real-time Controls for Slack Enterprise
@@ -5180,7 +5212,7 @@ API-enriched Real-time Controls for Slack Enterprise
 ## Next Generation API Data Protection: Performance & Response Time
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-performance-response-time/
 **Last Modified:** 2026-06-03T13:39:36+00:00
-**Scraped:** 2026-07-24T08:24:39.750534+00:00
+**Scraped:** 2026-07-25T08:04:45.097187+00:00
 
 Next Generation API Data Protection: Performance &amp; Response Time - Netskope Knowledge Portal
 Next Generation API Data Protection: Performance & Response Time
@@ -5210,8 +5242,9 @@ Next Generation API Data Protection: Performance &amp; Response Time
 ## App Instance Profile
 **URL:** https://docs.netskope.com/en/app-instance-profile/
 **Last Modified:** 2026-01-07T19:33:04+00:00
-**Scraped:** 2026-07-24T08:24:40.911756+00:00
+**Scraped:** 2026-07-25T08:04:46.355631+00:00
 
+App Instance Profile - Netskope Knowledge Portal
 App Instance Profile
 Some cloud applications have multiple instances of an app active at the same time. For example, an enterprise Google Drive instance for an organization versus a personal Google Drive instance.
 App Instance profiles allow you to manage these app instances with Real-time Protection policies. You can create an App Instance profile by specifying the instance identifier (ID), instance name, and instance tag.
@@ -5317,7 +5350,7 @@ App Instance Profile
 ## App Suite Details
 **URL:** https://docs.netskope.com/en/app-suite-details/
 **Last Modified:** 2025-12-29T12:37:57+00:00
-**Scraped:** 2026-07-24T08:24:42.097122+00:00
+**Scraped:** 2026-07-25T08:04:47.522140+00:00
 
 App Suite Details - Netskope Knowledge Portal
 App Suite Details
@@ -5456,7 +5489,7 @@ App Suite Details
 ## Application
 **URL:** https://docs.netskope.com/en/application-117860/
 **Last Modified:** 2025-08-31T01:41:25+00:00
-**Scraped:** 2026-07-24T08:24:43.267633+00:00
+**Scraped:** 2026-07-25T08:04:48.792001+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5484,7 +5517,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117713/
 **Last Modified:** 2025-09-01T12:31:38+00:00
-**Scraped:** 2026-07-24T08:24:44.438943+00:00
+**Scraped:** 2026-07-25T08:04:49.965186+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5512,7 +5545,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117813/
 **Last Modified:** 2025-09-01T12:32:39+00:00
-**Scraped:** 2026-07-24T08:24:45.707047+00:00
+**Scraped:** 2026-07-25T08:04:51.140951+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5540,7 +5573,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117882/
 **Last Modified:** 2025-09-01T12:30:43+00:00
-**Scraped:** 2026-07-24T08:24:46.881911+00:00
+**Scraped:** 2026-07-25T08:04:52.314449+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5568,7 +5601,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117904/
 **Last Modified:** 2025-09-01T12:31:18+00:00
-**Scraped:** 2026-07-24T08:24:48.053614+00:00
+**Scraped:** 2026-07-25T08:04:53.483929+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5600,9 +5633,8 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117947/
 **Last Modified:** 2025-09-01T12:32:06+00:00
-**Scraped:** 2026-07-24T08:24:49.237978+00:00
+**Scraped:** 2026-07-25T08:04:54.653381+00:00
 
-Application - Netskope Knowledge Portal
 Application
 To configure an API Data Protection policy:
 In the Netskope UI, go to
@@ -5628,7 +5660,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117927/
 **Last Modified:** 2025-09-01T12:31:50+00:00
-**Scraped:** 2026-07-24T08:24:50.409159+00:00
+**Scraped:** 2026-07-25T08:04:55.824705+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5656,7 +5688,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-117980/
 **Last Modified:** 2025-09-01T12:31:40+00:00
-**Scraped:** 2026-07-24T08:24:51.580595+00:00
+**Scraped:** 2026-07-25T08:04:57.093353+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5684,7 +5716,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-118080/
 **Last Modified:** 2025-09-01T12:31:44+00:00
-**Scraped:** 2026-07-24T08:24:52.760402+00:00
+**Scraped:** 2026-07-25T08:04:58.267260+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5714,7 +5746,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-118033/
 **Last Modified:** 2025-09-01T12:31:10+00:00
-**Scraped:** 2026-07-24T08:24:53.932339+00:00
+**Scraped:** 2026-07-25T08:04:59.437293+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5742,8 +5774,9 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-118104/
 **Last Modified:** 2025-09-01T12:32:09+00:00
-**Scraped:** 2026-07-24T08:24:55.206006+00:00
+**Scraped:** 2026-07-25T08:05:00.611672+00:00
 
+Application - Netskope Knowledge Portal
 Application
 To configure an API Data Protection policy:
 In the Netskope UI, go to
@@ -5769,7 +5802,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-118127/
 **Last Modified:** 2025-09-01T12:31:14+00:00
-**Scraped:** 2026-07-24T08:24:56.377597+00:00
+**Scraped:** 2026-07-25T08:05:01.808132+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5797,7 +5830,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application/
 **Last Modified:** 2025-09-01T12:30:36+00:00
-**Scraped:** 2026-07-24T08:24:57.650173+00:00
+**Scraped:** 2026-07-25T08:05:03.167748+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5825,7 +5858,7 @@ Application
 ## Application
 **URL:** https://docs.netskope.com/en/application-120284/
 **Last Modified:** 2025-09-01T12:30:40+00:00
-**Scraped:** 2026-07-24T08:24:59.098920+00:00
+**Scraped:** 2026-07-25T08:05:04.352850+00:00
 
 Application - Netskope Knowledge Portal
 Application
@@ -5853,8 +5886,9 @@ Application
 ## Architecture of Device Intelligence
 **URL:** https://docs.netskope.com/en/architecture-of-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:34+00:00
-**Scraped:** 2026-07-24T08:25:00.386130+00:00
+**Scraped:** 2026-07-25T08:05:05.625288+00:00
 
+Architecture of Device Intelligence - Netskope Knowledge Portal
 Architecture of Device Intelligence
 An organization has a number of devices connected to the network in the environment. It is important to classify and protect these devices for security reasons. Device Intelligence discovers all the managed and un-managed devices in the network and the product gives a deep visibility of the connected devices. The solution uses traffic characteristics to derive metadata information and sends the metadata to the cloud for analysis and check for any potential threats using AI and machine learning. Device Intelligence dynamically applies policies to protect the devices by assigning the devices to VLANs, quarantining the devices, reporting to the administrators, etc.
 Following are the major components of Device Intelligence architecture:
@@ -5884,7 +5918,7 @@ Architecture of Device Intelligence
 ## Authorize Netskope Introspection App on Box Enterprise
 **URL:** https://docs.netskope.com/en/authorize-netskope-introspection-app-on-box-enterprise/
 **Last Modified:** 2025-08-31T01:39:46+00:00
-**Scraped:** 2026-07-24T08:25:01.592549+00:00
+**Scraped:** 2026-07-25T08:05:06.899651+00:00
 
 Authorize Netskope Introspection App on Box Enterprise - Netskope Knowledge Portal
 Authorize Netskope Introspection App on Box Enterprise
@@ -5963,7 +5997,7 @@ Authorize Netskope Introspection App on Box Enterprise
 ## Automatically Add New accounts to Netskope
 **URL:** https://docs.netskope.com/en/automatically-add-new-accounts-to-netskope-363651/
 **Last Modified:** 2025-08-31T01:46:30+00:00
-**Scraped:** 2026-07-24T08:25:02.798485+00:00
+**Scraped:** 2026-07-25T08:05:08.082631+00:00
 
 Automatically Add New accounts to Netskope - Netskope Knowledge Portal
 Automatically Add New accounts to Netskope
@@ -6518,7 +6552,7 @@ Automatically Add New accounts to Netskope
 ## Azure Web App Permissions for Microsoft Office 365 SharePoint
 **URL:** https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-sharepoint/
 **Last Modified:** 2025-08-31T01:41:10+00:00
-**Scraped:** 2026-07-24T08:25:04.078232+00:00
+**Scraped:** 2026-07-25T08:05:09.260733+00:00
 
 Azure Web App Permissions for Microsoft Office 365 SharePoint - Netskope Knowledge Portal
 Azure Web App Permissions for Microsoft Office 365 SharePoint
@@ -6568,7 +6602,7 @@ Azure Web App Permissions for Microsoft Office 365 SharePoint
 ## Azure Web App Permissions for Microsoft Office 365 Outlook
 **URL:** https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-outlook/
 **Last Modified:** 2025-08-31T01:40:57+00:00
-**Scraped:** 2026-07-24T08:25:05.270225+00:00
+**Scraped:** 2026-07-25T08:05:10.442679+00:00
 
 Azure Web App Permissions for Microsoft Office 365 Outlook - Netskope Knowledge Portal
 Azure Web App Permissions for Microsoft Office 365 Outlook
@@ -6659,7 +6693,7 @@ Azure Web App Permissions for Microsoft Office 365 Outlook
 ## Azure Web App Permissions for Microsoft Office 365 OneDrive
 **URL:** https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-onedrive/
 **Last Modified:** 2025-08-31T01:40:46+00:00
-**Scraped:** 2026-07-24T08:25:06.447777+00:00
+**Scraped:** 2026-07-25T08:05:11.620346+00:00
 
 Azure Web App Permissions for Microsoft Office 365 OneDrive - Netskope Knowledge Portal
 Azure Web App Permissions for Microsoft Office 365 OneDrive
@@ -6711,8 +6745,9 @@ Azure Web App Permissions for Microsoft Office 365 OneDrive
 ## Azure Web App Permissions for Microsoft Office 365 Teams
 **URL:** https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-teams/
 **Last Modified:** 2025-08-31T01:41:20+00:00
-**Scraped:** 2026-07-24T08:25:07.631465+00:00
+**Scraped:** 2026-07-25T08:05:12.808314+00:00
 
+Azure Web App Permissions for Microsoft Office 365 Teams - Netskope Knowledge Portal
 Azure Web App Permissions for Microsoft Office 365 Teams
 Netskope seeks consent for the following Azure web app permissions for Microsoft Office 365 Teams:
 API
@@ -6792,9 +6827,8 @@ Azure Web App Permissions for Microsoft Office 365 Teams
 ## AWS Setup FAQs
 **URL:** https://docs.netskope.com/en/aws-setup-faqs/
 **Last Modified:** 2025-08-31T01:46:31+00:00
-**Scraped:** 2026-07-24T08:25:08.800518+00:00
+**Scraped:** 2026-07-25T08:05:13.979463+00:00
 
-AWS Setup FAQs - Netskope Knowledge Portal
 AWS Setup FAQs
 The following section covers frequently asked questions and common scenarios for AWS setup.
 Migrating from Netskope Tenant A to Tenant B
@@ -6814,8 +6848,9 @@ AWS Setup FAQs
 ## Bandwidth Control
 **URL:** https://docs.netskope.com/en/bandwidth-control-2/
 **Last Modified:** 2025-10-24T14:54:52+00:00
-**Scraped:** 2026-07-24T08:25:11.236722+00:00
+**Scraped:** 2026-07-25T08:05:16.323973+00:00
 
+Bandwidth Control - Netskope Knowledge Portal
 Bandwidth Control
 Bandwidth Control allows you to ensure that your organization’s bandwidth usage for business-critical applications is prioritized and bandwidth usage for non-work related traffic is limited. For example, if a network admin has determined that video streaming traffic is hogging bandwidth and degrading business-critical application performance across multiple locations, video streaming traffic can be limited to 5% of total bandwidth at each location. The Bandwidth control feature rate limits application traffic to the throughput configured in the Bandwidth control policy even if the link has additional available bandwidth.
 Bandwidth Control is not offered for applications accessed through China PoPs.
@@ -6946,8 +6981,9 @@ Bandwidth Control
 ## Best Practices for Utility Policies
 **URL:** https://docs.netskope.com/en/best-practices-for-utility-policies/
 **Last Modified:** 2026-02-11T19:42:06+00:00
-**Scraped:** 2026-07-24T08:25:12.396063+00:00
+**Scraped:** 2026-07-25T08:05:17.594354+00:00
 
+Best Practices for Utility Policies - Netskope Knowledge Portal
 Best Practices for Utility Policies
 Netskope recommends creating a utility policy (i.e., [Utility] Policy Sync Test – 001) that sends users an alert for non-critical, low-use websites with an option to proceed. These websites are entries in a
 custom category
@@ -7013,8 +7049,9 @@ Best Practices for Utility Policies
 ## CGNAT Address Support for Local DNS Resolution
 **URL:** https://docs.netskope.com/en/cgnat-address-support-for-local-dns-resolution/
 **Last Modified:** 2025-08-31T01:45:48+00:00
-**Scraped:** 2026-07-24T08:25:13.565381+00:00
+**Scraped:** 2026-07-25T08:05:18.750638+00:00
 
+CGNAT Address Support for Local DNS Resolution - Netskope Knowledge Portal
 CGNAT Address Support for Local DNS Resolution
 When a private app is published via Netskope Private Access, the Netskope Client will resolve DNS to a synthetic IP address. This would be the case when Publisher DNS is disabled. With this new feature, Private Access now reserves the CGNAT address space
 100.64.0.0/16
@@ -7033,8 +7070,9 @@ CGNAT Address Support for Local DNS Resolution
 ## Channels
 **URL:** https://docs.netskope.com/en/channels-117814/
 **Last Modified:** 2025-08-31T01:41:44+00:00
-**Scraped:** 2026-07-24T08:25:14.737411+00:00
+**Scraped:** 2026-07-25T08:05:19.923281+00:00
 
+Channels - Netskope Knowledge Portal
 Channels
 This section of the API Data Protection Policy page specifies the channels that trigger a policy violation. The Channels section is only for the Slack for Team and Slack for Enterprise apps. With Slack for Enterprise, you also have the option to select direct messaging channels and the teams to scan.
 Select the channels for which you want to scan content. If you selected Slack for Enterprise on the Instance page, proceed to the next step. If you choose Slack for Team, choose public and/or private and click
@@ -7050,8 +7088,9 @@ Channels
 ## Building Regular Expressions
 **URL:** https://docs.netskope.com/en/building-regular-expressions/
 **Last Modified:** 2026-06-25T17:36:52+00:00
-**Scraped:** 2026-07-24T08:25:15.910805+00:00
+**Scraped:** 2026-07-25T08:05:21.116213+00:00
 
+Building Regular Expressions - Netskope Knowledge Portal
 Building Regular Expressions
 The DLP engine contains 3000+ predefined data identifiers that can be used in DLP rules. The DLP engine also supports custom data identifiers that use either a keyword search or regular expression search. This page describes how to write custom data identifiers for DLP using regular expressions.
 When building a Regular Expression, always consider the following metrics:
@@ -7301,8 +7340,9 @@ Building Regular Expressions
 ## About Predefined Categories
 **URL:** https://docs.netskope.com/en/category-definitions/
 **Last Modified:** 2026-05-27T22:24:15+00:00
-**Scraped:** 2026-07-24T08:25:17.244863+00:00
+**Scraped:** 2026-07-25T08:05:22.318558+00:00
 
+About Predefined Categories - Netskope Knowledge Portal
 About Predefined Categories
 Note
 You must have the Generative AI Apps Upgrade license to use the subcategories for generative AI.
@@ -7608,7 +7648,7 @@ About Predefined Categories
 ## Box Audit Events
 **URL:** https://docs.netskope.com/en/box-audit-events/
 **Last Modified:** 2025-08-31T01:39:55+00:00
-**Scraped:** 2026-07-24T08:25:18.421675+00:00
+**Scraped:** 2026-07-25T08:05:23.611074+00:00
 
 Box Audit Events - Netskope Knowledge Portal
 Box Audit Events
@@ -7698,7 +7738,7 @@ Box Audit Events
 ## Cisco Webex Messages with Violations Page
 **URL:** https://docs.netskope.com/en/cisco-webex-messages-with-violations-page/
 **Last Modified:** 2025-08-31T01:40:01+00:00
-**Scraped:** 2026-07-24T08:25:20.863799+00:00
+**Scraped:** 2026-07-25T08:05:25.958475+00:00
 
 Cisco Webex Messages with Violations Page - Netskope Knowledge Portal
 Cisco Webex Messages with Violations Page
@@ -7745,7 +7785,7 @@ Cisco Webex Messages with Violations Page
 ## Channels
 **URL:** https://docs.netskope.com/en/channels/
 **Last Modified:** 2025-09-01T12:32:10+00:00
-**Scraped:** 2026-07-24T08:25:22.033823+00:00
+**Scraped:** 2026-07-25T08:05:27.114564+00:00
 
 Channels - Netskope Knowledge Portal
 Channels
@@ -7763,7 +7803,7 @@ Channels
 ## Cisco Webex Spaces Page
 **URL:** https://docs.netskope.com/en/cisco-webex-spaces-page/
 **Last Modified:** 2025-08-31T01:40:02+00:00
-**Scraped:** 2026-07-24T08:25:23.303191+00:00
+**Scraped:** 2026-07-25T08:05:28.289778+00:00
 
 Cisco Webex Spaces Page - Netskope Knowledge Portal
 Cisco Webex Spaces Page
@@ -7804,7 +7844,7 @@ Cisco Webex Spaces Page
 ## Cisco Webex Summary Page
 **URL:** https://docs.netskope.com/en/cisco-webex-summary-page/
 **Last Modified:** 2025-08-31T01:40:00+00:00
-**Scraped:** 2026-07-24T08:25:24.479694+00:00
+**Scraped:** 2026-07-25T08:05:29.457900+00:00
 
 Cisco Webex Summary Page - Netskope Knowledge Portal
 Cisco Webex Summary Page
@@ -7830,7 +7870,7 @@ Cisco Webex Summary Page
 ## Cisco Webex Users Page
 **URL:** https://docs.netskope.com/en/cisco-webex-users-page/
 **Last Modified:** 2025-08-31T01:40:01+00:00
-**Scraped:** 2026-07-24T08:25:25.656212+00:00
+**Scraped:** 2026-07-25T08:05:30.633346+00:00
 
 Cisco Webex Users Page - Netskope Knowledge Portal
 Cisco Webex Users Page
@@ -7876,7 +7916,7 @@ Cisco Webex Users Page
 ## Cisco Webex Teams Page
 **URL:** https://docs.netskope.com/en/cisco-webex-teams-page/
 **Last Modified:** 2025-08-31T01:40:01+00:00
-**Scraped:** 2026-07-24T08:25:26.830089+00:00
+**Scraped:** 2026-07-25T08:05:31.902882+00:00
 
 Cisco Webex Teams Page - Netskope Knowledge Portal
 Cisco Webex Teams Page
@@ -7914,7 +7954,7 @@ Cisco Webex Teams Page
 ## Clipboard in RBI
 **URL:** https://docs.netskope.com/en/clipboard-in-rbi/
 **Last Modified:** 2025-08-31T01:46:35+00:00
-**Scraped:** 2026-07-24T08:25:28.013673+00:00
+**Scraped:** 2026-07-25T08:05:33.089152+00:00
 
 Clipboard in RBI - Netskope Knowledge Portal
 Clipboard in RBI
@@ -7993,7 +8033,7 @@ Clipboard in RBI
 ## Cloud App Suite Membership
 **URL:** https://docs.netskope.com/en/cloud-app-suite-membership/
 **Last Modified:** 2025-08-31T01:50:15+00:00
-**Scraped:** 2026-07-24T08:25:30.460267+00:00
+**Scraped:** 2026-07-25T08:05:35.435649+00:00
 
 Cloud App Suite Membership - Netskope Knowledge Portal
 Cloud App Suite Membership
@@ -8035,7 +8075,7 @@ Cloud App Suite Membership
 ## Cloud Security Posture Management
 **URL:** https://docs.netskope.com/en/cloud-security-posture-management/
 **Last Modified:** 2026-02-09T07:16:42+00:00
-**Scraped:** 2026-07-24T08:25:31.632389+00:00
+**Scraped:** 2026-07-25T08:05:36.604280+00:00
 
 Cloud Security Posture Management - Netskope Knowledge Portal
 Cloud Security Posture Management
@@ -8064,7 +8104,7 @@ Cloud Security Posture Management
 ## Configurations
 **URL:** https://docs.netskope.com/en/configurations/
 **Last Modified:** 2025-08-31T01:47:48+00:00
-**Scraped:** 2026-07-24T08:25:32.811083+00:00
+**Scraped:** 2026-07-25T08:05:37.780801+00:00
 
 Configurations - Netskope Knowledge Portal
 Configurations
@@ -8133,8 +8173,9 @@ Configurations
 ## Configure a GRE Tunnel
 **URL:** https://docs.netskope.com/en/configure-a-gre-tunnel/
 **Last Modified:** 2025-08-31T01:50:39+00:00
-**Scraped:** 2026-07-24T08:25:36.430365+00:00
+**Scraped:** 2026-07-25T08:05:41.410306+00:00
 
+Configure a GRE Tunnel - Netskope Knowledge Portal
 Configure a GRE Tunnel
 To configure a GRE tunnel, see
 GRE
@@ -8146,7 +8187,7 @@ Configure a GRE Tunnel
 ## Configure API Data Protection for Forensics
 **URL:** https://docs.netskope.com/en/configure-api-data-protection-for-forensics/
 **Last Modified:** 2026-06-25T19:32:44+00:00
-**Scraped:** 2026-07-24T08:25:37.603748+00:00
+**Scraped:** 2026-07-25T08:05:42.584081+00:00
 
 Configure API Data Protection for Forensics - Netskope Knowledge Portal
 Configure API Data Protection for Forensics
@@ -8196,8 +8237,9 @@ Configure API Data Protection for Forensics
 ## Configure an IPSec Tunnel
 **URL:** https://docs.netskope.com/en/configure-an-ipsec-tunnel/
 **Last Modified:** 2025-08-31T01:50:40+00:00
-**Scraped:** 2026-07-24T08:25:38.773319+00:00
+**Scraped:** 2026-07-25T08:05:43.749730+00:00
 
+Configure an IPSec Tunnel - Netskope Knowledge Portal
 Configure an IPSec Tunnel
 To configure an IPSec tunnel, see
 IPSec
@@ -8209,7 +8251,7 @@ Configure an IPSec Tunnel
 ## Configure Certificates
 **URL:** https://docs.netskope.com/en/configure-certificates/
 **Last Modified:** 2025-09-01T13:20:02+00:00
-**Scraped:** 2026-07-24T08:25:39.948234+00:00
+**Scraped:** 2026-07-25T08:05:44.923534+00:00
 
 Configure Certificates
 Server side certificates are required to enable SSL inspection. You can use either a self-signed CA certificate or a CA certificate preferably signed by the enterprise’s Root or intermediate CA. See
@@ -8284,7 +8326,7 @@ Configure Certificates
 ## Configure Box for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-box-for-api-enabled-protection/
 **Last Modified:** 2025-08-31T01:39:46+00:00
-**Scraped:** 2026-07-24T08:25:41.120806+00:00
+**Scraped:** 2026-07-25T08:05:46.096267+00:00
 
 Configure Box for API Data Protection - Netskope Knowledge Portal
 Configure Box for API Data Protection
@@ -8309,8 +8351,9 @@ Configure Box for API Data Protection
 ## Configure Browser-based Access for Private Apps
 **URL:** https://docs.netskope.com/en/configure-browser-access-for-private-apps/
 **Last Modified:** 2026-02-27T23:39:36+00:00
-**Scraped:** 2026-07-24T08:25:42.308071+00:00
+**Scraped:** 2026-07-25T08:05:47.380880+00:00
 
+Configure Browser-based Access for Private Apps - Netskope Knowledge Portal
 Configure Browser-based Access for Private Apps
 This article primarily covers the configuration and setup pertaining to Reverse Proxy browser-based private app access (referred to throughout this document as Browser Access).
 Browser Access is an additional method through which users can access enterprise internal web applications over HTTP/HTTPS. Additionally, it also supports access to non-web applications, including RDP and SSH, with the
@@ -8474,7 +8517,7 @@ Configure Browser-based Access for Private Apps
 ## Configure Cisco Webex Teams for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-cisco-webex-teams-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:39:56+00:00
-**Scraped:** 2026-07-24T08:25:43.584486+00:00
+**Scraped:** 2026-07-25T08:05:48.559355+00:00
 
 Configure Cisco Webex Teams for API Data Protection - Netskope Knowledge Portal
 Configure Cisco Webex Teams for API Data Protection
@@ -8547,7 +8590,7 @@ Configure Cisco Webex Teams for API Data Protection
 ## Configure Dropbox for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-dropbox-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:03+00:00
-**Scraped:** 2026-07-24T08:25:44.764021+00:00
+**Scraped:** 2026-07-25T08:05:49.730959+00:00
 
 Configure Dropbox for API Data Protection - Netskope Knowledge Portal
 Configure Dropbox for API Data Protection
@@ -8593,7 +8636,7 @@ Configure Dropbox for API Data Protection
 ## Configure Egnyte for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-egnyte-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:12+00:00
-**Scraped:** 2026-07-24T08:25:47.135379+00:00
+**Scraped:** 2026-07-25T08:05:52.087430+00:00
 
 Configure Egnyte for API Data Protection - Netskope Knowledge Portal
 Configure Egnyte for API Data Protection
@@ -8641,8 +8684,9 @@ Configure Egnyte for API Data Protection
 ## Configure ShareFile for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-citrix-sharefile-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-11-17T15:22:49+00:00
-**Scraped:** 2026-07-24T08:25:48.312367+00:00
+**Scraped:** 2026-07-25T08:05:53.261050+00:00
 
+Configure ShareFile for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure ShareFile for the Next Generation API Data Protection
 To configure ShareFile for the Next Generation API Data Protection, follow the instructions below.
 Prerequisite
@@ -8733,7 +8777,7 @@ Configure ShareFile for the Next Generation API Data Protection
 ## Configure GitHub for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-github-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:20+00:00
-**Scraped:** 2026-07-24T08:25:49.495171+00:00
+**Scraped:** 2026-07-25T08:05:54.442370+00:00
 
 Configure GitHub for API Data Protection - Netskope Knowledge Portal
 Configure GitHub for API Data Protection
@@ -8862,7 +8906,7 @@ Configure GitHub for API Data Protection
 ## Onboard GitHub
 **URL:** https://docs.netskope.com/en/configure-github-instance-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2025-09-05T04:49:31+00:00
-**Scraped:** 2026-07-24T08:25:50.678022+00:00
+**Scraped:** 2026-07-25T08:05:55.621722+00:00
 
 Onboard GitHub - Netskope Knowledge Portal
 Onboard GitHub
@@ -8966,7 +9010,7 @@ Onboard GitHub
 ## Configure Gmail for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-gmail-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:24+00:00
-**Scraped:** 2026-07-24T08:25:51.968267+00:00
+**Scraped:** 2026-07-25T08:05:56.826645+00:00
 
 Configure Gmail for API Data Protection - Netskope Knowledge Portal
 Configure Gmail for API Data Protection
@@ -9221,8 +9265,9 @@ Configure Gmail for API Data Protection
 ## Onboard Microsoft 365
 **URL:** https://docs.netskope.com/en/configure-microsoft-365-instance-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2026-04-28T05:40:04+00:00
-**Scraped:** 2026-07-24T08:25:53.155480+00:00
+**Scraped:** 2026-07-25T08:05:58.009640+00:00
 
+Onboard Microsoft 365 - Netskope Knowledge Portal
 Onboard Microsoft 365
 The installation instructions describe how to integrate your Microsoft 365 account with Netskope. When you configure the Microsoft 365 app instance on the Netskope tenant, it automatically integrates the following apps and enables Netskope to scan these services for security posture management.
 Microsoft 365 Entra ID (formerly Azure AD)
@@ -9356,7 +9401,7 @@ Onboard Microsoft 365
 ## Configure Microsoft Viva Engage (formerly Yammer) for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-viva-engage-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-05-25T04:53:53+00:00
-**Scraped:** 2026-07-24T08:25:54.345275+00:00
+**Scraped:** 2026-07-25T08:05:59.287283+00:00
 
 Configure Microsoft Viva Engage (formerly Yammer) for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Microsoft Viva Engage (formerly Yammer) for the Next Generation API Data Protection
@@ -9492,7 +9537,7 @@ Configure Microsoft Viva Engage (formerly Yammer) for the Next Generation API Da
 ## Configure Microsoft Office 365 Outlook for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-office-365-outlook-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:56+00:00
-**Scraped:** 2026-07-24T08:25:55.523047+00:00
+**Scraped:** 2026-07-25T08:06:00.568122+00:00
 
 Configure Microsoft Office 365 Outlook for API Data Protection - Netskope Knowledge Portal
 Configure Microsoft Office 365 Outlook for API Data Protection
@@ -9577,7 +9622,7 @@ Configure Microsoft Office 365 Outlook for API Data Protection
 ## Configure Okta for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-okta-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:27+00:00
-**Scraped:** 2026-07-24T08:25:56.706625+00:00
+**Scraped:** 2026-07-25T08:06:01.829271+00:00
 
 Configure Okta for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Okta for the Next Generation API Data Protection
@@ -9697,7 +9742,7 @@ Configure Okta for the Next Generation API Data Protection
 ## Configure Microsoft Office 365 Teams for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-office-365-teams-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:19+00:00
-**Scraped:** 2026-07-24T08:25:57.983724+00:00
+**Scraped:** 2026-07-25T08:06:03.215914+00:00
 
 Configure Microsoft Office 365 Teams for API Data Protection - Netskope Knowledge Portal
 Configure Microsoft Office 365 Teams for API Data Protection
@@ -9811,7 +9856,7 @@ Configure Microsoft Office 365 Teams for API Data Protection
 ## Configure Netskope to Access your Office 365 OneDrive App
 **URL:** https://docs.netskope.com/en/configure-netskope-to-access-your-office-365-onedrive-app/
 **Last Modified:** 2025-09-02T17:16:13+00:00
-**Scraped:** 2026-07-24T08:25:59.418894+00:00
+**Scraped:** 2026-07-25T08:06:04.404761+00:00
 
 Configure Netskope to Access your Office 365 OneDrive App - Netskope Knowledge Portal
 Configure Netskope to Access your Office 365 OneDrive App
@@ -9925,7 +9970,7 @@ Configure Netskope to Access your Office 365 OneDrive App
 ## Onboard ServiceNow
 **URL:** https://docs.netskope.com/en/configure-servicenow-instance-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2026-07-13T13:22:35+00:00
-**Scraped:** 2026-07-24T08:26:00.606135+00:00
+**Scraped:** 2026-07-25T08:06:05.674816+00:00
 
 Onboard ServiceNow - Netskope Knowledge Portal
 Onboard ServiceNow
@@ -10106,7 +10151,7 @@ Onboard ServiceNow
 ## Onboard Salesforce
 **URL:** https://docs.netskope.com/en/configure-salesforce-instance-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2026-05-25T06:43:29+00:00
-**Scraped:** 2026-07-24T08:26:01.825876+00:00
+**Scraped:** 2026-07-25T08:06:06.868273+00:00
 
 Onboard Salesforce - Netskope Knowledge Portal
 Onboard Salesforce
@@ -10350,7 +10395,7 @@ Onboard Salesforce
 ## Configure Slack for Team for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-slack-for-team-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:43+00:00
-**Scraped:** 2026-07-24T08:26:03.111166+00:00
+**Scraped:** 2026-07-25T08:06:08.052799+00:00
 
 Configure Slack for Team for API Data Protection - Netskope Knowledge Portal
 Configure Slack for Team for API Data Protection
@@ -10422,7 +10467,7 @@ Configure Slack for Team for API Data Protection
 ## Configure Slack Enterprise for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-slack-enterprise-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:36+00:00
-**Scraped:** 2026-07-24T08:26:04.294496+00:00
+**Scraped:** 2026-07-25T08:06:09.234854+00:00
 
 Configure Slack Enterprise for API Data Protection - Netskope Knowledge Portal
 Configure Slack Enterprise for API Data Protection
@@ -10586,7 +10631,7 @@ Configure Slack Enterprise for API Data Protection
 ## Configure the Appliance in Explicit Proxy Mode
 **URL:** https://docs.netskope.com/en/configure-the-appliance-in-explicit-proxy-mode/
 **Last Modified:** 2025-09-01T13:20:00+00:00
-**Scraped:** 2026-07-24T08:26:05.476175+00:00
+**Scraped:** 2026-07-25T08:06:10.416487+00:00
 
 Configure the Appliance in Explicit Proxy Mode - Netskope Knowledge Portal
 Configure the Appliance in Explicit Proxy Mode
@@ -10706,7 +10751,7 @@ Configure the Appliance in Explicit Proxy Mode
 ## Configure the Interface for Dataplane On-Premises
 **URL:** https://docs.netskope.com/en/configure-the-interface-for-dataplane-on-premises/
 **Last Modified:** 2025-09-01T13:20:00+00:00
-**Scraped:** 2026-07-24T08:26:06.661146+00:00
+**Scraped:** 2026-07-25T08:06:11.585473+00:00
 
 Configure the Interface for Dataplane On-Premises - Netskope Knowledge Portal
 Configure the Interface for Dataplane On-Premises
@@ -10739,7 +10784,7 @@ Configure the Interface for Dataplane On-Premises
 ## Configure Zendesk for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-zendesk-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-10-23T16:08:39+00:00
-**Scraped:** 2026-07-24T08:26:07.835194+00:00
+**Scraped:** 2026-07-25T08:06:12.769302+00:00
 
 Configure Zendesk for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Zendesk for the Next Generation API Data Protection
@@ -10802,7 +10847,7 @@ Configure Zendesk for the Next Generation API Data Protection
 ## Onboard Workday
 **URL:** https://docs.netskope.com/en/configure-workday-instance-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2025-09-05T04:50:52+00:00
-**Scraped:** 2026-07-24T08:26:09.039248+00:00
+**Scraped:** 2026-07-25T08:06:14.080815+00:00
 
 Onboard Workday - Netskope Knowledge Portal
 Onboard Workday
@@ -11087,7 +11132,7 @@ Onboard Workday
 ## Configure Workday for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-workday-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-05-27T03:29:50+00:00
-**Scraped:** 2026-07-24T08:26:10.335823+00:00
+**Scraped:** 2026-07-25T08:06:15.274204+00:00
 
 Configure Workday for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Workday for the Next Generation API Data Protection
@@ -11360,7 +11405,7 @@ Configure Workday for the Next Generation API Data Protection
 ## Configure Workplace from Meta for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-workplace-from-meta-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:50+00:00
-**Scraped:** 2026-07-24T08:26:11.513840+00:00
+**Scraped:** 2026-07-25T08:06:16.465677+00:00
 
 Configure Workplace from Meta for API Data Protection - Netskope Knowledge Portal
 Configure Workplace from Meta for API Data Protection
@@ -11455,7 +11500,7 @@ Configure Workplace from Meta for API Data Protection
 ## Connected App/Plugin Profile
 **URL:** https://docs.netskope.com/en/connected-app-plugin-profile/
 **Last Modified:** 2025-08-31T01:50:28+00:00
-**Scraped:** 2026-07-24T08:26:12.685078+00:00
+**Scraped:** 2026-07-25T08:06:17.737479+00:00
 
 Connected App/Plugin Profile - Netskope Knowledge Portal
 Connected App/Plugin Profile
@@ -11491,7 +11536,7 @@ Connected App/Plugin Profile
 ## Onboard Zoom
 **URL:** https://docs.netskope.com/en/configure-zoom-instance-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2026-06-26T04:14:24+00:00
-**Scraped:** 2026-07-24T08:26:13.869140+00:00
+**Scraped:** 2026-07-25T08:06:18.923909+00:00
 
 Onboard Zoom - Netskope Knowledge Portal
 Onboard Zoom
@@ -11618,8 +11663,9 @@ Onboard Zoom
 ## Connected Apps/Plugins
 **URL:** https://docs.netskope.com/en/connected-apps-plugins/
 **Last Modified:** 2025-09-11T05:09:30+00:00
-**Scraped:** 2026-07-24T08:26:16.316161+00:00
+**Scraped:** 2026-07-25T08:06:21.373053+00:00
 
+Connected Apps/Plugins - Netskope Knowledge Portal
 Connected Apps/Plugins
 Google app ecosystem lists the apps that are installed in the domain using an OAuth 2.0 token. In previous releases, Netskope identified these apps and described them using a CCI score, scope used, and app type. From release 48 on wards, users can create policies to revoke apps based on specific criteria. This feature allows creation of policies on third-party apps displayed in Google App Ecosystem. Policies may be based on an app ID, scopes used, CCI score, and more. Users may also create a list of apps that may be included or excluded from a policy trigger. App revocation can be done for all or selected users who have installed the app.
 This section of the API Data Protection Policy page specifies the Google apps and plugins that can trigger a policy violation.
@@ -11691,7 +11737,7 @@ Connected Apps/Plugins
 ## Content
 **URL:** https://docs.netskope.com/en/content-117715/
 **Last Modified:** 2025-08-31T01:40:51+00:00
-**Scraped:** 2026-07-24T08:26:17.498027+00:00
+**Scraped:** 2026-07-25T08:06:22.645026+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -11759,7 +11805,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-117862/
 **Last Modified:** 2025-09-01T12:33:06+00:00
-**Scraped:** 2026-07-24T08:26:18.690294+00:00
+**Scraped:** 2026-07-25T08:06:23.819369+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -11784,7 +11830,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-117839/
 **Last Modified:** 2025-09-01T12:30:41+00:00
-**Scraped:** 2026-07-24T08:26:19.864811+00:00
+**Scraped:** 2026-07-25T08:06:24.994033+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -11808,7 +11854,7 @@ Content
 ## Constraint Profile
 **URL:** https://docs.netskope.com/en/constraint-profile/
 **Last Modified:** 2026-06-25T19:22:20+00:00
-**Scraped:** 2026-07-24T08:26:21.049465+00:00
+**Scraped:** 2026-07-25T08:06:26.180324+00:00
 
 Constraint Profile
 A Constraint profile is used in Real-time Protection policies. They define what a user is allowed to do for a specific activity in an app and, in the case of Amazon S3, constraints detect and prevent insider threat activities. Endpoint DLP device constraints now have an optional description field for extra information about each entry.
@@ -12019,7 +12065,7 @@ Constraint Profile
 ## Content
 **URL:** https://docs.netskope.com/en/content-117815/
 **Last Modified:** 2025-09-01T12:32:40+00:00
-**Scraped:** 2026-07-24T08:26:22.223065+00:00
+**Scraped:** 2026-07-25T08:06:27.351611+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12049,7 +12095,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-118035/
 **Last Modified:** 2025-09-01T12:31:11+00:00
-**Scraped:** 2026-07-24T08:26:23.407274+00:00
+**Scraped:** 2026-07-25T08:06:28.525296+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12087,7 +12133,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-117906/
 **Last Modified:** 2025-09-01T12:31:19+00:00
-**Scraped:** 2026-07-24T08:26:24.583509+00:00
+**Scraped:** 2026-07-25T08:06:29.800479+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12150,8 +12196,9 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-117950/
 **Last Modified:** 2025-09-01T12:32:07+00:00
-**Scraped:** 2026-07-24T08:26:25.755463+00:00
+**Scraped:** 2026-07-25T08:06:30.973429+00:00
 
+Content - Netskope Knowledge Portal
 Content
 This section of the API Data Protection Policy page specifies files, objects, and messages that trigger a policy violation.
 For Workplace by Facebook, you can select one of the following options:
@@ -12174,7 +12221,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-118082/
 **Last Modified:** 2025-09-01T12:31:45+00:00
-**Scraped:** 2026-07-24T08:26:26.937357+00:00
+**Scraped:** 2026-07-25T08:06:32.147947+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12242,7 +12289,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-117884/
 **Last Modified:** 2025-09-01T12:30:46+00:00
-**Scraped:** 2026-07-24T08:26:28.111519+00:00
+**Scraped:** 2026-07-25T08:06:33.320699+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12287,7 +12334,7 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content/
 **Last Modified:** 2025-09-01T12:30:37+00:00
-**Scraped:** 2026-07-24T08:26:29.386541+00:00
+**Scraped:** 2026-07-25T08:06:34.491782+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12332,8 +12379,9 @@ Content
 ## Unknown Users
 **URL:** https://docs.netskope.com/en/unknown-users/
 **Last Modified:** 2025-08-31T01:50:14+00:00
-**Scraped:** 2026-07-24T08:26:30.549912+00:00
+**Scraped:** 2026-07-25T08:06:35.667719+00:00
 
+Unknown Users - Netskope Knowledge Portal
 Unknown Users
 Netskope provides an option to create a real-time protection policy for unknown (unauthenticated or unidentified) users when the user identity is not available or received by the Netskope cloud. For example, a shared IP scenario like using a terminal server or multiple sessions with the same IP address.
 This feature can help you ensure that lack of authentication does not lead to an unnecessary block of user traffic.
@@ -12360,7 +12408,7 @@ Unknown Users
 ## Content
 **URL:** https://docs.netskope.com/en/content-144151/
 **Last Modified:** 2025-09-01T12:32:41+00:00
-**Scraped:** 2026-07-24T08:26:31.726421+00:00
+**Scraped:** 2026-07-25T08:06:36.842611+00:00
 
 Content - Netskope Knowledge Portal
 Content
@@ -12412,8 +12460,9 @@ Content
 ## Content
 **URL:** https://docs.netskope.com/en/content-118107/
 **Last Modified:** 2025-09-01T12:32:11+00:00
-**Scraped:** 2026-07-24T08:26:32.901249+00:00
+**Scraped:** 2026-07-25T08:06:38.110674+00:00
 
+Content - Netskope Knowledge Portal
 Content
 This section of the API Data Protection Policy page specifies files, objects, and messages that trigger a policy violation.
 For Slack for Enterprise, you can select one of the following options:
@@ -12450,7 +12499,7 @@ Content
 ## Create a Custom Header
 **URL:** https://docs.netskope.com/en/create-a-custom-header/
 **Last Modified:** 2025-08-31T01:50:05+00:00
-**Scraped:** 2026-07-24T08:26:35.246097+00:00
+**Scraped:** 2026-07-25T08:06:40.440136+00:00
 
 Create a Custom Header - Netskope Knowledge Portal
 Create a Custom Header
@@ -12472,8 +12521,9 @@ Create a Custom Header
 ## Create a Microsoft Office 365 Teams Policy
 **URL:** https://docs.netskope.com/en/create-a-microsoft-office-365-teams-policy/
 **Last Modified:** 2026-05-27T03:36:10+00:00
-**Scraped:** 2026-07-24T08:26:36.425992+00:00
+**Scraped:** 2026-07-25T08:06:41.618580+00:00
 
+Create a Microsoft Office 365 Teams Policy - Netskope Knowledge Portal
 Create a Microsoft Office 365 Teams Policy
 To discover existing data residing within your sanctioned cloud services, create an API Data Protection policy with the desired options and actions. The Netskope UI guides you through the process of configuring policies for each of your cloud apps on a single web page.
 To configure a Microsoft Office 365 Teams policy, follow the steps below:
@@ -12636,7 +12686,7 @@ Create a Microsoft Office 365 Teams Policy
 ## Creating a Security Policy
 **URL:** https://docs.netskope.com/en/create-a-saas-security-posture-policy/
 **Last Modified:** 2025-09-10T07:57:47+00:00
-**Scraped:** 2026-07-24T08:26:37.701953+00:00
+**Scraped:** 2026-07-25T08:06:42.795081+00:00
 
 Creating a Security Policy - Netskope Knowledge Portal
 Creating a Security Policy
@@ -12687,7 +12737,7 @@ Creating a Security Policy
 ## Create a Real-Time Policy End-User Notification
 **URL:** https://docs.netskope.com/en/create-a-policy-user-notification/
 **Last Modified:** 2026-01-14T02:05:00+00:00
-**Scraped:** 2026-07-24T08:26:38.976864+00:00
+**Scraped:** 2026-07-25T08:06:43.957644+00:00
 
 Create a Real-Time Policy End-User Notification - Netskope Knowledge Portal
 Create a Real-Time Policy End-User Notification
@@ -12747,7 +12797,7 @@ Create a Real-Time Policy End-User Notification
 ## Create a Page Events Custom Report
 **URL:** https://docs.netskope.com/en/create-a-page-events-custom-report/
 **Last Modified:** 2025-09-01T13:19:58+00:00
-**Scraped:** 2026-07-24T08:26:40.152175+00:00
+**Scraped:** 2026-07-25T08:06:45.233140+00:00
 
 Create a Page Events Custom Report - Netskope Knowledge Portal
 Create a Page Events Custom Report
@@ -12818,7 +12868,7 @@ Create a Page Events Custom Report
 ## Create a Remediation Profile
 **URL:** https://docs.netskope.com/en/create-a-remediation-profile/
 **Last Modified:** 2026-03-23T20:54:32+00:00
-**Scraped:** 2026-07-24T08:26:43.705422+00:00
+**Scraped:** 2026-07-25T08:06:48.776031+00:00
 
 Create a Remediation Profile - Netskope Knowledge Portal
 Create a Remediation Profile
@@ -12847,7 +12897,7 @@ Create a Remediation Profile
 ## Create a Security Posture Policy
 **URL:** https://docs.netskope.com/en/create-a-security-posture-policy/
 **Last Modified:** 2025-08-31T01:46:04+00:00
-**Scraped:** 2026-07-24T08:26:46.146209+00:00
+**Scraped:** 2026-07-25T08:06:51.222519+00:00
 
 Create a Security Posture Policy - Netskope Knowledge Portal
 Create a Security Posture Policy
@@ -12921,7 +12971,7 @@ Create a Security Posture Policy
 ## Create a Security Posture Rule
 **URL:** https://docs.netskope.com/en/create-a-security-posture-rule/
 **Last Modified:** 2025-08-31T01:46:06+00:00
-**Scraped:** 2026-07-24T08:26:47.322898+00:00
+**Scraped:** 2026-07-25T08:06:52.399144+00:00
 
 Create a Security Posture Rule - Netskope Knowledge Portal
 Create a Security Posture Rule
@@ -13022,7 +13072,7 @@ Create a Security Posture Rule
 ## Create a Security Posture Profile
 **URL:** https://docs.netskope.com/en/create-a-security-posture-profile/
 **Last Modified:** 2025-08-31T01:46:05+00:00
-**Scraped:** 2026-07-24T08:26:48.494025+00:00
+**Scraped:** 2026-07-25T08:06:53.570622+00:00
 
 Create a Security Posture Profile - Netskope Knowledge Portal
 Create a Security Posture Profile
@@ -13082,7 +13132,7 @@ Create a Security Posture Profile
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118923/
 **Last Modified:** 2025-08-31T01:40:03+00:00
-**Scraped:** 2026-07-24T08:26:49.667827+00:00
+**Scraped:** 2026-07-25T08:06:54.840282+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13106,7 +13156,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118924/
 **Last Modified:** 2025-09-01T12:32:59+00:00
-**Scraped:** 2026-07-24T08:26:50.843921+00:00
+**Scraped:** 2026-07-25T08:06:56.010979+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13130,7 +13180,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118922/
 **Last Modified:** 2025-09-01T12:32:56+00:00
-**Scraped:** 2026-07-24T08:26:52.114299+00:00
+**Scraped:** 2026-07-25T08:06:57.287503+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13154,7 +13204,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118927/
 **Last Modified:** 2025-09-01T12:33:23+00:00
-**Scraped:** 2026-07-24T08:26:53.287598+00:00
+**Scraped:** 2026-07-25T08:06:58.461777+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13179,7 +13229,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118926/
 **Last Modified:** 2025-09-01T12:33:02+00:00
-**Scraped:** 2026-07-24T08:26:54.460326+00:00
+**Scraped:** 2026-07-25T08:06:59.634638+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13202,7 +13252,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118933/
 **Last Modified:** 2025-09-01T12:33:30+00:00
-**Scraped:** 2026-07-24T08:26:55.634341+00:00
+**Scraped:** 2026-07-25T08:07:00.906104+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13227,7 +13277,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118934/
 **Last Modified:** 2025-09-01T12:33:24+00:00
-**Scraped:** 2026-07-24T08:26:56.806731+00:00
+**Scraped:** 2026-07-25T08:07:02.132358+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13251,7 +13301,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118932/
 **Last Modified:** 2025-09-01T12:33:22+00:00
-**Scraped:** 2026-07-24T08:26:58.096456+00:00
+**Scraped:** 2026-07-25T08:07:03.572199+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13274,8 +13324,9 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118931/
 **Last Modified:** 2025-09-01T12:33:31+00:00
-**Scraped:** 2026-07-24T08:26:59.372039+00:00
+**Scraped:** 2026-07-25T08:07:04.750651+00:00
 
+Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
 To discover existing data residing within your sanctioned cloud services, create an API Data Protection policy with the desired options and actions. The Netskope UI guides you through the process of configuring policies for each of your cloud apps on a single web page.
 Cloud apps have unique features, so the policy options vary depending on the app you select on the top of the page. Choose the topic below for the app API connector you have configured.
@@ -13297,7 +13348,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118935/
 **Last Modified:** 2025-09-01T12:32:55+00:00
-**Scraped:** 2026-07-24T08:27:00.825089+00:00
+**Scraped:** 2026-07-25T08:07:05.926269+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13320,7 +13371,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118937/
 **Last Modified:** 2025-09-01T12:33:01+00:00
-**Scraped:** 2026-07-24T08:27:02.087315+00:00
+**Scraped:** 2026-07-25T08:07:07.097229+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13344,7 +13395,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy/
 **Last Modified:** 2025-09-01T12:32:58+00:00
-**Scraped:** 2026-07-24T08:27:03.358882+00:00
+**Scraped:** 2026-07-25T08:07:08.270867+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13369,7 +13420,7 @@ Create an API Data Protection Policy
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118938/
 **Last Modified:** 2025-09-01T12:32:57+00:00
-**Scraped:** 2026-07-24T08:27:04.534015+00:00
+**Scraped:** 2026-07-25T08:07:09.541369+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -13393,8 +13444,9 @@ Create an API Data Protection Policy
 ## Creating a File Hash List
 **URL:** https://docs.netskope.com/en/creating-a-file-hash-list/
 **Last Modified:** 2025-09-03T18:23:19+00:00
-**Scraped:** 2026-07-24T08:27:06.901766+00:00
+**Scraped:** 2026-07-25T08:07:11.981143+00:00
 
+Creating a File Hash List - Netskope Knowledge Portal
 Creating a File Hash List
 You can create a file hash list when adding a
 file profile
@@ -13442,7 +13494,7 @@ Creating a File Hash List
 ## Create Fingerprint Rules
 **URL:** https://docs.netskope.com/en/create-fingerprint-rules/
 **Last Modified:** 2026-06-25T19:22:09+00:00
-**Scraped:** 2026-07-24T08:27:08.179773+00:00
+**Scraped:** 2026-07-25T08:07:13.175924+00:00
 
 Create Fingerprint Rules - Netskope Knowledge Portal
 Create Fingerprint Rules
@@ -13679,9 +13731,8 @@ Create Fingerprint Rules
 ## Create Custom Categories
 **URL:** https://docs.netskope.com/en/create-custom-categories/
 **Last Modified:** 2025-09-01T13:20:09+00:00
-**Scraped:** 2026-07-24T08:27:09.405567+00:00
+**Scraped:** 2026-07-25T08:07:14.345513+00:00
 
-Create Custom Categories - Netskope Knowledge Portal
 Create Custom Categories
 Note
 A Netskope Secure Web Gateway license is required to use custom categories.
@@ -13702,7 +13753,7 @@ Create Custom Categories
 ## Creating a Forensic Profile for Public Cloud Storage
 **URL:** https://docs.netskope.com/en/creating-a-forensic-profile-for-public-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:27+00:00
-**Scraped:** 2026-07-24T08:27:14.199134+00:00
+**Scraped:** 2026-07-25T08:07:19.141603+00:00
 
 Creating a Forensic Profile for Public Cloud Storage - Netskope Knowledge Portal
 Creating a Forensic Profile for Public Cloud Storage
@@ -13727,7 +13778,7 @@ Creating a Forensic Profile for Public Cloud Storage
 ## Creating Data Protection Policies for Netskope Public Cloud Security
 **URL:** https://docs.netskope.com/en/creating-data-protection-policies-for-netskope-public-cloud-security/
 **Last Modified:** 2025-08-31T01:46:17+00:00
-**Scraped:** 2026-07-24T08:27:16.654018+00:00
+**Scraped:** 2026-07-25T08:07:21.493399+00:00
 
 Creating Data Protection Policies for Netskope Public Cloud Security - Netskope Knowledge Portal
 Creating Data Protection Policies for Netskope Public Cloud Security
@@ -13741,7 +13792,7 @@ Creating Data Protection Policies for Netskope Public Cloud Security
 ## Creating API Data Protection Policies to scan Google Cloud Storage
 **URL:** https://docs.netskope.com/en/creating-api-data-protection-policies-to-scan-google-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:17+00:00
-**Scraped:** 2026-07-24T08:27:19.017261+00:00
+**Scraped:** 2026-07-25T08:07:23.841008+00:00
 
 Creating API Data Protection Policies to scan Google Cloud Storage - Netskope Knowledge Portal
 Creating API Data Protection Policies to scan Google Cloud Storage
@@ -13802,7 +13853,7 @@ Creating API Data Protection Policies to scan Google Cloud Storage
 ## Creating API Data Protection Policies to scan S3 Buckets
 **URL:** https://docs.netskope.com/en/creating-api-data-protection-policies-to-scan-s3-buckets/
 **Last Modified:** 2025-08-31T01:46:17+00:00
-**Scraped:** 2026-07-24T08:27:20.196557+00:00
+**Scraped:** 2026-07-25T08:07:25.012684+00:00
 
 Creating API Data Protection Policies to scan S3 Buckets - Netskope Knowledge Portal
 Creating API Data Protection Policies to scan S3 Buckets
@@ -13863,7 +13914,7 @@ Creating API Data Protection Policies to scan S3 Buckets
 ## Creating Security Assessment Policies for Netskope Public Cloud Security
 **URL:** https://docs.netskope.com/en/creating-security-assessment-policies-for-netskope-public-cloud-security/
 **Last Modified:** 2025-08-31T01:46:04+00:00
-**Scraped:** 2026-07-24T08:27:21.383471+00:00
+**Scraped:** 2026-07-25T08:07:26.186704+00:00
 
 Creating Security Assessment Policies for Netskope Public Cloud Security - Netskope Knowledge Portal
 Creating Security Assessment Policies for Netskope Public Cloud Security
@@ -13883,8 +13934,9 @@ Creating Security Assessment Policies for Netskope Public Cloud Security
 ## Custom Rules using Domain Specific Language
 **URL:** https://docs.netskope.com/en/custom-rules-using-domain-specific-language/
 **Last Modified:** 2025-09-01T12:37:09+00:00
-**Scraped:** 2026-07-24T08:27:22.605158+00:00
+**Scraped:** 2026-07-25T08:07:27.381733+00:00
 
+Custom Rules using Domain Specific Language - Netskope Knowledge Portal
 Custom Rules using Domain Specific Language
 Build custom rules under
 Policies > Security Posture > Profiles & Rules
@@ -14068,7 +14120,7 @@ Custom Rules using Domain Specific Language
 ## Custom Category
 **URL:** https://docs.netskope.com/en/custom-category/
 **Last Modified:** 2025-11-05T21:18:16+00:00
-**Scraped:** 2026-07-24T08:27:23.783664+00:00
+**Scraped:** 2026-07-25T08:07:28.639267+00:00
 
 Custom Category - Netskope Knowledge Portal
 Custom Category
@@ -14147,7 +14199,7 @@ Custom Category
 ## Custom role permissions for GCP CSA
 **URL:** https://docs.netskope.com/en/custom-role-permissions-for-gcp-csa/
 **Last Modified:** 2025-08-31T01:46:03+00:00
-**Scraped:** 2026-07-24T08:27:25.067955+00:00
+**Scraped:** 2026-07-25T08:07:29.821909+00:00
 
 Custom role permissions for GCP CSA - Netskope Knowledge Portal
 Custom role permissions for GCP CSA
@@ -14296,7 +14348,7 @@ Custom role permissions for GCP CSA
 ## Data Protection for Azure Blob Storage
 **URL:** https://docs.netskope.com/en/data-protection-for-azure-blob-storage/
 **Last Modified:** 2025-08-31T01:46:09+00:00
-**Scraped:** 2026-07-24T08:27:26.246434+00:00
+**Scraped:** 2026-07-25T08:07:30.993522+00:00
 
 Data Protection for Azure Blob Storage - Netskope Knowledge Portal
 Data Protection for Azure Blob Storage
@@ -14322,7 +14374,7 @@ Data Protection for Azure Blob Storage
 ## Data Protection for Google Cloud Storage
 **URL:** https://docs.netskope.com/en/data-protection-for-google-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:10+00:00
-**Scraped:** 2026-07-24T08:27:27.416060+00:00
+**Scraped:** 2026-07-25T08:07:32.161502+00:00
 
 Data Protection for Google Cloud Storage - Netskope Knowledge Portal
 Data Protection for Google Cloud Storage
@@ -14339,7 +14391,7 @@ Data Protection for Google Cloud Storage
 ## Data Protection for Amazon Web Services S3
 **URL:** https://docs.netskope.com/en/data-protection-for-amazon-web-services-s3/
 **Last Modified:** 2025-08-31T01:46:09+00:00
-**Scraped:** 2026-07-24T08:27:28.593696+00:00
+**Scraped:** 2026-07-25T08:07:33.336001+00:00
 
 Data Protection for Amazon Web Services S3 - Netskope Knowledge Portal
 Data Protection for Amazon Web Services S3
@@ -14368,7 +14420,7 @@ Data Protection for Amazon Web Services S3
 ## Data Protection for Public Cloud
 **URL:** https://docs.netskope.com/en/data-protection-for-public-cloud/
 **Last Modified:** 2025-08-31T01:46:08+00:00
-**Scraped:** 2026-07-24T08:27:29.767689+00:00
+**Scraped:** 2026-07-25T08:07:34.505352+00:00
 
 Data Protection for Public Cloud - Netskope Knowledge Portal
 Data Protection for Public Cloud
@@ -14388,7 +14440,7 @@ Data Protection for Public Cloud
 ## Dataplane On-Premises Appliance
 **URL:** https://docs.netskope.com/en/dataplane-on-premises-appliance/
 **Last Modified:** 2025-09-01T13:20:03+00:00
-**Scraped:** 2026-07-24T08:27:32.118647+00:00
+**Scraped:** 2026-07-25T08:07:36.944589+00:00
 
 Dataplane On-Premises Appliance - Netskope Knowledge Portal
 Dataplane On-Premises Appliance
@@ -14429,7 +14481,7 @@ Dataplane On-Premises Appliance
 ## Delete an Instance
 **URL:** https://docs.netskope.com/en/delete-an-instance/
 **Last Modified:** 2025-08-31T01:42:39+00:00
-**Scraped:** 2026-07-24T08:27:34.569044+00:00
+**Scraped:** 2026-07-25T08:07:39.293230+00:00
 
 Delete an Instance - Netskope Knowledge Portal
 Delete an Instance
@@ -14468,8 +14520,9 @@ Delete an Instance
 ## Deploy a Publisher
 **URL:** https://docs.netskope.com/en/deploy-a-publisher/
 **Last Modified:** 2026-03-03T01:57:08+00:00
-**Scraped:** 2026-07-24T08:27:53.606357+00:00
+**Scraped:** 2026-07-25T08:07:58.549245+00:00
 
+Deploy a Publisher - Netskope Knowledge Portal
 Deploy a Publisher
 The Netskope Private Access Publisher can be deployed on AWS, Azure, GCP, HyperV, VMWare ESXi, and a Ubuntu 22.04 or RHEL 9.6 x86 based machine. The following sections provide the requirements and some recommendations, plus instructions for each of these deployments.
 Note
@@ -14498,7 +14551,7 @@ Deploy a Publisher
 ## Deploy Device Intelligence Virtual Appliance on VMware ESXi
 **URL:** https://docs.netskope.com/en/deploy-netskope-iot-security-virtual-appliance-on-vmware-esxi/
 **Last Modified:** 2026-05-27T09:19:56+00:00
-**Scraped:** 2026-07-24T08:27:56.058084+00:00
+**Scraped:** 2026-07-25T08:08:00.887585+00:00
 
 Deploy Device Intelligence Virtual Appliance on VMware ESXi - Netskope Knowledge Portal
 Deploy Device Intelligence Virtual Appliance on VMware ESXi
@@ -14587,7 +14640,7 @@ Deploy Device Intelligence Virtual Appliance on VMware ESXi
 ## Deploy Device Intelligence Physical Appliance
 **URL:** https://docs.netskope.com/en/deploy-netskope-iot-security-physical-appliance/
 **Last Modified:** 2026-05-27T09:27:19+00:00
-**Scraped:** 2026-07-24T08:27:57.244566+00:00
+**Scraped:** 2026-07-25T08:08:02.225035+00:00
 
 Deploy Device Intelligence Physical Appliance - Netskope Knowledge Portal
 Deploy Device Intelligence Physical Appliance
@@ -14721,7 +14774,7 @@ Deploy Device Intelligence Physical Appliance
 ## Deploy Device Intelligence Virtual Appliance on VMware vSphere
 **URL:** https://docs.netskope.com/en/deploy-netskope-iot-security-virtual-appliance-on-vmware-vsphere/
 **Last Modified:** 2025-08-31T01:47:36+00:00
-**Scraped:** 2026-07-24T08:27:58.422403+00:00
+**Scraped:** 2026-07-25T08:08:03.603656+00:00
 
 Deploy Device Intelligence Virtual Appliance on VMware vSphere - Netskope Knowledge Portal
 Deploy Device Intelligence Virtual Appliance on VMware vSphere
@@ -14787,7 +14840,7 @@ Deploy Device Intelligence Virtual Appliance on VMware vSphere
 ## Deprecation Notice for OneDrive as a Forensic Destination
 **URL:** https://docs.netskope.com/en/deprecation-notice-for-onedrive-as-a-forensic-destination/
 **Last Modified:** 2025-09-02T16:59:15+00:00
-**Scraped:** 2026-07-24T08:27:59.697265+00:00
+**Scraped:** 2026-07-25T08:08:04.893493+00:00
 
 Deprecation Notice for OneDrive as a Forensic Destination - Netskope Knowledge Portal
 Deprecation Notice for OneDrive as a Forensic Destination
@@ -14819,7 +14872,7 @@ Deprecation Notice for OneDrive as a Forensic Destination
 ## How to Update Device Attribute Reclassification ?
 **URL:** https://docs.netskope.com/en/device-attribute-reclassification/
 **Last Modified:** 2025-08-31T01:47:56+00:00
-**Scraped:** 2026-07-24T08:28:04.829540+00:00
+**Scraped:** 2026-07-25T08:08:09.695690+00:00
 
 How to Update Device Attribute Reclassification ? - Netskope Knowledge Portal
 How to Update Device Attribute Reclassification ?
@@ -14886,8 +14939,9 @@ How to Update Device Attribute Reclassification ?
 ## DNS Profile
 **URL:** https://docs.netskope.com/en/dns-profile/
 **Last Modified:** 2026-03-02T08:03:04+00:00
-**Scraped:** 2026-07-24T08:28:20.424394+00:00
+**Scraped:** 2026-07-25T08:08:25.375030+00:00
 
+DNS Profile - Netskope Knowledge Portal
 DNS Profile
 Note
 This feature is available with IPSec, GRE, or Netskope Client traffic steering methods.
@@ -15013,8 +15067,9 @@ DNS Profile
 ## DNS Security
 **URL:** https://docs.netskope.com/en/dns-security/
 **Last Modified:** 2026-04-08T21:40:25+00:00
-**Scraped:** 2026-07-24T08:28:22.761010+00:00
+**Scraped:** 2026-07-25T08:08:27.695923+00:00
 
+DNS Security - Netskope Knowledge Portal
 DNS Security
 Note
 You must have the Cloud Firewall and DNS licenses to use DNS Security. This feature is available with IPSec, GRE, and Netskope Client traffic steering methods.
@@ -15098,7 +15153,7 @@ DNS Security
 ## Egnyte Audit Events
 **URL:** https://docs.netskope.com/en/egnyte-audit-events/
 **Last Modified:** 2025-08-31T01:40:18+00:00
-**Scraped:** 2026-07-24T08:28:25.213402+00:00
+**Scraped:** 2026-07-25T08:08:30.049810+00:00
 
 Egnyte Audit Events - Netskope Knowledge Portal
 Egnyte Audit Events
@@ -15174,7 +15229,7 @@ Egnyte Audit Events
 ## Domain Profile
 **URL:** https://docs.netskope.com/en/domain-profile/
 **Last Modified:** 2025-08-31T01:50:28+00:00
-**Scraped:** 2026-07-24T08:28:26.468555+00:00
+**Scraped:** 2026-07-25T08:08:31.223451+00:00
 
 Domain Profile - Netskope Knowledge Portal
 Domain Profile
@@ -15197,7 +15252,7 @@ Domain Profile
 ## Dropbox Audit Events
 **URL:** https://docs.netskope.com/en/dropbox-audit-events/
 **Last Modified:** 2025-08-31T01:40:11+00:00
-**Scraped:** 2026-07-24T08:28:27.675989+00:00
+**Scraped:** 2026-07-25T08:08:32.416586+00:00
 
 Dropbox Audit Events - Netskope Knowledge Portal
 Dropbox Audit Events
@@ -15383,9 +15438,8 @@ Dropbox Audit Events
 ## Enable Box Event Stream
 **URL:** https://docs.netskope.com/en/enable-box-event-stream/
 **Last Modified:** 2025-08-31T01:39:47+00:00
-**Scraped:** 2026-07-24T08:28:28.855825+00:00
+**Scraped:** 2026-07-25T08:08:33.582130+00:00
 
-Enable Box Event Stream - Netskope Knowledge Portal
 Enable Box Event Stream
 Box has introduced a new feature called Box Event Stream also known as Box Fast Push Notification. There are a couple of benefits of using Event Stream:
 Improved performance for ongoing policy processing: By moving from polling to event notifications, and with the details provided by Box Event Stream notifications, Netskope can process events much faster than with the traditional polling mechanism.
@@ -15513,8 +15567,9 @@ Enable Box Event Stream
 ## Email Options
 **URL:** https://docs.netskope.com/en/email-options/
 **Last Modified:** 2025-08-31T01:40:26+00:00
-**Scraped:** 2026-07-24T08:28:30.028344+00:00
+**Scraped:** 2026-07-25T08:08:34.863513+00:00
 
+Email Options - Netskope Knowledge Portal
 Email Options
 This section of the API Data Protection Policy page specifies the type of email users, external domains, and content to scan for a policy violation. The section is only for the Outlook and Gmail apps.
 Select to scan emails sent to External Users, Internal Users, Domain Profile, User Groups, Subset of Domains, or Any User. If you select
@@ -15556,7 +15611,7 @@ Email Options
 ## Email Options
 **URL:** https://docs.netskope.com/en/email-options-117982/
 **Last Modified:** 2025-09-01T12:31:41+00:00
-**Scraped:** 2026-07-24T08:28:31.205175+00:00
+**Scraped:** 2026-07-25T08:08:36.039716+00:00
 
 Email Options - Netskope Knowledge Portal
 Email Options
@@ -15594,7 +15649,7 @@ Email Options
 ## Enabling and Disabling Netskope Services for AWS
 **URL:** https://docs.netskope.com/en/enabling-and-disabling-netskope-services-for-aws/
 **Last Modified:** 2026-05-27T08:12:54+00:00
-**Scraped:** 2026-07-24T08:28:32.375722+00:00
+**Scraped:** 2026-07-25T08:08:37.212397+00:00
 
 Enabling and Disabling Netskope Services for AWS - Netskope Knowledge Portal
 Enabling and Disabling Netskope Services for AWS
@@ -15634,9 +15689,8 @@ Enabling and Disabling Netskope Services for AWS
 ## Enabling Data Protection for Google Organization
 **URL:** https://docs.netskope.com/en/enabling-data-protection-for-google-organization/
 **Last Modified:** 2025-08-31T01:46:15+00:00
-**Scraped:** 2026-07-24T08:28:33.551242+00:00
+**Scraped:** 2026-07-25T08:08:38.405316+00:00
 
-Enabling Data Protection for Google Organization - Netskope Knowledge Portal
 Enabling Data Protection for Google Organization
 To enable DLP Scan and Threat Protection (Malware Scan) for a Google Organization, follow these steps.
 Step 1: Assign permissions to the organization
@@ -15912,7 +15966,7 @@ Enabling Data Protection for Google Organization
 ## Enabling Data Protection for Azure Blob Storage
 **URL:** https://docs.netskope.com/en/enabling-data-protection-for-azure-blob-storage/
 **Last Modified:** 2025-08-31T01:46:13+00:00
-**Scraped:** 2026-07-24T08:28:34.724339+00:00
+**Scraped:** 2026-07-25T08:08:39.601901+00:00
 
 Enabling Data Protection for Azure Blob Storage - Netskope Knowledge Portal
 Enabling Data Protection for Azure Blob Storage
@@ -15944,7 +15998,7 @@ Enabling Data Protection for Azure Blob Storage
 ## Enabling Data Protection for Google Cloud Storage
 **URL:** https://docs.netskope.com/en/enabling-data-protection-for-google-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:15+00:00
-**Scraped:** 2026-07-24T08:28:35.895996+00:00
+**Scraped:** 2026-07-25T08:08:40.871901+00:00
 
 Enabling Data Protection for Google Cloud Storage - Netskope Knowledge Portal
 Enabling Data Protection for Google Cloud Storage
@@ -15960,7 +16014,7 @@ Enabling Data Protection for Google Cloud Storage
 ## Enabling Data Protection for AWS S3
 **URL:** https://docs.netskope.com/en/enabling-data-protection-for-aws-s3/
 **Last Modified:** 2025-08-31T01:46:10+00:00
-**Scraped:** 2026-07-24T08:28:37.068481+00:00
+**Scraped:** 2026-07-25T08:08:42.043928+00:00
 
 Enabling Data Protection for AWS S3 - Netskope Knowledge Portal
 Enabling Data Protection for AWS S3
@@ -16011,7 +16065,7 @@ Enabling Data Protection for AWS S3
 ## Enabling Data Protection for Google Folder
 **URL:** https://docs.netskope.com/en/enabling-data-protection-for-google-folder/
 **Last Modified:** 2025-08-31T01:46:16+00:00
-**Scraped:** 2026-07-24T08:28:38.284773+00:00
+**Scraped:** 2026-07-25T08:08:43.235902+00:00
 
 Enabling Data Protection for Google Folder - Netskope Knowledge Portal
 Enabling Data Protection for Google Folder
@@ -16310,7 +16364,7 @@ Enabling Data Protection for Google Folder
 ## Enabling Data Protection for Google Project
 **URL:** https://docs.netskope.com/en/enabling-data-protection-for-google-project/
 **Last Modified:** 2025-09-18T05:15:33+00:00
-**Scraped:** 2026-07-24T08:28:39.475852+00:00
+**Scraped:** 2026-07-25T08:08:44.427853+00:00
 
 Enabling Data Protection for Google Project - Netskope Knowledge Portal
 Enabling Data Protection for Google Project
@@ -16557,8 +16611,9 @@ Enabling Data Protection for Google Project
 ## Enabling Forensics for Azure Blob Storage
 **URL:** https://docs.netskope.com/en/enabling-forensics-for-azure-blob-storage/
 **Last Modified:** 2025-08-31T01:46:24+00:00
-**Scraped:** 2026-07-24T08:28:40.647592+00:00
+**Scraped:** 2026-07-25T08:08:45.587891+00:00
 
+Enabling Forensics for Azure Blob Storage - Netskope Knowledge Portal
 Enabling Forensics for Azure Blob Storage
 Netskope no longer supports the
 Forensic
@@ -16614,7 +16669,7 @@ Enabling Forensics for Azure Blob Storage
 ## Enabling Forensics for Google Cloud Storage
 **URL:** https://docs.netskope.com/en/enabling-forensics-for-google-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:24+00:00
-**Scraped:** 2026-07-24T08:28:41.832368+00:00
+**Scraped:** 2026-07-25T08:08:46.776835+00:00
 
 Enabling Forensics for Google Cloud Storage - Netskope Knowledge Portal
 Enabling Forensics for Google Cloud Storage
@@ -16758,7 +16813,7 @@ Enabling Forensics for Google Cloud Storage
 ## Enabling Security Posture Management for Azure
 **URL:** https://docs.netskope.com/en/enabling-security-posture-management-for-azure/
 **Last Modified:** 2025-08-31T01:46:00+00:00
-**Scraped:** 2026-07-24T08:28:43.003129+00:00
+**Scraped:** 2026-07-25T08:08:47.953602+00:00
 
 Enabling Security Posture Management for Azure - Netskope Knowledge Portal
 Enabling Security Posture Management for Azure
@@ -16782,7 +16837,7 @@ Enabling Security Posture Management for Azure
 ## Enabling Security Posture Management for AWS
 **URL:** https://docs.netskope.com/en/enabling-security-posture-management-for-aws/
 **Last Modified:** 2025-08-31T01:45:59+00:00
-**Scraped:** 2026-07-24T08:28:44.175176+00:00
+**Scraped:** 2026-07-25T08:08:49.222019+00:00
 
 Enabling Security Posture Management for AWS - Netskope Knowledge Portal
 Enabling Security Posture Management for AWS
@@ -16814,8 +16869,9 @@ Enabling Security Posture Management for AWS
 ## Enabling Security Posture Management for GCP
 **URL:** https://docs.netskope.com/en/enabling-security-posture-management-for-gcp/
 **Last Modified:** 2025-08-31T01:46:02+00:00
-**Scraped:** 2026-07-24T08:28:45.345354+00:00
+**Scraped:** 2026-07-25T08:08:50.394230+00:00
 
+Enabling Security Posture Management for GCP - Netskope Knowledge Portal
 Enabling Security Posture Management for GCP
 To configure Google Cloud Platform (GCP) for Continuous Security Assessment (CSA), you need Netskope as a web application client to access your Google Cloud Platform instance. A summary of the steps that are required:
 Configure the following items in the Google Could Platform console:
@@ -16835,7 +16891,7 @@ Enabling Security Posture Management for GCP
 ## Executive Dashboard
 **URL:** https://docs.netskope.com/en/executive-dashboard-in-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:40+00:00
-**Scraped:** 2026-07-24T08:28:46.535736+00:00
+**Scraped:** 2026-07-25T08:08:51.582795+00:00
 
 Executive Dashboard - Netskope Knowledge Portal
 Executive Dashboard
@@ -16978,7 +17034,7 @@ Executive Dashboard
 ## External Users Page
 **URL:** https://docs.netskope.com/en/external-users-page-117894/
 **Last Modified:** 2025-08-31T01:40:11+00:00
-**Scraped:** 2026-07-24T08:28:48.886369+00:00
+**Scraped:** 2026-07-25T08:08:53.942525+00:00
 
 External Users Page - Netskope Knowledge Portal
 External Users Page
@@ -17020,7 +17076,7 @@ External Users Page
 ## External Users Page
 **URL:** https://docs.netskope.com/en/external-users-page/
 **Last Modified:** 2025-09-01T12:32:15+00:00
-**Scraped:** 2026-07-24T08:28:50.062762+00:00
+**Scraped:** 2026-07-25T08:08:55.216103+00:00
 
 External Users Page - Netskope Knowledge Portal
 External Users Page
@@ -17062,7 +17118,7 @@ External Users Page
 ## External Users Page
 **URL:** https://docs.netskope.com/en/external-users-page-117916/
 **Last Modified:** 2025-09-01T12:32:31+00:00
-**Scraped:** 2026-07-24T08:28:51.237892+00:00
+**Scraped:** 2026-07-25T08:08:56.389913+00:00
 
 External Users Page - Netskope Knowledge Portal
 External Users Page
@@ -17104,7 +17160,7 @@ External Users Page
 ## FAQs to setup Data Protection for Public Cloud
 **URL:** https://docs.netskope.com/en/faqs-to-setup-data-protection-for-public-cloud/
 **Last Modified:** 2025-08-31T01:46:19+00:00
-**Scraped:** 2026-07-24T08:28:52.416141+00:00
+**Scraped:** 2026-07-25T08:08:57.572297+00:00
 
 FAQs to setup Data Protection for Public Cloud - Netskope Knowledge Portal
 FAQs to setup Data Protection for Public Cloud
@@ -17276,7 +17332,7 @@ FAQs to setup Data Protection for Public Cloud
 ## External Sharing Limitation on Microsoft Office 365 OneDrive
 **URL:** https://docs.netskope.com/en/external-sharing-limitation-on-microsoft-office-365-onedrive/
 **Last Modified:** 2025-08-31T01:40:48+00:00
-**Scraped:** 2026-07-24T08:28:53.596287+00:00
+**Scraped:** 2026-07-25T08:08:58.748983+00:00
 
 External Sharing Limitation on Microsoft Office 365 OneDrive - Netskope Knowledge Portal
 External Sharing Limitation on Microsoft Office 365 OneDrive
@@ -17315,8 +17371,9 @@ External Sharing Limitation on Microsoft Office 365 OneDrive
 ## Files Page
 **URL:** https://docs.netskope.com/en/files-page-117870/
 **Last Modified:** 2025-08-31T01:41:28+00:00
-**Scraped:** 2026-07-24T08:28:54.776143+00:00
+**Scraped:** 2026-07-25T08:08:59.927984+00:00
 
+Files Page - Netskope Knowledge Portal
 Files Page
 The Files page provides a high-level overview on the status as well as stats of files that reside within the cloud app. You have the ability to search for files that may violate corporate policy and remediate the issue.
 Tip
@@ -17401,8 +17458,9 @@ Files Page
 ## Files Page
 **URL:** https://docs.netskope.com/en/files-page-117892/
 **Last Modified:** 2025-09-01T12:32:32+00:00
-**Scraped:** 2026-07-24T08:28:55.956330+00:00
+**Scraped:** 2026-07-25T08:09:01.108005+00:00
 
+Files Page - Netskope Knowledge Portal
 Files Page
 The Files page provides a high-level overview on the status as well as stats of files that reside within the cloud app. You have the ability to search for files that may violate corporate policy and remediate the issue.
 Tip
@@ -17487,7 +17545,7 @@ Files Page
 ## File Sharing Exposure
 **URL:** https://docs.netskope.com/en/file-sharing-exposure/
 **Last Modified:** 2025-08-31T01:41:56+00:00
-**Scraped:** 2026-07-24T08:28:57.141887+00:00
+**Scraped:** 2026-07-25T08:09:02.402954+00:00
 
 File Sharing Exposure - Netskope Knowledge Portal
 File Sharing Exposure
@@ -17636,7 +17694,7 @@ File Sharing Exposure
 ## Forensic Profile
 **URL:** https://docs.netskope.com/en/forensic-profile/
 **Last Modified:** 2025-08-31T01:50:32+00:00
-**Scraped:** 2026-07-24T08:28:58.314778+00:00
+**Scraped:** 2026-07-25T08:09:03.591712+00:00
 
 Forensic Profile - Netskope Knowledge Portal
 Forensic Profile
@@ -17692,8 +17750,9 @@ Forensic Profile
 ## Files Page
 **URL:** https://docs.netskope.com/en/files-page-117914/
 **Last Modified:** 2025-09-01T12:32:30+00:00
-**Scraped:** 2026-07-24T08:28:59.502449+00:00
+**Scraped:** 2026-07-25T08:09:05.033822+00:00
 
+Files Page - Netskope Knowledge Portal
 Files Page
 The Files page provides a high-level overview on the status as well as stats of files that reside within the cloud app. You have the ability to search for files that may violate corporate policy and remediate the issue.
 Tip
@@ -17791,7 +17850,7 @@ Files Page
 ## Files Page
 **URL:** https://docs.netskope.com/en/files-page-118043/
 **Last Modified:** 2025-09-01T12:32:16+00:00
-**Scraped:** 2026-07-24T08:29:00.681158+00:00
+**Scraped:** 2026-07-25T08:09:06.310230+00:00
 
 Files Page - Netskope Knowledge Portal
 Files Page
@@ -17878,7 +17937,7 @@ Files Page
 ## Files Page
 **URL:** https://docs.netskope.com/en/files-page/
 **Last Modified:** 2025-09-01T12:32:14+00:00
-**Scraped:** 2026-07-24T08:29:02.381085+00:00
+**Scraped:** 2026-07-25T08:09:07.592182+00:00
 
 Files Page - Netskope Knowledge Portal
 Files Page
@@ -17966,7 +18025,7 @@ Files Page
 ## Fingerprinting
 **URL:** https://docs.netskope.com/en/fingerprint-rules/
 **Last Modified:** 2026-06-25T19:22:14+00:00
-**Scraped:** 2026-07-24T08:29:03.552642+00:00
+**Scraped:** 2026-07-25T08:09:08.762014+00:00
 
 Fingerprinting - Netskope Knowledge Portal
 Fingerprinting
@@ -17990,7 +18049,7 @@ Fingerprinting
 ## Forensics for Amazon Web Services S3
 **URL:** https://docs.netskope.com/en/forensics-for-amazon-web-services-s3/
 **Last Modified:** 2025-08-31T01:46:20+00:00
-**Scraped:** 2026-07-24T08:29:04.727230+00:00
+**Scraped:** 2026-07-25T08:09:09.932138+00:00
 
 Forensics for Amazon Web Services S3 - Netskope Knowledge Portal
 Forensics for Amazon Web Services S3
@@ -18014,7 +18073,7 @@ Forensics for Amazon Web Services S3
 ## Forensics for Google Cloud Storage
 **URL:** https://docs.netskope.com/en/forensics-for-google-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:21+00:00
-**Scraped:** 2026-07-24T08:29:05.897628+00:00
+**Scraped:** 2026-07-25T08:09:11.103587+00:00
 
 Forensics for Google Cloud Storage - Netskope Knowledge Portal
 Forensics for Google Cloud Storage
@@ -18030,7 +18089,7 @@ Forensics for Google Cloud Storage
 ## Forensics for Azure Blob Storage
 **URL:** https://docs.netskope.com/en/forensics-for-azure-blob-storage/
 **Last Modified:** 2026-05-27T05:24:22+00:00
-**Scraped:** 2026-07-24T08:29:07.071619+00:00
+**Scraped:** 2026-07-25T08:09:12.278190+00:00
 
 Forensics for Azure Blob Storage - Netskope Knowledge Portal
 Forensics for Azure Blob Storage
@@ -18054,7 +18113,7 @@ Forensics for Azure Blob Storage
 ## Forensics for Public Cloud
 **URL:** https://docs.netskope.com/en/forensics-for-public-cloud/
 **Last Modified:** 2025-08-31T01:46:19+00:00
-**Scraped:** 2026-07-24T08:29:08.243478+00:00
+**Scraped:** 2026-07-25T08:09:13.548788+00:00
 
 Forensics for Public Cloud - Netskope Knowledge Portal
 Forensics for Public Cloud
@@ -18079,7 +18138,7 @@ Forensics for Public Cloud
 ## Getting Started with Forensics for Public Cloud
 **URL:** https://docs.netskope.com/en/getting-started-with-forensics-for-public-cloud/
 **Last Modified:** 2025-08-31T01:46:20+00:00
-**Scraped:** 2026-07-24T08:29:09.511331+00:00
+**Scraped:** 2026-07-25T08:09:14.723585+00:00
 
 Getting Started with Forensics for Public Cloud - Netskope Knowledge Portal
 Getting Started with Forensics for Public Cloud
@@ -18101,8 +18160,9 @@ Getting Started with Forensics for Public Cloud
 ## General Troubleshooting Methods
 **URL:** https://docs.netskope.com/en/general-troubleshooting-methods/
 **Last Modified:** 2026-04-01T02:01:27+00:00
-**Scraped:** 2026-07-24T08:29:10.689440+00:00
+**Scraped:** 2026-07-25T08:09:15.906456+00:00
 
+General Troubleshooting Methods - Netskope Knowledge Portal
 General Troubleshooting Methods
 General troubleshooting involves checking the Client, Publishers, Private Apps, and policies:
 Netskope Client
@@ -18368,7 +18428,7 @@ General Troubleshooting Methods
 ## Getting Started with Device Intelligence
 **URL:** https://docs.netskope.com/en/getting-started-with-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:36+00:00
-**Scraped:** 2026-07-24T08:29:11.865786+00:00
+**Scraped:** 2026-07-25T08:09:17.076153+00:00
 
 Getting Started with Device Intelligence - Netskope Knowledge Portal
 Getting Started with Device Intelligence
@@ -18385,7 +18445,7 @@ Getting Started with Device Intelligence
 ## Getting Started with CSPM for Public Cloud
 **URL:** https://docs.netskope.com/en/getting-started-with-cspm-for-public-cloud/
 **Last Modified:** 2025-08-31T01:45:56+00:00
-**Scraped:** 2026-07-24T08:29:13.053872+00:00
+**Scraped:** 2026-07-25T08:09:18.248822+00:00
 
 Getting Started with CSPM for Public Cloud - Netskope Knowledge Portal
 Getting Started with CSPM for Public Cloud
@@ -18426,7 +18486,7 @@ Getting Started with CSPM for Public Cloud
 ## Getting Started with Data Protection for Public Cloud
 **URL:** https://docs.netskope.com/en/getting-started-with-data-protection-for-public-cloud/
 **Last Modified:** 2025-08-31T01:46:09+00:00
-**Scraped:** 2026-07-24T08:29:14.227281+00:00
+**Scraped:** 2026-07-25T08:09:19.517479+00:00
 
 Getting Started with Data Protection for Public Cloud - Netskope Knowledge Portal
 Getting Started with Data Protection for Public Cloud
@@ -18455,7 +18515,7 @@ Getting Started with Data Protection for Public Cloud
 ## GitHub Audit Events
 **URL:** https://docs.netskope.com/en/github-audit-events/
 **Last Modified:** 2025-08-31T01:40:23+00:00
-**Scraped:** 2026-07-24T08:29:15.412400+00:00
+**Scraped:** 2026-07-25T08:09:20.702029+00:00
 
 GitHub Audit Events - Netskope Knowledge Portal
 GitHub Audit Events
@@ -18566,7 +18626,7 @@ GitHub Audit Events
 ## GitHub Repositories Page
 **URL:** https://docs.netskope.com/en/github-repositories-page/
 **Last Modified:** 2025-08-31T01:40:22+00:00
-**Scraped:** 2026-07-24T08:29:16.585686+00:00
+**Scraped:** 2026-07-25T08:09:21.875232+00:00
 
 GitHub Repositories Page - Netskope Knowledge Portal
 GitHub Repositories Page
@@ -18596,7 +18656,7 @@ GitHub Repositories Page
 ## GitHub Summary Page
 **URL:** https://docs.netskope.com/en/github-summary-page/
 **Last Modified:** 2025-08-31T01:40:22+00:00
-**Scraped:** 2026-07-24T08:29:17.758396+00:00
+**Scraped:** 2026-07-25T08:09:23.058008+00:00
 
 GitHub Summary Page - Netskope Knowledge Portal
 GitHub Summary Page
@@ -18620,7 +18680,7 @@ GitHub Summary Page
 ## Gmail Summary Page
 **URL:** https://docs.netskope.com/en/gmail-summary-page/
 **Last Modified:** 2025-08-31T01:40:30+00:00
-**Scraped:** 2026-07-24T08:29:19.032439+00:00
+**Scraped:** 2026-07-25T08:09:24.232381+00:00
 
 Gmail Summary Page - Netskope Knowledge Portal
 Gmail Summary Page
@@ -18651,7 +18711,7 @@ Gmail Summary Page
 ## Gmail Emails with Violations Page
 **URL:** https://docs.netskope.com/en/gmail-emails-with-violations-page/
 **Last Modified:** 2025-08-31T01:40:31+00:00
-**Scraped:** 2026-07-24T08:29:20.209919+00:00
+**Scraped:** 2026-07-25T08:09:25.406460+00:00
 
 Gmail Emails with Violations Page - Netskope Knowledge Portal
 Gmail Emails with Violations Page
@@ -18702,7 +18762,7 @@ Gmail Emails with Violations Page
 ## Gmail Users Page
 **URL:** https://docs.netskope.com/en/gmail-users-page/
 **Last Modified:** 2025-08-31T01:40:30+00:00
-**Scraped:** 2026-07-24T08:29:21.392639+00:00
+**Scraped:** 2026-07-25T08:09:26.577897+00:00
 
 Gmail Users Page - Netskope Knowledge Portal
 Gmail Users Page
@@ -18729,7 +18789,7 @@ Gmail Users Page
 ## Gmail External Recipients Page
 **URL:** https://docs.netskope.com/en/gmail-external-recipients-page/
 **Last Modified:** 2025-08-31T01:40:31+00:00
-**Scraped:** 2026-07-24T08:29:22.566049+00:00
+**Scraped:** 2026-07-25T08:09:27.752685+00:00
 
 Gmail External Recipients Page - Netskope Knowledge Portal
 Gmail External Recipients Page
@@ -18749,7 +18809,7 @@ Gmail External Recipients Page
 ## GitHub Users Page
 **URL:** https://docs.netskope.com/en/github-users-page/
 **Last Modified:** 2025-08-31T01:40:22+00:00
-**Scraped:** 2026-07-24T08:29:23.741566+00:00
+**Scraped:** 2026-07-25T08:09:29.030260+00:00
 
 GitHub Users Page - Netskope Knowledge Portal
 GitHub Users Page
@@ -18786,7 +18846,7 @@ GitHub Users Page
 ## Google Teams Page
 **URL:** https://docs.netskope.com/en/google-teams-page/
 **Last Modified:** 2025-08-31T01:40:40+00:00
-**Scraped:** 2026-07-24T08:29:25.013795+00:00
+**Scraped:** 2026-07-25T08:09:30.206155+00:00
 
 Google Teams Page - Netskope Knowledge Portal
 Google Teams Page
@@ -18802,7 +18862,7 @@ Google Teams Page
 ## Grant Failure on Newly Created App Instance
 **URL:** https://docs.netskope.com/en/grant-failure-on-newly-created-app-instance-326339/
 **Last Modified:** 2025-08-31T01:41:09+00:00
-**Scraped:** 2026-07-24T08:29:26.242867+00:00
+**Scraped:** 2026-07-25T08:09:31.387126+00:00
 
 Grant Failure on Newly Created App Instance - Netskope Knowledge Portal
 Grant Failure on Newly Created App Instance
@@ -18869,8 +18929,9 @@ Grant Failure on Newly Created App Instance
 ## Google Ecosystem Page
 **URL:** https://docs.netskope.com/en/google-ecosystem-page/
 **Last Modified:** 2025-08-31T01:40:40+00:00
-**Scraped:** 2026-07-24T08:29:27.403574+00:00
+**Scraped:** 2026-07-25T08:09:32.564425+00:00
 
+Google Ecosystem Page - Netskope Knowledge Portal
 Google Ecosystem Page
 The Google Ecosystem page provides a high-level overview on the status as well as stats of apps used within your enterprise. You have the ability to search for apps that may violate corporate policy and remediate the issue.
 Note
@@ -18906,7 +18967,7 @@ Google Ecosystem Page
 ## Google Drive Audit Events
 **URL:** https://docs.netskope.com/en/google-drive-audit-events/
 **Last Modified:** 2025-08-31T01:40:41+00:00
-**Scraped:** 2026-07-24T08:29:28.606247+00:00
+**Scraped:** 2026-07-25T08:09:33.765377+00:00
 
 Google Drive Audit Events - Netskope Knowledge Portal
 Google Drive Audit Events
@@ -19135,7 +19196,7 @@ Google Drive Audit Events
 ## Grant Failure on Newly Created App Instance
 **URL:** https://docs.netskope.com/en/grant-failure-on-newly-created-app-instance/
 **Last Modified:** 2025-09-01T12:33:03+00:00
-**Scraped:** 2026-07-24T08:29:29.785376+00:00
+**Scraped:** 2026-07-25T08:09:35.042193+00:00
 
 Grant Failure on Newly Created App Instance - Netskope Knowledge Portal
 Grant Failure on Newly Created App Instance
@@ -19202,7 +19263,7 @@ Grant Failure on Newly Created App Instance
 ## GRE & IPSec Tunnel Gateway - HTTP(S) Non-Standard Port Support
 **URL:** https://docs.netskope.com/en/gre-ipsec-tunnel-gateway-http-s-non-standard-port-support/
 **Last Modified:** 2025-09-01T13:17:05+00:00
-**Scraped:** 2026-07-24T08:29:30.994134+00:00
+**Scraped:** 2026-07-25T08:09:36.314446+00:00
 
 GRE & IPSec Tunnel Gateway - HTTP(S) Non-Standard Port Support - Netskope Knowledge Portal
 GRE & IPSec Tunnel Gateway - HTTP(S) Non-Standard Port Support
@@ -19256,7 +19317,7 @@ GRE & IPSec Tunnel Gateway - HTTP(S) Non-Standard Port Support
 ## Groups/Work Chat
 **URL:** https://docs.netskope.com/en/groups-work-chat/
 **Last Modified:** 2025-08-31T01:41:51+00:00
-**Scraped:** 2026-07-24T08:29:32.185720+00:00
+**Scraped:** 2026-07-25T08:09:37.490349+00:00
 
 Groups/Work Chat - Netskope Knowledge Portal
 Groups/Work Chat
@@ -19290,7 +19351,7 @@ Groups/Work Chat
 ## HTTP Header Profile
 **URL:** https://docs.netskope.com/en/http-header-profile/
 **Last Modified:** 2026-06-17T07:12:44+00:00
-**Scraped:** 2026-07-24T08:29:35.727336+00:00
+**Scraped:** 2026-07-25T08:09:41.033029+00:00
 
 HTTP Header Profile - Netskope Knowledge Portal
 HTTP Header Profile
@@ -19455,7 +19516,7 @@ HTTP Header Profile
 ## Real-time Protection Policies for Cloud Firewall
 **URL:** https://docs.netskope.com/en/inline-policies-305002/
 **Last Modified:** 2026-03-10T19:30:20+00:00
-**Scraped:** 2026-07-24T08:29:39.427598+00:00
+**Scraped:** 2026-07-25T08:09:44.605908+00:00
 
 Real-time Protection Policies for Cloud Firewall - Netskope Knowledge Portal
 Real-time Protection Policies for Cloud Firewall
@@ -20049,7 +20110,7 @@ Real-time Protection Policies for Cloud Firewall
 ## Implementation guide to set up AWS accounts in Netskope
 **URL:** https://docs.netskope.com/en/implementation-guide-to-set-up-aws-accounts-in-netskope/
 **Last Modified:** 2025-08-31T01:46:30+00:00
-**Scraped:** 2026-07-24T08:29:40.684424+00:00
+**Scraped:** 2026-07-25T08:09:45.776647+00:00
 
 Implementation guide to set up AWS accounts in Netskope - Netskope Knowledge Portal
 Implementation guide to set up AWS accounts in Netskope
@@ -20096,8 +20157,9 @@ Implementation guide to set up AWS accounts in Netskope
 ## Integrating CrowdStrike for EDR
 **URL:** https://docs.netskope.com/en/integrating-crowdstrike-for-edr/
 **Last Modified:** 2025-09-03T18:23:14+00:00
-**Scraped:** 2026-07-24T08:29:44.219058+00:00
+**Scraped:** 2026-07-25T08:09:49.388979+00:00
 
+Integrating CrowdStrike for EDR - Netskope Knowledge Portal
 Integrating CrowdStrike for EDR
 Netskope will now only support Endpoint Detection and Response integrations with
 Netskope Threat Exchange
@@ -20218,7 +20280,7 @@ Integrating CrowdStrike for EDR
 ## Integrating Carbon Black for EDR
 **URL:** https://docs.netskope.com/en/integrating-carbon-black-for-edr/
 **Last Modified:** 2025-09-03T18:23:14+00:00
-**Scraped:** 2026-07-24T08:29:45.395249+00:00
+**Scraped:** 2026-07-25T08:09:50.579669+00:00
 
 Integrating Carbon Black for EDR - Netskope Knowledge Portal
 Integrating Carbon Black for EDR
@@ -20292,8 +20354,9 @@ Integrating Carbon Black for EDR
 ## Integrations
 **URL:** https://docs.netskope.com/en/integrations/
 **Last Modified:** 2025-08-31T01:47:47+00:00
-**Scraped:** 2026-07-24T08:29:46.673413+00:00
+**Scraped:** 2026-07-25T08:09:51.864243+00:00
 
+Integrations - Netskope Knowledge Portal
 Integrations
 Netskope supports third party integration through Device Intelligence UI for Crowdstrike, Kaseya VSA, Kaseya VSA 10, Mist and Meraki vendors. Navigate to the
 Manage
@@ -20455,8 +20518,9 @@ Integrations
 ## Internal Domain Limitations
 **URL:** https://docs.netskope.com/en/internal-domain-limitations/
 **Last Modified:** 2025-08-31T01:40:48+00:00
-**Scraped:** 2026-07-24T08:29:47.843643+00:00
+**Scraped:** 2026-07-25T08:09:53.037833+00:00
 
+Internal Domain Limitations - Netskope Knowledge Portal
 Internal Domain Limitations
 Post-processed files will not be processed again and there will be no change to the file exposure for such files.
 Netskope will not support files that belong to the domains other than the admin domain.
@@ -20481,7 +20545,7 @@ Internal Domain Limitations
 ## Internal Domain Limitations
 **URL:** https://docs.netskope.com/en/internal-domain-limitations-326343/
 **Last Modified:** 2025-09-01T12:34:12+00:00
-**Scraped:** 2026-07-24T08:29:49.018057+00:00
+**Scraped:** 2026-07-25T08:09:54.212723+00:00
 
 Internal Domain Limitations - Netskope Knowledge Portal
 Internal Domain Limitations
@@ -20508,7 +20572,7 @@ Internal Domain Limitations
 ## Internal Domain Limitations
 **URL:** https://docs.netskope.com/en/internal-domain-limitations-326327/
 **Last Modified:** 2025-09-01T12:32:34+00:00
-**Scraped:** 2026-07-24T08:29:50.240400+00:00
+**Scraped:** 2026-07-25T08:09:55.384358+00:00
 
 Internal Domain Limitations - Netskope Knowledge Portal
 Internal Domain Limitations
@@ -20535,7 +20599,7 @@ Internal Domain Limitations
 ## Internal Domains
 **URL:** https://docs.netskope.com/en/internal-domains/
 **Last Modified:** 2026-01-09T13:21:44+00:00
-**Scraped:** 2026-07-24T08:29:51.412190+00:00
+**Scraped:** 2026-07-25T08:09:56.557331+00:00
 
 Internal Domains - Netskope Knowledge Portal
 Internal Domains
@@ -20561,7 +20625,7 @@ Internal Domains
 ## Internal Users Page
 **URL:** https://docs.netskope.com/en/internal-users-page-117871/
 **Last Modified:** 2025-08-31T01:41:29+00:00
-**Scraped:** 2026-07-24T08:29:52.599365+00:00
+**Scraped:** 2026-07-25T08:09:57.732379+00:00
 
 Internal Users Page - Netskope Knowledge Portal
 Internal Users Page
@@ -20617,7 +20681,7 @@ Internal Users Page
 ## Internal Users Page
 **URL:** https://docs.netskope.com/en/internal-users-page-117915/
 **Last Modified:** 2025-09-01T12:32:31+00:00
-**Scraped:** 2026-07-24T08:29:53.823210+00:00
+**Scraped:** 2026-07-25T08:09:58.908026+00:00
 
 Internal Users Page - Netskope Knowledge Portal
 Internal Users Page
@@ -20674,7 +20738,7 @@ Internal Users Page
 ## Internal Users Page
 **URL:** https://docs.netskope.com/en/internal-users-page-117893/
 **Last Modified:** 2025-09-01T12:32:32+00:00
-**Scraped:** 2026-07-24T08:29:54.995891+00:00
+**Scraped:** 2026-07-25T08:10:00.156361+00:00
 
 Internal Users Page - Netskope Knowledge Portal
 Internal Users Page
@@ -20728,7 +20792,7 @@ Internal Users Page
 ## Internal Users Page
 **URL:** https://docs.netskope.com/en/internal-users-page/
 **Last Modified:** 2025-09-01T12:32:15+00:00
-**Scraped:** 2026-07-24T08:29:56.169124+00:00
+**Scraped:** 2026-07-25T08:10:01.445321+00:00
 
 Internal Users Page - Netskope Knowledge Portal
 Internal Users Page
@@ -20782,7 +20846,7 @@ Internal Users Page
 ## Internal Users Page
 **URL:** https://docs.netskope.com/en/internal-users-page-118044/
 **Last Modified:** 2025-09-01T12:32:16+00:00
-**Scraped:** 2026-07-24T08:29:57.345285+00:00
+**Scraped:** 2026-07-25T08:10:02.645515+00:00
 
 Internal Users Page - Netskope Knowledge Portal
 Internal Users Page
@@ -20836,8 +20900,9 @@ Internal Users Page
 ## Introduction to Remote Browser Isolation (RBI)
 **URL:** https://docs.netskope.com/en/introduction-to-remote-browser-isolation-rbi/
 **Last Modified:** 2026-02-25T20:21:31+00:00
-**Scraped:** 2026-07-24T08:29:58.514689+00:00
+**Scraped:** 2026-07-25T08:10:03.821057+00:00
 
+Introduction to Remote Browser Isolation (RBI) - Netskope Knowledge Portal
 Introduction to Remote Browser Isolation (RBI)
 Netskope RBI use cases are grouped into two buckets: Threat Protection and Access Control. It delivers Targeted RBI, isolation of users web browsing of uncategorized and potentially security risky web pages to provide an additional layer of threat protection.
 Figure 1. RBI use cases and Netskope RBI offering
@@ -20860,7 +20925,7 @@ Introduction to Remote Browser Isolation (RBI)
 ## Isolation Events in Skope IT
 **URL:** https://docs.netskope.com/en/isolation-events-in-skope-it/
 **Last Modified:** 2025-08-31T01:46:36+00:00
-**Scraped:** 2026-07-24T08:29:59.693152+00:00
+**Scraped:** 2026-07-25T08:10:05.112004+00:00
 
 Isolation Events in Skope IT - Netskope Knowledge Portal
 Isolation Events in Skope IT
@@ -20901,7 +20966,7 @@ Isolation Events in Skope IT
 ## Introduction to Device Intelligence
 **URL:** https://docs.netskope.com/en/introduction-to-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:33+00:00
-**Scraped:** 2026-07-24T08:30:00.862777+00:00
+**Scraped:** 2026-07-25T08:10:06.576515+00:00
 
 Introduction to Device Intelligence - Netskope Knowledge Portal
 Introduction to Device Intelligence
@@ -20921,7 +20986,7 @@ Introduction to Device Intelligence
 ## Investigate Device Intelligence
 **URL:** https://docs.netskope.com/en/investigate-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:41+00:00
-**Scraped:** 2026-07-24T08:30:02.138883+00:00
+**Scraped:** 2026-07-25T08:10:07.745927+00:00
 
 Investigate Device Intelligence - Netskope Knowledge Portal
 Investigate Device Intelligence
@@ -20938,7 +21003,7 @@ Investigate Device Intelligence
 ## Isolation in an End User's Browser
 **URL:** https://docs.netskope.com/en/isolation-in-an-end-user-s-browser/
 **Last Modified:** 2026-07-10T02:35:27+00:00
-**Scraped:** 2026-07-24T08:30:03.533748+00:00
+**Scraped:** 2026-07-25T08:10:08.923663+00:00
 
 Isolation in an End User's Browser
 Isolation in an End User’s Browser
@@ -21018,7 +21083,7 @@ Isolation in an End User's Browser
 ## Manual Installation of the Netskope Introspection v2 App for Microsoft Office 365 OneDrive Instance
 **URL:** https://docs.netskope.com/en/manual-installation-of-the-netskope-introspection-v2-app-for-microsoft-office-365-onedrive-instance/
 **Last Modified:** 2025-08-31T01:40:46+00:00
-**Scraped:** 2026-07-24T08:30:07.042772+00:00
+**Scraped:** 2026-07-25T08:10:12.449086+00:00
 
 Manual Installation of the Netskope Introspection v2 App for Microsoft Office 365 OneDrive Instance - Netskope Knowledge Portal
 Manual Installation of the Netskope Introspection v2 App for Microsoft Office 365 OneDrive Instance
@@ -21100,7 +21165,7 @@ Manual Installation of the Netskope Introspection v2 App for Microsoft Office 36
 ## Manage Device Intelligence
 **URL:** https://docs.netskope.com/en/manage-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:45+00:00
-**Scraped:** 2026-07-24T08:30:08.317116+00:00
+**Scraped:** 2026-07-25T08:10:13.718968+00:00
 
 Manage Device Intelligence - Netskope Knowledge Portal
 Manage Device Intelligence
@@ -21119,7 +21184,7 @@ Manage Device Intelligence
 ## Manual Installation of the Netskope Introspection v2 App for Microsoft Office 365 SharePoint Instance
 **URL:** https://docs.netskope.com/en/manual-installation-of-the-netskope-introspection-v2-app-for-microsoft-office-365-sharepoint-instance/
 **Last Modified:** 2025-08-31T01:41:10+00:00
-**Scraped:** 2026-07-24T08:30:09.494070+00:00
+**Scraped:** 2026-07-25T08:10:14.895983+00:00
 
 Manual Installation of the Netskope Introspection v2 App for Microsoft Office 365 SharePoint Instance - Netskope Knowledge Portal
 Manual Installation of the Netskope Introspection v2 App for Microsoft Office 365 SharePoint Instance
@@ -21201,8 +21266,9 @@ Manual Installation of the Netskope Introspection v2 App for Microsoft Office 36
 ## Manage a Publisher
 **URL:** https://docs.netskope.com/en/manage-a-publisher/
 **Last Modified:** 2026-03-03T01:59:46+00:00
-**Scraped:** 2026-07-24T08:30:10.672842+00:00
+**Scraped:** 2026-07-25T08:10:16.053916+00:00
 
+Manage a Publisher - Netskope Knowledge Portal
 Manage a Publisher
 After deploying your Publisher, use the following sections to make modifications to your Publishers.
 Publisher Kernel Updates
@@ -21226,7 +21292,7 @@ Manage a Publisher
 ## Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
 **URL:** https://docs.netskope.com/en/microsoft-office-365-and-netskope-api-data-protection-frequently-asked-questions-326328/
 **Last Modified:** 2026-05-27T04:30:19+00:00
-**Scraped:** 2026-07-24T08:30:11.844170+00:00
+**Scraped:** 2026-07-25T08:10:17.233799+00:00
 
 Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions - Netskope Knowledge Portal
 Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
@@ -21246,7 +21312,7 @@ Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
 ## Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
 **URL:** https://docs.netskope.com/en/microsoft-office-365-and-netskope-api-data-protection-frequently-asked-questions/
 **Last Modified:** 2026-05-27T04:31:14+00:00
-**Scraped:** 2026-07-24T08:30:13.019622+00:00
+**Scraped:** 2026-07-25T08:10:18.409982+00:00
 
 Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions - Netskope Knowledge Portal
 Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
@@ -21275,7 +21341,7 @@ Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
 ## Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
 **URL:** https://docs.netskope.com/en/microsoft-office-365-and-netskope-api-data-protection-frequently-asked-questions-326345/
 **Last Modified:** 2026-05-27T04:32:10+00:00
-**Scraped:** 2026-07-24T08:30:14.204842+00:00
+**Scraped:** 2026-07-25T08:10:19.584633+00:00
 
 Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions - Netskope Knowledge Portal
 Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
@@ -21304,7 +21370,7 @@ Microsoft Office 365 and Netskope API Data Protection Frequently Asked Questions
 ## Microsoft Office 365 Multi-Geo Support
 **URL:** https://docs.netskope.com/en/microsoft-office-365-multi-geo-support-326342/
 **Last Modified:** 2025-08-31T01:41:10+00:00
-**Scraped:** 2026-07-24T08:30:15.388539+00:00
+**Scraped:** 2026-07-25T08:10:20.771029+00:00
 
 Microsoft Office 365 Multi-Geo Support - Netskope Knowledge Portal
 Microsoft Office 365 Multi-Geo Support
@@ -21426,7 +21492,7 @@ Microsoft Office 365 Multi-Geo Support
 ## Microsoft Office 365 Multi-Geo Support
 **URL:** https://docs.netskope.com/en/microsoft-office-365-multi-geo-support/
 **Last Modified:** 2025-09-01T12:33:03+00:00
-**Scraped:** 2026-07-24T08:30:16.667610+00:00
+**Scraped:** 2026-07-25T08:10:21.936075+00:00
 
 Microsoft Office 365 Multi-Geo Support - Netskope Knowledge Portal
 Microsoft Office 365 Multi-Geo Support
@@ -21548,7 +21614,7 @@ Microsoft Office 365 Multi-Geo Support
 ## Microsoft Office 365 OneDrive Users Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-onedrive-users-page/
 **Last Modified:** 2025-08-31T01:40:54+00:00
-**Scraped:** 2026-07-24T08:30:17.853156+00:00
+**Scraped:** 2026-07-25T08:10:23.210074+00:00
 
 Microsoft Office 365 OneDrive Users Page - Netskope Knowledge Portal
 Microsoft Office 365 OneDrive Users Page
@@ -21590,9 +21656,8 @@ Microsoft Office 365 OneDrive Users Page
 ## Microsoft Office 365 OneDrive for Business Audit Events
 **URL:** https://docs.netskope.com/en/microsoft-office-365-onedrive-for-business-audit-events/
 **Last Modified:** 2025-08-31T01:40:55+00:00
-**Scraped:** 2026-07-24T08:30:19.104168+00:00
+**Scraped:** 2026-07-25T08:10:24.406281+00:00
 
-Microsoft Office 365 OneDrive for Business Audit Events - Netskope Knowledge Portal
 Microsoft Office 365 OneDrive for Business Audit Events
 The following list of audit events are supported for Microsoft Office 365 OneDrive for Business. For event description, refer to the Microsoft
 article
@@ -21815,7 +21880,7 @@ Microsoft Office 365 OneDrive for Business Audit Events
 ## Microsoft Office 365 OneDrive Files and Users Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-onedrive-files-and-users-page/
 **Last Modified:** 2025-08-31T01:40:54+00:00
-**Scraped:** 2026-07-24T08:30:20.374214+00:00
+**Scraped:** 2026-07-25T08:10:25.585475+00:00
 
 Microsoft Office 365 OneDrive Files and Users Page - Netskope Knowledge Portal
 Microsoft Office 365 OneDrive Files and Users Page
@@ -21842,7 +21907,7 @@ Microsoft Office 365 OneDrive Files and Users Page
 ## Microsoft Office 365 OneDrive Files Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-onedrive-files-page/
 **Last Modified:** 2025-08-31T01:40:54+00:00
-**Scraped:** 2026-07-24T08:30:21.556695+00:00
+**Scraped:** 2026-07-25T08:10:26.761405+00:00
 
 Microsoft Office 365 OneDrive Files Page - Netskope Knowledge Portal
 Microsoft Office 365 OneDrive Files Page
@@ -21888,7 +21953,7 @@ Microsoft Office 365 OneDrive Files Page
 ## Microsoft Office 365 OneDrive Graph API Migration
 **URL:** https://docs.netskope.com/en/microsoft-office-365-onedrive-graph-api-migration/
 **Last Modified:** 2025-08-31T01:40:49+00:00
-**Scraped:** 2026-07-24T08:30:22.730177+00:00
+**Scraped:** 2026-07-25T08:10:27.935439+00:00
 
 Microsoft Office 365 OneDrive Graph API Migration - Netskope Knowledge Portal
 Microsoft Office 365 OneDrive Graph API Migration
@@ -21918,7 +21983,7 @@ Microsoft Office 365 OneDrive Graph API Migration
 ## Microsoft Office 365 SharePoint Files Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-sharepoint-files-page/
 **Last Modified:** 2025-08-31T01:41:17+00:00
-**Scraped:** 2026-07-24T08:30:23.954562+00:00
+**Scraped:** 2026-07-25T08:10:29.109858+00:00
 
 Microsoft Office 365 SharePoint Files Page - Netskope Knowledge Portal
 Microsoft Office 365 SharePoint Files Page
@@ -21964,7 +22029,7 @@ Microsoft Office 365 SharePoint Files Page
 ## Microsoft Office 365 SharePoint Files and Users Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-sharepoint-files-and-users-page/
 **Last Modified:** 2025-08-31T01:41:16+00:00
-**Scraped:** 2026-07-24T08:30:25.132394+00:00
+**Scraped:** 2026-07-25T08:10:30.288774+00:00
 
 Microsoft Office 365 SharePoint Files and Users Page - Netskope Knowledge Portal
 Microsoft Office 365 SharePoint Files and Users Page
@@ -21991,7 +22056,7 @@ Microsoft Office 365 SharePoint Files and Users Page
 ## Microsoft Office 365 Outlook Audit Events
 **URL:** https://docs.netskope.com/en/microsoft-office-365-outlook-audit-events/
 **Last Modified:** 2025-08-31T01:41:04+00:00
-**Scraped:** 2026-07-24T08:30:26.407115+00:00
+**Scraped:** 2026-07-25T08:10:31.560729+00:00
 
 Microsoft Office 365 Outlook Audit Events - Netskope Knowledge Portal
 Microsoft Office 365 Outlook Audit Events
@@ -22055,7 +22120,7 @@ Microsoft Office 365 Outlook Audit Events
 ## Microsoft Office 365 SharePoint Graph API Migration
 **URL:** https://docs.netskope.com/en/microsoft-office-365-sharepoint-graph-api-migration/
 **Last Modified:** 2025-08-31T01:41:11+00:00
-**Scraped:** 2026-07-24T08:30:27.589655+00:00
+**Scraped:** 2026-07-25T08:10:32.735979+00:00
 
 Microsoft Office 365 SharePoint Graph API Migration - Netskope Knowledge Portal
 Microsoft Office 365 SharePoint Graph API Migration
@@ -22087,8 +22152,9 @@ Microsoft Office 365 SharePoint Graph API Migration
 ## Microsoft Office 365 SharePoint Sites Audit Events
 **URL:** https://docs.netskope.com/en/microsoft-office-365-sharepoint-sites-audit-events/
 **Last Modified:** 2025-08-31T01:41:18+00:00
-**Scraped:** 2026-07-24T08:30:28.791291+00:00
+**Scraped:** 2026-07-25T08:10:33.931830+00:00
 
+Microsoft Office 365 SharePoint Sites Audit Events - Netskope Knowledge Portal
 Microsoft Office 365 SharePoint Sites Audit Events
 The following list of audit events are supported for Microsoft Office 365 SharePoint Sites. For event description, refer to the Microsoft
 article
@@ -22311,7 +22377,7 @@ Microsoft Office 365 SharePoint Sites Audit Events
 ## Microsoft Office 365 Teams Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-teams-page/
 **Last Modified:** 2025-08-31T01:41:22+00:00
-**Scraped:** 2026-07-24T08:30:29.963603+00:00
+**Scraped:** 2026-07-25T08:10:35.109922+00:00
 
 Microsoft Office 365 Teams Page - Netskope Knowledge Portal
 Microsoft Office 365 Teams Page
@@ -22348,7 +22414,7 @@ Microsoft Office 365 Teams Page
 ## Microsoft Office 365 SharePoint Users Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-sharepoint-users-page/
 **Last Modified:** 2025-08-31T01:41:17+00:00
-**Scraped:** 2026-07-24T08:30:31.139267+00:00
+**Scraped:** 2026-07-25T08:10:36.296329+00:00
 
 Microsoft Office 365 SharePoint Users Page - Netskope Knowledge Portal
 Microsoft Office 365 SharePoint Users Page
@@ -22390,7 +22456,7 @@ Microsoft Office 365 SharePoint Users Page
 ## Microsoft Office 365 Teams Audit Events
 **URL:** https://docs.netskope.com/en/microsoft-office-365-teams-audit-events/
 **Last Modified:** 2025-08-31T01:41:23+00:00
-**Scraped:** 2026-07-24T08:30:32.411158+00:00
+**Scraped:** 2026-07-25T08:10:37.565935+00:00
 
 Microsoft Office 365 Teams Audit Events - Netskope Knowledge Portal
 Microsoft Office 365 Teams Audit Events
@@ -22423,7 +22489,7 @@ Microsoft Office 365 Teams Audit Events
 ## Microsoft Office 365 Teams Messages with Violations Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-teams-messages-with-violations-page/
 **Last Modified:** 2025-08-31T01:41:21+00:00
-**Scraped:** 2026-07-24T08:30:33.585427+00:00
+**Scraped:** 2026-07-25T08:10:38.744048+00:00
 
 Microsoft Office 365 Teams Messages with Violations Page - Netskope Knowledge Portal
 Microsoft Office 365 Teams Messages with Violations Page
@@ -22469,7 +22535,7 @@ Microsoft Office 365 Teams Messages with Violations Page
 ## Microsoft Office 365 Teams Dashboard
 **URL:** https://docs.netskope.com/en/microsoft-office-365-teams-dashboard/
 **Last Modified:** 2025-08-31T01:41:21+00:00
-**Scraped:** 2026-07-24T08:30:34.757000+00:00
+**Scraped:** 2026-07-25T08:10:40.016557+00:00
 
 Microsoft Office 365 Teams Dashboard - Netskope Knowledge Portal
 Microsoft Office 365 Teams Dashboard
@@ -22507,7 +22573,7 @@ Microsoft Office 365 Teams Dashboard
 ## Migrating existing AWS accounts to the new set up
 **URL:** https://docs.netskope.com/en/migrating-existing-aws-accounts-to-the-new-set-up/
 **Last Modified:** 2025-08-31T01:46:30+00:00
-**Scraped:** 2026-07-24T08:30:35.953345+00:00
+**Scraped:** 2026-07-25T08:10:41.198404+00:00
 
 Migrating existing AWS accounts to the new set up - Netskope Knowledge Portal
 Migrating existing AWS accounts to the new set up
@@ -22859,7 +22925,7 @@ Migrating existing AWS accounts to the new set up
 ## Microsoft Office 365 Teams Users Page
 **URL:** https://docs.netskope.com/en/microsoft-office-365-teams-users-page/
 **Last Modified:** 2025-08-31T01:41:21+00:00
-**Scraped:** 2026-07-24T08:30:37.128552+00:00
+**Scraped:** 2026-07-25T08:10:42.472616+00:00
 
 Microsoft Office 365 Teams Users Page - Netskope Knowledge Portal
 Microsoft Office 365 Teams Users Page
@@ -22896,7 +22962,7 @@ Microsoft Office 365 Teams Users Page
 ## Migrating Existing Google Cloud Platform Instances
 **URL:** https://docs.netskope.com/en/migrating-existing-google-cloud-platform-instances/
 **Last Modified:** 2025-08-31T01:46:32+00:00
-**Scraped:** 2026-07-24T08:30:38.302761+00:00
+**Scraped:** 2026-07-25T08:10:43.650431+00:00
 
 Migrating Existing Google Cloud Platform Instances - Netskope Knowledge Portal
 Migrating Existing Google Cloud Platform Instances
@@ -22923,7 +22989,7 @@ Migrating Existing Google Cloud Platform Instances
 ## Device Intelligence Asset Inventory
 **URL:** https://docs.netskope.com/en/netskope-asset-inventory/
 **Last Modified:** 2025-08-31T01:47:40+00:00
-**Scraped:** 2026-07-24T08:30:40.754194+00:00
+**Scraped:** 2026-07-25T08:10:46.004459+00:00
 
 Device Intelligence Asset Inventory - Netskope Knowledge Portal
 Device Intelligence Asset Inventory
@@ -23037,7 +23103,7 @@ Device Intelligence Asset Inventory
 ## Netskope Assets
 **URL:** https://docs.netskope.com/en/netskope-assets/
 **Last Modified:** 2025-08-31T01:47:46+00:00
-**Scraped:** 2026-07-24T08:30:41.932472+00:00
+**Scraped:** 2026-07-25T08:10:47.182622+00:00
 
 Netskope Assets - Netskope Knowledge Portal
 Netskope Assets
@@ -23112,7 +23178,7 @@ Netskope Assets
 ## Netskope Public Cloud Security Dashboards
 **URL:** https://docs.netskope.com/en/netskope-public-cloud-security-dashboards/
 **Last Modified:** 2025-08-31T01:46:28+00:00
-**Scraped:** 2026-07-24T08:30:46.784598+00:00
+**Scraped:** 2026-07-25T08:10:51.980125+00:00
 
 Netskope Public Cloud Security Dashboards - Netskope Knowledge Portal
 Netskope Public Cloud Security Dashboards
@@ -23129,8 +23195,9 @@ Netskope Public Cloud Security Dashboards
 ## Netskope Transaction Events
 **URL:** https://docs.netskope.com/en/netskope-transaction-events/
 **Last Modified:** 2026-06-09T05:01:54+00:00
-**Scraped:** 2026-07-24T08:30:49.234701+00:00
+**Scraped:** 2026-07-25T08:10:54.343383+00:00
 
+Netskope Transaction Events - Netskope Knowledge Portal
 Netskope Transaction Events
 Netskope is retiring the
 Transaction Event Streaming
@@ -23315,8 +23382,9 @@ Netskope Transaction Events
 ## Next Generation API Data Protection for Atlassian Jira Cloud
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-atlassian-jira-cloud/
 **Last Modified:** 2025-08-31T01:42:11+00:00
-**Scraped:** 2026-07-24T08:30:51.580507+00:00
+**Scraped:** 2026-07-25T08:10:56.780267+00:00
 
+Next Generation API Data Protection for Atlassian Jira Cloud - Netskope Knowledge Portal
 Next Generation API Data Protection for Atlassian Jira Cloud
 Using API Data Protection involves configuring the API connection for your Atlassian Jira Cloud app.
 To use the Next Generation API Data Protection for Atlassian Jira Cloud, first you need to connect Netskope to your Atlassian Jira Cloud account via Atlassian Jiras’ APIs. The following sections explain how the API connector works, and how to configure the connection.
@@ -23329,7 +23397,7 @@ Next Generation API Data Protection for Atlassian Jira Cloud
 ## Next Generation API Data Protection for ShareFile
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-citrix-sharefile/
 **Last Modified:** 2025-11-15T03:22:35+00:00
-**Scraped:** 2026-07-24T08:30:52.808970+00:00
+**Scraped:** 2026-07-25T08:10:58.055039+00:00
 
 Next Generation API Data Protection for ShareFile - Netskope Knowledge Portal
 Next Generation API Data Protection for ShareFile
@@ -23343,7 +23411,7 @@ Next Generation API Data Protection for ShareFile
 ## Next Generation API Data Protection for Google Drive
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-google-drive/
 **Last Modified:** 2025-09-12T05:09:41+00:00
-**Scraped:** 2026-07-24T08:30:53.980984+00:00
+**Scraped:** 2026-07-25T08:10:59.226151+00:00
 
 Next Generation API Data Protection for Google Drive - Netskope Knowledge Portal
 Next Generation API Data Protection for Google Drive
@@ -23365,7 +23433,7 @@ Next Generation API Data Protection for Google Drive
 ## Next Generation API Data Protection for Microsoft 365 OneDrive
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-microsoft-365-onedrive/
 **Last Modified:** 2025-11-26T06:10:07+00:00
-**Scraped:** 2026-07-24T08:30:55.150035+00:00
+**Scraped:** 2026-07-25T08:11:00.399715+00:00
 
 Next Generation API Data Protection for Microsoft 365 OneDrive - Netskope Knowledge Portal
 Next Generation API Data Protection for Microsoft 365 OneDrive
@@ -23382,7 +23450,7 @@ Next Generation API Data Protection for Microsoft 365 OneDrive
 ## Next Generation API Data Protection for Microsoft 365 SharePoint
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-microsoft-365-sharepoint/
 **Last Modified:** 2025-11-26T06:11:30+00:00
-**Scraped:** 2026-07-24T08:30:56.307722+00:00
+**Scraped:** 2026-07-25T08:11:01.695217+00:00
 
 Next Generation API Data Protection for Microsoft 365 SharePoint - Netskope Knowledge Portal
 Next Generation API Data Protection for Microsoft 365 SharePoint
@@ -23399,7 +23467,7 @@ Next Generation API Data Protection for Microsoft 365 SharePoint
 ## Next Generation API Data Protection for Okta
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-okta/
 **Last Modified:** 2025-08-31T01:42:26+00:00
-**Scraped:** 2026-07-24T08:30:57.489789+00:00
+**Scraped:** 2026-07-25T08:11:02.867610+00:00
 
 Next Generation API Data Protection for Okta - Netskope Knowledge Portal
 Next Generation API Data Protection for Okta
@@ -23415,7 +23483,7 @@ Next Generation API Data Protection for Okta
 ## Next Generation API Data Protection for Microsoft Viva Engage (formerly Yammer)
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-microsoft-viva-engage/
 **Last Modified:** 2026-05-25T03:56:57+00:00
-**Scraped:** 2026-07-24T08:30:58.666999+00:00
+**Scraped:** 2026-07-25T08:11:04.038157+00:00
 
 Next Generation API Data Protection for Microsoft Viva Engage (formerly Yammer) - Netskope Knowledge Portal
 Next Generation API Data Protection for Microsoft Viva Engage (formerly Yammer)
@@ -23429,7 +23497,7 @@ Next Generation API Data Protection for Microsoft Viva Engage (formerly Yammer)
 ## Next Generation API Data Protection for Zendesk
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-zendesk/
 **Last Modified:** 2025-08-31T01:42:25+00:00
-**Scraped:** 2026-07-24T08:30:59.838562+00:00
+**Scraped:** 2026-07-25T08:11:05.214512+00:00
 
 Next Generation API Data Protection for Zendesk - Netskope Knowledge Portal
 Next Generation API Data Protection for Zendesk
@@ -23445,7 +23513,7 @@ Next Generation API Data Protection for Zendesk
 ## Next Generation API Data Protection for Workday
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-workday/
 **Last Modified:** 2025-08-31T01:42:24+00:00
-**Scraped:** 2026-07-24T08:31:01.109218+00:00
+**Scraped:** 2026-07-25T08:11:06.482748+00:00
 
 Next Generation API Data Protection for Workday - Netskope Knowledge Portal
 Next Generation API Data Protection for Workday
@@ -23460,7 +23528,7 @@ Next Generation API Data Protection for Workday
 ## Next Generation API Data Protection for Zoom
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-zoom/
 **Last Modified:** 2025-08-31T01:42:33+00:00
-**Scraped:** 2026-07-24T08:31:02.309141+00:00
+**Scraped:** 2026-07-25T08:11:07.942527+00:00
 
 Next Generation API Data Protection for Zoom - Netskope Knowledge Portal
 Next Generation API Data Protection for Zoom
@@ -23482,7 +23550,7 @@ Next Generation API Data Protection for Zoom
 ## Viewing your Security Posture
 **URL:** https://docs.netskope.com/en/saas-security-posture-management-dashboard/
 **Last Modified:** 2025-08-31T01:47:02+00:00
-**Scraped:** 2026-07-24T08:31:03.669248+00:00
+**Scraped:** 2026-07-25T08:11:09.114658+00:00
 
 Viewing your Security Posture - Netskope Knowledge Portal
 Viewing your Security Posture
@@ -23506,8 +23574,9 @@ Viewing your Security Posture
 ## Security Policies
 **URL:** https://docs.netskope.com/en/saas-security-posture-policy/
 **Last Modified:** 2025-09-10T06:06:41+00:00
-**Scraped:** 2026-07-24T08:31:04.843858+00:00
+**Scraped:** 2026-07-25T08:11:10.289395+00:00
 
+Security Policies - Netskope Knowledge Portal
 Security Policies
 A security posture policy is a set of rules, designed to evaluate and enforce your SaaS app’s security posture.
 The
@@ -23577,7 +23646,7 @@ Security Policies
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117718/
 **Last Modified:** 2025-08-31T01:40:52+00:00
-**Scraped:** 2026-07-24T08:31:06.018904+00:00
+**Scraped:** 2026-07-25T08:11:11.461052+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23618,8 +23687,9 @@ Notification
 ## Viewing And Managing Policies and Rules
 **URL:** https://docs.netskope.com/en/saas-security-posture-management-policy-wizard/
 **Last Modified:** 2025-09-10T05:50:55+00:00
-**Scraped:** 2026-07-24T08:31:07.191519+00:00
+**Scraped:** 2026-07-25T08:11:12.636065+00:00
 
+Viewing And Managing Policies and Rules - Netskope Knowledge Portal
 Viewing And Managing Policies and Rules
 Netskope SaaS Security Posture Management (SSPM) continuously scans your integrated SaaS apps to assess the security posture.
 When you configure a SaaS app instance in your Netskope tenant, the platform begins building an inventory of its resources. This inventory is updated regularly based on the Security Scan Interval, which you can set to:
@@ -23654,7 +23724,7 @@ Viewing And Managing Policies and Rules
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117910/
 **Last Modified:** 2025-09-01T12:31:20+00:00
-**Scraped:** 2026-07-24T08:31:08.366065+00:00
+**Scraped:** 2026-07-25T08:11:13.807971+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23695,7 +23765,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117819/
 **Last Modified:** 2025-09-01T12:32:40+00:00
-**Scraped:** 2026-07-24T08:31:09.545885+00:00
+**Scraped:** 2026-07-25T08:11:14.981591+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23736,7 +23806,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117843/
 **Last Modified:** 2025-09-01T12:30:43+00:00
-**Scraped:** 2026-07-24T08:31:10.819291+00:00
+**Scraped:** 2026-07-25T08:11:16.156742+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23783,7 +23853,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117888/
 **Last Modified:** 2025-09-01T12:30:48+00:00
-**Scraped:** 2026-07-24T08:31:11.993466+00:00
+**Scraped:** 2026-07-25T08:11:17.328804+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23824,7 +23894,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117866/
 **Last Modified:** 2025-09-01T12:34:09+00:00
-**Scraped:** 2026-07-24T08:31:13.269488+00:00
+**Scraped:** 2026-07-25T08:11:18.488148+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23865,7 +23935,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117932/
 **Last Modified:** 2025-09-01T12:33:26+00:00
-**Scraped:** 2026-07-24T08:31:14.456030+00:00
+**Scraped:** 2026-07-25T08:11:19.661303+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23906,7 +23976,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117954/
 **Last Modified:** 2025-09-01T12:32:08+00:00
-**Scraped:** 2026-07-24T08:31:15.636894+00:00
+**Scraped:** 2026-07-25T08:11:20.835686+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23947,7 +24017,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-117986/
 **Last Modified:** 2025-09-01T12:31:43+00:00
-**Scraped:** 2026-07-24T08:31:16.812663+00:00
+**Scraped:** 2026-07-25T08:11:22.019897+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -23988,7 +24058,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-118086/
 **Last Modified:** 2025-09-01T12:31:48+00:00
-**Scraped:** 2026-07-24T08:31:17.996082+00:00
+**Scraped:** 2026-07-25T08:11:23.195619+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -24029,7 +24099,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-118039/
 **Last Modified:** 2025-09-01T12:31:13+00:00
-**Scraped:** 2026-07-24T08:31:19.169122+00:00
+**Scraped:** 2026-07-25T08:11:24.367865+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -24070,7 +24140,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-118111/
 **Last Modified:** 2025-09-01T12:32:13+00:00
-**Scraped:** 2026-07-24T08:31:20.353442+00:00
+**Scraped:** 2026-07-25T08:11:25.565660+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -24118,7 +24188,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification-118132/
 **Last Modified:** 2025-09-01T12:31:17+00:00
-**Scraped:** 2026-07-24T08:31:21.627008+00:00
+**Scraped:** 2026-07-25T08:11:26.738569+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -24159,7 +24229,7 @@ Notification
 ## Notification
 **URL:** https://docs.netskope.com/en/notification/
 **Last Modified:** 2025-09-01T12:30:38+00:00
-**Scraped:** 2026-07-24T08:31:22.799817+00:00
+**Scraped:** 2026-07-25T08:11:27.912054+00:00
 
 Notification - Netskope Knowledge Portal
 Notification
@@ -24200,7 +24270,7 @@ Notification
 ## On-demand for Box
 **URL:** https://docs.netskope.com/en/on-demand-for-box/
 **Last Modified:** 2025-08-31T01:39:53+00:00
-**Scraped:** 2026-07-24T08:31:23.975546+00:00
+**Scraped:** 2026-07-25T08:11:29.090576+00:00
 
 On-demand for Box - Netskope Knowledge Portal
 On-demand for Box
@@ -24215,7 +24285,7 @@ On-demand for Box
 ## OT Device Activities
 **URL:** https://docs.netskope.com/en/ot-device-activities/
 **Last Modified:** 2025-08-31T01:47:51+00:00
-**Scraped:** 2026-07-24T08:31:25.151364+00:00
+**Scraped:** 2026-07-25T08:11:30.262286+00:00
 
 OT Device Activities - Netskope Knowledge Portal
 OT Device Activities
@@ -24235,7 +24305,7 @@ OT Device Activities
 ## OpenVAS Scans
 **URL:** https://docs.netskope.com/en/openvas-scans/
 **Last Modified:** 2025-08-31T01:47:45+00:00
-**Scraped:** 2026-07-24T08:31:26.418681+00:00
+**Scraped:** 2026-07-25T08:11:31.585856+00:00
 
 OpenVAS Scans - Netskope Knowledge Portal
 OpenVAS Scans
@@ -24272,7 +24342,7 @@ OpenVAS Scans
 ## OT Device Discovery
 **URL:** https://docs.netskope.com/en/ot-device-discovery/
 **Last Modified:** 2025-08-31T01:47:50+00:00
-**Scraped:** 2026-07-24T08:31:27.600084+00:00
+**Scraped:** 2026-07-25T08:11:32.810347+00:00
 
 OT Device Discovery - Netskope Knowledge Portal
 OT Device Discovery
@@ -24343,7 +24413,7 @@ OT Device Discovery
 ## Outlook Emails with Violations Page
 **URL:** https://docs.netskope.com/en/outlook-emails-with-violations-page/
 **Last Modified:** 2025-08-31T01:41:04+00:00
-**Scraped:** 2026-07-24T08:31:28.776144+00:00
+**Scraped:** 2026-07-25T08:11:33.987254+00:00
 
 Outlook Emails with Violations Page - Netskope Knowledge Portal
 Outlook Emails with Violations Page
@@ -24384,7 +24454,7 @@ Outlook Emails with Violations Page
 ## Outlook External Recipients Page
 **URL:** https://docs.netskope.com/en/outlook-external-recipients-page/
 **Last Modified:** 2025-08-31T01:41:03+00:00
-**Scraped:** 2026-07-24T08:31:29.952511+00:00
+**Scraped:** 2026-07-25T08:11:35.157759+00:00
 
 Outlook External Recipients Page - Netskope Knowledge Portal
 Outlook External Recipients Page
@@ -24404,7 +24474,7 @@ Outlook External Recipients Page
 ## Outlook Summary Page
 **URL:** https://docs.netskope.com/en/outlook-summary-page/
 **Last Modified:** 2025-08-31T01:41:03+00:00
-**Scraped:** 2026-07-24T08:31:31.128689+00:00
+**Scraped:** 2026-07-25T08:11:36.328619+00:00
 
 Outlook Summary Page - Netskope Knowledge Portal
 Outlook Summary Page
@@ -24435,7 +24505,7 @@ Outlook Summary Page
 ## Outlook Users Page
 **URL:** https://docs.netskope.com/en/outlook-users-page/
 **Last Modified:** 2025-08-31T01:41:03+00:00
-**Scraped:** 2026-07-24T08:31:32.301834+00:00
+**Scraped:** 2026-07-25T08:11:37.511945+00:00
 
 Outlook Users Page - Netskope Knowledge Portal
 Outlook Users Page
@@ -24470,7 +24540,7 @@ Outlook Users Page
 ## Permissions Required for Atlassian Jira Cloud
 **URL:** https://docs.netskope.com/en/permissions-required-for-atlassian-jira-cloud-ngapi/
 **Last Modified:** 2025-08-31T01:42:12+00:00
-**Scraped:** 2026-07-24T08:31:33.484639+00:00
+**Scraped:** 2026-07-25T08:11:38.682146+00:00
 
 Permissions Required for Atlassian Jira Cloud - Netskope Knowledge Portal
 Permissions Required for Atlassian Jira Cloud
@@ -24503,7 +24573,7 @@ Permissions Required for Atlassian Jira Cloud
 ## Permissions Required for GitHub
 **URL:** https://docs.netskope.com/en/permissions-required-for-github-450414/
 **Last Modified:** 2025-09-01T13:06:12+00:00
-**Scraped:** 2026-07-24T08:31:34.758463+00:00
+**Scraped:** 2026-07-25T08:11:39.854527+00:00
 
 Permissions Required for GitHub - Netskope Knowledge Portal
 Permissions Required for GitHub
@@ -24540,7 +24610,7 @@ Permissions Required for GitHub
 ## Permissions Required for Zoom
 **URL:** https://docs.netskope.com/en/permissions-required-for-zoom-450417/
 **Last Modified:** 2025-09-01T13:06:14+00:00
-**Scraped:** 2026-07-24T08:31:35.929392+00:00
+**Scraped:** 2026-07-25T08:11:41.124280+00:00
 
 Permissions Required for Zoom - Netskope Knowledge Portal
 Permissions Required for Zoom
@@ -24577,8 +24647,9 @@ Permissions Required for Zoom
 ## Permissions Required for Microsoft 365
 **URL:** https://docs.netskope.com/en/permissions-required-for-microsoft-365/
 **Last Modified:** 2025-08-31T01:46:44+00:00
-**Scraped:** 2026-07-24T08:31:37.109474+00:00
+**Scraped:** 2026-07-25T08:11:42.300393+00:00
 
+Permissions Required for Microsoft 365 - Netskope Knowledge Portal
 Permissions Required for Microsoft 365
 When you grant access to the Microsoft 365 app instance, Netskope seeks consent for the following permissions from the Microsoft 365 account:
 Permissions required by Netskope
@@ -24654,7 +24725,7 @@ Permissions Required for Microsoft 365
 ## Permissions Required for GitHub
 **URL:** https://docs.netskope.com/en/permissions-required-for-github/
 **Last Modified:** 2025-09-01T13:21:18+00:00
-**Scraped:** 2026-07-24T08:31:38.284348+00:00
+**Scraped:** 2026-07-25T08:11:43.478721+00:00
 
 Permissions Required for GitHub - Netskope Knowledge Portal
 Permissions Required for GitHub
@@ -24693,7 +24764,7 @@ Permissions Required for GitHub
 ## Permissions Required for Salesforce
 **URL:** https://docs.netskope.com/en/permissions-required-for-salesforce/
 **Last Modified:** 2025-08-31T01:46:42+00:00
-**Scraped:** 2026-07-24T08:31:39.560016+00:00
+**Scraped:** 2026-07-25T08:11:44.652392+00:00
 
 Permissions Required for Salesforce - Netskope Knowledge Portal
 Permissions Required for Salesforce
@@ -24764,7 +24835,7 @@ Permissions Required for Salesforce
 ## Permissions Required for Zoom
 **URL:** https://docs.netskope.com/en/permissions-required-for-zoom/
 **Last Modified:** 2025-08-31T01:42:33+00:00
-**Scraped:** 2026-07-24T08:31:40.740610+00:00
+**Scraped:** 2026-07-25T08:11:45.926690+00:00
 
 Permissions Required for Zoom - Netskope Knowledge Portal
 Permissions Required for Zoom
@@ -24882,8 +24953,9 @@ Permissions Required for Zoom
 ## Private App Management
 **URL:** https://docs.netskope.com/en/private-app-management/
 **Last Modified:** 2026-03-03T02:23:54+00:00
-**Scraped:** 2026-07-24T08:31:46.709299+00:00
+**Scraped:** 2026-07-25T08:11:51.957416+00:00
 
+Private App Management - Netskope Knowledge Portal
 Private App Management
 The following sections explain how to create and steer Private Apps.
 Create a Private Access App Definition
@@ -24900,8 +24972,9 @@ Private App Management
 ## Profiles
 **URL:** https://docs.netskope.com/en/profiles/
 **Last Modified:** 2025-08-31T01:50:25+00:00
-**Scraped:** 2026-07-24T08:31:47.979173+00:00
+**Scraped:** 2026-07-25T08:11:53.129607+00:00
 
+Profiles - Netskope Knowledge Portal
 Profiles
 Profiles are used in conjunction with various policies. Use the following instructions to create different types of profiles. For Threat Protection profiles, refer to
 Malware Detection
@@ -24934,7 +25007,7 @@ Profiles
 ## Publisher Management
 **URL:** https://docs.netskope.com/en/publisher-management/
 **Last Modified:** 2026-03-03T01:56:14+00:00
-**Scraped:** 2026-07-24T08:31:49.136128+00:00
+**Scraped:** 2026-07-25T08:11:54.296202+00:00
 
 Publisher Management - Netskope Knowledge Portal
 Publisher Management
@@ -24952,8 +25025,9 @@ Publisher Management
 ## Publisher Support Policy
 **URL:** https://docs.netskope.com/en/publisher-support-policy/
 **Last Modified:** 2026-03-03T01:56:38+00:00
-**Scraped:** 2026-07-24T08:31:50.408069+00:00
+**Scraped:** 2026-07-25T08:11:55.467175+00:00
 
+Publisher Support Policy - Netskope Knowledge Portal
 Publisher Support Policy
 Netskope One Private Access (NPA) Publisher is a software package that is deployed in your data center. The Publisher enables the private application connectivity between your data center and the Netskope cloud. Various supported platforms and versions are explained in
 Deploy a Publisher
@@ -24984,7 +25058,7 @@ Publisher Support Policy
 ## Protect Device Intelligence
 **URL:** https://docs.netskope.com/en/protect-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:44+00:00
-**Scraped:** 2026-07-24T08:31:51.584553+00:00
+**Scraped:** 2026-07-25T08:11:56.642396+00:00
 
 Protect Device Intelligence - Netskope Knowledge Portal
 Protect Device Intelligence
@@ -25035,7 +25109,7 @@ Protect Device Intelligence
 ## Purpose of Retroactive Ongoing Processing
 **URL:** https://docs.netskope.com/en/purpose-of-retroactive-ongoing-processing/
 **Last Modified:** 2025-08-31T01:39:52+00:00
-**Scraped:** 2026-07-24T08:31:52.813491+00:00
+**Scraped:** 2026-07-25T08:11:57.813977+00:00
 
 Purpose of Retroactive Ongoing Processing - Netskope Knowledge Portal
 Purpose of Retroactive Ongoing Processing
@@ -25047,7 +25121,7 @@ Purpose of Retroactive Ongoing Processing
 ## Purpose of Retroactive Ongoing Processing
 **URL:** https://docs.netskope.com/en/purpose-of-retroactive-ongoing-processing-117807/
 **Last Modified:** 2025-09-01T12:33:05+00:00
-**Scraped:** 2026-07-24T08:31:53.987574+00:00
+**Scraped:** 2026-07-25T08:11:58.985205+00:00
 
 Purpose of Retroactive Ongoing Processing - Netskope Knowledge Portal
 Purpose of Retroactive Ongoing Processing
@@ -25059,7 +25133,7 @@ Purpose of Retroactive Ongoing Processing
 ## Purpose of Retroactive Ongoing Processing
 **URL:** https://docs.netskope.com/en/purpose-of-retroactive-ongoing-processing-120829/
 **Last Modified:** 2025-09-01T12:32:36+00:00
-**Scraped:** 2026-07-24T08:31:55.159487+00:00
+**Scraped:** 2026-07-25T08:12:00.203925+00:00
 
 Purpose of Retroactive Ongoing Processing - Netskope Knowledge Portal
 Purpose of Retroactive Ongoing Processing
@@ -25071,8 +25145,9 @@ Purpose of Retroactive Ongoing Processing
 ## RBI Best Practices and Limitations
 **URL:** https://docs.netskope.com/en/rbi-best-practices-and-limitations/
 **Last Modified:** 2025-09-04T03:47:47+00:00
-**Scraped:** 2026-07-24T08:31:56.338831+00:00
+**Scraped:** 2026-07-25T08:12:01.395876+00:00
 
+RBI Best Practices and Limitations - Netskope Knowledge Portal
 RBI Best Practices and Limitations
 DLP/TSS Integration with RBI
 When this feature is enabled, you may see the following limitations.
@@ -25138,7 +25213,7 @@ RBI Best Practices and Limitations
 ## RBI Use Cases
 **URL:** https://docs.netskope.com/en/rbi-use-cases/
 **Last Modified:** 2025-08-31T01:46:33+00:00
-**Scraped:** 2026-07-24T08:31:57.514454+00:00
+**Scraped:** 2026-07-25T08:12:02.581351+00:00
 
 RBI Use Cases - Netskope Knowledge Portal
 RBI Use Cases
@@ -25168,7 +25243,7 @@ RBI Use Cases
 ## RBI Destinations: Categories and Applications
 **URL:** https://docs.netskope.com/en/rbi-category-definitions/
 **Last Modified:** 2025-08-31T01:46:37+00:00
-**Scraped:** 2026-07-24T08:31:58.733576+00:00
+**Scraped:** 2026-07-25T08:12:03.757046+00:00
 
 RBI Destinations: Categories and Applications
 Targeted RBI Web Categories
@@ -25202,8 +25277,9 @@ RBI Destinations: Categories and Applications
 ## RBI Prerequisites
 **URL:** https://docs.netskope.com/en/rbi-prerequisites/
 **Last Modified:** 2025-08-31T01:46:34+00:00
-**Scraped:** 2026-07-24T08:31:59.901433+00:00
+**Scraped:** 2026-07-25T08:12:04.923500+00:00
 
+RBI Prerequisites - Netskope Knowledge Portal
 RBI Prerequisites
 The following are prerequisites for setting up RBI in your account and general workflow.
 Contact your Sales representative to enable Netskope RBI in your account, licensing is required.
@@ -25216,7 +25292,7 @@ RBI Prerequisites
 ## RBI Templates
 **URL:** https://docs.netskope.com/en/rbi-templates/
 **Last Modified:** 2025-08-31T01:46:36+00:00
-**Scraped:** 2026-07-24T08:32:01.179954+00:00
+**Scraped:** 2026-07-25T08:12:06.107414+00:00
 
 RBI Templates - Netskope Knowledge Portal
 RBI Templates
@@ -25302,7 +25378,7 @@ RBI Templates
 ## Report Miscategorization
 **URL:** https://docs.netskope.com/en/report-miscategorization/
 **Last Modified:** 2026-06-10T23:48:35+00:00
-**Scraped:** 2026-07-24T08:32:05.911267+00:00
+**Scraped:** 2026-07-25T08:12:11.158137+00:00
 
 Report Miscategorization - Netskope Knowledge Portal
 Report Miscategorization
@@ -25343,7 +25419,7 @@ Report Miscategorization
 ## How to Create a Report?
 **URL:** https://docs.netskope.com/en/reporting/
 **Last Modified:** 2025-08-31T01:47:55+00:00
-**Scraped:** 2026-07-24T08:32:07.092713+00:00
+**Scraped:** 2026-07-25T08:12:12.336817+00:00
 
 How to Create a Report? - Netskope Knowledge Portal
 How to Create a Report?
@@ -25394,7 +25470,7 @@ How to Create a Report?
 ## Retroactive Ongoing Processing for Apps
 **URL:** https://docs.netskope.com/en/retroactive-ongoing-processing-for-apps-117806/
 **Last Modified:** 2025-08-31T01:40:53+00:00
-**Scraped:** 2026-07-24T08:32:08.265270+00:00
+**Scraped:** 2026-07-25T08:12:13.511838+00:00
 
 Retroactive Ongoing Processing for Apps - Netskope Knowledge Portal
 Retroactive Ongoing Processing for Apps
@@ -25410,7 +25486,7 @@ Retroactive Ongoing Processing for Apps
 ## Retroactive Ongoing Processing for Apps
 **URL:** https://docs.netskope.com/en/retroactive-ongoing-processing-for-apps/
 **Last Modified:** 2025-09-01T12:32:35+00:00
-**Scraped:** 2026-07-24T08:32:09.540393+00:00
+**Scraped:** 2026-07-25T08:12:14.687014+00:00
 
 Retroactive Ongoing Processing for Apps - Netskope Knowledge Portal
 Retroactive Ongoing Processing for Apps
@@ -25426,7 +25502,7 @@ Retroactive Ongoing Processing for Apps
 ## Retroactive Ongoing Processing for Apps
 **URL:** https://docs.netskope.com/en/retroactive-ongoing-processing-for-apps-120828/
 **Last Modified:** 2025-09-01T12:32:36+00:00
-**Scraped:** 2026-07-24T08:32:10.715459+00:00
+**Scraped:** 2026-07-25T08:12:15.872847+00:00
 
 Retroactive Ongoing Processing for Apps - Netskope Knowledge Portal
 Retroactive Ongoing Processing for Apps
@@ -25442,7 +25518,7 @@ Retroactive Ongoing Processing for Apps
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-117868/
 **Last Modified:** 2025-08-31T01:41:28+00:00
-**Scraped:** 2026-07-24T08:32:11.905065+00:00
+**Scraped:** 2026-07-25T08:12:17.071898+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -25581,7 +25657,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-117912/
 **Last Modified:** 2025-09-01T12:31:22+00:00
-**Scraped:** 2026-07-24T08:32:13.088969+00:00
+**Scraped:** 2026-07-25T08:12:18.252697+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -25720,7 +25796,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-117934/
 **Last Modified:** 2025-08-31T01:41:35+00:00
-**Scraped:** 2026-07-24T08:32:14.275140+00:00
+**Scraped:** 2026-07-25T08:12:19.435271+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -25858,7 +25934,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-117890/
 **Last Modified:** 2025-09-01T12:34:11+00:00
-**Scraped:** 2026-07-24T08:32:15.475729+00:00
+**Scraped:** 2026-07-25T08:12:20.716809+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -25999,7 +26075,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-118088/
 **Last Modified:** 2025-09-01T12:31:49+00:00
-**Scraped:** 2026-07-24T08:32:16.657397+00:00
+**Scraped:** 2026-07-25T08:12:21.899700+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -26138,7 +26214,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-118041/
 **Last Modified:** 2025-09-01T12:31:14+00:00
-**Scraped:** 2026-07-24T08:32:17.939697+00:00
+**Scraped:** 2026-07-25T08:12:23.183867+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -26277,7 +26353,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-box/
 **Last Modified:** 2025-09-01T12:30:39+00:00
-**Scraped:** 2026-07-24T08:32:19.121961+00:00
+**Scraped:** 2026-07-25T08:12:24.375872+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -26419,7 +26495,7 @@ Retroactive Scan
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan-120830/
 **Last Modified:** 2025-09-01T12:31:40+00:00
-**Scraped:** 2026-07-24T08:32:20.288815+00:00
+**Scraped:** 2026-07-25T08:12:25.561575+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -26560,7 +26636,7 @@ Retroactive Scan
 ## Salesforce Audit Events
 **URL:** https://docs.netskope.com/en/salesforce-audit-events/
 **Last Modified:** 2025-08-31T01:41:30+00:00
-**Scraped:** 2026-07-24T08:32:21.464155+00:00
+**Scraped:** 2026-07-25T08:12:26.735602+00:00
 
 Salesforce Audit Events - Netskope Knowledge Portal
 Salesforce Audit Events
@@ -26597,7 +26673,7 @@ Salesforce Audit Events
 ## Sample Granular Policies
 **URL:** https://docs.netskope.com/en/sample-granular-policies/
 **Last Modified:** 2025-08-31T01:46:18+00:00
-**Scraped:** 2026-07-24T08:32:22.641961+00:00
+**Scraped:** 2026-07-25T08:12:28.006415+00:00
 
 Sample Granular Policies - Netskope Knowledge Portal
 Sample Granular Policies
@@ -26700,7 +26776,7 @@ Sample Granular Policies
 ## Security Compliance Report for Salesforce
 **URL:** https://docs.netskope.com/en/security-compliance-report-for-salesforce/
 **Last Modified:** 2025-08-31T01:41:24+00:00
-**Scraped:** 2026-07-24T08:32:23.824069+00:00
+**Scraped:** 2026-07-25T08:12:29.191967+00:00
 
 Security Compliance Report for Salesforce - Netskope Knowledge Portal
 Security Compliance Report for Salesforce
@@ -26806,7 +26882,7 @@ Security Compliance Report for Salesforce
 ## Salesforce Key Management
 **URL:** https://docs.netskope.com/en/salesforce-key-management/
 **Last Modified:** 2025-08-31T01:41:29+00:00
-**Scraped:** 2026-07-24T08:32:25.004480+00:00
+**Scraped:** 2026-07-25T08:12:30.380848+00:00
 
 Salesforce Key Management - Netskope Knowledge Portal
 Salesforce Key Management
@@ -26872,7 +26948,7 @@ Salesforce Key Management
 ## Security Posture Policy
 **URL:** https://docs.netskope.com/en/security-posture-policy/
 **Last Modified:** 2025-08-31T01:46:04+00:00
-**Scraped:** 2026-07-24T08:32:26.180004+00:00
+**Scraped:** 2026-07-25T08:12:31.556387+00:00
 
 Security Posture Policy - Netskope Knowledge Portal
 Security Posture Policy
@@ -26946,7 +27022,7 @@ Security Posture Policy
 ## Security Posture Management for AWS
 **URL:** https://docs.netskope.com/en/security-posture-management-for-aws/
 **Last Modified:** 2025-08-31T01:45:57+00:00
-**Scraped:** 2026-07-24T08:32:27.352946+00:00
+**Scraped:** 2026-07-25T08:12:32.729469+00:00
 
 Security Posture Management for AWS - Netskope Knowledge Portal
 Security Posture Management for AWS
@@ -26968,7 +27044,7 @@ Security Posture Management for AWS
 ## Security Posture Management for GCP
 **URL:** https://docs.netskope.com/en/security-posture-management-for-gcp/
 **Last Modified:** 2025-08-31T01:45:58+00:00
-**Scraped:** 2026-07-24T08:32:28.527147+00:00
+**Scraped:** 2026-07-25T08:12:33.898662+00:00
 
 Security Posture Management for GCP - Netskope Knowledge Portal
 Security Posture Management for GCP
@@ -26983,7 +27059,7 @@ Security Posture Management for GCP
 ## Security Posture Management for Azure
 **URL:** https://docs.netskope.com/en/security-posture-management-for-azure/
 **Last Modified:** 2025-08-31T01:45:57+00:00
-**Scraped:** 2026-07-24T08:32:29.703145+00:00
+**Scraped:** 2026-07-25T08:12:35.071661+00:00
 
 Security Posture Management for Azure - Netskope Knowledge Portal
 Security Posture Management for Azure
@@ -27001,7 +27077,7 @@ Security Posture Management for Azure
 ## Security Posture Management Regulatory Compliance Standards
 **URL:** https://docs.netskope.com/en/security-posture-management-regulatory-compliance-standards/
 **Last Modified:** 2025-08-31T01:45:58+00:00
-**Scraped:** 2026-07-24T08:32:30.881293+00:00
+**Scraped:** 2026-07-25T08:12:36.256135+00:00
 
 Security Posture Management Regulatory Compliance Standards - Netskope Knowledge Portal
 Security Posture Management Regulatory Compliance Standards
@@ -27023,7 +27099,7 @@ Security Posture Management Regulatory Compliance Standards
 ## Select a Severity Threshold
 **URL:** https://docs.netskope.com/en/select-a-severity-threshold/
 **Last Modified:** 2026-06-25T19:14:30+00:00
-**Scraped:** 2026-07-24T08:32:32.054698+00:00
+**Scraped:** 2026-07-25T08:12:37.440819+00:00
 
 Select a Severity Threshold - Netskope Knowledge Portal
 Select a Severity Threshold
@@ -27079,7 +27155,7 @@ Select a Severity Threshold
 ## Security Posture Rule
 **URL:** https://docs.netskope.com/en/security-posture-rule/
 **Last Modified:** 2025-08-31T01:46:06+00:00
-**Scraped:** 2026-07-24T08:32:33.332022+00:00
+**Scraped:** 2026-07-25T08:12:38.619559+00:00
 
 Security Posture Rule - Netskope Knowledge Portal
 Security Posture Rule
@@ -27159,7 +27235,7 @@ Security Posture Rule
 ## Security Posture Profile
 **URL:** https://docs.netskope.com/en/security-posture-profile/
 **Last Modified:** 2025-08-31T01:46:05+00:00
-**Scraped:** 2026-07-24T08:32:34.503319+00:00
+**Scraped:** 2026-07-25T08:12:39.795862+00:00
 
 Security Posture Profile - Netskope Knowledge Portal
 Security Posture Profile
@@ -27202,8 +27278,9 @@ Security Posture Profile
 ## Select an Exact Match File
 **URL:** https://docs.netskope.com/en/select-an-exact-match-file/
 **Last Modified:** 2026-06-25T19:14:27+00:00
-**Scraped:** 2026-07-24T08:32:35.706160+00:00
+**Scraped:** 2026-07-25T08:12:41.013763+00:00
 
+Select an Exact Match File - Netskope Knowledge Portal
 Select an Exact Match File
 This feature requires Advanced DLP. Reach out to your account executive or support@netskope.com for more information.
 Exact match validates the presence or absence of an identifier against the data set checked by a policy. Exact match reduces the false positives and guarantees precise data leak prevention of specific entries in the data set. A couple sample use cases are:
@@ -27501,7 +27578,7 @@ Select an Exact Match File
 ## Select Custom Entities
 **URL:** https://docs.netskope.com/en/select-custom-entities/
 **Last Modified:** 2026-06-25T19:19:24+00:00
-**Scraped:** 2026-07-24T08:32:39.327528+00:00
+**Scraped:** 2026-07-25T08:12:44.530587+00:00
 
 Select Custom Entities - Netskope Knowledge Portal
 Select Custom Entities
@@ -27529,7 +27606,7 @@ Select Custom Entities
 ## Select Scan Options
 **URL:** https://docs.netskope.com/en/select-scan-options/
 **Last Modified:** 2026-06-25T19:14:30+00:00
-**Scraped:** 2026-07-24T08:32:40.596065+00:00
+**Scraped:** 2026-07-25T08:12:45.717890+00:00
 
 Select Scan Options - Netskope Knowledge Portal
 Select Scan Options
@@ -27565,7 +27642,7 @@ Select Scan Options
 ## Select Predefined Data Identifiers
 **URL:** https://docs.netskope.com/en/select-predefined-data-identifiers/
 **Last Modified:** 2026-06-25T19:19:23+00:00
-**Scraped:** 2026-07-24T08:32:41.770213+00:00
+**Scraped:** 2026-07-25T08:12:46.995812+00:00
 
 Select Predefined Data Identifiers - Netskope Knowledge Portal
 Select Predefined Data Identifiers
@@ -27658,7 +27735,7 @@ Select Predefined Data Identifiers
 ## ServiceNow Objects with Violations Page
 **URL:** https://docs.netskope.com/en/servicenow-objects-with-violations-page/
 **Last Modified:** 2025-08-31T01:41:36+00:00
-**Scraped:** 2026-07-24T08:32:42.946240+00:00
+**Scraped:** 2026-07-25T08:12:48.268671+00:00
 
 ServiceNow Objects with Violations Page - Netskope Knowledge Portal
 ServiceNow Objects with Violations Page
@@ -27696,7 +27773,7 @@ ServiceNow Objects with Violations Page
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117844/
 **Last Modified:** 2025-08-31T01:39:59+00:00
-**Scraped:** 2026-07-24T08:32:44.125371+00:00
+**Scraped:** 2026-07-25T08:12:49.491145+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27715,7 +27792,7 @@ Set Policy
 ## ServiceNow Summary Page
 **URL:** https://docs.netskope.com/en/servicenow-summary-page/
 **Last Modified:** 2025-08-31T01:41:35+00:00
-**Scraped:** 2026-07-24T08:32:45.300644+00:00
+**Scraped:** 2026-07-25T08:12:50.819079+00:00
 
 ServiceNow Summary Page - Netskope Knowledge Portal
 ServiceNow Summary Page
@@ -27758,7 +27835,7 @@ ServiceNow Summary Page
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117719/
 **Last Modified:** 2025-09-01T12:31:39+00:00
-**Scraped:** 2026-07-24T08:32:46.473773+00:00
+**Scraped:** 2026-07-25T08:12:52.045011+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27777,7 +27854,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117867/
 **Last Modified:** 2025-09-01T12:34:10+00:00
-**Scraped:** 2026-07-24T08:32:47.744533+00:00
+**Scraped:** 2026-07-25T08:12:53.218411+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27796,7 +27873,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117820/
 **Last Modified:** 2025-09-01T12:32:41+00:00
-**Scraped:** 2026-07-24T08:32:48.918310+00:00
+**Scraped:** 2026-07-25T08:12:54.393059+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27815,7 +27892,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117955/
 **Last Modified:** 2025-09-01T12:32:09+00:00
-**Scraped:** 2026-07-24T08:32:50.091271+00:00
+**Scraped:** 2026-07-25T08:12:55.570354+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27834,7 +27911,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117889/
 **Last Modified:** 2025-09-01T12:30:48+00:00
-**Scraped:** 2026-07-24T08:32:51.363549+00:00
+**Scraped:** 2026-07-25T08:12:56.845949+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27853,7 +27930,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117987/
 **Last Modified:** 2025-09-01T12:31:44+00:00
-**Scraped:** 2026-07-24T08:32:52.536343+00:00
+**Scraped:** 2026-07-25T08:12:58.116551+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27872,7 +27949,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117933/
 **Last Modified:** 2025-09-01T12:33:27+00:00
-**Scraped:** 2026-07-24T08:32:53.706143+00:00
+**Scraped:** 2026-07-25T08:12:59.291780+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27891,7 +27968,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-117911/
 **Last Modified:** 2025-09-01T12:31:21+00:00
-**Scraped:** 2026-07-24T08:32:54.878929+00:00
+**Scraped:** 2026-07-25T08:13:00.466672+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27910,7 +27987,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-118087/
 **Last Modified:** 2025-09-01T12:31:49+00:00
-**Scraped:** 2026-07-24T08:32:56.149781+00:00
+**Scraped:** 2026-07-25T08:13:01.652266+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27929,8 +28006,9 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-118112/
 **Last Modified:** 2025-09-01T12:32:13+00:00
-**Scraped:** 2026-07-24T08:32:57.327276+00:00
+**Scraped:** 2026-07-25T08:13:02.825961+00:00
 
+Set Policy - Netskope Knowledge Portal
 Set Policy
 This section of the API Data Protection Policy page specifies the name of the policy and allows you to add a description if desired.
 Enter the name of the policy.
@@ -27947,7 +28025,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-118133/
 **Last Modified:** 2025-09-01T12:31:18+00:00
-**Scraped:** 2026-07-24T08:32:58.503038+00:00
+**Scraped:** 2026-07-25T08:13:04.001290+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27966,7 +28044,7 @@ Set Policy
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy-118040/
 **Last Modified:** 2025-09-01T12:31:13+00:00
-**Scraped:** 2026-07-24T08:32:59.674456+00:00
+**Scraped:** 2026-07-25T08:13:05.174483+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -27985,7 +28063,7 @@ Set Policy
 ## Sites and Regions
 **URL:** https://docs.netskope.com/en/sites-and-regions/
 **Last Modified:** 2025-08-31T01:47:46+00:00
-**Scraped:** 2026-07-24T08:33:00.860273+00:00
+**Scraped:** 2026-07-25T08:13:06.356559+00:00
 
 Sites and Regions - Netskope Knowledge Portal
 Sites and Regions
@@ -28116,7 +28194,7 @@ Sites and Regions
 ## Set Policy
 **URL:** https://docs.netskope.com/en/set-policy/
 **Last Modified:** 2025-09-01T12:30:39+00:00
-**Scraped:** 2026-07-24T08:33:02.063325+00:00
+**Scraped:** 2026-07-25T08:13:07.644646+00:00
 
 Set Policy - Netskope Knowledge Portal
 Set Policy
@@ -28135,7 +28213,7 @@ Set Policy
 ## SharePoint App Site-level Sharing Permission Change Notification
 **URL:** https://docs.netskope.com/en/sharepoint-app-site-level-sharing-permission-change-notification/
 **Last Modified:** 2025-08-31T01:41:08+00:00
-**Scraped:** 2026-07-24T08:33:03.240216+00:00
+**Scraped:** 2026-07-25T08:13:09.002259+00:00
 
 SharePoint App Site-level Sharing Permission Change Notification - Netskope Knowledge Portal
 SharePoint App Site-level Sharing Permission Change Notification
@@ -28170,7 +28248,7 @@ SharePoint App Site-level Sharing Permission Change Notification
 ## Slack Channels Page
 **URL:** https://docs.netskope.com/en/slack-channels-page-117825/
 **Last Modified:** 2025-08-31T01:41:48+00:00
-**Scraped:** 2026-07-24T08:33:04.421236+00:00
+**Scraped:** 2026-07-25T08:13:10.179823+00:00
 
 Slack Channels Page - Netskope Knowledge Portal
 Slack Channels Page
@@ -28199,7 +28277,7 @@ Slack Channels Page
 ## Slack Channels Page
 **URL:** https://docs.netskope.com/en/slack-channels-page/
 **Last Modified:** 2025-09-01T12:32:39+00:00
-**Scraped:** 2026-07-24T08:33:05.777412+00:00
+**Scraped:** 2026-07-25T08:13:11.355594+00:00
 
 Slack Channels Page - Netskope Knowledge Portal
 Slack Channels Page
@@ -28228,7 +28306,7 @@ Slack Channels Page
 ## Slack Files Page
 **URL:** https://docs.netskope.com/en/slack-files-page-117823/
 **Last Modified:** 2025-08-31T01:41:47+00:00
-**Scraped:** 2026-07-24T08:33:06.955510+00:00
+**Scraped:** 2026-07-25T08:13:12.529921+00:00
 
 Slack Files Page - Netskope Knowledge Portal
 Slack Files Page
@@ -28272,7 +28350,7 @@ Slack Files Page
 ## Slack Files Page
 **URL:** https://docs.netskope.com/en/slack-files-page/
 **Last Modified:** 2025-09-01T12:32:37+00:00
-**Scraped:** 2026-07-24T08:33:08.133738+00:00
+**Scraped:** 2026-07-25T08:13:13.709113+00:00
 
 Slack Files Page - Netskope Knowledge Portal
 Slack Files Page
@@ -28316,7 +28394,7 @@ Slack Files Page
 ## Slack for Enterprise Audit Events
 **URL:** https://docs.netskope.com/en/slack-for-enterprise-audit-events/
 **Last Modified:** 2025-08-31T01:41:42+00:00
-**Scraped:** 2026-07-24T08:33:09.315639+00:00
+**Scraped:** 2026-07-25T08:13:14.985452+00:00
 
 Slack for Enterprise Audit Events - Netskope Knowledge Portal
 Slack for Enterprise Audit Events
@@ -28404,7 +28482,7 @@ Slack for Enterprise Audit Events
 ## Slack Messages with Violations Page
 **URL:** https://docs.netskope.com/en/slack-messages-with-violations-page-120309/
 **Last Modified:** 2025-08-31T01:41:47+00:00
-**Scraped:** 2026-07-24T08:33:10.490071+00:00
+**Scraped:** 2026-07-25T08:13:16.162883+00:00
 
 Slack Messages with Violations Page - Netskope Knowledge Portal
 Slack Messages with Violations Page
@@ -28435,7 +28513,7 @@ Slack Messages with Violations Page
 ## Slack Connected Apps Page
 **URL:** https://docs.netskope.com/en/slack-connected-apps-page/
 **Last Modified:** 2025-08-31T01:41:48+00:00
-**Scraped:** 2026-07-24T08:33:11.661916+00:00
+**Scraped:** 2026-07-25T08:13:17.429948+00:00
 
 Slack Connected Apps Page - Netskope Knowledge Portal
 Slack Connected Apps Page
@@ -28455,7 +28533,7 @@ Slack Connected Apps Page
 ## Slack Users Page
 **URL:** https://docs.netskope.com/en/slack-users-page-117826/
 **Last Modified:** 2025-08-31T01:41:48+00:00
-**Scraped:** 2026-07-24T08:33:12.837938+00:00
+**Scraped:** 2026-07-25T08:13:18.621210+00:00
 
 Slack Users Page - Netskope Knowledge Portal
 Slack Users Page
@@ -28486,7 +28564,7 @@ Slack Users Page
 ## Slack Users Page
 **URL:** https://docs.netskope.com/en/slack-users-page/
 **Last Modified:** 2025-09-01T12:32:38+00:00
-**Scraped:** 2026-07-24T08:33:14.010426+00:00
+**Scraped:** 2026-07-25T08:13:19.797359+00:00
 
 Slack Users Page - Netskope Knowledge Portal
 Slack Users Page
@@ -28517,7 +28595,7 @@ Slack Users Page
 ## Slack Messages with Violations Page
 **URL:** https://docs.netskope.com/en/slack-messages-with-violations-page/
 **Last Modified:** 2025-09-01T12:32:37+00:00
-**Scraped:** 2026-07-24T08:33:15.281244+00:00
+**Scraped:** 2026-07-25T08:13:20.972764+00:00
 
 Slack Messages with Violations Page - Netskope Knowledge Portal
 Slack Messages with Violations Page
@@ -28548,7 +28626,7 @@ Slack Messages with Violations Page
 ## Spaces
 **URL:** https://docs.netskope.com/en/spaces/
 **Last Modified:** 2025-08-31T01:39:57+00:00
-**Scraped:** 2026-07-24T08:33:17.648318+00:00
+**Scraped:** 2026-07-25T08:13:23.323496+00:00
 
 Spaces - Netskope Knowledge Portal
 Spaces
@@ -28570,7 +28648,7 @@ Spaces
 ## SSL Decryption
 **URL:** https://docs.netskope.com/en/ssl-decryption/
 **Last Modified:** 2025-08-31T01:50:23+00:00
-**Scraped:** 2026-07-24T08:33:18.915418+00:00
+**Scraped:** 2026-07-25T08:13:24.495653+00:00
 
 SSL Decryption - Netskope Knowledge Portal
 SSL Decryption
@@ -28586,9 +28664,8 @@ SSL Decryption
 ## SSL Decryption
 **URL:** https://docs.netskope.com/en/ssl-decryption-303280/
 **Last Modified:** 2025-09-01T13:17:06+00:00
-**Scraped:** 2026-07-24T08:33:21.256184+00:00
+**Scraped:** 2026-07-25T08:13:26.824239+00:00
 
-SSL Decryption - Netskope Knowledge Portal
 SSL Decryption
 To understand and configure an SSL decryption policy, see
 SSL Decryption
@@ -28600,7 +28677,7 @@ SSL Decryption
 ## Step 1/2: Configure AWS Accounts & Services for Data Protection
 **URL:** https://docs.netskope.com/en/step-1-2-configure-aws-accounts-services-for-data-protection/
 **Last Modified:** 2025-09-01T13:18:05+00:00
-**Scraped:** 2026-07-24T08:33:22.430298+00:00
+**Scraped:** 2026-07-25T08:13:27.999569+00:00
 
 Step 1/2: Configure AWS Accounts & Services for Data Protection - Netskope Knowledge Portal
 Step 1/2: Configure AWS Accounts & Services for Data Protection
@@ -28658,7 +28735,7 @@ Step 1/2: Configure AWS Accounts & Services for Data Protection
 ## Step 1/3: Configure a Microsoft Entra ID Application for CSA
 **URL:** https://docs.netskope.com/en/step-1-3-configure-an-azure-ad-application-for-csa/
 **Last Modified:** 2025-08-31T01:46:00+00:00
-**Scraped:** 2026-07-24T08:33:23.621430+00:00
+**Scraped:** 2026-07-25T08:13:29.193240+00:00
 
 Step 1/3: Configure a Microsoft Entra ID Application for CSA - Netskope Knowledge Portal
 Step 1/3: Configure a Microsoft Entra ID Application for CSA
@@ -28852,7 +28929,7 @@ Step 1/3: Configure a Microsoft Entra ID Application for CSA
 ## Step 1/2: Configure AWS Accounts & Services for Forensic
 **URL:** https://docs.netskope.com/en/step-1-2-configure-aws-accounts-services-for-forensic/
 **Last Modified:** 2025-08-31T01:46:22+00:00
-**Scraped:** 2026-07-24T08:33:24.802229+00:00
+**Scraped:** 2026-07-25T08:13:30.363932+00:00
 
 Step 1/2: Configure AWS Accounts & Services for Forensic - Netskope Knowledge Portal
 Step 1/2: Configure AWS Accounts & Services for Forensic
@@ -28902,7 +28979,7 @@ Step 1/2: Configure AWS Accounts & Services for Forensic
 ## Step 1/2: Configure AWS Accounts & Services for CSA
 **URL:** https://docs.netskope.com/en/step-1-2-configure-aws-accounts-services-for-csa/
 **Last Modified:** 2025-09-01T13:17:49+00:00
-**Scraped:** 2026-07-24T08:33:25.974995+00:00
+**Scraped:** 2026-07-25T08:13:31.537563+00:00
 
 Step 1/2: Configure AWS Accounts & Services for CSA - Netskope Knowledge Portal
 Step 1/2: Configure AWS Accounts & Services for CSA
@@ -28939,7 +29016,7 @@ Step 1/2: Configure AWS Accounts & Services for CSA
 ## Step 1/3: Configure a Microsoft Entra ID Application for Forensics
 **URL:** https://docs.netskope.com/en/step-1-3-configure-an-azure-ad-application-for-forensics/
 **Last Modified:** 2025-08-31T01:46:25+00:00
-**Scraped:** 2026-07-24T08:33:27.159293+00:00
+**Scraped:** 2026-07-25T08:13:32.723129+00:00
 
 Step 1/3: Configure a Microsoft Entra ID Application for Forensics - Netskope Knowledge Portal
 Step 1/3: Configure a Microsoft Entra ID Application for Forensics
@@ -29042,7 +29119,7 @@ Step 1/3: Configure a Microsoft Entra ID Application for Forensics
 ## Step 1/4: Register Microsoft Event Grid in Azure for Data Protection
 **URL:** https://docs.netskope.com/en/step-1-4-register-microsoft-event-grid-in-azure-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:13+00:00
-**Scraped:** 2026-07-24T08:33:28.330806+00:00
+**Scraped:** 2026-07-25T08:13:33.896547+00:00
 
 Step 1/4: Register Microsoft Event Grid in Azure for Data Protection - Netskope Knowledge Portal
 Step 1/4: Register Microsoft Event Grid in Azure for Data Protection
@@ -29085,8 +29162,9 @@ Step 1/4: Register Microsoft Event Grid in Azure for Data Protection
 ## Step 2/2: Configure AWS Permissions for CSA
 **URL:** https://docs.netskope.com/en/step-2-2-configure-aws-permissions-for-csa/
 **Last Modified:** 2025-08-31T01:45:59+00:00
-**Scraped:** 2026-07-24T08:33:29.509639+00:00
+**Scraped:** 2026-07-25T08:13:35.079822+00:00
 
+Step 2/2: Configure AWS Permissions for CSA - Netskope Knowledge Portal
 Step 2/2: Configure AWS Permissions for CSA
 Netskope requires permissions to assume a role and scan your AWS resources. This screen provides a customized CFT with permissions required to set up cross account access between Netskope and your AWS accounts. The permissions defined in the CFT are updated based on the services you’ve enabled on the Accounts & Services page.
 You can review the CFT to understand the various permissions required by Netskope.
@@ -29192,7 +29270,7 @@ Step 2/2: Configure AWS Permissions for CSA
 ## Step 2/2: Configure AWS Permissions for Data Protection
 **URL:** https://docs.netskope.com/en/step-2-2-configure-aws-permissions-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:11+00:00
-**Scraped:** 2026-07-24T08:33:30.695402+00:00
+**Scraped:** 2026-07-25T08:13:36.267351+00:00
 
 Step 2/2: Configure AWS Permissions for Data Protection - Netskope Knowledge Portal
 Step 2/2: Configure AWS Permissions for Data Protection
@@ -29378,7 +29456,7 @@ Step 2/2: Configure AWS Permissions for Data Protection
 ## Step 2/2: Configure AWS Permissions for Forensic
 **URL:** https://docs.netskope.com/en/step-2-2-configure-aws-permissions-for-forensic/
 **Last Modified:** 2025-08-31T01:46:23+00:00
-**Scraped:** 2026-07-24T08:33:31.974616+00:00
+**Scraped:** 2026-07-25T08:13:37.447708+00:00
 
 Step 2/2: Configure AWS Permissions for Forensic - Netskope Knowledge Portal
 Step 2/2: Configure AWS Permissions for Forensic
@@ -29488,7 +29566,7 @@ Step 2/2: Configure AWS Permissions for Forensic
 ## Step 2/3: Assign Azure permissions to store forensic objects
 **URL:** https://docs.netskope.com/en/step-2-3-assign-azure-permissions-to-store-forensic-objects/
 **Last Modified:** 2025-08-31T01:46:25+00:00
-**Scraped:** 2026-07-24T08:33:33.158001+00:00
+**Scraped:** 2026-07-25T08:13:38.633746+00:00
 
 Step 2/3: Assign Azure permissions to store forensic objects - Netskope Knowledge Portal
 Step 2/3: Assign Azure permissions to store forensic objects
@@ -29714,7 +29792,7 @@ Step 2/3: Assign Azure permissions to store forensic objects
 ## Step 2/3: Assign custom role permissions for Azure CSA
 **URL:** https://docs.netskope.com/en/step-2-3-assign-custom-role-permissions-for-azure-csa/
 **Last Modified:** 2025-08-31T01:46:01+00:00
-**Scraped:** 2026-07-24T08:33:34.344388+00:00
+**Scraped:** 2026-07-25T08:13:39.818499+00:00
 
 Step 2/3: Assign custom role permissions for Azure CSA - Netskope Knowledge Portal
 Step 2/3: Assign custom role permissions for Azure CSA
@@ -29815,7 +29893,7 @@ Step 2/3: Assign custom role permissions for Azure CSA
 ## Step 2/4: Configure a Microsoft Entra ID Application for Data Protection
 **URL:** https://docs.netskope.com/en/step-2-4-configure-an-azure-ad-application-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:13+00:00
-**Scraped:** 2026-07-24T08:33:35.633880+00:00
+**Scraped:** 2026-07-25T08:13:41.004567+00:00
 
 Step 2/4: Configure a Microsoft Entra ID Application for Data Protection - Netskope Knowledge Portal
 Step 2/4: Configure a Microsoft Entra ID Application for Data Protection
@@ -30043,7 +30121,7 @@ Step 2/4: Configure a Microsoft Entra ID Application for Data Protection
 ## Steps to configure GCP for CSA
 **URL:** https://docs.netskope.com/en/steps-to-configure-gcp-for-csa/
 **Last Modified:** 2025-08-31T01:46:02+00:00
-**Scraped:** 2026-07-24T08:33:38.000549+00:00
+**Scraped:** 2026-07-25T08:13:43.479274+00:00
 
 Steps to configure GCP for CSA - Netskope Knowledge Portal
 Steps to configure GCP for CSA
@@ -30305,7 +30383,7 @@ Steps to configure GCP for CSA
 ## Support Microsoft Azure RMS Encryption
 **URL:** https://docs.netskope.com/en/support-microsoft-azure-rms-encryption/
 **Last Modified:** 2025-08-31T01:40:47+00:00
-**Scraped:** 2026-07-24T08:33:41.530281+00:00
+**Scraped:** 2026-07-25T08:13:47.114611+00:00
 
 Support Microsoft Azure RMS Encryption - Netskope Knowledge Portal
 Support Microsoft Azure RMS Encryption
@@ -30401,7 +30479,7 @@ Support Microsoft Azure RMS Encryption
 ## Step 3/4: Assign Azure Permissions for Data Protection
 **URL:** https://docs.netskope.com/en/step-3-4-assign-azure-permissions-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:14+00:00
-**Scraped:** 2026-07-24T08:33:42.711830+00:00
+**Scraped:** 2026-07-25T08:13:48.297213+00:00
 
 Step 3/4: Assign Azure Permissions for Data Protection - Netskope Knowledge Portal
 Step 3/4: Assign Azure Permissions for Data Protection
@@ -30538,7 +30616,7 @@ Step 3/4: Assign Azure Permissions for Data Protection
 ## Supported IaaS Entities and Predefined Rules for CSPM
 **URL:** https://docs.netskope.com/en/supported-iaas-entities-and-predefined-rules-for-cspm/
 **Last Modified:** 2025-08-31T01:46:07+00:00
-**Scraped:** 2026-07-24T08:33:49.206903+00:00
+**Scraped:** 2026-07-25T08:13:54.847280+00:00
 
 Supported IaaS Entities and Predefined Rules for CSPM - Netskope Knowledge Portal
 Supported IaaS Entities and Predefined Rules for CSPM
@@ -30557,7 +30635,7 @@ Supported IaaS Entities and Predefined Rules for CSPM
 ## Supported File Categories and File Types
 **URL:** https://docs.netskope.com/en/supported-file-categories-and-file-types/
 **Last Modified:** 2025-08-31T01:50:31+00:00
-**Scraped:** 2026-07-24T08:33:50.664749+00:00
+**Scraped:** 2026-07-25T08:13:56.363316+00:00
 
 Supported File Categories and File Types - Netskope Knowledge Portal
 Supported File Categories and File Types
@@ -33407,7 +33485,7 @@ Supported File Categories and File Types
 ## Supported Microsoft Office 365 Licenses for API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-licenses-for-api-data-protection-326329/
 **Last Modified:** 2025-08-31T01:41:05+00:00
-**Scraped:** 2026-07-24T08:33:51.837412+00:00
+**Scraped:** 2026-07-25T08:13:57.532512+00:00
 
 Supported Microsoft Office 365 Licenses for API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 Licenses for API Data Protection
@@ -33421,7 +33499,7 @@ Supported Microsoft Office 365 Licenses for API Data Protection
 ## Supported Microsoft Office 365 Licenses for API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-licenses-for-api-data-protection-326346/
 **Last Modified:** 2025-11-03T16:35:47+00:00
-**Scraped:** 2026-07-24T08:33:53.017751+00:00
+**Scraped:** 2026-07-25T08:13:58.705306+00:00
 
 Supported Microsoft Office 365 Licenses for API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 Licenses for API Data Protection
@@ -33438,7 +33516,7 @@ Supported Microsoft Office 365 Licenses for API Data Protection
 ## Supported Microsoft Office 365 Licenses for API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-licenses-for-api-data-protection-od/
 **Last Modified:** 2025-08-31T01:40:42+00:00
-**Scraped:** 2026-07-24T08:33:54.196769+00:00
+**Scraped:** 2026-07-25T08:13:59.877790+00:00
 
 Supported Microsoft Office 365 Licenses for API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 Licenses for API Data Protection
@@ -33452,7 +33530,7 @@ Supported Microsoft Office 365 Licenses for API Data Protection
 ## Tags and Groups
 **URL:** https://docs.netskope.com/en/tags-and-groups/
 **Last Modified:** 2025-08-31T01:47:47+00:00
-**Scraped:** 2026-07-24T08:33:55.382954+00:00
+**Scraped:** 2026-07-25T08:14:01.056846+00:00
 
 Tags and Groups - Netskope Knowledge Portal
 Tags and Groups
@@ -33545,7 +33623,7 @@ Tags and Groups
 ## Supported IaaS Services for Data Protection
 **URL:** https://docs.netskope.com/en/supported-iaas-services-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:18+00:00
-**Scraped:** 2026-07-24T08:33:56.554260+00:00
+**Scraped:** 2026-07-25T08:14:02.335382+00:00
 
 Supported IaaS Services for Data Protection - Netskope Knowledge Portal
 Supported IaaS Services for Data Protection
@@ -33557,8 +33635,9 @@ Supported IaaS Services for Data Protection
 ## The NPA Troubleshooter Tool
 **URL:** https://docs.netskope.com/en/the-npa-troubleshooter-tool/
 **Last Modified:** 2026-03-24T18:48:54+00:00
-**Scraped:** 2026-07-24T08:33:57.746767+00:00
+**Scraped:** 2026-07-25T08:14:03.507965+00:00
 
+The NPA Troubleshooter Tool - Netskope Knowledge Portal
 The NPA Troubleshooter Tool
 Using the Troubleshooter Tool involves:
 Finding Errors with the Troubleshooter Tool
@@ -33694,7 +33773,7 @@ The NPA Troubleshooter Tool
 ## Time Based Policies
 **URL:** https://docs.netskope.com/en/time-based-policies/
 **Last Modified:** 2025-08-31T01:50:22+00:00
-**Scraped:** 2026-07-24T08:33:58.929947+00:00
+**Scraped:** 2026-07-25T08:14:04.673950+00:00
 
 Time Based Policies - Netskope Knowledge Portal
 Time Based Policies
@@ -33781,7 +33860,7 @@ Time Based Policies
 ## Troubleshooting Forensics Setup for Public Cloud
 **URL:** https://docs.netskope.com/en/troubleshooting-forensics-setup-for-public-cloud/
 **Last Modified:** 2025-08-31T01:46:27+00:00
-**Scraped:** 2026-07-24T08:34:00.117682+00:00
+**Scraped:** 2026-07-25T08:14:05.951040+00:00
 
 Troubleshooting Forensics Setup for Public Cloud - Netskope Knowledge Portal
 Troubleshooting Forensics Setup for Public Cloud
@@ -33834,7 +33913,7 @@ Troubleshooting Forensics Setup for Public Cloud
 ## Troubleshooting AWS Storage Scan Instance Setup Error
 **URL:** https://docs.netskope.com/en/troubleshooting-aws-storage-scan-instance-setup-error/
 **Last Modified:** 2025-08-31T01:46:12+00:00
-**Scraped:** 2026-07-24T08:34:01.314755+00:00
+**Scraped:** 2026-07-25T08:14:07.137054+00:00
 
 Troubleshooting AWS Storage Scan Instance Setup Error - Netskope Knowledge Portal
 Troubleshooting AWS Storage Scan Instance Setup Error
@@ -33903,7 +33982,7 @@ Troubleshooting AWS Storage Scan Instance Setup Error
 ## Troubleshooting Performance and Connectivity using Ping, Traceroute, or Telnet
 **URL:** https://docs.netskope.com/en/troubleshooting-performance-and-connectivity-using-ping-traceroute-or-telnet/
 **Last Modified:** 2026-03-03T02:27:50+00:00
-**Scraped:** 2026-07-24T08:34:02.515814+00:00
+**Scraped:** 2026-07-25T08:14:08.297348+00:00
 
 Troubleshooting Performance and Connectivity using Ping, Traceroute, or Telnet - Netskope Knowledge Portal
 Troubleshooting Performance and Connectivity using Ping, Traceroute, or Telnet
@@ -33964,7 +34043,7 @@ Troubleshooting Performance and Connectivity using Ping, Traceroute, or Telnet
 ## Transformation
 **URL:** https://docs.netskope.com/en/transformation/
 **Last Modified:** 2025-08-31T01:50:05+00:00
-**Scraped:** 2026-07-24T08:34:03.687912+00:00
+**Scraped:** 2026-07-25T08:14:09.633322+00:00
 
 Transformation - Netskope Knowledge Portal
 Transformation
@@ -34008,7 +34087,7 @@ Transformation
 ## Troubleshooting Performance and Connectivity using TCPing and PsPing
 **URL:** https://docs.netskope.com/en/troubleshooting-performance-and-connectivity-using-tcping-and-psping/
 **Last Modified:** 2026-03-03T02:27:20+00:00
-**Scraped:** 2026-07-24T08:34:04.864297+00:00
+**Scraped:** 2026-07-25T08:14:10.844702+00:00
 
 Troubleshooting Performance and Connectivity using TCPing and PsPing - Netskope Knowledge Portal
 Troubleshooting Performance and Connectivity using TCPing and PsPing
@@ -34053,7 +34132,7 @@ Troubleshooting Performance and Connectivity using TCPing and PsPing
 ## Troubleshooting Why NPA-steered Websites are Inaccessible
 **URL:** https://docs.netskope.com/en/troubleshooting-why-npa-steered-websites-are-inaccessible/
 **Last Modified:** 2026-03-03T02:28:16+00:00
-**Scraped:** 2026-07-24T08:34:06.222882+00:00
+**Scraped:** 2026-07-25T08:14:12.004362+00:00
 
 Troubleshooting Why NPA-steered Websites are Inaccessible - Netskope Knowledge Portal
 Troubleshooting Why NPA-steered Websites are Inaccessible
@@ -34107,7 +34186,7 @@ Troubleshooting Why NPA-steered Websites are Inaccessible
 ## Updating AWS Instances Post Setup
 **URL:** https://docs.netskope.com/en/updating-aws-instances-post-setup/
 **Last Modified:** 2025-08-31T01:46:31+00:00
-**Scraped:** 2026-07-24T08:34:07.429608+00:00
+**Scraped:** 2026-07-25T08:14:13.319531+00:00
 
 Updating AWS Instances Post Setup - Netskope Knowledge Portal
 Updating AWS Instances Post Setup
@@ -34165,7 +34244,7 @@ Updating AWS Instances Post Setup
 ## URL List Best Practices
 **URL:** https://docs.netskope.com/en/url-list-best-practices/
 **Last Modified:** 2026-06-10T17:10:49+00:00
-**Scraped:** 2026-07-24T08:34:09.886783+00:00
+**Scraped:** 2026-07-25T08:14:15.728176+00:00
 
 URL List Best Practices - Netskope Knowledge Portal
 URL List Best Practices
@@ -34297,8 +34376,9 @@ URL List Best Practices
 ## Use cases of Device Intelligence
 **URL:** https://docs.netskope.com/en/use-cases-of-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:34+00:00
-**Scraped:** 2026-07-24T08:34:14.734289+00:00
+**Scraped:** 2026-07-25T08:14:20.628861+00:00
 
+Use cases of Device Intelligence - Netskope Knowledge Portal
 Use cases of Device Intelligence
 Device Intelligence is an agentless, innovative, and smart device security solution that provides visibility into all the internet-connected “Things” in the enterprise network and secures them with a context-driven, zero trust approach. The solution’s HyperContext platform uncovers managed and un-managed devices on both the radio and network spectrum and leverages AI/ML algorithms to generate deep, device-level contextual intelligence for solving the hybrid enterprise challenges through the following use cases:
 Device classification and visibility – Scanning the hybrid enterprise landscape to discover and classify a range of managed, unmanaged, and IoT devices, including smartphones, audio conferencing devices, smart cameras, thermostats, etc., with rich contextual information for deep insights into device behavior and activity.
@@ -34312,7 +34392,7 @@ Use cases of Device Intelligence
 ## Use Advanced Expressions
 **URL:** https://docs.netskope.com/en/use-advanced-expressions/
 **Last Modified:** 2026-06-25T19:14:29+00:00
-**Scraped:** 2026-07-24T08:34:15.908501+00:00
+**Scraped:** 2026-07-25T08:14:21.806068+00:00
 
 Use Advanced Expressions - Netskope Knowledge Portal
 Use Advanced Expressions
@@ -34353,8 +34433,9 @@ Use Advanced Expressions
 ## URL Lookup
 **URL:** https://docs.netskope.com/en/url-lookup/
 **Last Modified:** 2025-08-31T01:39:10+00:00
-**Scraped:** 2026-07-24T08:34:17.164522+00:00
+**Scraped:** 2026-07-25T08:14:22.979294+00:00
 
+URL Lookup - Netskope Knowledge Portal
 URL Lookup
 The URL Lookup page is a tool that allows you to search for and retrieve information for a single URL or domain.
 The information that the URL Lookup tool returns for the entered URL are the categories it’s a part of and the policies (e.g., Real-time Protection or SSL) where the URL is referenced. This feature also checks for both Dynamic URL classifications and unclassified URLs. Note that if
@@ -34399,7 +34480,7 @@ URL Lookup
 ## User Management in Device Intelligence
 **URL:** https://docs.netskope.com/en/user-management-in-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:51+00:00
-**Scraped:** 2026-07-24T08:34:19.504103+00:00
+**Scraped:** 2026-07-25T08:14:25.315477+00:00
 
 User Management in Device Intelligence - Netskope Knowledge Portal
 User Management in Device Intelligence
@@ -34413,7 +34494,7 @@ User Management in Device Intelligence
 ## User Management
 **URL:** https://docs.netskope.com/en/user-management/
 **Last Modified:** 2025-08-31T01:47:52+00:00
-**Scraped:** 2026-07-24T08:34:20.682510+00:00
+**Scraped:** 2026-07-25T08:14:26.493146+00:00
 
 User Management - Netskope Knowledge Portal
 User Management
@@ -34486,7 +34567,7 @@ User Management
 ## User Profile
 **URL:** https://docs.netskope.com/en/user-profile/
 **Last Modified:** 2025-08-31T01:50:29+00:00
-**Scraped:** 2026-07-24T08:34:21.852293+00:00
+**Scraped:** 2026-07-25T08:14:27.778340+00:00
 
 User Profile - Netskope Knowledge Portal
 User Profile
@@ -34516,7 +34597,7 @@ User Profile
 ## Users
 **URL:** https://docs.netskope.com/en/users-117714/
 **Last Modified:** 2026-05-27T04:32:58+00:00
-**Scraped:** 2026-07-24T08:34:23.123343+00:00
+**Scraped:** 2026-07-25T08:14:28.966688+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34557,7 +34638,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-117837/
 **Last Modified:** 2026-05-27T04:33:46+00:00
-**Scraped:** 2026-07-24T08:34:24.298979+00:00
+**Scraped:** 2026-07-25T08:14:30.142182+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34598,7 +34679,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-117905/
 **Last Modified:** 2026-05-27T04:34:50+00:00
-**Scraped:** 2026-07-24T08:34:25.472484+00:00
+**Scraped:** 2026-07-25T08:14:31.319187+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34663,7 +34744,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-117861/
 **Last Modified:** 2026-05-27T04:35:33+00:00
-**Scraped:** 2026-07-24T08:34:26.743926+00:00
+**Scraped:** 2026-07-25T08:14:32.497352+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34705,7 +34786,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-117948/
 **Last Modified:** 2026-05-27T04:36:17+00:00
-**Scraped:** 2026-07-24T08:34:28.026769+00:00
+**Scraped:** 2026-07-25T08:14:33.671552+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34746,7 +34827,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-117883/
 **Last Modified:** 2026-05-27T04:36:55+00:00
-**Scraped:** 2026-07-24T08:34:29.200721+00:00
+**Scraped:** 2026-07-25T08:14:34.944324+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34787,7 +34868,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-117981/
 **Last Modified:** 2026-05-27T04:37:37+00:00
-**Scraped:** 2026-07-24T08:34:30.375435+00:00
+**Scraped:** 2026-07-25T08:14:36.118731+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34828,7 +34909,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-118128/
 **Last Modified:** 2026-05-27T04:38:11+00:00
-**Scraped:** 2026-07-24T08:34:31.558689+00:00
+**Scraped:** 2026-07-25T08:14:37.292806+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34869,9 +34950,8 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-118081/
 **Last Modified:** 2026-05-27T04:38:49+00:00
-**Scraped:** 2026-07-24T08:34:32.735491+00:00
+**Scraped:** 2026-07-25T08:14:38.464961+00:00
 
-Users - Netskope Knowledge Portal
 Users
 This section of the API Data Protection Policy page specifies the users and groups that can trigger a policy violation.
 Select all sites, all users, a subset of users, user profiles, user groups. You can search for and select specific users, user profiles, user groups. A list displays when you search for a subset of users (plus folders of users), user profiles, user groups, subset of domains, and subset of team drives. If you select All Users, User Profiles, User Groups, additional options are available to exclude users, user profiles.
@@ -34915,7 +34995,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-118105/
 **Last Modified:** 2026-05-27T04:39:25+00:00
-**Scraped:** 2026-07-24T08:34:33.893706+00:00
+**Scraped:** 2026-07-25T08:14:39.640057+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34956,7 +35036,7 @@ Users
 ## Users
 **URL:** https://docs.netskope.com/en/users-118034/
 **Last Modified:** 2026-05-27T04:40:01+00:00
-**Scraped:** 2026-07-24T08:34:35.164439+00:00
+**Scraped:** 2026-07-25T08:14:40.815806+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -34997,7 +35077,7 @@ Users
 ## View IaaS Inventory
 **URL:** https://docs.netskope.com/en/view-iaas-inventory/
 **Last Modified:** 2025-08-31T01:46:29+00:00
-**Scraped:** 2026-07-24T08:34:37.756774+00:00
+**Scraped:** 2026-07-25T08:14:43.258492+00:00
 
 View IaaS Inventory - Netskope Knowledge Portal
 View IaaS Inventory
@@ -35094,7 +35174,7 @@ View IaaS Inventory
 ## Users
 **URL:** https://docs.netskope.com/en/users/
 **Last Modified:** 2026-05-27T04:40:35+00:00
-**Scraped:** 2026-07-24T08:34:38.931176+00:00
+**Scraped:** 2026-07-25T08:14:44.535921+00:00
 
 Users - Netskope Knowledge Portal
 Users
@@ -35135,8 +35215,9 @@ Users
 ## View IaaS Overview
 **URL:** https://docs.netskope.com/en/view-iaas-overview/
 **Last Modified:** 2025-08-31T01:46:29+00:00
-**Scraped:** 2026-07-24T08:34:40.097377+00:00
+**Scraped:** 2026-07-25T08:14:45.817675+00:00
 
+View IaaS Overview - Netskope Knowledge Portal
 View IaaS Overview
 You can get an overview of your public cloud inventory, compliance and DLP incidents under
 API-enabled Protection > IaaS > Overview
@@ -35239,7 +35320,7 @@ View IaaS Overview
 ## View Security Posture Compliance
 **URL:** https://docs.netskope.com/en/view-security-posture-compliance/
 **Last Modified:** 2025-08-31T01:46:08+00:00
-**Scraped:** 2026-07-24T08:34:42.460418+00:00
+**Scraped:** 2026-07-25T08:14:48.181330+00:00
 
 View Security Posture Compliance - Netskope Knowledge Portal
 View Security Posture Compliance
@@ -35473,7 +35554,7 @@ View Security Posture Compliance
 ## View Security Posture Compliance
 **URL:** https://docs.netskope.com/en/view-security-posture-compliance-450413/
 **Last Modified:** 2025-09-01T13:18:28+00:00
-**Scraped:** 2026-07-24T08:34:43.652645+00:00
+**Scraped:** 2026-07-25T08:14:49.374391+00:00
 
 View Security Posture Compliance - Netskope Knowledge Portal
 View Security Posture Compliance
@@ -35706,7 +35787,7 @@ View Security Posture Compliance
 ## Viewing SaaS Inventory
 **URL:** https://docs.netskope.com/en/view-security-posture-inventory/
 **Last Modified:** 2025-08-31T01:47:04+00:00
-**Scraped:** 2026-07-24T08:34:46.015055+00:00
+**Scraped:** 2026-07-25T08:14:51.873968+00:00
 
 Viewing SaaS Inventory - Netskope Knowledge Portal
 Viewing SaaS Inventory
@@ -35882,7 +35963,7 @@ Viewing SaaS Inventory
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120513/
 **Last Modified:** 2025-08-31T01:40:08+00:00
-**Scraped:** 2026-07-24T08:34:47.188177+00:00
+**Scraped:** 2026-07-25T08:14:53.047131+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -35904,7 +35985,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120514/
 **Last Modified:** 2025-09-01T12:33:00+00:00
-**Scraped:** 2026-07-24T08:34:48.360347+00:00
+**Scraped:** 2026-07-25T08:14:54.220066+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -35925,7 +36006,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120512/
 **Last Modified:** 2025-09-01T12:32:57+00:00
-**Scraped:** 2026-07-24T08:34:49.538330+00:00
+**Scraped:** 2026-07-25T08:14:55.395058+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -35949,7 +36030,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120515/
 **Last Modified:** 2025-09-01T12:33:27+00:00
-**Scraped:** 2026-07-24T08:34:50.709992+00:00
+**Scraped:** 2026-07-25T08:14:56.570729+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -35971,7 +36052,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120516/
 **Last Modified:** 2025-09-01T12:33:02+00:00
-**Scraped:** 2026-07-24T08:34:51.882867+00:00
+**Scraped:** 2026-07-25T08:14:57.845499+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -35994,7 +36075,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120517/
 **Last Modified:** 2025-09-01T12:33:23+00:00
-**Scraped:** 2026-07-24T08:34:53.057286+00:00
+**Scraped:** 2026-07-25T08:14:59.019883+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36018,7 +36099,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120520/
 **Last Modified:** 2025-09-01T12:33:22+00:00
-**Scraped:** 2026-07-24T08:34:54.230021+00:00
+**Scraped:** 2026-07-25T08:15:00.228194+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36041,7 +36122,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120519/
 **Last Modified:** 2025-09-01T12:33:32+00:00
-**Scraped:** 2026-07-24T08:34:55.401964+00:00
+**Scraped:** 2026-07-25T08:15:01.431292+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36063,7 +36144,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120523/
 **Last Modified:** 2025-09-01T12:32:56+00:00
-**Scraped:** 2026-07-24T08:34:56.577406+00:00
+**Scraped:** 2026-07-25T08:15:02.616012+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36084,7 +36165,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120524/
 **Last Modified:** 2025-09-01T12:33:28+00:00
-**Scraped:** 2026-07-24T08:34:57.749975+00:00
+**Scraped:** 2026-07-25T08:15:03.912026+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36107,7 +36188,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120525/
 **Last Modified:** 2025-09-01T12:33:01+00:00
-**Scraped:** 2026-07-24T08:34:58.921105+00:00
+**Scraped:** 2026-07-25T08:15:05.086593+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36131,7 +36212,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120521/
 **Last Modified:** 2025-09-01T12:33:30+00:00
-**Scraped:** 2026-07-24T08:35:00.196980+00:00
+**Scraped:** 2026-07-25T08:15:06.257277+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36153,7 +36234,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120522/
 **Last Modified:** 2025-09-01T12:33:24+00:00
-**Scraped:** 2026-07-24T08:35:01.390238+00:00
+**Scraped:** 2026-07-25T08:15:07.430795+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36175,7 +36256,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard/
 **Last Modified:** 2025-09-01T12:32:59+00:00
-**Scraped:** 2026-07-24T08:35:02.583306+00:00
+**Scraped:** 2026-07-25T08:15:08.601001+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36197,7 +36278,7 @@ View the API Data Protection Dashboard
 ## View the API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/view-the-api-data-protection-dashboard-120526/
 **Last Modified:** 2025-09-01T12:32:58+00:00
-**Scraped:** 2026-07-24T08:35:03.765731+00:00
+**Scraped:** 2026-07-25T08:15:09.955446+00:00
 
 View the API Data Protection Dashboard - Netskope Knowledge Portal
 View the API Data Protection Dashboard
@@ -36221,7 +36302,7 @@ View the API Data Protection Dashboard
 ## Viewing Forensic Alerts for Public Cloud Storage
 **URL:** https://docs.netskope.com/en/viewing-forensic-alerts-for-public-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:27+00:00
-**Scraped:** 2026-07-24T08:35:06.111083+00:00
+**Scraped:** 2026-07-25T08:15:12.294832+00:00
 
 Viewing Forensic Alerts for Public Cloud Storage - Netskope Knowledge Portal
 Viewing Forensic Alerts for Public Cloud Storage
@@ -36235,7 +36316,7 @@ Viewing Forensic Alerts for Public Cloud Storage
 ## Viewing Cloud Sandbox Analysis
 **URL:** https://docs.netskope.com/en/viewing-cloud-sandbox-analysis/
 **Last Modified:** 2025-09-03T18:23:12+00:00
-**Scraped:** 2026-07-24T08:35:07.469071+00:00
+**Scraped:** 2026-07-25T08:15:13.570681+00:00
 
 Viewing Cloud Sandbox Analysis - Netskope Knowledge Portal
 Viewing Cloud Sandbox Analysis
@@ -36286,7 +36367,7 @@ Viewing Cloud Sandbox Analysis
 ## Viewing Patient Zero Events
 **URL:** https://docs.netskope.com/en/viewing-patient-zero-events/
 **Last Modified:** 2025-09-03T18:23:22+00:00
-**Scraped:** 2026-07-24T08:35:08.645566+00:00
+**Scraped:** 2026-07-25T08:15:14.748134+00:00
 
 Viewing Patient Zero Events - Netskope Knowledge Portal
 Viewing Patient Zero Events
@@ -36360,7 +36441,7 @@ Viewing Patient Zero Events
 ## Web Usage Summary
 **URL:** https://docs.netskope.com/en/web-usage-summary/
 **Last Modified:** 2025-09-01T13:20:42+00:00
-**Scraped:** 2026-07-24T08:35:10.992422+00:00
+**Scraped:** 2026-07-25T08:15:17.183173+00:00
 
 Web Usage Summary - Netskope Knowledge Portal
 Web Usage Summary
@@ -36408,7 +36489,7 @@ Web Usage Summary
 ## What Triggers a Scan and Billing of AWS S3?
 **URL:** https://docs.netskope.com/en/what-triggers-a-scan-and-billing-of-aws-s3/
 **Last Modified:** 2025-08-31T01:46:12+00:00
-**Scraped:** 2026-07-24T08:35:12.167207+00:00
+**Scraped:** 2026-07-25T08:15:18.354176+00:00
 
 What Triggers a Scan and Billing of AWS S3? - Netskope Knowledge Portal
 What Triggers a Scan and Billing of AWS S3?
@@ -36430,7 +36511,7 @@ What Triggers a Scan and Billing of AWS S3?
 ## What is Device Intelligence
 **URL:** https://docs.netskope.com/en/what-is-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:33+00:00
-**Scraped:** 2026-07-24T08:35:13.338335+00:00
+**Scraped:** 2026-07-25T08:15:19.524786+00:00
 
 What is Device Intelligence - Netskope Knowledge Portal
 What is Device Intelligence
@@ -36454,7 +36535,7 @@ What is Device Intelligence
 ## Workplace from Meta Audit Events
 **URL:** https://docs.netskope.com/en/workplace-from-meta-audit-events/
 **Last Modified:** 2025-08-31T01:41:56+00:00
-**Scraped:** 2026-07-24T08:35:14.515196+00:00
+**Scraped:** 2026-07-25T08:15:20.708217+00:00
 
 Workplace from Meta Audit Events - Netskope Knowledge Portal
 Workplace from Meta Audit Events
@@ -36496,7 +36577,7 @@ Workplace from Meta Audit Events
 ## What Triggers a Scan and Billing of Azure Blob Storage?
 **URL:** https://docs.netskope.com/en/what-triggers-a-scan-and-billing-of-azure-blob-storage/
 **Last Modified:** 2025-08-31T01:46:15+00:00
-**Scraped:** 2026-07-24T08:35:15.693961+00:00
+**Scraped:** 2026-07-25T08:15:21.980327+00:00
 
 What Triggers a Scan and Billing of Azure Blob Storage? - Netskope Knowledge Portal
 What Triggers a Scan and Billing of Azure Blob Storage?
@@ -36551,7 +36632,7 @@ What Triggers a Scan and Billing of Azure Blob Storage?
 ## Accessing your Active and Passive Auth and MEX URLs
 **URL:** https://docs.netskope.com/en/accessing-your-active-and-passive-auth-and-mex-urls/
 **Last Modified:** 2025-09-04T02:15:36+00:00
-**Scraped:** 2026-07-24T08:35:18.066816+00:00
+**Scraped:** 2026-07-25T08:15:24.331107+00:00
 
 Accessing your Active and Passive Auth and MEX URLs - Netskope Knowledge Portal
 Accessing your Active and Passive Auth and MEX URLs
@@ -36580,7 +36661,7 @@ Accessing your Active and Passive Auth and MEX URLs
 ## Adding Steered Items
 **URL:** https://docs.netskope.com/en/adding-steered-items/
 **Last Modified:** 2025-08-31T01:49:06+00:00
-**Scraped:** 2026-07-24T08:35:20.513314+00:00
+**Scraped:** 2026-07-25T08:15:26.683520+00:00
 
 Adding Steered Items - Netskope Knowledge Portal
 Adding Steered Items
@@ -36623,8 +36704,9 @@ Adding Steered Items
 ## Adding the Proxy IP Address to the Proxy Chaining Allowlist
 **URL:** https://docs.netskope.com/en/adding-the-proxy-ip-address-to-the-proxy-chaining-allowlist/
 **Last Modified:** 2025-09-03T18:25:44+00:00
-**Scraped:** 2026-07-24T08:35:21.783656+00:00
+**Scraped:** 2026-07-25T08:15:27.861689+00:00
 
+Adding the Proxy IP Address to the Proxy Chaining Allowlist - Netskope Knowledge Portal
 Adding the Proxy IP Address to the Proxy Chaining Allowlist
 To add your proxy’s public IP address or range to the Netskope
 proxy chaining
@@ -36658,7 +36740,7 @@ Adding the Proxy IP Address to the Proxy Chaining Allowlist
 ## Antivirus Applications
 **URL:** https://docs.netskope.com/en/antivirus-applications/
 **Last Modified:** 2026-07-22T06:21:49+00:00
-**Scraped:** 2026-07-24T08:35:24.146329+00:00
+**Scraped:** 2026-07-25T08:15:30.214461+00:00
 
 Antivirus Applications - Netskope Knowledge Portal
 Antivirus Applications
@@ -36682,7 +36764,7 @@ Antivirus Applications
 ## Auth Integration
 **URL:** https://docs.netskope.com/en/auth-integration/
 **Last Modified:** 2025-09-04T02:08:46+00:00
-**Scraped:** 2026-07-24T08:35:25.319481+00:00
+**Scraped:** 2026-07-25T08:15:31.389368+00:00
 
 Auth Integration - Netskope Knowledge Portal
 Auth Integration
@@ -36721,8 +36803,9 @@ Auth Integration
 ## Azure Virtual Desktop
 **URL:** https://docs.netskope.com/en/azure-virtual-desktop/
 **Last Modified:** 2025-08-31T01:48:42+00:00
-**Scraped:** 2026-07-24T08:35:26.489914+00:00
+**Scraped:** 2026-07-25T08:15:32.581772+00:00
 
+Azure Virtual Desktop - Netskope Knowledge Portal
 Azure Virtual Desktop
 This document contains the best practices around steering bypasses when deploying the Netskope Endpoint on Azure Virtual Desktop (AVD). You can install Netskope Client in Azure Virtual Desktop using the
 deployment options
@@ -36901,8 +36984,9 @@ Azure Virtual Desktop
 ## App Definitions
 **URL:** https://docs.netskope.com/en/app-definitions/
 **Last Modified:** 2026-03-03T21:01:05+00:00
-**Scraped:** 2026-07-24T08:35:27.650938+00:00
+**Scraped:** 2026-07-25T08:15:33.758597+00:00
 
+App Definitions  - Netskope Knowledge Portal
 App Definitions
 Networks can have quite a few homegrown applications that are hosted through a service provider. These applications typically don’t have an application specific inline connector to be able to track or detect various activities (login, upload, download, edit, etc.). Administrators can choose to use predefined, universal, or custom connectors. If your organization must rely on universal connectors, which might not always be successful in detecting all activities for custom applications, you can create app definitions so traffic can be steered to Netskope for deep analysis.
 On the App Definition page, you can add cloud apps, firewall apps,
@@ -36976,7 +37060,7 @@ App Definitions
 ## Configure the SaaS App Service Provider Proxy Settings
 **URL:** https://docs.netskope.com/en/configure-the-saas-app-service-provider-proxy-settings/
 **Last Modified:** 2026-06-12T06:04:18+00:00
-**Scraped:** 2026-07-24T08:35:31.259814+00:00
+**Scraped:** 2026-07-25T08:15:37.466647+00:00
 
 Configure the SaaS App Service Provider Proxy Settings - Netskope Knowledge Portal
 Configure the SaaS App Service Provider Proxy Settings
@@ -36996,7 +37080,7 @@ Configure the SaaS App Service Provider Proxy Settings
 ## Configuring your Netskope Active and Passive Auth and MEX URLs
 **URL:** https://docs.netskope.com/en/configuring-your-netskope-active-and-passive-auth-and-mex-urls/
 **Last Modified:** 2025-09-04T02:16:09+00:00
-**Scraped:** 2026-07-24T08:35:34.794336+00:00
+**Scraped:** 2026-07-25T08:15:41.088587+00:00
 
 Configuring your Netskope Active and Passive Auth and MEX URLs - Netskope Knowledge Portal
 Configuring your Netskope Active and Passive Auth and MEX URLs
@@ -37033,9 +37117,8 @@ Configuring your Netskope Active and Passive Auth and MEX URLs
 ## Configuring Passive Auth with an Endpoint URL
 **URL:** https://docs.netskope.com/en/configuring-passive-auth-with-an-endpoint-url/
 **Last Modified:** 2025-09-04T02:15:01+00:00
-**Scraped:** 2026-07-24T08:35:35.971158+00:00
+**Scraped:** 2026-07-25T08:15:42.312480+00:00
 
-Configuring Passive Auth with an Endpoint URL - Netskope Knowledge Portal
 Configuring Passive Auth with an Endpoint URL
 For O365 Apps that use Passive Auth URL, Netskope Auth Proxy can be deployed by modifying the Endpoint URL on the auth/federation server to point to the Netskope’s Auth Proxy for the Passive Auth Flow. This way of configuring the Netskope Auth Proxy is applicable only for auth/federation servers that have a provision to configure the endpoint URL.
 Configuring the Passive Auth in this manner offers the following benefits:
@@ -37076,8 +37159,9 @@ Configuring Passive Auth with an Endpoint URL
 ## Creating a Cloud App Definition
 **URL:** https://docs.netskope.com/en/creating-a-cloud-app-definition/
 **Last Modified:** 2026-05-26T19:51:23+00:00
-**Scraped:** 2026-07-24T08:35:37.140235+00:00
+**Scraped:** 2026-07-25T08:15:43.497838+00:00
 
+Creating a Cloud App Definition - Netskope Knowledge Portal
 Creating a Cloud App Definition
 When you create a Cloud App Definition and choose
 From Predefined App
@@ -37265,7 +37349,7 @@ Creating a Cloud App Definition
 ## Example Variables for Set-MsolDomainAuthentication
 **URL:** https://docs.netskope.com/en/example-variables-for-set-msoldomainauthentication/
 **Last Modified:** 2025-09-04T02:17:07+00:00
-**Scraped:** 2026-07-24T08:35:42.084629+00:00
+**Scraped:** 2026-07-25T08:15:48.493615+00:00
 
 Example Variables for Set-MsolDomainAuthentication - Netskope Knowledge Portal
 Example Variables for Set-MsolDomainAuthentication
@@ -37289,7 +37373,7 @@ Example Variables for Set-MsolDomainAuthentication
 ## Explicit Proxies
 **URL:** https://docs.netskope.com/en/explicit-proxies/
 **Last Modified:** 2026-07-22T06:15:28+00:00
-**Scraped:** 2026-07-24T08:35:44.526933+00:00
+**Scraped:** 2026-07-25T08:15:50.836046+00:00
 
 Explicit Proxies - Netskope Knowledge Portal
 Explicit Proxies
@@ -37303,8 +37387,9 @@ Explicit Proxies
 ## Exceptions for Anti Virus Applications
 **URL:** https://docs.netskope.com/en/exceptions-for-anti-virus-applications/
 **Last Modified:** 2026-07-22T06:22:15+00:00
-**Scraped:** 2026-07-24T08:35:45.733820+00:00
+**Scraped:** 2026-07-25T08:15:52.130550+00:00
 
+Exceptions for Anti Virus Applications - Netskope Knowledge Portal
 Exceptions for Anti Virus Applications
 This document contains the best practices recommended to avoid conflicts with any anti-virus tools.
 Bypass Netskope Traffic
@@ -37472,7 +37557,7 @@ Exceptions for Anti Virus Applications
 ## Exception Configuration for VPN Applications
 **URL:** https://docs.netskope.com/en/exception-configuration-for-vpn-applications/
 **Last Modified:** 2026-07-22T06:17:38+00:00
-**Scraped:** 2026-07-24T08:35:46.912001+00:00
+**Scraped:** 2026-07-25T08:15:53.309400+00:00
 
 Exception Configuration for VPN Applications - Netskope Knowledge Portal
 Exception Configuration for VPN Applications
@@ -37535,8 +37620,9 @@ Exception Configuration for VPN Applications
 ## Cloud Explicit Proxy
 **URL:** https://docs.netskope.com/en/explicit-proxy/
 **Last Modified:** 2026-05-19T21:57:05+00:00
-**Scraped:** 2026-07-24T08:35:48.180699+00:00
+**Scraped:** 2026-07-25T08:15:54.593583+00:00
 
+Cloud Explicit Proxy - Netskope Knowledge Portal
 Cloud Explicit Proxy
 Cloud Explicit Proxy provides a new method for steering traffic from any device to the Netskope Cloud using a Proxy Auto Configuration (PAC) file. A PAC file tells a browser to forward traffic to a proxy server instead of the destination server. When a user opens a browser, the browser sends a request for the default PAC file, and then uses the instructions to forward traffic to the Netskope URL in the PAC file. Cloud Explicit Proxy is a great traffic steering method for organizations that are unable to use Netskope Client. Additionally, it doesn’t require an IPSec or GRE tunnel and can be reached from the internet.
 The following diagram illustrates the traffic workflow for Cloud Explicit Proxy when users open a browser for the first time:
@@ -37707,7 +37793,7 @@ Cloud Explicit Proxy
 ## Explicit Proxy over IPSec and GRE Tunnels
 **URL:** https://docs.netskope.com/en/explicit-proxy-over-ipsec-and-gre-tunnels/
 **Last Modified:** 2025-09-03T17:31:26+00:00
-**Scraped:** 2026-07-24T08:35:49.371419+00:00
+**Scraped:** 2026-07-25T08:15:55.878053+00:00
 
 Explicit Proxy over IPSec and GRE Tunnels - Netskope Knowledge Portal
 Explicit Proxy over IPSec and GRE Tunnels
@@ -37902,7 +37988,7 @@ Explicit Proxy over IPSec and GRE Tunnels
 ## iOS VPN Fail Open
 **URL:** https://docs.netskope.com/en/ios-vpn-fail-open/
 **Last Modified:** 2025-08-31T01:48:59+00:00
-**Scraped:** 2026-07-24T08:35:50.545829+00:00
+**Scraped:** 2026-07-25T08:15:57.050605+00:00
 
 iOS VPN Fail Open - Netskope Knowledge Portal
 iOS VPN Fail Open
@@ -37928,7 +38014,7 @@ iOS VPN Fail Open
 ## McAfee Endpoint Security
 **URL:** https://docs.netskope.com/en/mcafee-endpoint-security/
 **Last Modified:** 2026-07-22T06:27:34+00:00
-**Scraped:** 2026-07-24T08:35:54.260349+00:00
+**Scraped:** 2026-07-25T08:16:00.754834+00:00
 
 McAfee Endpoint Security - Netskope Knowledge Portal
 McAfee Endpoint Security
@@ -38007,8 +38093,9 @@ McAfee Endpoint Security
 ## Locating Your Netskope NewEdge Data Center
 **URL:** https://docs.netskope.com/en/locating-your-netskope-newedge-data-center/
 **Last Modified:** 2025-08-31T01:49:21+00:00
-**Scraped:** 2026-07-24T08:35:55.512208+00:00
+**Scraped:** 2026-07-25T08:16:01.920460+00:00
 
+Locating Your Netskope NewEdge Data Center - Netskope Knowledge Portal
 Locating Your Netskope NewEdge Data Center
 To locate the Netskope NewEdge data center/POP that you are sending traffic to:
 Ensure you are steering traffic through the Netskope cloud.
@@ -38033,9 +38120,8 @@ Locating Your Netskope NewEdge Data Center
 ## Microsoft Always-On VPN
 **URL:** https://docs.netskope.com/en/microsoft-always-on-vpn/
 **Last Modified:** 2026-07-22T06:19:46+00:00
-**Scraped:** 2026-07-24T08:35:56.692454+00:00
+**Scraped:** 2026-07-25T08:16:03.414363+00:00
 
-Microsoft Always-On VPN - Netskope Knowledge Portal
 Microsoft Always-On VPN
 A Microsoft remote access solution that enables you to access local resources in your corporate network.
 This document contains the best practices required in MS Always-On VPN Cloud and Netskope Client to ensure smooth interoperability.
@@ -38083,13 +38169,15 @@ validated use cases
 that you can use to verify Client operations.
 In this Topic
 Microsoft Always-On VPN
+Microsoft Always-On VPN - Netskope Knowledge Portal
 
 ---
 ## Microsoft Intune
 **URL:** https://docs.netskope.com/en/microsoft-intune/
 **Last Modified:** 2025-08-31T01:48:25+00:00
-**Scraped:** 2026-07-24T08:35:57.865750+00:00
+**Scraped:** 2026-07-25T08:16:04.689148+00:00
 
+Microsoft Intune - Netskope Knowledge Portal
 Microsoft Intune
 This article provides instructions to deploy Netskope Client on Windows, Apple (iOS and macOS), and Android devices using the Microsoft Intune.
 Note
@@ -38114,8 +38202,9 @@ Microsoft Intune
 ## Microsoft Endpoint Configuration Manager
 **URL:** https://docs.netskope.com/en/microsoft-endpoint-configuration-manager/
 **Last Modified:** 2026-07-22T06:37:53+00:00
-**Scraped:** 2026-07-24T08:35:59.030272+00:00
+**Scraped:** 2026-07-25T08:16:05.846578+00:00
 
+Microsoft Endpoint Configuration Manager - Netskope Knowledge Portal
 Microsoft Endpoint Configuration Manager
 Using the Microsoft Endpoint Configuration Manager, you can install Netskope lient on the Windows endpoints without any user intervention. After the installation, the client can detect the logged in user’s AD login name and download the branding information for the user from the Netskope cloud.
 A branding file is a JSON file that contains user details (for example, email address), the addon server URL, and other configuration rules for this user.
@@ -38178,8 +38267,9 @@ Microsoft Endpoint Configuration Manager
 ## MobileIron Core
 **URL:** https://docs.netskope.com/en/mobileiron-core/
 **Last Modified:** 2025-08-31T01:48:38+00:00
-**Scraped:** 2026-07-24T08:36:00.243035+00:00
+**Scraped:** 2026-07-25T08:16:07.090511+00:00
 
+MobileIron Core - Netskope Knowledge Portal
 MobileIron Core
 Netskope supports using MobileIron Core for mobile device management (MDM) to allow iOS devices access to the Netskope cloud using the on-demand VPN mode. This document explains how to deploy Netskope for iOS devices using the on-demand and per-app VPN mode, and how to deploy Android Managed Configurations.
 Note
@@ -38438,8 +38528,9 @@ MobileIron Core
 ## Ivanti Neurons(MobileIron Cloud)
 **URL:** https://docs.netskope.com/en/mobileiron-cloud/
 **Last Modified:** 2025-08-31T01:48:39+00:00
-**Scraped:** 2026-07-24T08:36:01.470196+00:00
+**Scraped:** 2026-07-25T08:16:08.310592+00:00
 
+Ivanti Neurons(MobileIron Cloud) - Netskope Knowledge Portal
 Ivanti Neurons(MobileIron Cloud)
 Ivanti Neurons (MobileIron Cloud)
 Netskope supports using Ivanti Neurons(formerly known as MobileIron Cloud) for mobile device management (MDM) to allow iOS and Android devices access to the Netskope cloud using the per-app VPN mode. This document explains how to deploy Netskope for iOS devices using the on-demand and per-app VPN mode.
@@ -38466,7 +38557,7 @@ Ivanti Neurons(MobileIron Cloud)
 ## O365 Auth Proxy
 **URL:** https://docs.netskope.com/en/o365-auth-proxy/
 **Last Modified:** 2025-09-04T02:09:23+00:00
-**Scraped:** 2026-07-24T08:36:06.187073+00:00
+**Scraped:** 2026-07-25T08:16:13.353095+00:00
 
 O365 Auth Proxy - Netskope Knowledge Portal
 O365 Auth Proxy
@@ -38523,9 +38614,8 @@ O365 Auth Proxy
 ## OpenVPN Cloud
 **URL:** https://docs.netskope.com/en/openvpn-cloud/
 **Last Modified:** 2026-07-22T06:20:27+00:00
-**Scraped:** 2026-07-24T08:36:08.646445+00:00
+**Scraped:** 2026-07-25T08:16:16.042969+00:00
 
-OpenVPN Cloud - Netskope Knowledge Portal
 OpenVPN Cloud
 A managed cloud solution that provides a secure network connection between a private network and its remote user.
 This document contains the best practices required in OpenVPN Cloud and Netskope Client to ensure smooth interoperability.
@@ -38597,13 +38687,15 @@ OpenVPN Validation
 Ensure that traffic is going through the VPN.
 In this Topic
 OpenVPN Cloud
+OpenVPN Cloud - Netskope Knowledge Portal
 
 ---
 ## Proxy Chaining
 **URL:** https://docs.netskope.com/en/proxy-chaining/
 **Last Modified:** 2025-09-03T17:31:37+00:00
-**Scraped:** 2026-07-24T08:36:09.818885+00:00
+**Scraped:** 2026-07-25T08:16:17.315223+00:00
 
+Proxy Chaining - Netskope Knowledge Portal
 Proxy Chaining
 Note
 Contact your Sales Representative or Netskope Support to enable this feature for your account.
@@ -38659,7 +38751,7 @@ Proxy Chaining
 ## Sophos
 **URL:** https://docs.netskope.com/en/sophos/
 **Last Modified:** 2026-07-22T06:28:03+00:00
-**Scraped:** 2026-07-24T08:36:14.717942+00:00
+**Scraped:** 2026-07-25T08:16:22.025250+00:00
 
 Sophos - Netskope Knowledge Portal
 Sophos
@@ -38735,8 +38827,9 @@ Sophos
 ## Omnissa Workspace ONE
 **URL:** https://docs.netskope.com/en/omnissa-workspace-one/
 **Last Modified:** 2026-02-15T13:47:33+00:00
-**Scraped:** 2026-07-24T08:36:19.557060+00:00
+**Scraped:** 2026-07-25T08:16:26.860110+00:00
 
+Omnissa Workspace ONE - Netskope Knowledge Portal
 Omnissa Workspace ONE
 Omnissa Workspace One (transitioned from VMware Workspace ONE) is an enterprise MDM solution providing advanced enterprise mobility management capabilities from a central console. Omnissa Workspace One can deploy the Netskope Client across various operating systems as instructed in the following sections:
 Deploy Client on Windows Using Omnissa Workspace ONE
@@ -38753,9 +38846,8 @@ Omnissa Workspace ONE
 ## VPN Applications
 **URL:** https://docs.netskope.com/en/vpn-applications/
 **Last Modified:** 2026-07-22T06:17:18+00:00
-**Scraped:** 2026-07-24T08:36:20.728926+00:00
+**Scraped:** 2026-07-25T08:16:28.314646+00:00
 
-VPN Applications - Netskope Knowledge Portal
 VPN Applications
 Third-party VPN applications require steering configuration exceptions to ensure that the respective VPN application is able to reach their gateway. To learn more about creating VPN exceptions, see
 Exception Configuration for VPN Applications
@@ -38772,12 +38864,13 @@ OpenVPN Cloud
 PulseSecure VPN
 In this Topic
 VPN Applications
+VPN Applications - Netskope Knowledge Portal
 
 ---
 ## XenMobile
 **URL:** https://docs.netskope.com/en/xenmobile/
 **Last Modified:** 2026-05-27T13:19:30+00:00
-**Scraped:** 2026-07-24T08:36:21.942211+00:00
+**Scraped:** 2026-07-25T08:16:29.529184+00:00
 
 XenMobile - Netskope Knowledge Portal
 XenMobile
@@ -39241,7 +39334,7 @@ XenMobile
 ## Account Settings
 **URL:** https://docs.netskope.com/en/account-settings/
 **Last Modified:** 2025-10-31T01:09:41+00:00
-**Scraped:** 2026-07-24T08:36:24.298041+00:00
+**Scraped:** 2026-07-25T08:16:31.976010+00:00
 
 Account Settings - Netskope Knowledge Portal
 Account Settings
@@ -39304,7 +39397,7 @@ Account Settings
 ## Additional EEM Applet Examples
 **URL:** https://docs.netskope.com/en/additional-eem-applet-examples/
 **Last Modified:** 2025-08-31T01:55:26+00:00
-**Scraped:** 2026-07-24T08:36:25.474604+00:00
+**Scraped:** 2026-07-25T08:16:33.150146+00:00
 
 Additional EEM Applet Examples - Netskope Knowledge Portal
 Additional EEM Applet Examples
@@ -39374,7 +39467,7 @@ Additional EEM Applet Examples
 ## Application Risk Exchange Workflow
 **URL:** https://docs.netskope.com/en/application-risk-exchange-workflow/
 **Last Modified:** 2026-04-30T18:59:12+00:00
-**Scraped:** 2026-07-24T08:36:29.228509+00:00
+**Scraped:** 2026-07-25T08:16:36.694548+00:00
 
 Application Risk Exchange Workflow - Netskope Knowledge Portal
 Application Risk Exchange Workflow
@@ -39398,7 +39491,7 @@ Application Risk Exchange Workflow
 ## Azure AD Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/azure-ad-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-26T21:57:47+00:00
-**Scraped:** 2026-07-24T08:36:34.252000+00:00
+**Scraped:** 2026-07-25T08:16:41.698396+00:00
 
 Azure AD Plugin for User Risk Exchange - Netskope Knowledge Portal
 Azure AD Plugin for User Risk Exchange
@@ -39983,8 +40076,9 @@ Azure AD Plugin for User Risk Exchange
 ## Restore Cloud Exchange
 **URL:** https://docs.netskope.com/en/restore-cloud-exchange/
 **Last Modified:** 2026-06-03T18:56:32+00:00
-**Scraped:** 2026-07-24T08:36:36.838833+00:00
+**Scraped:** 2026-07-25T08:16:44.308682+00:00
 
+Restore Cloud Exchange - Netskope Knowledge Portal
 Restore Cloud Exchange
 To take the Cloud Exchange backup, please refer to the steps provided in the
 Cloud Exchange Backup
@@ -40247,7 +40341,7 @@ Restore Cloud Exchange
 ## BeyondCorp Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/beyondcorp-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-26T21:58:09+00:00
-**Scraped:** 2026-07-24T08:36:38.133513+00:00
+**Scraped:** 2026-07-25T08:16:45.501317+00:00
 
 BeyondCorp Plugin for User Risk Exchange - Netskope Knowledge Portal
 BeyondCorp Plugin for User Risk Exchange
@@ -40405,7 +40499,7 @@ BeyondCorp Plugin for User Risk Exchange
 ## Bitsight Plugin for Application Risk Exchange
 **URL:** https://docs.netskope.com/en/bitsight-thirdpartytrust-plugin-for-application-risk-exchange/
 **Last Modified:** 2026-05-26T22:05:45+00:00
-**Scraped:** 2026-07-24T08:36:39.425887+00:00
+**Scraped:** 2026-07-25T08:16:46.670985+00:00
 
 Bitsight Plugin for Application Risk Exchange - Netskope Knowledge Portal
 Bitsight Plugin for Application Risk Exchange
@@ -40687,7 +40781,7 @@ Bitsight Plugin for Application Risk Exchange
 ## Check Skope IT Events
 **URL:** https://docs.netskope.com/en/check-skope-it-events/
 **Last Modified:** 2025-08-31T01:55:21+00:00
-**Scraped:** 2026-07-24T08:36:40.601854+00:00
+**Scraped:** 2026-07-25T08:16:47.842315+00:00
 
 Check Skope IT Events - Netskope Knowledge Portal
 Check Skope IT Events
@@ -40706,7 +40800,7 @@ Check Skope IT Events
 ## Cloud Exchange Proxy
 **URL:** https://docs.netskope.com/en/cloud-exchange-proxy/
 **Last Modified:** 2025-10-31T01:25:21+00:00
-**Scraped:** 2026-07-24T08:36:46.579918+00:00
+**Scraped:** 2026-07-25T08:16:53.986119+00:00
 
 Cloud Exchange Proxy - Netskope Knowledge Portal
 Cloud Exchange Proxy
@@ -40729,8 +40823,9 @@ Cloud Exchange Proxy
 ## Cloud Exchange Hardening
 **URL:** https://docs.netskope.com/en/cloud-exchange-hardening/
 **Last Modified:** 2026-04-30T14:42:47+00:00
-**Scraped:** 2026-07-24T08:36:47.803114+00:00
+**Scraped:** 2026-07-25T08:16:55.192898+00:00
 
+Cloud Exchange Hardening - Netskope Knowledge Portal
 Cloud Exchange Hardening
 The following sections provide guidance to make your Netskope Cloud Exchange tenants secure.
 Host Hardening
@@ -40961,8 +41056,9 @@ Cloud Exchange Hardening
 ## Cloud Exchange Users
 **URL:** https://docs.netskope.com/en/cloud-exchange-users/
 **Last Modified:** 2025-10-31T01:19:14+00:00
-**Scraped:** 2026-07-24T08:36:51.494786+00:00
+**Scraped:** 2026-07-25T08:16:58.813598+00:00
 
+Cloud Exchange Users - Netskope Knowledge Portal
 Cloud Exchange Users
 New users can be added only by the
 Super Admin
@@ -41098,7 +41194,7 @@ Cloud Exchange Users
 ## Configure 3rd-party Application Risk Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-application-risk-exchange-plugins/
 **Last Modified:** 2025-08-31T01:54:32+00:00
-**Scraped:** 2026-07-24T08:36:52.665006+00:00
+**Scraped:** 2026-07-25T08:17:00.117796+00:00
 
 Configure 3rd-party Application Risk Exchange Plugins - Netskope Knowledge Portal
 Configure 3rd-party Application Risk Exchange Plugins
@@ -41114,7 +41210,7 @@ Configure 3rd-party Application Risk Exchange Plugins
 ## Configure 3rd-party Ticket Orchestrator Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-ticket-orchestrator-plugins/
 **Last Modified:** 2026-03-21T02:05:56+00:00
-**Scraped:** 2026-07-24T08:36:54.999098+00:00
+**Scraped:** 2026-07-25T08:17:02.578312+00:00
 
 Configure 3rd-party Ticket Orchestrator Plugins - Netskope Knowledge Portal
 Configure 3rd-party Ticket Orchestrator Plugins
@@ -41139,7 +41235,7 @@ Configure 3rd-party Ticket Orchestrator Plugins
 ## Configure 3rd-party User Risk Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-user-risk-exchange-plugins/
 **Last Modified:** 2025-08-31T01:54:20+00:00
-**Scraped:** 2026-07-24T08:36:56.174921+00:00
+**Scraped:** 2026-07-25T08:17:03.754479+00:00
 
 Configure 3rd-party User Risk Exchange Plugins - Netskope Knowledge Portal
 Configure 3rd-party User Risk Exchange Plugins
@@ -41163,7 +41259,7 @@ Configure 3rd-party User Risk Exchange Plugins
 ## Configure a Workday Account in Okta
 **URL:** https://docs.netskope.com/en/configure-a-workday-account-in-okta/
 **Last Modified:** 2025-08-31T01:54:58+00:00
-**Scraped:** 2026-07-24T08:36:58.526768+00:00
+**Scraped:** 2026-07-25T08:17:06.202152+00:00
 
 Configure a Workday Account in Okta - Netskope Knowledge Portal
 Configure a Workday Account in Okta
@@ -41188,8 +41284,9 @@ Configure a Workday Account in Okta
 ## Configure AD Connector
 **URL:** https://docs.netskope.com/en/configure-ad-connector/
 **Last Modified:** 2025-09-01T12:44:56+00:00
-**Scraped:** 2026-07-24T08:36:59.684711+00:00
+**Scraped:** 2026-07-25T08:17:07.481352+00:00
 
+Configure AD Connector - Netskope Knowledge Portal
 Configure AD Connector
 AD Connector connects to specified domain controllers (DCs) and periodically fetches user login security events from the DCs. AD Connector extracts all the DC IP to username mapping from these logs, and the collected AD IP to username mapping is posted to Secure Forwarder.
 AD Connector connects to configured Domain Controllers and periodically fetches user login security events from the DCs. AD Connector extracts all the usernames to IP mapping from these logs and the collected AD IP > user mapping is posted to the OPLP VM. AD Connector can support multiple Domain controllers and multiple OPLP VAs. When multiple DC and OPLP VAs are configured, the login events from all the DCs are posted to all the OPLP VAs configured.
@@ -41230,7 +41327,7 @@ Configure AD Connector
 ## Configure an API Data Protection Policy for MPIP
 **URL:** https://docs.netskope.com/en/configure-an-api-data-protection-policy-for-mip/
 **Last Modified:** 2026-06-25T19:16:15+00:00
-**Scraped:** 2026-07-24T08:37:04.431290+00:00
+**Scraped:** 2026-07-25T08:17:12.571471+00:00
 
 Configure an API Data Protection Policy for MPIP - Netskope Knowledge Portal
 Configure an API Data Protection Policy for MPIP
@@ -41314,7 +41411,7 @@ Configure an API Data Protection Policy for MPIP
 ## Configure an API Data Protection Policy for Vera
 **URL:** https://docs.netskope.com/en/configure-an-api-data-protection-policy-for-vera/
 **Last Modified:** 2026-05-29T05:55:58+00:00
-**Scraped:** 2026-07-24T08:37:05.674887+00:00
+**Scraped:** 2026-07-25T08:17:13.806560+00:00
 
 Configure an API Data Protection Policy for Vera - Netskope Knowledge Portal
 Configure an API Data Protection Policy for Vera
@@ -42026,7 +42123,7 @@ Configure an API Data Protection Policy for Vera
 ## Configure Blue Coat for Proxy Chaining
 **URL:** https://docs.netskope.com/en/configure-blue-coat-for-proxy-chaining/
 **Last Modified:** 2025-08-31T01:55:42+00:00
-**Scraped:** 2026-07-24T08:37:08.175852+00:00
+**Scraped:** 2026-07-25T08:17:16.165263+00:00
 
 Configure Blue Coat for Proxy Chaining - Netskope Knowledge Portal
 Configure Blue Coat for Proxy Chaining
@@ -42102,7 +42199,7 @@ Configure Blue Coat for Proxy Chaining
 ## Configure Federation with Okta
 **URL:** https://docs.netskope.com/en/configure-federation-with-okta/
 **Last Modified:** 2025-08-31T01:54:56+00:00
-**Scraped:** 2026-07-24T08:37:10.543554+00:00
+**Scraped:** 2026-07-25T08:17:18.610199+00:00
 
 Configure Federation with Okta - Netskope Knowledge Portal
 Configure Federation with Okta
@@ -42143,7 +42240,7 @@ Configure Federation with Okta
 ## Configure Forcepoint for Proxy Chaining
 **URL:** https://docs.netskope.com/en/configure-forcepoint-for-proxy-chaining/
 **Last Modified:** 2025-08-31T01:55:43+00:00
-**Scraped:** 2026-07-24T08:37:11.729631+00:00
+**Scraped:** 2026-07-25T08:17:19.796441+00:00
 
 Configure Forcepoint for Proxy Chaining - Netskope Knowledge Portal
 Configure Forcepoint for Proxy Chaining
@@ -42229,7 +42326,7 @@ Configure Forcepoint for Proxy Chaining
 ## Configure IPSec from the VeloCloud Orchestrator to a Netskope POP
 **URL:** https://docs.netskope.com/en/configure-ipsec-from-the-velocloud-orchestrator-to-a-netskope-pop/
 **Last Modified:** 2025-08-31T01:55:15+00:00
-**Scraped:** 2026-07-24T08:37:14.085301+00:00
+**Scraped:** 2026-07-25T08:17:22.258554+00:00
 
 Configure IPSec from the VeloCloud Orchestrator to a Netskope POP - Netskope Knowledge Portal
 Configure IPSec from the VeloCloud Orchestrator to a Netskope POP
@@ -42380,9 +42477,8 @@ Configure IPSec from the VeloCloud Orchestrator to a Netskope POP
 ## Configure the Netskope Reverse Proxy
 **URL:** https://docs.netskope.com/en/configure-netskope-reverse-proxy/
 **Last Modified:** 2025-08-31T01:54:58+00:00
-**Scraped:** 2026-07-24T08:37:16.530513+00:00
+**Scraped:** 2026-07-25T08:17:24.601360+00:00
 
-Configure the Netskope Reverse Proxy - Netskope Knowledge Portal
 Configure the Netskope Reverse Proxy
 You will need your Workday site URL plus your Okta IDP URL and IdP certificate to complete these steps.
 Go to
@@ -42417,7 +42513,7 @@ Configure the Netskope Reverse Proxy
 ## Configure Netskope SMTP Proxy with a Custom MSA
 **URL:** https://docs.netskope.com/en/configure-netskope-smtp-proxy-with-a-custom-msa/
 **Last Modified:** 2025-08-31T01:55:56+00:00
-**Scraped:** 2026-07-24T08:37:17.800645+00:00
+**Scraped:** 2026-07-25T08:17:25.775330+00:00
 
 Configure Netskope SMTP Proxy with a Custom MSA - Netskope Knowledge Portal
 Configure Netskope SMTP Proxy with a Custom MSA
@@ -42468,8 +42564,9 @@ Configure Netskope SMTP Proxy with a Custom MSA
 ## Configure Netskope SMTP Proxy with Gmail
 **URL:** https://docs.netskope.com/en/configure-netskope-smtp-proxy-with-gmail/
 **Last Modified:** 2026-06-25T19:32:51+00:00
-**Scraped:** 2026-07-24T08:37:20.138682+00:00
+**Scraped:** 2026-07-25T08:17:28.132731+00:00
 
+Configure Netskope SMTP Proxy with Gmail - Netskope Knowledge Portal
 Configure Netskope SMTP Proxy with Gmail
 When you configure Netskope SMTP Proxy with Gmail, all outgoing emails from Gmail are sent to Netskope SMTP Proxy for policy evaluation.
 The configuration involves the following steps,
@@ -42599,7 +42696,7 @@ Configure Netskope SMTP Proxy with Gmail
 ## Configure Netskope SMTP Proxy with Microsoft O365 Exchange
 **URL:** https://docs.netskope.com/en/configure-netskope-smtp-proxy-with-microsoft-o365-exchange/
 **Last Modified:** 2026-06-25T19:32:52+00:00
-**Scraped:** 2026-07-24T08:37:21.325651+00:00
+**Scraped:** 2026-07-25T08:17:29.418909+00:00
 
 Configure Netskope SMTP Proxy with Microsoft O365 Exchange - Netskope Knowledge Portal
 Configure Netskope SMTP Proxy with Microsoft O365 Exchange
@@ -42754,9 +42851,8 @@ Configure Netskope SMTP Proxy with Microsoft O365 Exchange
 ## Configure Reverse Proxy in Netskope
 **URL:** https://docs.netskope.com/en/configure-reverse-proxy-in-netskope/
 **Last Modified:** 2025-08-31T01:54:56+00:00
-**Scraped:** 2026-07-24T08:37:23.676243+00:00
+**Scraped:** 2026-07-25T08:17:31.870325+00:00
 
-Configure Reverse Proxy in Netskope - Netskope Knowledge Portal
 Configure Reverse Proxy in Netskope
 Log in to your Netskope tenant and go to
 Settings > Security Cloud PlatformReverse Proxy > SAML
@@ -42778,7 +42874,7 @@ Configure Reverse Proxy in Netskope
 ## Configure the Okta ACS URL Override
 **URL:** https://docs.netskope.com/en/configure-the-okta-acs-url-override-118270/
 **Last Modified:** 2025-09-01T13:23:45+00:00
-**Scraped:** 2026-07-24T08:37:24.865338+00:00
+**Scraped:** 2026-07-25T08:17:33.045040+00:00
 
 Configure the Okta ACS URL Override - Netskope Knowledge Portal
 Configure the Okta ACS URL Override
@@ -42835,7 +42931,7 @@ Configure the Okta ACS URL Override
 ## Configure the Upstream MTA to use Netskope Headers
 **URL:** https://docs.netskope.com/en/configure-the-upstream-mta-to-use-netskope-headers/
 **Last Modified:** 2025-08-31T01:55:52+00:00
-**Scraped:** 2026-07-24T08:37:27.224086+00:00
+**Scraped:** 2026-07-25T08:17:35.388524+00:00
 
 Configure the Upstream MTA to use Netskope Headers - Netskope Knowledge Portal
 Configure the Upstream MTA to use Netskope Headers
@@ -42856,7 +42952,7 @@ Configure the Upstream MTA to use Netskope Headers
 ## Configure User Access in Google
 **URL:** https://docs.netskope.com/en/configure-user-access-in-google-309578/
 **Last Modified:** 2025-08-31T01:55:07+00:00
-**Scraped:** 2026-07-24T08:37:32.169132+00:00
+**Scraped:** 2026-07-25T08:17:40.366230+00:00
 
 Configure User Access in Google - Netskope Knowledge Portal
 Configure User Access in Google
@@ -42881,7 +42977,7 @@ Configure User Access in Google
 ## Connecting to the MPIP Instance
 **URL:** https://docs.netskope.com/en/connecting-to-the-mip-instance/
 **Last Modified:** 2026-06-25T19:16:14+00:00
-**Scraped:** 2026-07-24T08:37:34.503462+00:00
+**Scraped:** 2026-07-25T08:17:42.715150+00:00
 
 Connecting to the MPIP Instance - Netskope Knowledge Portal
 Connecting to the MPIP Instance
@@ -42955,7 +43051,7 @@ Connecting to the MPIP Instance
 ## Configure Workday
 **URL:** https://docs.netskope.com/en/configure-workday/
 **Last Modified:** 2025-08-31T01:54:58+00:00
-**Scraped:** 2026-07-24T08:37:36.956595+00:00
+**Scraped:** 2026-07-25T08:17:45.108427+00:00
 
 Configure Workday - Netskope Knowledge Portal
 Configure Workday
@@ -42987,7 +43083,7 @@ Configure Workday
 ## Connecting to the Vera Instance
 **URL:** https://docs.netskope.com/en/connecting-to-the-vera-instance/
 **Last Modified:** 2026-03-23T13:01:47+00:00
-**Scraped:** 2026-07-24T08:37:38.133072+00:00
+**Scraped:** 2026-07-25T08:17:46.282009+00:00
 
 Connecting to the Vera Instance - Netskope Knowledge Portal
 Connecting to the Vera Instance
@@ -43016,7 +43112,7 @@ Connecting to the Vera Instance
 ## Create a RaaS App in Google
 **URL:** https://docs.netskope.com/en/create-a-raas-app-in-google-309576/
 **Last Modified:** 2025-08-31T01:55:06+00:00
-**Scraped:** 2026-07-24T08:37:41.759453+00:00
+**Scraped:** 2026-07-25T08:17:49.821871+00:00
 
 Create a RaaS App in Google - Netskope Knowledge Portal
 Create a RaaS App in Google
@@ -43044,7 +43140,7 @@ Create a RaaS App in Google
 ## Create a RaaS Account in Netskope
 **URL:** https://docs.netskope.com/en/create-a-raas-account-in-netskope-309577/
 **Last Modified:** 2025-08-31T01:55:06+00:00
-**Scraped:** 2026-07-24T08:37:42.921296+00:00
+**Scraped:** 2026-07-25T08:17:50.992612+00:00
 
 Create a RaaS Account in Netskope - Netskope Knowledge Portal
 Create a RaaS Account in Netskope
@@ -43080,7 +43176,7 @@ Create a RaaS Account in Netskope
 ## Create a SaaS Application Instance in the Netskope UI
 **URL:** https://docs.netskope.com/en/create-a-saas-application-instance-in-the-netskope-ui-118865/
 **Last Modified:** 2025-09-01T13:23:44+00:00
-**Scraped:** 2026-07-24T08:37:44.094227+00:00
+**Scraped:** 2026-07-25T08:17:52.165613+00:00
 
 Create a SaaS Application Instance in the Netskope UI - Netskope Knowledge Portal
 Create a SaaS Application Instance in the Netskope UI
@@ -43108,8 +43204,9 @@ Create a SaaS Application Instance in the Netskope UI
 ## Create a Vera SDK App for Netskope
 **URL:** https://docs.netskope.com/en/create-a-vera-sdk-app-for-netskope/
 **Last Modified:** 2025-08-31T01:55:47+00:00
-**Scraped:** 2026-07-24T08:37:45.267860+00:00
+**Scraped:** 2026-07-25T08:17:53.334384+00:00
 
+Create a Vera SDK App for Netskope - Netskope Knowledge Portal
 Create a Vera SDK App for Netskope
 To integrate your Vera instance with Netskope you must create an SDk app for Netskope in the Vera portal. Vera creates an app ID and app secret for the Netskope app which you can download as a JSON file. The configuration JSON file containing the app ID and app secret is then uploaded to the Netskope tenant to establish a connection with the Vera instance.
 Log in to the Vera portal and navigate to
@@ -43129,7 +43226,7 @@ Create a Vera SDK App for Netskope
 ## Create Application Risk Exchange Business Rules
 **URL:** https://docs.netskope.com/en/create-application-risk-exchange-business-rules/
 **Last Modified:** 2025-08-31T01:54:36+00:00
-**Scraped:** 2026-07-24T08:37:46.444850+00:00
+**Scraped:** 2026-07-25T08:17:54.510292+00:00
 
 Create Application Risk Exchange Business Rules - Netskope Knowledge Portal
 Create Application Risk Exchange Business Rules
@@ -43154,7 +43251,7 @@ Create Application Risk Exchange Business Rules
 ## Device Classification with Tanium for Windows
 **URL:** https://docs.netskope.com/en/device-classification-with-tanium-for-windows/
 **Last Modified:** 2025-08-31T01:55:10+00:00
-**Scraped:** 2026-07-24T08:37:47.719841+00:00
+**Scraped:** 2026-07-25T08:17:55.672847+00:00
 
 Device Classification with Tanium for Windows - Netskope Knowledge Portal
 Device Classification with Tanium for Windows
@@ -43253,7 +43350,7 @@ Device Classification with Tanium for Windows
 ## Delete Risk Exchange Applications
 **URL:** https://docs.netskope.com/en/delete-risk-exchange-applications/
 **Last Modified:** 2025-08-31T01:54:38+00:00
-**Scraped:** 2026-07-24T08:37:48.895486+00:00
+**Scraped:** 2026-07-25T08:17:56.844611+00:00
 
 Delete Risk Exchange Applications - Netskope Knowledge Portal
 Delete Risk Exchange Applications
@@ -43265,7 +43362,7 @@ Delete Risk Exchange Applications
 ## Edit User and Host Scores
 **URL:** https://docs.netskope.com/en/edit-user-and-host-scores/
 **Last Modified:** 2025-08-31T01:54:31+00:00
-**Scraped:** 2026-07-24T08:37:57.192138+00:00
+**Scraped:** 2026-07-25T08:18:05.290958+00:00
 
 Edit User and Host Scores - Netskope Knowledge Portal
 Edit User and Host Scores
@@ -43291,7 +43388,7 @@ Edit User and Host Scores
 ## Forward Proxy with ADFS
 **URL:** https://docs.netskope.com/en/forward-proxy-with-adfs/
 **Last Modified:** 2025-08-31T01:55:39+00:00
-**Scraped:** 2026-07-24T08:37:58.362333+00:00
+**Scraped:** 2026-07-25T08:18:06.459039+00:00
 
 Forward Proxy with ADFS - Netskope Knowledge Portal
 Forward Proxy with ADFS
@@ -43309,7 +43406,7 @@ Forward Proxy with ADFS
 ## Forward to Proxy Integration
 **URL:** https://docs.netskope.com/en/forward-to-proxy-integration/
 **Last Modified:** 2025-12-11T04:02:08+00:00
-**Scraped:** 2026-07-24T08:37:59.541007+00:00
+**Scraped:** 2026-07-25T08:18:07.632122+00:00
 
 Forward to Proxy Integration - Netskope Knowledge Portal
 Forward to Proxy Integration
@@ -43388,7 +43485,7 @@ Forward to Proxy Integration
 ## Get Started with Cloud Exchange
 **URL:** https://docs.netskope.com/en/get-started-with-cloud-exchange/
 **Last Modified:** 2026-05-06T20:41:35+00:00
-**Scraped:** 2026-07-24T08:38:04.307192+00:00
+**Scraped:** 2026-07-25T08:18:12.537641+00:00
 
 Get Started with Cloud Exchange - Netskope Knowledge Portal
 Get Started with Cloud Exchange
@@ -43465,7 +43562,7 @@ Get Started with Cloud Exchange
 ## Help
 **URL:** https://docs.netskope.com/en/help/
 **Last Modified:** 2025-10-31T01:14:33+00:00
-**Scraped:** 2026-07-24T08:38:07.866674+00:00
+**Scraped:** 2026-07-25T08:18:16.228102+00:00
 
 Help - Netskope Knowledge Portal
 Help
@@ -43478,7 +43575,7 @@ Help
 ## Install and Configure the Netskope Adapters
 **URL:** https://docs.netskope.com/en/install-and-configure-the-netskope-adapters/
 **Last Modified:** 2025-10-15T06:03:59+00:00
-**Scraped:** 2026-07-24T08:38:09.045237+00:00
+**Scraped:** 2026-07-25T08:18:17.398650+00:00
 
 Install and Configure the Netskope Adapters - Netskope Knowledge Portal
 Install and Configure the Netskope Adapters
@@ -43538,7 +43635,7 @@ Install and Configure the Netskope Adapters
 ## Information Rights Management
 **URL:** https://docs.netskope.com/en/information-rights-management/
 **Last Modified:** 2025-08-31T01:55:45+00:00
-**Scraped:** 2026-07-24T08:38:10.231376+00:00
+**Scraped:** 2026-07-25T08:18:18.570859+00:00
 
 Information Rights Management - Netskope Knowledge Portal
 Information Rights Management
@@ -43554,7 +43651,7 @@ Information Rights Management
 ## Integrate Netskope with Vera
 **URL:** https://docs.netskope.com/en/integrate-netskope-with-vera/
 **Last Modified:** 2025-08-31T01:55:45+00:00
-**Scraped:** 2026-07-24T08:38:12.567977+00:00
+**Scraped:** 2026-07-25T08:18:20.915916+00:00
 
 Integrate Netskope with Vera - Netskope Knowledge Portal
 Integrate Netskope with Vera
@@ -43571,8 +43668,9 @@ Integrate Netskope with Vera
 ## Integrate Netskope with Microsoft Purview Information Protection
 **URL:** https://docs.netskope.com/en/integrate-netskope-with-microsoft-information-protect/
 **Last Modified:** 2026-06-25T19:32:47+00:00
-**Scraped:** 2026-07-24T08:38:13.846325+00:00
+**Scraped:** 2026-07-25T08:18:22.088722+00:00
 
+Integrate Netskope with Microsoft Purview Information Protection - Netskope Knowledge Portal
 Integrate Netskope with Microsoft Purview Information Protection
 Netskope integrates with Information Rights Management (IRM) systems such as Microsoft Purview Information Protection (MPIP) to protect your sensitive information from being shared with unauthorized users through cloud applications.
 This is the old integration method. Please check out the new
@@ -43589,7 +43687,7 @@ Integrate Netskope with Microsoft Purview Information Protection
 ## Integrate Netskope APIs with Exabeam Incident Responder
 **URL:** https://docs.netskope.com/en/integrate-netskope-apis-with-exabeam-incident-responder/
 **Last Modified:** 2025-08-31T01:55:38+00:00
-**Scraped:** 2026-07-24T08:38:15.027478+00:00
+**Scraped:** 2026-07-25T08:18:23.372485+00:00
 
 Integrate Netskope APIs with Exabeam Incident Responder - Netskope Knowledge Portal
 Integrate Netskope APIs with Exabeam Incident Responder
@@ -43626,8 +43724,9 @@ Integrate Netskope APIs with Exabeam Incident Responder
 ## IoC Sharing Best Practices
 **URL:** https://docs.netskope.com/en/ioc-sharing-best-practices/
 **Last Modified:** 2026-03-21T02:23:26+00:00
-**Scraped:** 2026-07-24T08:38:16.310537+00:00
+**Scraped:** 2026-07-25T08:18:24.561489+00:00
 
+IoC Sharing Best Practices - Netskope Knowledge Portal
 IoC Sharing Best Practices
 Setting Up the Netskope Plugin(s)
 Only need to setup a single plugin to pull data FROM Netskope. If you wish to share data from TE to multiple/different tenant files, then you may need to create multiple plugins.
@@ -43668,8 +43767,9 @@ IoC Sharing Best Practices
 ## IPSec and GRE
 **URL:** https://docs.netskope.com/en/ipsec-and-gre/
 **Last Modified:** 2025-08-31T01:55:12+00:00
-**Scraped:** 2026-07-24T08:38:17.481340+00:00
+**Scraped:** 2026-07-25T08:18:25.738941+00:00
 
+IPSec and GRE - Netskope Knowledge Portal
 IPSec and GRE
 Netskope supports IPSec and GRE tunnel integrations. For general information about configuring these tunnels to steer traffic, refer to the
 IPSec
@@ -43698,7 +43798,7 @@ IPSec and GRE
 ## IRM Integration with Microsoft Purview Information Protection
 **URL:** https://docs.netskope.com/en/irm-integration-with-microsoft-information-protect/
 **Last Modified:** 2026-06-25T19:16:12+00:00
-**Scraped:** 2026-07-24T08:38:18.658431+00:00
+**Scraped:** 2026-07-25T08:18:26.914910+00:00
 
 IRM Integration with Microsoft Purview Information Protection - Netskope Knowledge Portal
 IRM Integration with Microsoft Purview Information Protection
@@ -43729,7 +43829,7 @@ IRM Integration with Microsoft Purview Information Protection
 ## IRM Integration with Vera
 **URL:** https://docs.netskope.com/en/irm-integration-with-vera/
 **Last Modified:** 2025-08-31T01:55:46+00:00
-**Scraped:** 2026-07-24T08:38:19.851431+00:00
+**Scraped:** 2026-07-25T08:18:28.089312+00:00
 
 IRM Integration with Vera - Netskope Knowledge Portal
 IRM Integration with Vera
@@ -43750,8 +43850,9 @@ IRM Integration with Vera
 ## List Applications and Use Filter Options
 **URL:** https://docs.netskope.com/en/list-applications-and-use-filter-options/
 **Last Modified:** 2025-08-31T01:54:39+00:00
-**Scraped:** 2026-07-24T08:38:21.033174+00:00
+**Scraped:** 2026-07-25T08:18:29.269501+00:00
 
+List Applications and Use Filter Options - Netskope Knowledge Portal
 List Applications and Use Filter Options
 Netskope ARE maintains the database of applications provided from all configured Netskope plugins. All users can view all available applications, view the metadata for each, and filter applications.
 Log in to Netskope CE, navigate to Application Risk Exchange, and select “Applications” from the left panel menu.
@@ -43829,7 +43930,7 @@ List Applications and Use Filter Options
 ## List Alerts and Use Filter Options
 **URL:** https://docs.netskope.com/en/list-alerts-and-use-filter-options/
 **Last Modified:** 2025-10-31T20:40:01+00:00
-**Scraped:** 2026-07-24T08:38:22.210475+00:00
+**Scraped:** 2026-07-25T08:18:30.549095+00:00
 
 List Alerts and Use Filter Options - Netskope Knowledge Portal
 List Alerts and Use Filter Options
@@ -43872,8 +43973,9 @@ List Alerts and Use Filter Options
 ## List Users/Hosts and Use Filter Options
 **URL:** https://docs.netskope.com/en/list-users-hosts-and-use-filter-options/
 **Last Modified:** 2025-08-31T01:54:30+00:00
-**Scraped:** 2026-07-24T08:38:23.382316+00:00
+**Scraped:** 2026-07-25T08:18:31.731814+00:00
 
+List Users/Hosts and Use Filter Options - Netskope Knowledge Portal
 List Users/Hosts and Use Filter Options
 User Risk Exchange maintains a list of all the fetched users and scores received from various plugins.
 The lists can be viewed from
@@ -43906,7 +44008,7 @@ List Users/Hosts and Use Filter Options
 ## List Tickets and Use Filter Options
 **URL:** https://docs.netskope.com/en/list-tickets-and-use-filter-options/
 **Last Modified:** 2025-10-31T21:00:47+00:00
-**Scraped:** 2026-07-24T08:38:25.736666+00:00
+**Scraped:** 2026-07-25T08:18:34.191267+00:00
 
 List Tickets and Use Filter Options - Netskope Knowledge Portal
 List Tickets and Use Filter Options
@@ -43977,7 +44079,7 @@ List Tickets and Use Filter Options
 ## Manage Configured User Risk Exchange Actions
 **URL:** https://docs.netskope.com/en/manage-configured-user-risk-exchange-actions/
 **Last Modified:** 2025-08-31T01:54:30+00:00
-**Scraped:** 2026-07-24T08:38:29.325508+00:00
+**Scraped:** 2026-07-25T08:18:37.736510+00:00
 
 Manage Configured User Risk Exchange Actions - Netskope Knowledge Portal
 Manage Configured User Risk Exchange Actions
@@ -44018,7 +44120,7 @@ Manage Configured User Risk Exchange Actions
 ## Manage Application Risk Exchange Configured Sharing
 **URL:** https://docs.netskope.com/en/manage-application-risk-exchange-configured-sharing/
 **Last Modified:** 2025-08-31T01:54:38+00:00
-**Scraped:** 2026-07-24T08:38:31.681429+00:00
+**Scraped:** 2026-07-25T08:18:40.097990+00:00
 
 Manage Application Risk Exchange Configured Sharing - Netskope Knowledge Portal
 Manage Application Risk Exchange Configured Sharing
@@ -44047,8 +44149,9 @@ Manage Application Risk Exchange Configured Sharing
 ## Manage User Risk Exchange Business Rules
 **URL:** https://docs.netskope.com/en/manage-user-risk-exchange-business-rules/
 **Last Modified:** 2025-08-31T01:54:28+00:00
-**Scraped:** 2026-07-24T08:38:32.863256+00:00
+**Scraped:** 2026-07-25T08:18:41.382157+00:00
 
+Manage User Risk Exchange Business Rules - Netskope Knowledge Portal
 Manage User Risk Exchange Business Rules
 A write-access user can manage User Risk Exchange Business Rules.
 View User Risk Exchange Business Rules
@@ -44108,7 +44211,7 @@ Manage User Risk Exchange Business Rules
 ## Manage Ticket Orchestrator Business Rules
 **URL:** https://docs.netskope.com/en/manage-ticket-orchestrator-business-rules/
 **Last Modified:** 2025-10-31T20:51:09+00:00
-**Scraped:** 2026-07-24T08:38:35.224009+00:00
+**Scraped:** 2026-07-25T08:18:43.755180+00:00
 
 Manage Ticket Orchestrator Business Rules - Netskope Knowledge Portal
 Manage Ticket Orchestrator Business Rules
@@ -44184,7 +44287,7 @@ Manage Ticket Orchestrator Business Rules
 ## Map an Application Risk Exchange Business Rule to a Target
 **URL:** https://docs.netskope.com/en/map-an-application-risk-exchange-business-rule-to-a-target/
 **Last Modified:** 2025-08-31T01:54:37+00:00
-**Scraped:** 2026-07-24T08:38:38.832992+00:00
+**Scraped:** 2026-07-25T08:18:47.322234+00:00
 
 Map an Application Risk Exchange Business Rule to a Target - Netskope Knowledge Portal
 Map an Application Risk Exchange Business Rule to a Target
@@ -44208,7 +44311,7 @@ Map an Application Risk Exchange Business Rule to a Target
 ## Mapping a Business Rule to a Workflow Queue
 **URL:** https://docs.netskope.com/en/mapping-a-business-rule-to-a-workflow-queue/
 **Last Modified:** 2025-10-31T20:55:23+00:00
-**Scraped:** 2026-07-24T08:38:40.013930+00:00
+**Scraped:** 2026-07-25T08:18:48.501243+00:00
 
 Mapping a Business Rule to a Workflow Queue - Netskope Knowledge Portal
 Mapping a Business Rule to a Workflow Queue
@@ -44244,7 +44347,7 @@ Mapping a Business Rule to a Workflow Queue
 ## Microsoft Teams Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/microsoft-teams-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-02-14T00:46:48+00:00
-**Scraped:** 2026-07-24T08:38:49.901379+00:00
+**Scraped:** 2026-07-25T08:18:58.288775+00:00
 
 Microsoft Teams Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Microsoft Teams Plugin for Ticket Orchestrator
@@ -44483,7 +44586,7 @@ Microsoft Teams Plugin for Ticket Orchestrator
 ## Mimecast Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/mimecast-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-28T00:25:13+00:00
-**Scraped:** 2026-07-24T08:38:52.351887+00:00
+**Scraped:** 2026-07-25T08:19:00.882977+00:00
 
 Mimecast Plugin for User Risk Exchange - Netskope Knowledge Portal
 Mimecast Plugin for User Risk Exchange
@@ -45073,7 +45176,7 @@ Mimecast Plugin for User Risk Exchange
 ## Netskope GRE with Cisco IOS
 **URL:** https://docs.netskope.com/en/netskope-gre-with-cisco-ios/
 **Last Modified:** 2026-05-26T19:53:48+00:00
-**Scraped:** 2026-07-24T08:38:58.557698+00:00
+**Scraped:** 2026-07-25T08:19:07.048334+00:00
 
 Netskope GRE with Cisco IOS - Netskope Knowledge Portal
 Netskope GRE with Cisco IOS
@@ -45282,7 +45385,7 @@ Netskope GRE with Cisco IOS
 ## Netskope GRE with Juniper SRX
 **URL:** https://docs.netskope.com/en/netskope-gre-with-juniper-srx/
 **Last Modified:** 2025-09-26T18:41:26+00:00
-**Scraped:** 2026-07-24T08:39:00.964457+00:00
+**Scraped:** 2026-07-25T08:19:09.426650+00:00
 
 Netskope GRE with Juniper SRX - Netskope Knowledge Portal
 Netskope GRE with Juniper SRX
@@ -45412,7 +45515,7 @@ Netskope GRE with Juniper SRX
 ## Netskope GRE with Fortinet FortiGate
 **URL:** https://docs.netskope.com/en/netskope-gre-with-fortinet-fortigate/
 **Last Modified:** 2025-08-31T01:55:28+00:00
-**Scraped:** 2026-07-24T08:39:02.183228+00:00
+**Scraped:** 2026-07-25T08:19:10.618694+00:00
 
 Netskope GRE with Fortinet FortiGate - Netskope Knowledge Portal
 Netskope GRE with Fortinet FortiGate
@@ -45609,7 +45712,7 @@ Netskope GRE with Fortinet FortiGate
 ## Netskope Integration with Vera IRM
 **URL:** https://docs.netskope.com/en/netskope-integration-with-vera-irm/
 **Last Modified:** 2025-08-31T01:55:46+00:00
-**Scraped:** 2026-07-24T08:39:03.459549+00:00
+**Scraped:** 2026-07-25T08:19:11.983437+00:00
 
 Netskope Integration with Vera IRM - Netskope Knowledge Portal
 Netskope Integration with Vera IRM
@@ -45632,7 +45735,7 @@ Netskope Integration with Vera IRM
 ## Netskope IPSec with Fortinet FortiGate
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-fortinet-fortigate/
 **Last Modified:** 2025-08-31T01:55:22+00:00
-**Scraped:** 2026-07-24T08:39:04.654405+00:00
+**Scraped:** 2026-07-25T08:19:13.277919+00:00
 
 Netskope IPSec with Fortinet FortiGate - Netskope Knowledge Portal
 Netskope IPSec with Fortinet FortiGate
@@ -45795,9 +45898,8 @@ Netskope IPSec with Fortinet FortiGate
 ## Netskope IPSec with Cisco Meraki MX
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-cisco-meraki-mx/
 **Last Modified:** 2025-09-17T18:29:22+00:00
-**Scraped:** 2026-07-24T08:39:05.850257+00:00
+**Scraped:** 2026-07-25T08:19:14.443026+00:00
 
-Netskope IPSec with Cisco Meraki MX - Netskope Knowledge Portal
 Netskope IPSec with Cisco Meraki MX
 Netskope Intelligent Security Service Edge (SSE) is fast, easy to use, and secures your transactions wherever your people and data go. Netskope SSE converges security capabilities into a single cloud platform to allow a central unified security policy for all users across the organization both on premises or working remotely. This guide illustrates how to configure all internet bound traffic to be routed to the Netskope SSE through an IPSec tunnel for traffic inspection, content filtering, data and threat protection.
 To learn more about the steps in the Meraki MX and Umbrella Secure Internet Gateway (SIG):
@@ -45903,7 +46005,7 @@ Netskope IPSec with Cisco Meraki MX
 ## Netskope IPSec with Cisco IOS
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-cisco-ios/
 **Last Modified:** 2025-08-31T01:55:13+00:00
-**Scraped:** 2026-07-24T08:39:07.031224+00:00
+**Scraped:** 2026-07-25T08:19:15.740927+00:00
 
 Netskope IPSec with Cisco IOS - Netskope Knowledge Portal
 Netskope IPSec with Cisco IOS
@@ -46256,7 +46358,7 @@ Netskope IPSec with Cisco IOS
 ## Netskope IPSec with Cisco Firepower
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-cisco-firepower/
 **Last Modified:** 2025-08-31T01:55:24+00:00
-**Scraped:** 2026-07-24T08:39:08.228480+00:00
+**Scraped:** 2026-07-25T08:19:16.945156+00:00
 
 Netskope IPSec with Cisco Firepower - Netskope Knowledge Portal
 Netskope IPSec with Cisco Firepower
@@ -46515,7 +46617,7 @@ Netskope IPSec with Cisco Firepower
 ## Netskope IPSec with VeloCloud Orchestrator
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-velocloud-orchestrator/
 **Last Modified:** 2025-08-31T01:55:14+00:00
-**Scraped:** 2026-07-24T08:39:09.408539+00:00
+**Scraped:** 2026-07-25T08:19:18.118546+00:00
 
 Netskope IPSec with VeloCloud Orchestrator - Netskope Knowledge Portal
 Netskope IPSec with VeloCloud Orchestrator
@@ -46544,8 +46646,9 @@ Netskope IPSec with VeloCloud Orchestrator
 ## Netskope IPSec with Versa Director
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-versa-director/
 **Last Modified:** 2025-08-31T01:55:16+00:00
-**Scraped:** 2026-07-24T08:39:10.997902+00:00
+**Scraped:** 2026-07-25T08:19:19.317674+00:00
 
+Netskope IPSec with Versa Director - Netskope Knowledge Portal
 Netskope IPSec with Versa Director
 This guide explains the network and system configuration for the Versa Operating System (VOS) using Versa Director and the Netskope Security Cloud Platform using Secure Web Gateway (NG-SWG).
 This document is for experienced network and system administrators who are responsible for configuring and managing public and private cloud infrastructure. It is presumed that admins are aware of virtualization concepts, technologies, and setup of network devices.
@@ -46984,7 +47087,7 @@ Netskope IPSec with Versa Director
 ## Netskope SMTP Proxy Use Cases
 **URL:** https://docs.netskope.com/en/netskope-smtp-proxy-use-cases/
 **Last Modified:** 2025-08-31T01:55:52+00:00
-**Scraped:** 2026-07-24T08:39:12.269310+00:00
+**Scraped:** 2026-07-25T08:19:20.491925+00:00
 
 Netskope SMTP Proxy Use Cases - Netskope Knowledge Portal
 Netskope SMTP Proxy Use Cases
@@ -47021,8 +47124,9 @@ Netskope SMTP Proxy Use Cases
 ## Netskope SMTP Proxy
 **URL:** https://docs.netskope.com/en/netskope-smtp-proxy/
 **Last Modified:** 2026-06-25T19:22:11+00:00
-**Scraped:** 2026-07-24T08:39:13.448718+00:00
+**Scraped:** 2026-07-25T08:19:21.772386+00:00
 
+Netskope SMTP Proxy - Netskope Knowledge Portal
 Netskope SMTP Proxy
 This workflow is intended for user-initiated outbound email that leaves the organization. Machine-generated email (for example automated systems, applications, or service accounts) and internal-to-internal mail flows are not supported use cases and should not be enabled for inspection.
 The Netskope SMTP Proxy can be used as a service to scan outgoing emails over SMTP for DLP violations. In this solution, an email initiated by the user is received by a cloud email service such as MS O365 Exchange or Gmail. The email is then passed through the Netskope SMTP Proxy integrated into your SMTP workflow. Netskope SMTP Proxy verifies the contents of the email against Real-time Protection policies and acts on DLP violations based on the policy configuration. The email is then passed on to an upstream MTA which looks up the DNS of the destination email service and sends the email to the recipient’s server.
@@ -47103,7 +47207,7 @@ Netskope SMTP Proxy
 ## Netskope with Microsoft Purview Information Protection Use Cases
 **URL:** https://docs.netskope.com/en/netskope-with-microsoft-information-protect-use-cases/
 **Last Modified:** 2026-06-25T19:16:16+00:00
-**Scraped:** 2026-07-24T08:39:18.244639+00:00
+**Scraped:** 2026-07-25T08:19:26.496803+00:00
 
 Netskope with Microsoft Purview Information Protection Use Cases - Netskope Knowledge Portal
 Netskope with Microsoft Purview Information Protection Use Cases
@@ -47141,7 +47245,7 @@ Netskope with Microsoft Purview Information Protection Use Cases
 ## Perform Actions on Application Risk Exchange Business Rules
 **URL:** https://docs.netskope.com/en/perform-actions-on-application-risk-exchange-business-rules/
 **Last Modified:** 2025-08-31T01:54:37+00:00
-**Scraped:** 2026-07-24T08:39:19.526234+00:00
+**Scraped:** 2026-07-25T08:19:27.782755+00:00
 
 Perform Actions on Application Risk Exchange Business Rules - Netskope Knowledge Portal
 Perform Actions on Application Risk Exchange Business Rules
@@ -47169,7 +47273,7 @@ Perform Actions on Application Risk Exchange Business Rules
 ## Notifier Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/notifier-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-02-14T00:31:09+00:00
-**Scraped:** 2026-07-24T08:39:21.939078+00:00
+**Scraped:** 2026-07-25T08:19:30.170451+00:00
 
 Notifier Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Notifier Plugin for Ticket Orchestrator
@@ -47562,7 +47666,7 @@ Notifier Plugin for Ticket Orchestrator
 ## Plugin Activity
 **URL:** https://docs.netskope.com/en/plugin-activity/
 **Last Modified:** 2025-08-31T01:54:28+00:00
-**Scraped:** 2026-07-24T08:39:23.142638+00:00
+**Scraped:** 2026-07-25T08:19:31.454973+00:00
 
 Plugin Activity - Netskope Knowledge Portal
 Plugin Activity
@@ -47578,7 +47682,7 @@ Plugin Activity
 ## Perform Actions on Application Risk Exchange Configured Plugins
 **URL:** https://docs.netskope.com/en/perform-actions-on-application-risk-exchange-configured-plugins/
 **Last Modified:** 2025-08-31T01:54:35+00:00
-**Scraped:** 2026-07-24T08:39:24.413412+00:00
+**Scraped:** 2026-07-25T08:19:32.626181+00:00
 
 Perform Actions on Application Risk Exchange Configured Plugins - Netskope Knowledge Portal
 Perform Actions on Application Risk Exchange Configured Plugins
@@ -47592,7 +47696,7 @@ Perform Actions on Application Risk Exchange Configured Plugins
 ## Plugin Store
 **URL:** https://docs.netskope.com/en/plugin-store/
 **Last Modified:** 2026-03-21T02:01:12+00:00
-**Scraped:** 2026-07-24T08:39:25.684140+00:00
+**Scraped:** 2026-07-25T08:19:33.899794+00:00
 
 Plugin Store - Netskope Knowledge Portal
 Plugin Store
@@ -47607,7 +47711,7 @@ Plugin Store
 ## Provisioning and Authentication
 **URL:** https://docs.netskope.com/en/provisioning-and-authentication/
 **Last Modified:** 2025-08-31T01:55:34+00:00
-**Scraped:** 2026-07-24T08:39:28.056718+00:00
+**Scraped:** 2026-07-25T08:19:36.380369+00:00
 
 Provisioning and Authentication - Netskope Knowledge Portal
 Provisioning and Authentication
@@ -47625,7 +47729,7 @@ Provisioning and Authentication
 ## Proofpoint Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/proofpoint-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-27T22:36:05+00:00
-**Scraped:** 2026-07-24T08:39:29.240834+00:00
+**Scraped:** 2026-07-25T08:19:37.548138+00:00
 
 Proofpoint Plugin for User Risk Exchange - Netskope Knowledge Portal
 Proofpoint Plugin for User Risk Exchange
@@ -47730,7 +47834,7 @@ Proofpoint Plugin for User Risk Exchange
 ## Reverse Proxy as a Service with Google Workspaces
 **URL:** https://docs.netskope.com/en/reverse-proxy-as-a-service-with-google-workspaces-309517/
 **Last Modified:** 2025-09-01T13:24:05+00:00
-**Scraped:** 2026-07-24T08:39:32.918482+00:00
+**Scraped:** 2026-07-25T08:19:41.167911+00:00
 
 Reverse Proxy as a Service with Google Workspaces - Netskope Knowledge Portal
 Reverse Proxy as a Service with Google Workspaces
@@ -47747,7 +47851,7 @@ Reverse Proxy as a Service with Google Workspaces
 ## Reverse Proxy for Google Chromebook
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-google-chromebook/
 **Last Modified:** 2025-08-31T01:54:54+00:00
-**Scraped:** 2026-07-24T08:39:34.196779+00:00
+**Scraped:** 2026-07-25T08:19:42.346381+00:00
 
 Reverse Proxy for Google Chromebook - Netskope Knowledge Portal
 Reverse Proxy for Google Chromebook
@@ -47823,7 +47927,7 @@ Reverse Proxy for Google Chromebook
 ## Reverse Proxy for Google Workspace with AWS Single Sign-On
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-google-workspace-with-aws-single-sign-on/
 **Last Modified:** 2025-08-31T01:54:55+00:00
-**Scraped:** 2026-07-24T08:39:36.545768+00:00
+**Scraped:** 2026-07-25T08:19:44.806865+00:00
 
 Reverse Proxy for Google Workspace with AWS Single Sign-On - Netskope Knowledge Portal
 Reverse Proxy for Google Workspace with AWS Single Sign-On
@@ -47911,7 +48015,7 @@ Reverse Proxy for Google Workspace with AWS Single Sign-On
 ## Reverse Proxy for Okta and G Suite with ACS URL
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-okta-and-g-suite-with-acs-url/
 **Last Modified:** 2025-08-31T01:54:55+00:00
-**Scraped:** 2026-07-24T08:39:37.718166+00:00
+**Scraped:** 2026-07-25T08:19:45.977892+00:00
 
 Reverse Proxy for Okta and G Suite with ACS URL - Netskope Knowledge Portal
 Reverse Proxy for Okta and G Suite with ACS URL
@@ -47926,7 +48030,7 @@ Reverse Proxy for Okta and G Suite with ACS URL
 ## Reverse Proxy for Workday and Okta with ACS URL
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-workday-and-okta-with-acs-url/
 **Last Modified:** 2025-08-31T01:54:57+00:00
-**Scraped:** 2026-07-24T08:39:38.891876+00:00
+**Scraped:** 2026-07-25T08:19:47.147494+00:00
 
 Reverse Proxy for Workday and Okta with ACS URL - Netskope Knowledge Portal
 Reverse Proxy for Workday and Okta with ACS URL
@@ -47941,7 +48045,7 @@ Reverse Proxy for Workday and Okta with ACS URL
 ## Reverse Proxy with Okta
 **URL:** https://docs.netskope.com/en/reverse-proxy-with-okta/
 **Last Modified:** 2026-06-25T03:48:41+00:00
-**Scraped:** 2026-07-24T08:39:41.348462+00:00
+**Scraped:** 2026-07-25T08:19:49.508236+00:00
 
 Reverse Proxy with Okta - Netskope Knowledge Portal
 Reverse Proxy with Okta
@@ -47971,7 +48075,7 @@ Reverse Proxy with Okta
 ## Risk Exchange Module
 **URL:** https://docs.netskope.com/en/risk-exchange-module/
 **Last Modified:** 2026-05-20T22:44:02+00:00
-**Scraped:** 2026-07-24T08:39:43.695640+00:00
+**Scraped:** 2026-07-25T08:19:51.852819+00:00
 
 Risk Exchange Module - Netskope Knowledge Portal
 Risk Exchange Module
@@ -48013,7 +48117,7 @@ Risk Exchange Module
 ## Security Advisor Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/security-advisor-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-27T22:37:18+00:00
-**Scraped:** 2026-07-24T08:39:44.900435+00:00
+**Scraped:** 2026-07-25T08:19:53.042834+00:00
 
 Security Advisor Plugin for User Risk Exchange - Netskope Knowledge Portal
 Security Advisor Plugin for User Risk Exchange
@@ -48123,7 +48227,7 @@ Security Advisor Plugin for User Risk Exchange
 ## Security
 **URL:** https://docs.netskope.com/en/security/
 **Last Modified:** 2025-08-31T01:55:37+00:00
-**Scraped:** 2026-07-24T08:39:46.072124+00:00
+**Scraped:** 2026-07-25T08:19:54.305873+00:00
 
 Security - Netskope Knowledge Portal
 Security
@@ -48137,7 +48241,7 @@ Security
 ## ServiceNow Plugin for Application Risk Exchange
 **URL:** https://docs.netskope.com/en/servicenow-plugin-for-application-risk-exchange/
 **Last Modified:** 2026-05-29T00:00:02+00:00
-**Scraped:** 2026-07-24T08:39:51.034824+00:00
+**Scraped:** 2026-07-25T08:19:59.242968+00:00
 
 ServiceNow Plugin for Application Risk Exchange - Netskope Knowledge Portal
 ServiceNow Plugin for Application Risk Exchange
@@ -48256,7 +48360,7 @@ ServiceNow Plugin for Application Risk Exchange
 ## Settings
 **URL:** https://docs.netskope.com/en/cloud-exchange-settings/
 **Last Modified:** 2025-10-31T01:30:33+00:00
-**Scraped:** 2026-07-24T08:39:55.796008+00:00
+**Scraped:** 2026-07-25T08:20:04.096851+00:00
 
 Settings - Netskope Knowledge Portal
 Settings
@@ -48277,7 +48381,7 @@ Settings
 ## ServiceNow Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/servicenow-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-05-27T23:16:54+00:00
-**Scraped:** 2026-07-24T08:39:57.233604+00:00
+**Scraped:** 2026-07-25T08:20:05.438502+00:00
 
 ServiceNow Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 ServiceNow Plugin for Ticket Orchestrator
@@ -51331,8 +51435,9 @@ ServiceNow Plugin for Ticket Orchestrator
 ## Cloud Exchange Supported Integrations
 **URL:** https://docs.netskope.com/en/cloud-exchange-supported-integrations/
 **Last Modified:** 2026-06-11T22:45:08+00:00
-**Scraped:** 2026-07-24T08:40:02.029428+00:00
+**Scraped:** 2026-07-25T08:20:10.232540+00:00
 
+Cloud Exchange Supported Integrations - Netskope Knowledge Portal
 Cloud Exchange Supported Integrations
 A module-specific write-access user can create, enable, modify, or delete plugins.
 In addition to the Netskope plugins, Cloud Exchange works with the following plugins which are found in the GitHub repository and are pulled down by Cloud Exchange during initial installation, whenever the Cloud Exchange service is started or stopped, and whenever a write-access user responds to an
@@ -51371,7 +51476,7 @@ Cloud Exchange Supported Integrations
 ## Tasks
 **URL:** https://docs.netskope.com/en/tasks/
 **Last Modified:** 2025-10-31T01:13:07+00:00
-**Scraped:** 2026-07-24T08:40:05.663694+00:00
+**Scraped:** 2026-07-25T08:20:13.921821+00:00
 
 Tasks - Netskope Knowledge Portal
 Tasks
@@ -51388,7 +51493,7 @@ Tasks
 ## Tasks Cleanup
 **URL:** https://docs.netskope.com/en/tasks-cleanup/
 **Last Modified:** 2025-10-31T01:23:55+00:00
-**Scraped:** 2026-07-24T08:40:08.043971+00:00
+**Scraped:** 2026-07-25T08:20:16.569041+00:00
 
 Tasks Cleanup - Netskope Knowledge Portal
 Tasks Cleanup
@@ -51400,7 +51505,7 @@ Tasks Cleanup
 ## Test the Configuration
 **URL:** https://docs.netskope.com/en/test-the-configuration/
 **Last Modified:** 2026-02-16T11:14:35+00:00
-**Scraped:** 2026-07-24T08:40:09.267890+00:00
+**Scraped:** 2026-07-25T08:20:17.738527+00:00
 
 Test the Configuration - Netskope Knowledge Portal
 Test the Configuration
@@ -51415,8 +51520,9 @@ Test the Configuration
 ## Tips and FAQs
 **URL:** https://docs.netskope.com/en/tips-and-faqs/
 **Last Modified:** 2025-08-31T01:55:21+00:00
-**Scraped:** 2026-07-24T08:40:15.499903+00:00
+**Scraped:** 2026-07-25T08:20:23.872589+00:00
 
+Tips and FAQs - Netskope Knowledge Portal
 Tips and FAQs
 Netskope SAML FP Session Behavior
 Netskope SAML Forward Proxy maintains IP to User session mappings and auth tokens. The settings for the IP to User mapping is a global setting that applies to all tenants. The auth tokens can be customized per tenant from 1 to 180days (default is 7 days). Other factors include:
@@ -51495,7 +51601,7 @@ Tips and FAQs
 ## Update Cloud Exchange Plugins
 **URL:** https://docs.netskope.com/en/update-cloud-exchange-plugins/
 **Last Modified:** 2025-10-31T01:33:01+00:00
-**Scraped:** 2026-07-24T08:40:17.880802+00:00
+**Scraped:** 2026-07-25T08:20:26.394102+00:00
 
 Update Cloud Exchange Plugins - Netskope Knowledge Portal
 Update Cloud Exchange Plugins
@@ -51519,7 +51625,7 @@ Update Cloud Exchange Plugins
 ## Ticket Orchestrator Module
 **URL:** https://docs.netskope.com/en/ticket-orchestrator-module/
 **Last Modified:** 2025-10-31T20:26:31+00:00
-**Scraped:** 2026-07-24T08:40:19.058414+00:00
+**Scraped:** 2026-07-25T08:20:27.574691+00:00
 
 Ticket Orchestrator Module - Netskope Knowledge Portal
 Ticket Orchestrator Module
@@ -51576,7 +51682,7 @@ Ticket Orchestrator Module
 ## Update the ACS Override URL in Okta
 **URL:** https://docs.netskope.com/en/update-the-acs-override-url-in-okta/
 **Last Modified:** 2025-08-31T01:54:57+00:00
-**Scraped:** 2026-07-24T08:40:22.577439+00:00
+**Scraped:** 2026-07-25T08:20:31.148917+00:00
 
 Update the ACS Override URL in Okta - Netskope Knowledge Portal
 Update the ACS Override URL in Okta
@@ -51609,7 +51715,7 @@ Update the ACS Override URL in Okta
 ## Update Configured Ticket Orchestrator Plugins
 **URL:** https://docs.netskope.com/en/update-configured-ticket-orchestrator-plugins/
 **Last Modified:** 2025-10-31T20:37:31+00:00
-**Scraped:** 2026-07-24T08:40:23.747705+00:00
+**Scraped:** 2026-07-25T08:20:32.317899+00:00
 
 Update Configured Ticket Orchestrator Plugins - Netskope Knowledge Portal
 Update Configured Ticket Orchestrator Plugins
@@ -51627,7 +51733,7 @@ Update Configured Ticket Orchestrator Plugins
 ## Upgrade the Netskope Adapters
 **URL:** https://docs.netskope.com/en/upgrade-the-netskope-adapters/
 **Last Modified:** 2025-09-01T12:44:59+00:00
-**Scraped:** 2026-07-24T08:40:24.924157+00:00
+**Scraped:** 2026-07-25T08:20:33.588384+00:00
 
 Upgrade the Netskope Adapters - Netskope Knowledge Portal
 Upgrade the Netskope Adapters
@@ -51650,7 +51756,7 @@ Upgrade the Netskope Adapters
 ## Using Reverse Proxy as a Service with Google Workspaces
 **URL:** https://docs.netskope.com/en/using-reverse-proxy-as-a-service-with-google-workspaces-309538/
 **Last Modified:** 2025-08-31T01:55:05+00:00
-**Scraped:** 2026-07-24T08:40:26.098518+00:00
+**Scraped:** 2026-07-25T08:20:34.760380+00:00
 
 Using Reverse Proxy as a Service with Google Workspaces - Netskope Knowledge Portal
 Using Reverse Proxy as a Service with Google Workspaces
@@ -51675,7 +51781,7 @@ Using Reverse Proxy as a Service with Google Workspaces
 ## Using Beta Plugins
 **URL:** https://docs.netskope.com/en/using-beta-plugins/
 **Last Modified:** 2025-10-31T02:09:49+00:00
-**Scraped:** 2026-07-24T08:40:27.272112+00:00
+**Scraped:** 2026-07-25T08:20:35.987412+00:00
 
 Using Beta Plugins - Netskope Knowledge Portal
 Using Beta Plugins
@@ -51702,7 +51808,7 @@ Using Beta Plugins
 ## User Risk Exchange Workflow
 **URL:** https://docs.netskope.com/en/user-risk-exchange-workflow/
 **Last Modified:** 2026-04-30T18:57:57+00:00
-**Scraped:** 2026-07-24T08:40:28.452444+00:00
+**Scraped:** 2026-07-25T08:20:37.237551+00:00
 
 User Risk Exchange Workflow - Netskope Knowledge Portal
 User Risk Exchange Workflow
@@ -51733,7 +51839,7 @@ User Risk Exchange Workflow
 ## Verify the Netskope Adapters
 **URL:** https://docs.netskope.com/en/verify-the-netskope-adapters/
 **Last Modified:** 2025-09-01T12:44:58+00:00
-**Scraped:** 2026-07-24T08:40:29.623075+00:00
+**Scraped:** 2026-07-25T08:20:38.506828+00:00
 
 Verify the Netskope Adapters - Netskope Knowledge Portal
 Verify the Netskope Adapters
@@ -51769,7 +51875,7 @@ Verify the Netskope Adapters
 ## View Application Risk Exchange Business Rules
 **URL:** https://docs.netskope.com/en/view-application-risk-exchange-business-rules-394902/
 **Last Modified:** 2025-08-31T01:54:36+00:00
-**Scraped:** 2026-07-24T08:40:31.964285+00:00
+**Scraped:** 2026-07-25T08:20:41.004972+00:00
 
 View Application Risk Exchange Business Rules - Netskope Knowledge Portal
 View Application Risk Exchange Business Rules
@@ -51782,7 +51888,7 @@ View Application Risk Exchange Business Rules
 ## View Application Risk Exchange Configured Plugins
 **URL:** https://docs.netskope.com/en/view-application-risk-exchange-configured-plugins/
 **Last Modified:** 2025-08-31T01:54:35+00:00
-**Scraped:** 2026-07-24T08:40:33.139838+00:00
+**Scraped:** 2026-07-25T08:20:42.177968+00:00
 
 View Application Risk Exchange Configured Plugins - Netskope Knowledge Portal
 View Application Risk Exchange Configured Plugins
@@ -51808,7 +51914,7 @@ View Application Risk Exchange Configured Plugins
 ## View User Risk Exchange Business Rules
 **URL:** https://docs.netskope.com/en/view-user-risk-exchange-business-rules/
 **Last Modified:** 2025-08-31T01:54:29+00:00
-**Scraped:** 2026-07-24T08:40:34.324559+00:00
+**Scraped:** 2026-07-25T08:20:43.450683+00:00
 
 View User Risk Exchange Business Rules - Netskope Knowledge Portal
 View User Risk Exchange Business Rules
@@ -51821,7 +51927,7 @@ View User Risk Exchange Business Rules
 ## View Netskope SMTP Proxy Alerts
 **URL:** https://docs.netskope.com/en/view-netskope-smtp-proxy-alerts/
 **Last Modified:** 2025-08-31T01:55:55+00:00
-**Scraped:** 2026-07-24T08:40:36.673203+00:00
+**Scraped:** 2026-07-25T08:20:45.940730+00:00
 
 View Netskope SMTP Proxy Alerts - Netskope Knowledge Portal
 View Netskope SMTP Proxy Alerts
@@ -51866,7 +51972,7 @@ View Netskope SMTP Proxy Alerts
 ## Alerts
 **URL:** https://docs.netskope.com/en/about-alerts/
 **Last Modified:** 2026-06-02T05:05:39+00:00
-**Scraped:** 2026-07-24T08:40:39.134219+00:00
+**Scraped:** 2026-07-25T08:20:48.332121+00:00
 
 Alerts - Netskope Knowledge Portal
 Alerts
@@ -52026,7 +52132,7 @@ Alerts
 ## Applications
 **URL:** https://docs.netskope.com/en/about-applications/
 **Last Modified:** 2025-08-31T01:39:01+00:00
-**Scraped:** 2026-07-24T08:40:40.320827+00:00
+**Scraped:** 2026-07-25T08:20:49.516302+00:00
 
 Applications - Netskope Knowledge Portal
 Applications
@@ -52117,7 +52223,7 @@ Applications
 ## Endpoint Events
 **URL:** https://docs.netskope.com/en/about-endpoint-events/
 **Last Modified:** 2025-08-31T01:39:03+00:00
-**Scraped:** 2026-07-24T08:40:41.505817+00:00
+**Scraped:** 2026-07-25T08:20:50.697479+00:00
 
 Endpoint Events - Netskope Knowledge Portal
 Endpoint Events
@@ -52258,7 +52364,7 @@ Endpoint Events
 ## Application Events
 **URL:** https://docs.netskope.com/en/about-application-events/
 **Last Modified:** 2026-06-02T04:36:19+00:00
-**Scraped:** 2026-07-24T08:40:42.685451+00:00
+**Scraped:** 2026-07-25T08:20:51.877100+00:00
 
 Application Events - Netskope Knowledge Portal
 Application Events
@@ -52371,8 +52477,9 @@ Application Events
 ## Skope IT Events & Alerts
 **URL:** https://docs.netskope.com/en/about-events/
 **Last Modified:** 2026-07-06T21:42:16+00:00
-**Scraped:** 2026-07-24T08:40:45.033703+00:00
+**Scraped:** 2026-07-25T08:20:54.307983+00:00
 
+Skope IT Events & Alerts - Netskope Knowledge Portal
 Skope IT Events & Alerts
 About Skope IT Events & Alerts
 Skope IT events and alerts track connections made in your network. To view Skope IT events and alerts, go to
@@ -52577,7 +52684,7 @@ Skope IT Events & Alerts
 ## Page Events
 **URL:** https://docs.netskope.com/en/about-page-events-112502/
 **Last Modified:** 2026-06-02T05:34:46+00:00
-**Scraped:** 2026-07-24T08:40:46.224628+00:00
+**Scraped:** 2026-07-25T08:20:55.491424+00:00
 
 Page Events - Netskope Knowledge Portal
 Page Events
@@ -52702,7 +52809,7 @@ Page Events
 ## Websites
 **URL:** https://docs.netskope.com/en/about-websites-127014/
 **Last Modified:** 2025-08-31T01:39:06+00:00
-**Scraped:** 2026-07-24T08:40:47.400150+00:00
+**Scraped:** 2026-07-25T08:20:56.815371+00:00
 
 Websites - Netskope Knowledge Portal
 Websites
@@ -52757,7 +52864,7 @@ Websites
 ## Pins
 **URL:** https://docs.netskope.com/en/about-pins/
 **Last Modified:** 2025-08-31T01:39:08+00:00
-**Scraped:** 2026-07-24T08:40:48.556358+00:00
+**Scraped:** 2026-07-25T08:20:57.985479+00:00
 
 Pins - Netskope Knowledge Portal
 Pins
@@ -52780,8 +52887,9 @@ Pins
 ## Users
 **URL:** https://docs.netskope.com/en/about-users/
 **Last Modified:** 2026-06-02T05:06:09+00:00
-**Scraped:** 2026-07-24T08:40:49.730846+00:00
+**Scraped:** 2026-07-25T08:20:59.150069+00:00
 
+Users - Netskope Knowledge Portal
 Users
 About Users
 For Skope IT analytics about users, go to
@@ -52843,7 +52951,7 @@ Users
 ## User Details
 **URL:** https://docs.netskope.com/en/about-user-details/
 **Last Modified:** 2026-06-02T05:37:52+00:00
-**Scraped:** 2026-07-24T08:40:50.906598+00:00
+**Scraped:** 2026-07-25T08:21:00.329459+00:00
 
 User Details - Netskope Knowledge Portal
 User Details
@@ -52898,7 +53006,7 @@ User Details
 ## Watchlists
 **URL:** https://docs.netskope.com/en/about-watchlists/
 **Last Modified:** 2025-08-31T01:39:09+00:00
-**Scraped:** 2026-07-24T08:40:52.084256+00:00
+**Scraped:** 2026-07-25T08:21:01.521932+00:00
 
 Watchlists - Netskope Knowledge Portal
 Watchlists
@@ -52937,7 +53045,7 @@ Watchlists
 ## Acknowledge Compromised Credentials
 **URL:** https://docs.netskope.com/en/acknowledge-compromised-credentials/
 **Last Modified:** 2025-08-31T01:39:28+00:00
-**Scraped:** 2026-07-24T08:40:53.356360+00:00
+**Scraped:** 2026-07-25T08:21:02.844074+00:00
 
 Acknowledge Compromised Credentials - Netskope Knowledge Portal
 Acknowledge Compromised Credentials
@@ -52977,7 +53085,7 @@ Acknowledge Compromised Credentials
 ## Acknowledge Anomalies
 **URL:** https://docs.netskope.com/en/acknowledge-anomalies/
 **Last Modified:** 2025-08-31T01:39:27+00:00
-**Scraped:** 2026-07-24T08:40:54.530718+00:00
+**Scraped:** 2026-07-25T08:21:04.115878+00:00
 
 Acknowledge Anomalies - Netskope Knowledge Portal
 Acknowledge Anomalies
@@ -53017,7 +53125,7 @@ Acknowledge Anomalies
 ## Add an App Instance
 **URL:** https://docs.netskope.com/en/add-an-app-instance-354237/
 **Last Modified:** 2025-08-31T01:39:41+00:00
-**Scraped:** 2026-07-24T08:40:55.731784+00:00
+**Scraped:** 2026-07-25T08:21:05.291501+00:00
 
 Add an App Instance - Netskope Knowledge Portal
 Add an App Instance
@@ -53108,8 +53216,9 @@ Add an App Instance
 ## Add an App Instance
 **URL:** https://docs.netskope.com/en/add-an-app-instance/
 **Last Modified:** 2025-09-01T13:22:25+00:00
-**Scraped:** 2026-07-24T08:40:56.904966+00:00
+**Scraped:** 2026-07-25T08:21:06.466148+00:00
 
+Add an App Instance - Netskope Knowledge Portal
 Add an App Instance
 This endpoint adds a new app instance. Size limit is 500 app instances max per request with the rate limit of one request every 10 minutes.
 Request Endpoint
@@ -53201,7 +53310,7 @@ Add an App Instance
 ## Adding Custom Fields
 **URL:** https://docs.netskope.com/en/adding-custom-fields/
 **Last Modified:** 2025-08-31T01:49:30+00:00
-**Scraped:** 2026-07-24T08:40:58.081380+00:00
+**Scraped:** 2026-07-25T08:21:07.640203+00:00
 
 Adding Custom Fields - Netskope Knowledge Portal
 Adding Custom Fields
@@ -53255,7 +53364,7 @@ Adding Custom Fields
 ## Adding Dashboard Filters
 **URL:** https://docs.netskope.com/en/adding-dashboard-filters/
 **Last Modified:** 2025-08-31T01:49:43+00:00
-**Scraped:** 2026-07-24T08:40:59.357722+00:00
+**Scraped:** 2026-07-25T08:21:08.820268+00:00
 
 Adding Dashboard Filters - Netskope Knowledge Portal
 Adding Dashboard Filters
@@ -53321,7 +53430,7 @@ Adding Dashboard Filters
 ## Adding Custom Formatting to Numeric Fields
 **URL:** https://docs.netskope.com/en/adding-custom-formatting-to-numeric-fields/
 **Last Modified:** 2025-08-31T01:49:29+00:00
-**Scraped:** 2026-07-24T08:41:00.535299+00:00
+**Scraped:** 2026-07-25T08:21:10.093374+00:00
 
 Adding Custom Formatting to Numeric Fields - Netskope Knowledge Portal
 Adding Custom Formatting to Numeric Fields
@@ -53391,7 +53500,7 @@ Adding Custom Formatting to Numeric Fields
 ## Advanced Analytics Customize Dashboards with the Widget Library
 **URL:** https://docs.netskope.com/en/advanced-analytics-customize-dashboards-with-the-widget-library/
 **Last Modified:** 2026-03-20T09:19:25+00:00
-**Scraped:** 2026-07-24T08:41:04.055330+00:00
+**Scraped:** 2026-07-25T08:21:13.875189+00:00
 
 Advanced Analytics Customize Dashboards with the Widget Library - Netskope Knowledge Portal
 Advanced Analytics Customize Dashboards with the Widget Library
@@ -53412,7 +53521,7 @@ Advanced Analytics Customize Dashboards with the Widget Library
 ## Advanced Analytics Data Retention
 **URL:** https://docs.netskope.com/en/advanced-analytics-data-retention/
 **Last Modified:** 2025-08-31T01:49:34+00:00
-**Scraped:** 2026-07-24T08:41:06.405890+00:00
+**Scraped:** 2026-07-25T08:21:16.327985+00:00
 
 Advanced Analytics Data Retention - Netskope Knowledge Portal
 Advanced Analytics Data Retention
@@ -53521,7 +53630,7 @@ Advanced Analytics Data Retention
 ## Advanced Analytics Favorites Folder
 **URL:** https://docs.netskope.com/en/advanced-analytics-favorites-folder/
 **Last Modified:** 2025-10-20T06:09:14+00:00
-**Scraped:** 2026-07-24T08:41:07.576905+00:00
+**Scraped:** 2026-07-25T08:21:17.501559+00:00
 
 Advanced Analytics Favorites Folder - Netskope Knowledge Portal
 Advanced Analytics Favorites Folder
@@ -53534,7 +53643,7 @@ Advanced Analytics Favorites Folder
 ## Advanced Analytics Incidents
 **URL:** https://docs.netskope.com/en/advanced-analytics-incidents-410299/
 **Last Modified:** 2025-09-01T12:46:00+00:00
-**Scraped:** 2026-07-24T08:41:08.759323+00:00
+**Scraped:** 2026-07-25T08:21:18.682503+00:00
 
 Advanced Analytics Incidents - Netskope Knowledge Portal
 Advanced Analytics Incidents
@@ -53583,7 +53692,7 @@ Advanced Analytics Incidents
 ## Advanced Analytics Incidents Event Fields
 **URL:** https://docs.netskope.com/en/advanced-analytics-incidents-event-fields/
 **Last Modified:** 2025-08-31T01:49:35+00:00
-**Scraped:** 2026-07-24T08:41:09.943880+00:00
+**Scraped:** 2026-07-25T08:21:19.962549+00:00
 
 Advanced Analytics Incidents Event Fields - Netskope Knowledge Portal
 Advanced Analytics Incidents Event Fields
@@ -53755,7 +53864,7 @@ Advanced Analytics Incidents Event Fields
 ## Advanced Analytics Interface
 **URL:** https://docs.netskope.com/en/advanced-analytics-interface/
 **Last Modified:** 2026-06-10T04:49:01+00:00
-**Scraped:** 2026-07-24T08:41:11.121853+00:00
+**Scraped:** 2026-07-25T08:21:21.240658+00:00
 
 Advanced Analytics Interface - Netskope Knowledge Portal
 Advanced Analytics Interface
@@ -53830,7 +53939,7 @@ Advanced Analytics Interface
 ## Advanced Analytics Tagging and Filtering
 **URL:** https://docs.netskope.com/en/advanced-analytics-tagging-and-filtering/
 **Last Modified:** 2025-08-31T01:49:39+00:00
-**Scraped:** 2026-07-24T08:41:12.308214+00:00
+**Scraped:** 2026-07-25T08:21:22.412707+00:00
 
 Advanced Analytics Tagging and Filtering - Netskope Knowledge Portal
 Advanced Analytics Tagging and Filtering
@@ -53851,7 +53960,7 @@ Advanced Analytics Tagging and Filtering
 ## Advanced Analytics Transaction Event Fields
 **URL:** https://docs.netskope.com/en/advanced-analytics-transaction-event-fields/
 **Last Modified:** 2025-08-31T01:49:33+00:00
-**Scraped:** 2026-07-24T08:41:13.582405+00:00
+**Scraped:** 2026-07-25T08:21:23.593104+00:00
 
 Advanced Analytics Transaction Event Fields - Netskope Knowledge Portal
 Advanced Analytics Transaction Event Fields
@@ -53952,7 +54061,7 @@ Advanced Analytics Transaction Event Fields
 ## Advanced Analytics Transaction Events
 **URL:** https://docs.netskope.com/en/advanced-analytics-transaction-events/
 **Last Modified:** 2025-08-31T01:49:33+00:00
-**Scraped:** 2026-07-24T08:41:14.755467+00:00
+**Scraped:** 2026-07-25T08:21:24.763342+00:00
 
 Advanced Analytics Transaction Events - Netskope Knowledge Portal
 Advanced Analytics Transaction Events
@@ -53979,7 +54088,7 @@ Advanced Analytics Transaction Events
 ## Advanced Search
 **URL:** https://docs.netskope.com/en/advanced-search/
 **Last Modified:** 2026-06-19T16:06:46+00:00
-**Scraped:** 2026-07-24T08:41:15.913876+00:00
+**Scraped:** 2026-07-25T08:21:25.935192+00:00
 
 Advanced Search - Netskope Knowledge Portal
 Advanced Search
@@ -54006,7 +54115,7 @@ Advanced Search
 ## Apply Changes to Storage Scan Policies
 **URL:** https://docs.netskope.com/en/apply-changes-to-storage-scan-policies/
 **Last Modified:** 2025-08-31T01:39:35+00:00
-**Scraped:** 2026-07-24T08:41:17.087764+00:00
+**Scraped:** 2026-07-25T08:21:27.204837+00:00
 
 Apply Changes to Storage Scan Policies - Netskope Knowledge Portal
 Apply Changes to Storage Scan Policies
@@ -54039,7 +54148,7 @@ Apply Changes to Storage Scan Policies
 ## Key Detection Scenarios
 **URL:** https://docs.netskope.com/en/behavior-analytics-detection-scenarios/
 **Last Modified:** 2026-04-22T09:11:30+00:00
-**Scraped:** 2026-07-24T08:41:19.422194+00:00
+**Scraped:** 2026-07-25T08:21:29.651820+00:00
 
 Key Detection Scenarios - Netskope Knowledge Portal
 Key Detection Scenarios
@@ -54129,8 +54238,9 @@ Key Detection Scenarios
 ## Bin Custom Dimension
 **URL:** https://docs.netskope.com/en/bin-custom-dimension/
 **Last Modified:** 2025-08-31T01:49:32+00:00
-**Scraped:** 2026-07-24T08:41:20.580734+00:00
+**Scraped:** 2026-07-25T08:21:30.827406+00:00
 
+Bin Custom Dimension - Netskope Knowledge Portal
 Bin Custom Dimension
 Users can now use the Bin custom dimension type to create custom bins, or tiers, on numeric dimensions without the need to write complex expressions. This feature is available for numeric type dimension fields.
 This can be helpful when you want to quickly group values into specific integer ranges to adjust the granularity of your data.
@@ -54202,7 +54312,7 @@ Bin Custom Dimension
 ## Certificates
 **URL:** https://docs.netskope.com/en/certificates/
 **Last Modified:** 2026-06-23T09:33:05+00:00
-**Scraped:** 2026-07-24T08:41:23.052597+00:00
+**Scraped:** 2026-07-25T08:21:33.213155+00:00
 
 Certificates
 Netskope certificates are used by default to trust devices. The Netskope proxy provides the following types of certificates:
@@ -54550,7 +54660,7 @@ Certificates
 ## App Catalog
 **URL:** https://docs.netskope.com/en/cloud-confidence-index/
 **Last Modified:** 2026-06-19T15:56:39+00:00
-**Scraped:** 2026-07-24T08:41:24.242628+00:00
+**Scraped:** 2026-07-25T08:21:34.386916+00:00
 
 App Catalog - Netskope Knowledge Portal
 App Catalog
@@ -54571,7 +54681,7 @@ App Catalog
 ## Clone a Storage Scan Policy
 **URL:** https://docs.netskope.com/en/clone-a-storage-scan-policy/
 **Last Modified:** 2025-08-31T01:39:37+00:00
-**Scraped:** 2026-07-24T08:41:26.600335+00:00
+**Scraped:** 2026-07-25T08:21:36.727122+00:00
 
 Clone a Storage Scan Policy - Netskope Knowledge Portal
 Clone a Storage Scan Policy
@@ -54618,7 +54728,7 @@ Clone a Storage Scan Policy
 ## Clear Events
 **URL:** https://docs.netskope.com/en/clear-events/
 **Last Modified:** 2026-06-02T05:39:18+00:00
-**Scraped:** 2026-07-24T08:41:27.793878+00:00
+**Scraped:** 2026-07-25T08:21:37.993895+00:00
 
 Clear Events - Netskope Knowledge Portal
 Clear Events
@@ -54638,7 +54748,7 @@ Clear Events
 ## Common Reports
 **URL:** https://docs.netskope.com/en/common-reports/
 **Last Modified:** 2025-08-31T01:50:00+00:00
-**Scraped:** 2026-07-24T08:41:29.068230+00:00
+**Scraped:** 2026-07-25T08:21:39.168396+00:00
 
 Common Reports - Netskope Knowledge Portal
 Common Reports
@@ -54708,7 +54818,7 @@ Common Reports
 ## Compare Apps
 **URL:** https://docs.netskope.com/en/compare-apps/
 **Last Modified:** 2026-06-19T16:09:45+00:00
-**Scraped:** 2026-07-24T08:41:30.239265+00:00
+**Scraped:** 2026-07-25T08:21:40.328058+00:00
 
 Compare Apps - Netskope Knowledge Portal
 Compare Apps
@@ -54732,7 +54842,7 @@ Compare Apps
 ## Create a Google Cloud Platform Instance
 **URL:** https://docs.netskope.com/en/create-a-google-cloud-platform-instance/
 **Last Modified:** 2025-08-31T01:39:30+00:00
-**Scraped:** 2026-07-24T08:41:31.516649+00:00
+**Scraped:** 2026-07-25T08:21:41.505971+00:00
 
 Create a Google Cloud Platform Instance - Netskope Knowledge Portal
 Create a Google Cloud Platform Instance
@@ -54813,7 +54923,7 @@ Create a Google Cloud Platform Instance
 ## SSO for Administrators
 **URL:** https://docs.netskope.com/en/configure-single-sign-on-for-the-netskope-ui/
 **Last Modified:** 2026-06-11T19:14:23+00:00
-**Scraped:** 2026-07-24T08:41:32.698187+00:00
+**Scraped:** 2026-07-25T08:21:42.688638+00:00
 
 SSO for Administrators - Netskope Knowledge Portal
 SSO for Administrators
@@ -54897,7 +55007,7 @@ SSO for Administrators
 ## Compromised Credentials
 **URL:** https://docs.netskope.com/en/compromised-credentials/
 **Last Modified:** 2025-08-31T01:38:59+00:00
-**Scraped:** 2026-07-24T08:41:33.979566+00:00
+**Scraped:** 2026-07-25T08:21:43.869201+00:00
 
 Compromised Credentials - Netskope Knowledge Portal
 Compromised Credentials
@@ -54982,7 +55092,7 @@ Compromised Credentials
 ## Create a High Risk Apps Report
 **URL:** https://docs.netskope.com/en/create-a-high-risk-apps-report/
 **Last Modified:** 2025-08-31T01:49:55+00:00
-**Scraped:** 2026-07-24T08:41:35.155754+00:00
+**Scraped:** 2026-07-25T08:21:45.045585+00:00
 
 Create a High Risk Apps Report - Netskope Knowledge Portal
 Create a High Risk Apps Report
@@ -55040,7 +55150,7 @@ Create a High Risk Apps Report
 ## Create a High Risk Software Development Apps Report
 **URL:** https://docs.netskope.com/en/create-a-high-risk-software-development-apps-report/
 **Last Modified:** 2025-08-31T01:49:56+00:00
-**Scraped:** 2026-07-24T08:41:36.327949+00:00
+**Scraped:** 2026-07-25T08:21:46.221542+00:00
 
 Create a High Risk Software Development Apps Report - Netskope Knowledge Portal
 Create a High Risk Software Development Apps Report
@@ -55108,7 +55218,7 @@ Create a High Risk Software Development Apps Report
 ## Create a High Risk Users Report
 **URL:** https://docs.netskope.com/en/create-a-high-risk-users-report/
 **Last Modified:** 2025-08-31T01:49:55+00:00
-**Scraped:** 2026-07-24T08:41:37.499740+00:00
+**Scraped:** 2026-07-25T08:21:47.542514+00:00
 
 Create a High Risk Users Report - Netskope Knowledge Portal
 Create a High Risk Users Report
@@ -55176,7 +55286,7 @@ Create a High Risk Users Report
 ## Create a Page Events Custom Report
 **URL:** https://docs.netskope.com/en/create-a-page-events-custom-report-110782/
 **Last Modified:** 2025-08-31T01:49:55+00:00
-**Scraped:** 2026-07-24T08:41:38.675275+00:00
+**Scraped:** 2026-07-25T08:21:48.719887+00:00
 
 Create a Page Events Custom Report - Netskope Knowledge Portal
 Create a Page Events Custom Report
@@ -55248,7 +55358,7 @@ Create a Page Events Custom Report
 ## Create a Report Using the Template Library
 **URL:** https://docs.netskope.com/en/create-a-report-using-the-template-library/
 **Last Modified:** 2025-08-31T01:49:53+00:00
-**Scraped:** 2026-07-24T08:41:39.846661+00:00
+**Scraped:** 2026-07-25T08:21:49.890292+00:00
 
 Create a Report Using the Template Library - Netskope Knowledge Portal
 Create a Report Using the Template Library
@@ -55281,7 +55391,7 @@ Create a Report Using the Template Library
 ## Create a Top Apps by Usage Report
 **URL:** https://docs.netskope.com/en/create-a-top-apps-by-usage-report/
 **Last Modified:** 2025-08-31T01:49:59+00:00
-**Scraped:** 2026-07-24T08:41:41.015197+00:00
+**Scraped:** 2026-07-25T08:21:51.061822+00:00
 
 Create a Top Apps by Usage Report - Netskope Knowledge Portal
 Create a Top Apps by Usage Report
@@ -55311,7 +55421,7 @@ Create a Top Apps by Usage Report
 ## Create a Top 10 Biggest Uploaders Report
 **URL:** https://docs.netskope.com/en/create-a-top-10-biggest-uploaders-report/
 **Last Modified:** 2025-08-31T01:49:58+00:00
-**Scraped:** 2026-07-24T08:41:42.202921+00:00
+**Scraped:** 2026-07-25T08:21:52.231488+00:00
 
 Create a Top 10 Biggest Uploaders Report - Netskope Knowledge Portal
 Create a Top 10 Biggest Uploaders Report
@@ -55341,7 +55451,7 @@ Create a Top 10 Biggest Uploaders Report
 ## Create a Storage Scan Policy
 **URL:** https://docs.netskope.com/en/create-a-storage-scan-policy/
 **Last Modified:** 2025-08-31T01:39:33+00:00
-**Scraped:** 2026-07-24T08:41:43.386030+00:00
+**Scraped:** 2026-07-25T08:21:53.411400+00:00
 
 Create a Storage Scan Policy - Netskope Knowledge Portal
 Create a Storage Scan Policy
@@ -55535,7 +55645,7 @@ Create a Storage Scan Policy
 ## Create a Report
 **URL:** https://docs.netskope.com/en/create-a-report/
 **Last Modified:** 2025-08-31T01:49:53+00:00
-**Scraped:** 2026-07-24T08:41:44.565173+00:00
+**Scraped:** 2026-07-25T08:21:54.574246+00:00
 
 Create a Report - Netskope Knowledge Portal
 Create a Report
@@ -55636,7 +55746,7 @@ Create a Report
 ## Create a Retro Scan Job
 **URL:** https://docs.netskope.com/en/create-a-retro-scan-job/
 **Last Modified:** 2025-08-31T01:39:38+00:00
-**Scraped:** 2026-07-24T08:41:45.739535+00:00
+**Scraped:** 2026-07-25T08:21:55.755747+00:00
 
 Create a Retro Scan Job - Netskope Knowledge Portal
 Create a Retro Scan Job
@@ -55721,7 +55831,7 @@ Create a Retro Scan Job
 ## Create a Top Users Accessing High Risk Software Development Apps Report
 **URL:** https://docs.netskope.com/en/create-a-top-users-accessing-high-risk-software-development-apps-report/
 **Last Modified:** 2025-08-31T01:49:56+00:00
-**Scraped:** 2026-07-24T08:41:48.191646+00:00
+**Scraped:** 2026-07-25T08:21:58.105231+00:00
 
 Create a Top Users Accessing High Risk Software Development Apps Report - Netskope Knowledge Portal
 Create a Top Users Accessing High Risk Software Development Apps Report
@@ -55768,7 +55878,7 @@ Create a Top Users Accessing High Risk Software Development Apps Report
 ## Create a User Role
 **URL:** https://docs.netskope.com/en/create-a-user-role/
 **Last Modified:** 2025-08-31T01:39:23+00:00
-**Scraped:** 2026-07-24T08:41:49.365889+00:00
+**Scraped:** 2026-07-25T08:21:59.282332+00:00
 
 Create a User Role - Netskope Knowledge Portal
 Create a User Role
@@ -55867,7 +55977,7 @@ Create a User Role
 ## Create a Users Accessing a Specific App Report
 **URL:** https://docs.netskope.com/en/create-a-users-accessing-a-specific-app-report/
 **Last Modified:** 2025-08-31T01:49:57+00:00
-**Scraped:** 2026-07-24T08:41:50.538703+00:00
+**Scraped:** 2026-07-25T08:22:00.554007+00:00
 
 Create a Users Accessing a Specific App Report - Netskope Knowledge Portal
 Create a Users Accessing a Specific App Report
@@ -55926,7 +56036,7 @@ Create a Users Accessing a Specific App Report
 ## Create an Azure Instance
 **URL:** https://docs.netskope.com/en/create-an-azure-instance/
 **Last Modified:** 2025-08-31T01:39:29+00:00
-**Scraped:** 2026-07-24T08:41:52.890205+00:00
+**Scraped:** 2026-07-25T08:22:02.967183+00:00
 
 Create an Azure Instance - Netskope Knowledge Portal
 Create an Azure Instance
@@ -56022,7 +56132,7 @@ Create an Azure Instance
 ## Create an Apps Used in Risky Countries Report
 **URL:** https://docs.netskope.com/en/create-an-apps-used-in-risky-countries-report/
 **Last Modified:** 2025-08-31T01:49:57+00:00
-**Scraped:** 2026-07-24T08:41:54.061700+00:00
+**Scraped:** 2026-07-25T08:22:04.142580+00:00
 
 Create an Apps Used in Risky Countries Report - Netskope Knowledge Portal
 Create an Apps Used in Risky Countries Report
@@ -56078,7 +56188,7 @@ Create an Apps Used in Risky Countries Report
 ## Create Custom Reports
 **URL:** https://docs.netskope.com/en/create-custom-reports/
 **Last Modified:** 2025-08-31T01:49:54+00:00
-**Scraped:** 2026-07-24T08:41:55.219151+00:00
+**Scraped:** 2026-07-25T08:22:05.346618+00:00
 
 Create Custom Reports - Netskope Knowledge Portal
 Create Custom Reports
@@ -56098,7 +56208,7 @@ Create Custom Reports
 ## Create an AWS Instance
 **URL:** https://docs.netskope.com/en/create-an-aws-instance/
 **Last Modified:** 2025-08-31T01:39:29+00:00
-**Scraped:** 2026-07-24T08:41:56.400054+00:00
+**Scraped:** 2026-07-25T08:22:06.586154+00:00
 
 Create an AWS Instance - Netskope Knowledge Portal
 Create an AWS Instance
@@ -56213,7 +56323,7 @@ Create an AWS Instance
 ## Create PDF Reports
 **URL:** https://docs.netskope.com/en/create-pdf-reports/
 **Last Modified:** 2026-06-19T16:10:19+00:00
-**Scraped:** 2026-07-24T08:41:57.580331+00:00
+**Scraped:** 2026-07-25T08:22:07.755447+00:00
 
 Create PDF Reports - Netskope Knowledge Portal
 Create PDF Reports
@@ -56226,7 +56336,7 @@ Create PDF Reports
 ## Create Policy Groups
 **URL:** https://docs.netskope.com/en/create-policy-groups/
 **Last Modified:** 2025-08-31T01:38:47+00:00
-**Scraped:** 2026-07-24T08:41:58.742340+00:00
+**Scraped:** 2026-07-25T08:22:08.933084+00:00
 
 Create Policy Groups - Netskope Knowledge Portal
 Create Policy Groups
@@ -56290,7 +56400,7 @@ Create Policy Groups
 ## Create Predefined Reports
 **URL:** https://docs.netskope.com/en/create-predefined-reports/
 **Last Modified:** 2025-08-31T01:49:58+00:00
-**Scraped:** 2026-07-24T08:41:59.910010+00:00
+**Scraped:** 2026-07-25T08:22:10.149473+00:00
 
 Create Predefined Reports - Netskope Knowledge Portal
 Create Predefined Reports
@@ -56306,7 +56416,7 @@ Create Predefined Reports
 ## Create Roles
 **URL:** https://docs.netskope.com/en/create-roles/
 **Last Modified:** 2025-08-31T01:38:48+00:00
-**Scraped:** 2026-07-24T08:42:01.081368+00:00
+**Scraped:** 2026-07-25T08:22:11.320609+00:00
 
 Create Roles - Netskope Knowledge Portal
 Create Roles
@@ -56375,7 +56485,7 @@ Create Roles
 ## Creating Expressions
 **URL:** https://docs.netskope.com/en/creating-expressions/
 **Last Modified:** 2025-08-31T01:49:27+00:00
-**Scraped:** 2026-07-24T08:42:02.251044+00:00
+**Scraped:** 2026-07-25T08:22:12.671038+00:00
 
 Creating Expressions - Netskope Knowledge Portal
 Creating Expressions
@@ -56455,7 +56565,7 @@ Creating Expressions
 ## Creating Visualizations and Graphs
 **URL:** https://docs.netskope.com/en/creating-visualizations-and-graphs/
 **Last Modified:** 2025-08-31T01:49:42+00:00
-**Scraped:** 2026-07-24T08:42:04.625117+00:00
+**Scraped:** 2026-07-25T08:22:15.113360+00:00
 
 Creating Visualizations and Graphs - Netskope Knowledge Portal
 Creating Visualizations and Graphs
@@ -56519,7 +56629,7 @@ Creating Visualizations and Graphs
 ## Creating Reports (Dashboards)
 **URL:** https://docs.netskope.com/en/creating-reports-dashboards/
 **Last Modified:** 2025-08-31T01:49:40+00:00
-**Scraped:** 2026-07-24T08:42:05.802681+00:00
+**Scraped:** 2026-07-25T08:22:16.289126+00:00
 
 Creating Reports (Dashboards) - Netskope Knowledge Portal
 Creating Reports (Dashboards)
@@ -56587,7 +56697,7 @@ Creating Reports (Dashboards)
 ## Cross-filtering Dashboards
 **URL:** https://docs.netskope.com/en/cross-filtering-dashboards/
 **Last Modified:** 2025-08-31T01:49:44+00:00
-**Scraped:** 2026-07-24T08:42:06.964397+00:00
+**Scraped:** 2026-07-25T08:22:17.461842+00:00
 
 Cross-filtering Dashboards - Netskope Knowledge Portal
 Cross-filtering Dashboards
@@ -56626,7 +56736,7 @@ Cross-filtering Dashboards
 ## Dashboard Widgets Library
 **URL:** https://docs.netskope.com/en/dashboard-widgets-library/
 **Last Modified:** 2025-08-31T01:38:56+00:00
-**Scraped:** 2026-07-24T08:42:08.179102+00:00
+**Scraped:** 2026-07-25T08:22:18.672533+00:00
 
 Dashboard Widgets Library - Netskope Knowledge Portal
 Dashboard Widgets Library
@@ -56922,7 +57032,7 @@ Dashboard Widgets Library
 ## Custom Report Queries
 **URL:** https://docs.netskope.com/en/custom-report-queries/
 **Last Modified:** 2025-08-31T01:49:57+00:00
-**Scraped:** 2026-07-24T08:42:09.440955+00:00
+**Scraped:** 2026-07-25T08:22:19.907509+00:00
 
 Custom Report Queries - Netskope Knowledge Portal
 Custom Report Queries
@@ -57849,7 +57959,7 @@ Custom Report Queries
 ## Default Filters View
 **URL:** https://docs.netskope.com/en/default-filters-view/
 **Last Modified:** 2025-08-31T01:49:43+00:00
-**Scraped:** 2026-07-24T08:42:10.618461+00:00
+**Scraped:** 2026-07-25T08:22:21.082768+00:00
 
 Default Filters View - Netskope Knowledge Portal
 Default Filters View
@@ -57883,7 +57993,7 @@ Default Filters View
 ## Delete a User Role
 **URL:** https://docs.netskope.com/en/delete-a-user-role/
 **Last Modified:** 2025-08-31T01:39:24+00:00
-**Scraped:** 2026-07-24T08:42:11.792415+00:00
+**Scraped:** 2026-07-25T08:22:22.255232+00:00
 
 Delete a User Role - Netskope Knowledge Portal
 Delete a User Role
@@ -57944,7 +58054,7 @@ Delete a User Role
 ## Delete a Storage Scan Policy
 **URL:** https://docs.netskope.com/en/delete-a-storage-scan-policy/
 **Last Modified:** 2025-08-31T01:39:37+00:00
-**Scraped:** 2026-07-24T08:42:13.108947+00:00
+**Scraped:** 2026-07-25T08:22:23.524237+00:00
 
 Delete a Storage Scan Policy - Netskope Knowledge Portal
 Delete a Storage Scan Policy
@@ -57984,7 +58094,7 @@ Delete a Storage Scan Policy
 ## Delete an App Instance
 **URL:** https://docs.netskope.com/en/delete-an-app-instance/
 **Last Modified:** 2025-08-31T01:39:26+00:00
-**Scraped:** 2026-07-24T08:42:14.297281+00:00
+**Scraped:** 2026-07-25T08:22:24.716974+00:00
 
 Delete an App Instance - Netskope Knowledge Portal
 Delete an App Instance
@@ -58055,7 +58165,7 @@ Delete an App Instance
 ## Delete an App Instance
 **URL:** https://docs.netskope.com/en/delete-an-app-instance-354240/
 **Last Modified:** 2025-09-01T13:22:29+00:00
-**Scraped:** 2026-07-24T08:42:15.471954+00:00
+**Scraped:** 2026-07-25T08:22:25.888837+00:00
 
 Delete an App Instance - Netskope Knowledge Portal
 Delete an App Instance
@@ -58126,7 +58236,7 @@ Delete an App Instance
 ## Delete Retro Scan Jobs
 **URL:** https://docs.netskope.com/en/delete-retro-scan-jobs/
 **Last Modified:** 2025-08-31T01:39:39+00:00
-**Scraped:** 2026-07-24T08:42:16.645265+00:00
+**Scraped:** 2026-07-25T08:22:27.072940+00:00
 
 Delete Retro Scan Jobs - Netskope Knowledge Portal
 Delete Retro Scan Jobs
@@ -58164,7 +58274,7 @@ Delete Retro Scan Jobs
 ## Delete an IaaS Instance
 **URL:** https://docs.netskope.com/en/delete-an-iaas-instance/
 **Last Modified:** 2025-08-31T01:39:32+00:00
-**Scraped:** 2026-07-24T08:42:17.817316+00:00
+**Scraped:** 2026-07-25T08:22:28.243696+00:00
 
 Delete an IaaS Instance - Netskope Knowledge Portal
 Delete an IaaS Instance
@@ -58195,7 +58305,7 @@ Delete an IaaS Instance
 ## Enable or Disable a Storage Scan Policy
 **URL:** https://docs.netskope.com/en/enable-or-disable-a-storage-scan-policy/
 **Last Modified:** 2025-08-31T01:39:35+00:00
-**Scraped:** 2026-07-24T08:42:18.990436+00:00
+**Scraped:** 2026-07-25T08:22:29.427870+00:00
 
 Enable or Disable a Storage Scan Policy - Netskope Knowledge Portal
 Enable or Disable a Storage Scan Policy
@@ -58248,7 +58358,7 @@ Enable or Disable a Storage Scan Policy
 ## Netskope Client Enforcement
 **URL:** https://docs.netskope.com/en/enforcement/
 **Last Modified:** 2026-07-22T06:47:49+00:00
-**Scraped:** 2026-07-24T08:42:20.165101+00:00
+**Scraped:** 2026-07-25T08:22:30.596243+00:00
 
 Netskope Client Enforcement - Netskope Knowledge Portal
 Netskope Client Enforcement
@@ -58267,7 +58377,7 @@ Netskope Client Enforcement
 ## Evaluate Apps
 **URL:** https://docs.netskope.com/en/evaluate-apps/
 **Last Modified:** 2026-07-07T15:01:17+00:00
-**Scraped:** 2026-07-24T08:42:21.403700+00:00
+**Scraped:** 2026-07-25T08:22:31.947704+00:00
 
 Evaluate Apps - Netskope Knowledge Portal
 Evaluate Apps
@@ -59355,7 +59465,7 @@ Evaluate Apps
 ## Exploring Data in Reports
 **URL:** https://docs.netskope.com/en/exploring-data-in-reports/
 **Last Modified:** 2025-08-31T01:49:26+00:00
-**Scraped:** 2026-07-24T08:42:25.025970+00:00
+**Scraped:** 2026-07-25T08:22:35.584437+00:00
 
 Exploring Data in Reports - Netskope Knowledge Portal
 Exploring Data in Reports
@@ -59414,7 +59524,7 @@ Exploring Data in Reports
 ## Explore Page
 **URL:** https://docs.netskope.com/en/explore-page/
 **Last Modified:** 2025-10-21T18:32:59+00:00
-**Scraped:** 2026-07-24T08:42:26.301126+00:00
+**Scraped:** 2026-07-25T08:22:36.769081+00:00
 
 Explore Page - Netskope Knowledge Portal
 Explore Page
@@ -59497,7 +59607,7 @@ Explore Page
 ## Filter Expressions
 **URL:** https://docs.netskope.com/en/filter-expressions/
 **Last Modified:** 2025-08-31T01:49:28+00:00
-**Scraped:** 2026-07-24T08:42:27.479728+00:00
+**Scraped:** 2026-07-25T08:22:38.056682+00:00
 
 Filter Expressions - Netskope Knowledge Portal
 Filter Expressions
@@ -59593,7 +59703,7 @@ Filter Expressions
 ## Evaluate Custom Rules
 **URL:** https://docs.netskope.com/en/evaluate-custom-rules/
 **Last Modified:** 2025-08-31T01:39:40+00:00
-**Scraped:** 2026-07-24T08:42:28.653493+00:00
+**Scraped:** 2026-07-25T08:22:39.273739+00:00
 
 Evaluate Custom Rules - Netskope Knowledge Portal
 Evaluate Custom Rules
@@ -59647,7 +59757,7 @@ Evaluate Custom Rules
 ## Get a CSA Scan Status
 **URL:** https://docs.netskope.com/en/get-a-csa-scan-status/
 **Last Modified:** 2025-08-31T01:39:32+00:00
-**Scraped:** 2026-07-24T08:42:29.812003+00:00
+**Scraped:** 2026-07-25T08:22:40.451965+00:00
 
 Get a CSA Scan Status - Netskope Knowledge Portal
 Get a CSA Scan Status
@@ -59700,7 +59810,7 @@ Get a CSA Scan Status
 ## Filtering and Limiting Data
 **URL:** https://docs.netskope.com/en/filtering-and-limiting-data/
 **Last Modified:** 2025-08-31T01:49:26+00:00
-**Scraped:** 2026-07-24T08:42:30.994932+00:00
+**Scraped:** 2026-07-25T08:22:41.732735+00:00
 
 Filtering and Limiting Data - Netskope Knowledge Portal
 Filtering and Limiting Data
@@ -59787,7 +59897,7 @@ Filtering and Limiting Data
 ## Forecasting in Visualizations
 **URL:** https://docs.netskope.com/en/forecasting-in-visualizations/
 **Last Modified:** 2025-08-31T01:49:46+00:00
-**Scraped:** 2026-07-24T08:42:32.167997+00:00
+**Scraped:** 2026-07-25T08:22:42.913820+00:00
 
 Forecasting in Visualizations - Netskope Knowledge Portal
 Forecasting in Visualizations
@@ -59821,7 +59931,7 @@ Forecasting in Visualizations
 ## Functions and Operators
 **URL:** https://docs.netskope.com/en/functions-and-operators/
 **Last Modified:** 2025-08-31T01:49:28+00:00
-**Scraped:** 2026-07-24T08:42:33.377806+00:00
+**Scraped:** 2026-07-25T08:22:44.142800+00:00
 
 Functions and Operators - Netskope Knowledge Portal
 Functions and Operators
@@ -60164,7 +60274,7 @@ Functions and Operators
 ## Get Instance Info
 **URL:** https://docs.netskope.com/en/get-instance-info/
 **Last Modified:** 2025-08-31T01:39:30+00:00
-**Scraped:** 2026-07-24T08:42:35.830736+00:00
+**Scraped:** 2026-07-25T08:22:46.604937+00:00
 
 Get Instance Info - Netskope Knowledge Portal
 Get Instance Info
@@ -60319,7 +60429,7 @@ Get Instance Info
 ## Get Alerts Data
 **URL:** https://docs.netskope.com/en/get-alerts-data/
 **Last Modified:** 2025-08-31T01:39:19+00:00
-**Scraped:** 2026-07-24T08:42:37.020168+00:00
+**Scraped:** 2026-07-25T08:22:47.794057+00:00
 
 Get Alerts Data - Netskope Knowledge Portal
 Get Alerts Data
@@ -60683,7 +60793,7 @@ Get Alerts Data
 ## Get Advanced Analytics Data
 **URL:** https://docs.netskope.com/en/get-advanced-analytics-data/
 **Last Modified:** 2025-09-13T06:45:25+00:00
-**Scraped:** 2026-07-24T08:42:39.384298+00:00
+**Scraped:** 2026-07-25T08:22:50.266435+00:00
 
 Get Advanced Analytics Data - Netskope Knowledge Portal
 Get Advanced Analytics Data
@@ -61169,7 +61279,7 @@ Get Advanced Analytics Data
 ## Get Events Data
 **URL:** https://docs.netskope.com/en/get-events-data/
 **Last Modified:** 2025-08-31T01:39:19+00:00
-**Scraped:** 2026-07-24T08:42:40.563081+00:00
+**Scraped:** 2026-07-25T08:22:51.449240+00:00
 
 Get Events Data - Netskope Knowledge Portal
 Get Events Data
@@ -61324,7 +61434,7 @@ Get Events Data
 ## Get Prep Info to Create an AWS Role
 **URL:** https://docs.netskope.com/en/get-prep-info-to-create-an-aws-role/
 **Last Modified:** 2025-08-31T01:39:29+00:00
-**Scraped:** 2026-07-24T08:42:41.752286+00:00
+**Scraped:** 2026-07-25T08:22:52.622351+00:00
 
 Get Prep Info to Create an AWS Role - Netskope Knowledge Portal
 Get Prep Info to Create an AWS Role
@@ -61374,7 +61484,7 @@ Get Prep Info to Create an AWS Role
 ## Get Reports Data
 **URL:** https://docs.netskope.com/en/get-reports-data/
 **Last Modified:** 2025-08-31T01:39:20+00:00
-**Scraped:** 2026-07-24T08:42:44.218635+00:00
+**Scraped:** 2026-07-25T08:22:55.077651+00:00
 
 Get Reports Data - Netskope Knowledge Portal
 Get Reports Data
@@ -61456,7 +61566,7 @@ Get Reports Data
 ## Get Storage Scan Policy Details
 **URL:** https://docs.netskope.com/en/get-storage-scan-policy-details/
 **Last Modified:** 2025-08-31T01:39:36+00:00
-**Scraped:** 2026-07-24T08:42:45.395046+00:00
+**Scraped:** 2026-07-25T08:22:56.255127+00:00
 
 Get Storage Scan Policy Details - Netskope Knowledge Portal
 Get Storage Scan Policy Details
@@ -61494,7 +61604,7 @@ Get Storage Scan Policy Details
 ## Grant Netskope to Access an IaaS Instance
 **URL:** https://docs.netskope.com/en/grant-netskope-to-access-an-iaas-instance/
 **Last Modified:** 2025-08-31T01:39:30+00:00
-**Scraped:** 2026-07-24T08:42:47.850730+00:00
+**Scraped:** 2026-07-25T08:22:58.705848+00:00
 
 Grant Netskope to Access an IaaS Instance - Netskope Knowledge Portal
 Grant Netskope to Access an IaaS Instance
@@ -61528,7 +61638,7 @@ Grant Netskope to Access an IaaS Instance
 ## Get User Configuration Data
 **URL:** https://docs.netskope.com/en/get-user-configuration-data/
 **Last Modified:** 2025-08-31T01:39:22+00:00
-**Scraped:** 2026-07-24T08:42:49.025328+00:00
+**Scraped:** 2026-07-25T08:22:59.886742+00:00
 
 Get User Configuration Data - Netskope Knowledge Portal
 Get User Configuration Data
@@ -61563,7 +61673,7 @@ Get User Configuration Data
 ## Group Custom Dimension
 **URL:** https://docs.netskope.com/en/group-custom-dimension/
 **Last Modified:** 2025-08-31T01:49:32+00:00
-**Scraped:** 2026-07-24T08:42:50.213930+00:00
+**Scraped:** 2026-07-25T08:23:01.165314+00:00
 
 Group Custom Dimension - Netskope Knowledge Portal
 Group Custom Dimension
@@ -61627,7 +61737,7 @@ Group Custom Dimension
 ## Header Insertion
 **URL:** https://docs.netskope.com/en/header-insertion/
 **Last Modified:** 2025-08-31T01:38:32+00:00
-**Scraped:** 2026-07-24T08:42:52.684761+00:00
+**Scraped:** 2026-07-25T08:23:03.641137+00:00
 
 Header Insertion - Netskope Knowledge Portal
 Header Insertion
@@ -61711,7 +61821,7 @@ Header Insertion
 ## Industry Benchmarks Dashboard
 **URL:** https://docs.netskope.com/en/industry-benchmarks-dashboard/
 **Last Modified:** 2025-08-31T01:49:36+00:00
-**Scraped:** 2026-07-24T08:42:53.863176+00:00
+**Scraped:** 2026-07-25T08:23:04.821696+00:00
 
 Industry Benchmarks Dashboard - Netskope Knowledge Portal
 Industry Benchmarks Dashboard
@@ -61762,7 +61872,7 @@ Industry Benchmarks Dashboard
 ## IP Allowlisting
 **URL:** https://docs.netskope.com/en/ip-allowlisting/
 **Last Modified:** 2026-05-09T05:12:35+00:00
-**Scraped:** 2026-07-24T08:42:55.134938+00:00
+**Scraped:** 2026-07-25T08:23:06.099540+00:00
 
 IP Allowlisting - Netskope Knowledge Portal
 IP Allowlisting
@@ -61789,7 +61899,7 @@ IP Allowlisting
 ## Incidents
 **URL:** https://docs.netskope.com/en/incidents/
 **Last Modified:** 2025-08-31T01:38:56+00:00
-**Scraped:** 2026-07-24T08:42:56.314558+00:00
+**Scraped:** 2026-07-25T08:23:07.270472+00:00
 
 Incidents - Netskope Knowledge Portal
 Incidents
@@ -61816,7 +61926,7 @@ Incidents
 ## Incidents Interface
 **URL:** https://docs.netskope.com/en/incidents-interface/
 **Last Modified:** 2025-08-31T01:38:57+00:00
-**Scraped:** 2026-07-24T08:42:57.508457+00:00
+**Scraped:** 2026-07-25T08:23:08.459958+00:00
 
 Incidents Interface - Netskope Knowledge Portal
 Incidents Interface
@@ -61985,7 +62095,7 @@ Incidents Interface
 ## Legal Hold
 **URL:** https://docs.netskope.com/en/legal-hold/
 **Last Modified:** 2025-08-31T01:39:00+00:00
-**Scraped:** 2026-07-24T08:42:58.689681+00:00
+**Scraped:** 2026-07-25T08:23:09.637982+00:00
 
 Legal Hold - Netskope Knowledge Portal
 Legal Hold
@@ -62013,7 +62123,7 @@ Legal Hold
 ## List Retro Scan Jobs
 **URL:** https://docs.netskope.com/en/list-retro-scan-jobs/
 **Last Modified:** 2025-08-31T01:39:38+00:00
-**Scraped:** 2026-07-24T08:42:59.863694+00:00
+**Scraped:** 2026-07-25T08:23:10.816395+00:00
 
 List Retro Scan Jobs - Netskope Knowledge Portal
 List Retro Scan Jobs
@@ -62060,7 +62170,7 @@ List Retro Scan Jobs
 ## List App Instances
 **URL:** https://docs.netskope.com/en/list-app-instances/
 **Last Modified:** 2025-08-31T01:39:25+00:00
-**Scraped:** 2026-07-24T08:43:01.053751+00:00
+**Scraped:** 2026-07-25T08:23:12.008965+00:00
 
 List App Instances - Netskope Knowledge Portal
 List App Instances
@@ -62165,7 +62275,7 @@ List App Instances
 ## List App Instances
 **URL:** https://docs.netskope.com/en/list-app-instances-354239/
 **Last Modified:** 2025-09-01T13:22:28+00:00
-**Scraped:** 2026-07-24T08:43:02.275112+00:00
+**Scraped:** 2026-07-25T08:23:13.185305+00:00
 
 List App Instances - Netskope Knowledge Portal
 List App Instances
@@ -62270,7 +62380,7 @@ List App Instances
 ## List Storage Scan Policies
 **URL:** https://docs.netskope.com/en/list-storage-scan-policies/
 **Last Modified:** 2025-08-31T01:39:35+00:00
-**Scraped:** 2026-07-24T08:43:03.456454+00:00
+**Scraped:** 2026-07-25T08:23:14.382340+00:00
 
 List Storage Scan Policies - Netskope Knowledge Portal
 List Storage Scan Policies
@@ -62377,7 +62487,7 @@ List Storage Scan Policies
 ## List User Roles
 **URL:** https://docs.netskope.com/en/list-user-roles/
 **Last Modified:** 2025-08-31T01:39:24+00:00
-**Scraped:** 2026-07-24T08:43:04.630388+00:00
+**Scraped:** 2026-07-25T08:23:15.557878+00:00
 
 List User Roles - Netskope Knowledge Portal
 List User Roles
@@ -62426,7 +62536,7 @@ List User Roles
 ## Manage App Instances for Inline Enforcement
 **URL:** https://docs.netskope.com/en/manage-app-instances-for-inline-enforcement/
 **Last Modified:** 2025-08-31T01:39:24+00:00
-**Scraped:** 2026-07-24T08:43:05.805759+00:00
+**Scraped:** 2026-07-25T08:23:16.730113+00:00
 
 Manage App Instances for Inline Enforcement - Netskope Knowledge Portal
 Manage App Instances for Inline Enforcement
@@ -62442,7 +62552,7 @@ Manage App Instances for Inline Enforcement
 ## Manage Legal Hold Files
 **URL:** https://docs.netskope.com/en/manage-legal-hold-files/
 **Last Modified:** 2025-08-31T01:39:26+00:00
-**Scraped:** 2026-07-24T08:43:06.986254+00:00
+**Scraped:** 2026-07-25T08:23:18.002941+00:00
 
 Manage Legal Hold Files - Netskope Knowledge Portal
 Manage Legal Hold Files
@@ -62527,7 +62637,7 @@ Manage Legal Hold Files
 ## Manage Bucket Lists for a Constraint Profile
 **URL:** https://docs.netskope.com/en/manage-bucket-lists-for-a-constraint-profile/
 **Last Modified:** 2025-08-31T01:39:39+00:00
-**Scraped:** 2026-07-24T08:43:08.166256+00:00
+**Scraped:** 2026-07-25T08:23:19.181230+00:00
 
 Manage Bucket Lists for a Constraint Profile - Netskope Knowledge Portal
 Manage Bucket Lists for a Constraint Profile
@@ -62659,7 +62769,7 @@ Manage Bucket Lists for a Constraint Profile
 ## Manage App Instances for Inline Enforcement
 **URL:** https://docs.netskope.com/en/manage-app-instances-for-inline-enforcement-354236/
 **Last Modified:** 2025-09-01T13:22:29+00:00
-**Scraped:** 2026-07-24T08:43:09.339921+00:00
+**Scraped:** 2026-07-25T08:23:20.350622+00:00
 
 Manage App Instances for Inline Enforcement - Netskope Knowledge Portal
 Manage App Instances for Inline Enforcement
@@ -62675,7 +62785,7 @@ Manage App Instances for Inline Enforcement
 ## Manage Storage Scan Policies
 **URL:** https://docs.netskope.com/en/manage-storage-scan-policies/
 **Last Modified:** 2025-08-31T01:39:33+00:00
-**Scraped:** 2026-07-24T08:43:11.689001+00:00
+**Scraped:** 2026-07-25T08:23:22.844716+00:00
 
 Manage Storage Scan Policies - Netskope Knowledge Portal
 Manage Storage Scan Policies
@@ -62696,7 +62806,7 @@ Manage Storage Scan Policies
 ## Manage Multiple AWS Accounts
 **URL:** https://docs.netskope.com/en/manage-multiple-aws-accounts/
 **Last Modified:** 2025-08-31T01:39:32+00:00
-**Scraped:** 2026-07-24T08:43:12.871752+00:00
+**Scraped:** 2026-07-25T08:23:24.042233+00:00
 
 Manage Multiple AWS Accounts - Netskope Knowledge Portal
 Manage Multiple AWS Accounts
@@ -62924,7 +63034,7 @@ Manage Multiple AWS Accounts
 ## Manage User Roles
 **URL:** https://docs.netskope.com/en/manage-user-roles/
 **Last Modified:** 2025-08-31T01:39:23+00:00
-**Scraped:** 2026-07-24T08:43:14.053846+00:00
+**Scraped:** 2026-07-25T08:23:25.216849+00:00
 
 Manage User Roles - Netskope Knowledge Portal
 Manage User Roles
@@ -62944,7 +63054,7 @@ Manage User Roles
 ## Manage Quarantine Files
 **URL:** https://docs.netskope.com/en/manage-quarantine-files/
 **Last Modified:** 2025-08-31T01:39:26+00:00
-**Scraped:** 2026-07-24T08:43:15.237309+00:00
+**Scraped:** 2026-07-25T08:23:26.397680+00:00
 
 Manage Quarantine Files - Netskope Knowledge Portal
 Manage Quarantine Files
@@ -63060,7 +63170,7 @@ Manage Quarantine Files
 ## Manage Retro Scan Jobs
 **URL:** https://docs.netskope.com/en/manage-retro-scan-jobs/
 **Last Modified:** 2025-08-31T01:39:38+00:00
-**Scraped:** 2026-07-24T08:43:16.508645+00:00
+**Scraped:** 2026-07-25T08:23:27.566964+00:00
 
 Manage Retro Scan Jobs - Netskope Knowledge Portal
 Manage Retro Scan Jobs
@@ -63076,7 +63186,7 @@ Manage Retro Scan Jobs
 ## Merging Results from Different Explores
 **URL:** https://docs.netskope.com/en/merging-results-from-different-explores/
 **Last Modified:** 2025-10-17T17:28:26+00:00
-**Scraped:** 2026-07-24T08:43:18.850894+00:00
+**Scraped:** 2026-07-25T08:23:30.017686+00:00
 
 Merging Results from Different Explores - Netskope Knowledge Portal
 Merging Results from Different Explores
@@ -63117,7 +63227,7 @@ Merging Results from Different Explores
 ## Multi-Factor Authentication
 **URL:** https://docs.netskope.com/en/multi-factor-authentication/
 **Last Modified:** 2026-07-13T18:07:53+00:00
-**Scraped:** 2026-07-24T08:43:20.033291+00:00
+**Scraped:** 2026-07-25T08:23:31.194620+00:00
 
 Multi-Factor Authentication - Netskope Knowledge Portal
 Multi-Factor Authentication
@@ -63201,8 +63311,9 @@ Multi-Factor Authentication
 ## Netskope Platform API Endpoints for REST API v1
 **URL:** https://docs.netskope.com/en/netskope-platform-rest-apis/
 **Last Modified:** 2025-08-31T01:39:19+00:00
-**Scraped:** 2026-07-24T08:43:23.643562+00:00
+**Scraped:** 2026-07-25T08:23:34.735395+00:00
 
+Netskope Platform API Endpoints for REST API v1 - Netskope Knowledge Portal
 Netskope Platform API Endpoints for REST API v1
 These REST API endpoints enable you to get alert, event, and client data, manage quarantine and legal hold files, update hash file and URL lists, and perform several other functions. For CSA REST API information, refer to
 Public Cloud API Endpoints for REST API v1
@@ -63232,7 +63343,7 @@ Netskope Platform API Endpoints for REST API v1
 ## Netskope Dashboards
 **URL:** https://docs.netskope.com/en/netskope-dashboards/
 **Last Modified:** 2025-08-31T01:38:56+00:00
-**Scraped:** 2026-07-24T08:43:24.826415+00:00
+**Scraped:** 2026-07-25T08:23:35.911424+00:00
 
 Netskope Dashboards - Netskope Knowledge Portal
 Netskope Dashboards
@@ -63281,7 +63392,7 @@ Netskope Dashboards
 ## Netskope UI and Dashboard
 **URL:** https://docs.netskope.com/en/netskope-ui-and-dashboard/
 **Last Modified:** 2025-08-31T01:38:55+00:00
-**Scraped:** 2026-07-24T08:43:25.997018+00:00
+**Scraped:** 2026-07-25T08:23:37.179075+00:00
 
 Netskope UI and Dashboard - Netskope Knowledge Portal
 Netskope UI and Dashboard
@@ -63296,7 +63407,7 @@ Netskope UI and Dashboard
 ## Public Cloud API Endpoints for REST API v1
 **URL:** https://docs.netskope.com/en/public-cloud-api-endpoints-for-rest-api-v1/
 **Last Modified:** 2025-08-31T01:39:28+00:00
-**Scraped:** 2026-07-24T08:43:28.448800+00:00
+**Scraped:** 2026-07-25T08:23:39.587424+00:00
 
 Public Cloud API Endpoints for REST API v1 - Netskope Knowledge Portal
 Public Cloud API Endpoints for REST API v1
@@ -63330,7 +63441,7 @@ Public Cloud API Endpoints for REST API v1
 ## Page Events FAQs
 **URL:** https://docs.netskope.com/en/page-events-faqs/
 **Last Modified:** 2026-04-13T13:03:11+00:00
-**Scraped:** 2026-07-24T08:43:29.628117+00:00
+**Scraped:** 2026-07-25T08:23:40.819043+00:00
 
 Page Events FAQs - Netskope Knowledge Portal
 Page Events FAQs
@@ -63404,7 +63515,7 @@ Page Events FAQs
 ## Private Applications
 **URL:** https://docs.netskope.com/en/private-applications/
 **Last Modified:** 2026-07-23T00:36:57+00:00
-**Scraped:** 2026-07-24T08:43:30.803183+00:00
+**Scraped:** 2026-07-25T08:23:42.003836+00:00
 
 Private Applications - Netskope Knowledge Portal
 Private Applications
@@ -63464,7 +63575,7 @@ Private Applications
 ## Privacy Notice
 **URL:** https://docs.netskope.com/en/privacy-notice/
 **Last Modified:** 2025-08-31T01:38:52+00:00
-**Scraped:** 2026-07-24T08:43:32.074504+00:00
+**Scraped:** 2026-07-25T08:23:43.183706+00:00
 
 Privacy Notice - Netskope Knowledge Portal
 Privacy Notice
@@ -63532,7 +63643,7 @@ Privacy Notice
 ## Other Types of Reports
 **URL:** https://docs.netskope.com/en/other-types-of-reports/
 **Last Modified:** 2025-08-31T01:49:59+00:00
-**Scraped:** 2026-07-24T08:43:33.244040+00:00
+**Scraped:** 2026-07-25T08:23:44.350178+00:00
 
 Other Types of Reports - Netskope Knowledge Portal
 Other Types of Reports
@@ -63547,7 +63658,7 @@ Other Types of Reports
 ## Reports Interface
 **URL:** https://docs.netskope.com/en/reports-interface/
 **Last Modified:** 2026-06-10T04:48:39+00:00
-**Scraped:** 2026-07-24T08:43:34.540409+00:00
+**Scraped:** 2026-07-25T08:23:45.533279+00:00
 
 Reports Interface - Netskope Knowledge Portal
 Reports Interface
@@ -63626,7 +63737,7 @@ Reports Interface
 ## RBAC Best Practices
 **URL:** https://docs.netskope.com/en/rbac-best-practices/
 **Last Modified:** 2025-08-31T01:38:50+00:00
-**Scraped:** 2026-07-24T08:43:35.711861+00:00
+**Scraped:** 2026-07-25T08:23:46.701517+00:00
 
 RBAC Best Practices - Netskope Knowledge Portal
 RBAC Best Practices
@@ -63642,7 +63753,7 @@ RBAC Best Practices
 ## REST API Events and Alerts Response Descriptions
 **URL:** https://docs.netskope.com/en/rest-api-events-and-alerts-response-descriptions/
 **Last Modified:** 2025-08-31T01:39:20+00:00
-**Scraped:** 2026-07-24T08:43:37.087881+00:00
+**Scraped:** 2026-07-25T08:23:48.225808+00:00
 
 REST API Events and Alerts Response Descriptions - Netskope Knowledge Portal
 REST API Events and Alerts Response Descriptions
@@ -65857,7 +65968,7 @@ REST API Events and Alerts Response Descriptions
 ## REST API Reports
 **URL:** https://docs.netskope.com/en/rest-api-reports/
 **Last Modified:** 2025-08-31T01:50:00+00:00
-**Scraped:** 2026-07-24T08:43:38.268945+00:00
+**Scraped:** 2026-07-25T08:23:49.403668+00:00
 
 REST API Reports - Netskope Knowledge Portal
 REST API Reports
@@ -65957,9 +66068,8 @@ REST API Reports
 ## REST API v2 Overview
 **URL:** https://docs.netskope.com/en/rest-api-v2-overview-312207/
 **Last Modified:** 2026-01-22T22:32:29+00:00
-**Scraped:** 2026-07-24T08:43:39.443596+00:00
+**Scraped:** 2026-07-25T08:23:50.560586+00:00
 
-REST API v2 Overview - Netskope Knowledge Portal
 REST API v2 Overview
 Netskope REST APIs use an auth token to make authorized calls to the API. Netskope REST APIs provide access to resources via URI paths. The token must be used in every REST API call for the tenant. The token can be created for use with specified APIs in the Netskope UI by going to
 Settings
@@ -66003,7 +66113,7 @@ REST API v2 Overview
 ## REST API v1 Overview
 **URL:** https://docs.netskope.com/en/rest-api-v1-overview/
 **Last Modified:** 2025-08-31T01:39:18+00:00
-**Scraped:** 2026-07-24T08:43:40.623932+00:00
+**Scraped:** 2026-07-25T08:23:51.736056+00:00
 
 REST API v1 Overview - Netskope Knowledge Portal
 REST API v1 Overview
@@ -66108,7 +66218,7 @@ REST API v1 Overview
 ## Revert a Storage Scan Policy Change
 **URL:** https://docs.netskope.com/en/revert-a-storage-scan-policy-change/
 **Last Modified:** 2025-08-31T01:39:36+00:00
-**Scraped:** 2026-07-24T08:43:41.800884+00:00
+**Scraped:** 2026-07-25T08:23:52.905432+00:00
 
 Revert a Storage Scan Policy Change - Netskope Knowledge Portal
 Revert a Storage Scan Policy Change
@@ -66146,7 +66256,7 @@ Revert a Storage Scan Policy Change
 ## Set Idle Timeout
 **URL:** https://docs.netskope.com/en/set-idle-timeout-179029/
 **Last Modified:** 2025-08-31T01:38:53+00:00
-**Scraped:** 2026-07-24T08:43:43.096307+00:00
+**Scraped:** 2026-07-25T08:23:54.075386+00:00
 
 Set Idle Timeout - Netskope Knowledge Portal
 Set Idle Timeout
@@ -66165,7 +66275,7 @@ Set Idle Timeout
 ## Scheduling Advanced Analytics Dashboards
 **URL:** https://docs.netskope.com/en/scheduling-advanced-analytics-dashboards/
 **Last Modified:** 2025-08-31T01:49:38+00:00
-**Scraped:** 2026-07-24T08:43:44.285738+00:00
+**Scraped:** 2026-07-25T08:23:55.257093+00:00
 
 Scheduling Advanced Analytics Dashboards - Netskope Knowledge Portal
 Scheduling Advanced Analytics Dashboards
@@ -66306,7 +66416,7 @@ Scheduling Advanced Analytics Dashboards
 ## Search Filters and Query Fields
 **URL:** https://docs.netskope.com/en/search-filters-and-query-fields/
 **Last Modified:** 2025-08-31T01:38:59+00:00
-**Scraped:** 2026-07-24T08:43:45.477370+00:00
+**Scraped:** 2026-07-25T08:23:56.432965+00:00
 
 Search Filters and Query Fields - Netskope Knowledge Portal
 Search Filters and Query Fields
@@ -66475,7 +66585,7 @@ Search Filters and Query Fields
 ## Save Skope IT Searches
 **URL:** https://docs.netskope.com/en/save-skope-it-searches/
 **Last Modified:** 2026-06-02T05:00:42+00:00
-**Scraped:** 2026-07-24T08:43:46.651747+00:00
+**Scraped:** 2026-07-25T08:23:57.602729+00:00
 
 Save Skope IT Searches - Netskope Knowledge Portal
 Save Skope IT Searches
@@ -66515,7 +66625,7 @@ Save Skope IT Searches
 ## Set Password Expiration
 **URL:** https://docs.netskope.com/en/set-password-expiration/
 **Last Modified:** 2025-08-31T01:38:49+00:00
-**Scraped:** 2026-07-24T08:43:49.094943+00:00
+**Scraped:** 2026-07-25T08:23:59.943333+00:00
 
 Set Password Expiration - Netskope Knowledge Portal
 Set Password Expiration
@@ -66539,7 +66649,7 @@ Set Password Expiration
 ## Set Password Expiration
 **URL:** https://docs.netskope.com/en/set-password-expiration-179030/
 **Last Modified:** 2025-09-16T08:31:21+00:00
-**Scraped:** 2026-07-24T08:43:51.440839+00:00
+**Scraped:** 2026-07-25T08:24:02.293766+00:00
 
 Set Password Expiration - Netskope Knowledge Portal
 Set Password Expiration
@@ -66563,7 +66673,7 @@ Set Password Expiration
 ## Set Idle Timeout
 **URL:** https://docs.netskope.com/en/set-idle-timeout/
 **Last Modified:** 2025-09-01T12:45:32+00:00
-**Scraped:** 2026-07-24T08:43:52.613037+00:00
+**Scraped:** 2026-07-25T08:24:03.463026+00:00
 
 Set Idle Timeout - Netskope Knowledge Portal
 Set Idle Timeout
@@ -66582,7 +66692,7 @@ Set Idle Timeout
 ## Skope IT Pages
 **URL:** https://docs.netskope.com/en/skope-it-pages/
 **Last Modified:** 2025-08-31T01:39:01+00:00
-**Scraped:** 2026-07-24T08:43:53.792605+00:00
+**Scraped:** 2026-07-25T08:24:04.635171+00:00
 
 Skope IT Pages - Netskope Knowledge Portal
 Skope IT Pages
@@ -66599,7 +66709,7 @@ Skope IT Pages
 ## Sharing Netskope Advanced Analytics Dashboards
 **URL:** https://docs.netskope.com/en/sharing-netskope-advanced-analytics-dashboards/
 **Last Modified:** 2025-08-31T01:49:37+00:00
-**Scraped:** 2026-07-24T08:43:54.966928+00:00
+**Scraped:** 2026-07-25T08:24:05.807639+00:00
 
 Sharing Netskope Advanced Analytics Dashboards - Netskope Knowledge Portal
 Sharing Netskope Advanced Analytics Dashboards
@@ -66642,7 +66752,7 @@ Sharing Netskope Advanced Analytics Dashboards
 ## Skope IT Query Language Search Examples
 **URL:** https://docs.netskope.com/en/skope-it-query-language-search-examples/
 **Last Modified:** 2026-07-02T03:32:38+00:00
-**Scraped:** 2026-07-24T08:43:56.154281+00:00
+**Scraped:** 2026-07-25T08:24:06.997628+00:00
 
 Skope IT Query Language Search Examples - Netskope Knowledge Portal
 Skope IT Query Language Search Examples
@@ -66777,7 +66887,7 @@ Skope IT Query Language Search Examples
 ## Skope IT Query Language
 **URL:** https://docs.netskope.com/en/skope-it-query-language/
 **Last Modified:** 2025-08-31T01:39:07+00:00
-**Scraped:** 2026-07-24T08:43:57.436321+00:00
+**Scraped:** 2026-07-25T08:24:08.226501+00:00
 
 Skope IT Query Language - Netskope Knowledge Portal
 Skope IT Query Language
@@ -66921,7 +67031,7 @@ Skope IT Query Language
 ## Start a CSA Scan
 **URL:** https://docs.netskope.com/en/start-a-csa-scan/
 **Last Modified:** 2025-08-31T01:39:32+00:00
-**Scraped:** 2026-07-24T08:43:58.615675+00:00
+**Scraped:** 2026-07-25T08:24:09.402990+00:00
 
 Start a CSA Scan - Netskope Knowledge Portal
 Start a CSA Scan
@@ -67011,7 +67121,7 @@ Start a CSA Scan
 ## Stop Retro Scan Jobs
 **URL:** https://docs.netskope.com/en/stop-retro-scan-jobs/
 **Last Modified:** 2025-08-31T01:39:39+00:00
-**Scraped:** 2026-07-24T08:43:59.790425+00:00
+**Scraped:** 2026-07-25T08:24:10.584982+00:00
 
 Stop Retro Scan Jobs - Netskope Knowledge Portal
 Stop Retro Scan Jobs
@@ -67049,7 +67159,7 @@ Stop Retro Scan Jobs
 ## Table Chart Options
 **URL:** https://docs.netskope.com/en/table-chart-options/
 **Last Modified:** 2025-08-31T01:49:42+00:00
-**Scraped:** 2026-07-24T08:44:00.969395+00:00
+**Scraped:** 2026-07-25T08:24:11.753369+00:00
 
 Table Chart Options - Netskope Knowledge Portal
 Table Chart Options
@@ -67072,7 +67182,7 @@ Table Chart Options
 ## Supported and Unsupported Visualization Types
 **URL:** https://docs.netskope.com/en/supported-and-unsupported-visualization-types/
 **Last Modified:** 2025-08-31T01:49:44+00:00
-**Scraped:** 2026-07-24T08:44:02.161375+00:00
+**Scraped:** 2026-07-25T08:24:13.098393+00:00
 
 Supported and Unsupported Visualization Types - Netskope Knowledge Portal
 Supported and Unsupported Visualization Types
@@ -67108,7 +67218,7 @@ Supported and Unsupported Visualization Types
 ## Tag Apps
 **URL:** https://docs.netskope.com/en/tag-apps/
 **Last Modified:** 2026-06-19T16:08:53+00:00
-**Scraped:** 2026-07-24T08:44:03.332319+00:00
+**Scraped:** 2026-07-25T08:24:14.388215+00:00
 
 Tag Apps - Netskope Knowledge Portal
 Tag Apps
@@ -67183,7 +67293,7 @@ Tag Apps
 ## Update a File Hash List
 **URL:** https://docs.netskope.com/en/update-a-file-hash-list/
 **Last Modified:** 2025-08-31T01:39:27+00:00
-**Scraped:** 2026-07-24T08:44:04.504488+00:00
+**Scraped:** 2026-07-25T08:24:15.561285+00:00
 
 Update a File Hash List - Netskope Knowledge Portal
 Update a File Hash List
@@ -67210,7 +67320,7 @@ Update a File Hash List
 ## Update a Storage Scan Policy
 **URL:** https://docs.netskope.com/en/update-a-storage-scan-policy/
 **Last Modified:** 2025-08-31T01:39:37+00:00
-**Scraped:** 2026-07-24T08:44:06.967561+00:00
+**Scraped:** 2026-07-25T08:24:18.022936+00:00
 
 Update a Storage Scan Policy - Netskope Knowledge Portal
 Update a Storage Scan Policy
@@ -67408,7 +67518,7 @@ Update a Storage Scan Policy
 ## Update a GCP Instance
 **URL:** https://docs.netskope.com/en/update-a-gcp-instance/
 **Last Modified:** 2025-08-31T01:39:31+00:00
-**Scraped:** 2026-07-24T08:44:08.144238+00:00
+**Scraped:** 2026-07-25T08:24:19.203062+00:00
 
 Update a GCP Instance - Netskope Knowledge Portal
 Update a GCP Instance
@@ -67489,7 +67599,7 @@ Update a GCP Instance
 ## Update an App Instance
 **URL:** https://docs.netskope.com/en/update-an-app-instance/
 **Last Modified:** 2025-08-31T01:39:25+00:00
-**Scraped:** 2026-07-24T08:44:09.332791+00:00
+**Scraped:** 2026-07-25T08:24:20.481049+00:00
 
 Update an App Instance - Netskope Knowledge Portal
 Update an App Instance
@@ -67578,7 +67688,7 @@ Update an App Instance
 ## Update an App Instance
 **URL:** https://docs.netskope.com/en/update-an-app-instance-354238/
 **Last Modified:** 2025-09-01T13:22:28+00:00
-**Scraped:** 2026-07-24T08:44:10.509900+00:00
+**Scraped:** 2026-07-25T08:24:21.658009+00:00
 
 Update an App Instance - Netskope Knowledge Portal
 Update an App Instance
@@ -67667,7 +67777,7 @@ Update an App Instance
 ## Update a User Role
 **URL:** https://docs.netskope.com/en/update-a-user-role/
 **Last Modified:** 2025-08-31T01:39:23+00:00
-**Scraped:** 2026-07-24T08:44:11.687684+00:00
+**Scraped:** 2026-07-25T08:24:22.836273+00:00
 
 Update a User Role - Netskope Knowledge Portal
 Update a User Role
@@ -67771,7 +67881,7 @@ Update a User Role
 ## Update an AWS Instance
 **URL:** https://docs.netskope.com/en/update-an-aws-instance/
 **Last Modified:** 2025-08-31T01:39:31+00:00
-**Scraped:** 2026-07-24T08:44:12.966710+00:00
+**Scraped:** 2026-07-25T08:24:24.113432+00:00
 
 Update an AWS Instance - Netskope Knowledge Portal
 Update an AWS Instance
@@ -67888,7 +67998,7 @@ Update an AWS Instance
 ## Update a URL List
 **URL:** https://docs.netskope.com/en/update-a-url-list/
 **Last Modified:** 2025-08-31T01:39:27+00:00
-**Scraped:** 2026-07-24T08:44:14.327020+00:00
+**Scraped:** 2026-07-25T08:24:25.284885+00:00
 
 Update a URL List - Netskope Knowledge Portal
 Update a URL List
@@ -67919,7 +68029,7 @@ Update a URL List
 ## User Interface
 **URL:** https://docs.netskope.com/en/user-interface/
 **Last Modified:** 2025-08-31T01:38:55+00:00
-**Scraped:** 2026-07-24T08:44:15.597311+00:00
+**Scraped:** 2026-07-25T08:24:26.454578+00:00
 
 User Interface - Netskope Knowledge Portal
 User Interface
@@ -67942,8 +68052,9 @@ User Interface
 ## Using Double Ranks
 **URL:** https://docs.netskope.com/en/using-double-ranks/
 **Last Modified:** 2025-08-31T01:49:31+00:00
-**Scraped:** 2026-07-24T08:44:16.771087+00:00
+**Scraped:** 2026-07-25T08:24:27.623341+00:00
 
+Using Double Ranks - Netskope Knowledge Portal
 Using Double Ranks
 Double Ranks enable you to rank the top X of one dimension within the top Y of another dimension. Foe example, if you want to rank the top 5 users by # of bytes uploaded, and within those users you want to know the top 3 applications.
 To create a widget with Double Ranks:
@@ -67959,7 +68070,7 @@ Using Double Ranks
 ## User Confidence
 **URL:** https://docs.netskope.com/en/user-confidence-index-in-policies/
 **Last Modified:** 2026-04-22T09:03:00+00:00
-**Scraped:** 2026-07-24T08:44:17.947231+00:00
+**Scraped:** 2026-07-25T08:24:28.793569+00:00
 
 User Confidence - Netskope Knowledge Portal
 User Confidence
@@ -67996,7 +68107,7 @@ User Confidence
 ## Update an Azure Instance
 **URL:** https://docs.netskope.com/en/update-an-azure-instance/
 **Last Modified:** 2025-08-31T01:39:31+00:00
-**Scraped:** 2026-07-24T08:44:19.224623+00:00
+**Scraped:** 2026-07-25T08:24:29.971011+00:00
 
 Update an Azure Instance - Netskope Knowledge Portal
 Update an Azure Instance
@@ -68092,7 +68203,7 @@ Update an Azure Instance
 ## Using Cross-filters with Standard Dashboard Filters
 **URL:** https://docs.netskope.com/en/using-cross-filters-with-standard-dashboard-filters/
 **Last Modified:** 2025-08-31T01:49:45+00:00
-**Scraped:** 2026-07-24T08:44:20.399611+00:00
+**Scraped:** 2026-07-25T08:24:31.241507+00:00
 
 Using Cross-filters with Standard Dashboard Filters - Netskope Knowledge Portal
 Using Cross-filters with Standard Dashboard Filters
@@ -68131,7 +68242,7 @@ Using Cross-filters with Standard Dashboard Filters
 ## Using Google Maps in Visualizations
 **URL:** https://docs.netskope.com/en/using-google-maps-in-visualizations/
 **Last Modified:** 2025-08-31T01:49:45+00:00
-**Scraped:** 2026-07-24T08:44:21.572869+00:00
+**Scraped:** 2026-07-25T08:24:32.417396+00:00
 
 Using Google Maps in Visualizations - Netskope Knowledge Portal
 Using Google Maps in Visualizations
@@ -68176,7 +68287,7 @@ Using Google Maps in Visualizations
 ## Using Period over Period
 **URL:** https://docs.netskope.com/en/using-period-over-period/
 **Last Modified:** 2025-08-31T01:49:30+00:00
-**Scraped:** 2026-07-24T08:44:22.747615+00:00
+**Scraped:** 2026-07-25T08:24:33.603863+00:00
 
 Using Period over Period - Netskope Knowledge Portal
 Using Period over Period
@@ -68199,7 +68310,7 @@ Using Period over Period
 ## Using Pivot Ranks
 **URL:** https://docs.netskope.com/en/using-pivot-ranks/
 **Last Modified:** 2025-10-15T04:06:21+00:00
-**Scraped:** 2026-07-24T08:44:23.918765+00:00
+**Scraped:** 2026-07-25T08:24:34.775058+00:00
 
 Using Pivot Ranks - Netskope Knowledge Portal
 Using Pivot Ranks
@@ -68221,7 +68332,7 @@ Using Pivot Ranks
 ## Using Range Selection
 **URL:** https://docs.netskope.com/en/using-range-selection/
 **Last Modified:** 2025-08-31T01:49:45+00:00
-**Scraped:** 2026-07-24T08:44:25.091333+00:00
+**Scraped:** 2026-07-25T08:24:35.954951+00:00
 
 Using Range Selection - Netskope Knowledge Portal
 Using Range Selection
@@ -68249,7 +68360,7 @@ Using Range Selection
 ## Using Table Calculations
 **URL:** https://docs.netskope.com/en/using-table-calculations/
 **Last Modified:** 2025-08-31T01:49:29+00:00
-**Scraped:** 2026-07-24T08:44:26.268065+00:00
+**Scraped:** 2026-07-25T08:24:37.133071+00:00
 
 Using Table Calculations - Netskope Knowledge Portal
 Using Table Calculations
@@ -68298,7 +68409,7 @@ Using Table Calculations
 ## View a Bucket List
 **URL:** https://docs.netskope.com/en/view-a-bucket-list/
 **Last Modified:** 2025-08-31T01:39:43+00:00
-**Scraped:** 2026-07-24T08:44:27.444117+00:00
+**Scraped:** 2026-07-25T08:24:38.402324+00:00
 
 View a Bucket List - Netskope Knowledge Portal
 View a Bucket List
@@ -68336,7 +68447,7 @@ View a Bucket List
 ## Using the REST API v2 UCI Impact Endpoints
 **URL:** https://docs.netskope.com/en/using-the-rest-api-v2-uci-impact-endpoints/
 **Last Modified:** 2025-08-31T01:39:12+00:00
-**Scraped:** 2026-07-24T08:44:28.634573+00:00
+**Scraped:** 2026-07-25T08:24:39.585105+00:00
 
 Using the REST API v2 UCI Impact Endpoints - Netskope Knowledge Portal
 Using the REST API v2 UCI Impact Endpoints
@@ -68574,8 +68685,9 @@ Using the REST API v2 UCI Impact Endpoints
 ## View Security Assessment Violations
 **URL:** https://docs.netskope.com/en/view-security-assessment-violations/
 **Last Modified:** 2025-08-31T01:39:42+00:00
-**Scraped:** 2026-07-24T08:44:31.089234+00:00
+**Scraped:** 2026-07-25T08:24:41.966758+00:00
 
+View Security Assessment Violations - Netskope Knowledge Portal
 View Security Assessment Violations
 Use this endpoint to get the security assessment violations from the latest scan or as a snapshot of time. This endpoint also replicates the input and output shown at
 Cloud Infrastructure > Compliance > Raw Findings
@@ -68789,7 +68901,7 @@ View Security Assessment Violations
 ## View Cloud Provider Inventory
 **URL:** https://docs.netskope.com/en/view-cloud-provider-inventory/
 **Last Modified:** 2025-08-31T01:39:43+00:00
-**Scraped:** 2026-07-24T08:44:32.276596+00:00
+**Scraped:** 2026-07-25T08:24:43.149425+00:00
 
 View Cloud Provider Inventory - Netskope Knowledge Portal
 View Cloud Provider Inventory
@@ -69024,7 +69136,7 @@ View Cloud Provider Inventory
 ## Widget Library
 **URL:** https://docs.netskope.com/en/widget-library/
 **Last Modified:** 2025-08-31T01:49:54+00:00
-**Scraped:** 2026-07-24T08:44:33.463657+00:00
+**Scraped:** 2026-07-25T08:24:44.334615+00:00
 
 Widget Library - Netskope Knowledge Portal
 Widget Library
@@ -69254,7 +69366,7 @@ Widget Library
 ## Visualization Types
 **URL:** https://docs.netskope.com/en/visualization-types/
 **Last Modified:** 2025-08-31T01:49:42+00:00
-**Scraped:** 2026-07-24T08:44:34.739083+00:00
+**Scraped:** 2026-07-25T08:24:45.515284+00:00
 
 Visualization Types - Netskope Knowledge Portal
 Visualization Types
@@ -69295,7 +69407,7 @@ Visualization Types
 ## Web Usage Summary
 **URL:** https://docs.netskope.com/en/web-usage-summary-110786/
 **Last Modified:** 2025-08-31T01:49:59+00:00
-**Scraped:** 2026-07-24T08:44:35.912841+00:00
+**Scraped:** 2026-07-25T08:24:46.695235+00:00
 
 Web Usage Summary - Netskope Knowledge Portal
 Web Usage Summary
@@ -69341,7 +69453,7 @@ Web Usage Summary
 ## View Specific App Details
 **URL:** https://docs.netskope.com/en/view-specific-app-details/
 **Last Modified:** 2026-06-19T16:07:41+00:00
-**Scraped:** 2026-07-24T08:44:37.085349+00:00
+**Scraped:** 2026-07-25T08:24:47.867983+00:00
 
 View Specific App Details - Netskope Knowledge Portal
 View Specific App Details
@@ -69387,7 +69499,7 @@ View Specific App Details
 ## Access the Management Plane Appliance UI
 **URL:** https://docs.netskope.com/en/access-the-management-plane-appliance-ui/
 **Last Modified:** 2025-08-31T01:43:24+00:00
-**Scraped:** 2026-07-24T08:44:39.544426+00:00
+**Scraped:** 2026-07-25T08:24:50.225481+00:00
 
 Access the Management Plane Appliance UI - Netskope Knowledge Portal
 Access the Management Plane Appliance UI
@@ -69408,7 +69520,7 @@ Access the Management Plane Appliance UI
 ## Advanced Configurations
 **URL:** https://docs.netskope.com/en/advanced-configurations/
 **Last Modified:** 2025-08-31T01:43:33+00:00
-**Scraped:** 2026-07-24T08:44:40.715450+00:00
+**Scraped:** 2026-07-25T08:24:51.394473+00:00
 
 Advanced Configurations - Netskope Knowledge Portal
 Advanced Configurations
@@ -69427,7 +69539,7 @@ Advanced Configurations
 ## Audit Events Generated by the Appliance CLI
 **URL:** https://docs.netskope.com/en/audit-events-generated-by-the-appliance-cli-116004/
 **Last Modified:** 2025-08-31T01:43:14+00:00
-**Scraped:** 2026-07-24T08:44:43.080740+00:00
+**Scraped:** 2026-07-25T08:24:53.838596+00:00
 
 Audit Events Generated by the Appliance CLI - Netskope Knowledge Portal
 Audit Events Generated by the Appliance CLI
@@ -69470,7 +69582,7 @@ Audit Events Generated by the Appliance CLI
 ## Audit Events Generated by the Appliance CLI
 **URL:** https://docs.netskope.com/en/audit-events-generated-by-the-appliance-cli-144882/
 **Last Modified:** 2025-09-01T12:48:59+00:00
-**Scraped:** 2026-07-24T08:44:45.429108+00:00
+**Scraped:** 2026-07-25T08:24:56.202596+00:00
 
 Audit Events Generated by the Appliance CLI - Netskope Knowledge Portal
 Audit Events Generated by the Appliance CLI
@@ -69513,7 +69625,7 @@ Audit Events Generated by the Appliance CLI
 ## Advanced Options
 **URL:** https://docs.netskope.com/en/advanced-options/
 **Last Modified:** 2025-08-31T01:42:56+00:00
-**Scraped:** 2026-07-24T08:44:46.698516+00:00
+**Scraped:** 2026-07-25T08:24:57.358194+00:00
 
 Advanced Options - Netskope Knowledge Portal
 Advanced Options
@@ -69534,7 +69646,7 @@ Advanced Options
 ## Back Up the Management Plane Appliance Configuration and Events
 **URL:** https://docs.netskope.com/en/back-up-the-management-plane-appliance-configuration-and-events/
 **Last Modified:** 2025-08-31T01:43:14+00:00
-**Scraped:** 2026-07-24T08:44:47.877729+00:00
+**Scraped:** 2026-07-25T08:24:58.534065+00:00
 
 Back Up the Management Plane Appliance Configuration and Events - Netskope Knowledge Portal
 Back Up the Management Plane Appliance Configuration and Events
@@ -69601,7 +69713,7 @@ Back Up the Management Plane Appliance Configuration and Events
 ## Audit Events Generated by the Appliance CLI
 **URL:** https://docs.netskope.com/en/audit-events-generated-by-the-appliance-cli/
 **Last Modified:** 2025-09-01T12:48:37+00:00
-**Scraped:** 2026-07-24T08:44:49.071368+00:00
+**Scraped:** 2026-07-25T08:24:59.704133+00:00
 
 Audit Events Generated by the Appliance CLI - Netskope Knowledge Portal
 Audit Events Generated by the Appliance CLI
@@ -69644,7 +69756,7 @@ Audit Events Generated by the Appliance CLI
 ## Change the Default Subnet
 **URL:** https://docs.netskope.com/en/change-the-default-subnet-144883/
 **Last Modified:** 2025-08-31T01:42:55+00:00
-**Scraped:** 2026-07-24T08:44:50.243966+00:00
+**Scraped:** 2026-07-25T08:25:00.882974+00:00
 
 Change the Default Subnet - Netskope Knowledge Portal
 Change the Default Subnet
@@ -69666,7 +69778,7 @@ Change the Default Subnet
 ## Change the Default Subnet
 **URL:** https://docs.netskope.com/en/change-the-default-subnet/
 **Last Modified:** 2025-09-01T12:48:38+00:00
-**Scraped:** 2026-07-24T08:44:51.418678+00:00
+**Scraped:** 2026-07-25T08:25:02.101829+00:00
 
 Change the Default Subnet - Netskope Knowledge Portal
 Change the Default Subnet
@@ -69688,7 +69800,7 @@ Change the Default Subnet
 ## CDPP for Appliance
 **URL:** https://docs.netskope.com/en/cdpp-for-appliance/
 **Last Modified:** 2025-08-31T01:43:19+00:00
-**Scraped:** 2026-07-24T08:44:52.589132+00:00
+**Scraped:** 2026-07-25T08:25:03.279718+00:00
 
 CDPP for Appliance - Netskope Knowledge Portal
 CDPP for Appliance
@@ -69720,7 +69832,7 @@ CDPP for Appliance
 ## Configure a SOCKS Proxy
 **URL:** https://docs.netskope.com/en/configure-a-socks-proxy/
 **Last Modified:** 2025-08-31T01:43:19+00:00
-**Scraped:** 2026-07-24T08:44:53.761905+00:00
+**Scraped:** 2026-07-25T08:25:04.450794+00:00
 
 Configure a SOCKS Proxy - Netskope Knowledge Portal
 Configure a SOCKS Proxy
@@ -69749,7 +69861,7 @@ Configure a SOCKS Proxy
 ## Configure a SOCKS Proxy
 **URL:** https://docs.netskope.com/en/configure-a-socks-proxy-144854/
 **Last Modified:** 2025-09-01T12:48:29+00:00
-**Scraped:** 2026-07-24T08:44:56.107322+00:00
+**Scraped:** 2026-07-25T08:25:06.798340+00:00
 
 Configure a SOCKS Proxy - Netskope Knowledge Portal
 Configure a SOCKS Proxy
@@ -69783,7 +69895,7 @@ Configure a SOCKS Proxy
 ## Configure Additional Interfaces with a Static IP
 **URL:** https://docs.netskope.com/en/configure-additional-interfaces-with-a-static-ip/
 **Last Modified:** 2025-08-31T01:42:42+00:00
-**Scraped:** 2026-07-24T08:44:58.469363+00:00
+**Scraped:** 2026-07-25T08:25:09.144015+00:00
 
 Configure Additional Interfaces with a Static IP - Netskope Knowledge Portal
 Configure Additional Interfaces with a Static IP
@@ -69848,7 +69960,7 @@ Configure Additional Interfaces with a Static IP
 ## Configure an Upstream Proxy
 **URL:** https://docs.netskope.com/en/configure-an-upstream-proxy/
 **Last Modified:** 2026-07-06T13:18:35+00:00
-**Scraped:** 2026-07-24T08:44:59.740911+00:00
+**Scraped:** 2026-07-25T08:25:10.319493+00:00
 
 Configure an Upstream Proxy - Netskope Knowledge Portal
 Configure an Upstream Proxy
@@ -69894,7 +70006,7 @@ Configure an Upstream Proxy
 ## Configure Appliances in a Cluster for Scalability
 **URL:** https://docs.netskope.com/en/configure-appliances-in-a-cluster-for-scalability-159943/
 **Last Modified:** 2025-08-31T01:43:02+00:00
-**Scraped:** 2026-07-24T08:45:00.916745+00:00
+**Scraped:** 2026-07-25T08:25:11.479110+00:00
 
 Configure Appliances in a Cluster for Scalability - Netskope Knowledge Portal
 Configure Appliances in a Cluster for Scalability
@@ -69928,7 +70040,7 @@ Configure Appliances in a Cluster for Scalability
 ## Configure an Upstream Proxy
 **URL:** https://docs.netskope.com/en/configure-an-upstream-proxy-144853/
 **Last Modified:** 2025-09-01T12:48:29+00:00
-**Scraped:** 2026-07-24T08:45:02.098886+00:00
+**Scraped:** 2026-07-25T08:25:12.837250+00:00
 
 Configure an Upstream Proxy - Netskope Knowledge Portal
 Configure an Upstream Proxy
@@ -69986,7 +70098,7 @@ Configure an Upstream Proxy
 ## Configure Appliances in a Cluster for Scalability
 **URL:** https://docs.netskope.com/en/configure-appliances-in-a-cluster-for-scalability/
 **Last Modified:** 2025-09-01T12:49:05+00:00
-**Scraped:** 2026-07-24T08:45:03.274964+00:00
+**Scraped:** 2026-07-25T08:25:14.010549+00:00
 
 Configure Appliances in a Cluster for Scalability - Netskope Knowledge Portal
 Configure Appliances in a Cluster for Scalability
@@ -70020,7 +70132,7 @@ Configure Appliances in a Cluster for Scalability
 ## Configure Blue Coat Encrypted TAP
 **URL:** https://docs.netskope.com/en/configure-blue-coat-encrypted-tap/
 **Last Modified:** 2025-08-31T01:43:29+00:00
-**Scraped:** 2026-07-24T08:45:05.618902+00:00
+**Scraped:** 2026-07-25T08:25:16.344822+00:00
 
 Configure Blue Coat Encrypted TAP - Netskope Knowledge Portal
 Configure Blue Coat Encrypted TAP
@@ -70062,7 +70174,7 @@ Configure Blue Coat Encrypted TAP
 ## Configure Certificates
 **URL:** https://docs.netskope.com/en/configure-certificates-115995/
 **Last Modified:** 2025-09-01T12:48:33+00:00
-**Scraped:** 2026-07-24T08:45:06.893826+00:00
+**Scraped:** 2026-07-25T08:25:17.519498+00:00
 
 Configure Certificates - Netskope Knowledge Portal
 Configure Certificates
@@ -70138,7 +70250,7 @@ Configure Certificates
 ## Configure an NTP Server
 **URL:** https://docs.netskope.com/en/configure-ntp-server/
 **Last Modified:** 2025-08-31T01:43:23+00:00
-**Scraped:** 2026-07-24T08:45:11.675243+00:00
+**Scraped:** 2026-07-25T08:25:22.204756+00:00
 
 Configure an NTP Server - Netskope Knowledge Portal
 Configure an NTP Server
@@ -70153,7 +70265,7 @@ Configure an NTP Server
 ## Configure RADIUS Authentication
 **URL:** https://docs.netskope.com/en/configure-radius-authentication-144876/
 **Last Modified:** 2025-08-31T01:42:57+00:00
-**Scraped:** 2026-07-24T08:45:14.034947+00:00
+**Scraped:** 2026-07-25T08:25:24.600745+00:00
 
 Configure RADIUS Authentication - Netskope Knowledge Portal
 Configure RADIUS Authentication
@@ -70195,7 +70307,7 @@ Configure RADIUS Authentication
 ## Configure RADIUS Authentication
 **URL:** https://docs.netskope.com/en/configure-radius-authentication/
 **Last Modified:** 2025-09-01T12:48:37+00:00
-**Scraped:** 2026-07-24T08:45:15.219734+00:00
+**Scraped:** 2026-07-25T08:25:25.835913+00:00
 
 Configure RADIUS Authentication - Netskope Knowledge Portal
 Configure RADIUS Authentication
@@ -70237,7 +70349,7 @@ Configure RADIUS Authentication
 ## Configure TAP Mode
 **URL:** https://docs.netskope.com/en/configure-tap-mode/
 **Last Modified:** 2025-08-31T01:43:28+00:00
-**Scraped:** 2026-07-24T08:45:20.005454+00:00
+**Scraped:** 2026-07-25T08:25:30.535277+00:00
 
 Configure TAP Mode - Netskope Knowledge Portal
 Configure TAP Mode
@@ -70262,7 +70374,7 @@ Configure TAP Mode
 ## Configure TCP Connection Parameters
 **URL:** https://docs.netskope.com/en/configure-tcp-connection-parameters/
 **Last Modified:** 2025-09-01T12:48:34+00:00
-**Scraped:** 2026-07-24T08:45:22.363082+00:00
+**Scraped:** 2026-07-25T08:25:32.899757+00:00
 
 Configure TCP Connection Parameters - Netskope Knowledge Portal
 Configure TCP Connection Parameters
@@ -70291,7 +70403,7 @@ Configure TCP Connection Parameters
 ## Configure the Appliance in Explicit Proxy Mode
 **URL:** https://docs.netskope.com/en/configure-the-appliance-in-explicit-proxy-mode-115994/
 **Last Modified:** 2025-09-01T12:48:33+00:00
-**Scraped:** 2026-07-24T08:45:23.548266+00:00
+**Scraped:** 2026-07-25T08:25:34.082809+00:00
 
 Configure the Appliance in Explicit Proxy Mode - Netskope Knowledge Portal
 Configure the Appliance in Explicit Proxy Mode
@@ -70414,7 +70526,7 @@ Configure the Appliance in Explicit Proxy Mode
 ## Configure the Interface for Dataplane On-Premises
 **URL:** https://docs.netskope.com/en/configure-the-interface-for-dataplane-on-premises-115990/
 **Last Modified:** 2025-09-01T12:48:31+00:00
-**Scraped:** 2026-07-24T08:45:24.723805+00:00
+**Scraped:** 2026-07-25T08:25:35.255567+00:00
 
 Configure the Interface for Dataplane On-Premises - Netskope Knowledge Portal
 Configure the Interface for Dataplane On-Premises
@@ -70447,7 +70559,7 @@ Configure the Interface for Dataplane On-Premises
 ## Configure the Interfaces
 **URL:** https://docs.netskope.com/en/configure-the-interfaces/
 **Last Modified:** 2025-08-31T01:42:41+00:00
-**Scraped:** 2026-07-24T08:45:26.001996+00:00
+**Scraped:** 2026-07-25T08:25:36.416600+00:00
 
 Configure the Interfaces - Netskope Knowledge Portal
 Configure the Interfaces
@@ -70547,7 +70659,7 @@ Configure the Interfaces
 ## Configure the On-Premises Appliance
 **URL:** https://docs.netskope.com/en/configure-the-on-premises-appliance/
 **Last Modified:** 2025-08-31T01:43:22+00:00
-**Scraped:** 2026-07-24T08:45:28.359547+00:00
+**Scraped:** 2026-07-25T08:25:38.864269+00:00
 
 Configure the On-Premises Appliance - Netskope Knowledge Portal
 Configure the On-Premises Appliance
@@ -70560,7 +70672,7 @@ Configure the On-Premises Appliance
 ## Configure the Management Appliance
 **URL:** https://docs.netskope.com/en/configure-the-management-appliance/
 **Last Modified:** 2025-08-31T01:43:23+00:00
-**Scraped:** 2026-07-24T08:45:30.811291+00:00
+**Scraped:** 2026-07-25T08:25:41.230112+00:00
 
 Configure the Management Appliance - Netskope Knowledge Portal
 Configure the Management Appliance
@@ -70673,7 +70785,7 @@ Configure the Management Appliance
 ## Configure the System and Certificates
 **URL:** https://docs.netskope.com/en/configure-the-system-and-certificates/
 **Last Modified:** 2026-06-10T17:18:19+00:00
-**Scraped:** 2026-07-24T08:45:31.996645+00:00
+**Scraped:** 2026-07-25T08:25:42.494694+00:00
 
 Configure the System and Certificates - Netskope Knowledge Portal
 Configure the System and Certificates
@@ -70791,8 +70903,9 @@ Configure the System and Certificates
 ## Configure the Virtual Appliance
 **URL:** https://docs.netskope.com/en/configure-the-virtual-appliance/
 **Last Modified:** 2025-08-31T01:42:41+00:00
-**Scraped:** 2026-07-24T08:45:33.265901+00:00
+**Scraped:** 2026-07-25T08:25:43.652505+00:00
 
+Configure the Virtual Appliance - Netskope Knowledge Portal
 Configure the Virtual Appliance
 Using the Virtual Appliance involves configuring the interface, system, and DNS server.
 To configure the Virtual Appliance:
@@ -70824,7 +70937,7 @@ Configure the Virtual Appliance
 ## Configure the Dataplane On-Premises (DPoP) Appliance
 **URL:** https://docs.netskope.com/en/configure-thedataplane-on-premises-dpop-appliance/
 **Last Modified:** 2025-09-01T12:49:27+00:00
-**Scraped:** 2026-07-24T08:45:34.440878+00:00
+**Scraped:** 2026-07-25T08:25:44.827276+00:00
 
 Configure the Dataplane On-Premises (DPoP) Appliance - Netskope Knowledge Portal
 Configure the Dataplane On-Premises (DPoP) Appliance
@@ -70871,7 +70984,7 @@ Configure the Dataplane On-Premises (DPoP) Appliance
 ## Download and Install the Software
 **URL:** https://docs.netskope.com/en/download-and-install-software/
 **Last Modified:** 2025-08-31T01:43:16+00:00
-**Scraped:** 2026-07-24T08:45:36.777431+00:00
+**Scraped:** 2026-07-25T08:25:47.164733+00:00
 
 Download and Install the Software - Netskope Knowledge Portal
 Download and Install the Software
@@ -70929,7 +71042,7 @@ Download and Install the Software
 ## Deploy High Availability for Explicit Proxy
 **URL:** https://docs.netskope.com/en/deploy-high-availability-for-explicit-proxy/
 **Last Modified:** 2025-08-31T01:43:28+00:00
-**Scraped:** 2026-07-24T08:45:37.959391+00:00
+**Scraped:** 2026-07-25T08:25:48.453700+00:00
 
 Deploy High Availability for Explicit Proxy - Netskope Knowledge Portal
 Deploy High Availability for Explicit Proxy
@@ -71035,7 +71148,7 @@ Deploy High Availability for Explicit Proxy
 ## Enable a Forward Proxy Server
 **URL:** https://docs.netskope.com/en/enable-a-forward-proxy-server/
 **Last Modified:** 2025-09-01T12:48:31+00:00
-**Scraped:** 2026-07-24T08:45:39.225695+00:00
+**Scraped:** 2026-07-25T08:25:49.621076+00:00
 
 Enable a Forward Proxy Server - Netskope Knowledge Portal
 Enable a Forward Proxy Server
@@ -71049,7 +71162,7 @@ Enable a Forward Proxy Server
 ## EOA for the Netskope On-Premises Hardware Appliance
 **URL:** https://docs.netskope.com/en/eoa-for-the-netskope-on-premises-hardware-appliance-440152/
 **Last Modified:** 2025-09-01T12:49:25+00:00
-**Scraped:** 2026-07-24T08:45:41.576460+00:00
+**Scraped:** 2026-07-25T08:25:52.047459+00:00
 
 EOA for the Netskope On-Premises Hardware Appliance - Netskope Knowledge Portal
 EOA for the Netskope On-Premises Hardware Appliance
@@ -71087,7 +71200,7 @@ EOA for the Netskope On-Premises Hardware Appliance
 ## Enable PII Privacy Settings
 **URL:** https://docs.netskope.com/en/enable-pii-privacy-settings/
 **Last Modified:** 2025-08-31T01:43:35+00:00
-**Scraped:** 2026-07-24T08:45:42.758717+00:00
+**Scraped:** 2026-07-25T08:25:53.241858+00:00
 
 Enable PII Privacy Settings - Netskope Knowledge Portal
 Enable PII Privacy Settings
@@ -71202,7 +71315,7 @@ Enable PII Privacy Settings
 ## Enable PII Privacy Settings
 **URL:** https://docs.netskope.com/en/enable-pii-privacy-settings-144881/
 **Last Modified:** 2025-09-01T12:48:58+00:00
-**Scraped:** 2026-07-24T08:45:43.942187+00:00
+**Scraped:** 2026-07-25T08:25:54.422833+00:00
 
 Enable PII Privacy Settings - Netskope Knowledge Portal
 Enable PII Privacy Settings
@@ -71320,7 +71433,7 @@ Enable PII Privacy Settings
 ## Exclude Specific Apps
 **URL:** https://docs.netskope.com/en/exclude-specific-apps-144879/
 **Last Modified:** 2025-08-31T01:42:59+00:00
-**Scraped:** 2026-07-24T08:45:46.390473+00:00
+**Scraped:** 2026-07-25T08:25:56.760348+00:00
 
 Exclude Specific Apps - Netskope Knowledge Portal
 Exclude Specific Apps
@@ -71374,7 +71487,7 @@ Exclude Specific Apps
 ## EOL/EOS for DPoP r99
 **URL:** https://docs.netskope.com/en/eol-eos-for-dpop-r99-438638/
 **Last Modified:** 2025-09-01T12:49:03+00:00
-**Scraped:** 2026-07-24T08:45:48.741118+00:00
+**Scraped:** 2026-07-25T08:25:59.098821+00:00
 
 EOL/EOS for DPoP r99 - Netskope Knowledge Portal
 EOL/EOS for DPoP r99
@@ -71410,7 +71523,7 @@ EOL/EOS for DPoP r99
 ## EOL/EOS for DPoP r99
 **URL:** https://docs.netskope.com/en/eol-eos-for-dpop-r99-438639/
 **Last Modified:** 2025-09-01T12:49:26+00:00
-**Scraped:** 2026-07-24T08:45:49.915073+00:00
+**Scraped:** 2026-07-25T08:26:00.273548+00:00
 
 EOL/EOS for DPoP r99 - Netskope Knowledge Portal
 EOL/EOS for DPoP r99
@@ -71446,7 +71559,7 @@ EOL/EOS for DPoP r99
 ## Exclude Specific Apps
 **URL:** https://docs.netskope.com/en/exclude-specific-apps/
 **Last Modified:** 2025-09-01T12:48:56+00:00
-**Scraped:** 2026-07-24T08:45:52.354799+00:00
+**Scraped:** 2026-07-25T08:26:02.633369+00:00
 
 Exclude Specific Apps - Netskope Knowledge Portal
 Exclude Specific Apps
@@ -71500,7 +71613,7 @@ Exclude Specific Apps
 ## Factory Reset Appliance
 **URL:** https://docs.netskope.com/en/factory-reset-appliance/
 **Last Modified:** 2025-08-31T01:43:17+00:00
-**Scraped:** 2026-07-24T08:45:54.792140+00:00
+**Scraped:** 2026-07-25T08:26:04.992835+00:00
 
 Factory Reset Appliance - Netskope Knowledge Portal
 Factory Reset Appliance
@@ -71538,7 +71651,7 @@ Factory Reset Appliance
 ## Factory Reset Appliance
 **URL:** https://docs.netskope.com/en/factory-reset-appliance-159953/
 **Last Modified:** 2025-09-01T12:49:02+00:00
-**Scraped:** 2026-07-24T08:45:55.963026+00:00
+**Scraped:** 2026-07-25T08:26:06.251658+00:00
 
 Factory Reset Appliance - Netskope Knowledge Portal
 Factory Reset Appliance
@@ -71576,7 +71689,7 @@ Factory Reset Appliance
 ## Fetch Events
 **URL:** https://docs.netskope.com/en/fetch-events-144880/
 **Last Modified:** 2025-08-31T01:42:59+00:00
-**Scraped:** 2026-07-24T08:45:57.153572+00:00
+**Scraped:** 2026-07-25T08:26:07.442817+00:00
 
 Fetch Events - Netskope Knowledge Portal
 Fetch Events
@@ -71703,8 +71816,9 @@ Fetch Events
 ## Fetch Events
 **URL:** https://docs.netskope.com/en/fetch-events/
 **Last Modified:** 2025-09-01T12:48:36+00:00
-**Scraped:** 2026-07-24T08:45:58.318156+00:00
+**Scraped:** 2026-07-25T08:26:08.627458+00:00
 
+Fetch Events - Netskope Knowledge Portal
 Fetch Events
 To fetch the application, connection, alert, and audit events, use these commands to create a cron job that pulls the events and sends them to a syslog server in a format specified.
 Note
@@ -71831,7 +71945,7 @@ Fetch Events
 ## Find the IP of the DNS Server
 **URL:** https://docs.netskope.com/en/find-the-ip-of-the-dns-server/
 **Last Modified:** 2025-08-31T01:42:45+00:00
-**Scraped:** 2026-07-24T08:45:59.626363+00:00
+**Scraped:** 2026-07-25T08:26:09.804537+00:00
 
 Find the IP of the DNS Server - Netskope Knowledge Portal
 Find the IP of the DNS Server
@@ -71845,7 +71959,7 @@ Find the IP of the DNS Server
 ## Get a One-Time Password
 **URL:** https://docs.netskope.com/en/get-a-one-time-password/
 **Last Modified:** 2025-08-31T01:43:15+00:00
-**Scraped:** 2026-07-24T08:46:00.796701+00:00
+**Scraped:** 2026-07-25T08:26:10.976145+00:00
 
 Get a One-Time Password - Netskope Knowledge Portal
 Get a One-Time Password
@@ -71864,7 +71978,7 @@ Get a One-Time Password
 ## Importing Configurations
 **URL:** https://docs.netskope.com/en/importing-configurations/
 **Last Modified:** 2025-09-01T12:48:35+00:00
-**Scraped:** 2026-07-24T08:46:03.164386+00:00
+**Scraped:** 2026-07-25T08:26:13.336613+00:00
 
 Importing Configurations - Netskope Knowledge Portal
 Importing Configurations
@@ -71886,9 +72000,8 @@ Importing Configurations
 ## Increase the Size of the Partition
 **URL:** https://docs.netskope.com/en/increase-the-size-of-the-partition/
 **Last Modified:** 2025-08-31T01:42:55+00:00
-**Scraped:** 2026-07-24T08:46:04.336134+00:00
+**Scraped:** 2026-07-25T08:26:14.495329+00:00
 
-Increase the Size of the Partition - Netskope Knowledge Portal
 Increase the Size of the Partition
 Netskope uses Logical Volume Manager (LVM) for OVA. In order to allocate more space to a partition, add a second virtual hard disk in the settings in the VMware console. Doing so reduces the risk of running out of disk storage capacity in the partition. You can increase the size of a partition while the OVA is running. Do not reboot the OVA.
 Important
@@ -71907,7 +72020,7 @@ Increase the Size of the Partition
 ## Install Software using SCP Push Commands
 **URL:** https://docs.netskope.com/en/install-software-using-scp-push-commands/
 **Last Modified:** 2025-08-31T01:43:17+00:00
-**Scraped:** 2026-07-24T08:46:05.493449+00:00
+**Scraped:** 2026-07-25T08:26:15.672749+00:00
 
 Install Software using SCP Push Commands - Netskope Knowledge Portal
 Install Software using SCP Push Commands
@@ -71960,7 +72073,7 @@ Install Software using SCP Push Commands
 ## Install Software using SCP Pull Commands
 **URL:** https://docs.netskope.com/en/install-software-using-scp-pull-commands/
 **Last Modified:** 2025-08-31T01:43:17+00:00
-**Scraped:** 2026-07-24T08:46:06.668038+00:00
+**Scraped:** 2026-07-25T08:26:16.850328+00:00
 
 Install Software using SCP Pull Commands - Netskope Knowledge Portal
 Install Software using SCP Pull Commands
@@ -72010,7 +72123,7 @@ Install Software using SCP Pull Commands
 ## Install the Virtual Appliance on Microsoft Hyper-V
 **URL:** https://docs.netskope.com/en/install-the-virtual-appliance-on-microsoft-hyper-v/
 **Last Modified:** 2025-08-31T01:42:43+00:00
-**Scraped:** 2026-07-24T08:46:07.895063+00:00
+**Scraped:** 2026-07-25T08:26:18.025761+00:00
 
 Install the Virtual Appliance on Microsoft Hyper-V - Netskope Knowledge Portal
 Install the Virtual Appliance on Microsoft Hyper-V
@@ -72066,7 +72179,7 @@ Install the Virtual Appliance on Microsoft Hyper-V
 ## Install the Virtual Appliance on VMware ESX 6.5 or later
 **URL:** https://docs.netskope.com/en/install-the-virtual-appliance-on-vmware-esx-6-5-or-later/
 **Last Modified:** 2025-08-31T01:42:42+00:00
-**Scraped:** 2026-07-24T08:46:09.072176+00:00
+**Scraped:** 2026-07-25T08:26:19.209939+00:00
 
 Install the Virtual Appliance on VMware ESX 6.5 or later - Netskope Knowledge Portal
 Install the Virtual Appliance on VMware ESX 6.5 or later
@@ -72131,7 +72244,7 @@ Install the Virtual Appliance on VMware ESX 6.5 or later
 ## Install the Virtual Appliance on Linux KVM
 **URL:** https://docs.netskope.com/en/install-the-virtual-appliance-on-linux-kvm/
 **Last Modified:** 2025-08-31T01:42:44+00:00
-**Scraped:** 2026-07-24T08:46:10.251129+00:00
+**Scraped:** 2026-07-25T08:26:20.388622+00:00
 
 Install the Virtual Appliance on Linux KVM - Netskope Knowledge Portal
 Install the Virtual Appliance on Linux KVM
@@ -72195,7 +72308,7 @@ Install the Virtual Appliance on Linux KVM
 ## Integrate with Active Directory for Username Visibility
 **URL:** https://docs.netskope.com/en/integrate-with-active-directory-for-username-visibility/
 **Last Modified:** 2026-06-10T17:50:06+00:00
-**Scraped:** 2026-07-24T08:46:12.601050+00:00
+**Scraped:** 2026-07-25T08:26:22.723863+00:00
 
 Integrate with Active Directory for Username Visibility - Netskope Knowledge Portal
 Integrate with Active Directory for Username Visibility
@@ -72213,7 +72326,7 @@ Integrate with Active Directory for Username Visibility
 ## Manage the Appliance
 **URL:** https://docs.netskope.com/en/manage-the-appliance/
 **Last Modified:** 2025-08-31T01:43:13+00:00
-**Scraped:** 2026-07-24T08:46:13.783493+00:00
+**Scraped:** 2026-07-25T08:26:24.012467+00:00
 
 Manage the Appliance - Netskope Knowledge Portal
 Manage the Appliance
@@ -72231,7 +72344,7 @@ Manage the Appliance
 ## Manage SSH Connections by Allowlisting an IP
 **URL:** https://docs.netskope.com/en/manage-ssh-connections-by-allowlisting-an-ip/
 **Last Modified:** 2025-08-31T01:43:36+00:00
-**Scraped:** 2026-07-24T08:46:14.954946+00:00
+**Scraped:** 2026-07-25T08:26:25.187786+00:00
 
 Manage SSH Connections by Allowlisting an IP - Netskope Knowledge Portal
 Manage SSH Connections by Allowlisting an IP
@@ -72268,7 +72381,7 @@ Manage SSH Connections by Allowlisting an IP
 ## Manage SSH Connections by Allowlisting an IP
 **URL:** https://docs.netskope.com/en/manage-ssh-connections-by-allowlisting-an-ip-144884/
 **Last Modified:** 2025-09-01T12:48:30+00:00
-**Scraped:** 2026-07-24T08:46:16.320379+00:00
+**Scraped:** 2026-07-25T08:26:26.360330+00:00
 
 Manage SSH Connections by Allowlisting an IP - Netskope Knowledge Portal
 Manage SSH Connections by Allowlisting an IP
@@ -72319,7 +72432,7 @@ Manage SSH Connections by Allowlisting an IP
 ## Modify the Time Zone on the Appliance
 **URL:** https://docs.netskope.com/en/modify-the-time-zone-on-the-appliance/
 **Last Modified:** 2026-02-20T21:12:21+00:00
-**Scraped:** 2026-07-24T08:46:17.526894+00:00
+**Scraped:** 2026-07-25T08:26:27.568990+00:00
 
 Modify the Time Zone on the Appliance - Netskope Knowledge Portal
 Modify the Time Zone on the Appliance
@@ -72735,7 +72848,7 @@ Modify the Time Zone on the Appliance
 ## Monitor the OPLP Status
 **URL:** https://docs.netskope.com/en/monitor-the-oplp-status/
 **Last Modified:** 2025-08-31T01:43:01+00:00
-**Scraped:** 2026-07-24T08:46:18.700908+00:00
+**Scraped:** 2026-07-25T08:26:28.824923+00:00
 
 Monitor the OPLP Status - Netskope Knowledge Portal
 Monitor the OPLP Status
@@ -72749,7 +72862,7 @@ Monitor the OPLP Status
 ## Modify the Timezone on the OPLP
 **URL:** https://docs.netskope.com/en/modify-the-timezone-on-the-oplp/
 **Last Modified:** 2025-09-01T12:48:57+00:00
-**Scraped:** 2026-07-24T08:46:23.539509+00:00
+**Scraped:** 2026-07-25T08:26:33.753676+00:00
 
 Modify the Timezone on the OPLP - Netskope Knowledge Portal
 Modify the Timezone on the OPLP
@@ -73165,7 +73278,7 @@ Modify the Timezone on the OPLP
 ## On-Premises Appliance
 **URL:** https://docs.netskope.com/en/on-premises-appliance/
 **Last Modified:** 2025-08-31T01:43:11+00:00
-**Scraped:** 2026-07-24T08:46:24.812262+00:00
+**Scraped:** 2026-07-25T08:26:34.916238+00:00
 
 On-Premises Appliance - Netskope Knowledge Portal
 On-Premises Appliance
@@ -73204,8 +73317,9 @@ On-Premises Appliance
 ## Overview of Netskope On-Premises Appliance
 **URL:** https://docs.netskope.com/en/overview-of-netskope-on-premises-appliance/
 **Last Modified:** 2025-08-31T01:43:21+00:00
-**Scraped:** 2026-07-24T08:46:26.014386+00:00
+**Scraped:** 2026-07-25T08:26:36.222702+00:00
 
+Overview of Netskope On-Premises Appliance - Netskope Knowledge Portal
 Overview of Netskope On-Premises Appliance
 Netskope’s on-premises Cloud Access Security Broker (CASB) provides the ability to process and maintain data inside an enterprise’s perimeter. The N1000, N2000, and N5000 appliances are the cornerstone of this service as they provide a physical footprint.
 Note
@@ -73443,7 +73557,7 @@ Overview of Netskope On-Premises Appliance
 ## Optional Configurations
 **URL:** https://docs.netskope.com/en/optional-configurations-144851/
 **Last Modified:** 2025-08-31T01:42:53+00:00
-**Scraped:** 2026-07-24T08:46:27.183918+00:00
+**Scraped:** 2026-07-25T08:26:37.377220+00:00
 
 Optional Configurations - Netskope Knowledge Portal
 Optional Configurations
@@ -73461,7 +73575,7 @@ Optional Configurations
 ## Optional Configurations
 **URL:** https://docs.netskope.com/en/optional-configurations/
 **Last Modified:** 2025-09-01T12:49:05+00:00
-**Scraped:** 2026-07-24T08:46:28.356315+00:00
+**Scraped:** 2026-07-25T08:26:38.545545+00:00
 
 Optional Configurations - Netskope Knowledge Portal
 Optional Configurations
@@ -73475,7 +73589,7 @@ Optional Configurations
 ## Physical Setup
 **URL:** https://docs.netskope.com/en/physical-setup/
 **Last Modified:** 2025-08-31T01:43:22+00:00
-**Scraped:** 2026-07-24T08:46:29.528891+00:00
+**Scraped:** 2026-07-25T08:26:39.720048+00:00
 
 Physical Setup - Netskope Knowledge Portal
 Physical Setup
@@ -73523,7 +73637,7 @@ Physical Setup
 ## Remove an Appliance
 **URL:** https://docs.netskope.com/en/remove-an-appliance-177438/
 **Last Modified:** 2025-08-31T01:42:52+00:00
-**Scraped:** 2026-07-24T08:46:30.702901+00:00
+**Scraped:** 2026-07-25T08:26:40.880528+00:00
 
 Remove an Appliance - Netskope Knowledge Portal
 Remove an Appliance
@@ -73546,7 +73660,7 @@ Remove an Appliance
 ## Provision the Virtual Appliance on AWS
 **URL:** https://docs.netskope.com/en/provision-the-virtual-appliance-on-aws/
 **Last Modified:** 2025-08-31T01:42:44+00:00
-**Scraped:** 2026-07-24T08:46:31.890669+00:00
+**Scraped:** 2026-07-25T08:26:42.065730+00:00
 
 Provision the Virtual Appliance on AWS - Netskope Knowledge Portal
 Provision the Virtual Appliance on AWS
@@ -73688,7 +73802,7 @@ Provision the Virtual Appliance on AWS
 ## Restore a Virtual Appliance from a VMware Snapshot
 **URL:** https://docs.netskope.com/en/restore-a-virtual-appliance-from-a-vmware-snapshot/
 **Last Modified:** 2025-08-31T01:42:46+00:00
-**Scraped:** 2026-07-24T08:46:33.060376+00:00
+**Scraped:** 2026-07-25T08:26:43.319407+00:00
 
 Restore a Virtual Appliance from a VMware Snapshot - Netskope Knowledge Portal
 Restore a Virtual Appliance from a VMware Snapshot
@@ -73703,7 +73817,7 @@ Restore a Virtual Appliance from a VMware Snapshot
 ## Remove an Appliance
 **URL:** https://docs.netskope.com/en/remove-an-appliance/
 **Last Modified:** 2025-09-01T12:49:06+00:00
-**Scraped:** 2026-07-24T08:46:35.404724+00:00
+**Scraped:** 2026-07-25T08:26:45.676028+00:00
 
 Remove an Appliance - Netskope Knowledge Portal
 Remove an Appliance
@@ -73726,7 +73840,7 @@ Remove an Appliance
 ## SSL Inspection
 **URL:** https://docs.netskope.com/en/ssl-inspection/
 **Last Modified:** 2025-08-31T01:43:29+00:00
-**Scraped:** 2026-07-24T08:46:37.753395+00:00
+**Scraped:** 2026-07-25T08:26:48.025156+00:00
 
 SSL Inspection - Netskope Knowledge Portal
 SSL Inspection
@@ -73775,7 +73889,7 @@ SSL Inspection
 ## Upgrade the Appliance Software
 **URL:** https://docs.netskope.com/en/upgrade-the-appliance-software/
 **Last Modified:** 2025-08-31T01:43:16+00:00
-**Scraped:** 2026-07-24T08:46:40.100930+00:00
+**Scraped:** 2026-07-25T08:26:50.374384+00:00
 
 Upgrade the Appliance Software - Netskope Knowledge Portal
 Upgrade the Appliance Software
@@ -73821,7 +73935,7 @@ Upgrade the Appliance Software
 ## Upgrade the Additional Appliance Packages
 **URL:** https://docs.netskope.com/en/upgrade-the-additional-appliance-packages/
 **Last Modified:** 2025-12-09T00:09:01+00:00
-**Scraped:** 2026-07-24T08:46:41.282406+00:00
+**Scraped:** 2026-07-25T08:26:51.650707+00:00
 
 Upgrade the Additional Appliance Packages - Netskope Knowledge Portal
 Upgrade the Additional Appliance Packages
@@ -73902,7 +74016,7 @@ Upgrade the Additional Appliance Packages
 ## Upgrading VA from versions older than 96.0.0
 **URL:** https://docs.netskope.com/en/upgrading-va-from-versions-older-than-96-0-0/
 **Last Modified:** 2026-06-10T18:04:19+00:00
-**Scraped:** 2026-07-24T08:46:42.450696+00:00
+**Scraped:** 2026-07-25T08:26:52.821939+00:00
 
 Upgrading VA from versions older than 96.0.0 - Netskope Knowledge Portal
 Upgrading VA from versions older than 96.0.0
@@ -73919,7 +74033,7 @@ Upgrading VA from versions older than 96.0.0
 ## Upgrading VA to 103.0.0.338
 **URL:** https://docs.netskope.com/en/upgrading-va-to-103-0-0-338/
 **Last Modified:** 2025-08-31T01:43:03+00:00
-**Scraped:** 2026-07-24T08:46:43.623855+00:00
+**Scraped:** 2026-07-25T08:26:53.994946+00:00
 
 Upgrading VA to 103.0.0.338 - Netskope Knowledge Portal
 Upgrading VA to 103.0.0.338
@@ -73985,7 +74099,7 @@ Upgrading VA to 103.0.0.338
 ## Upgrade the Virtual Appliance
 **URL:** https://docs.netskope.com/en/upgrade-the-virtual-appliance/
 **Last Modified:** 2025-10-20T20:43:51+00:00
-**Scraped:** 2026-07-24T08:46:44.805740+00:00
+**Scraped:** 2026-07-25T08:26:55.180008+00:00
 
 Upgrade the Virtual Appliance - Netskope Knowledge Portal
 Upgrade the Virtual Appliance
@@ -74147,7 +74261,7 @@ Upgrade the Virtual Appliance
 ## Upload Your Certificates
 **URL:** https://docs.netskope.com/en/upload-your-certificates/
 **Last Modified:** 2025-08-31T01:43:15+00:00
-**Scraped:** 2026-07-24T08:46:55.387617+00:00
+**Scraped:** 2026-07-25T08:27:05.839280+00:00
 
 Upload Your Certificates - Netskope Knowledge Portal
 Upload Your Certificates
@@ -74255,7 +74369,7 @@ Upload Your Certificates
 ## Virtual Appliance
 **URL:** https://docs.netskope.com/en/virtual-appliance/
 **Last Modified:** 2025-08-31T01:42:40+00:00
-**Scraped:** 2026-07-24T08:46:57.745690+00:00
+**Scraped:** 2026-07-25T08:27:08.189127+00:00
 
 Virtual Appliance - Netskope Knowledge Portal
 Virtual Appliance
@@ -74289,7 +74403,7 @@ Virtual Appliance
 ## Virtual Appliance Configuration Scenarios
 **URL:** https://docs.netskope.com/en/virtual-appliance-configuration-scenarios/
 **Last Modified:** 2026-06-10T18:06:57+00:00
-**Scraped:** 2026-07-24T08:47:00.115452+00:00
+**Scraped:** 2026-07-25T08:27:10.622868+00:00
 
 Virtual Appliance Configuration Scenarios - Netskope Knowledge Portal
 Virtual Appliance Configuration Scenarios
@@ -74377,8 +74491,9 @@ Virtual Appliance Configuration Scenarios
 ## Virtual Appliance Overview
 **URL:** https://docs.netskope.com/en/virtual-appliance-overview/
 **Last Modified:** 2026-06-10T18:08:59+00:00
-**Scraped:** 2026-07-24T08:47:01.417971+00:00
+**Scraped:** 2026-07-25T08:27:11.798571+00:00
 
+Virtual Appliance Overview - Netskope Knowledge Portal
 Virtual Appliance Overview
 A Virtual Appliance (VA) can be configured to run on VMware ESX, Microsoft Hyper-V, Linux KVM, and AWS AMI. The VA can be deployed as an DLP fingerprint or EDM hash generator, an On-Premises Log Parser (OPLP), or a Dateplane On-Premises appliance (DPoP) proxy server.
 Netskope does not support mixing functions on the same VA, i.e., deploying both the OPLP and DPoP on the same VA. For installation instructions on deploying the VA, see
@@ -74573,7 +74688,7 @@ Virtual Appliance Overview
 ## Mimecast and Netskope Integration Solution Guide
 **URL:** https://docs.netskope.com/en/mimecast-and-netskope-integration-solutions-guide/
 **Last Modified:** 2025-08-31T01:55:31+00:00
-**Scraped:** 2026-07-24T08:47:03.876767+00:00
+**Scraped:** 2026-07-25T08:27:14.349026+00:00
 
 Mimecast and Netskope Integration Solution Guide - Netskope Knowledge Portal
 Mimecast and Netskope Integration Solution Guide
@@ -74600,7 +74715,7 @@ Mimecast and Netskope Integration Solution Guide
 ## Mimecast Shared File Hashes
 **URL:** https://docs.netskope.com/en/mimecast-shared-file-hashes/
 **Last Modified:** 2025-08-31T01:55:31+00:00
-**Scraped:** 2026-07-24T08:47:05.066718+00:00
+**Scraped:** 2026-07-25T08:27:15.631034+00:00
 
 Mimecast Shared File Hashes - Netskope Knowledge Portal
 Mimecast Shared File Hashes
@@ -74675,7 +74790,7 @@ Mimecast Shared File Hashes
 ## Bandwidth Consumption
 **URL:** https://docs.netskope.com/en/about-bandwidth-consumption/
 **Last Modified:** 2026-07-23T00:40:05+00:00
-**Scraped:** 2026-07-24T08:47:07.424253+00:00
+**Scraped:** 2026-07-25T08:27:18.072875+00:00
 
 Bandwidth Consumption - Netskope Knowledge Portal
 Bandwidth Consumption
@@ -74711,7 +74826,7 @@ Bandwidth Consumption
 ## Solution Guides
 **URL:** https://docs.netskope.com/en/solution-guides/
 **Last Modified:** 2025-08-31T01:55:29+00:00
-**Scraped:** 2026-07-24T08:47:08.598038+00:00
+**Scraped:** 2026-07-25T08:27:19.246036+00:00
 
 Solution Guides - Netskope Knowledge Portal
 Solution Guides
@@ -74729,7 +74844,7 @@ Solution Guides
 ## Log Shipper Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/netskope-cls-plugin-development-guide/
 **Last Modified:** 2025-10-31T05:17:06+00:00
-**Scraped:** 2026-07-24T08:47:09.992572+00:00
+**Scraped:** 2026-07-25T08:27:20.495132+00:00
 
 Log Shipper Custom Plugin Developers Guide - Netskope Knowledge Portal
 Log Shipper Custom Plugin Developers Guide
@@ -75565,7 +75680,7 @@ Log Shipper Custom Plugin Developers Guide
 ## API Migration
 **URL:** https://docs.netskope.com/en/api-migration/
 **Last Modified:** 2025-08-31T01:39:45+00:00
-**Scraped:** 2026-07-24T08:47:14.945790+00:00
+**Scraped:** 2026-07-25T08:27:25.588677+00:00
 
 API Migration - Netskope Knowledge Portal
 API Migration
@@ -75601,7 +75716,7 @@ API Migration
 ## Importing GRE Sites from a CSV File
 **URL:** https://docs.netskope.com/en/importing-gre-sites-from-a-csv-file/
 **Last Modified:** 2025-09-03T17:32:23+00:00
-**Scraped:** 2026-07-24T08:47:16.116265+00:00
+**Scraped:** 2026-07-25T08:27:26.766484+00:00
 
 Importing GRE Sites from a CSV File - Netskope Knowledge Portal
 Importing GRE Sites from a CSV File
@@ -75637,7 +75752,7 @@ Importing GRE Sites from a CSV File
 ## Importing IPSec Sites from a CSV File
 **URL:** https://docs.netskope.com/en/importing-ipsec-sites-from-a-csv-file/
 **Last Modified:** 2025-08-31T01:49:17+00:00
-**Scraped:** 2026-07-24T08:47:17.472557+00:00
+**Scraped:** 2026-07-25T08:27:27.940051+00:00
 
 Importing IPSec Sites from a CSV File - Netskope Knowledge Portal
 Importing IPSec Sites from a CSV File
@@ -75673,7 +75788,7 @@ Importing IPSec Sites from a CSV File
 ## Classic API Data Protection Feature Matrix per Cloud App
 **URL:** https://docs.netskope.com/en/api-data-protection-policy-actions-per-cloud-app/
 **Last Modified:** 2026-01-28T15:21:18+00:00
-**Scraped:** 2026-07-24T08:47:21.442225+00:00
+**Scraped:** 2026-07-25T08:27:31.884292+00:00
 
 Classic API Data Protection Feature Matrix per Cloud App - Netskope Knowledge Portal
 Classic API Data Protection Feature Matrix per Cloud App
@@ -76489,7 +76604,7 @@ Classic API Data Protection Feature Matrix per Cloud App
 ## Configure Microsoft Office 365 OneDrive for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-office-365-onedrive-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:42+00:00
-**Scraped:** 2026-07-24T08:47:22.630813+00:00
+**Scraped:** 2026-07-25T08:27:33.072343+00:00
 
 Configure Microsoft Office 365 OneDrive for API Data Protection - Netskope Knowledge Portal
 Configure Microsoft Office 365 OneDrive for API Data Protection
@@ -76623,7 +76738,7 @@ Configure Microsoft Office 365 OneDrive for API Data Protection
 ## Extended RBI
 **URL:** https://docs.netskope.com/en/extended-rbi/
 **Last Modified:** 2025-08-31T01:46:39+00:00
-**Scraped:** 2026-07-24T08:47:23.810521+00:00
+**Scraped:** 2026-07-25T08:27:34.249728+00:00
 
 Extended RBI - Netskope Knowledge Portal
 Extended RBI
@@ -76675,7 +76790,7 @@ Extended RBI
 ## Install the Netskope Introspection v2 App
 **URL:** https://docs.netskope.com/en/install-the-netskope-introspection-v2-app-326335/
 **Last Modified:** 2025-08-31T01:41:06+00:00
-**Scraped:** 2026-07-24T08:47:24.992686+00:00
+**Scraped:** 2026-07-25T08:27:35.438014+00:00
 
 Install the Netskope Introspection v2 App - Netskope Knowledge Portal
 Install the Netskope Introspection v2 App
@@ -76772,7 +76887,7 @@ Install the Netskope Introspection v2 App
 ## Install the Netskope Introspection v2 App
 **URL:** https://docs.netskope.com/en/install-the-netskope-introspection-v2-app/
 **Last Modified:** 2025-08-31T01:40:43+00:00
-**Scraped:** 2026-07-24T08:47:26.171702+00:00
+**Scraped:** 2026-07-25T08:27:36.618058+00:00
 
 Install the Netskope Introspection v2 App - Netskope Knowledge Portal
 Install the Netskope Introspection v2 App
@@ -76866,7 +76981,7 @@ Install the Netskope Introspection v2 App
 ## Remove the Netskope Introspection v1 App
 **URL:** https://docs.netskope.com/en/remove-the-netskope-introspection-v1-app-326331/
 **Last Modified:** 2025-08-31T01:41:05+00:00
-**Scraped:** 2026-07-24T08:47:27.346595+00:00
+**Scraped:** 2026-07-25T08:27:37.812802+00:00
 
 Remove the Netskope Introspection v1 App - Netskope Knowledge Portal
 Remove the Netskope Introspection v1 App
@@ -76931,7 +77046,7 @@ Remove the Netskope Introspection v1 App
 ## Remove the Netskope Introspection v1 App
 **URL:** https://docs.netskope.com/en/remove-the-netskope-introspection-v1-app/
 **Last Modified:** 2025-08-31T01:40:43+00:00
-**Scraped:** 2026-07-24T08:47:28.621608+00:00
+**Scraped:** 2026-07-25T08:27:39.003330+00:00
 
 Remove the Netskope Introspection v1 App - Netskope Knowledge Portal
 Remove the Netskope Introspection v1 App
@@ -76996,7 +77111,7 @@ Remove the Netskope Introspection v1 App
 ## Feature Matrix
 **URL:** https://docs.netskope.com/en/spm-risk-levels/
 **Last Modified:** 2026-03-06T05:00:16+00:00
-**Scraped:** 2026-07-24T08:47:29.894201+00:00
+**Scraped:** 2026-07-25T08:27:40.183885+00:00
 
 Feature Matrix - Netskope Knowledge Portal
 Feature Matrix
@@ -77058,7 +77173,7 @@ Feature Matrix
 ## Viewing Security Posture Overview
 **URL:** https://docs.netskope.com/en/view-security-posture-overview/
 **Last Modified:** 2026-02-18T03:40:06+00:00
-**Scraped:** 2026-07-24T08:47:31.083863+00:00
+**Scraped:** 2026-07-25T08:27:41.366757+00:00
 
 Viewing Security Posture Overview - Netskope Knowledge Portal
 Viewing Security Posture Overview
@@ -77174,7 +77289,7 @@ Viewing Security Posture Overview
 ## Advanced Analytics Overview Page
 **URL:** https://docs.netskope.com/en/advanced-analytics-overview-page/
 **Last Modified:** 2025-08-31T01:49:38+00:00
-**Scraped:** 2026-07-24T08:47:32.260989+00:00
+**Scraped:** 2026-07-25T08:27:42.637653+00:00
 
 Advanced Analytics Overview Page - Netskope Knowledge Portal
 Advanced Analytics Overview Page
@@ -77205,7 +77320,7 @@ Advanced Analytics Overview Page
 ## Netskope Library
 **URL:** https://docs.netskope.com/en/netskope-library/
 **Last Modified:** 2026-03-20T07:20:14+00:00
-**Scraped:** 2026-07-24T08:47:33.457613+00:00
+**Scraped:** 2026-07-25T08:27:43.835553+00:00
 
 Netskope Library - Netskope Knowledge Portal
 Netskope Library
@@ -77425,7 +77540,7 @@ Netskope Library
 ## Reverse Proxy as a Service for AppSheet
 **URL:** https://docs.netskope.com/en/reverse-proxy-as-a-service-for-appsheet/
 **Last Modified:** 2025-08-31T01:55:08+00:00
-**Scraped:** 2026-07-24T08:47:35.813510+00:00
+**Scraped:** 2026-07-25T08:27:46.198719+00:00
 
 Reverse Proxy as a Service for AppSheet - Netskope Knowledge Portal
 Reverse Proxy as a Service for AppSheet
@@ -77505,9 +77620,8 @@ Reverse Proxy as a Service for AppSheet
 ## Install a Virtual Appliance
 **URL:** https://docs.netskope.com/en/install-a-virtual-appliance/
 **Last Modified:** 2025-08-31T01:42:42+00:00
-**Scraped:** 2026-07-24T08:47:38.262885+00:00
+**Scraped:** 2026-07-25T08:27:48.608768+00:00
 
-Install a Virtual Appliance - Netskope Knowledge Portal
 Install a Virtual Appliance
 Netskope’s Virtual Appliance can be installed on VMware ESX 6.5 or later, Microsoft Hyper-V, and Linux KVM.
 Supported cloud platforms for Netskope VA are AWS, GCP, and Azure. Cloud platforms not listed in this article are unsupported.
@@ -77534,7 +77648,7 @@ Install a Virtual Appliance
 ## Configure SNMP
 **URL:** https://docs.netskope.com/en/configure-snmp-144875-2/
 **Last Modified:** 2025-09-01T12:48:57+00:00
-**Scraped:** 2026-07-24T08:47:39.478547+00:00
+**Scraped:** 2026-07-25T08:27:49.918218+00:00
 
 Configure SNMP  - Netskope Knowledge Portal
 Configure SNMP
@@ -77884,7 +77998,7 @@ Configure SNMP
 ## Configure SNMP
 **URL:** https://docs.netskope.com/en/configure-snmp-3/
 **Last Modified:** 2025-09-01T12:48:36+00:00
-**Scraped:** 2026-07-24T08:47:40.687538+00:00
+**Scraped:** 2026-07-25T08:27:51.125548+00:00
 
 Configure SNMP  - Netskope Knowledge Portal
 Configure SNMP
@@ -78234,7 +78348,7 @@ Configure SNMP
 ## OPLP Alerts and Event Descriptions
 **URL:** https://docs.netskope.com/en/oplp-alerts-and-event-descriptions/
 **Last Modified:** 2025-08-31T01:43:10+00:00
-**Scraped:** 2026-07-24T08:47:41.927941+00:00
+**Scraped:** 2026-07-25T08:27:52.334438+00:00
 
 OPLP Alerts and Event Descriptions - Netskope Knowledge Portal
 OPLP Alerts and Event Descriptions
@@ -78898,7 +79012,7 @@ OPLP Alerts and Event Descriptions
 ## Crowdstrike Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-v1-2-0-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-27T22:38:44+00:00
-**Scraped:** 2026-07-24T08:47:44.529659+00:00
+**Scraped:** 2026-07-25T08:27:54.818891+00:00
 
 Crowdstrike Plugin for User Risk Exchange - Netskope Knowledge Portal
 Crowdstrike Plugin for User Risk Exchange
@@ -79996,7 +80110,7 @@ Crowdstrike Plugin for User Risk Exchange
 ## CrowdStrike and Netskope Integration Solution Guide
 **URL:** https://docs.netskope.com/en/crowdstrike-solution-guide/
 **Last Modified:** 2025-09-16T03:35:01+00:00
-**Scraped:** 2026-07-24T08:47:45.709104+00:00
+**Scraped:** 2026-07-25T08:27:55.996593+00:00
 
 CrowdStrike and Netskope Integration Solution Guide - Netskope Knowledge Portal
 CrowdStrike and Netskope Integration Solution Guide
@@ -80054,7 +80168,7 @@ CrowdStrike and Netskope Integration Solution Guide
 ## File Classifiers
 **URL:** https://docs.netskope.com/en/file-classifiers/
 **Last Modified:** 2026-06-25T19:22:15+00:00
-**Scraped:** 2026-07-24T08:47:46.911367+00:00
+**Scraped:** 2026-07-25T08:27:57.201272+00:00
 
 File Classifiers - Netskope Knowledge Portal
 File Classifiers
@@ -80358,7 +80472,7 @@ File Classifiers
 ## Onboard Google Workspace
 **URL:** https://docs.netskope.com/en/configure-google-workspace-for-next-generation-saas-security-posture-management/
 **Last Modified:** 2025-08-31T01:46:48+00:00
-**Scraped:** 2026-07-24T08:47:51.659620+00:00
+**Scraped:** 2026-07-25T08:28:02.171254+00:00
 
 Onboard Google Workspace - Netskope Knowledge Portal
 Onboard Google Workspace
@@ -80445,7 +80559,7 @@ Onboard Google Workspace
 ## Onboard Atlassian Jira Cloud
 **URL:** https://docs.netskope.com/en/configure-atlassian-jira-cloud-for-the-netskope-saas-security-posture-management/
 **Last Modified:** 2025-08-31T01:46:49+00:00
-**Scraped:** 2026-07-24T08:47:52.836479+00:00
+**Scraped:** 2026-07-25T08:28:03.363111+00:00
 
 Onboard Atlassian Jira Cloud - Netskope Knowledge Portal
 Onboard Atlassian Jira Cloud
@@ -80506,7 +80620,7 @@ Onboard Atlassian Jira Cloud
 ## Permissions Required for Atlassian Jira Cloud
 **URL:** https://docs.netskope.com/en/permissions-required-for-atlassian-jira-cloud/
 **Last Modified:** 2025-08-31T01:46:49+00:00
-**Scraped:** 2026-07-24T08:47:54.011446+00:00
+**Scraped:** 2026-07-25T08:28:04.541064+00:00
 
 Permissions Required for Atlassian Jira Cloud - Netskope Knowledge Portal
 Permissions Required for Atlassian Jira Cloud
@@ -80542,7 +80656,7 @@ Permissions Required for Atlassian Jira Cloud
 ## Onboard Atlassian Confluence Cloud
 **URL:** https://docs.netskope.com/en/configure-atlassian-confluence-for-the-netskope-saas-security-posture-management/
 **Last Modified:** 2025-08-31T01:46:50+00:00
-**Scraped:** 2026-07-24T08:47:55.186810+00:00
+**Scraped:** 2026-07-25T08:28:05.716126+00:00
 
 Onboard Atlassian Confluence Cloud - Netskope Knowledge Portal
 Onboard Atlassian Confluence Cloud
@@ -80597,7 +80711,7 @@ Onboard Atlassian Confluence Cloud
 ## Permissions Required for Atlassian Confluence Cloud
 **URL:** https://docs.netskope.com/en/permissions-required-for-atlassian-confluence-cloud/
 **Last Modified:** 2025-08-31T01:46:50+00:00
-**Scraped:** 2026-07-24T08:47:56.364414+00:00
+**Scraped:** 2026-07-25T08:28:06.889678+00:00
 
 Permissions Required for Atlassian Confluence Cloud - Netskope Knowledge Portal
 Permissions Required for Atlassian Confluence Cloud
@@ -80636,8 +80750,9 @@ Permissions Required for Atlassian Confluence Cloud
 ## File Encryption in API Data Protection FAQ
 **URL:** https://docs.netskope.com/en/file-encryption-in-api-data-protection-faq/
 **Last Modified:** 2025-08-31T01:41:57+00:00
-**Scraped:** 2026-07-24T08:47:59.018279+00:00
+**Scraped:** 2026-07-25T08:28:09.267236+00:00
 
+File Encryption in API Data Protection FAQ - Netskope Knowledge Portal
 File Encryption in API Data Protection FAQ
 This article talks about the commonly asked queries around the file encryption feature in API Data Protection.
 Are there any prerequisites to use the `Encrypt` action in API Data Protection?
@@ -80666,13 +80781,12 @@ Decrypted:
 Neither encrypted or decrypted:
 In this Topic
 File Encryption in API Data Protection FAQ
-File Encryption in API Data Protection FAQ - Netskope Knowledge Portal
 
 ---
 ## Create Context-Aware Access Policies
 **URL:** https://docs.netskope.com/en/create-context-aware-access-policies/
 **Last Modified:** 2025-08-31T01:55:06+00:00
-**Scraped:** 2026-07-24T08:48:00.200371+00:00
+**Scraped:** 2026-07-25T08:28:10.452502+00:00
 
 Create Context-Aware Access Policies - Netskope Knowledge Portal
 Create Context-Aware Access Policies
@@ -80782,8 +80896,9 @@ Create Context-Aware Access Policies
 ## User Overview
 **URL:** https://docs.netskope.com/en/user-overview/
 **Last Modified:** 2026-07-23T00:24:29+00:00
-**Scraped:** 2026-07-24T08:48:01.393392+00:00
+**Scraped:** 2026-07-25T08:28:11.634468+00:00
 
+User Overview - Netskope Knowledge Portal
 User Overview
 The User Overview page provides a centralized display of critical insights, along with tools for troubleshooting and optimization. You can view device health metrics like CPU, memory, storage, Wi-Fi strength, and battery level. You also have the ability to navigate the network with hop-by-hop visualizations. These tools help provide you with a smoother end-user experience by transforming data into actionable insights by leveraging end-user experience scores, latency, packet loss, and round trip time metrics.
 You also have visibility into the number of observed users, applications, sites, and devices. Additionally, you can utilize Netskope client telemetry such as operating system, geographic location, and private/public IP for further insights. Go to
@@ -80921,7 +81036,7 @@ User Overview
 ## Alerts
 **URL:** https://docs.netskope.com/en/alerts/
 **Last Modified:** 2026-07-23T00:47:44+00:00
-**Scraped:** 2026-07-24T08:48:02.686526+00:00
+**Scraped:** 2026-07-25T08:28:12.822137+00:00
 
 Alerts - Netskope Knowledge Portal
 Alerts
@@ -81102,7 +81217,7 @@ Alerts
 ## File Type Detection
 **URL:** https://docs.netskope.com/en/file-type-detection/
 **Last Modified:** 2026-06-24T23:07:13+00:00
-**Scraped:** 2026-07-24T08:48:05.150946+00:00
+**Scraped:** 2026-07-25T08:28:15.350899+00:00
 
 File Type Detection - Netskope Knowledge Portal
 File Type Detection
@@ -81206,7 +81321,7 @@ File Type Detection
 ## Supported File Types for Detection - Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/supported-file-types-for-detection/
 **Last Modified:** 2026-06-25T19:22:17+00:00
-**Scraped:** 2026-07-24T08:48:08.869819+00:00
+**Scraped:** 2026-07-25T08:28:19.019813+00:00
 
 Supported File Types for Detection - Netskope Knowledge Portal
 
@@ -81214,7 +81329,7 @@ Supported File Types for Detection - Netskope Knowledge Portal
 ## Supported File Types for Content Inspection
 **URL:** https://docs.netskope.com/en/supported-file-types-and-formats-for-content-inspection/
 **Last Modified:** 2026-06-25T19:22:19+00:00
-**Scraped:** 2026-07-24T08:48:10.315232+00:00
+**Scraped:** 2026-07-25T08:28:20.459344+00:00
 
 Supported File Types for Content Inspection - Netskope Knowledge Portal
 Supported File Types for Content Inspection
@@ -84329,7 +84444,7 @@ Supported File Types for Content Inspection
 ## Reverse Proxy as a Service for AODocs
 **URL:** https://docs.netskope.com/en/reverse-proxy-as-a-service-for-aodocs/
 **Last Modified:** 2025-08-31T01:55:08+00:00
-**Scraped:** 2026-07-24T08:48:11.494516+00:00
+**Scraped:** 2026-07-25T08:28:21.732702+00:00
 
 Reverse Proxy as a Service for AODocs - Netskope Knowledge Portal
 Reverse Proxy as a Service for AODocs
@@ -84368,7 +84483,7 @@ Reverse Proxy as a Service for AODocs
 ## Okta and Netskope Integration Solution Guide
 **URL:** https://docs.netskope.com/en/okta-and-netskope-integration-solution-guide/
 **Last Modified:** 2026-01-09T20:43:03+00:00
-**Scraped:** 2026-07-24T08:48:12.658467+00:00
+**Scraped:** 2026-07-25T08:28:22.907745+00:00
 
 Okta and Netskope Integration Solution Guide - Netskope Knowledge Portal
 Okta and Netskope Integration Solution Guide
@@ -84422,7 +84537,7 @@ Okta and Netskope Integration Solution Guide
 ## Okta Authentication Policy with Cloud Exchange
 **URL:** https://docs.netskope.com/en/okta-authentication-policy-with-cloud-exchange/
 **Last Modified:** 2025-08-31T01:55:35+00:00
-**Scraped:** 2026-07-24T08:48:13.834435+00:00
+**Scraped:** 2026-07-25T08:28:24.087005+00:00
 
 Okta Authentication Policy with Cloud Exchange - Netskope Knowledge Portal
 Okta Authentication Policy with Cloud Exchange
@@ -84464,7 +84579,7 @@ Okta Authentication Policy with Cloud Exchange
 ## Onboard Okta
 **URL:** https://docs.netskope.com/en/configure-okta-instance-for-saas-security-posture-management/
 **Last Modified:** 2025-11-03T08:36:29+00:00
-**Scraped:** 2026-07-24T08:48:16.192750+00:00
+**Scraped:** 2026-07-25T08:28:26.446076+00:00
 
 Onboard Okta - Netskope Knowledge Portal
 Onboard Okta
@@ -84589,8 +84704,9 @@ Onboard Okta
 ## Add a Policy for SSL Decryption
 **URL:** https://docs.netskope.com/en/add-a-policy-for-ssl-decryption-2/
 **Last Modified:** 2025-08-31T01:50:23+00:00
-**Scraped:** 2026-07-24T08:48:17.634044+00:00
+**Scraped:** 2026-07-25T08:28:27.713036+00:00
 
+Add a Policy for SSL Decryption - Netskope Knowledge Portal
 Add a Policy for SSL Decryption
 SSL decryption policies allow you to specify the traffic you want to leave encrypted.
 Netskope continues to match against Real-time Protection policies with limited context when a connection is matched with a SSL Do Not Decrypt policy. As a part of the SSL decryption policy lookup, when traffic is dropped due to a Real-time Protection policy match, a Skope IT event alert is generated. A user alert or block notification isn’t sent to the user.
@@ -84703,7 +84819,7 @@ Add a Policy for SSL Decryption
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-163059/
 **Last Modified:** 2025-08-31T01:40:21+00:00
-**Scraped:** 2026-07-24T08:48:18.814302+00:00
+**Scraped:** 2026-07-25T08:28:28.891433+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -84798,8 +84914,9 @@ Create an API Data Protection Policy
 ## URL Lists
 **URL:** https://docs.netskope.com/en/url-lists/
 **Last Modified:** 2026-06-10T17:11:47+00:00
-**Scraped:** 2026-07-24T08:48:22.356514+00:00
+**Scraped:** 2026-07-25T08:28:32.531246+00:00
 
+URL Lists - Netskope Knowledge Portal
 URL Lists
 Note
 You must have the Netskope Secure Web Gateway license to create URL Lists.
@@ -84940,7 +85057,7 @@ URL Lists
 ## Inline App Connectors
 **URL:** https://docs.netskope.com/en/inline-app-connectors/
 **Last Modified:** 2026-07-23T11:15:52+00:00
-**Scraped:** 2026-07-24T08:48:24.783688+00:00
+**Scraped:** 2026-07-25T08:28:35.009861+00:00
 
 Inline App Connectors - Netskope Knowledge Portal
 Inline App Connectors
@@ -85076,7 +85193,7 @@ Inline App Connectors
 ## Microsoft Security and Netskope Integration Solution Guide
 **URL:** https://docs.netskope.com/en/microsoft-security-and-netskope-integration-solution-guide/
 **Last Modified:** 2026-05-27T23:32:24+00:00
-**Scraped:** 2026-07-24T08:48:28.374857+00:00
+**Scraped:** 2026-07-25T08:28:38.605051+00:00
 
 Microsoft Security and Netskope Integration Solution Guide - Netskope Knowledge Portal
 Microsoft Security and Netskope Integration Solution Guide
@@ -85172,7 +85289,7 @@ Microsoft Security and Netskope Integration Solution Guide
 ## Microsoft and Netskope SSE Coexistence
 **URL:** https://docs.netskope.com/en/microsoft-and-netskope-sse-coexistence-1/
 **Last Modified:** 2025-08-31T01:55:31+00:00
-**Scraped:** 2026-07-24T08:48:29.546281+00:00
+**Scraped:** 2026-07-25T08:28:39.795257+00:00
 
 Microsoft and Netskope SSE Coexistence - Netskope Knowledge Portal
 Microsoft and Netskope SSE Coexistence
@@ -85376,7 +85493,7 @@ Microsoft and Netskope SSE Coexistence
 ## Next Generation API Data Protection for Gmail
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-gmail/
 **Last Modified:** 2025-08-31T01:42:22+00:00
-**Scraped:** 2026-07-24T08:48:30.812341+00:00
+**Scraped:** 2026-07-25T08:28:40.950655+00:00
 
 Next Generation API Data Protection for Gmail - Netskope Knowledge Portal
 Next Generation API Data Protection for Gmail
@@ -85396,7 +85513,7 @@ Next Generation API Data Protection for Gmail
 ## Policy Notification Templates
 **URL:** https://docs.netskope.com/en/policy-notification-templates/
 **Last Modified:** 2026-02-06T20:58:26+00:00
-**Scraped:** 2026-07-24T08:48:31.996325+00:00
+**Scraped:** 2026-07-25T08:28:42.151214+00:00
 
 Policy Notification Templates - Netskope Knowledge Portal
 Policy Notification Templates
@@ -85672,8 +85789,9 @@ Policy Notification Templates
 ## Managing Error Settings
 **URL:** https://docs.netskope.com/en/managing-error-settings/
 **Last Modified:** 2026-06-10T17:12:47+00:00
-**Scraped:** 2026-07-24T08:48:33.176910+00:00
+**Scraped:** 2026-07-25T08:28:43.435580+00:00
 
+Managing Error Settings - Netskope Knowledge Portal
 Managing Error Settings
 You can use the steering error settings to configure actions for anomalies observed in the HTTP/HTTPS traffic.
 Note
@@ -85793,7 +85911,7 @@ Managing Error Settings
 ## Webhook Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/webhook-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-05-27T23:17:18+00:00
-**Scraped:** 2026-07-24T08:48:35.535637+00:00
+**Scraped:** 2026-07-25T08:28:45.798435+00:00
 
 Webhook Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Webhook Plugin for Ticket Orchestrator
@@ -85981,7 +86099,7 @@ Webhook Plugin for Ticket Orchestrator
 ## Reverse Proxy as a Service with Microsoft Entra ID
 **URL:** https://docs.netskope.com/en/reverse-proxy-as-a-service-with-microsoft-entra-id-1/
 **Last Modified:** 2026-06-12T05:59:31+00:00
-**Scraped:** 2026-07-24T08:48:36.731169+00:00
+**Scraped:** 2026-07-25T08:28:47.092770+00:00
 
 Reverse Proxy as a Service with Microsoft Entra ID - Netskope Knowledge Portal
 Reverse Proxy as a Service with Microsoft Entra ID
@@ -86270,7 +86388,7 @@ Reverse Proxy as a Service with Microsoft Entra ID
 ## AWS and Netskope Integration Solution Guide
 **URL:** https://docs.netskope.com/en/aws-and-netskope-integration-solution-guide/
 **Last Modified:** 2026-05-27T23:33:52+00:00
-**Scraped:** 2026-07-24T08:48:37.905127+00:00
+**Scraped:** 2026-07-25T08:28:48.270008+00:00
 
 AWS and Netskope Integration Solution Guide - Netskope Knowledge Portal
 AWS and Netskope Integration Solution Guide
@@ -86305,7 +86423,7 @@ AWS and Netskope Integration Solution Guide
 ## Okta Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/okta-plugin-for-user-risk-exchange-2/
 **Last Modified:** 2026-05-28T23:15:07+00:00
-**Scraped:** 2026-07-24T08:48:39.131657+00:00
+**Scraped:** 2026-07-25T08:28:49.499681+00:00
 
 Okta Plugin for User Risk Exchange - Netskope Knowledge Portal
 Okta Plugin for User Risk Exchange
@@ -87137,7 +87255,7 @@ Okta Plugin for User Risk Exchange
 ## Okta Webhook Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/okta-webhook-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-05-27T23:25:20+00:00
-**Scraped:** 2026-07-24T08:48:41.524046+00:00
+**Scraped:** 2026-07-25T08:28:51.980471+00:00
 
 Okta Webhook Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Okta Webhook Plugin for Ticket Orchestrator
@@ -87375,7 +87493,7 @@ Okta Webhook Plugin for Ticket Orchestrator
 ## Advanced Analytics RBAC Best Practices
 **URL:** https://docs.netskope.com/en/advanced-analytics-rbac-v2-best-practices/
 **Last Modified:** 2025-08-31T01:49:40+00:00
-**Scraped:** 2026-07-24T08:48:42.713317+00:00
+**Scraped:** 2026-07-25T08:28:53.156231+00:00
 
 Advanced Analytics RBAC Best Practices - Netskope Knowledge Portal
 Advanced Analytics RBAC Best Practices
@@ -87419,8 +87537,9 @@ Advanced Analytics RBAC Best Practices
 ## Extended RBI Best Practices and Considerations
 **URL:** https://docs.netskope.com/en/extended-rbi-best-practices-and-limitations/
 **Last Modified:** 2025-12-12T23:47:46+00:00
-**Scraped:** 2026-07-24T08:48:43.888814+00:00
+**Scraped:** 2026-07-25T08:28:54.430369+00:00
 
+Extended RBI Best Practices and Considerations - Netskope Knowledge Portal
 Extended RBI Best Practices and Considerations
 Extended RBI Best Practices and Considertions
 RBI is a stateless service. The user web state is not carried over beyond the lifetime of an isolated browsing container.
@@ -87490,7 +87609,7 @@ Extended RBI Best Practices and Considerations
 ## API Data Protection for Slack for Enterprise
 **URL:** https://docs.netskope.com/en/api-data-protection-for-slack-for-enterprise/
 **Last Modified:** 2025-12-08T08:22:29+00:00
-**Scraped:** 2026-07-24T08:48:45.062240+00:00
+**Scraped:** 2026-07-25T08:28:55.603931+00:00
 
 API Data Protection for Slack for Enterprise - Netskope Knowledge Portal
 API Data Protection for Slack for Enterprise
@@ -87510,7 +87629,7 @@ API Data Protection for Slack for Enterprise
 ## Configure Salesforce for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-salesforce-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:23+00:00
-**Scraped:** 2026-07-24T08:48:46.293726+00:00
+**Scraped:** 2026-07-25T08:28:56.837724+00:00
 
 Configure Salesforce for API Data Protection - Netskope Knowledge Portal
 Configure Salesforce for API Data Protection
@@ -88108,7 +88227,7 @@ Configure Salesforce for API Data Protection
 ## Create an API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-an-api-data-protection-policy-118936/
 **Last Modified:** 2025-08-31T01:41:37+00:00
-**Scraped:** 2026-07-24T08:48:47.466043+00:00
+**Scraped:** 2026-07-25T08:28:58.010819+00:00
 
 Create an API Data Protection Policy - Netskope Knowledge Portal
 Create an API Data Protection Policy
@@ -88133,7 +88252,7 @@ Create an API Data Protection Policy
 ## Quarantine
 **URL:** https://docs.netskope.com/en/quarantine/
 **Last Modified:** 2025-08-31T01:38:59+00:00
-**Scraped:** 2026-07-24T08:48:48.643306+00:00
+**Scraped:** 2026-07-25T08:28:59.285545+00:00
 
 Quarantine - Netskope Knowledge Portal
 Quarantine
@@ -88194,8 +88313,9 @@ Quarantine
 ## Next Generation File Sharing Exposure
 **URL:** https://docs.netskope.com/en/next-generation-file-sharing-exposure/
 **Last Modified:** 2025-10-27T04:13:19+00:00
-**Scraped:** 2026-07-24T08:48:49.822936+00:00
+**Scraped:** 2026-07-25T08:29:00.567940+00:00
 
+Next Generation File Sharing Exposure - Netskope Knowledge Portal
 Next Generation File Sharing Exposure
 Cloud storage and file sharing SaaS apps bring several advantages to enterprises because of convenience and scale. However, when not managed properly, file sharing can have serious implications with respect to data security. File sharing is a necessity for today’s enterprises, as staff and business partners become increasingly globalized and need access to files and documents for efficient productivity and collaboration. However, to avoid data leaks, enterprises should take corrective steps toward achieving file sharing security.
 Next Generation API Data Protection protects against data loss and theft due to file sharing. Next Generation API Data Protection supports various file sharing exposure for SaaS apps. Here is a definition of various file sharing options:
@@ -88328,7 +88448,7 @@ Next Generation File Sharing Exposure
 ## ServiceNow and Netskope Integration Solution Guide
 **URL:** https://docs.netskope.com/en/servicenow-and-netskope-integration-solution-guide/
 **Last Modified:** 2026-04-03T03:51:33+00:00
-**Scraped:** 2026-07-24T08:48:52.202765+00:00
+**Scraped:** 2026-07-25T08:29:03.052080+00:00
 
 ServiceNow and Netskope Integration Solution Guide - Netskope Knowledge Portal
 ServiceNow and Netskope Integration Solution Guide
@@ -88361,8 +88481,9 @@ ServiceNow and Netskope Integration Solution Guide
 ## Activities Monitored by Netskope
 **URL:** https://docs.netskope.com/en/activities-monitored-by-netskope/
 **Last Modified:** 2025-08-31T01:42:37+00:00
-**Scraped:** 2026-07-24T08:48:54.604270+00:00
+**Scraped:** 2026-07-25T08:29:05.457827+00:00
 
+Activities Monitored by Netskope - Netskope Knowledge Portal
 Activities Monitored by Netskope
 Once you have successfully set up the app instance, Netskope can start monitoring activities on your SaaS environment. Here is a list of activities Netskope can monitor:
 Apps
@@ -88592,7 +88713,7 @@ Activities Monitored by Netskope
 ## Viewing and Analyzing 3rd Party Apps
 **URL:** https://docs.netskope.com/en/view-3rd-party-apps/
 **Last Modified:** 2026-03-24T03:30:45+00:00
-**Scraped:** 2026-07-24T08:48:55.784082+00:00
+**Scraped:** 2026-07-25T08:29:06.638536+00:00
 
 Viewing and Analyzing 3rd Party Apps - Netskope Knowledge Portal
 Viewing and Analyzing 3rd Party Apps
@@ -88711,7 +88832,7 @@ Viewing and Analyzing 3rd Party Apps
 ## Action
 **URL:** https://docs.netskope.com/en/action-117908/
 **Last Modified:** 2025-08-31T01:40:37+00:00
-**Scraped:** 2026-07-24T08:48:56.963064+00:00
+**Scraped:** 2026-07-25T08:29:07.928898+00:00
 
 Action - Netskope Knowledge Portal
 Action
@@ -88823,7 +88944,7 @@ Action
 ## Apps Supported in Classic and Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/apps-supported-in-classic-and-next-generation-api-data-protection/
 **Last Modified:** 2026-06-02T05:43:57+00:00
-**Scraped:** 2026-07-24T08:48:58.157291+00:00
+**Scraped:** 2026-07-25T08:29:09.110688+00:00
 
 Apps Supported in Classic and Next Generation API Data Protection - Netskope Knowledge Portal
 Apps Supported in Classic and Next Generation API Data Protection
@@ -89053,7 +89174,7 @@ Apps Supported in Classic and Next Generation API Data Protection
 ## Configure Atlassian Confluence for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-atlassian-confluence-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-05-21T03:05:30+00:00
-**Scraped:** 2026-07-24T08:48:59.440791+00:00
+**Scraped:** 2026-07-25T08:29:10.289234+00:00
 
 Configure Atlassian Confluence for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Atlassian Confluence for the Next Generation API Data Protection
@@ -89157,7 +89278,7 @@ Configure Atlassian Confluence for the Next Generation API Data Protection
 ## Adding a New Custom Rule
 **URL:** https://docs.netskope.com/en/create-a-next-generation-saas-security-posture-rule/
 **Last Modified:** 2025-09-10T12:20:28+00:00
-**Scraped:** 2026-07-24T08:49:00.714214+00:00
+**Scraped:** 2026-07-25T08:29:11.466367+00:00
 
 Adding a New Custom Rule - Netskope Knowledge Portal
 Adding a New Custom Rule
@@ -89231,7 +89352,7 @@ Adding a New Custom Rule
 ## Next Generation API Data Protection for Atlassian Confluence
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-atlassian-confluence/
 **Last Modified:** 2026-04-28T04:06:46+00:00
-**Scraped:** 2026-07-24T08:49:01.911147+00:00
+**Scraped:** 2026-07-25T08:29:12.636933+00:00
 
 Next Generation API Data Protection for Atlassian Confluence - Netskope Knowledge Portal
 Next Generation API Data Protection for Atlassian Confluence
@@ -89254,8 +89375,9 @@ Next Generation API Data Protection for Atlassian Confluence
 ## Permissions Required for Atlassian Confluence
 **URL:** https://docs.netskope.com/en/permissions-required-for-atlassian-confluence/
 **Last Modified:** 2025-08-31T01:42:13+00:00
-**Scraped:** 2026-07-24T08:49:03.093100+00:00
+**Scraped:** 2026-07-25T08:29:13.823973+00:00
 
+Permissions Required for Atlassian Confluence - Netskope Knowledge Portal
 Permissions Required for Atlassian Confluence
 When you grant access to the Atlassian Confluence app instance, Netskope seeks consent for the following permissions from the Atlassian account:
 Permissions required by Netskope
@@ -89403,7 +89525,7 @@ Permissions Required for Atlassian Confluence
 ## Next Generation API Data Protection for Microsoft 365 Outlook
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-microsoft-365-outlook/
 **Last Modified:** 2026-05-12T20:06:47+00:00
-**Scraped:** 2026-07-24T08:49:04.263367+00:00
+**Scraped:** 2026-07-25T08:29:15.099422+00:00
 
 Next Generation API Data Protection for Microsoft 365 Outlook - Netskope Knowledge Portal
 Next Generation API Data Protection for Microsoft 365 Outlook
@@ -89426,7 +89548,7 @@ Next Generation API Data Protection for Microsoft 365 Outlook
 ## Configure Browser-based Access with Microsoft Entra
 **URL:** https://docs.netskope.com/en/browser-access-with-microsoft-azure/
 **Last Modified:** 2026-04-27T21:17:40+00:00
-**Scraped:** 2026-07-24T08:49:10.113289+00:00
+**Scraped:** 2026-07-25T08:29:21.170766+00:00
 
 Configure Browser-based Access with Microsoft Entra - Netskope Knowledge Portal
 Configure Browser-based Access with Microsoft Entra
@@ -89548,7 +89670,7 @@ Configure Browser-based Access with Microsoft Entra
 ## Understanding Posture Score
 **URL:** https://docs.netskope.com/en/spm-posture-score/
 **Last Modified:** 2025-08-31T01:47:04+00:00
-**Scraped:** 2026-07-24T08:49:11.289424+00:00
+**Scraped:** 2026-07-25T08:29:22.342794+00:00
 
 Understanding Posture Score - Netskope Knowledge Portal
 Understanding Posture Score
@@ -89584,7 +89706,7 @@ Understanding Posture Score
 ## Device Classification with Infinipoint
 **URL:** https://docs.netskope.com/en/device-classification-with-infinipoint/
 **Last Modified:** 2025-08-31T01:55:10+00:00
-**Scraped:** 2026-07-24T08:49:15.992790+00:00
+**Scraped:** 2026-07-25T08:29:27.037532+00:00
 
 Device Classification with Infinipoint - Netskope Knowledge Portal
 Device Classification with Infinipoint
@@ -89683,7 +89805,7 @@ Device Classification with Infinipoint
 ## CyberArk Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/cyberark-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-27T23:20:58+00:00
-**Scraped:** 2026-07-24T08:49:19.863360+00:00
+**Scraped:** 2026-07-25T08:29:30.686627+00:00
 
 CyberArk Plugin for User Risk Exchange - Netskope Knowledge Portal
 CyberArk Plugin for User Risk Exchange
@@ -90328,7 +90450,7 @@ CyberArk Plugin for User Risk Exchange
 ## Migration Workflow
 **URL:** https://docs.netskope.com/en/migration-workflow/
 **Last Modified:** 2025-08-31T01:55:58+00:00
-**Scraped:** 2026-07-24T08:49:22.270106+00:00
+**Scraped:** 2026-07-25T08:29:33.076473+00:00
 
 Migration Workflow - Netskope Knowledge Portal
 Migration Workflow
@@ -90370,7 +90492,7 @@ Migration Workflow
 ## Elastic Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/elastic-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-28T23:16:26+00:00
-**Scraped:** 2026-07-24T08:49:23.571950+00:00
+**Scraped:** 2026-07-25T08:29:34.279086+00:00
 
 Elastic Plugin for User Risk Exchange - Netskope Knowledge Portal
 Elastic Plugin for User Risk Exchange
@@ -90868,7 +90990,7 @@ Elastic Plugin for User Risk Exchange
 ## Netskope Root Certificate Rotation Guide
 **URL:** https://docs.netskope.com/en/netskope-root-certificate-rotation-guide-1/
 **Last Modified:** 2025-08-31T01:47:21+00:00
-**Scraped:** 2026-07-24T08:49:24.747046+00:00
+**Scraped:** 2026-07-25T08:29:35.455905+00:00
 
 Netskope Root Certificate Rotation Guide - Netskope Knowledge Portal
 Netskope Root Certificate Rotation Guide
@@ -90895,7 +91017,7 @@ Netskope Root Certificate Rotation Guide
 ## Adding a New Rule using Template
 **URL:** https://docs.netskope.com/en/create-posture-rule-using-template/
 **Last Modified:** 2025-09-15T05:42:01+00:00
-**Scraped:** 2026-07-24T08:49:27.106130+00:00
+**Scraped:** 2026-07-25T08:29:37.803897+00:00
 
 Adding a New Rule using Template - Netskope Knowledge Portal
 Adding a New Rule using Template
@@ -90951,7 +91073,7 @@ Adding a New Rule using Template
 ## Reports (New Experience) Data Retention
 **URL:** https://docs.netskope.com/en/reports-new-experience-data-retention/
 **Last Modified:** 2025-08-31T01:56:03+00:00
-**Scraped:** 2026-07-24T08:49:29.487234+00:00
+**Scraped:** 2026-07-25T08:29:40.279674+00:00
 
 Reports (New Experience) Data Retention - Netskope Knowledge Portal
 Reports (New Experience) Data Retention
@@ -91055,7 +91177,7 @@ Reports (New Experience) Data Retention
 ## Reports (New Experience) Interface
 **URL:** https://docs.netskope.com/en/reports-new-experience-interface/
 **Last Modified:** 2025-08-31T01:55:58+00:00
-**Scraped:** 2026-07-24T08:49:30.663316+00:00
+**Scraped:** 2026-07-25T08:29:41.455821+00:00
 
 Reports (New Experience) Interface - Netskope Knowledge Portal
 Reports (New Experience) Interface
@@ -91125,7 +91247,7 @@ Reports (New Experience) Interface
 ## Netskope Library (Reports New Experience)
 **URL:** https://docs.netskope.com/en/netskope-library-2/
 **Last Modified:** 2025-08-31T01:55:58+00:00
-**Scraped:** 2026-07-24T08:49:31.850797+00:00
+**Scraped:** 2026-07-25T08:29:42.742750+00:00
 
 Netskope Library (Reports New Experience) - Netskope Knowledge Portal
 Netskope Library (Reports New Experience)
@@ -91270,7 +91392,7 @@ Netskope Library (Reports New Experience)
 ## Reports (New Experience) Overview Page
 **URL:** https://docs.netskope.com/en/reports-new-experience-overview-page/
 **Last Modified:** 2025-08-31T01:55:59+00:00
-**Scraped:** 2026-07-24T08:49:33.026230+00:00
+**Scraped:** 2026-07-25T08:29:43.913257+00:00
 
 Reports (New Experience) Overview Page - Netskope Knowledge Portal
 Reports (New Experience) Overview Page
@@ -91311,7 +91433,7 @@ Reports (New Experience) Overview Page
 ## Reports (New Experience) Customize Dashboards with the Widget Library
 **URL:** https://docs.netskope.com/en/reports-new-experience-customize-dashboards-with-the-widget-library/
 **Last Modified:** 2026-03-20T09:25:21+00:00
-**Scraped:** 2026-07-24T08:49:34.199542+00:00
+**Scraped:** 2026-07-25T08:29:45.088426+00:00
 
 Reports (New Experience) Customize Dashboards with the Widget Library - Netskope Knowledge Portal
 Reports (New Experience) Customize Dashboards with the Widget Library
@@ -91378,7 +91500,7 @@ Reports (New Experience) Customize Dashboards with the Widget Library
 ## Creating Reports (New Experience) Dashboards
 **URL:** https://docs.netskope.com/en/creating-reports-new-experience-dashboards/
 **Last Modified:** 2025-08-31T01:56:00+00:00
-**Scraped:** 2026-07-24T08:49:35.379223+00:00
+**Scraped:** 2026-07-25T08:29:46.355815+00:00
 
 Creating Reports (New Experience) Dashboards - Netskope Knowledge Portal
 Creating Reports (New Experience) Dashboards
@@ -91432,7 +91554,7 @@ Creating Reports (New Experience) Dashboards
 ## Device Intelligence Handbook
 **URL:** https://docs.netskope.com/en/device-intelligence-handbook/
 **Last Modified:** 2025-08-31T01:47:55+00:00
-**Scraped:** 2026-07-24T08:49:36.645865+00:00
+**Scraped:** 2026-07-25T08:29:47.576892+00:00
 
 Device Intelligence Handbook - Netskope Knowledge Portal
 Device Intelligence Handbook
@@ -91448,7 +91570,7 @@ Device Intelligence Handbook
 ## How to Get Daily Digest?
 **URL:** https://docs.netskope.com/en/daily-digest/
 **Last Modified:** 2025-08-31T01:47:57+00:00
-**Scraped:** 2026-07-24T08:49:37.902452+00:00
+**Scraped:** 2026-07-25T08:29:48.737057+00:00
 
 How to Get Daily Digest? - Netskope Knowledge Portal
 How to Get Daily Digest?
@@ -91496,7 +91618,7 @@ How to Get Daily Digest?
 ## Monitor Cloud Exchange with Prometheus and Grafana
 **URL:** https://docs.netskope.com/en/monitor-cloud-exchange-with-prometheus-and-grafana/
 **Last Modified:** 2026-03-21T02:02:50+00:00
-**Scraped:** 2026-07-24T08:49:39.101782+00:00
+**Scraped:** 2026-07-25T08:29:49.915242+00:00
 
 Monitor Cloud Exchange with Prometheus and Grafana - Netskope Knowledge Portal
 Monitor Cloud Exchange with Prometheus and Grafana
@@ -91644,7 +91766,7 @@ Monitor Cloud Exchange with Prometheus and Grafana
 ## ServiceNow and Netskope SecOps Integration
 **URL:** https://docs.netskope.com/en/servicenow-with-netskope-secops/
 **Last Modified:** 2026-04-03T23:00:25+00:00
-**Scraped:** 2026-07-24T08:49:40.486126+00:00
+**Scraped:** 2026-07-25T08:29:51.174014+00:00
 
 ServiceNow and Netskope SecOps Integration - Netskope Knowledge Portal
 ServiceNow and Netskope SecOps Integration
@@ -92473,7 +92595,7 @@ ServiceNow and Netskope SecOps Integration
 ## Supported Microsoft Office 365 OneDrive Licenses for Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-onedrive-licenses-for-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:09+00:00
-**Scraped:** 2026-07-24T08:49:41.656954+00:00
+**Scraped:** 2026-07-25T08:29:52.394908+00:00
 
 Supported Microsoft Office 365 OneDrive Licenses for Next Generation API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 OneDrive Licenses for Next Generation API Data Protection
@@ -92487,7 +92609,7 @@ Supported Microsoft Office 365 OneDrive Licenses for Next Generation API Data Pr
 ## Supported Microsoft Office 365 SharePoint Licenses for Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-sharepoint-licenses-for-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:29+00:00
-**Scraped:** 2026-07-24T08:49:42.812074+00:00
+**Scraped:** 2026-07-25T08:29:53.563560+00:00
 
 Supported Microsoft Office 365 SharePoint Licenses for Next Generation API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 SharePoint Licenses for Next Generation API Data Protection
@@ -92501,9 +92623,8 @@ Supported Microsoft Office 365 SharePoint Licenses for Next Generation API Data 
 ## Apply policies based on AD users, groups, or OU
 **URL:** https://docs.netskope.com/en/apply-policies-based-on-ad-users-groups-or-ou/
 **Last Modified:** 2025-09-01T13:09:09+00:00
-**Scraped:** 2026-07-24T08:49:43.987608+00:00
+**Scraped:** 2026-07-25T08:29:54.738872+00:00
 
-Apply policies based on AD users, groups, or OU - Netskope Knowledge Portal
 Apply policies based on AD users, groups, or OU
 To apply inline policies based on security needs and various constraints such as AD/user groups/Organizational unit, Source of traffic/Trusted or untrusted, networks/Forward or reverse proxy, Application instance, Constraint profile or augmenting authentication (Multifactor authentication),  follow the steps as shown below:
 Navigate to
@@ -92540,7 +92661,7 @@ Apply policies based on AD users, groups, or OU
 ## Certificate Pinned Applications
 **URL:** https://docs.netskope.com/en/certificate-pinned-applications/
 **Last Modified:** 2026-06-19T15:54:17+00:00
-**Scraped:** 2026-07-24T08:49:45.183659+00:00
+**Scraped:** 2026-07-25T08:29:55.928934+00:00
 
 Certificate Pinned Applications - Netskope Knowledge Portal
 Certificate Pinned Applications
@@ -92800,8 +92921,9 @@ Certificate Pinned Applications
 ## Creating a Custom Certificate Pinned Application
 **URL:** https://docs.netskope.com/en/creating-a-custom-certificate-pinned-application/
 **Last Modified:** 2026-05-06T23:53:58+00:00
-**Scraped:** 2026-07-24T08:49:46.352186+00:00
+**Scraped:** 2026-07-25T08:29:57.114806+00:00
 
+Creating a Custom Certificate Pinned Application - Netskope Knowledge Portal
 Creating a Custom Certificate Pinned Application
 If you want to bypass web traffic from certain applications from the Netskope cloud, you can add them as a custom certificate pinned application.
 To create a custom certificate pinned application:
@@ -92944,7 +93066,7 @@ Creating a Custom Certificate Pinned Application
 ## Settings
 **URL:** https://docs.netskope.com/en/settings/
 **Last Modified:** 2026-07-23T22:52:47+00:00
-**Scraped:** 2026-07-24T08:49:48.828797+00:00
+**Scraped:** 2026-07-25T08:29:59.510177+00:00
 
 Settings - Netskope Knowledge Portal
 Settings
@@ -93190,7 +93312,7 @@ Settings
 ## Generating and Analysing Reports
 **URL:** https://docs.netskope.com/en/saas-security-posture-management-reports/
 **Last Modified:** 2025-08-31T01:47:08+00:00
-**Scraped:** 2026-07-24T08:49:49.983305+00:00
+**Scraped:** 2026-07-25T08:30:00.693861+00:00
 
 Generating and Analysing Reports - Netskope Knowledge Portal
 Generating and Analysing Reports
@@ -93204,7 +93326,7 @@ Generating and Analysing Reports
 ## Reports using Advanced Analytics
 **URL:** https://docs.netskope.com/en/sspm-reports-using-advanced-analytics/
 **Last Modified:** 2026-06-24T14:09:18+00:00
-**Scraped:** 2026-07-24T08:49:51.149444+00:00
+**Scraped:** 2026-07-25T08:30:02.013961+00:00
 
 Reports using Advanced Analytics - Netskope Knowledge Portal
 Reports using Advanced Analytics
@@ -93301,7 +93423,7 @@ Reports using Advanced Analytics
 ## Reports using API
 **URL:** https://docs.netskope.com/en/sspm-reports-using-api/
 **Last Modified:** 2025-08-31T01:47:08+00:00
-**Scraped:** 2026-07-24T08:49:52.419126+00:00
+**Scraped:** 2026-07-25T08:30:03.340291+00:00
 
 Reports using API - Netskope Knowledge Portal
 Reports using API
@@ -93332,7 +93454,7 @@ Reports using API
 ## Publisher Selection
 **URL:** https://docs.netskope.com/en/publisher-selection/
 **Last Modified:** 2026-03-03T02:08:13+00:00
-**Scraped:** 2026-07-24T08:49:53.600906+00:00
+**Scraped:** 2026-07-25T08:30:04.535467+00:00
 
 Publisher Selection - Netskope Knowledge Portal
 Publisher Selection
@@ -93449,7 +93571,7 @@ Publisher Selection
 ## Access Private App Segments using PQDN
 **URL:** https://docs.netskope.com/en/access-private-apps-using-pqdn/
 **Last Modified:** 2026-01-15T02:00:23+00:00
-**Scraped:** 2026-07-24T08:49:55.970711+00:00
+**Scraped:** 2026-07-25T08:30:06.922747+00:00
 
 Access Private App Segments using PQDN - Netskope Knowledge Portal
 Access Private App Segments using PQDN
@@ -93610,7 +93732,7 @@ Access Private App Segments using PQDN
 ## Validate Wildcard Private App Segments
 **URL:** https://docs.netskope.com/en/validate-wildcard-private-apps/
 **Last Modified:** 2026-03-03T01:22:52+00:00
-**Scraped:** 2026-07-24T08:49:57.130539+00:00
+**Scraped:** 2026-07-25T08:30:08.083603+00:00
 
 Validate Wildcard Private App Segments - Netskope Knowledge Portal
 Validate Wildcard Private App Segments
@@ -93671,7 +93793,7 @@ Validate Wildcard Private App Segments
 ## Which Device Attributes are Captured in Device Intelligence?
 **URL:** https://docs.netskope.com/en/which-device-attributes-are-captured-in-device-intelligence/
 **Last Modified:** 2025-08-31T01:47:56+00:00
-**Scraped:** 2026-07-24T08:49:58.321354+00:00
+**Scraped:** 2026-07-25T08:30:09.270210+00:00
 
 Which Device Attributes are Captured in Device Intelligence? - Netskope Knowledge Portal
 Which Device Attributes are Captured in Device Intelligence?
@@ -93807,7 +93929,7 @@ Which Device Attributes are Captured in Device Intelligence?
 ## Supported Microsoft Office 365 Outlook Licenses for Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-outlook-licenses-for-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:21+00:00
-**Scraped:** 2026-07-24T08:49:59.493895+00:00
+**Scraped:** 2026-07-25T08:30:10.442727+00:00
 
 Supported Microsoft Office 365 Outlook Licenses for Next Generation API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 Outlook Licenses for Next Generation API Data Protection
@@ -93821,7 +93943,7 @@ Supported Microsoft Office 365 Outlook Licenses for Next Generation API Data Pro
 ## Supported Microsoft Office 365 Licenses for API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-licenses-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:56+00:00
-**Scraped:** 2026-07-24T08:50:00.765039+00:00
+**Scraped:** 2026-07-25T08:30:11.618895+00:00
 
 Supported Microsoft Office 365 Licenses for API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 Licenses for API Data Protection
@@ -93835,7 +93957,7 @@ Supported Microsoft Office 365 Licenses for API Data Protection
 ## Subject Recording and Search
 **URL:** https://docs.netskope.com/en/subject-recording-and-search/
 **Last Modified:** 2026-06-25T19:32:49+00:00
-**Scraped:** 2026-07-24T08:50:02.010487+00:00
+**Scraped:** 2026-07-25T08:30:12.899130+00:00
 
 Subject Recording and Search - Netskope Knowledge Portal
 Subject Recording and Search
@@ -93946,7 +94068,7 @@ Subject Recording and Search
 ## Viso Trust Plugin for Application Risk Exchange
 **URL:** https://docs.netskope.com/en/viso-trust-plugin-for-application-risk-exchange/
 **Last Modified:** 2026-05-28T23:16:39+00:00
-**Scraped:** 2026-07-24T08:50:05.679999+00:00
+**Scraped:** 2026-07-25T08:30:16.677872+00:00
 
 Viso Trust Plugin for Application Risk Exchange - Netskope Knowledge Portal
 Viso Trust Plugin for Application Risk Exchange
@@ -94311,7 +94433,7 @@ Viso Trust Plugin for Application Risk Exchange
 ## HaloITSM Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/haloitsm-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-07-07T00:16:41+00:00
-**Scraped:** 2026-07-24T08:50:06.916349+00:00
+**Scraped:** 2026-07-25T08:30:17.919817+00:00
 
 HaloITSM Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 HaloITSM Plugin for Ticket Orchestrator
@@ -95133,7 +95255,7 @@ HaloITSM Plugin for Ticket Orchestrator
 ## Ivanti Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/ivanti-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-05-27T23:16:07+00:00
-**Scraped:** 2026-07-24T08:50:09.366420+00:00
+**Scraped:** 2026-07-25T08:30:20.393897+00:00
 
 Ivanti Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Ivanti Plugin for Ticket Orchestrator
@@ -96441,7 +96563,7 @@ Ivanti Plugin for Ticket Orchestrator
 ## Device Intelligence Exchange
 **URL:** https://docs.netskope.com/en/device-intelligence-exchange/
 **Last Modified:** 2026-05-05T06:31:05+00:00
-**Scraped:** 2026-07-24T08:50:10.535267+00:00
+**Scraped:** 2026-07-25T08:30:21.565266+00:00
 
 Device Intelligence Exchange - Netskope Knowledge Portal
 Device Intelligence Exchange
@@ -96471,7 +96593,7 @@ Device Intelligence Exchange
 ## Getting Started with Device Intelligence Exchange
 **URL:** https://docs.netskope.com/en/getting-started-with-device-intelligence-exchange/
 **Last Modified:** 2026-04-27T03:34:51+00:00
-**Scraped:** 2026-07-24T08:50:11.709244+00:00
+**Scraped:** 2026-07-25T08:30:22.840478+00:00
 
 Getting Started with Device Intelligence Exchange - Netskope Knowledge Portal
 Getting Started with Device Intelligence Exchange
@@ -96538,7 +96660,7 @@ Getting Started with Device Intelligence Exchange
 ## Understanding Device Intelligence Exchange UI
 **URL:** https://docs.netskope.com/en/understanding-device-intelligence-exchange-ui/
 **Last Modified:** 2026-04-27T03:36:06+00:00
-**Scraped:** 2026-07-24T08:50:12.885860+00:00
+**Scraped:** 2026-07-25T08:30:24.013403+00:00
 
 Understanding Device Intelligence Exchange UI - Netskope Knowledge Portal
 Understanding Device Intelligence Exchange UI
@@ -96587,7 +96709,7 @@ Understanding Device Intelligence Exchange UI
 ## Device Classification
 **URL:** https://docs.netskope.com/en/device-classification-430812/
 **Last Modified:** 2026-04-17T08:43:27+00:00
-**Scraped:** 2026-07-24T08:50:14.069626+00:00
+**Scraped:** 2026-07-25T08:30:25.187384+00:00
 
 Device Classification - Netskope Knowledge Portal
 Device Classification
@@ -96719,7 +96841,7 @@ Device Classification
 ## LDAP Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/ldap-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-27T22:39:37+00:00
-**Scraped:** 2026-07-24T08:50:16.467062+00:00
+**Scraped:** 2026-07-25T08:30:27.686647+00:00
 
 LDAP Plugin for User Risk Exchange - Netskope Knowledge Portal
 LDAP Plugin for User Risk Exchange
@@ -96924,7 +97046,7 @@ LDAP Plugin for User Risk Exchange
 ## Azure forensics Instance Re-grant FAQs
 **URL:** https://docs.netskope.com/en/azure-forensics-instance-re-grant-faqs/
 **Last Modified:** 2025-08-31T01:46:26+00:00
-**Scraped:** 2026-07-24T08:50:17.641141+00:00
+**Scraped:** 2026-07-25T08:30:28.856619+00:00
 
 Azure forensics Instance Re-grant FAQs - Netskope Knowledge Portal
 Azure forensics Instance Re-grant FAQs
@@ -96948,7 +97070,7 @@ Azure forensics Instance Re-grant FAQs
 ## Cloning a Rule
 **URL:** https://docs.netskope.com/en/clone-a-saas-security-posture-rule/
 **Last Modified:** 2025-09-15T05:30:59+00:00
-**Scraped:** 2026-07-24T08:50:18.997546+00:00
+**Scraped:** 2026-07-25T08:30:30.032438+00:00
 
 Cloning a Rule - Netskope Knowledge Portal
 Cloning a Rule
@@ -96983,7 +97105,7 @@ Cloning a Rule
 ## Retroactive Scan
 **URL:** https://docs.netskope.com/en/retroactive-scan/
 **Last Modified:** 2025-08-31T01:42:00+00:00
-**Scraped:** 2026-07-24T08:50:20.266939+00:00
+**Scraped:** 2026-07-25T08:30:31.205225+00:00
 
 Retroactive Scan - Netskope Knowledge Portal
 Retroactive Scan
@@ -97017,7 +97139,7 @@ Retroactive Scan
 ## AD Group Matching
 **URL:** https://docs.netskope.com/en/ad-group-matching/
 **Last Modified:** 2025-08-31T01:42:01+00:00
-**Scraped:** 2026-07-24T08:50:21.438562+00:00
+**Scraped:** 2026-07-25T08:30:32.373088+00:00
 
 AD Group Matching - Netskope Knowledge Portal
 AD Group Matching
@@ -97030,9 +97152,8 @@ AD Group Matching
 ## File Exposure
 **URL:** https://docs.netskope.com/en/file-exposure/
 **Last Modified:** 2025-08-31T01:42:02+00:00
-**Scraped:** 2026-07-24T08:50:22.614512+00:00
+**Scraped:** 2026-07-25T08:30:33.528561+00:00
 
-File Exposure - Netskope Knowledge Portal
 File Exposure
 Here is a list of special handling of file exposure.
 Organization-wide Exposure
@@ -97054,7 +97175,7 @@ File Exposure
 ## Child Scans
 **URL:** https://docs.netskope.com/en/child-scans/
 **Last Modified:** 2025-08-31T01:42:01+00:00
-**Scraped:** 2026-07-24T08:50:23.787379+00:00
+**Scraped:** 2026-07-25T08:30:34.685192+00:00
 
 Child Scans - Netskope Knowledge Portal
 Child Scans
@@ -97082,7 +97203,7 @@ Child Scans
 ## Manage
 **URL:** https://docs.netskope.com/en/manage/
 **Last Modified:** 2025-08-31T01:38:30+00:00
-**Scraped:** 2026-07-24T08:50:24.957044+00:00
+**Scraped:** 2026-07-25T08:30:35.857855+00:00
 
 Manage - Netskope Knowledge Portal
 Manage
@@ -97102,7 +97223,7 @@ Manage
 ## Advanced Content Scanning
 **URL:** https://docs.netskope.com/en/advanced-content-scanning/
 **Last Modified:** 2026-06-25T17:36:51+00:00
-**Scraped:** 2026-07-24T08:50:26.132034+00:00
+**Scraped:** 2026-07-25T08:30:37.024998+00:00
 
 Advanced Content Scanning - Netskope Knowledge Portal
 Advanced Content Scanning
@@ -97127,7 +97248,7 @@ Advanced Content Scanning
 ## IRM Integration
 **URL:** https://docs.netskope.com/en/manage-irm-integration/
 **Last Modified:** 2026-06-25T19:32:36+00:00
-**Scraped:** 2026-07-24T08:50:27.300997+00:00
+**Scraped:** 2026-07-25T08:30:38.198086+00:00
 
 IRM Integration - Netskope Knowledge Portal
 IRM Integration
@@ -97142,9 +97263,8 @@ IRM Integration
 ## Sensitivity Label Integration
 **URL:** https://docs.netskope.com/en/sensitivity-label-integration/
 **Last Modified:** 2026-06-25T19:32:34+00:00
-**Scraped:** 2026-07-24T08:50:28.469146+00:00
+**Scraped:** 2026-07-25T08:30:39.450908+00:00
 
-Sensitivity Label Integration - Netskope Knowledge Portal
 Sensitivity Label Integration
 To learn more, view
 Sensitivity Label Integration
@@ -97156,7 +97276,7 @@ Sensitivity Label Integration
 ## Configure Microsoft 365 Outlook for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-365-outlook-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-10-09T10:03:36+00:00
-**Scraped:** 2026-07-24T08:50:29.647380+00:00
+**Scraped:** 2026-07-25T08:30:40.632837+00:00
 
 Configure Microsoft 365 Outlook for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Microsoft 365 Outlook for the Next Generation API Data Protection
@@ -97288,7 +97408,7 @@ Configure Microsoft 365 Outlook for the Next Generation API Data Protection
 ## Chrome Extension Support For User Notifications
 **URL:** https://docs.netskope.com/en/chrome-extension-support-for-user-notifications/
 **Last Modified:** 2025-08-31T01:48:20+00:00
-**Scraped:** 2026-07-24T08:50:30.828707+00:00
+**Scraped:** 2026-07-25T08:30:41.815500+00:00
 
 Chrome Extension Support For User Notifications - Netskope Knowledge Portal
 Chrome Extension Support For User Notifications
@@ -97414,7 +97534,7 @@ Chrome Extension Support For User Notifications
 ## Skope IT Queries Library
 **URL:** https://docs.netskope.com/en/skope-it-queries-library/
 **Last Modified:** 2026-07-09T15:55:51+00:00
-**Scraped:** 2026-07-24T08:50:32.215298+00:00
+**Scraped:** 2026-07-25T08:30:43.189145+00:00
 
 Skope IT Queries Library - Netskope Knowledge Portal
 Skope IT Queries Library
@@ -99229,15 +99349,15 @@ Skope IT Queries Library
 ## Local Broker Management - Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/local-broker-management/
 **Last Modified:** 2026-04-06T19:36:54+00:00
-**Scraped:** 2026-07-24T08:50:33.392275+00:00
+**Scraped:** 2026-07-25T08:30:44.361784+00:00
 
-
+Local Broker Management - Netskope Knowledge Portal
 
 ---
 ## Enable CORS OPTIONS Request over Browser-based Access
 **URL:** https://docs.netskope.com/en/enable-cors-options-request-over-browser-access/
 **Last Modified:** 2026-02-27T22:33:59+00:00
-**Scraped:** 2026-07-24T08:50:34.572477+00:00
+**Scraped:** 2026-07-25T08:30:45.523580+00:00
 
 Enable CORS OPTIONS Request over Browser-based Access - Netskope Knowledge Portal
 Enable CORS OPTIONS Request over Browser-based Access
@@ -99346,7 +99466,7 @@ Enable CORS OPTIONS Request over Browser-based Access
 ## Azure Service Bus Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/azure-service-bus-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-05-27T23:15:21+00:00
-**Scraped:** 2026-07-24T08:50:36.992464+00:00
+**Scraped:** 2026-07-25T08:30:48.086417+00:00
 
 Azure Service Bus Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Azure Service Bus Plugin for Ticket Orchestrator
@@ -99552,7 +99672,7 @@ Azure Service Bus Plugin for Ticket Orchestrator
 ## FAQs related to AWS instance setup for forensics
 **URL:** https://docs.netskope.com/en/faqs-related-to-aws-instance-setup-for-forensics/
 **Last Modified:** 2025-08-31T01:46:23+00:00
-**Scraped:** 2026-07-24T08:50:38.164146+00:00
+**Scraped:** 2026-07-25T08:30:49.263512+00:00
 
 FAQs related to AWS instance setup for forensics - Netskope Knowledge Portal
 FAQs related to AWS instance setup for forensics
@@ -99618,7 +99738,7 @@ FAQs related to AWS instance setup for forensics
 ## Configuring the Cloud TAP Stitcher
 **URL:** https://docs.netskope.com/en/configuring-the-cloud-tap-stitcher/
 **Last Modified:** 2026-03-25T16:58:41+00:00
-**Scraped:** 2026-07-24T08:50:41.738796+00:00
+**Scraped:** 2026-07-25T08:30:52.851015+00:00
 
 Configuring the Cloud TAP Stitcher - Netskope Knowledge Portal
 Configuring the Cloud TAP Stitcher
@@ -99986,7 +100106,7 @@ Configuring the Cloud TAP Stitcher
 ## Enabling Cloud TAP in the Netskope UI
 **URL:** https://docs.netskope.com/en/enabling-cloud-tap-in-the-netskope-ui/
 **Last Modified:** 2026-06-30T21:35:42+00:00
-**Scraped:** 2026-07-24T08:50:42.933296+00:00
+**Scraped:** 2026-07-25T08:30:54.031760+00:00
 
 Enabling Cloud TAP in the Netskope UI - Netskope Knowledge Portal
 Enabling Cloud TAP in the Netskope UI
@@ -100120,8 +100240,9 @@ Enabling Cloud TAP in the Netskope UI
 ## Device Intelligence Licensing
 **URL:** https://docs.netskope.com/en/device-intelligence-licensing/
 **Last Modified:** 2025-08-31T01:47:35+00:00
-**Scraped:** 2026-07-24T08:50:47.837654+00:00
+**Scraped:** 2026-07-25T08:30:58.916768+00:00
 
+Device Intelligence Licensing - Netskope Knowledge Portal
 Device Intelligence Licensing
 As a Device Intelligence customer, you will be given the option to purchase Device Intelligence capabilities using either a
 Basic
@@ -100266,7 +100387,7 @@ Device Intelligence Licensing
 ## BWAN in Device Intelligence
 **URL:** https://docs.netskope.com/en/bwan-in-device-intelligence/
 **Last Modified:** 2025-08-31T01:47:48+00:00
-**Scraped:** 2026-07-24T08:50:49.119469+00:00
+**Scraped:** 2026-07-25T08:31:00.116464+00:00
 
 BWAN in Device Intelligence - Netskope Knowledge Portal
 BWAN in Device Intelligence
@@ -100365,7 +100486,7 @@ BWAN in Device Intelligence
 ## SSE in Device Intelligence
 **URL:** https://docs.netskope.com/en/sse-in-device-intelligence/
 **Last Modified:** 2025-08-31T01:47:49+00:00
-**Scraped:** 2026-07-24T08:50:50.309472+00:00
+**Scraped:** 2026-07-25T08:31:01.299182+00:00
 
 SSE in Device Intelligence - Netskope Knowledge Portal
 SSE in Device Intelligence
@@ -100470,7 +100591,7 @@ SSE in Device Intelligence
 ## Ticket Orchestrator Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/ticket-orchestrator-custom-plugin-developers-guide/
 **Last Modified:** 2026-03-21T02:07:46+00:00
-**Scraped:** 2026-07-24T08:50:51.597970+00:00
+**Scraped:** 2026-07-25T08:31:02.599579+00:00
 
 Ticket Orchestrator Custom Plugin Developers Guide - Netskope Knowledge Portal
 Ticket Orchestrator Custom Plugin Developers Guide
@@ -101583,7 +101704,7 @@ Ticket Orchestrator Custom Plugin Developers Guide
 ## User Risk Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/user-risk-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2025-08-31T01:54:32+00:00
-**Scraped:** 2026-07-24T08:50:52.840844+00:00
+**Scraped:** 2026-07-25T08:31:03.865366+00:00
 
 User Risk Exchange Custom Plugin Developers Guide - Netskope Knowledge Portal
 User Risk Exchange Custom Plugin Developers Guide
@@ -102626,7 +102747,7 @@ User Risk Exchange Custom Plugin Developers Guide
 ## Application Risk Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/application-risk-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2025-08-31T01:54:40+00:00
-**Scraped:** 2026-07-24T08:50:54.079359+00:00
+**Scraped:** 2026-07-25T08:31:05.249604+00:00
 
 Application Risk Exchange Custom Plugin Developers Guide - Netskope Knowledge Portal
 Application Risk Exchange Custom Plugin Developers Guide
@@ -103594,7 +103715,7 @@ Application Risk Exchange Custom Plugin Developers Guide
 ## Endpoint Detection and Response
 **URL:** https://docs.netskope.com/en/endpoint-detection-and-response/
 **Last Modified:** 2026-05-26T19:44:58+00:00
-**Scraped:** 2026-07-24T08:50:55.354271+00:00
+**Scraped:** 2026-07-25T08:31:06.424997+00:00
 
 Endpoint Detection and Response - Netskope Knowledge Portal
 Endpoint Detection and Response
@@ -103627,7 +103748,7 @@ Endpoint Detection and Response
 ## Next Generation API Data Protection for Microsoft 365 Teams
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-microsoft-365-teams/
 **Last Modified:** 2025-08-31T01:42:27+00:00
-**Scraped:** 2026-07-24T08:50:56.528932+00:00
+**Scraped:** 2026-07-25T08:31:07.594869+00:00
 
 Next Generation API Data Protection for Microsoft 365 Teams - Netskope Knowledge Portal
 Next Generation API Data Protection for Microsoft 365 Teams
@@ -103643,7 +103764,7 @@ Next Generation API Data Protection for Microsoft 365 Teams
 ## Next Generation API Data Protection Policy Wizard
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-policy-wizard/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-07-24T08:50:57.708253+00:00
+**Scraped:** 2026-07-25T08:31:08.772491+00:00
 
 Next Generation API Data Protection Policy Wizard - Netskope Knowledge Portal
 Next Generation API Data Protection Policy Wizard
@@ -103700,7 +103821,7 @@ Next Generation API Data Protection Policy Wizard
 ## Policy Matching & Evaluation
 **URL:** https://docs.netskope.com/en/policy-matching-evaluation/
 **Last Modified:** 2025-12-05T04:48:42+00:00
-**Scraped:** 2026-07-24T08:50:58.917407+00:00
+**Scraped:** 2026-07-25T08:31:09.964583+00:00
 
 Policy Matching &amp; Evaluation - Netskope Knowledge Portal
 Policy Matching & Evaluation
@@ -103904,7 +104025,7 @@ Policy Matching &amp; Evaluation
 ## File Listing
 **URL:** https://docs.netskope.com/en/file-listing/
 **Last Modified:** 2025-08-31T01:42:01+00:00
-**Scraped:** 2026-07-24T08:51:00.226921+00:00
+**Scraped:** 2026-07-25T08:31:11.146146+00:00
 
 File Listing - Netskope Knowledge Portal
 File Listing
@@ -103992,7 +104113,7 @@ File Listing
 ## Next Generation API Data Protection for Dropbox
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-dropbox/
 **Last Modified:** 2025-08-31T01:42:05+00:00
-**Scraped:** 2026-07-24T08:51:01.405348+00:00
+**Scraped:** 2026-07-25T08:31:12.317099+00:00
 
 Next Generation API Data Protection for Dropbox - Netskope Knowledge Portal
 Next Generation API Data Protection for Dropbox
@@ -104013,7 +104134,7 @@ Next Generation API Data Protection for Dropbox
 ## Next Generation API Data Protection for Salesforce
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-salesforce/
 **Last Modified:** 2025-08-31T01:42:19+00:00
-**Scraped:** 2026-07-24T08:51:02.584830+00:00
+**Scraped:** 2026-07-25T08:31:13.490528+00:00
 
 Next Generation API Data Protection for Salesforce - Netskope Knowledge Portal
 Next Generation API Data Protection for Salesforce
@@ -104034,7 +104155,7 @@ Next Generation API Data Protection for Salesforce
 ## Configure Dropbox for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-dropbox-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-04-07T17:55:57+00:00
-**Scraped:** 2026-07-24T08:51:03.867743+00:00
+**Scraped:** 2026-07-25T08:31:14.667974+00:00
 
 Configure Dropbox for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Dropbox for the Next Generation API Data Protection
@@ -104117,7 +104238,7 @@ Configure Dropbox for the Next Generation API Data Protection
 ## Supported Microsoft Office 365 Teams Licenses for Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-office-365-teams-licenses-for-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:27+00:00
-**Scraped:** 2026-07-24T08:51:05.044377+00:00
+**Scraped:** 2026-07-25T08:31:16.131603+00:00
 
 Supported Microsoft Office 365 Teams Licenses for Next Generation API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Office 365 Teams Licenses for Next Generation API Data Protection
@@ -104134,7 +104255,7 @@ Supported Microsoft Office 365 Teams Licenses for Next Generation API Data Prote
 ## Sharing Advanced Analytics Personal Folders
 **URL:** https://docs.netskope.com/en/sharing-advanced-analytics-personal-folders/
 **Last Modified:** 2025-08-31T01:49:37+00:00
-**Scraped:** 2026-07-24T08:51:06.225532+00:00
+**Scraped:** 2026-07-25T08:31:17.305843+00:00
 
 Sharing Advanced Analytics Personal Folders - Netskope Knowledge Portal
 Sharing Advanced Analytics Personal Folders
@@ -104209,7 +104330,7 @@ Sharing Advanced Analytics Personal Folders
 ## Microsoft API Limitation on Restrict Access Action
 **URL:** https://docs.netskope.com/en/microsoft-api-limitation-on-restrict-access-action-sp/
 **Last Modified:** 2025-08-31T01:41:11+00:00
-**Scraped:** 2026-07-24T08:51:07.402388+00:00
+**Scraped:** 2026-07-25T08:31:18.478946+00:00
 
 Microsoft API Limitation on Restrict Access Action - Netskope Knowledge Portal
 Microsoft API Limitation on Restrict Access Action
@@ -104226,7 +104347,7 @@ Microsoft API Limitation on Restrict Access Action
 ## Microsoft API Limitation on Restrict Access Action
 **URL:** https://docs.netskope.com/en/microsoft-api-limitation-on-restrict-access-action-od/
 **Last Modified:** 2025-08-31T01:40:48+00:00
-**Scraped:** 2026-07-24T08:51:08.676328+00:00
+**Scraped:** 2026-07-25T08:31:19.654600+00:00
 
 Microsoft API Limitation on Restrict Access Action - Netskope Knowledge Portal
 Microsoft API Limitation on Restrict Access Action
@@ -104243,7 +104364,7 @@ Microsoft API Limitation on Restrict Access Action
 ## Permissions Required for Workday
 **URL:** https://docs.netskope.com/en/permissions-required-for-workday/
 **Last Modified:** 2025-08-31T01:46:46+00:00
-**Scraped:** 2026-07-24T08:51:09.857467+00:00
+**Scraped:** 2026-07-25T08:31:20.838103+00:00
 
 Permissions Required for Workday - Netskope Knowledge Portal
 Permissions Required for Workday
@@ -104332,7 +104453,7 @@ Permissions Required for Workday
 ## Scopes Required for Google Workspace
 **URL:** https://docs.netskope.com/en/scopes-required-for-google-workspace/
 **Last Modified:** 2025-08-31T01:46:48+00:00
-**Scraped:** 2026-07-24T08:51:11.130706+00:00
+**Scraped:** 2026-07-25T08:31:22.014688+00:00
 
 Scopes Required for Google Workspace - Netskope Knowledge Portal
 Scopes Required for Google Workspace
@@ -104372,7 +104493,7 @@ Scopes Required for Google Workspace
 ## Access Required for ServiceNow
 **URL:** https://docs.netskope.com/en/access-required-for-servicenow/
 **Last Modified:** 2025-08-31T01:46:43+00:00
-**Scraped:** 2026-07-24T08:51:12.305199+00:00
+**Scraped:** 2026-07-25T08:31:23.189812+00:00
 
 Access Required for ServiceNow - Netskope Knowledge Portal
 Access Required for ServiceNow
@@ -104452,7 +104573,7 @@ Access Required for ServiceNow
 ## Roles Required for Okta
 **URL:** https://docs.netskope.com/en/scopes-required-for-okta/
 **Last Modified:** 2026-05-05T04:57:44+00:00
-**Scraped:** 2026-07-24T08:51:13.477203+00:00
+**Scraped:** 2026-07-25T08:31:24.459721+00:00
 
 Roles Required for Okta - Netskope Knowledge Portal
 Roles Required for Okta
@@ -104490,7 +104611,7 @@ Roles Required for Okta
 ## Classic to Next Generation API Data Protection Migration
 **URL:** https://docs.netskope.com/en/classic-to-next-generation-api-data-protection-migration/
 **Last Modified:** 2025-09-11T01:03:27+00:00
-**Scraped:** 2026-07-24T08:51:14.655077+00:00
+**Scraped:** 2026-07-25T08:31:25.636850+00:00
 
 Classic to Next Generation API Data Protection Migration - Netskope Knowledge Portal
 Classic to Next Generation API Data Protection Migration
@@ -104537,7 +104658,7 @@ Classic to Next Generation API Data Protection Migration
 ## Migration Steps to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migration-steps-to-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:59+00:00
-**Scraped:** 2026-07-24T08:51:15.830817+00:00
+**Scraped:** 2026-07-25T08:31:26.810562+00:00
 
 Migration Steps to Next Generation API Data Protection - Netskope Knowledge Portal
 Migration Steps to Next Generation API Data Protection
@@ -104563,7 +104684,7 @@ Migration Steps to Next Generation API Data Protection
 ## Alert Configurations
 **URL:** https://docs.netskope.com/en/alert-configurations/
 **Last Modified:** 2026-07-23T01:19:41+00:00
-**Scraped:** 2026-07-24T08:51:17.036274+00:00
+**Scraped:** 2026-07-25T08:31:28.021142+00:00
 
 Alert Configurations - Netskope Knowledge Portal
 Alert Configurations
@@ -105085,9 +105206,8 @@ Alert Configurations
 ## Notification Methods
 **URL:** https://docs.netskope.com/en/notification-methods/
 **Last Modified:** 2026-07-23T01:25:01+00:00
-**Scraped:** 2026-07-24T08:51:18.313231+00:00
+**Scraped:** 2026-07-25T08:31:29.201906+00:00
 
-Notification Methods - Netskope Knowledge Portal
 Notification Methods
 You can configure alert notifications to be sent via email, Slack, and custom webhooks. So, you will be notified via the chosen notification method when an alert is triggered. When the conditions that triggered the alert have been resolved, or when an alert has been edited or deleted, the system closes the alert and sends a subsequent notification to inform you of the resolution.
 How to Configure Webhooks
@@ -105227,9 +105347,8 @@ Notification Methods
 ## Troubleshooting NPA Allowlisting for Specific Domains in AWS
 **URL:** https://docs.netskope.com/en/troubleshooting-npa-allowlisting-for-specific-domains-in-aws/
 **Last Modified:** 2026-03-03T02:26:53+00:00
-**Scraped:** 2026-07-24T08:51:19.491047+00:00
+**Scraped:** 2026-07-25T08:31:30.361798+00:00
 
-Troubleshooting NPA Allowlisting for Specific Domains in AWS - Netskope Knowledge Portal
 Troubleshooting NPA Allowlisting for Specific Domains in AWS
 If you are having difficulty creating an allowlist for specific domains (.docker.com, .docker.io, *.ubuntu.com) within your Netskope Private Access (NPA) configuration, that is because AWS security groups only accept IP ranges, not domain names. This limitation prevents you from directly allowlisting these domains for NPA lockdown purposes.
 Environments
@@ -105250,9 +105369,10 @@ Troubleshooting NPA Allowlisting for Specific Domains in AWS
 ---
 ## Digital Experience Management Enterprise
 **URL:** https://docs.netskope.com/en/proactive-digital-experience-management-enterprise/
-**Last Modified:** 2026-06-25T17:40:27+00:00
-**Scraped:** 2026-07-24T08:51:20.664672+00:00
+**Last Modified:** 2026-07-23T23:24:34+00:00
+**Scraped:** 2026-07-25T08:31:31.530653+00:00
 
+Digital Experience Management Enterprise - Netskope Knowledge Portal
 Digital Experience Management Enterprise
 Digital Experience Management (DEM) Enterprise is the ultimate Netskope DEM solution that allows customers to gain insight into the performance of SaaS and private applications for any kind of traffic being steered.
 It provides all of the telemetry and tool sets needed to troubleshoot any kind of performance degradation and clearly distinguish between devices, first and last mile connectivity, Netskope processing, and applications performance.
@@ -105280,7 +105400,7 @@ Digital Experience Management Enterprise
 ## Frequently Asked Questions
 **URL:** https://docs.netskope.com/en/frequently-asked-questions/
 **Last Modified:** 2025-08-31T01:47:09+00:00
-**Scraped:** 2026-07-24T08:51:21.858061+00:00
+**Scraped:** 2026-07-25T08:31:32.701213+00:00
 
 Frequently Asked Questions - Netskope Knowledge Portal
 Frequently Asked Questions
@@ -105298,7 +105418,7 @@ Frequently Asked Questions
 ## How to use the textmatch function?
 **URL:** https://docs.netskope.com/en/how-to-use-the-textmatch-function/
 **Last Modified:** 2025-08-31T01:47:11+00:00
-**Scraped:** 2026-07-24T08:51:23.051680+00:00
+**Scraped:** 2026-07-25T08:31:33.888240+00:00
 
 How to use the textmatch function? - Netskope Knowledge Portal
 How to use the textmatch function?
@@ -105524,7 +105644,7 @@ How to use the textmatch function?
 ## Configure Browser-based Access with Google Workspace
 **URL:** https://docs.netskope.com/en/configure-browser-access-with-google-workspace/
 **Last Modified:** 2026-06-18T22:34:02+00:00
-**Scraped:** 2026-07-24T08:51:24.235190+00:00
+**Scraped:** 2026-07-25T08:31:35.072368+00:00
 
 Configure Browser-based Access with Google Workspace - Netskope Knowledge Portal
 Configure Browser-based Access with Google Workspace
@@ -105595,7 +105715,7 @@ Configure Browser-based Access with Google Workspace
 ## Next Generation API Data Protection for Egnyte
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-egnyte/
 **Last Modified:** 2025-08-31T01:42:06+00:00
-**Scraped:** 2026-07-24T08:51:25.409820+00:00
+**Scraped:** 2026-07-25T08:31:36.341006+00:00
 
 Next Generation API Data Protection for Egnyte - Netskope Knowledge Portal
 Next Generation API Data Protection for Egnyte
@@ -105617,7 +105737,7 @@ Next Generation API Data Protection for Egnyte
 ## Configure Egnyte for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-egnyte-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:07+00:00
-**Scraped:** 2026-07-24T08:51:26.680999+00:00
+**Scraped:** 2026-07-25T08:31:37.527695+00:00
 
 Configure Egnyte for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Egnyte for the Next Generation API Data Protection
@@ -105691,7 +105811,7 @@ Configure Egnyte for the Next Generation API Data Protection
 ## Permissions Required for Egnyte
 **URL:** https://docs.netskope.com/en/permissions-required-for-egnyte/
 **Last Modified:** 2025-08-31T01:42:07+00:00
-**Scraped:** 2026-07-24T08:51:27.953639+00:00
+**Scraped:** 2026-07-25T08:31:38.702424+00:00
 
 Permissions Required for Egnyte - Netskope Knowledge Portal
 Permissions Required for Egnyte
@@ -105739,7 +105859,7 @@ Permissions Required for Egnyte
 ## Reporting False Positives
 **URL:** https://docs.netskope.com/en/reporting-false-positives/
 **Last Modified:** 2026-07-22T17:34:32+00:00
-**Scraped:** 2026-07-24T08:51:30.411549+00:00
+**Scraped:** 2026-07-25T08:31:41.065228+00:00
 
 Reporting False Positives - Netskope Knowledge Portal
 Reporting False Positives
@@ -105777,7 +105897,7 @@ Reporting False Positives
 ## Troubleshooting the Local Broker
 **URL:** https://docs.netskope.com/en/troubleshooting/
 **Last Modified:** 2026-04-07T22:47:13+00:00
-**Scraped:** 2026-07-24T08:51:31.620611+00:00
+**Scraped:** 2026-07-25T08:31:42.277643+00:00
 
 Troubleshooting the Local Broker - Netskope Knowledge Portal
 Troubleshooting the Local Broker
@@ -106393,8 +106513,9 @@ Troubleshooting the Local Broker
 ## Create a New Local Broker Instance
 **URL:** https://docs.netskope.com/en/create-a-new-local-broker-instance/
 **Last Modified:** 2026-06-16T03:51:50+00:00
-**Scraped:** 2026-07-24T08:51:33.117900+00:00
+**Scraped:** 2026-07-25T08:31:43.632595+00:00
 
+Create a New Local Broker Instance - Netskope Knowledge Portal
 Create a New Local Broker Instance
 Enable a Local Broker
 Reach out to your Netskope account team to get this feature enabled. Please note that this feature has a tenant wide flag.
@@ -106832,14 +106953,14 @@ lbr.acme.com
 to point to Local Broker IP address(es).
 In this Topic
 Create a New Local Broker Instance
-Create a New Local Broker Instance - Netskope Knowledge Portal
 
 ---
 ## Local Broker Requirements and Recommendations
 **URL:** https://docs.netskope.com/en/local-broker-prerequisites/
 **Last Modified:** 2026-06-26T16:04:21+00:00
-**Scraped:** 2026-07-24T08:51:34.302474+00:00
+**Scraped:** 2026-07-25T08:31:44.814677+00:00
 
+Local Broker Requirements and Recommendations - Netskope Knowledge Portal
 Local Broker Requirements and Recommendations
 Before deploying a Local Broker, factor these requirements and recommendations:
 Hardware Requirements
@@ -107029,7 +107150,7 @@ Local Broker Requirements and Recommendations
 ## Installing Modular Upgrades for OPLP and DPoP
 **URL:** https://docs.netskope.com/en/installing-modular-upgrades-for-oplp-and-dpop/
 **Last Modified:** 2025-08-31T01:42:47+00:00
-**Scraped:** 2026-07-24T08:51:37.871332+00:00
+**Scraped:** 2026-07-25T08:31:48.380767+00:00
 
 Installing Modular Upgrades for OPLP and DPoP - Netskope Knowledge Portal
 Installing Modular Upgrades for OPLP and DPoP
@@ -107065,7 +107186,7 @@ Installing Modular Upgrades for OPLP and DPoP
 ## Enable Browser-based Access Apps with a User Portal
 **URL:** https://docs.netskope.com/en/enable-browser-access-apps-with-a-user-portal/
 **Last Modified:** 2026-02-27T22:22:06+00:00
-**Scraped:** 2026-07-24T08:51:39.167616+00:00
+**Scraped:** 2026-07-25T08:31:49.557392+00:00
 
 Enable Browser-based Access Apps with a User Portal - Netskope Knowledge Portal
 Enable Browser-based Access Apps with a User Portal
@@ -107223,7 +107344,7 @@ Enable Browser-based Access Apps with a User Portal
 ## Expression
 **URL:** https://docs.netskope.com/en/expression/
 **Last Modified:** 2025-08-31T01:47:07+00:00
-**Scraped:** 2026-07-24T08:51:40.344824+00:00
+**Scraped:** 2026-07-25T08:31:50.837403+00:00
 
 Expression - Netskope Knowledge Portal
 Expression
@@ -107306,7 +107427,7 @@ Expression
 ## DEM Enterprise Settings
 **URL:** https://docs.netskope.com/en/p-dem-enterprise-settings/
 **Last Modified:** 2026-07-22T00:15:42+00:00
-**Scraped:** 2026-07-24T08:51:41.614222+00:00
+**Scraped:** 2026-07-25T08:31:52.008294+00:00
 
 DEM Enterprise Settings - Netskope Knowledge Portal
 DEM Enterprise Settings
@@ -107341,8 +107462,9 @@ DEM Enterprise Settings
 ## Main User Interface Navigation Features
 **URL:** https://docs.netskope.com/en/main-user-interface-navigation-features/
 **Last Modified:** 2026-06-25T17:40:33+00:00
-**Scraped:** 2026-07-24T08:51:44.073486+00:00
+**Scraped:** 2026-07-25T08:31:54.367945+00:00
 
+Main User Interface Navigation Features - Netskope Knowledge Portal
 Main User Interface Navigation Features
 The main user interface navigation features give you the ability to edit the time range, effortlessly navigate between dashboards, and utilize other valuable tools. You can optimize your monitoring and analysis capabilities by utilizing these features.
 Time Selector
@@ -107428,7 +107550,7 @@ Main User Interface Navigation Features
 ## Microsoft Purview Information Protection and Netskope DRM
 **URL:** https://docs.netskope.com/en/microsoft-purview-information-protection-and-netskope-drm/
 **Last Modified:** 2026-07-02T02:16:21+00:00
-**Scraped:** 2026-07-24T08:51:45.256310+00:00
+**Scraped:** 2026-07-25T08:31:55.548419+00:00
 
 Microsoft Purview Information Protection and Netskope DRM - Netskope Knowledge Portal
 Microsoft Purview Information Protection and Netskope DRM
@@ -107542,7 +107664,7 @@ Microsoft Purview Information Protection and Netskope DRM
 ## Box and Netskope DRM
 **URL:** https://docs.netskope.com/en/box-and-netskope-drm/
 **Last Modified:** 2026-06-25T19:18:19+00:00
-**Scraped:** 2026-07-24T08:51:46.439326+00:00
+**Scraped:** 2026-07-25T08:31:56.712783+00:00
 
 Box and Netskope DRM - Netskope Knowledge Portal
 Box and Netskope DRM
@@ -107644,7 +107766,7 @@ Box and Netskope DRM
 ## DEM Enterprise Dashboards
 **URL:** https://docs.netskope.com/en/dem-enterprise-dashboards/
 **Last Modified:** 2026-06-25T21:21:57+00:00
-**Scraped:** 2026-07-24T08:51:48.859322+00:00
+**Scraped:** 2026-07-25T08:31:59.213660+00:00
 
 DEM Enterprise Dashboards  - Netskope Knowledge Portal
 DEM Enterprise Dashboards
@@ -108025,8 +108147,9 @@ DEM Enterprise Dashboards
 ## Performance Metrics
 **URL:** https://docs.netskope.com/en/performance-metrics/
 **Last Modified:** 2026-06-25T17:40:34+00:00
-**Scraped:** 2026-07-24T08:51:50.139445+00:00
+**Scraped:** 2026-07-25T08:32:00.398297+00:00
 
+Performance Metrics - Netskope Knowledge Portal
 Performance Metrics
 Performance metrics are the core data that you can use to monitor the performance of networks and applications, and to troubleshoot performance degradations. By default, all metrics are expressed as average values, taking into account all measurements done during the selected time period. Other aggregation models (Percentile 50, 75, 90 and 99) can be selected from the top left dropdown menu.
 Network Probe Telemetry
@@ -108202,7 +108325,7 @@ Performance Metrics
 ## Monitoring Sources
 **URL:** https://docs.netskope.com/en/monitoring-sources/
 **Last Modified:** 2026-06-25T22:00:41+00:00
-**Scraped:** 2026-07-24T08:51:51.350372+00:00
+**Scraped:** 2026-07-25T08:32:01.619606+00:00
 
 Monitoring Sources  - Netskope Knowledge Portal
 Monitoring Sources
@@ -108447,7 +108570,7 @@ Monitoring Sources
 ## General Settings
 **URL:** https://docs.netskope.com/en/general-settings/
 **Last Modified:** 2026-06-25T21:32:29+00:00
-**Scraped:** 2026-07-24T08:51:52.523420+00:00
+**Scraped:** 2026-07-25T08:32:02.900542+00:00
 
 General Settings - Netskope Knowledge Portal
 General Settings
@@ -108506,7 +108629,7 @@ General Settings
 ## Synthetic Probes
 **URL:** https://docs.netskope.com/en/synthetic-probes/
 **Last Modified:** 2026-07-22T00:18:14+00:00
-**Scraped:** 2026-07-24T08:51:53.717822+00:00
+**Scraped:** 2026-07-25T08:32:04.072703+00:00
 
 Synthetic Probes  - Netskope Knowledge Portal
 Synthetic Probes
@@ -108689,7 +108812,7 @@ Synthetic Probes
 ## How to create rules using DOM files ?
 **URL:** https://docs.netskope.com/en/how-to-create-rules-using-dom-files/
 **Last Modified:** 2025-08-31T01:47:10+00:00
-**Scraped:** 2026-07-24T08:51:54.892568+00:00
+**Scraped:** 2026-07-25T08:32:05.247525+00:00
 
 How to create rules using DOM files ? - Netskope Knowledge Portal
 How to create rules using DOM files ?
@@ -108740,7 +108863,7 @@ How to create rules using DOM files ?
 ## Resource Types
 **URL:** https://docs.netskope.com/en/resource-types/
 **Last Modified:** 2026-07-16T11:26:32+00:00
-**Scraped:** 2026-07-24T08:51:56.081775+00:00
+**Scraped:** 2026-07-25T08:32:06.449804+00:00
 
 Resource Types - Netskope Knowledge Portal
 Resource Types
@@ -108975,7 +109098,7 @@ Resource Types
 ## Operators
 **URL:** https://docs.netskope.com/en/operators/
 **Last Modified:** 2025-08-31T01:47:06+00:00
-**Scraped:** 2026-07-24T08:51:57.275375+00:00
+**Scraped:** 2026-07-25T08:32:07.641541+00:00
 
 Operators - Netskope Knowledge Portal
 Operators
@@ -109213,7 +109336,7 @@ Operators
 ## Functions
 **URL:** https://docs.netskope.com/en/functions/
 **Last Modified:** 2025-08-31T01:47:07+00:00
-**Scraped:** 2026-07-24T08:51:58.552602+00:00
+**Scraped:** 2026-07-25T08:32:08.822247+00:00
 
 Functions - Netskope Knowledge Portal
 Functions
@@ -109329,7 +109452,7 @@ Functions
 ## Keywords
 **URL:** https://docs.netskope.com/en/keywords/
 **Last Modified:** 2025-08-31T01:47:07+00:00
-**Scraped:** 2026-07-24T08:51:59.835510+00:00
+**Scraped:** 2026-07-25T08:32:10.121922+00:00
 
 Keywords - Netskope Knowledge Portal
 Keywords
@@ -109464,7 +109587,7 @@ Keywords
 ## IBM MaaS360
 **URL:** https://docs.netskope.com/en/ibm-maas360-2/
 **Last Modified:** 2025-08-31T01:48:34+00:00
-**Scraped:** 2026-07-24T08:52:02.323641+00:00
+**Scraped:** 2026-07-25T08:32:12.580325+00:00
 
 IBM MaaS360 - Netskope Knowledge Portal
 IBM MaaS360
@@ -109481,7 +109604,7 @@ IBM MaaS360
 ## Iru (Formerly Kandji)
 **URL:** https://docs.netskope.com/en/iru/
 **Last Modified:** 2026-07-07T11:19:43+00:00
-**Scraped:** 2026-07-24T08:52:04.686979+00:00
+**Scraped:** 2026-07-25T08:32:14.933528+00:00
 
 Iru (Formerly Kandji) - Netskope Knowledge Portal
 Iru (Formerly Kandji)
@@ -109497,7 +109620,7 @@ Iru (Formerly Kandji)
 ## User Provisioning with OKTA
 **URL:** https://docs.netskope.com/en/integration-with-okta-for-user-provisioning/
 **Last Modified:** 2025-08-31T01:56:08+00:00
-**Scraped:** 2026-07-24T08:52:08.228658+00:00
+**Scraped:** 2026-07-25T08:32:18.832695+00:00
 
 User Provisioning with OKTA - Netskope Knowledge Portal
 User Provisioning with OKTA
@@ -109608,8 +109731,9 @@ User Provisioning with OKTA
 ## User Provisioning with Entra ID
 **URL:** https://docs.netskope.com/en/integration-with-entra-id-for-user-provisioning/
 **Last Modified:** 2026-03-31T11:45:13+00:00
-**Scraped:** 2026-07-24T08:52:09.407986+00:00
+**Scraped:** 2026-07-25T08:32:19.998516+00:00
 
+User Provisioning with Entra ID - Netskope Knowledge Portal
 User Provisioning with Entra ID
 User Provisioning with Microsoft Entra ID
 This document provides step-by-step instructions to create a Netskope SCIM app on Microsoft Entra ID for provisioning users to your Netskope tenant.
@@ -109724,8 +109848,9 @@ User Provisioning with Entra ID
 ## Legal Hold Profile
 **URL:** https://docs.netskope.com/en/legal-hold-profile/
 **Last Modified:** 2025-08-31T01:50:33+00:00
-**Scraped:** 2026-07-24T08:52:10.917850+00:00
+**Scraped:** 2026-07-25T08:32:21.174335+00:00
 
+Legal Hold Profile - Netskope Knowledge Portal
 Legal Hold Profile
 Legal Hold is a process that an organization uses to preserve all forms of relevant information when litigation is reasonably anticipated. A Legal Hold profile is used for specifying where the files need to be held for legal purposes when action of Legal Hold is taken.
 You can create a legal hold profile using the classic or next gen platform. In classic, the applications integrations are built on the 1st gen API Data Protection platform. In next gen, the application integrations are built on the latest Next Gen API Data Protection platform. Classic applications will gradually be migrated to next gen.
@@ -109793,14 +109918,14 @@ Save
 .
 In this Topic
 Legal Hold Profile
-Legal Hold Profile - Netskope Knowledge Portal
 
 ---
 ## App Specific Configuration
 **URL:** https://docs.netskope.com/en/app-specific-configuration/
 **Last Modified:** 2025-08-31T01:42:36+00:00
-**Scraped:** 2026-07-24T08:52:12.092021+00:00
+**Scraped:** 2026-07-25T08:32:22.357997+00:00
 
+App Specific Configuration - Netskope Knowledge Portal
 App Specific Configuration
 This article describes certain additional configuration steps required for certain SaaS apps.
 Slack Enterprise
@@ -109876,7 +110001,7 @@ App Specific Configuration
 ## Next Generation API Data Protection for Cisco Webex
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-cisco-webex/
 **Last Modified:** 2025-08-31T01:42:02+00:00
-**Scraped:** 2026-07-24T08:52:13.272536+00:00
+**Scraped:** 2026-07-25T08:32:23.629049+00:00
 
 Next Generation API Data Protection for Cisco Webex - Netskope Knowledge Portal
 Next Generation API Data Protection for Cisco Webex
@@ -109897,7 +110022,7 @@ Next Generation API Data Protection for Cisco Webex
 ## Next Generation API Data Protection for Slack Enterprise
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-slack-enterprise/
 **Last Modified:** 2025-08-31T01:42:18+00:00
-**Scraped:** 2026-07-24T08:52:14.444483+00:00
+**Scraped:** 2026-07-25T08:32:24.819257+00:00
 
 Next Generation API Data Protection for Slack Enterprise - Netskope Knowledge Portal
 Next Generation API Data Protection for Slack Enterprise
@@ -109918,7 +110043,7 @@ Next Generation API Data Protection for Slack Enterprise
 ## Configure Cisco Webex for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-cisco-webex-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:03+00:00
-**Scraped:** 2026-07-24T08:52:15.723201+00:00
+**Scraped:** 2026-07-25T08:32:25.996066+00:00
 
 Configure Cisco Webex for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Cisco Webex for the Next Generation API Data Protection
@@ -110020,7 +110145,7 @@ Configure Cisco Webex for the Next Generation API Data Protection
 ## Browser-based Access Authentication Bypass for URIs
 **URL:** https://docs.netskope.com/en/browser-access-authentication-bypass-for-uris/
 **Last Modified:** 2026-02-27T23:03:02+00:00
-**Scraped:** 2026-07-24T08:52:20.650522+00:00
+**Scraped:** 2026-07-25T08:32:30.729050+00:00
 
 Browser-based Access Authentication Bypass for URIs - Netskope Knowledge Portal
 Browser-based Access Authentication Bypass for URIs
@@ -110106,7 +110231,7 @@ Browser-based Access Authentication Bypass for URIs
 ## Enforcing DLP and TSS Policies on E2E Encrypted Apps
 **URL:** https://docs.netskope.com/en/whatsapp-file-encryption/
 **Last Modified:** 2026-01-26T17:57:16+00:00
-**Scraped:** 2026-07-24T08:52:23.028536+00:00
+**Scraped:** 2026-07-25T08:32:33.068503+00:00
 
 Enforcing DLP and TSS Policies on E2E Encrypted Apps - Netskope Knowledge Portal
 Enforcing DLP and TSS Policies on E2E Encrypted Apps
@@ -110189,7 +110314,7 @@ Enforcing DLP and TSS Policies on E2E Encrypted Apps
 ## SOCKS5 Proxy
 **URL:** https://docs.netskope.com/en/socks5-proxy-2/
 **Last Modified:** 2026-07-13T16:37:03+00:00
-**Scraped:** 2026-07-24T08:52:24.201032+00:00
+**Scraped:** 2026-07-25T08:32:34.228519+00:00
 
 SOCKS5 Proxy - Netskope Knowledge Portal
 SOCKS5 Proxy
@@ -110233,7 +110358,7 @@ SOCKS5 Proxy
 ## Search and Filter in the Inventory
 **URL:** https://docs.netskope.com/en/search-and-filter-in-the-inventory/
 **Last Modified:** 2025-08-31T01:47:41+00:00
-**Scraped:** 2026-07-24T08:52:25.373679+00:00
+**Scraped:** 2026-07-25T08:32:35.403406+00:00
 
 Search and Filter in the Inventory - Netskope Knowledge Portal
 Search and Filter in the Inventory
@@ -110257,7 +110382,7 @@ Search and Filter in the Inventory
 ## Investigate Devices
 **URL:** https://docs.netskope.com/en/investigate-devices/
 **Last Modified:** 2025-08-31T01:47:42+00:00
-**Scraped:** 2026-07-24T08:52:26.654462+00:00
+**Scraped:** 2026-07-25T08:32:36.587767+00:00
 
 Investigate Devices - Netskope Knowledge Portal
 Investigate Devices
@@ -110349,7 +110474,7 @@ Investigate Devices
 ## Investigate Events
 **URL:** https://docs.netskope.com/en/investigate-events/
 **Last Modified:** 2025-08-31T01:47:42+00:00
-**Scraped:** 2026-07-24T08:52:27.826432+00:00
+**Scraped:** 2026-07-25T08:32:37.761473+00:00
 
 Investigate Events - Netskope Knowledge Portal
 Investigate Events
@@ -110374,7 +110499,7 @@ Investigate Events
 ## Investigate Risks
 **URL:** https://docs.netskope.com/en/investigate-risks/
 **Last Modified:** 2025-08-31T01:47:43+00:00
-**Scraped:** 2026-07-24T08:52:29.000810+00:00
+**Scraped:** 2026-07-25T08:32:39.036461+00:00
 
 Investigate Risks - Netskope Knowledge Portal
 Investigate Risks
@@ -110411,7 +110536,7 @@ Investigate Risks
 ## Investigate Compliance Services
 **URL:** https://docs.netskope.com/en/investigate-compliance-services/
 **Last Modified:** 2025-08-31T01:47:43+00:00
-**Scraped:** 2026-07-24T08:52:30.175760+00:00
+**Scraped:** 2026-07-25T08:32:40.213685+00:00
 
 Investigate Compliance Services - Netskope Knowledge Portal
 Investigate Compliance Services
@@ -110468,7 +110593,7 @@ Investigate Compliance Services
 ## Local Broker Hardening
 **URL:** https://docs.netskope.com/en/local-broker-hardening/
 **Last Modified:** 2026-04-02T00:04:24+00:00
-**Scraped:** 2026-07-24T08:52:31.350302+00:00
+**Scraped:** 2026-07-25T08:32:41.387518+00:00
 
 Local Broker Hardening - Netskope Knowledge Portal
 Local Broker Hardening
@@ -110518,8 +110643,9 @@ Local Broker Hardening
 ## Cloud Exchange FAQs
 **URL:** https://docs.netskope.com/en/cloud-exchange-faqs/
 **Last Modified:** 2026-06-29T20:16:50+00:00
-**Scraped:** 2026-07-24T08:52:32.566175+00:00
+**Scraped:** 2026-07-25T08:32:42.603706+00:00
 
+Cloud Exchange FAQs - Netskope Knowledge Portal
 Cloud Exchange FAQs
 Welcome to the Netskope Cloud Exchange (CE) FAQ page. This page answers common questions about understanding, installing, configuring, managing, and using Cloud Exchange. Our goal is to help you quickly find the information you need. If your question isn’t answered here, please refer to our
 Knowledge Base articles
@@ -111286,7 +111412,7 @@ Cloud Exchange FAQs
 ## Understanding Resource ID
 **URL:** https://docs.netskope.com/en/understanding-resource-id/
 **Last Modified:** 2025-08-31T01:47:02+00:00
-**Scraped:** 2026-07-24T08:52:33.739038+00:00
+**Scraped:** 2026-07-25T08:32:43.875855+00:00
 
 Understanding Resource ID - Netskope Knowledge Portal
 Understanding Resource ID
@@ -111327,7 +111453,7 @@ Understanding Resource ID
 ## Update Verification Status
 **URL:** https://docs.netskope.com/en/update-verification-status/
 **Last Modified:** 2026-03-24T03:52:10+00:00
-**Scraped:** 2026-07-24T08:52:35.005625+00:00
+**Scraped:** 2026-07-25T08:32:45.047134+00:00
 
 Update Verification Status - Netskope Knowledge Portal
 Update Verification Status
@@ -111366,7 +111492,7 @@ Update Verification Status
 ## Configure ServiceNow for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-servicenow-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:31+00:00
-**Scraped:** 2026-07-24T08:52:37.393675+00:00
+**Scraped:** 2026-07-25T08:32:47.417444+00:00
 
 Configure ServiceNow for API Data Protection - Netskope Knowledge Portal
 Configure ServiceNow for API Data Protection
@@ -111572,7 +111698,7 @@ Configure ServiceNow for API Data Protection
 ## Netskope Product Life Cycle Policy
 **URL:** https://docs.netskope.com/en/netskope-security-cloud-product-life-cycle-policy/
 **Last Modified:** 2026-03-16T17:44:52+00:00
-**Scraped:** 2026-07-24T08:52:38.663252+00:00
+**Scraped:** 2026-07-25T08:32:48.592571+00:00
 
 Netskope Product Life Cycle Policy - Netskope Knowledge Portal
 Netskope Product Life Cycle Policy
@@ -111643,7 +111769,7 @@ Netskope Product Life Cycle Policy
 ## Using the REST API v2 UCI Reset
 **URL:** https://docs.netskope.com/en/using-the-rest-api-v2-uci-reset/
 **Last Modified:** 2025-08-31T01:39:12+00:00
-**Scraped:** 2026-07-24T08:52:39.835315+00:00
+**Scraped:** 2026-07-25T08:32:49.765268+00:00
 
 Using the REST API v2 UCI Reset - Netskope Knowledge Portal
 Using the REST API v2 UCI Reset
@@ -111688,7 +111814,7 @@ Using the REST API v2 UCI Reset
 ## GCP Folder Exclusion for CSA
 **URL:** https://docs.netskope.com/en/gcp-folder-exclusion-for-csa/
 **Last Modified:** 2025-08-31T01:46:03+00:00
-**Scraped:** 2026-07-24T08:52:41.019455+00:00
+**Scraped:** 2026-07-25T08:32:50.952304+00:00
 
 GCP Folder Exclusion for CSA - Netskope Knowledge Portal
 GCP Folder Exclusion for CSA
@@ -111828,7 +111954,7 @@ GCP Folder Exclusion for CSA
 ## API Data Protection for Microsoft Office 365 SharePoint
 **URL:** https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-sharepoint/
 **Last Modified:** 2025-08-31T01:41:04+00:00
-**Scraped:** 2026-07-24T08:52:42.194082+00:00
+**Scraped:** 2026-07-25T08:32:52.128013+00:00
 
 API Data Protection for Microsoft Office 365 SharePoint - Netskope Knowledge Portal
 API Data Protection for Microsoft Office 365 SharePoint
@@ -111848,7 +111974,7 @@ API Data Protection for Microsoft Office 365 SharePoint
 ## Configure Microsoft Office 365 SharePoint Sites for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-office-365-sharepoint-sites-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:41:05+00:00
-**Scraped:** 2026-07-24T08:52:43.366384+00:00
+**Scraped:** 2026-07-25T08:32:53.411972+00:00
 
 Configure Microsoft Office 365 SharePoint Sites for API Data Protection - Netskope Knowledge Portal
 Configure Microsoft Office 365 SharePoint Sites for API Data Protection
@@ -111999,7 +112125,7 @@ Configure Microsoft Office 365 SharePoint Sites for API Data Protection
 ## Configure Browser-based Access AnyApp
 **URL:** https://docs.netskope.com/en/configure-browser-access-anyapp/
 **Last Modified:** 2026-02-27T23:13:39+00:00
-**Scraped:** 2026-07-24T08:52:44.650023+00:00
+**Scraped:** 2026-07-25T08:32:54.581692+00:00
 
 Configure Browser-based Access AnyApp - Netskope Knowledge Portal
 Configure Browser-based Access AnyApp
@@ -112241,7 +112367,7 @@ Configure Browser-based Access AnyApp
 ## Upgrade Publisher Resources for Browser Access AnyApp
 **URL:** https://docs.netskope.com/en/upgrade-publisher-resources-for-browser-access-anyapp/
 **Last Modified:** 2025-08-31T01:45:36+00:00
-**Scraped:** 2026-07-24T08:52:45.846489+00:00
+**Scraped:** 2026-07-25T08:32:55.776292+00:00
 
 Upgrade Publisher Resources for Browser Access AnyApp - Netskope Knowledge Portal
 Upgrade Publisher Resources for Browser Access AnyApp
@@ -112445,7 +112571,7 @@ Upgrade Publisher Resources for Browser Access AnyApp
 ## Glossary
 **URL:** https://docs.netskope.com/en/glossary/
 **Last Modified:** 2025-08-31T01:47:11+00:00
-**Scraped:** 2026-07-24T08:52:47.014294+00:00
+**Scraped:** 2026-07-25T08:32:56.946521+00:00
 
 Glossary - Netskope Knowledge Portal
 Glossary
@@ -112484,7 +112610,7 @@ Glossary
 ## Next Generation API Data Protection for Box
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-box/
 **Last Modified:** 2025-08-31T01:42:08+00:00
-**Scraped:** 2026-07-24T08:52:48.186445+00:00
+**Scraped:** 2026-07-25T08:32:58.120016+00:00
 
 Next Generation API Data Protection for Box - Netskope Knowledge Portal
 Next Generation API Data Protection for Box
@@ -112505,7 +112631,7 @@ Next Generation API Data Protection for Box
 ## Special Note on Directory Writers Role
 **URL:** https://docs.netskope.com/en/special-note-on-directory-writers-role/
 **Last Modified:** 2025-08-31T01:40:45+00:00
-**Scraped:** 2026-07-24T08:52:49.361717+00:00
+**Scraped:** 2026-07-25T08:32:59.294363+00:00
 
 Special Note on Directory Writers Role - Netskope Knowledge Portal
 Special Note on Directory Writers Role
@@ -112560,7 +112686,7 @@ Special Note on Directory Writers Role
 ## Special Note on Directory Writers Role
 **URL:** https://docs.netskope.com/en/special-note-on-directory-writers-role-2/
 **Last Modified:** 2025-08-31T01:41:09+00:00
-**Scraped:** 2026-07-24T08:52:50.536981+00:00
+**Scraped:** 2026-07-25T08:33:00.473390+00:00
 
 Special Note on Directory Writers Role - Netskope Knowledge Portal
 Special Note on Directory Writers Role
@@ -112615,7 +112741,7 @@ Special Note on Directory Writers Role
 ## Migrate Slack Enterprise from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-slack-enterprise-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-12-18T05:47:54+00:00
-**Scraped:** 2026-07-24T08:52:55.352825+00:00
+**Scraped:** 2026-07-25T08:33:05.310022+00:00
 
 Migrate Slack Enterprise from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Slack Enterprise from Classic to Next Generation API Data Protection
@@ -112683,8 +112809,9 @@ Migrate Slack Enterprise from Classic to Next Generation API Data Protection
 ## NewEdge IP Ranges for Allowlisting
 **URL:** https://docs.netskope.com/en/newedge-ip-ranges-for-allowlisting/
 **Last Modified:** 2026-05-18T18:26:01+00:00
-**Scraped:** 2026-07-24T08:52:56.510785+00:00
+**Scraped:** 2026-07-25T08:33:06.567420+00:00
 
+NewEdge IP Ranges for Allowlisting - Netskope Knowledge Portal
 NewEdge IP Ranges for Allowlisting
 In order to take full advantage of NewEdge Data Centers (DCs) and prevent service disruptions, you must
 allowlist the IP ranges
@@ -112743,7 +112870,7 @@ NewEdge IP Ranges for Allowlisting
 ## Ticket Orchestrator Plugin
 **URL:** https://docs.netskope.com/en/ticket-orchestrator-plugin/
 **Last Modified:** 2026-05-19T00:55:25+00:00
-**Scraped:** 2026-07-24T08:53:00.391986+00:00
+**Scraped:** 2026-07-25T08:33:10.536017+00:00
 
 Ticket Orchestrator Plugin - Netskope Knowledge Portal
 Ticket Orchestrator Plugin
@@ -114993,7 +115120,7 @@ Ticket Orchestrator Plugin
 ## Risk Exchange Plugin - Netskope Knowledge Portal
 **URL:** https://docs.netskope.com/en/risk-exchange-plugin/
 **Last Modified:** 2026-07-06T22:34:13+00:00
-**Scraped:** 2026-07-24T08:53:03.124442+00:00
+**Scraped:** 2026-07-25T08:33:13.213042+00:00
 
 Risk Exchange Plugin - Netskope Knowledge Portal
 
@@ -115001,7 +115128,7 @@ Risk Exchange Plugin - Netskope Knowledge Portal
 ## Cloud Exchange Alerts Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/cloud-exchange-alerts-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-05-27T23:15:42+00:00
-**Scraped:** 2026-07-24T08:53:04.302558+00:00
+**Scraped:** 2026-07-25T08:33:14.390280+00:00
 
 Cloud Exchange Alerts Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Cloud Exchange Alerts Plugin for Ticket Orchestrator
@@ -115096,7 +115223,7 @@ Cloud Exchange Alerts Plugin for Ticket Orchestrator
 ## Cloud Exchange Sizing using Netskope Advanced Analytics
 **URL:** https://docs.netskope.com/en/cloud-exchange-sizing-using-netskope-advanced-analytics/
 **Last Modified:** 2026-03-20T23:40:55+00:00
-**Scraped:** 2026-07-24T08:53:10.274440+00:00
+**Scraped:** 2026-07-25T08:33:20.697188+00:00
 
 Cloud Exchange Sizing using Netskope Advanced Analytics - Netskope Knowledge Portal
 Cloud Exchange Sizing using Netskope Advanced Analytics
@@ -115138,7 +115265,7 @@ Cloud Exchange Sizing using Netskope Advanced Analytics
 ## Risk Management
 **URL:** https://docs.netskope.com/en/risk-management/
 **Last Modified:** 2025-08-31T01:47:49+00:00
-**Scraped:** 2026-07-24T08:53:12.645418+00:00
+**Scraped:** 2026-07-25T08:33:23.068990+00:00
 
 Risk Management - Netskope Knowledge Portal
 Risk Management
@@ -115210,7 +115337,7 @@ Risk Management
 ## Migrate Box from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-box-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:06:46+00:00
-**Scraped:** 2026-07-24T08:53:14.998665+00:00
+**Scraped:** 2026-07-25T08:33:25.415578+00:00
 
 Migrate Box from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Box from Classic to Next Generation API Data Protection
@@ -115275,7 +115402,7 @@ Migrate Box from Classic to Next Generation API Data Protection
 ## Migrate Cisco Webex from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-cisco-webex-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:17:07+00:00
-**Scraped:** 2026-07-24T08:53:16.174093+00:00
+**Scraped:** 2026-07-25T08:33:26.587918+00:00
 
 Migrate Cisco Webex from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Cisco Webex from Classic to Next Generation API Data Protection
@@ -115316,7 +115443,7 @@ Migrate Cisco Webex from Classic to Next Generation API Data Protection
 ## Migrate Dropbox from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-dropbox-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:08:51+00:00
-**Scraped:** 2026-07-24T08:53:17.352138+00:00
+**Scraped:** 2026-07-25T08:33:27.860999+00:00
 
 Migrate Dropbox from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Dropbox from Classic to Next Generation API Data Protection
@@ -115376,7 +115503,7 @@ Migrate Dropbox from Classic to Next Generation API Data Protection
 ## Migrate Egnyte from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-egnyte-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:09:27+00:00
-**Scraped:** 2026-07-24T08:53:18.533645+00:00
+**Scraped:** 2026-07-25T08:33:29.137036+00:00
 
 Migrate Egnyte from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Egnyte from Classic to Next Generation API Data Protection
@@ -115436,7 +115563,7 @@ Migrate Egnyte from Classic to Next Generation API Data Protection
 ## Migrate Google Drive from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-google-drive-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:10:33+00:00
-**Scraped:** 2026-07-24T08:53:19.806596+00:00
+**Scraped:** 2026-07-25T08:33:30.313085+00:00
 
 Migrate Google Drive from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Google Drive from Classic to Next Generation API Data Protection
@@ -115504,7 +115631,7 @@ Migrate Google Drive from Classic to Next Generation API Data Protection
 ## Migrate Microsoft 365 Outlook from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-microsoft-365-outlook-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:12:51+00:00
-**Scraped:** 2026-07-24T08:53:21.166743+00:00
+**Scraped:** 2026-07-25T08:33:31.485387+00:00
 
 Migrate Microsoft 365 Outlook from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Microsoft 365 Outlook from Classic to Next Generation API Data Protection
@@ -115545,7 +115672,7 @@ Migrate Microsoft 365 Outlook from Classic to Next Generation API Data Protectio
 ## Migrate Microsoft 365 Teams from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-microsoft-365-teams-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2026-01-20T00:47:40+00:00
-**Scraped:** 2026-07-24T08:53:22.341440+00:00
+**Scraped:** 2026-07-25T08:33:32.757939+00:00
 
 Migrate Microsoft 365 Teams from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Microsoft 365 Teams from Classic to Next Generation API Data Protection
@@ -115589,7 +115716,7 @@ Migrate Microsoft 365 Teams from Classic to Next Generation API Data Protection
 ## Migrate Salesforce from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-salesforce-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:19:16+00:00
-**Scraped:** 2026-07-24T08:53:23.520028+00:00
+**Scraped:** 2026-07-25T08:33:33.929975+00:00
 
 Migrate Salesforce from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Salesforce from Classic to Next Generation API Data Protection
@@ -115635,7 +115762,7 @@ Migrate Salesforce from Classic to Next Generation API Data Protection
 ## Migrate ServiceNow from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-servicenow-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:19:50+00:00
-**Scraped:** 2026-07-24T08:53:24.692998+00:00
+**Scraped:** 2026-07-25T08:33:35.110087+00:00
 
 Migrate ServiceNow from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate ServiceNow from Classic to Next Generation API Data Protection
@@ -115681,7 +115808,7 @@ Migrate ServiceNow from Classic to Next Generation API Data Protection
 ## Configure 3rd-party Risk Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-risk-exchange-plugins/
 **Last Modified:** 2026-01-06T00:21:03+00:00
-**Scraped:** 2026-07-24T08:53:25.869894+00:00
+**Scraped:** 2026-07-25T08:33:36.385716+00:00
 
 Configure 3rd-party Risk Exchange Plugins - Netskope Knowledge Portal
 Configure 3rd-party Risk Exchange Plugins
@@ -115729,7 +115856,7 @@ Configure 3rd-party Risk Exchange Plugins
 ## Microsoft Entra ID Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/microsoft-entra-id-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T03:48:28+00:00
-**Scraped:** 2026-07-24T08:53:27.104706+00:00
+**Scraped:** 2026-07-25T08:33:37.625845+00:00
 
 Microsoft Entra ID Plugin for Risk Exchange - Netskope Knowledge Portal
 Microsoft Entra ID Plugin for Risk Exchange
@@ -116579,7 +116706,7 @@ Microsoft Entra ID Plugin for Risk Exchange
 ## Configure Salesforce for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-salesforce-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-07-10T11:44:18+00:00
-**Scraped:** 2026-07-24T08:53:28.385270+00:00
+**Scraped:** 2026-07-25T08:33:38.829395+00:00
 
 Configure Salesforce for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Salesforce for the Next Generation API Data Protection
@@ -116947,8 +117074,9 @@ Configure Salesforce for the Next Generation API Data Protection
 ## CrowdStrike Falcon Cloud Security Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-falcon-cloud-security-plugin-for-risk-exchange/
 **Last Modified:** 2026-02-05T03:44:17+00:00
-**Scraped:** 2026-07-24T08:53:31.093444+00:00
+**Scraped:** 2026-07-25T08:33:41.252138+00:00
 
+CrowdStrike Falcon Cloud Security Plugin for Risk Exchange - Netskope Knowledge Portal
 CrowdStrike Falcon Cloud Security Plugin for Risk Exchange
 This document explains how to configure the CrowdStrike Falcon Cloud Security v1.0.1 plugin with the Risk Exchange module of the Netskope Cloud Exchange platform. This plugin fetches Users from the
 Cloud Security > Detections > Cloud Indicators of Attack (IOA)
@@ -118084,13 +118212,12 @@ Mapping
 .
 In this Topic
 CrowdStrike Falcon Cloud Security Plugin for Risk Exchange
-CrowdStrike Falcon Cloud Security Plugin for Risk Exchange - Netskope Knowledge Portal
 
 ---
 ## OS Family Criteria
 **URL:** https://docs.netskope.com/en/os-family-criteria/
 **Last Modified:** 2025-08-31T01:50:16+00:00
-**Scraped:** 2026-07-24T08:53:32.265493+00:00
+**Scraped:** 2026-07-25T08:33:42.419250+00:00
 
 OS Family Criteria - Netskope Knowledge Portal
 OS Family Criteria
@@ -118115,7 +118242,7 @@ OS Family Criteria
 ## Configure Google Drive for API Data Protection
 **URL:** https://docs.netskope.com/en/configure-google-drive-for-api-data-protection/
 **Last Modified:** 2025-08-31T01:40:32+00:00
-**Scraped:** 2026-07-24T08:53:33.466415+00:00
+**Scraped:** 2026-07-25T08:33:43.599665+00:00
 
 Configure Google Drive for API Data Protection - Netskope Knowledge Portal
 Configure Google Drive for API Data Protection
@@ -118479,7 +118606,7 @@ Configure Google Drive for API Data Protection
 ## Configure Netskope to Access your Office 365 SharePoint Sites App
 **URL:** https://docs.netskope.com/en/configure-netskope-to-access-your-office-365-sharepoint-sites-app/
 **Last Modified:** 2025-09-02T17:50:10+00:00
-**Scraped:** 2026-07-24T08:53:34.644596+00:00
+**Scraped:** 2026-07-25T08:33:44.776147+00:00
 
 Configure Netskope to Access your Office 365 SharePoint Sites App - Netskope Knowledge Portal
 Configure Netskope to Access your Office 365 SharePoint Sites App
@@ -118593,7 +118720,7 @@ Configure Netskope to Access your Office 365 SharePoint Sites App
 ## Advanced Analytics Best Practices
 **URL:** https://docs.netskope.com/en/advanced-analytics-best-practices/
 **Last Modified:** 2026-04-30T06:49:14+00:00
-**Scraped:** 2026-07-24T08:53:35.945309+00:00
+**Scraped:** 2026-07-25T08:33:45.994099+00:00
 
 Advanced Analytics Best Practices - Netskope Knowledge Portal
 Advanced Analytics Best Practices
@@ -118739,7 +118866,7 @@ Advanced Analytics Best Practices
 ## Explicit Proxy for a Publisher
 **URL:** https://docs.netskope.com/en/explicit-proxy-for-a-publisher/
 **Last Modified:** 2026-03-03T02:23:27+00:00
-**Scraped:** 2026-07-24T08:53:37.105927+00:00
+**Scraped:** 2026-07-25T08:33:47.172492+00:00
 
 Explicit Proxy for a Publisher - Netskope Knowledge Portal
 Explicit Proxy for a Publisher
@@ -118890,7 +119017,7 @@ Explicit Proxy for a Publisher
 ## Onboard Slack Enterprise
 **URL:** https://docs.netskope.com/en/configure-slack-enterprise-instance-for-saas-security-posture-management/
 **Last Modified:** 2025-09-05T04:53:01+00:00
-**Scraped:** 2026-07-24T08:53:38.281124+00:00
+**Scraped:** 2026-07-25T08:33:48.345507+00:00
 
 Onboard Slack Enterprise - Netskope Knowledge Portal
 Onboard Slack Enterprise
@@ -118946,8 +119073,9 @@ Onboard Slack Enterprise
 ## Permissions Required for Slack Enterprise
 **URL:** https://docs.netskope.com/en/permissions-required-for-slack-enterprise/
 **Last Modified:** 2025-08-31T01:46:51+00:00
-**Scraped:** 2026-07-24T08:53:39.456121+00:00
+**Scraped:** 2026-07-25T08:33:49.521117+00:00
 
+Permissions Required for Slack Enterprise - Netskope Knowledge Portal
 Permissions Required for Slack Enterprise
 When you grant access to the Slack Enterprise instance, Netskope requests the following permissions from your Slack account:
 Bot Token Scopes:
@@ -119042,7 +119170,7 @@ Permissions Required for Slack Enterprise
 ## Okta Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/okta-v1-1-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T23:06:32+00:00
-**Scraped:** 2026-07-24T08:53:40.707499+00:00
+**Scraped:** 2026-07-25T08:33:50.748642+00:00
 
 Okta Plugin for Risk Exchange - Netskope Knowledge Portal
 Okta Plugin for Risk Exchange
@@ -120372,7 +120500,7 @@ Okta Plugin for Risk Exchange
 ## Microsoft Defender for Endpoint Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-endpoint-plugin-for-risk-exchange/
 **Last Modified:** 2026-04-08T00:17:54+00:00
-**Scraped:** 2026-07-24T08:53:42.131464+00:00
+**Scraped:** 2026-07-25T08:33:52.020937+00:00
 
 Microsoft Defender for Endpoint Plugin for Risk Exchange - Netskope Knowledge Portal
 Microsoft Defender for Endpoint Plugin for Risk Exchange
@@ -121587,7 +121715,7 @@ Microsoft Defender for Endpoint Plugin for Risk Exchange
 ## Evaluate CVEs in Ubuntu 20.04 Publisher Images
 **URL:** https://docs.netskope.com/en/evaluate-cves-in-ubuntu-20-04-publisher-images/
 **Last Modified:** 2026-03-03T02:18:58+00:00
-**Scraped:** 2026-07-24T08:53:43.306627+00:00
+**Scraped:** 2026-07-25T08:33:53.192751+00:00
 
 Evaluate CVEs in Ubuntu 20.04 Publisher Images - Netskope Knowledge Portal
 Evaluate CVEs in Ubuntu 20.04 Publisher Images
@@ -121665,8 +121793,9 @@ Evaluate CVEs in Ubuntu 20.04 Publisher Images
 ## Deprovisioning Users
 **URL:** https://docs.netskope.com/en/deprovisioning-users/
 **Last Modified:** 2025-08-31T01:48:47+00:00
-**Scraped:** 2026-07-24T08:53:44.586692+00:00
+**Scraped:** 2026-07-25T08:33:54.464437+00:00
 
+Deprovisioning Users - Netskope Knowledge Portal
 Deprovisioning Users
 This document describes the Netskope Client behavior whenever a user is removed from an organization.
 There can be various scenarios due to which an IT administrator must remove employee details from their organization. For example, an employee leaving the organization and so on. Administrators deprovision these employees and uninstall Netskope Client from their devices. The administrator must choose the method to deprovision users depending on the way in which the users are provisioned into Netskope. The following are the supported methods to import users into the Netskope tenant.
@@ -121705,7 +121834,7 @@ Deprovisioning Users
 ## CrowdStrike Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:02:11+00:00
-**Scraped:** 2026-07-24T08:53:45.938941+00:00
+**Scraped:** 2026-07-25T08:33:55.753825+00:00
 
 CrowdStrike Plugin for Risk Exchange - Netskope Knowledge Portal
 CrowdStrike Plugin for Risk Exchange
@@ -123358,7 +123487,7 @@ CrowdStrike Plugin for Risk Exchange
 ## Jamf Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/jamf-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:04:36+00:00
-**Scraped:** 2026-07-24T08:53:47.151893+00:00
+**Scraped:** 2026-07-25T08:33:56.957574+00:00
 
 Jamf Plugin for Risk Exchange - Netskope Knowledge Portal
 Jamf Plugin for Risk Exchange
@@ -123843,7 +123972,7 @@ Jamf Plugin for Risk Exchange
 ## Advanced Analytics Pause/Resume Transaction Events
 **URL:** https://docs.netskope.com/en/advanced-analytics-pause-resume-transaction-events/
 **Last Modified:** 2025-08-31T01:49:33+00:00
-**Scraped:** 2026-07-24T08:53:48.338627+00:00
+**Scraped:** 2026-07-25T08:33:58.126037+00:00
 
 Advanced Analytics Pause/Resume Transaction Events - Netskope Knowledge Portal
 Advanced Analytics Pause/Resume Transaction Events
@@ -123870,7 +123999,7 @@ Advanced Analytics Pause/Resume Transaction Events
 ## Deploying DSPM Scanners (Sidecars)
 **URL:** https://docs.netskope.com/en/netskope-dspm-deployment-guides/
 **Last Modified:** 2025-08-31T01:44:51+00:00
-**Scraped:** 2026-07-24T08:53:49.516718+00:00
+**Scraped:** 2026-07-25T08:33:59.301323+00:00
 
 Deploying DSPM Scanners (Sidecars) - Netskope Knowledge Portal
 Deploying DSPM Scanners (Sidecars)
@@ -123896,7 +124025,7 @@ Deploying DSPM Scanners (Sidecars)
 ## Advanced Deployment (Distributed Scanners)
 **URL:** https://docs.netskope.com/en/advanced-deployment-distributed-scanners/
 **Last Modified:** 2026-06-17T06:37:27+00:00
-**Scraped:** 2026-07-24T08:53:50.791943+00:00
+**Scraped:** 2026-07-25T08:34:00.482811+00:00
 
 Advanced Deployment (Distributed Scanners) - Netskope Knowledge Portal
 Advanced Deployment (Distributed Scanners)
@@ -123915,7 +124044,7 @@ Advanced Deployment (Distributed Scanners)
 ## DSPM Overview
 **URL:** https://docs.netskope.com/en/netskope-dspm-overview/
 **Last Modified:** 2026-06-18T22:36:20+00:00
-**Scraped:** 2026-07-24T08:53:51.966113+00:00
+**Scraped:** 2026-07-25T08:34:01.662392+00:00
 
 DSPM Overview - Netskope Knowledge Portal
 DSPM Overview
@@ -123973,7 +124102,7 @@ DSPM Overview
 ## DSPM Architecture
 **URL:** https://docs.netskope.com/en/netskope-dspm-architecture/
 **Last Modified:** 2026-06-18T22:38:14+00:00
-**Scraped:** 2026-07-24T08:53:53.243676+00:00
+**Scraped:** 2026-07-25T08:34:02.839221+00:00
 
 DSPM Architecture - Netskope Knowledge Portal
 DSPM Architecture
@@ -124057,7 +124186,7 @@ DSPM Architecture
 ## DSPM Metadata Collection
 **URL:** https://docs.netskope.com/en/metadata-collection-in-netskope-dspm/
 **Last Modified:** 2026-06-19T21:55:16+00:00
-**Scraped:** 2026-07-24T08:53:55.608005+00:00
+**Scraped:** 2026-07-25T08:34:05.191259+00:00
 
 DSPM Metadata Collection - Netskope Knowledge Portal
 DSPM Metadata Collection
@@ -124145,7 +124274,7 @@ DSPM Metadata Collection
 ## Deploy DSPM Sidecars on AWS EC2 via Terraform
 **URL:** https://docs.netskope.com/en/deploying-dspm-sidecars-on-aws-ec2-via-terraform/
 **Last Modified:** 2026-06-17T06:40:51+00:00
-**Scraped:** 2026-07-24T08:53:56.812689+00:00
+**Scraped:** 2026-07-25T08:34:06.387494+00:00
 
 Deploy DSPM Sidecars on AWS EC2 via Terraform - Netskope Knowledge Portal
 Deploy DSPM Sidecars on AWS EC2 via Terraform
@@ -124418,7 +124547,7 @@ Deploy DSPM Sidecars on AWS EC2 via Terraform
 ## Deploy DSPM Sidecars via Helm
 **URL:** https://docs.netskope.com/en/installing-dspm-sidecars-using-helm/
 **Last Modified:** 2026-06-17T06:40:42+00:00
-**Scraped:** 2026-07-24T08:53:58.001379+00:00
+**Scraped:** 2026-07-25T08:34:07.573199+00:00
 
 Deploy DSPM Sidecars via Helm - Netskope Knowledge Portal
 Deploy DSPM Sidecars via Helm
@@ -124589,7 +124718,7 @@ Deploy DSPM Sidecars via Helm
 ## Deploy DSPM Sidecars on AWS EC2 via CloudFormation
 **URL:** https://docs.netskope.com/en/deploying-dspm-sidecars-via-aws-cloudformation/
 **Last Modified:** 2026-06-17T06:41:12+00:00
-**Scraped:** 2026-07-24T08:53:59.297837+00:00
+**Scraped:** 2026-07-25T08:34:08.766567+00:00
 
 Deploy DSPM Sidecars on AWS EC2 via CloudFormation - Netskope Knowledge Portal
 Deploy DSPM Sidecars on AWS EC2 via CloudFormation
@@ -124867,7 +124996,7 @@ Deploy DSPM Sidecars on AWS EC2 via CloudFormation
 ## Deploy DSPM Sidecars on Azure via Container Instances
 **URL:** https://docs.netskope.com/en/deploying-dspm-sidecars-via-azure/
 **Last Modified:** 2026-06-17T06:41:27+00:00
-**Scraped:** 2026-07-24T08:54:01.682117+00:00
+**Scraped:** 2026-07-25T08:34:11.143406+00:00
 
 Deploy DSPM Sidecars on Azure via Container Instances - Netskope Knowledge Portal
 Deploy DSPM Sidecars on Azure via Container Instances
@@ -125051,7 +125180,7 @@ Deploy DSPM Sidecars on Azure via Container Instances
 ## Deploy DSPM Sidecars on GCP via Cloud Run
 **URL:** https://docs.netskope.com/en/deploying-dspm-sidecars-with-google-cloud-run/
 **Last Modified:** 2026-06-17T06:41:32+00:00
-**Scraped:** 2026-07-24T08:54:02.893738+00:00
+**Scraped:** 2026-07-25T08:34:12.428725+00:00
 
 Deploy DSPM Sidecars on GCP via Cloud Run - Netskope Knowledge Portal
 Deploy DSPM Sidecars on GCP via Cloud Run
@@ -125249,7 +125378,7 @@ Deploy DSPM Sidecars on GCP via Cloud Run
 ## Configure Browser-based Access with Okta
 **URL:** https://docs.netskope.com/en/configure-browser-access-with-okta/
 **Last Modified:** 2026-02-28T00:30:10+00:00
-**Scraped:** 2026-07-24T08:54:04.072509+00:00
+**Scraped:** 2026-07-25T08:34:13.599921+00:00
 
 Configure Browser-based Access with Okta - Netskope Knowledge Portal
 Configure Browser-based Access with Okta
@@ -125307,7 +125436,7 @@ Configure Browser-based Access with Okta
 ## Remediated Devices
 **URL:** https://docs.netskope.com/en/remediated-devices/
 **Last Modified:** 2025-08-31T01:47:44+00:00
-**Scraped:** 2026-07-24T08:54:05.342158+00:00
+**Scraped:** 2026-07-25T08:34:14.773483+00:00
 
 Remediated Devices - Netskope Knowledge Portal
 Remediated Devices
@@ -125351,7 +125480,7 @@ Remediated Devices
 ## ServiceNow Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/servicenow-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:11:08+00:00
-**Scraped:** 2026-07-24T08:54:06.637528+00:00
+**Scraped:** 2026-07-25T08:34:16.068286+00:00
 
 ServiceNow Plugin for Risk Exchange - Netskope Knowledge Portal
 ServiceNow Plugin for Risk Exchange
@@ -125662,7 +125791,7 @@ ServiceNow Plugin for Risk Exchange
 ## Illumio Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/illumio-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:04:02+00:00
-**Scraped:** 2026-07-24T08:54:09.070212+00:00
+**Scraped:** 2026-07-25T08:34:18.616899+00:00
 
 Illumio Plugin for Risk Exchange - Netskope Knowledge Portal
 Illumio Plugin for Risk Exchange
@@ -125934,7 +126063,7 @@ Illumio Plugin for Risk Exchange
 ## Elastic Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/elastic-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:03:25+00:00
-**Scraped:** 2026-07-24T08:54:10.370410+00:00
+**Scraped:** 2026-07-25T08:34:19.823607+00:00
 
 Elastic Plugin for Risk Exchange - Netskope Knowledge Portal
 Elastic Plugin for Risk Exchange
@@ -126465,7 +126594,7 @@ Elastic Plugin for Risk Exchange
 ## LDAP Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/ldap-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:06:09+00:00
-**Scraped:** 2026-07-24T08:54:11.549697+00:00
+**Scraped:** 2026-07-25T08:34:21.020653+00:00
 
 LDAP Plugin for Risk Exchange - Netskope Knowledge Portal
 LDAP Plugin for Risk Exchange
@@ -126865,7 +126994,7 @@ LDAP Plugin for Risk Exchange
 ## KnowBe4 Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/knowbe4-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:04:49+00:00
-**Scraped:** 2026-07-24T08:54:12.721993+00:00
+**Scraped:** 2026-07-25T08:34:22.211785+00:00
 
 KnowBe4 Plugin for Risk Exchange - Netskope Knowledge Portal
 KnowBe4 Plugin for Risk Exchange
@@ -127150,7 +127279,7 @@ KnowBe4 Plugin for Risk Exchange
 ## How to Optimize NGL Queries with Resource Filtering?
 **URL:** https://docs.netskope.com/en/how-to-optimize-ngl-queries-with-resource-filtering/
 **Last Modified:** 2025-08-31T01:47:09+00:00
-**Scraped:** 2026-07-24T08:54:14.015301+00:00
+**Scraped:** 2026-07-25T08:34:23.392250+00:00
 
 How to Optimize NGL Queries with Resource Filtering? - Netskope Knowledge Portal
 How to Optimize NGL Queries with Resource Filtering?
@@ -127257,7 +127386,7 @@ How to Optimize NGL Queries with Resource Filtering?
 ## Using the REST API v2 Datasearch Endpoint
 **URL:** https://docs.netskope.com/en/using-the-rest-ap-v2-datasearch-endpoint/
 **Last Modified:** 2025-08-31T01:39:13+00:00
-**Scraped:** 2026-07-24T08:54:15.204841+00:00
+**Scraped:** 2026-07-25T08:34:24.566023+00:00
 
 Using the REST API v2 Datasearch Endpoint - Netskope Knowledge Portal
 Using the REST API v2 Datasearch Endpoint
@@ -127375,7 +127504,7 @@ Using the REST API v2 Datasearch Endpoint
 ## API Documentation
 **URL:** https://docs.netskope.com/en/api-documentation/
 **Last Modified:** 2025-08-31T01:47:54+00:00
-**Scraped:** 2026-07-24T08:54:16.375095+00:00
+**Scraped:** 2026-07-25T08:34:25.737853+00:00
 
 API Documentation - Netskope Knowledge Portal
 API Documentation
@@ -127432,7 +127561,7 @@ API Documentation
 ## Configure Box Instance in Netskope UI
 **URL:** https://docs.netskope.com/en/configure-box-instance-in-netskope-ui/
 **Last Modified:** 2025-08-31T01:39:47+00:00
-**Scraped:** 2026-07-24T08:54:18.730087+00:00
+**Scraped:** 2026-07-25T08:34:28.087452+00:00
 
 Configure Box Instance in Netskope UI - Netskope Knowledge Portal
 Configure Box Instance in Netskope UI
@@ -127493,7 +127622,7 @@ Configure Box Instance in Netskope UI
 ## Next Generation API Data Protection for ChatGPT Enterprise
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-chatgpt-enterprise/
 **Last Modified:** 2025-08-31T06:13:43+00:00
-**Scraped:** 2026-07-24T08:54:19.900641+00:00
+**Scraped:** 2026-07-25T08:34:29.267083+00:00
 
 Next Generation API Data Protection for ChatGPT Enterprise - Netskope Knowledge Portal
 Next Generation API Data Protection for ChatGPT Enterprise
@@ -127513,8 +127642,9 @@ Next Generation API Data Protection for ChatGPT Enterprise
 ## Adding Exceptions
 **URL:** https://docs.netskope.com/en/adding-exceptions/
 **Last Modified:** 2025-12-23T05:44:31+00:00
-**Scraped:** 2026-07-24T08:54:21.272102+00:00
+**Scraped:** 2026-07-25T08:34:30.496754+00:00
 
+Adding Exceptions - Netskope Knowledge Portal
 Adding Exceptions
 A
 steering configuration
@@ -127679,6 +127809,7 @@ New On-Prem
 and
 New Off-Prem
 columns represent the traffic modes the admin selects after enabling the Enable Dynamic Steering option in the UI.
+When you clone a steering configuration with Dynamic Steering disabled and enable it during the cloning process, the system populates exceptions only in either the On-Premises or Off-Premises section, rather than both. To apply exceptions to both environments, first clone the profile with Dynamic Steering disabled, save it, and then enable Dynamic Steering as a subsequent modification.
 Existing Traffic Mode
 New On-Prem
 New Off-Prem
@@ -128255,13 +128386,12 @@ Add
 Source Locations and Source Countries exceptions are never applied at the Netskope Client, instead it is bypassed at Netskope Cloud.
 In this Topic
 Adding Exceptions
-Adding Exceptions - Netskope Knowledge Portal
 
 ---
 ## Reverse Proxy For Egnyte
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-egnyte/
 **Last Modified:** 2025-08-31T01:55:03+00:00
-**Scraped:** 2026-07-24T08:54:25.018133+00:00
+**Scraped:** 2026-07-25T08:34:34.107861+00:00
 
 Reverse Proxy For Egnyte - Netskope Knowledge Portal
 Reverse Proxy For Egnyte
@@ -128343,7 +128473,7 @@ Reverse Proxy For Egnyte
 ## AWS Verified Access Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/aws-verified-access-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T22:57:35+00:00
-**Scraped:** 2026-07-24T08:54:26.247764+00:00
+**Scraped:** 2026-07-25T08:34:35.483065+00:00
 
 AWS Verified Access Plugin for Risk Exchange - Netskope Knowledge Portal
 AWS Verified Access Plugin for Risk Exchange
@@ -128990,7 +129120,7 @@ AWS Verified Access Plugin for Risk Exchange
 ## RBI Supported Browsers
 **URL:** https://docs.netskope.com/en/rbi-supported-browsers-duplicate/
 **Last Modified:** 2026-07-10T01:33:43+00:00
-**Scraped:** 2026-07-24T08:54:27.420943+00:00
+**Scraped:** 2026-07-25T08:34:36.656898+00:00
 
 RBI Supported Browsers - Netskope Knowledge Portal
 RBI Supported Browsers
@@ -129022,7 +129152,7 @@ RBI Supported Browsers
 ## Netskope Add-on for Splunk
 **URL:** https://docs.netskope.com/en/netskope-add-on-for-splunk/
 **Last Modified:** 2026-04-15T02:43:19+00:00
-**Scraped:** 2026-07-24T08:54:28.693468+00:00
+**Scraped:** 2026-07-25T08:34:37.817936+00:00
 
 Netskope Add-on for Splunk - Netskope Knowledge Portal
 Netskope Add-on for Splunk
@@ -129086,7 +129216,7 @@ Netskope Add-on for Splunk
 ## Endpoint Events Data Collection and Dashboard
 **URL:** https://docs.netskope.com/en/endpoint-events-data-collection-and-dashboard/
 **Last Modified:** 2025-08-31T01:49:36+00:00
-**Scraped:** 2026-07-24T08:54:29.897381+00:00
+**Scraped:** 2026-07-25T08:34:39.133067+00:00
 
 Endpoint Events Data Collection and Dashboard - Netskope Knowledge Portal
 Endpoint Events Data Collection and Dashboard
@@ -129403,7 +129533,7 @@ Endpoint Events Data Collection and Dashboard
 ## Local Broker Best Practices and FAQs
 **URL:** https://docs.netskope.com/en/local-broker-best-practices-and-faqs/
 **Last Modified:** 2026-04-06T16:25:21+00:00
-**Scraped:** 2026-07-24T08:54:31.075780+00:00
+**Scraped:** 2026-07-25T08:34:40.319759+00:00
 
 Local Broker Best Practices and FAQs - Netskope Knowledge Portal
 Local Broker Best Practices and FAQs
@@ -129489,7 +129619,7 @@ Local Broker Best Practices and FAQs
 ## CyberArk Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/cyberark-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:02:59+00:00
-**Scraped:** 2026-07-24T08:54:32.297152+00:00
+**Scraped:** 2026-07-25T08:34:41.551906+00:00
 
 CyberArk Plugin for Risk Exchange - Netskope Knowledge Portal
 CyberArk Plugin for Risk Exchange
@@ -130626,7 +130756,7 @@ CyberArk Plugin for Risk Exchange
 ## Cloud Exchange KB Articles
 **URL:** https://docs.netskope.com/en/cloud-exchange-kb-articles/
 **Last Modified:** 2026-07-06T04:01:13+00:00
-**Scraped:** 2026-07-24T08:54:33.725962+00:00
+**Scraped:** 2026-07-25T08:34:42.966820+00:00
 
 Cloud Exchange KB Articles - Netskope Knowledge Portal
 Cloud Exchange KB Articles
@@ -132653,9 +132783,8 @@ Cloud Exchange KB Articles
 ## ExtraHop Reveal(x) 360 Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/extrahop-revealx-360-plugin-for-risk-exchange/
 **Last Modified:** 2026-01-29T23:28:51+00:00
-**Scraped:** 2026-07-24T08:54:34.991273+00:00
+**Scraped:** 2026-07-25T08:34:44.163102+00:00
 
-ExtraHop Reveal(x) 360 Plugin for Risk Exchange - Netskope Knowledge Portal
 ExtraHop Reveal(x) 360 Plugin for Risk Exchange
 This document explains how to configure the ExtraHop Reveal(x) 360 v1.0.1 plugin with the Risk Exchange module of the Netskope Cloud Exchange platform. Use this plugin to fetch Cloud Workloads (Devices) from the Detections of the ExtraHop Reveal(x) 360 platform. It does not support performing any actions on Cloud Workloads (Devices) in ExtraHop Reveal(x) 360.
 Netskope normalization score calculation = (100 – ExtraHop’s Current Detection Risk Score) x 10.
@@ -133198,7 +133327,7 @@ ExtraHop Reveal(x) 360 Plugin for Risk Exchange
 ## Mimecast Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/mimecast-v2-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:07:58+00:00
-**Scraped:** 2026-07-24T08:54:36.308053+00:00
+**Scraped:** 2026-07-25T08:34:45.542903+00:00
 
 Mimecast Plugin for Risk Exchange - Netskope Knowledge Portal
 Mimecast Plugin for Risk Exchange
@@ -133901,7 +134030,7 @@ Mimecast Plugin for Risk Exchange
 ## Customizing Posture Score
 **URL:** https://docs.netskope.com/en/customising-posture-score/
 **Last Modified:** 2025-08-31T01:47:05+00:00
-**Scraped:** 2026-07-24T08:54:38.674606+00:00
+**Scraped:** 2026-07-25T08:34:48.006834+00:00
 
 Customizing Posture Score - Netskope Knowledge Portal
 Customizing Posture Score
@@ -133964,7 +134093,7 @@ Customizing Posture Score
 ## Scheduling Reports (New Experience) Dashboards
 **URL:** https://docs.netskope.com/en/scheduling-reports-new-experience-dashboards/
 **Last Modified:** 2025-08-31T01:56:00+00:00
-**Scraped:** 2026-07-24T08:54:41.073172+00:00
+**Scraped:** 2026-07-25T08:34:50.368133+00:00
 
 Scheduling Reports (New Experience) Dashboards - Netskope Knowledge Portal
 Scheduling Reports (New Experience) Dashboards
@@ -134068,7 +134197,7 @@ Scheduling Reports (New Experience) Dashboards
 ## Zylo Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/zylo-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:13:43+00:00
-**Scraped:** 2026-07-24T08:54:42.265952+00:00
+**Scraped:** 2026-07-25T08:34:51.644368+00:00
 
 Zylo Plugin for Risk Exchange - Netskope Knowledge Portal
 Zylo Plugin for Risk Exchange
@@ -134612,7 +134741,7 @@ Zylo Plugin for Risk Exchange
 ## Custom Applications
 **URL:** https://docs.netskope.com/en/custom-applications-2/
 **Last Modified:** 2026-06-25T21:34:32+00:00
-**Scraped:** 2026-07-24T08:54:44.731859+00:00
+**Scraped:** 2026-07-25T08:34:54.130209+00:00
 
 Custom Applications - Netskope Knowledge Portal
 Custom Applications
@@ -134708,8 +134837,9 @@ Custom Applications
 ## Enterprise Browser FAQs
 **URL:** https://docs.netskope.com/en/enterprise-browser-faqs/
 **Last Modified:** 2026-06-10T05:05:00+00:00
-**Scraped:** 2026-07-24T08:54:49.555928+00:00
+**Scraped:** 2026-07-25T08:34:58.851980+00:00
 
+Enterprise Browser FAQs - Netskope Knowledge Portal
 Enterprise Browser FAQs
 This page contains the latest FAQs and best practices for Enterprise Browser (EB) version 1.0.
 What are the installation prerequisites?
@@ -134821,8 +134951,9 @@ Enterprise Browser FAQs
 ## (User) Onboarding on the Enterprise Browser
 **URL:** https://docs.netskope.com/en/user-onboarding-on-the-enterprise-browser/
 **Last Modified:** 2025-08-31T01:45:03+00:00
-**Scraped:** 2026-07-24T08:54:55.496125+00:00
+**Scraped:** 2026-07-25T08:35:04.846799+00:00
 
+(User) Onboarding on the Enterprise Browser - Netskope Knowledge Portal
 (User) Onboarding on the Enterprise Browser
 This section describes the end user onboarding steps.
 Once the admin has provisioned users for the Netskope Enterprise Browser, they will receive an email with instructions to download and install EB, including the license key. Once downloaded, the user installs the Enterprise Browser, which will be launched automatically.
@@ -134839,7 +134970,7 @@ In this Topic
 ## Enterprise Browser Notes
 **URL:** https://docs.netskope.com/en/enterprise-browser-known-limitations/
 **Last Modified:** 2026-05-07T19:06:50+00:00
-**Scraped:** 2026-07-24T08:54:56.672707+00:00
+**Scraped:** 2026-07-25T08:35:06.118589+00:00
 
 Enterprise Browser Notes - Netskope Knowledge Portal
 Enterprise Browser Notes
@@ -134875,7 +135006,7 @@ Enterprise Browser Notes
 ## (User) Browsing with the Enterprise Browser
 **URL:** https://docs.netskope.com/en/user-browsing-with-the-enterprise-browser/
 **Last Modified:** 2026-02-27T18:16:59+00:00
-**Scraped:** 2026-07-24T08:54:57.844191+00:00
+**Scraped:** 2026-07-25T08:35:07.289393+00:00
 
 (User) Browsing with the Enterprise Browser - Netskope Knowledge Portal
 (User) Browsing with the Enterprise Browser
@@ -134897,7 +135028,7 @@ In this Topic
 ## Enterprise Browser Versioning
 **URL:** https://docs.netskope.com/en/enterprise-browser-versioning/
 **Last Modified:** 2025-08-31T01:45:05+00:00
-**Scraped:** 2026-07-24T08:54:59.020255+00:00
+**Scraped:** 2026-07-25T08:35:08.512571+00:00
 
 Enterprise Browser Versioning - Netskope Knowledge Portal
 Enterprise Browser Versioning
@@ -134931,7 +135062,7 @@ Enterprise Browser Versioning
 ## OKTA Set Up for Enterprise Browser
 **URL:** https://docs.netskope.com/en/okta-set-up-for-enterprise-browser/
 **Last Modified:** 2025-08-31T01:45:00+00:00
-**Scraped:** 2026-07-24T08:55:00.204850+00:00
+**Scraped:** 2026-07-25T08:35:09.793146+00:00
 
 OKTA Set Up for Enterprise Browser - Netskope Knowledge Portal
 OKTA Set Up for Enterprise Browser
@@ -134989,7 +135120,7 @@ OKTA Set Up for Enterprise Browser
 ## Enterprise Browser Prerequisites
 **URL:** https://docs.netskope.com/en/enterprise-browser-prerequisites/
 **Last Modified:** 2025-08-31T01:44:59+00:00
-**Scraped:** 2026-07-24T08:55:01.372848+00:00
+**Scraped:** 2026-07-25T08:35:10.969609+00:00
 
 Enterprise Browser Prerequisites - Netskope Knowledge Portal
 Enterprise Browser Prerequisites
@@ -135006,7 +135137,7 @@ Enterprise Browser Prerequisites
 ## CCI Cloud Apps
 **URL:** https://docs.netskope.com/en/cci-cloud-apps/
 **Last Modified:** 2026-06-19T16:05:19+00:00
-**Scraped:** 2026-07-24T08:55:03.788372+00:00
+**Scraped:** 2026-07-25T08:35:13.388914+00:00
 
 CCI Cloud Apps - Netskope Knowledge Portal
 CCI Cloud Apps
@@ -135033,7 +135164,7 @@ CCI Cloud Apps
 ## CCI Marketplace Apps
 **URL:** https://docs.netskope.com/en/cci-marketplace-apps/
 **Last Modified:** 2026-06-19T16:06:19+00:00
-**Scraped:** 2026-07-24T08:55:05.010821+00:00
+**Scraped:** 2026-07-25T08:35:14.559143+00:00
 
 CCI Marketplace Apps - Netskope Knowledge Portal
 CCI Marketplace Apps
@@ -135048,7 +135179,7 @@ CCI Marketplace Apps
 ## Google Drive and Netskope DRM
 **URL:** https://docs.netskope.com/en/gdrive-drm/
 **Last Modified:** 2026-06-25T19:18:18+00:00
-**Scraped:** 2026-07-24T08:55:07.394913+00:00
+**Scraped:** 2026-07-25T08:35:16.939078+00:00
 
 Google Drive and Netskope DRM - Netskope Knowledge Portal
 Google Drive and Netskope DRM
@@ -135136,7 +135267,7 @@ Google Drive and Netskope DRM
 ## Digital Rights Management
 **URL:** https://docs.netskope.com/en/digital-rights-management/
 **Last Modified:** 2026-06-25T17:37:03+00:00
-**Scraped:** 2026-07-24T08:55:08.566170+00:00
+**Scraped:** 2026-07-25T08:35:18.195708+00:00
 
 Digital Rights Management - Netskope Knowledge Portal
 Digital Rights Management
@@ -135176,7 +135307,7 @@ Digital Rights Management
 ## Configure Zoom for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-zoom-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-12-21T04:03:27+00:00
-**Scraped:** 2026-07-24T08:55:09.858942+00:00
+**Scraped:** 2026-07-25T08:35:19.372903+00:00
 
 Configure Zoom for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Zoom for the Next Generation API Data Protection
@@ -135273,7 +135404,7 @@ Configure Zoom for the Next Generation API Data Protection
 ## Create a Forensic Profile
 **URL:** https://docs.netskope.com/en/create-a-forensic-profile/
 **Last Modified:** 2026-06-25T19:32:45+00:00
-**Scraped:** 2026-07-24T08:55:11.034091+00:00
+**Scraped:** 2026-07-25T08:35:20.549695+00:00
 
 Create a Forensic Profile - Netskope Knowledge Portal
 Create a Forensic Profile
@@ -135329,7 +135460,7 @@ Create a Forensic Profile
 ## Migrate Microsoft 365 OneDrive from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-microsoft-365-onedrive-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:11:53+00:00
-**Scraped:** 2026-07-24T08:55:12.211174+00:00
+**Scraped:** 2026-07-25T08:35:21.708854+00:00
 
 Migrate Microsoft 365 OneDrive from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Microsoft 365 OneDrive from Classic to Next Generation API Data Protection
@@ -135389,7 +135520,7 @@ Migrate Microsoft 365 OneDrive from Classic to Next Generation API Data Protecti
 ## Migrate Microsoft 365 SharePoint from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-microsoft-365-sharepoint-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2025-09-15T11:14:03+00:00
-**Scraped:** 2026-07-24T08:55:13.385107+00:00
+**Scraped:** 2026-07-25T08:35:22.884747+00:00
 
 Migrate Microsoft 365 SharePoint from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate Microsoft 365 SharePoint from Classic to Next Generation API Data Protection
@@ -135449,7 +135580,7 @@ Migrate Microsoft 365 SharePoint from Classic to Next Generation API Data Protec
 ## Next Generation API Data Protection for Google Calendar
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-google-calendar/
 **Last Modified:** 2025-08-31T01:42:23+00:00
-**Scraped:** 2026-07-24T08:55:14.572355+00:00
+**Scraped:** 2026-07-25T08:35:24.058417+00:00
 
 Next Generation API Data Protection for Google Calendar - Netskope Knowledge Portal
 Next Generation API Data Protection for Google Calendar
@@ -135487,7 +135618,7 @@ Next Generation API Data Protection for Google Calendar
 ## How to Improve Posture Score?
 **URL:** https://docs.netskope.com/en/how-to-improve-posture-score/
 **Last Modified:** 2026-01-02T07:02:50+00:00
-**Scraped:** 2026-07-24T08:55:16.935019+00:00
+**Scraped:** 2026-07-25T08:35:26.418109+00:00
 
 How to Improve Posture Score? - Netskope Knowledge Portal
 How to Improve Posture Score?
@@ -135588,7 +135719,7 @@ How to Improve Posture Score?
 ## Account Endpoints
 **URL:** https://docs.netskope.com/en/account-endpoints/
 **Last Modified:** 2025-08-31T01:47:54+00:00
-**Scraped:** 2026-07-24T08:55:18.110094+00:00
+**Scraped:** 2026-07-25T08:35:27.593855+00:00
 
 Account Endpoints - Netskope Knowledge Portal
 Account Endpoints
@@ -135683,7 +135814,7 @@ Account Endpoints
 ## Upgrade a Publisher to Ubuntu 22.04 LTS
 **URL:** https://docs.netskope.com/en/upgrade-a-publisher-to-ubuntu-22-04-lts/
 **Last Modified:** 2026-04-08T19:58:24+00:00
-**Scraped:** 2026-07-24T08:55:20.478307+00:00
+**Scraped:** 2026-07-25T08:35:30.059464+00:00
 
 Upgrade a Publisher to Ubuntu 22.04 LTS - Netskope Knowledge Portal
 Upgrade a Publisher to Ubuntu 22.04 LTS
@@ -135832,7 +135963,7 @@ Upgrade a Publisher to Ubuntu 22.04 LTS
 ## Email Outbound
 **URL:** https://docs.netskope.com/en/email-outbound/
 **Last Modified:** 2026-07-23T00:14:05+00:00
-**Scraped:** 2026-07-24T08:55:22.986954+00:00
+**Scraped:** 2026-07-25T08:35:32.411442+00:00
 
 Email Outbound - Netskope Knowledge Portal
 Email Outbound
@@ -135886,7 +136017,7 @@ Email Outbound
 ## DSPM Supported Data Stores
 **URL:** https://docs.netskope.com/en/supported-data-stores-for-netskope-dspm/
 **Last Modified:** 2026-06-19T21:42:08+00:00
-**Scraped:** 2026-07-24T08:55:24.259047+00:00
+**Scraped:** 2026-07-25T08:35:33.586096+00:00
 
 DSPM Supported Data Stores - Netskope Knowledge Portal
 DSPM Supported Data Stores
@@ -135969,7 +136100,7 @@ DSPM Supported Data Stores
 ## Bitsight Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/bitsight-v1-0-1-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:01:14+00:00
-**Scraped:** 2026-07-24T08:55:29.006244+00:00
+**Scraped:** 2026-07-25T08:35:38.505295+00:00
 
 Bitsight Plugin for Risk Exchange - Netskope Knowledge Portal
 Bitsight Plugin for Risk Exchange
@@ -136534,7 +136665,7 @@ Bitsight Plugin for Risk Exchange
 ## Fundamental Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/fundamental-next-generation-api-data-protection/
 **Last Modified:** 2025-08-31T01:42:05+00:00
-**Scraped:** 2026-07-24T08:55:30.178968+00:00
+**Scraped:** 2026-07-25T08:35:39.677936+00:00
 
 Fundamental Next Generation API Data Protection - Netskope Knowledge Portal
 Fundamental Next Generation API Data Protection
@@ -136576,7 +136707,7 @@ Fundamental Next Generation API Data Protection
 ## Advanced Heuristic Analysis
 **URL:** https://docs.netskope.com/en/advanced-heuristic-analysis/
 **Last Modified:** 2025-09-03T18:22:24+00:00
-**Scraped:** 2026-07-24T08:55:31.448263+00:00
+**Scraped:** 2026-07-25T08:35:40.850862+00:00
 
 Advanced Heuristic Analysis - Netskope Knowledge Portal
 Advanced Heuristic Analysis
@@ -136626,7 +136757,7 @@ Advanced Heuristic Analysis
 ## Cloud Explicit Proxy for Chromebooks
 **URL:** https://docs.netskope.com/en/explicit-proxy-for-chromebooks-1/
 **Last Modified:** 2025-08-31T01:49:14+00:00
-**Scraped:** 2026-07-24T08:55:32.768537+00:00
+**Scraped:** 2026-07-25T08:35:42.040129+00:00
 
 Cloud Explicit Proxy for Chromebooks - Netskope Knowledge Portal
 Cloud Explicit Proxy for Chromebooks
@@ -136864,9 +136995,8 @@ Cloud Explicit Proxy for Chromebooks
 ## Configuring Streams
 **URL:** https://docs.netskope.com/en/configuring-streams/
 **Last Modified:** 2025-08-31T01:49:47+00:00
-**Scraped:** 2026-07-24T08:55:33.923540+00:00
+**Scraped:** 2026-07-25T08:35:43.217885+00:00
 
-Configuring Streams - Netskope Knowledge Portal
 Configuring Streams
 Navigate to
 Settings
@@ -136888,7 +137018,7 @@ Configuring Streams
 ## Choosing Data Sets
 **URL:** https://docs.netskope.com/en/choosing-data-sets/
 **Last Modified:** 2026-07-08T20:49:16+00:00
-**Scraped:** 2026-07-24T08:55:35.098655+00:00
+**Scraped:** 2026-07-25T08:35:44.398589+00:00
 
 Choosing Data Sets - Netskope Knowledge Portal
 Choosing Data Sets
@@ -136967,8 +137097,9 @@ Choosing Data Sets
 ## Configuring Destinations
 **URL:** https://docs.netskope.com/en/configuring-destinations/
 **Last Modified:** 2025-10-17T19:27:40+00:00
-**Scraped:** 2026-07-24T08:55:36.252757+00:00
+**Scraped:** 2026-07-25T08:35:45.555657+00:00
 
+Configuring Destinations - Netskope Knowledge Portal
 Configuring Destinations
 Netskope Log Streaming is a near real-time system that streams all events and logs generated in the Netskope platform directly to customer-owned cloud object storage buckets, such as Azure Blob Storage, Google Cloud Storage, or AWS Simple Storage Service (S3). Admins can ingest these events and logs to their SIEM solutions using the SIEM’s out-of-the-box connectors.
 It is recommended (not required) that admins configure storage in a region close to their account’s Netskope home PoP for best performance. For example, a tenant ID in the Netskope AM2 PoP can select a cloud provider region in the Netherlands.
@@ -137002,7 +137133,7 @@ Configuring Destinations
 ## Activating Streams
 **URL:** https://docs.netskope.com/en/activating-streams/
 **Last Modified:** 2025-10-22T20:53:52+00:00
-**Scraped:** 2026-07-24T08:55:37.422651+00:00
+**Scraped:** 2026-07-25T08:35:46.723800+00:00
 
 Activating Streams - Netskope Knowledge Portal
 Activating Streams
@@ -137016,7 +137147,7 @@ Activating Streams
 ## Roles RBAC V3
 **URL:** https://docs.netskope.com/en/roles-rbac-v3/
 **Last Modified:** 2025-10-09T22:24:37+00:00
-**Scraped:** 2026-07-24T08:55:41.044228+00:00
+**Scraped:** 2026-07-25T08:35:50.302282+00:00
 
 Roles RBAC V3 - Netskope Knowledge Portal
 Roles RBAC V3
@@ -137144,7 +137275,7 @@ Roles RBAC V3
 ## Jira Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/jira-plugin-for-ticket-orchestrator-2/
 **Last Modified:** 2026-02-24T02:25:08+00:00
-**Scraped:** 2026-07-24T08:55:42.294754+00:00
+**Scraped:** 2026-07-25T08:35:51.546817+00:00
 
 Jira Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Jira Plugin for Ticket Orchestrator
@@ -138631,7 +138762,7 @@ Jira Plugin for Ticket Orchestrator
 ## Sharing Reports (New Experience) Dashboards
 **URL:** https://docs.netskope.com/en/sharing-reports-new-experience-dashboards/
 **Last Modified:** 2025-08-31T01:56:02+00:00
-**Scraped:** 2026-07-24T08:55:43.470141+00:00
+**Scraped:** 2026-07-25T08:35:52.721432+00:00
 
 Sharing Reports (New Experience) Dashboards - Netskope Knowledge Portal
 Sharing Reports (New Experience) Dashboards
@@ -138674,7 +138805,7 @@ Sharing Reports (New Experience) Dashboards
 ## Sharing Reports (New Experience) Personal Folders
 **URL:** https://docs.netskope.com/en/sharing-reports-new-experience-personal-folders/
 **Last Modified:** 2025-08-31T01:56:02+00:00
-**Scraped:** 2026-07-24T08:55:44.646910+00:00
+**Scraped:** 2026-07-25T08:35:53.895264+00:00
 
 Sharing Reports (New Experience) Personal Folders - Netskope Knowledge Portal
 Sharing Reports (New Experience) Personal Folders
@@ -138749,7 +138880,7 @@ Sharing Reports (New Experience) Personal Folders
 ## Generate and Install SSL Certificates in Cloud Exchange
 **URL:** https://docs.netskope.com/en/generate-and-install-ssl-certificates-in-cloud-exchange/
 **Last Modified:** 2026-05-06T20:34:16+00:00
-**Scraped:** 2026-07-24T08:55:45.928292+00:00
+**Scraped:** 2026-07-25T08:35:55.074396+00:00
 
 Generate and Install SSL Certificates in Cloud Exchange - Netskope Knowledge Portal
 Generate and Install SSL Certificates in Cloud Exchange
@@ -138815,7 +138946,7 @@ Generate and Install SSL Certificates in Cloud Exchange
 ## API Tokens
 **URL:** https://docs.netskope.com/en/api-tokens-2/
 **Last Modified:** 2026-07-02T20:31:22+00:00
-**Scraped:** 2026-07-24T08:55:47.177061+00:00
+**Scraped:** 2026-07-25T08:35:56.343723+00:00
 
 API Tokens - Netskope Knowledge Portal
 API Tokens
@@ -139627,7 +139758,7 @@ API Tokens
 ## Reverse Proxy as a Service for Dropbox with Okta
 **URL:** https://docs.netskope.com/en/reverse-proxy-as-a-service-for-dropbox-with-okta/
 **Last Modified:** 2026-06-12T05:52:42+00:00
-**Scraped:** 2026-07-24T08:55:48.355835+00:00
+**Scraped:** 2026-07-25T08:35:57.542011+00:00
 
 Reverse Proxy as a Service for Dropbox with Okta - Netskope Knowledge Portal
 Reverse Proxy as a Service for Dropbox with Okta
@@ -139735,7 +139866,7 @@ Reverse Proxy as a Service for Dropbox with Okta
 ## Strategic Integrations
 **URL:** https://docs.netskope.com/en/netskope-dspm-strategic-integrations/
 **Last Modified:** 2025-08-31T01:44:50+00:00
-**Scraped:** 2026-07-24T08:55:49.526523+00:00
+**Scraped:** 2026-07-25T08:35:58.709628+00:00
 
 Strategic Integrations - Netskope Knowledge Portal
 Strategic Integrations
@@ -139748,7 +139879,7 @@ Strategic Integrations
 ## Cohesity Integration with DSPM
 **URL:** https://docs.netskope.com/en/integrating-cohesity-with-dspm/
 **Last Modified:** 2026-06-01T18:13:51+00:00
-**Scraped:** 2026-07-24T08:55:50.711317+00:00
+**Scraped:** 2026-07-25T08:35:59.895640+00:00
 
 Cohesity Integration with DSPM - Netskope Knowledge Portal
 Cohesity Integration with DSPM
@@ -139874,7 +140005,7 @@ Cohesity Integration with DSPM
 ## Netskope DSPM FAQs
 **URL:** https://docs.netskope.com/en/netskope-dspm-faqs/
 **Last Modified:** 2026-06-18T20:32:19+00:00
-**Scraped:** 2026-07-24T08:55:52.168950+00:00
+**Scraped:** 2026-07-25T08:36:01.491831+00:00
 
 Netskope DSPM FAQs - Netskope Knowledge Portal
 Netskope DSPM FAQs
@@ -143129,7 +143260,7 @@ Netskope DSPM FAQs
 ## User Import Methods and Supported Attributes
 **URL:** https://docs.netskope.com/en/user-import-methods-and-supported-attributes/
 **Last Modified:** 2026-04-02T07:52:24+00:00
-**Scraped:** 2026-07-24T08:55:53.345790+00:00
+**Scraped:** 2026-07-25T08:36:02.684343+00:00
 
 User Import Methods and Supported Attributes - Netskope Knowledge Portal
 User Import Methods and Supported Attributes
@@ -143213,7 +143344,7 @@ User Import Methods and Supported Attributes
 ## Capabilities and Configuration
 **URL:** https://docs.netskope.com/en/capabilities-and-configuration/
 **Last Modified:** 2025-08-31T01:43:55+00:00
-**Scraped:** 2026-07-24T08:55:54.513948+00:00
+**Scraped:** 2026-07-25T08:36:03.853050+00:00
 
 Capabilities and Configuration - Netskope Knowledge Portal
 Capabilities and Configuration
@@ -143227,7 +143358,7 @@ Capabilities and Configuration
 ## General Overview
 **URL:** https://docs.netskope.com/en/general-overview/
 **Last Modified:** 2025-08-31T01:43:54+00:00
-**Scraped:** 2026-07-24T08:55:55.670336+00:00
+**Scraped:** 2026-07-25T08:36:05.027856+00:00
 
 General Overview - Netskope Knowledge Portal
 General Overview
@@ -143240,7 +143371,7 @@ General Overview
 ## Netskope Copilot for CCI
 **URL:** https://docs.netskope.com/en/netskope-copilot-for-cci/
 **Last Modified:** 2026-07-23T19:04:53+00:00
-**Scraped:** 2026-07-24T08:55:56.824273+00:00
+**Scraped:** 2026-07-25T08:36:06.198868+00:00
 
 Netskope Copilot for CCI - Netskope Knowledge Portal
 Netskope Copilot for CCI
@@ -143261,7 +143392,7 @@ Netskope Copilot for CCI
 ## Onboarding Infrastructures for DSPM
 **URL:** https://docs.netskope.com/en/onboarding-infrastructure-into-netskope-dspm/
 **Last Modified:** 2025-08-31T01:44:44+00:00
-**Scraped:** 2026-07-24T08:55:57.999443+00:00
+**Scraped:** 2026-07-25T08:36:07.370521+00:00
 
 Onboarding Infrastructures for DSPM - Netskope Knowledge Portal
 Onboarding Infrastructures for DSPM
@@ -143284,7 +143415,7 @@ Onboarding Infrastructures for DSPM
 ## GCP Cloud
 **URL:** https://docs.netskope.com/en/google-cloud-platform-gcp/
 **Last Modified:** 2026-02-27T23:52:38+00:00
-**Scraped:** 2026-07-24T08:55:59.173164+00:00
+**Scraped:** 2026-07-25T08:36:08.541187+00:00
 
 GCP Cloud - Netskope Knowledge Portal
 GCP Cloud
@@ -143309,7 +143440,7 @@ GCP Cloud
 ## Azure Cloud
 **URL:** https://docs.netskope.com/en/microsoft-azure/
 **Last Modified:** 2025-08-31T01:44:47+00:00
-**Scraped:** 2026-07-24T08:56:00.340926+00:00
+**Scraped:** 2026-07-25T08:36:09.710037+00:00
 
 Azure Cloud - Netskope Knowledge Portal
 Azure Cloud
@@ -143322,7 +143453,7 @@ Azure Cloud
 ## AWS Cloud
 **URL:** https://docs.netskope.com/en/amazon-web-services-aws/
 **Last Modified:** 2025-08-31T01:44:45+00:00
-**Scraped:** 2026-07-24T08:56:01.538734+00:00
+**Scraped:** 2026-07-25T08:36:10.884435+00:00
 
 AWS Cloud - Netskope Knowledge Portal
 AWS Cloud
@@ -143336,7 +143467,7 @@ AWS Cloud
 ## Commvault Integration with DSPM
 **URL:** https://docs.netskope.com/en/integrating-commvault-with-dspm/
 **Last Modified:** 2026-05-27T21:14:36+00:00
-**Scraped:** 2026-07-24T08:56:02.847230+00:00
+**Scraped:** 2026-07-25T08:36:12.079007+00:00
 
 Commvault Integration with DSPM - Netskope Knowledge Portal
 Commvault Integration with DSPM
@@ -143516,7 +143647,7 @@ Commvault Integration with DSPM
 ## Local Broker Support Policy
 **URL:** https://docs.netskope.com/en/local-broker-support-policy/
 **Last Modified:** 2026-04-01T17:10:20+00:00
-**Scraped:** 2026-07-24T08:56:04.017370+00:00
+**Scraped:** 2026-07-25T08:36:13.250375+00:00
 
 Local Broker Support Policy - Netskope Knowledge Portal
 Local Broker Support Policy
@@ -143537,7 +143668,7 @@ Local Broker Support Policy
 ## Onboard GCP Infrastructure Manually
 **URL:** https://docs.netskope.com/en/onboarding-gcp-manually/
 **Last Modified:** 2026-05-27T21:09:13+00:00
-**Scraped:** 2026-07-24T08:56:06.420387+00:00
+**Scraped:** 2026-07-25T08:36:15.667110+00:00
 
 Onboard GCP Infrastructure Manually - Netskope Knowledge Portal
 Onboard GCP Infrastructure Manually
@@ -144071,7 +144202,7 @@ Onboard GCP Infrastructure Manually
 ## Onboard GCP Infrastructure via Terraform
 **URL:** https://docs.netskope.com/en/onboarding-gcp-via-terraform/
 **Last Modified:** 2026-03-04T21:16:51+00:00
-**Scraped:** 2026-07-24T08:56:07.620384+00:00
+**Scraped:** 2026-07-25T08:36:16.879338+00:00
 
 Onboard GCP Infrastructure via Terraform - Netskope Knowledge Portal
 Onboard GCP Infrastructure via Terraform
@@ -144340,7 +144471,7 @@ Onboard GCP Infrastructure via Terraform
 ## Troubleshooting Cloud Exchange Installations
 **URL:** https://docs.netskope.com/en/troubleshooting-cloud-exchange-installations/
 **Last Modified:** 2026-05-06T18:37:45+00:00
-**Scraped:** 2026-07-24T08:56:08.796367+00:00
+**Scraped:** 2026-07-25T08:36:18.346029+00:00
 
 Troubleshooting Cloud Exchange Installations - Netskope Knowledge Portal
 Troubleshooting Cloud Exchange Installations
@@ -144388,7 +144519,7 @@ Troubleshooting Cloud Exchange Installations
 ## SaaS Applications
 **URL:** https://docs.netskope.com/en/saas-guides/
 **Last Modified:** 2025-09-03T22:30:34+00:00
-**Scraped:** 2026-07-24T08:56:09.954385+00:00
+**Scraped:** 2026-07-25T08:36:19.516947+00:00
 
 SaaS Applications - Netskope Knowledge Portal
 SaaS Applications
@@ -144400,7 +144531,7 @@ SaaS Applications
 ## Create a Private Access App Definition
 **URL:** https://docs.netskope.com/en/create-a-private-app-definition/
 **Last Modified:** 2026-01-16T00:50:55+00:00
-**Scraped:** 2026-07-24T08:56:11.136642+00:00
+**Scraped:** 2026-07-25T08:36:20.703577+00:00
 
 Create a Private Access App Definition - Netskope Knowledge Portal
 Create a Private Access App Definition
@@ -144608,7 +144739,7 @@ Create a Private Access App Definition
 ## Configure App Segment Discovery for Private Apps
 **URL:** https://docs.netskope.com/en/configure-app-discovery-for-private-apps/
 **Last Modified:** 2026-01-29T19:55:34+00:00
-**Scraped:** 2026-07-24T08:56:12.415379+00:00
+**Scraped:** 2026-07-25T08:36:21.976509+00:00
 
 Configure App Segment Discovery for Private Apps - Netskope Knowledge Portal
 Configure App Segment Discovery for Private Apps
@@ -144666,7 +144797,7 @@ Configure App Segment Discovery for Private Apps
 ## Use Private App Segment Tags in App Definitions
 **URL:** https://docs.netskope.com/en/use-private-app-tags-in-app-definitions/
 **Last Modified:** 2026-05-28T22:53:41+00:00
-**Scraped:** 2026-07-24T08:56:13.690992+00:00
+**Scraped:** 2026-07-25T08:36:23.152763+00:00
 
 Use Private App Segment Tags in App Definitions - Netskope Knowledge Portal
 Use Private App Segment Tags in App Definitions
@@ -144699,7 +144830,7 @@ Use Private App Segment Tags in App Definitions
 ## DNSaaS Use Cases
 **URL:** https://docs.netskope.com/en/dnsaas-use-cases/
 **Last Modified:** 2026-07-02T01:51:00+00:00
-**Scraped:** 2026-07-24T08:56:16.050608+00:00
+**Scraped:** 2026-07-25T08:36:25.504823+00:00
 
 DNSaaS Use Cases - Netskope Knowledge Portal
 DNSaaS Use Cases
@@ -144741,7 +144872,7 @@ DNSaaS Use Cases
 ## DNSaaS Policy Ordering
 **URL:** https://docs.netskope.com/en/dnsaas-policy-ordering/
 **Last Modified:** 2025-08-31T01:50:35+00:00
-**Scraped:** 2026-07-24T08:56:18.394347+00:00
+**Scraped:** 2026-07-25T08:36:27.848278+00:00
 
 DNSaaS Policy Ordering - Netskope Knowledge Portal
 DNSaaS Policy Ordering
@@ -144779,8 +144910,8 @@ DNSaaS Policy Ordering
 ---
 ## DNSaaS Basic Configurations
 **URL:** https://docs.netskope.com/en/dnsaas-basic-configuration/
-**Last Modified:** 2025-10-10T19:49:02+00:00
-**Scraped:** 2026-07-24T08:56:19.571904+00:00
+**Last Modified:** 2026-07-24T02:45:01+00:00
+**Scraped:** 2026-07-25T08:36:29.023644+00:00
 
 DNSaaS Basic Configurations - Netskope Knowledge Portal
 DNSaaS Basic Configurations
@@ -144858,7 +144989,7 @@ DNSaaS Basic Configurations
 ## Guidance for Installing 3rd-party Applications on Publishers
 **URL:** https://docs.netskope.com/en/guidance-for-installing-3rd-party-applications-on-publishers/
 **Last Modified:** 2026-03-03T02:00:30+00:00
-**Scraped:** 2026-07-24T08:56:20.838807+00:00
+**Scraped:** 2026-07-25T08:36:30.192674+00:00
 
 Guidance for Installing 3rd-party Applications on Publishers - Netskope Knowledge Portal
 Guidance for Installing 3rd-party Applications on Publishers
@@ -144872,8 +145003,9 @@ Guidance for Installing 3rd-party Applications on Publishers
 ## Configure Publisher Auto-Updates
 **URL:** https://docs.netskope.com/en/configure-publisher-auto-updates/
 **Last Modified:** 2026-06-12T23:25:13+00:00
-**Scraped:** 2026-07-24T08:56:22.057422+00:00
+**Scraped:** 2026-07-25T08:36:31.493797+00:00
 
+Configure Publisher Auto-Updates - Netskope Knowledge Portal
 Configure Publisher Auto-Updates
 Publisher Auto-Update Best Practices
 In enterprise environments, Netskope recommends the following:
@@ -145267,7 +145399,7 @@ Configure Publisher Auto-Updates
 ## Upgrade a Publisher for China (PRC)
 **URL:** https://docs.netskope.com/en/upgrade-a-publisher-for-china-prc/
 **Last Modified:** 2026-04-09T02:21:33+00:00
-**Scraped:** 2026-07-24T08:56:23.248876+00:00
+**Scraped:** 2026-07-25T08:36:32.671307+00:00
 
 Upgrade a Publisher for China (PRC) - Netskope Knowledge Portal
 Upgrade a Publisher for China (PRC)
@@ -145382,7 +145514,7 @@ Upgrade a Publisher for China (PRC)
 ## Enable Kernel Updates on Older OVA Publishers
 **URL:** https://docs.netskope.com/en/enable-kernel-updates-on-older-ova-publishers/
 **Last Modified:** 2026-06-12T23:26:58+00:00
-**Scraped:** 2026-07-24T08:56:24.422705+00:00
+**Scraped:** 2026-07-25T08:36:33.831084+00:00
 
 Enable Kernel Updates on Older OVA Publishers - Netskope Knowledge Portal
 Enable Kernel Updates on Older OVA Publishers
@@ -145414,8 +145546,9 @@ Enable Kernel Updates on Older OVA Publishers
 ## Configure a Publisher for Software Updates via Explicit Proxy
 **URL:** https://docs.netskope.com/en/configure-a-publisher-for-software-updates-via-explicit-proxy/
 **Last Modified:** 2026-03-03T02:02:59+00:00
-**Scraped:** 2026-07-24T08:56:25.593341+00:00
+**Scraped:** 2026-07-25T08:36:35.003685+00:00
 
+Configure a Publisher for Software Updates via Explicit Proxy - Netskope Knowledge Portal
 Configure a Publisher for Software Updates via Explicit Proxy
 This section explains how to configure an Ubuntu host to enable Publisher’s software updates via an Explicit Proxy. Note that this only applies to Publisher outbound traffic for OS and Docker updates. The Publisher tunnel itself does not support traversing explicit proxy and must be allowed to connect direct to the Netskope NPA stitcher IP space.
 Configure the
@@ -145456,7 +145589,7 @@ Configure a Publisher for Software Updates via Explicit Proxy
 ## Enable SNMP on a Publisher
 **URL:** https://docs.netskope.com/en/enable-snmp-on-a-publisher/
 **Last Modified:** 2026-02-02T14:45:55+00:00
-**Scraped:** 2026-07-24T08:56:27.934897+00:00
+**Scraped:** 2026-07-25T08:36:37.364283+00:00
 
 Enable SNMP on a Publisher - Netskope Knowledge Portal
 Enable SNMP on a Publisher
@@ -145722,8 +145855,9 @@ Enable SNMP on a Publisher
 ## Re-enroll a Publisher
 **URL:** https://docs.netskope.com/en/re-enroll-a-publisher/
 **Last Modified:** 2026-03-03T02:07:47+00:00
-**Scraped:** 2026-07-24T08:56:29.107088+00:00
+**Scraped:** 2026-07-25T08:36:38.536321+00:00
 
+Re-enroll a Publisher - Netskope Knowledge Portal
 Re-enroll a Publisher
 You can re-enroll a new instance of Publisher into an existing entry in the Admin Console. Follow these steps to re-enroll a Publisher instance.
 In the Netskope UI, go to
@@ -145747,7 +145881,7 @@ Re-enroll a Publisher
 ## Disable Password Expiry for a Publisher
 **URL:** https://docs.netskope.com/en/disable-password-expiry-for-a-publisher/
 **Last Modified:** 2026-03-03T02:07:22+00:00
-**Scraped:** 2026-07-24T08:56:30.285445+00:00
+**Scraped:** 2026-07-25T08:36:39.805222+00:00
 
 Disable Password Expiry for a Publisher - Netskope Knowledge Portal
 Disable Password Expiry for a Publisher
@@ -145816,7 +145950,7 @@ Disable Password Expiry for a Publisher
 ## Using The DSPM Platform
 **URL:** https://docs.netskope.com/en/user-guide/
 **Last Modified:** 2025-08-31T01:43:56+00:00
-**Scraped:** 2026-07-24T08:56:32.636054+00:00
+**Scraped:** 2026-07-25T08:36:42.139450+00:00
 
 Using The DSPM Platform - Netskope Knowledge Portal
 Using The DSPM Platform
@@ -145874,7 +146008,7 @@ Using The DSPM Platform
 ## Tanium Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/tanium-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T03:49:52+00:00
-**Scraped:** 2026-07-24T08:56:36.242737+00:00
+**Scraped:** 2026-07-25T08:36:45.719858+00:00
 
 Tanium Plugin for Risk Exchange - Netskope Knowledge Portal
 Tanium Plugin for Risk Exchange
@@ -146332,7 +146466,7 @@ Tanium Plugin for Risk Exchange
 ## Publisher Requirements and Recommendations
 **URL:** https://docs.netskope.com/en/requirements-and-recommendations/
 **Last Modified:** 2026-06-18T18:05:16+00:00
-**Scraped:** 2026-07-24T08:56:37.439202+00:00
+**Scraped:** 2026-07-25T08:36:46.919949+00:00
 
 Publisher Requirements and Recommendations - Netskope Knowledge Portal
 Publisher Requirements and Recommendations
@@ -146608,7 +146742,7 @@ Publisher Requirements and Recommendations
 ## Publisher Configuration and Hardening
 **URL:** https://docs.netskope.com/en/publisher-configuration-and-hardening/
 **Last Modified:** 2026-03-03T01:59:11+00:00
-**Scraped:** 2026-07-24T08:56:38.612159+00:00
+**Scraped:** 2026-07-25T08:36:48.100310+00:00
 
 Publisher Configuration and Hardening - Netskope Knowledge Portal
 Publisher Configuration and Hardening
@@ -146647,7 +146781,7 @@ Publisher Configuration and Hardening
 ## Create a New Publisher
 **URL:** https://docs.netskope.com/en/create-a-new-publisher/
 **Last Modified:** 2026-06-18T18:14:22+00:00
-**Scraped:** 2026-07-24T08:56:39.832485+00:00
+**Scraped:** 2026-07-25T08:36:49.320042+00:00
 
 Create a New Publisher
 Create a Publisher to deploy on your network and use with a private app. The token generated in this procedure is used to deploy the Publisher, so be sure to make a copy. Auto-Update profiles have been add to the Publisher settings. If you have not yet created an Auto-Update profile, you can choose to use the default profile, or go to
@@ -147486,7 +147620,7 @@ Create a New Publisher
 ## Onboard Azure Infrastructure Manually
 **URL:** https://docs.netskope.com/en/onboarding-azure-manually/
 **Last Modified:** 2026-02-27T20:16:15+00:00
-**Scraped:** 2026-07-24T08:56:42.217550+00:00
+**Scraped:** 2026-07-25T08:36:51.704488+00:00
 
 Onboard Azure Infrastructure Manually - Netskope Knowledge Portal
 Onboard Azure Infrastructure Manually
@@ -147925,7 +148059,7 @@ Onboard Azure Infrastructure Manually
 ## The New Knowledge Portal
 **URL:** https://docs.netskope.com/en/the-new-knowledge-portal/
 **Last Modified:** 2026-03-23T22:58:32+00:00
-**Scraped:** 2026-07-24T08:56:43.490884+00:00
+**Scraped:** 2026-07-25T08:36:52.880892+00:00
 
 The New Knowledge Portal - Netskope Knowledge Portal
 The New Knowledge Portal
@@ -147971,7 +148105,7 @@ The New Knowledge Portal
 ## Onboard Azure Infrastructure via Terraform
 **URL:** https://docs.netskope.com/en/onboarding-azure-via-terraform/
 **Last Modified:** 2026-05-27T21:07:02+00:00
-**Scraped:** 2026-07-24T08:56:44.685675+00:00
+**Scraped:** 2026-07-25T08:36:54.178678+00:00
 
 Onboard Azure Infrastructure via Terraform - Netskope Knowledge Portal
 Onboard Azure Infrastructure via Terraform
@@ -148289,7 +148423,7 @@ Onboard Azure Infrastructure via Terraform
 ## DNSaaS Best Practices and Considerations
 **URL:** https://docs.netskope.com/en/dnsaas-best-practices-and-considerations/
 **Last Modified:** 2025-08-31T01:50:35+00:00
-**Scraped:** 2026-07-24T08:56:45.855904+00:00
+**Scraped:** 2026-07-25T08:36:55.350782+00:00
 
 DNSaaS Best Practices and Considerations - Netskope Knowledge Portal
 DNSaaS Best Practices and Considerations
@@ -148310,7 +148444,7 @@ DNSaaS Best Practices and Considerations
 ## Next Generation API Data Protection for ServiceNow
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-servicenow/
 **Last Modified:** 2025-08-31T01:42:16+00:00
-**Scraped:** 2026-07-24T08:56:49.534827+00:00
+**Scraped:** 2026-07-25T08:36:59.081753+00:00
 
 Next Generation API Data Protection for ServiceNow - Netskope Knowledge Portal
 Next Generation API Data Protection for ServiceNow
@@ -148331,7 +148465,7 @@ Next Generation API Data Protection for ServiceNow
 ## PulseSecure VPN
 **URL:** https://docs.netskope.com/en/pulsesecure-vpn/
 **Last Modified:** 2026-07-22T06:21:11+00:00
-**Scraped:** 2026-07-24T08:56:50.717907+00:00
+**Scraped:** 2026-07-25T08:37:00.267559+00:00
 
 PulseSecure VPN - Netskope Knowledge Portal
 PulseSecure VPN
@@ -148452,8 +148586,9 @@ PulseSecure VPN
 ## Google Workspace
 **URL:** https://docs.netskope.com/en/google-workspace/
 **Last Modified:** 2025-08-31T01:48:30+00:00
-**Scraped:** 2026-07-24T08:56:51.895868+00:00
+**Scraped:** 2026-07-25T08:37:01.470889+00:00
 
+Google Workspace - Netskope Knowledge Portal
 Google Workspace
 This article provides instructions to deploy Netskope Client on Android and Chrome OS devices using Google Workspace.
 Using Google endpoint management, you can manage devices in your organization and allow employees to access Google Workspace account from their personal or company-owned devices. At the same time, you can deploy mobile apps and set policies to secure the employee devices. To learn more, view
@@ -148723,7 +148858,7 @@ Google Workspace
 ## Custom SCIM Attributes
 **URL:** https://docs.netskope.com/en/custom-scim-attributes/
 **Last Modified:** 2026-04-02T06:34:06+00:00
-**Scraped:** 2026-07-24T08:56:53.088075+00:00
+**Scraped:** 2026-07-25T08:37:02.662955+00:00
 
 Custom SCIM Attributes - Netskope Knowledge Portal
 Custom SCIM Attributes
@@ -148937,7 +149072,7 @@ Custom SCIM Attributes
 ## Policies RBAC V3
 **URL:** https://docs.netskope.com/en/policies-rbac-v3/
 **Last Modified:** 2025-08-31T01:38:46+00:00
-**Scraped:** 2026-07-24T08:56:54.308060+00:00
+**Scraped:** 2026-07-25T08:37:03.909188+00:00
 
 Policies RBAC V3 - Netskope Knowledge Portal
 Policies RBAC V3
@@ -149442,7 +149577,7 @@ Policies RBAC V3
 ## Netskope Advanced Analytics and RBAC V3
 **URL:** https://docs.netskope.com/en/netskope-advanced-analytics-and-rbac-v3/
 **Last Modified:** 2025-08-31T01:38:43+00:00
-**Scraped:** 2026-07-24T08:56:55.485336+00:00
+**Scraped:** 2026-07-25T08:37:05.092330+00:00
 
 Netskope Advanced Analytics and RBAC V3 - Netskope Knowledge Portal
 Netskope Advanced Analytics and RBAC V3
@@ -149565,7 +149700,7 @@ Netskope Advanced Analytics and RBAC V3
 ## Wiz Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/wiz-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T02:50:00+00:00
-**Scraped:** 2026-07-24T08:57:01.521983+00:00
+**Scraped:** 2026-07-25T08:37:11.185105+00:00
 
 Wiz Plugin for Risk Exchange - Netskope Knowledge Portal
 Wiz Plugin for Risk Exchange
@@ -150159,7 +150294,7 @@ Wiz Plugin for Risk Exchange
 ## Onboard Box
 **URL:** https://docs.netskope.com/en/onboard-box/
 **Last Modified:** 2026-03-06T06:47:39+00:00
-**Scraped:** 2026-07-24T08:57:10.045044+00:00
+**Scraped:** 2026-07-25T08:37:19.745843+00:00
 
 Onboard Box - Netskope Knowledge Portal
 Onboard Box
@@ -150279,7 +150414,7 @@ Onboard Box
 ## Scope Required for Box
 **URL:** https://docs.netskope.com/en/scope-required-for-box/
 **Last Modified:** 2025-08-31T01:46:49+00:00
-**Scraped:** 2026-07-24T08:57:11.319637+00:00
+**Scraped:** 2026-07-25T08:37:20.918002+00:00
 
 Scope Required for Box - Netskope Knowledge Portal
 Scope Required for Box
@@ -150307,8 +150442,9 @@ Scope Required for Box
 ## Product Terms and Use
 **URL:** https://docs.netskope.com/en/product-terms-and-use/
 **Last Modified:** 2026-05-29T01:32:56+00:00
-**Scraped:** 2026-07-24T08:57:12.492704+00:00
+**Scraped:** 2026-07-25T08:37:22.088259+00:00
 
+Product Terms and Use - Netskope Knowledge Portal
 Product Terms and Use
 The following articles provide information about Licensing Terms, Support Policies and EOL/EOS in Netskope products.
 Agentic Broker Licensing Terms
@@ -150328,7 +150464,7 @@ Product Terms and Use
 ## Troubleshooting the Cloud TAP Stitcher
 **URL:** https://docs.netskope.com/en/troubleshooting-the-cloud-tap-stitcher/
 **Last Modified:** 2025-08-31T01:38:13+00:00
-**Scraped:** 2026-07-24T08:57:13.774908+00:00
+**Scraped:** 2026-07-25T08:37:23.283862+00:00
 
 Troubleshooting the Cloud TAP Stitcher - Netskope Knowledge Portal
 Troubleshooting the Cloud TAP Stitcher
@@ -150616,7 +150752,7 @@ Troubleshooting the Cloud TAP Stitcher
 ## Compliance Reporting and Regimes Coverage with Netskope
 **URL:** https://docs.netskope.com/en/compliance-regimes/
 **Last Modified:** 2025-08-31T01:49:46+00:00
-**Scraped:** 2026-07-24T08:57:16.161276+00:00
+**Scraped:** 2026-07-25T08:37:25.716132+00:00
 
 Compliance Reporting and Regimes Coverage with Netskope - Netskope Knowledge Portal
 Compliance Reporting and Regimes Coverage with Netskope
@@ -150733,7 +150869,7 @@ Compliance Reporting and Regimes Coverage with Netskope
 ## Adding a New Custom Rule from Inventory
 **URL:** https://docs.netskope.com/en/adding-a-new-custom-rule-from-inventory/
 **Last Modified:** 2025-08-31T01:46:55+00:00
-**Scraped:** 2026-07-24T08:57:17.333797+00:00
+**Scraped:** 2026-07-25T08:37:26.985760+00:00
 
 Adding a New Custom Rule from Inventory - Netskope Knowledge Portal
 Adding a New Custom Rule from Inventory
@@ -150813,7 +150949,7 @@ Adding a New Custom Rule from Inventory
 ## Configure Gmail for Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-gmail-for-next-generation-api-data-protection/
 **Last Modified:** 2026-03-18T08:48:01+00:00
-**Scraped:** 2026-07-24T08:57:18.517523+00:00
+**Scraped:** 2026-07-25T08:37:28.167572+00:00
 
 Configure Gmail for Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Gmail for Next Generation API Data Protection
@@ -150970,7 +151106,7 @@ Configure Gmail for Next Generation API Data Protection
 ## Configure Box for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-box-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-03-12T13:09:42+00:00
-**Scraped:** 2026-07-24T08:57:19.814518+00:00
+**Scraped:** 2026-07-25T08:37:29.432242+00:00
 
 Configure Box for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Box for the Next Generation API Data Protection
@@ -151140,7 +151276,7 @@ Configure Box for the Next Generation API Data Protection
 ## Configure Google Calendar for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-google-calendar-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-03-18T08:47:55+00:00
-**Scraped:** 2026-07-24T08:57:21.002969+00:00
+**Scraped:** 2026-07-25T08:37:30.616240+00:00
 
 Configure Google Calendar for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Google Calendar for the Next Generation API Data Protection
@@ -151303,7 +151439,7 @@ Configure Google Calendar for the Next Generation API Data Protection
 ## Onboard AWS Infrastructure Manually
 **URL:** https://docs.netskope.com/en/onboarding-aws-manually/
 **Last Modified:** 2026-05-07T06:04:08+00:00
-**Scraped:** 2026-07-24T08:57:23.644174+00:00
+**Scraped:** 2026-07-25T08:37:33.054427+00:00
 
 Onboard AWS Infrastructure Manually - Netskope Knowledge Portal
 Onboard AWS Infrastructure Manually
@@ -152377,7 +152513,7 @@ Onboard AWS Infrastructure Manually
 ## Onboard AWS Infrastructure via Terraform
 **URL:** https://docs.netskope.com/en/onboarding-aws-via-terraform/
 **Last Modified:** 2026-05-07T06:11:04+00:00
-**Scraped:** 2026-07-24T08:57:24.861095+00:00
+**Scraped:** 2026-07-25T08:37:34.256519+00:00
 
 Onboard AWS Infrastructure via Terraform - Netskope Knowledge Portal
 Onboard AWS Infrastructure via Terraform
@@ -152721,7 +152857,7 @@ Onboard AWS Infrastructure via Terraform
 ## StealthMole Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/stealthmole-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-06-24T22:56:57+00:00
-**Scraped:** 2026-07-24T08:57:26.040757+00:00
+**Scraped:** 2026-07-25T08:37:35.454669+00:00
 
 StealthMole Plugin for Risk Exchange - Netskope Knowledge Portal
 StealthMole Plugin for Risk Exchange
@@ -153015,7 +153151,7 @@ StealthMole Plugin for Risk Exchange
 ## Onboard AWS Infrastructure via CloudFormation
 **URL:** https://docs.netskope.com/en/onboarding-aws-via-cloudformation/
 **Last Modified:** 2026-04-29T19:41:43+00:00
-**Scraped:** 2026-07-24T08:57:27.250393+00:00
+**Scraped:** 2026-07-25T08:37:36.660133+00:00
 
 Onboard AWS Infrastructure via CloudFormation - Netskope Knowledge Portal
 Onboard AWS Infrastructure via CloudFormation
@@ -153353,6 +153489,42 @@ Operations
 tab, then confirm completion in
 Stack Instances
 . This deploys the required DSPM IAM roles to all accounts in the organization.
+Deploy the DSPM Role in the Management Account
+StackSets do not create resources in the management account where the StackSet is deployed. You must deploy the DSPM role separately in the management account using a standard CloudFormation stack. Without this step, no DSPM role exists in the target account and onboarding cannot complete.
+In the AWS Management Account, go to
+CloudFormation >
+Click
+Create stack > With new resources (standard)
+.
+Under
+Specify template
+>
+Choose
+Upload a template file
+>
+Upload the same YAML file you used for the StackSet.
+Click
+Next >
+Enter a stack name (e.g.,
+NetskopeDSPM-MgmtAccount-Role
+)
+>
+Click
+Next
+.
+On the
+Configure stack options
+page, click
+Next
+.
+On the
+Review
+page, check the acknowledgment box and click
+Create stack
+.
+Wait for the stack status to change to
+CREATE_COMPLETE
+.
 In the Netskope Console
 :
 Return to the Netskope DSPM browser tab you left open.
@@ -153416,7 +153588,7 @@ Onboard AWS Infrastructure via CloudFormation
 ## AWS Data Stores
 **URL:** https://docs.netskope.com/en/aws-data-stores/
 **Last Modified:** 2025-08-31T01:44:26+00:00
-**Scraped:** 2026-07-24T08:57:28.509350+00:00
+**Scraped:** 2026-07-25T08:37:37.929397+00:00
 
 AWS Data Stores - Netskope Knowledge Portal
 AWS Data Stores
@@ -153445,7 +153617,7 @@ AWS Data Stores
 ## Infoblox SOC Insights Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/infoblox-soc-insights-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T22:40:07+00:00
-**Scraped:** 2026-07-24T08:57:29.718012+00:00
+**Scraped:** 2026-07-25T08:37:39.230171+00:00
 
 Infoblox SOC Insights Plugin for Risk Exchange - Netskope Knowledge Portal
 Infoblox SOC Insights Plugin for Risk Exchange
@@ -153769,7 +153941,7 @@ Infoblox SOC Insights Plugin for Risk Exchange
 ## ManageEngine Endpoint Central
 **URL:** https://docs.netskope.com/en/manageengine-endpoint-central/
 **Last Modified:** 2026-07-22T06:44:52+00:00
-**Scraped:** 2026-07-24T08:57:30.901930+00:00
+**Scraped:** 2026-07-25T08:37:40.399957+00:00
 
 ManageEngine Endpoint Central - Netskope Knowledge Portal
 ManageEngine Endpoint Central
@@ -153785,7 +153957,7 @@ ManageEngine Endpoint Central
 ## Rule Count Mismatch: Policy vs Findings
 **URL:** https://docs.netskope.com/en/rule-count-mismatch-policy-vs-findings/
 **Last Modified:** 2025-08-31T01:47:10+00:00
-**Scraped:** 2026-07-24T08:57:39.459217+00:00
+**Scraped:** 2026-07-25T08:37:49.163493+00:00
 
 Rule Count Mismatch: Policy vs Findings - Netskope Knowledge Portal
 Rule Count Mismatch: Policy vs Findings
@@ -153853,7 +154025,7 @@ Rule Count Mismatch: Policy vs Findings
 ## GCP Data Stores
 **URL:** https://docs.netskope.com/en/gcp-data-stores/
 **Last Modified:** 2025-08-31T01:44:35+00:00
-**Scraped:** 2026-07-24T08:57:40.634692+00:00
+**Scraped:** 2026-07-25T08:37:50.337659+00:00
 
 GCP Data Stores - Netskope Knowledge Portal
 GCP Data Stores
@@ -153872,7 +154044,7 @@ GCP Data Stores
 ## PaaS and DBaaS Data Stores
 **URL:** https://docs.netskope.com/en/pass-and-dbaas-data-stores/
 **Last Modified:** 2025-08-31T01:44:39+00:00
-**Scraped:** 2026-07-24T08:57:41.810598+00:00
+**Scraped:** 2026-07-25T08:37:51.507200+00:00
 
 PaaS and DBaaS Data Stores - Netskope Knowledge Portal
 PaaS and DBaaS Data Stores
@@ -153887,7 +154059,7 @@ PaaS and DBaaS Data Stores
 ## Azure Data Stores
 **URL:** https://docs.netskope.com/en/azure-data-stores/
 **Last Modified:** 2025-08-31T01:44:21+00:00
-**Scraped:** 2026-07-24T08:57:42.979177+00:00
+**Scraped:** 2026-07-25T08:37:52.762127+00:00
 
 Azure Data Stores - Netskope Knowledge Portal
 Azure Data Stores
@@ -153906,7 +154078,7 @@ Azure Data Stores
 ## On-Prem Data Stores
 **URL:** https://docs.netskope.com/en/data-connections-on-prem/
 **Last Modified:** 2025-08-31T01:44:41+00:00
-**Scraped:** 2026-07-24T08:57:44.148720+00:00
+**Scraped:** 2026-07-25T08:37:53.931320+00:00
 
 On-Prem Data Stores - Netskope Knowledge Portal
 On-Prem Data Stores
@@ -153926,7 +154098,7 @@ On-Prem Data Stores
 ## Proofpoint Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/proofpoint-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:09:10+00:00
-**Scraped:** 2026-07-24T08:57:46.630423+00:00
+**Scraped:** 2026-07-25T08:37:56.411144+00:00
 
 Proofpoint Plugin for Risk Exchange - Netskope Knowledge Portal
 Proofpoint Plugin for Risk Exchange
@@ -154197,7 +154369,7 @@ Proofpoint Plugin for Risk Exchange
 ## BMC Helix Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/bmc-helix-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-02-14T00:33:22+00:00
-**Scraped:** 2026-07-24T08:57:47.839614+00:00
+**Scraped:** 2026-07-25T08:37:57.612605+00:00
 
 BMC Helix Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 BMC Helix Plugin for Ticket Orchestrator
@@ -154581,7 +154753,7 @@ BMC Helix Plugin for Ticket Orchestrator
 ## Enable DSPM for SaaS Applications
 **URL:** https://docs.netskope.com/en/deploying-dspm-for-saas/
 **Last Modified:** 2026-03-01T00:06:32+00:00
-**Scraped:** 2026-07-24T08:57:49.110819+00:00
+**Scraped:** 2026-07-25T08:37:58.786941+00:00
 
 Enable DSPM for SaaS Applications - Netskope Knowledge Portal
 Enable DSPM for SaaS Applications
@@ -154658,7 +154830,7 @@ Enable DSPM for SaaS Applications
 ## Connect Multiple GCP BigQuery to DSPM
 **URL:** https://docs.netskope.com/en/connect-multiple-gcp-bigquery-to-dspm/
 **Last Modified:** 2026-03-01T00:06:04+00:00
-**Scraped:** 2026-07-24T08:57:50.291611+00:00
+**Scraped:** 2026-07-25T08:37:59.974406+00:00
 
 Connect Multiple GCP BigQuery to DSPM - Netskope Knowledge Portal
 Connect Multiple GCP BigQuery to DSPM
@@ -154770,7 +154942,7 @@ Connect Multiple GCP BigQuery to DSPM
 ## Connect GCP BigQuery to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-bigquery-to-dspm/
 **Last Modified:** 2026-06-26T02:38:07+00:00
-**Scraped:** 2026-07-24T08:57:51.479708+00:00
+**Scraped:** 2026-07-25T08:38:01.255516+00:00
 
 Connect GCP BigQuery to DSPM - Netskope Knowledge Portal
 Connect GCP BigQuery to DSPM
@@ -154872,7 +155044,7 @@ Connect GCP BigQuery to DSPM
 ## Connect GCP Cloud SQL for MySQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-cloud-sql-for-mysql-to-dspm/
 **Last Modified:** 2026-06-26T02:38:57+00:00
-**Scraped:** 2026-07-24T08:57:52.698717+00:00
+**Scraped:** 2026-07-25T08:38:02.558116+00:00
 
 Connect GCP Cloud SQL for MySQL to DSPM - Netskope Knowledge Portal
 Connect GCP Cloud SQL for MySQL to DSPM
@@ -155076,7 +155248,7 @@ Connect GCP Cloud SQL for MySQL to DSPM
 ## Connect GCP Cloud SQL for PostgreSQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-cloud-sql-for-postgresql-to-dspm/
 **Last Modified:** 2026-06-26T02:39:51+00:00
-**Scraped:** 2026-07-24T08:57:53.884450+00:00
+**Scraped:** 2026-07-25T08:38:03.742370+00:00
 
 Connect GCP Cloud SQL for PostgreSQL to DSPM - Netskope Knowledge Portal
 Connect GCP Cloud SQL for PostgreSQL to DSPM
@@ -155250,7 +155422,7 @@ Connect GCP Cloud SQL for PostgreSQL to DSPM
 ## Connect GCP Cloud SQL for SQL Server to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-cloud-sql-for-sql-server-to-dspm/
 **Last Modified:** 2026-06-26T02:40:35+00:00
-**Scraped:** 2026-07-24T08:57:55.073089+00:00
+**Scraped:** 2026-07-25T08:38:04.924247+00:00
 
 Connect GCP Cloud SQL for SQL Server to DSPM - Netskope Knowledge Portal
 Connect GCP Cloud SQL for SQL Server to DSPM
@@ -155420,7 +155592,7 @@ Connect GCP Cloud SQL for SQL Server to DSPM
 ## Connect GCP Cloud Storage to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-cloud-storage-to-dspm/
 **Last Modified:** 2026-06-26T02:41:25+00:00
-**Scraped:** 2026-07-24T08:57:56.667448+00:00
+**Scraped:** 2026-07-25T08:38:06.384851+00:00
 
 Connect GCP Cloud Storage to DSPM - Netskope Knowledge Portal
 Connect GCP Cloud Storage to DSPM
@@ -158652,7 +158824,7 @@ Connect GCP Cloud Storage to DSPM
 ## Connect GCP Spanner to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-spanner-to-dspm/
 **Last Modified:** 2026-06-26T02:42:07+00:00
-**Scraped:** 2026-07-24T08:57:57.850645+00:00
+**Scraped:** 2026-07-25T08:38:07.552532+00:00
 
 Connect GCP Spanner to DSPM - Netskope Knowledge Portal
 Connect GCP Spanner to DSPM
@@ -158777,7 +158949,7 @@ Connect GCP Spanner to DSPM
 ## Connect GCP Firestore to DSPM
 **URL:** https://docs.netskope.com/en/connect-gcp-firestore-to-dspm/
 **Last Modified:** 2026-06-26T02:42:45+00:00
-**Scraped:** 2026-07-24T08:57:59.038222+00:00
+**Scraped:** 2026-07-25T08:38:08.751983+00:00
 
 Connect GCP Firestore to DSPM - Netskope Knowledge Portal
 Connect GCP Firestore to DSPM
@@ -158869,7 +159041,7 @@ Connect GCP Firestore to DSPM
 ## Connect MongoDB to DSPM
 **URL:** https://docs.netskope.com/en/connect-mongodb-to-dspm/
 **Last Modified:** 2026-06-26T02:32:57+00:00
-**Scraped:** 2026-07-24T08:58:00.236139+00:00
+**Scraped:** 2026-07-25T08:38:10.046793+00:00
 
 Connect MongoDB to DSPM - Netskope Knowledge Portal
 Connect MongoDB to DSPM
@@ -159019,7 +159191,7 @@ Connect MongoDB to DSPM
 ## Connect Databricks to DSPM
 **URL:** https://docs.netskope.com/en/connect-databricks-to-dspm/
 **Last Modified:** 2026-06-26T02:43:29+00:00
-**Scraped:** 2026-07-24T08:58:02.757312+00:00
+**Scraped:** 2026-07-25T08:38:12.417074+00:00
 
 Connect Databricks to DSPM - Netskope Knowledge Portal
 Connect Databricks to DSPM
@@ -159251,7 +159423,7 @@ Connect Databricks to DSPM
 ## Connect Heroku PostgreSQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-heroku-postgresql-to-dspm/
 **Last Modified:** 2026-06-20T00:55:05+00:00
-**Scraped:** 2026-07-24T08:58:03.941806+00:00
+**Scraped:** 2026-07-25T08:38:13.604881+00:00
 
 Connect Heroku PostgreSQL to DSPM - Netskope Knowledge Portal
 Connect Heroku PostgreSQL to DSPM
@@ -159434,7 +159606,7 @@ Connect Heroku PostgreSQL to DSPM
 ## Connect Snowflake to DSPM
 **URL:** https://docs.netskope.com/en/connect-snowflake-to-dspm/
 **Last Modified:** 2026-05-27T20:50:48+00:00
-**Scraped:** 2026-07-24T08:58:05.246874+00:00
+**Scraped:** 2026-07-25T08:38:14.802648+00:00
 
 Connect Snowflake to DSPM - Netskope Knowledge Portal
 Connect Snowflake to DSPM
@@ -159708,7 +159880,7 @@ Connect Snowflake to DSPM
 ## Connect Self-Managed PostgreSQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-self-managed-postgresql-to-dspm/
 **Last Modified:** 2026-06-26T02:33:46+00:00
-**Scraped:** 2026-07-24T08:58:06.435716+00:00
+**Scraped:** 2026-07-25T08:38:15.986768+00:00
 
 Connect Self-Managed PostgreSQL to DSPM - Netskope Knowledge Portal
 Connect Self-Managed PostgreSQL to DSPM
@@ -159859,7 +160031,7 @@ Connect Self-Managed PostgreSQL to DSPM
 ## Creating an IPSec Site
 **URL:** https://docs.netskope.com/en/creating-an-ipsec-site/
 **Last Modified:** 2026-04-14T20:27:44+00:00
-**Scraped:** 2026-07-24T08:58:07.620386+00:00
+**Scraped:** 2026-07-25T08:38:17.268110+00:00
 
 Creating an IPSec Site - Netskope Knowledge Portal
 Creating an IPSec Site
@@ -159968,7 +160140,7 @@ Creating an IPSec Site
 ## GRE
 **URL:** https://docs.netskope.com/en/gre/
 **Last Modified:** 2026-06-10T20:28:04+00:00
-**Scraped:** 2026-07-24T08:58:08.823505+00:00
+**Scraped:** 2026-07-25T08:38:18.482254+00:00
 
 GRE - Netskope Knowledge Portal
 GRE
@@ -160248,7 +160420,7 @@ GRE
 ## Configure Microsoft 365 Teams for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-365-teams-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-03-31T02:42:33+00:00
-**Scraped:** 2026-07-24T08:58:10.048744+00:00
+**Scraped:** 2026-07-25T08:38:19.912859+00:00
 
 Configure Microsoft 365 Teams for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Microsoft 365 Teams for the Next Generation API Data Protection
@@ -160807,7 +160979,7 @@ Configure Microsoft 365 Teams for the Next Generation API Data Protection
 ## Service Profile
 **URL:** https://docs.netskope.com/en/service-profile/
 **Last Modified:** 2026-03-03T07:57:29+00:00
-**Scraped:** 2026-07-24T08:58:11.222680+00:00
+**Scraped:** 2026-07-25T08:38:21.083979+00:00
 
 Service Profile - Netskope Knowledge Portal
 Service Profile
@@ -160856,7 +161028,7 @@ Service Profile
 ## Connect CIFS File Share to DSPM
 **URL:** https://docs.netskope.com/en/connect-to-cifs-file-share-to-dspm/
 **Last Modified:** 2026-03-30T20:30:52+00:00
-**Scraped:** 2026-07-24T08:58:14.112439+00:00
+**Scraped:** 2026-07-25T08:38:23.820419+00:00
 
 Connect CIFS File Share to DSPM - Netskope Knowledge Portal
 Connect CIFS File Share to DSPM
@@ -164301,7 +164473,7 @@ Connect CIFS File Share to DSPM
 ## Managing Data Stores and Scans
 **URL:** https://docs.netskope.com/en/setup-and-inventory/
 **Last Modified:** 2025-08-31T01:43:57+00:00
-**Scraped:** 2026-07-24T08:58:15.279256+00:00
+**Scraped:** 2026-07-25T08:38:24.990203+00:00
 
 Managing Data Stores and Scans - Netskope Knowledge Portal
 Managing Data Stores and Scans
@@ -164318,7 +164490,7 @@ Managing Data Stores and Scans
 ## Set Up DSPM
 **URL:** https://docs.netskope.com/en/netskope-dspm-setup/
 **Last Modified:** 2025-11-19T16:42:31+00:00
-**Scraped:** 2026-07-24T08:58:16.449496+00:00
+**Scraped:** 2026-07-25T08:38:26.259861+00:00
 
 Set Up DSPM - Netskope Knowledge Portal
 Set Up DSPM
@@ -164346,7 +164518,7 @@ Set Up DSPM
 ## Risk Analysis, Dashboards, and Reports
 **URL:** https://docs.netskope.com/en/configuration-and-risk-analysis/
 **Last Modified:** 2026-04-16T01:57:50+00:00
-**Scraped:** 2026-07-24T08:58:17.620687+00:00
+**Scraped:** 2026-07-25T08:38:27.428315+00:00
 
 Risk Analysis, Dashboards, and Reports - Netskope Knowledge Portal
 Risk Analysis, Dashboards, and Reports
@@ -164364,7 +164536,7 @@ Risk Analysis, Dashboards, and Reports
 ## Manage the DSPM Data Store Inventory
 **URL:** https://docs.netskope.com/en/manage-the-dspm-data-inventory/
 **Last Modified:** 2026-06-26T02:46:49+00:00
-**Scraped:** 2026-07-24T08:58:18.815919+00:00
+**Scraped:** 2026-07-25T08:38:28.720103+00:00
 
 Manage the DSPM Data Store Inventory - Netskope Knowledge Portal
 Manage the DSPM Data Store Inventory
@@ -164589,7 +164761,7 @@ Manage the DSPM Data Store Inventory
 ## Use Configuration Analysis in DSPM
 **URL:** https://docs.netskope.com/en/use-configuration-analysis-in-dspm/
 **Last Modified:** 2026-06-20T00:46:04+00:00
-**Scraped:** 2026-07-24T08:58:19.991776+00:00
+**Scraped:** 2026-07-25T08:38:29.886305+00:00
 
 Use Configuration Analysis in DSPM - Netskope Knowledge Portal
 Use Configuration Analysis in DSPM
@@ -164618,7 +164790,7 @@ Use Configuration Analysis in DSPM
 ## Managing Classification and Tagging
 **URL:** https://docs.netskope.com/en/classification-and-tagging/
 **Last Modified:** 2025-08-31T01:44:06+00:00
-**Scraped:** 2026-07-24T08:58:21.262233+00:00
+**Scraped:** 2026-07-25T08:38:31.057319+00:00
 
 Managing Classification and Tagging - Netskope Knowledge Portal
 Managing Classification and Tagging
@@ -164637,7 +164809,7 @@ Managing Classification and Tagging
 ## Use the DSPM Classification Management Page
 **URL:** https://docs.netskope.com/en/use-the-dspm-classification-management-page/
 **Last Modified:** 2026-04-24T04:12:09+00:00
-**Scraped:** 2026-07-24T08:58:22.598521+00:00
+**Scraped:** 2026-07-25T08:38:32.254550+00:00
 
 Use the DSPM Classification Management Page - Netskope Knowledge Portal
 Use the DSPM Classification Management Page
@@ -164784,7 +164956,7 @@ Use the DSPM Classification Management Page
 ## Run a First-Time Scan of a DSPM Data Store
 **URL:** https://docs.netskope.com/en/run-a-first-time-scan-of-a-dspm-data-store/
 **Last Modified:** 2025-12-10T04:27:37+00:00
-**Scraped:** 2026-07-24T08:58:24.034451+00:00
+**Scraped:** 2026-07-25T08:38:33.424303+00:00
 
 Run a First-Time Scan of a DSPM Data Store - Netskope Knowledge Portal
 Run a First-Time Scan of a DSPM Data Store
@@ -164801,7 +164973,7 @@ Run a First-Time Scan of a DSPM Data Store
 ## View the DSPM Data Store Risk Rating
 **URL:** https://docs.netskope.com/en/view-the-dspm-data-store-risk-rating/
 **Last Modified:** 2026-05-27T20:46:05+00:00
-**Scraped:** 2026-07-24T08:58:26.451186+00:00
+**Scraped:** 2026-07-25T08:38:35.881465+00:00
 
 View the DSPM Data Store Risk Rating - Netskope Knowledge Portal
 View the DSPM Data Store Risk Rating
@@ -164846,7 +165018,7 @@ View the DSPM Data Store Risk Rating
 ## Use Self-Managed Secrets for Credentials in DSPM
 **URL:** https://docs.netskope.com/en/use-self-managed-secrets-for-credentials-in-dspm/
 **Last Modified:** 2026-06-26T02:52:23+00:00
-**Scraped:** 2026-07-24T08:58:27.629874+00:00
+**Scraped:** 2026-07-25T08:38:37.151358+00:00
 
 Use Self-Managed Secrets for Credentials in DSPM - Netskope Knowledge Portal
 Use Self-Managed Secrets for Credentials in DSPM
@@ -164889,7 +165061,7 @@ Use Self-Managed Secrets for Credentials in DSPM
 ## Use Deep Privilege Analysis in DSPM
 **URL:** https://docs.netskope.com/en/use-deep-privilege-analysis-in-dspm/
 **Last Modified:** 2026-05-27T20:45:19+00:00
-**Scraped:** 2026-07-24T08:58:28.912770+00:00
+**Scraped:** 2026-07-25T08:38:38.327733+00:00
 
 Use Deep Privilege Analysis in DSPM - Netskope Knowledge Portal
 Use Deep Privilege Analysis in DSPM
@@ -165001,7 +165173,7 @@ Use Deep Privilege Analysis in DSPM
 ## View the DSPM User Risk Rating
 **URL:** https://docs.netskope.com/en/view-the-dspm-user-risk-rating/
 **Last Modified:** 2026-06-20T00:45:01+00:00
-**Scraped:** 2026-07-24T08:58:30.099430+00:00
+**Scraped:** 2026-07-25T08:38:39.608452+00:00
 
 View the DSPM User Risk Rating - Netskope Knowledge Portal
 View the DSPM User Risk Rating
@@ -165070,7 +165242,7 @@ View the DSPM User Risk Rating
 ## DSPM Classification Management Overview
 **URL:** https://docs.netskope.com/en/dspm-classification-management-overview/
 **Last Modified:** 2026-06-20T00:44:41+00:00
-**Scraped:** 2026-07-24T08:58:31.731162+00:00
+**Scraped:** 2026-07-25T08:38:41.030671+00:00
 
 DSPM Classification Management Overview - Netskope Knowledge Portal
 DSPM Classification Management Overview
@@ -168400,7 +168572,7 @@ DSPM Classification Management Overview
 ## Use Object-Level Tagging in DSPM
 **URL:** https://docs.netskope.com/en/object-level-tagging-in-dspm/
 **Last Modified:** 2026-06-01T18:11:56+00:00
-**Scraped:** 2026-07-24T08:58:32.908049+00:00
+**Scraped:** 2026-07-25T08:38:42.205831+00:00
 
 Use Object-Level Tagging in DSPM - Netskope Knowledge Portal
 Use Object-Level Tagging in DSPM
@@ -168473,7 +168645,7 @@ Use Object-Level Tagging in DSPM
 ## Manage DSPM Data Tags
 **URL:** https://docs.netskope.com/en/manage-dspm-data-tags/
 **Last Modified:** 2026-02-20T16:57:39+00:00
-**Scraped:** 2026-07-24T08:58:34.096493+00:00
+**Scraped:** 2026-07-25T08:38:43.387941+00:00
 
 Manage DSPM Data Tags - Netskope Knowledge Portal
 Manage DSPM Data Tags
@@ -168636,7 +168808,7 @@ Manage DSPM Data Tags
 ## Policies, Alerts, and Automation
 **URL:** https://docs.netskope.com/en/policies-and-automation/
 **Last Modified:** 2026-04-16T02:04:07+00:00
-**Scraped:** 2026-07-24T08:58:35.368733+00:00
+**Scraped:** 2026-07-25T08:38:44.560382+00:00
 
 Policies, Alerts, and Automation - Netskope Knowledge Portal
 Policies, Alerts, and Automation
@@ -168657,7 +168829,7 @@ Policies, Alerts, and Automation
 ## Destination Profile
 **URL:** https://docs.netskope.com/en/destination-profile/
 **Last Modified:** 2026-06-01T21:13:17+00:00
-**Scraped:** 2026-07-24T08:58:36.528831+00:00
+**Scraped:** 2026-07-25T08:38:45.733052+00:00
 
 Destination Profile - Netskope Knowledge Portal
 Destination Profile
@@ -168727,7 +168899,7 @@ Destination Profile
 ## Use the DSPM Policy Management Page
 **URL:** https://docs.netskope.com/en/use-the-dspm-policy-management-page/
 **Last Modified:** 2026-05-27T20:17:31+00:00
-**Scraped:** 2026-07-24T08:58:37.710756+00:00
+**Scraped:** 2026-07-25T08:38:46.909511+00:00
 
 Use the DSPM Policy Management Page - Netskope Knowledge Portal
 Use the DSPM Policy Management Page
@@ -168814,7 +168986,7 @@ Use the DSPM Policy Management Page
 ## View Built-In DSPM Policies
 **URL:** https://docs.netskope.com/en/view-built-in-dspm-policies/
 **Last Modified:** 2026-06-20T00:43:55+00:00
-**Scraped:** 2026-07-24T08:58:38.887321+00:00
+**Scraped:** 2026-07-25T08:38:48.118646+00:00
 
 View Built-In DSPM Policies - Netskope Knowledge Portal
 View Built-In DSPM Policies
@@ -168895,7 +169067,7 @@ View Built-In DSPM Policies
 ## Understand DSPM Policy Categories
 **URL:** https://docs.netskope.com/en/understand-dspm-policy-categories/
 **Last Modified:** 2026-06-20T00:43:32+00:00
-**Scraped:** 2026-07-24T08:58:40.061846+00:00
+**Scraped:** 2026-07-25T08:38:49.298654+00:00
 
 Understand DSPM Policy Categories - Netskope Knowledge Portal
 Understand DSPM Policy Categories
@@ -168908,7 +169080,7 @@ Understand DSPM Policy Categories
 ## Create a DSPM Policy
 **URL:** https://docs.netskope.com/en/create-a-dspm-policies/
 **Last Modified:** 2026-03-13T21:21:18+00:00
-**Scraped:** 2026-07-24T08:58:41.349727+00:00
+**Scraped:** 2026-07-25T08:38:50.488482+00:00
 
 Create a DSPM Policy - Netskope Knowledge Portal
 Create a DSPM Policy
@@ -169058,7 +169230,7 @@ Create a DSPM Policy
 ## Use the DSPM Alerts Page
 **URL:** https://docs.netskope.com/en/use-the-dspm-alerts-page/
 **Last Modified:** 2026-02-07T06:37:37+00:00
-**Scraped:** 2026-07-24T08:58:42.529195+00:00
+**Scraped:** 2026-07-25T08:38:51.672012+00:00
 
 Use the DSPM Alerts Page - Netskope Knowledge Portal
 Use the DSPM Alerts Page
@@ -169131,7 +169303,7 @@ Use the DSPM Alerts Page
 ## Configure DSPM Notification Settings
 **URL:** https://docs.netskope.com/en/configure-dspm-notification-settings/
 **Last Modified:** 2026-06-20T00:43:08+00:00
-**Scraped:** 2026-07-24T08:58:43.713115+00:00
+**Scraped:** 2026-07-25T08:38:52.858127+00:00
 
 Configure DSPM Notification Settings - Netskope Knowledge Portal
 Configure DSPM Notification Settings
@@ -169287,7 +169459,7 @@ Configure DSPM Notification Settings
 ## Publish DSPM Alerts to Google Pub/Sub
 **URL:** https://docs.netskope.com/en/publish-to-google-pub-sub/
 **Last Modified:** 2026-03-13T21:25:54+00:00
-**Scraped:** 2026-07-24T08:58:44.892706+00:00
+**Scraped:** 2026-07-25T08:38:54.064083+00:00
 
 Publish DSPM Alerts to Google Pub/Sub - Netskope Knowledge Portal
 Publish DSPM Alerts to Google Pub/Sub
@@ -169382,7 +169554,7 @@ Publish DSPM Alerts to Google Pub/Sub
 ## Publish DSPM Alerts to AWS SNS
 **URL:** https://docs.netskope.com/en/publish-to-aws-sns/
 **Last Modified:** 2026-03-13T21:23:18+00:00
-**Scraped:** 2026-07-24T08:58:46.174400+00:00
+**Scraped:** 2026-07-25T08:38:55.308135+00:00
 
 Publish DSPM Alerts to AWS SNS - Netskope Knowledge Portal
 Publish DSPM Alerts to AWS SNS
@@ -169509,7 +169681,7 @@ Publish DSPM Alerts to AWS SNS
 ## Automate DSPM Data Masking in Snowflake
 **URL:** https://docs.netskope.com/en/automate-dspm-data-masking-in-snowflake/
 **Last Modified:** 2026-06-20T00:39:47+00:00
-**Scraped:** 2026-07-24T08:58:47.351676+00:00
+**Scraped:** 2026-07-25T08:38:56.484408+00:00
 
 Automate DSPM Data Masking in Snowflake - Netskope Knowledge Portal
 Automate DSPM Data Masking in Snowflake
@@ -169575,7 +169747,7 @@ Automate DSPM Data Masking in Snowflake
 ## Manage Engine Service Desk Plus Plugin for Ticket Orchestrator
 **URL:** https://docs.netskope.com/en/manage-engine-service-desk-plus-plugin-for-ticket-orchestrator/
 **Last Modified:** 2026-06-24T23:01:32+00:00
-**Scraped:** 2026-07-24T08:58:48.744881+00:00
+**Scraped:** 2026-07-25T08:38:57.888439+00:00
 
 Manage Engine Service Desk Plus Plugin for Ticket Orchestrator - Netskope Knowledge Portal
 Manage Engine Service Desk Plus Plugin for Ticket Orchestrator
@@ -171752,7 +171924,7 @@ Manage Engine Service Desk Plus Plugin for Ticket Orchestrator
 ## Apply DSPM Data De-Identification
 **URL:** https://docs.netskope.com/en/apply-dspm-data-de-identification/
 **Last Modified:** 2026-06-20T00:39:26+00:00
-**Scraped:** 2026-07-24T08:58:50.019609+00:00
+**Scraped:** 2026-07-25T08:38:59.077094+00:00
 
 Apply DSPM Data De-Identification - Netskope Knowledge Portal
 Apply DSPM Data De-Identification
@@ -171800,7 +171972,7 @@ Apply DSPM Data De-Identification
 ## Use the DSPM Dashboard
 **URL:** https://docs.netskope.com/en/use-the-dspm-dashboard/
 **Last Modified:** 2026-04-16T02:07:47+00:00
-**Scraped:** 2026-07-24T08:58:51.197783+00:00
+**Scraped:** 2026-07-25T08:39:00.262688+00:00
 
 Use the DSPM Dashboard - Netskope Knowledge Portal
 Use the DSPM Dashboard
@@ -171876,7 +172048,7 @@ Use the DSPM Dashboard
 ## Use DSPM Reports
 **URL:** https://docs.netskope.com/en/use-dspm-reports/
 **Last Modified:** 2026-06-20T00:38:43+00:00
-**Scraped:** 2026-07-24T08:58:52.369542+00:00
+**Scraped:** 2026-07-25T08:39:01.458672+00:00
 
 Use DSPM Reports - Netskope Knowledge Portal
 Use DSPM Reports
@@ -171910,7 +172082,7 @@ Use DSPM Reports
 ## Manage DSPM Service Accounts
 **URL:** https://docs.netskope.com/en/manage-dspm-service-accounts/
 **Last Modified:** 2026-04-16T01:48:06+00:00
-**Scraped:** 2026-07-24T08:58:53.546801+00:00
+**Scraped:** 2026-07-25T08:39:02.659105+00:00
 
 Manage DSPM Service Accounts - Netskope Knowledge Portal
 Manage DSPM Service Accounts
@@ -172017,7 +172189,7 @@ Manage DSPM Service Accounts
 ## Map Employees to DSPM Usernames
 **URL:** https://docs.netskope.com/en/map-employees-to-dspm-usernames/
 **Last Modified:** 2026-06-20T00:38:07+00:00
-**Scraped:** 2026-07-24T08:58:54.724797+00:00
+**Scraped:** 2026-07-25T08:39:03.843542+00:00
 
 Map Employees to DSPM Usernames - Netskope Knowledge Portal
 Map Employees to DSPM Usernames
@@ -172165,7 +172337,7 @@ Map Employees to DSPM Usernames
 ## Integrate Okta Universal Directory with DSPM
 **URL:** https://docs.netskope.com/en/integrate-with-okta-universal-directory-with-dspm/
 **Last Modified:** 2026-07-07T17:38:45+00:00
-**Scraped:** 2026-07-24T08:58:55.913200+00:00
+**Scraped:** 2026-07-25T08:39:05.034392+00:00
 
 Integrate Okta Universal Directory with DSPM - Netskope Knowledge Portal
 Integrate Okta Universal Directory with DSPM
@@ -172339,7 +172511,7 @@ Integrate Okta Universal Directory with DSPM
 ## Configure Atlassian Jira Cloud for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-atlassian-jira-cloud-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-05-21T03:07:24+00:00
-**Scraped:** 2026-07-24T08:58:57.088745+00:00
+**Scraped:** 2026-07-25T08:39:06.213447+00:00
 
 Configure Atlassian Jira Cloud for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Atlassian Jira Cloud for the Next Generation API Data Protection
@@ -172423,7 +172595,7 @@ Configure Atlassian Jira Cloud for the Next Generation API Data Protection
 ## Integrate Microsoft Entra ID with DSPM
 **URL:** https://docs.netskope.com/en/integrate-microsoft-entra-id-with-dspm/
 **Last Modified:** 2026-06-20T00:36:25+00:00
-**Scraped:** 2026-07-24T08:58:58.279052+00:00
+**Scraped:** 2026-07-25T08:39:07.494682+00:00
 
 Integrate Microsoft Entra ID with DSPM - Netskope Knowledge Portal
 Integrate Microsoft Entra ID with DSPM
@@ -172586,7 +172758,7 @@ Integrate Microsoft Entra ID with DSPM
 ## Connecting Data Stores
 **URL:** https://docs.netskope.com/en/connecting-data-stores/
 **Last Modified:** 2025-09-01T16:45:39+00:00
-**Scraped:** 2026-07-24T08:59:00.667381+00:00
+**Scraped:** 2026-07-25T08:39:09.943453+00:00
 
 Connecting Data Stores - Netskope Knowledge Portal
 Connecting Data Stores
@@ -172657,7 +172829,7 @@ Connecting Data Stores
 ## Additional Configurations
 **URL:** https://docs.netskope.com/en/additional-configurations/
 **Last Modified:** 2026-06-17T06:39:18+00:00
-**Scraped:** 2026-07-24T08:59:01.852705+00:00
+**Scraped:** 2026-07-25T08:39:11.120713+00:00
 
 Additional Configurations - Netskope Knowledge Portal
 Additional Configurations
@@ -172669,7 +172841,7 @@ Additional Configurations
 ## DSPM API Access
 **URL:** https://docs.netskope.com/en/dspm-api-access/
 **Last Modified:** 2025-08-31T01:44:19+00:00
-**Scraped:** 2026-07-24T08:59:03.023847+00:00
+**Scraped:** 2026-07-25T08:39:12.292260+00:00
 
 DSPM API Access - Netskope Knowledge Portal
 DSPM API Access
@@ -172681,7 +172853,7 @@ DSPM API Access
 ## Label Based Access Control RBAC V3
 **URL:** https://docs.netskope.com/en/label-based-access-control-rbac-v3/
 **Last Modified:** 2025-08-31T01:38:44+00:00
-**Scraped:** 2026-07-24T08:59:04.195678+00:00
+**Scraped:** 2026-07-25T08:39:13.463209+00:00
 
 Label Based Access Control RBAC V3 - Netskope Knowledge Portal
 Label Based Access Control RBAC V3
@@ -172714,7 +172886,7 @@ Label Based Access Control RBAC V3
 ## Connect Cross-Cloud MySQL Instances to DSPM
 **URL:** https://docs.netskope.com/en/connect-cross-cloud-mysql-instances-to-dspm/
 **Last Modified:** 2026-06-20T00:34:42+00:00
-**Scraped:** 2026-07-24T08:59:05.381686+00:00
+**Scraped:** 2026-07-25T08:39:14.651535+00:00
 
 Connect Cross-Cloud MySQL Instances to DSPM - Netskope Knowledge Portal
 Connect Cross-Cloud MySQL Instances to DSPM
@@ -172878,7 +173050,7 @@ Connect Cross-Cloud MySQL Instances to DSPM
 ## Netskope IPSec with Cisco Catalyst SD-WAN
 **URL:** https://docs.netskope.com/en/configure-netskope-ipsec-with-viptela-vedge/
 **Last Modified:** 2026-03-17T18:10:43+00:00
-**Scraped:** 2026-07-24T08:59:06.581670+00:00
+**Scraped:** 2026-07-25T08:39:15.832812+00:00
 
 Netskope IPSec with Cisco Catalyst SD-WAN - Netskope Knowledge Portal
 Netskope IPSec with Cisco Catalyst SD-WAN
@@ -173136,7 +173308,7 @@ Netskope IPSec with Cisco Catalyst SD-WAN
 ## Update the Company Profile in DSPM
 **URL:** https://docs.netskope.com/en/update-the-company-profile-in-dspm/
 **Last Modified:** 2026-02-06T05:25:24+00:00
-**Scraped:** 2026-07-24T08:59:07.755459+00:00
+**Scraped:** 2026-07-25T08:39:17.005275+00:00
 
 Update the Company Profile in DSPM - Netskope Knowledge Portal
 Update the Company Profile in DSPM
@@ -173200,7 +173372,7 @@ Update the Company Profile in DSPM
 ## Use the Netskope DSPM API
 **URL:** https://docs.netskope.com/en/use-the-netskope-dspm-api/
 **Last Modified:** 2026-02-07T00:24:07+00:00
-**Scraped:** 2026-07-24T08:59:10.212518+00:00
+**Scraped:** 2026-07-25T08:39:19.364426+00:00
 
 Use the Netskope DSPM API - Netskope Knowledge Portal
 Use the Netskope DSPM API
@@ -173284,8 +173456,9 @@ Use the Netskope DSPM API
 ## Netskope DSPM Licensing
 **URL:** https://docs.netskope.com/en/netskope-dspm-licensing/
 **Last Modified:** 2026-04-16T01:47:52+00:00
-**Scraped:** 2026-07-24T08:59:11.478954+00:00
+**Scraped:** 2026-07-25T08:39:20.793519+00:00
 
+Netskope DSPM Licensing - Netskope Knowledge Portal
 Netskope DSPM Licensing
 Overview
 The Netskope One DSPM application requires a valid license before you can configure it to scan your data stores.  This articles explains how to manage your usage of the system to stay within your licensed capacities.
@@ -173323,7 +173496,7 @@ Netskope DSPM Licensing
 ## Microsoft Entra Set Up for Enterprise Browser
 **URL:** https://docs.netskope.com/en/microsoft-entra-set-up-for-enterprise-browser/
 **Last Modified:** 2026-07-08T21:04:04+00:00
-**Scraped:** 2026-07-24T08:59:12.666096+00:00
+**Scraped:** 2026-07-25T08:39:21.992645+00:00
 
 Microsoft Entra Set Up for Enterprise Browser - Netskope Knowledge Portal
 Microsoft Entra Set Up for Enterprise Browser
@@ -173519,7 +173692,7 @@ Microsoft Entra Set Up for Enterprise Browser
 ## Use AWS Secrets Manager for Credentials in DSPM
 **URL:** https://docs.netskope.com/en/use-aws-secrets-manager-for-credentials-in-dspm/
 **Last Modified:** 2026-01-08T00:18:22+00:00
-**Scraped:** 2026-07-24T08:59:13.842553+00:00
+**Scraped:** 2026-07-25T08:39:23.176710+00:00
 
 Use AWS Secrets Manager for Credentials in DSPM - Netskope Knowledge Portal
 Use AWS Secrets Manager for Credentials in DSPM
@@ -173611,7 +173784,7 @@ Use AWS Secrets Manager for Credentials in DSPM
 ## Connect Self-Managed MySQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-self-managed-mysql-to-dspm/
 **Last Modified:** 2025-08-31T01:44:42+00:00
-**Scraped:** 2026-07-24T08:59:15.025988+00:00
+**Scraped:** 2026-07-25T08:39:24.355395+00:00
 
 Connect Self-Managed MySQL to DSPM - Netskope Knowledge Portal
 Connect Self-Managed MySQL to DSPM
@@ -173732,7 +173905,7 @@ Connect Self-Managed MySQL to DSPM
 ## Connect SQL Server to DSPM
 **URL:** https://docs.netskope.com/en/connect-sql-server-to-dspm/
 **Last Modified:** 2025-08-31T01:44:43+00:00
-**Scraped:** 2026-07-24T08:59:16.208026+00:00
+**Scraped:** 2026-07-25T08:39:25.634360+00:00
 
 Connect SQL Server to DSPM - Netskope Knowledge Portal
 Connect SQL Server to DSPM
@@ -173849,7 +174022,7 @@ Connect SQL Server to DSPM
 ## Connect Oracle to DSPM
 **URL:** https://docs.netskope.com/en/connect-oracle-to-dspm/
 **Last Modified:** 2026-06-26T02:53:04+00:00
-**Scraped:** 2026-07-24T08:59:17.489984+00:00
+**Scraped:** 2026-07-25T08:39:26.816766+00:00
 
 Connect Oracle to DSPM - Netskope Knowledge Portal
 Connect Oracle to DSPM
@@ -173979,7 +174152,7 @@ Connect Oracle to DSPM
 ## Connect NFS Shares to DSPM
 **URL:** https://docs.netskope.com/en/connect-nfs-shares-to-dspm/
 **Last Modified:** 2026-06-26T02:54:39+00:00
-**Scraped:** 2026-07-24T08:59:18.938059+00:00
+**Scraped:** 2026-07-25T08:39:28.264638+00:00
 
 Connect NFS Shares to DSPM - Netskope Knowledge Portal
 Connect NFS Shares to DSPM
@@ -177195,7 +177368,7 @@ Connect NFS Shares to DSPM
 ## Connect AWS S3 to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-s3-to-dspm/
 **Last Modified:** 2026-05-06T04:12:49+00:00
-**Scraped:** 2026-07-24T08:59:20.393053+00:00
+**Scraped:** 2026-07-25T08:39:29.737473+00:00
 
 Connect AWS S3 to DSPM - Netskope Knowledge Portal
 Connect AWS S3 to DSPM
@@ -180422,7 +180595,7 @@ Connect AWS S3 to DSPM
 ## OCI Cloud
 **URL:** https://docs.netskope.com/en/oci/
 **Last Modified:** 2025-08-31T01:44:44+00:00
-**Scraped:** 2026-07-24T08:59:21.561675+00:00
+**Scraped:** 2026-07-25T08:39:30.904988+00:00
 
 OCI Cloud - Netskope Knowledge Portal
 OCI Cloud
@@ -180434,7 +180607,7 @@ OCI Cloud
 ## OCI Data Stores
 **URL:** https://docs.netskope.com/en/oci-data-stores/
 **Last Modified:** 2025-08-31T01:44:32+00:00
-**Scraped:** 2026-07-24T08:59:22.733457+00:00
+**Scraped:** 2026-07-25T08:39:32.077736+00:00
 
 OCI Data Stores - Netskope Knowledge Portal
 OCI Data Stores
@@ -180448,7 +180621,7 @@ OCI Data Stores
 ## Connect AWS Aurora PostgreSQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-aurora-postgresql-to-dspm/
 **Last Modified:** 2026-06-26T02:20:20+00:00
-**Scraped:** 2026-07-24T08:59:24.106611+00:00
+**Scraped:** 2026-07-25T08:39:33.371148+00:00
 
 Connect AWS Aurora PostgreSQL to DSPM - Netskope Knowledge Portal
 Connect AWS Aurora PostgreSQL to DSPM
@@ -180722,7 +180895,7 @@ Connect AWS Aurora PostgreSQL to DSPM
 ## Connect AWS Aurora MySQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-aurora-mysql-to-dspm/
 **Last Modified:** 2026-06-20T00:33:10+00:00
-**Scraped:** 2026-07-24T08:59:25.332877+00:00
+**Scraped:** 2026-07-25T08:39:34.601023+00:00
 
 Connect AWS Aurora MySQL to DSPM - Netskope Knowledge Portal
 Connect AWS Aurora MySQL to DSPM
@@ -181328,7 +181501,7 @@ Connect AWS Aurora MySQL to DSPM
 ## Connect AWS DynamoDB to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-dynamodb-to-dspm/
 **Last Modified:** 2026-06-20T00:29:19+00:00
-**Scraped:** 2026-07-24T08:59:26.611329+00:00
+**Scraped:** 2026-07-25T08:39:35.782275+00:00
 
 Connect AWS DynamoDB to DSPM - Netskope Knowledge Portal
 Connect AWS DynamoDB to DSPM
@@ -181431,7 +181604,7 @@ Connect AWS DynamoDB to DSPM
 ## Connect AWS Redshift to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-redshift-to-dspm/
 **Last Modified:** 2026-06-26T02:22:49+00:00
-**Scraped:** 2026-07-24T08:59:27.797510+00:00
+**Scraped:** 2026-07-25T08:39:37.019734+00:00
 
 Connect AWS Redshift to DSPM - Netskope Knowledge Portal
 Connect AWS Redshift to DSPM
@@ -181629,7 +181802,7 @@ Connect AWS Redshift to DSPM
 ## Connect multiple AWS Redshift to DSPM
 **URL:** https://docs.netskope.com/en/connect-multiple-aws-redshift-to-dspm/
 **Last Modified:** 2026-06-20T00:23:01+00:00
-**Scraped:** 2026-07-24T08:59:28.979926+00:00
+**Scraped:** 2026-07-25T08:39:38.207798+00:00
 
 Connect multiple AWS Redshift to DSPM - Netskope Knowledge Portal
 Connect multiple AWS Redshift to DSPM
@@ -181756,7 +181929,7 @@ Connect multiple AWS Redshift to DSPM
 ## Deploy DSPM Sidecar on OCI via Terraform
 **URL:** https://docs.netskope.com/en/deploy-a-dspm-sidecar-on-oci-via-terraform/
 **Last Modified:** 2026-06-30T17:21:29+00:00
-**Scraped:** 2026-07-24T08:59:30.299369+00:00
+**Scraped:** 2026-07-25T08:39:39.407933+00:00
 
 Deploy DSPM Sidecar on OCI via Terraform - Netskope Knowledge Portal
 Deploy DSPM Sidecar on OCI via Terraform
@@ -182029,7 +182202,7 @@ Deploy DSPM Sidecar on OCI via Terraform
 ## Connect Oracle Base Database to DSPM
 **URL:** https://docs.netskope.com/en/connect-oracle-base-database-to-dspm/
 **Last Modified:** 2026-06-26T02:56:31+00:00
-**Scraped:** 2026-07-24T08:59:31.479074+00:00
+**Scraped:** 2026-07-25T08:39:40.585854+00:00
 
 Connect Oracle Base Database to DSPM - Netskope Knowledge Portal
 Connect Oracle Base Database to DSPM
@@ -182147,7 +182320,7 @@ Connect Oracle Base Database to DSPM
 ## Connect Oracle Autonomous Database to DSPM
 **URL:** https://docs.netskope.com/en/connect-oracle-autonomous-database-to-dspm/
 **Last Modified:** 2026-06-26T02:55:48+00:00
-**Scraped:** 2026-07-24T08:59:32.662534+00:00
+**Scraped:** 2026-07-25T08:39:41.765315+00:00
 
 Connect Oracle Autonomous Database to DSPM - Netskope Knowledge Portal
 Connect Oracle Autonomous Database to DSPM
@@ -182269,7 +182442,7 @@ Connect Oracle Autonomous Database to DSPM
 ## Connect Oracle Exadata Database to DSPM
 **URL:** https://docs.netskope.com/en/connect-oracle-exadata-database-to-dspm/
 **Last Modified:** 2026-06-26T02:57:18+00:00
-**Scraped:** 2026-07-24T08:59:33.855105+00:00
+**Scraped:** 2026-07-25T08:39:42.949187+00:00
 
 Connect Oracle Exadata Database to DSPM - Netskope Knowledge Portal
 Connect Oracle Exadata Database to DSPM
@@ -182390,7 +182563,7 @@ Connect Oracle Exadata Database to DSPM
 ## Connect Self-Managed IBM Db2 to DSPM
 **URL:** https://docs.netskope.com/en/connect-self-managed-ibm-db2-to-dspm/
 **Last Modified:** 2026-06-26T02:57:54+00:00
-**Scraped:** 2026-07-24T08:59:35.047742+00:00
+**Scraped:** 2026-07-25T08:39:44.140109+00:00
 
 Connect Self-Managed IBM Db2 to DSPM - Netskope Knowledge Portal
 Connect Self-Managed IBM Db2 to DSPM
@@ -182580,8 +182753,9 @@ Connect Self-Managed IBM Db2 to DSPM
 ## Onboard OCI Infrastructure for DSPM
 **URL:** https://docs.netskope.com/en/onboard-oci-infrastructure-for-dspm/
 **Last Modified:** 2026-06-19T23:27:47+00:00
-**Scraped:** 2026-07-24T08:59:36.226214+00:00
+**Scraped:** 2026-07-25T08:39:45.320975+00:00
 
+Onboard OCI Infrastructure for DSPM - Netskope Knowledge Portal
 Onboard OCI Infrastructure for DSPM
 Overview
 Netskope DSPM supports the ability to onboard, connect to, and scanning your Oracle Cloud Infrastructure (OCI) compartments. These capabilities require programmatic access to connect to and scan the Data Stores, including configuring specific OCI users or IAM roles.
@@ -182706,7 +182880,7 @@ Onboard OCI Infrastructure for DSPM
 ## Connect AWS RDS SQL Server to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-rds-sql-server-to-dspm/
 **Last Modified:** 2026-03-13T04:37:22+00:00
-**Scraped:** 2026-07-24T08:59:37.418079+00:00
+**Scraped:** 2026-07-25T08:39:46.603599+00:00
 
 Connect AWS RDS SQL Server to DSPM - Netskope Knowledge Portal
 Connect AWS RDS SQL Server to DSPM
@@ -182875,7 +183049,7 @@ Connect AWS RDS SQL Server to DSPM
 ## Connect AWS RDS PostgreSQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-rds-postgresql-to-dspm/
 **Last Modified:** 2026-06-19T23:26:17+00:00
-**Scraped:** 2026-07-24T08:59:38.616220+00:00
+**Scraped:** 2026-07-25T08:39:47.798505+00:00
 
 Connect AWS RDS PostgreSQL to DSPM - Netskope Knowledge Portal
 Connect AWS RDS PostgreSQL to DSPM
@@ -183141,7 +183315,7 @@ Connect AWS RDS PostgreSQL to DSPM
 ## Connect AWS RDS MySQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-rds-mysql-to-dspm/
 **Last Modified:** 2026-06-26T02:25:39+00:00
-**Scraped:** 2026-07-24T08:59:39.823010+00:00
+**Scraped:** 2026-07-25T08:39:49.001558+00:00
 
 Connect AWS RDS MySQL to DSPM - Netskope Knowledge Portal
 Connect AWS RDS MySQL to DSPM
@@ -183495,7 +183669,7 @@ Connect AWS RDS MySQL to DSPM
 ## Connect AWS RDS Oracle to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-rds-oracle-to-dspm/
 **Last Modified:** 2026-06-26T02:27:42+00:00
-**Scraped:** 2026-07-24T08:59:41.009426+00:00
+**Scraped:** 2026-07-25T08:39:50.186389+00:00
 
 Connect AWS RDS Oracle to DSPM - Netskope Knowledge Portal
 Connect AWS RDS Oracle to DSPM
@@ -183690,7 +183864,7 @@ Connect AWS RDS Oracle to DSPM
 ## Connect AWS RDS MariaDB to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-rds-mariadb-to-dspm/
 **Last Modified:** 2026-06-26T02:28:29+00:00
-**Scraped:** 2026-07-24T08:59:42.195602+00:00
+**Scraped:** 2026-07-25T08:39:51.372493+00:00
 
 Connect AWS RDS MariaDB to DSPM - Netskope Knowledge Portal
 Connect AWS RDS MariaDB to DSPM
@@ -183875,7 +184049,7 @@ Connect AWS RDS MariaDB to DSPM
 ## Connect AWS Athena to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-athena-to-dspm/
 **Last Modified:** 2026-06-26T02:29:09+00:00
-**Scraped:** 2026-07-24T08:59:43.376468+00:00
+**Scraped:** 2026-07-25T08:39:52.556742+00:00
 
 Connect AWS Athena to DSPM - Netskope Knowledge Portal
 Connect AWS Athena to DSPM
@@ -184022,7 +184196,7 @@ Connect AWS Athena to DSPM
 ## Enabling Forensics for Amazon Web Services S3
 **URL:** https://docs.netskope.com/en/enabling-forensics-for-amazon-web-services-s3/
 **Last Modified:** 2025-08-31T01:46:22+00:00
-**Scraped:** 2026-07-24T08:59:44.561141+00:00
+**Scraped:** 2026-07-25T08:39:53.732306+00:00
 
 Enabling Forensics for Amazon Web Services S3 - Netskope Knowledge Portal
 Enabling Forensics for Amazon Web Services S3
@@ -184072,7 +184246,7 @@ Enabling Forensics for Amazon Web Services S3
 ## Next Generation API Data Protection Skope IT Events
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-skope-it-events/
 **Last Modified:** 2025-11-15T03:43:42+00:00
-**Scraped:** 2026-07-24T08:59:45.724492+00:00
+**Scraped:** 2026-07-25T08:39:54.912755+00:00
 
 Next Generation API Data Protection Skope IT Events - Netskope Knowledge Portal
 Next Generation API Data Protection Skope IT Events
@@ -184154,7 +184328,7 @@ Next Generation API Data Protection Skope IT Events
 ## Secure Enrollment Frequently Asked Questions
 **URL:** https://docs.netskope.com/en/secure-enrollment-frequently-asked-questions/
 **Last Modified:** 2026-01-12T09:41:03+00:00
-**Scraped:** 2026-07-24T08:59:52.828111+00:00
+**Scraped:** 2026-07-25T08:40:02.177328+00:00
 
 Secure Enrollment Frequently Asked Questions - Netskope Knowledge Portal
 Secure Enrollment Frequently Asked Questions
@@ -184269,7 +184443,7 @@ Secure Enrollment Frequently Asked Questions
 ## Secure Configuration Services FAQ
 **URL:** https://docs.netskope.com/en/secure-configuration-services-faq/
 **Last Modified:** 2025-08-31T01:48:10+00:00
-**Scraped:** 2026-07-24T09:00:00.245178+00:00
+**Scraped:** 2026-07-25T08:40:09.443294+00:00
 
 Secure Configuration Services FAQ - Netskope Knowledge Portal
 Secure Configuration Services FAQ
@@ -184347,7 +184521,7 @@ Secure Configuration Services FAQ
 ## Arista AGNI in Device Intelligence
 **URL:** https://docs.netskope.com/en/arista-agni-in-device-intelligence/
 **Last Modified:** 2025-08-31T01:47:49+00:00
-**Scraped:** 2026-07-24T09:00:01.472268+00:00
+**Scraped:** 2026-07-25T08:40:10.656534+00:00
 
 Arista AGNI in Device Intelligence - Netskope Knowledge Portal
 Arista AGNI in Device Intelligence
@@ -184487,7 +184661,7 @@ Arista AGNI in Device Intelligence
 ## Connect AWS EBS Volumes to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-ebs-volumes-to-dspm/
 **Last Modified:** 2026-07-16T00:47:32+00:00
-**Scraped:** 2026-07-24T09:00:03.135268+00:00
+**Scraped:** 2026-07-25T08:40:12.153971+00:00
 
 Connect AWS EBS Volumes to DSPM - Netskope Knowledge Portal
 Connect AWS EBS Volumes to DSPM
@@ -187872,7 +188046,7 @@ Connect AWS EBS Volumes to DSPM
 ## Connect AWS EFS Volumes to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-efs-volumes-to-dspm/
 **Last Modified:** 2026-07-16T00:47:45+00:00
-**Scraped:** 2026-07-24T09:00:04.619228+00:00
+**Scraped:** 2026-07-25T08:40:13.610512+00:00
 
 Connect AWS EFS Volumes to DSPM - Netskope Knowledge Portal
 Connect AWS EFS Volumes to DSPM
@@ -191270,8 +191444,9 @@ Connect AWS EFS Volumes to DSPM
 ## Publisher Auto-Reconnect
 **URL:** https://docs.netskope.com/en/auto-reconnect-guide/
 **Last Modified:** 2026-06-18T20:05:44+00:00
-**Scraped:** 2026-07-24T09:00:05.796748+00:00
+**Scraped:** 2026-07-25T08:40:14.791192+00:00
 
+Publisher Auto-Reconnect - Netskope Knowledge Portal
 Publisher Auto-Reconnect
 Starting from Netskope Publishers R134 and above Auto-Reconnect is controlled automatically and no longer has manual configuration parameters for controlling the settings. For publishers on older versions we no longer recommend to configure auto-reconnect manually. Enrollment in to auto-reconnect will happen automatically and under Engineering supervision during a gradual roll-out period.
 Auto-Reconnect Active Window
@@ -191289,7 +191464,7 @@ Publisher Auto-Reconnect
 ## 
 **URL:** https://docs.netskope.com/en/scim-user-provisioning-with-rbacv3/
 **Last Modified:** 2026-02-19T23:31:07+00:00
-**Scraped:** 2026-07-24T09:00:07.054023+00:00
+**Scraped:** 2026-07-25T08:40:16.187754+00:00
 
 In this Topic
 Netskope Knowledge Portal
@@ -191298,7 +191473,7 @@ Netskope Knowledge Portal
 ## Connect Azure SQL and SQL Database to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-sql-and-sql-database-to-dspm/
 **Last Modified:** 2026-06-26T02:34:53+00:00
-**Scraped:** 2026-07-24T09:00:09.419553+00:00
+**Scraped:** 2026-07-25T08:40:18.549765+00:00
 
 Connect Azure SQL and SQL Database to DSPM - Netskope Knowledge Portal
 Connect Azure SQL and SQL Database to DSPM
@@ -191439,7 +191614,7 @@ Connect Azure SQL and SQL Database to DSPM
 ## Connect Azure Synapse Analytics to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-synapse-analytics-to-dspm/
 **Last Modified:** 2026-06-26T02:35:40+00:00
-**Scraped:** 2026-07-24T09:00:10.613772+00:00
+**Scraped:** 2026-07-25T08:40:19.738458+00:00
 
 Connect Azure Synapse Analytics to DSPM - Netskope Knowledge Portal
 Connect Azure Synapse Analytics to DSPM
@@ -191630,7 +191805,7 @@ Connect Azure Synapse Analytics to DSPM
 ## Connect Azure MySQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-mysql-to-dspm/
 **Last Modified:** 2026-06-19T22:44:37+00:00
-**Scraped:** 2026-07-24T09:00:11.800202+00:00
+**Scraped:** 2026-07-25T08:40:21.032638+00:00
 
 Connect Azure MySQL to DSPM - Netskope Knowledge Portal
 Connect Azure MySQL to DSPM
@@ -191755,7 +191930,7 @@ Connect Azure MySQL to DSPM
 ## Connect Azure SQL Server to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-sql-server-to-dspm/
 **Last Modified:** 2026-06-19T23:08:19+00:00
-**Scraped:** 2026-07-24T09:00:12.988609+00:00
+**Scraped:** 2026-07-25T08:40:22.218631+00:00
 
 Connect Azure SQL Server to DSPM - Netskope Knowledge Portal
 Connect Azure SQL Server to DSPM
@@ -191897,7 +192072,7 @@ Connect Azure SQL Server to DSPM
 ## Connect Azure PostgreSQL to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-postgresql-to-dspm/
 **Last Modified:** 2026-06-26T02:37:08+00:00
-**Scraped:** 2026-07-24T09:00:14.279129+00:00
+**Scraped:** 2026-07-25T08:40:23.405585+00:00
 
 Connect Azure PostgreSQL to DSPM - Netskope Knowledge Portal
 Connect Azure PostgreSQL to DSPM
@@ -192075,7 +192250,7 @@ Connect Azure PostgreSQL to DSPM
 ## Connect Azure Databricks to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-databricks-to-dspm/
 **Last Modified:** 2026-06-26T02:58:33+00:00
-**Scraped:** 2026-07-24T09:00:15.564061+00:00
+**Scraped:** 2026-07-25T08:40:24.695553+00:00
 
 Connect Azure Databricks to DSPM - Netskope Knowledge Portal
 Connect Azure Databricks to DSPM
@@ -192289,7 +192464,7 @@ Connect Azure Databricks to DSPM
 ## Connect Azure Blob Storage to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-blob-storage-to-dspm/
 **Last Modified:** 2026-06-26T02:59:37+00:00
-**Scraped:** 2026-07-24T09:00:17.165457+00:00
+**Scraped:** 2026-07-25T08:40:26.180998+00:00
 
 Connect Azure Blob Storage to DSPM - Netskope Knowledge Portal
 Connect Azure Blob Storage to DSPM
@@ -195529,9 +195704,8 @@ Connect Azure Blob Storage to DSPM
 ## Connect Azure Files to DSPM
 **URL:** https://docs.netskope.com/en/connect-azure-files-to-dspm/
 **Last Modified:** 2026-06-19T22:47:33+00:00
-**Scraped:** 2026-07-24T09:00:18.661307+00:00
+**Scraped:** 2026-07-25T08:40:27.609676+00:00
 
-Connect Azure Files to DSPM - Netskope Knowledge Portal
 Connect Azure Files to DSPM
 Overview
 Netskope DSPM enables you to scan unstructured data within Azure Files data stores, supporting Discovery, Classification, and Automation to assess security risks associated with your unstructured data accurately. Follow the instructions below to configure and connect your Azure Files data store.
@@ -198761,7 +198935,7 @@ Connect Azure Files to DSPM
 ## AWS Security Hub Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/aws-security-hub-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:00:19+00:00
-**Scraped:** 2026-07-24T09:00:19.926863+00:00
+**Scraped:** 2026-07-25T08:40:28.983948+00:00
 
 AWS Security Hub Plugin for Risk Exchange - Netskope Knowledge Portal
 AWS Security Hub Plugin for Risk Exchange
@@ -199401,7 +199575,7 @@ AWS Security Hub Plugin for Risk Exchange
 ## Manually Configure Custom DNS on GCP
 **URL:** https://docs.netskope.com/en/manually-configure-custom-dns-on-gcp/
 **Last Modified:** 2026-03-03T01:58:41+00:00
-**Scraped:** 2026-07-24T09:00:23.458366+00:00
+**Scraped:** 2026-07-25T08:40:32.520472+00:00
 
 Manually Configure Custom DNS on GCP - Netskope Knowledge Portal
 Manually Configure Custom DNS on GCP
@@ -199499,7 +199673,7 @@ Manually Configure Custom DNS on GCP
 ## Onboard Custom SaaS Apps
 **URL:** https://docs.netskope.com/en/onboard-custom-saas-apps/
 **Last Modified:** 2026-05-12T16:29:49+00:00
-**Scraped:** 2026-07-24T09:00:24.839422+00:00
+**Scraped:** 2026-07-25T08:40:33.707752+00:00
 
 Onboard Custom SaaS Apps - Netskope Knowledge Portal
 Onboard Custom SaaS Apps
@@ -199696,7 +199870,7 @@ Onboard Custom SaaS Apps
 ## Migrate Cloud Exchange Fargate to AMI EC2 VM
 **URL:** https://docs.netskope.com/en/migrate-cloud-exchange-fargate-to-ami-ec2-vm/
 **Last Modified:** 2025-12-05T12:50:32+00:00
-**Scraped:** 2026-07-24T09:00:29.581528+00:00
+**Scraped:** 2026-07-25T08:40:38.540923+00:00
 
 Migrate Cloud Exchange Fargate to AMI EC2 VM - Netskope Knowledge Portal
 Migrate Cloud Exchange Fargate to AMI EC2 VM
@@ -200147,8 +200321,9 @@ Migrate Cloud Exchange Fargate to AMI EC2 VM
 ## NewEdge Express Connect
 **URL:** https://docs.netskope.com/en/newedge-express-connect/
 **Last Modified:** 2026-05-30T00:03:07+00:00
-**Scraped:** 2026-07-24T09:00:31.969512+00:00
+**Scraped:** 2026-07-25T08:40:40.953550+00:00
 
+NewEdge Express Connect - Netskope Knowledge Portal
 NewEdge Express Connect
 NewEdge Express Connect (NEEC) enables the extension of private network infrastructure to the SASE boundary via direct ethernet connectivity. By establishing direct transport from on-premises networks to NewEdge Data Centers (DCs), your organizations can support high-throughput requirements while maintaining a dedicated path to NewEdge DCs. This connectivity model bypasses traditional transit providers and the public Internet, reducing latency and ensuring predictable networking.
 NEEC offers efficient network architecture through a high-throughput steering mechanism without the need for GRE or IPsec tunnels, simplifying the handoff between the customer edge and NewEdge DCs.
@@ -200422,7 +200597,7 @@ NewEdge Express Connect
 ## Troubleshooting GRE
 **URL:** https://docs.netskope.com/en/troubleshooting-gre/
 **Last Modified:** 2025-09-17T18:11:54+00:00
-**Scraped:** 2026-07-24T09:00:33.242043+00:00
+**Scraped:** 2026-07-25T08:40:42.128705+00:00
 
 Troubleshooting GRE - Netskope Knowledge Portal
 Troubleshooting GRE
@@ -200462,7 +200637,7 @@ Troubleshooting GRE
 ## Configure Directory Importer
 **URL:** https://docs.netskope.com/en/configure-directory-importer/
 **Last Modified:** 2026-06-05T13:22:26+00:00
-**Scraped:** 2026-07-24T09:00:34.426886+00:00
+**Scraped:** 2026-07-25T08:40:43.415922+00:00
 
 Configure Directory Importer - Netskope Knowledge Portal
 Configure Directory Importer
@@ -200730,7 +200905,7 @@ Configure Directory Importer
 ## Device Classification for Android
 **URL:** https://docs.netskope.com/en/device-classification-for-android/
 **Last Modified:** 2025-09-02T17:06:12+00:00
-**Scraped:** 2026-07-24T09:00:36.823304+00:00
+**Scraped:** 2026-07-25T08:40:45.799518+00:00
 
 Device Classification for Android - Netskope Knowledge Portal
 Device Classification for Android
@@ -200856,7 +201031,7 @@ Device Classification for Android
 ## Device Classification for Chrome
 **URL:** https://docs.netskope.com/en/device-classification-for-chrome/
 **Last Modified:** 2025-09-02T17:07:13+00:00
-**Scraped:** 2026-07-24T09:00:38.005096+00:00
+**Scraped:** 2026-07-25T08:40:46.963202+00:00
 
 Device Classification for Chrome - Netskope Knowledge Portal
 Device Classification for Chrome
@@ -200962,7 +201137,7 @@ Device Classification for Chrome
 ## Device Classification for iOS
 **URL:** https://docs.netskope.com/en/device-classification-for-ios/
 **Last Modified:** 2026-04-17T08:43:49+00:00
-**Scraped:** 2026-07-24T09:00:39.188281+00:00
+**Scraped:** 2026-07-25T08:40:48.133525+00:00
 
 Device Classification for iOS - Netskope Knowledge Portal
 Device Classification for iOS
@@ -201085,8 +201260,9 @@ Device Classification for iOS
 ## Device Classification for Windows
 **URL:** https://docs.netskope.com/en/device-classification-for-windows/
 **Last Modified:** 2026-07-13T07:24:38+00:00
-**Scraped:** 2026-07-24T09:00:40.410332+00:00
+**Scraped:** 2026-07-25T08:40:49.356244+00:00
 
+Device Classification for Windows - Netskope Knowledge Portal
 Device Classification for Windows
 You can classify Windows devices based on these criteria:
 Criteria match: Checks for All or Any of the criteria selected.
@@ -201485,7 +201661,7 @@ Device Classification for Windows
 ## Device Classification for Linux
 **URL:** https://docs.netskope.com/en/device-classification-for-linux/
 **Last Modified:** 2025-10-07T18:23:11+00:00
-**Scraped:** 2026-07-24T09:00:41.697328+00:00
+**Scraped:** 2026-07-25T08:40:50.644429+00:00
 
 Device Classification for Linux - Netskope Knowledge Portal
 Device Classification for Linux
@@ -201630,7 +201806,7 @@ Device Classification for Linux
 ## Deprecation Notice for Classic Google Drive as a Forensic Destination
 **URL:** https://docs.netskope.com/en/deprecation-notice-for-classic-google-drive-as-a-forensic-destination/
 **Last Modified:** 2025-09-02T17:08:13+00:00
-**Scraped:** 2026-07-24T09:00:42.868756+00:00
+**Scraped:** 2026-07-25T08:40:51.836829+00:00
 
 Deprecation Notice for Classic Google Drive as a Forensic Destination - Netskope Knowledge Portal
 Deprecation Notice for Classic Google Drive as a Forensic Destination
@@ -201664,7 +201840,7 @@ Deprecation Notice for Classic Google Drive as a Forensic Destination
 ## Next Generation API Data Protection for Microsoft Copilot
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-microsoft-copilot/
 **Last Modified:** 2025-08-31T06:11:53+00:00
-**Scraped:** 2026-07-24T09:00:44.041158+00:00
+**Scraped:** 2026-07-25T08:40:53.007631+00:00
 
 Next Generation API Data Protection for Microsoft Copilot - Netskope Knowledge Portal
 Next Generation API Data Protection for Microsoft Copilot
@@ -201685,7 +201861,7 @@ Next Generation API Data Protection for Microsoft Copilot
 ## Deprecation Notice for Classic Amazon S3 as a Forensic Destination
 **URL:** https://docs.netskope.com/en/deprecation-notice-for-classic-amazon-s3-as-a-forensic-destination/
 **Last Modified:** 2025-09-02T17:06:21+00:00
-**Scraped:** 2026-07-24T09:00:45.213232+00:00
+**Scraped:** 2026-07-25T08:40:54.281806+00:00
 
 Deprecation Notice for Classic Amazon S3 as a Forensic Destination - Netskope Knowledge Portal
 Deprecation Notice for Classic Amazon S3 as a Forensic Destination
@@ -201719,7 +201895,7 @@ Deprecation Notice for Classic Amazon S3 as a Forensic Destination
 ## Deprecation Notice for Classic Azure Blob Storage as a Forensic Destination
 **URL:** https://docs.netskope.com/en/deprecation-notice-for-classic-azure-blob-storage-as-a-forensic-destination/
 **Last Modified:** 2025-09-02T17:07:09+00:00
-**Scraped:** 2026-07-24T09:00:46.386422+00:00
+**Scraped:** 2026-07-25T08:40:55.454779+00:00
 
 Deprecation Notice for Classic Azure Blob Storage as a Forensic Destination - Netskope Knowledge Portal
 Deprecation Notice for Classic Azure Blob Storage as a Forensic Destination
@@ -201753,7 +201929,7 @@ Deprecation Notice for Classic Azure Blob Storage as a Forensic Destination
 ## Deprecation Notice for Classic Box as a Forensic Destination
 **URL:** https://docs.netskope.com/en/deprecation-notice-for-classic-box-as-a-forensic-destination/
 **Last Modified:** 2025-09-02T17:08:58+00:00
-**Scraped:** 2026-07-24T09:00:47.560141+00:00
+**Scraped:** 2026-07-25T08:40:56.627194+00:00
 
 Deprecation Notice for Classic Box as a Forensic Destination - Netskope Knowledge Portal
 Deprecation Notice for Classic Box as a Forensic Destination
@@ -201787,7 +201963,7 @@ Deprecation Notice for Classic Box as a Forensic Destination
 ## Supported Microsoft Copilot Licenses for Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/supported-microsoft-copilot-licenses-for-next-generation-api-data-protection/
 **Last Modified:** 2025-09-02T17:09:46+00:00
-**Scraped:** 2026-07-24T09:00:48.879385+00:00
+**Scraped:** 2026-07-25T08:40:57.798224+00:00
 
 Supported Microsoft Copilot Licenses for Next Generation API Data Protection - Netskope Knowledge Portal
 Supported Microsoft Copilot Licenses for Next Generation API Data Protection
@@ -201801,8 +201977,9 @@ Supported Microsoft Copilot Licenses for Next Generation API Data Protection
 ## Configure Microsoft Copilot for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-copilot-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-09-02T17:10:28+00:00
-**Scraped:** 2026-07-24T09:00:50.068502+00:00
+**Scraped:** 2026-07-25T08:40:58.981393+00:00
 
+Configure Microsoft Copilot for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Microsoft Copilot for the Next Generation API Data Protection
 To configure Microsoft Copilot for the Next Generation API Data Protection, follow the instructions below.
 Prerequisites
@@ -201929,7 +202106,7 @@ Configure Microsoft Copilot for the Next Generation API Data Protection
 ## Deprecation Notice for Classic Microsoft Office 365 SharePoint as a Forensic Destination
 **URL:** https://docs.netskope.com/en/deprecation-notice-for-classic-microsoft-office-365-sharepoint-as-a-forensic-destination/
 **Last Modified:** 2025-09-02T17:57:30+00:00
-**Scraped:** 2026-07-24T09:00:51.240860+00:00
+**Scraped:** 2026-07-25T08:41:00.193789+00:00
 
 Deprecation Notice for Classic Microsoft Office 365 SharePoint as a Forensic Destination - Netskope Knowledge Portal
 Deprecation Notice for Classic Microsoft Office 365 SharePoint as a Forensic Destination
@@ -201964,7 +202141,7 @@ Deprecation Notice for Classic Microsoft Office 365 SharePoint as a Forensic Des
 ## Access Proxy Profile
 **URL:** https://docs.netskope.com/en/access-proxy-profile/
 **Last Modified:** 2026-07-22T23:51:50+00:00
-**Scraped:** 2026-07-24T09:00:52.398475+00:00
+**Scraped:** 2026-07-25T08:41:01.368797+00:00
 
 Access Proxy Profile - Netskope Knowledge Portal
 Access Proxy Profile
@@ -202012,7 +202189,7 @@ Access Proxy Profile
 ## Frequently Asked Questions on Migration
 **URL:** https://docs.netskope.com/en/frequently-asked-questions-on-migration/
 **Last Modified:** 2025-09-07T05:18:01+00:00
-**Scraped:** 2026-07-24T09:00:53.624747+00:00
+**Scraped:** 2026-07-25T08:41:02.581695+00:00
 
 Frequently Asked Questions on Migration - Netskope Knowledge Portal
 Frequently Asked Questions on Migration
@@ -202068,8 +202245,9 @@ Frequently Asked Questions on Migration
 ## Transitioning to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/transitioning-to-next-generation-api-data-protection/
 **Last Modified:** 2026-05-30T03:13:51+00:00
-**Scraped:** 2026-07-24T09:00:55.984676+00:00
+**Scraped:** 2026-07-25T08:41:04.933450+00:00
 
+Transitioning to Next Generation API Data Protection - Netskope Knowledge Portal
 Transitioning to Next Generation API Data Protection
 Unlocking the future of data security, this article explores the crucial transition from Classic API Data Protection to the cutting-edge Next Generation API Data Protection. Delving into the intricacies of both systems, we’ll navigate the differences in feature behavior and effectiveness, empowering businesses to make informed decisions about their data protection strategies.
 This article includes the following:
@@ -202093,7 +202271,7 @@ Transitioning to Next Generation API Data Protection
 ## Netskope Copilot for MCP Server
 **URL:** https://docs.netskope.com/en/netskope-copilot-for-mcp-server/
 **Last Modified:** 2026-07-23T19:26:48+00:00
-**Scraped:** 2026-07-24T09:00:57.158393+00:00
+**Scraped:** 2026-07-25T08:41:06.104395+00:00
 
 Netskope Copilot for MCP Server - Netskope Knowledge Portal
 Netskope Copilot for MCP Server
@@ -202119,7 +202297,7 @@ Netskope Copilot for MCP Server
 ## Re-grant Required for Microsoft Apps
 **URL:** https://docs.netskope.com/en/re-grant-required-for-microsoft-apps/
 **Last Modified:** 2026-02-23T09:08:47+00:00
-**Scraped:** 2026-07-24T09:00:58.388399+00:00
+**Scraped:** 2026-07-25T08:41:07.286355+00:00
 
 Re-grant Required for Microsoft Apps - Netskope Knowledge Portal
 Re-grant Required for Microsoft Apps
@@ -202231,7 +202409,7 @@ Re-grant Required for Microsoft Apps
 ## Silverfort Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/silverfort-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:11:53+00:00
-**Scraped:** 2026-07-24T09:01:00.905397+00:00
+**Scraped:** 2026-07-25T08:41:09.668484+00:00
 
 Silverfort Plugin for Risk Exchange - Netskope Knowledge Portal
 Silverfort Plugin for Risk Exchange
@@ -202438,7 +202616,7 @@ Silverfort Plugin for Risk Exchange
 ## Browser Extension
 **URL:** https://docs.netskope.com/en/browser-extension/
 **Last Modified:** 2026-06-25T21:25:36+00:00
-**Scraped:** 2026-07-24T09:01:02.102910+00:00
+**Scraped:** 2026-07-25T08:41:10.831256+00:00
 
 Browser Extension - Netskope Knowledge Portal
 Browser Extension
@@ -202481,7 +202659,7 @@ Browser Extension
 ## Jamf Pro
 **URL:** https://docs.netskope.com/en/jamf-pro/
 **Last Modified:** 2025-09-29T19:15:59+00:00
-**Scraped:** 2026-07-24T09:01:03.275265+00:00
+**Scraped:** 2026-07-25T08:41:12.097141+00:00
 
 Jamf Pro - Netskope Knowledge Portal
 Jamf Pro
@@ -202498,7 +202676,7 @@ Jamf Pro
 ## Fingerprint Groups
 **URL:** https://docs.netskope.com/en/fingerprint-groups/
 **Last Modified:** 2026-06-25T19:22:07+00:00
-**Scraped:** 2026-07-24T09:01:04.472498+00:00
+**Scraped:** 2026-07-25T08:41:13.295435+00:00
 
 Fingerprint Groups - Netskope Knowledge Portal
 Fingerprint Groups
@@ -202752,7 +202930,7 @@ Fingerprint Groups
 ## Start a Structured Classification Job (Asynchronous)
 **URL:** https://docs.netskope.com/en/start-a-structured-classification-job/
 **Last Modified:** 2026-06-25T19:16:11+00:00
-**Scraped:** 2026-07-24T09:01:09.303774+00:00
+**Scraped:** 2026-07-25T08:41:18.105348+00:00
 
 Start a Structured Classification Job (Asynchronous) - Netskope Knowledge Portal
 Start a Structured Classification Job (Asynchronous)
@@ -202890,7 +203068,7 @@ Start a Structured Classification Job (Asynchronous)
 ## Appliance CLI
 **URL:** https://docs.netskope.com/en/appliance-cli/
 **Last Modified:** 2026-06-25T19:19:32+00:00
-**Scraped:** 2026-07-24T09:01:14.222761+00:00
+**Scraped:** 2026-07-25T08:41:23.165762+00:00
 
 Appliance CLI - Netskope Knowledge Portal
 Appliance CLI
@@ -203220,7 +203398,7 @@ Appliance CLI
 ## Browser Extension Policies
 **URL:** https://docs.netskope.com/en/browser-extension-policies/
 **Last Modified:** 2026-06-25T21:27:49+00:00
-**Scraped:** 2026-07-24T09:01:15.395542+00:00
+**Scraped:** 2026-07-25T08:41:24.420074+00:00
 
 Browser Extension Policies - Netskope Knowledge Portal
 Browser Extension Policies
@@ -203270,7 +203448,7 @@ Browser Extension Policies
 ## URL Patterns
 **URL:** https://docs.netskope.com/en/url-patterns/
 **Last Modified:** 2026-06-26T20:12:51+00:00
-**Scraped:** 2026-07-24T09:01:16.607023+00:00
+**Scraped:** 2026-07-25T08:41:25.634349+00:00
 
 URL Patterns - Netskope Knowledge Portal
 URL Patterns
@@ -203818,7 +203996,7 @@ URL Patterns
 ## Browser Extension Metrics
 **URL:** https://docs.netskope.com/en/browser-extension-metrics/
 **Last Modified:** 2026-06-25T21:29:41+00:00
-**Scraped:** 2026-07-24T09:01:17.893265+00:00
+**Scraped:** 2026-07-25T08:41:26.823674+00:00
 
 Browser Extension Metrics - Netskope Knowledge Portal
 Browser Extension Metrics
@@ -204026,7 +204204,7 @@ Browser Extension Metrics
 ## Netskope IPSec with Juniper SRX
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-juniper-srx/
 **Last Modified:** 2025-10-07T15:00:12+00:00
-**Scraped:** 2026-07-24T09:01:20.276496+00:00
+**Scraped:** 2026-07-25T08:41:29.199220+00:00
 
 Netskope IPSec with Juniper SRX - Netskope Knowledge Portal
 Netskope IPSec with Juniper SRX
@@ -204598,7 +204776,7 @@ Netskope IPSec with Juniper SRX
 ## Troubleshooting IPSec
 **URL:** https://docs.netskope.com/en/troubleshooting-ipsec/
 **Last Modified:** 2025-10-07T15:00:03+00:00
-**Scraped:** 2026-07-24T09:01:21.454227+00:00
+**Scraped:** 2026-07-25T08:41:30.385003+00:00
 
 Troubleshooting IPSec - Netskope Knowledge Portal
 Troubleshooting IPSec
@@ -204672,7 +204850,7 @@ Troubleshooting IPSec
 ## Quarantine Profile
 **URL:** https://docs.netskope.com/en/quarantine-profile/
 **Last Modified:** 2025-10-08T23:17:34+00:00
-**Scraped:** 2026-07-24T09:01:22.639509+00:00
+**Scraped:** 2026-07-25T08:41:31.666522+00:00
 
 Quarantine Profile - Netskope Knowledge Portal
 Quarantine Profile
@@ -204844,7 +205022,7 @@ Quarantine Profile
 ## Netskope Product EOL/EOS Announcements
 **URL:** https://docs.netskope.com/en/netskope-product-eol-announcements/
 **Last Modified:** 2026-06-26T02:36:49+00:00
-**Scraped:** 2026-07-24T09:01:25.031782+00:00
+**Scraped:** 2026-07-25T08:41:34.155809+00:00
 
 Netskope Product EOL/EOS Announcements - Netskope Knowledge Portal
 Netskope Product EOL/EOS Announcements
@@ -205295,8 +205473,9 @@ Netskope Product EOL/EOS Announcements
 ## Netskope RBAC V3 Overview
 **URL:** https://docs.netskope.com/en/netskope-rbac-v3-overview/
 **Last Modified:** 2025-10-09T23:52:51+00:00
-**Scraped:** 2026-07-24T09:01:27.378508+00:00
+**Scraped:** 2026-07-25T08:41:36.511704+00:00
 
+Netskope RBAC V3 Overview - Netskope Knowledge Portal
 Netskope RBAC V3 Overview
 RBAC V3 represents a foundational architectural shift to a decentralized, “API First” model. This ensures that security controls and permissions are consistent across both the WebUI and REST API, establishing a unified security posture. The migration to V3 is a mandatory platform evolution required for all new Netskope features.
 Mandatory Upgrade:
@@ -205351,7 +205530,7 @@ Netskope RBAC V3 Overview
 ## Standard Deployment (Single Appliance)
 **URL:** https://docs.netskope.com/en/standard-deployment-single-appliance/
 **Last Modified:** 2026-06-18T20:21:51+00:00
-**Scraped:** 2026-07-24T09:01:28.648444+00:00
+**Scraped:** 2026-07-25T08:41:37.783253+00:00
 
 Standard Deployment (Single Appliance) - Netskope Knowledge Portal
 Standard Deployment (Single Appliance)
@@ -205363,7 +205542,7 @@ Standard Deployment (Single Appliance)
 ## Data Lineage
 **URL:** https://docs.netskope.com/en/data-lineage/
 **Last Modified:** 2026-06-25T17:36:56+00:00
-**Scraped:** 2026-07-24T09:01:29.822001+00:00
+**Scraped:** 2026-07-25T08:41:38.959545+00:00
 
 Data Lineage - Netskope Knowledge Portal
 Data Lineage
@@ -205431,7 +205610,7 @@ Data Lineage
 ## Configure Certificates
 **URL:** https://docs.netskope.com/en/replacing-the-self-signed-certificate-on-your-appliance/
 **Last Modified:** 2026-06-25T19:19:30+00:00
-**Scraped:** 2026-07-24T09:01:32.261823+00:00
+**Scraped:** 2026-07-25T08:41:41.413847+00:00
 
 Configure Certificates - Netskope Knowledge Portal
 Configure Certificates
@@ -205497,7 +205676,7 @@ Configure Certificates
 ## Deploy DSPM Sidecars via OVA/OVF on VMware vSphere
 **URL:** https://docs.netskope.com/en/deploy-dspm-sidecars-via-ova-ovf-on-vmware-vsphere/
 **Last Modified:** 2026-06-19T21:57:33+00:00
-**Scraped:** 2026-07-24T09:01:33.464651+00:00
+**Scraped:** 2026-07-25T08:41:42.617488+00:00
 
 Deploy DSPM Sidecars via OVA/OVF on VMware vSphere - Netskope Knowledge Portal
 Deploy DSPM Sidecars via OVA/OVF on VMware vSphere
@@ -205792,7 +205971,7 @@ Deploy DSPM Sidecars via OVA/OVF on VMware vSphere
 ## Netskope Enterprise Browser Installation and Troubleshooting
 **URL:** https://docs.netskope.com/en/netskope-enterprise-browser-installation-and-troubleshooting/
 **Last Modified:** 2026-02-27T18:21:21+00:00
-**Scraped:** 2026-07-24T09:01:38.386575+00:00
+**Scraped:** 2026-07-25T08:41:47.316890+00:00
 
 Netskope Enterprise Browser Installation and Troubleshooting - Netskope Knowledge Portal
 Netskope Enterprise Browser Installation and Troubleshooting
@@ -205903,7 +206082,7 @@ Netskope Enterprise Browser Installation and Troubleshooting
 ## Post Deployment
 **URL:** https://docs.netskope.com/en/post-deployment/
 **Last Modified:** 2026-06-25T19:18:17+00:00
-**Scraped:** 2026-07-24T09:01:39.556873+00:00
+**Scraped:** 2026-07-25T08:41:48.584827+00:00
 
 Post Deployment - Netskope Knowledge Portal
 Post Deployment
@@ -205921,7 +206100,7 @@ Post Deployment
 ## Appliance Upgrade
 **URL:** https://docs.netskope.com/en/appliance-upgrade/
 **Last Modified:** 2026-06-25T19:19:31+00:00
-**Scraped:** 2026-07-24T09:01:40.730438+00:00
+**Scraped:** 2026-07-25T08:41:49.759730+00:00
 
 Appliance Upgrade - Netskope Knowledge Portal
 Appliance Upgrade
@@ -205955,7 +206134,7 @@ Appliance Upgrade
 ## Enable Prometheus Telemetry on a Publisher
 **URL:** https://docs.netskope.com/en/enable-prometheus-telemetry-on-a-publisher/
 **Last Modified:** 2026-02-02T14:46:11+00:00
-**Scraped:** 2026-07-24T09:01:41.909897+00:00
+**Scraped:** 2026-07-25T08:41:50.939519+00:00
 
 Enable Prometheus Telemetry on a Publisher - Netskope Knowledge Portal
 Enable Prometheus Telemetry on a Publisher
@@ -206154,8 +206333,9 @@ Enable Prometheus Telemetry on a Publisher
 ## Add SNMPv3 Traps on a Publisher
 **URL:** https://docs.netskope.com/en/add-snmpv3-traps-on-a-publisher/
 **Last Modified:** 2026-02-02T14:45:33+00:00
-**Scraped:** 2026-07-24T09:01:43.099125+00:00
+**Scraped:** 2026-07-25T08:41:52.116808+00:00
 
+Add SNMPv3 Traps on a Publisher - Netskope Knowledge Portal
 Add SNMPv3 Traps on a Publisher
 Netskope recommends to consume Digital Experience Management metrics for capacity and performance monitoring of your Netskope Publishers.
 This article explains how to configure snmpd to send v3 traps to your Network Monitoring System.
@@ -206238,7 +206418,7 @@ Add SNMPv3 Traps on a Publisher
 ## Enterprise Browser Mobile Support
 **URL:** https://docs.netskope.com/en/enterprise-browser-mobile-support/
 **Last Modified:** 2026-06-09T21:27:47+00:00
-**Scraped:** 2026-07-24T09:01:44.374740+00:00
+**Scraped:** 2026-07-25T08:41:53.307312+00:00
 
 Enterprise Browser Mobile Support - Netskope Knowledge Portal
 Enterprise Browser Mobile Support
@@ -206322,7 +206502,7 @@ Enterprise Browser Mobile Support
 ## Telemetry
 **URL:** https://docs.netskope.com/en/telemetry/
 **Last Modified:** 2025-10-24T05:14:50+00:00
-**Scraped:** 2026-07-24T09:01:46.719976+00:00
+**Scraped:** 2026-07-25T08:41:55.651383+00:00
 
 Telemetry - Netskope Knowledge Portal
 Telemetry
@@ -206358,7 +206538,7 @@ Telemetry
 ## Unified User Management
 **URL:** https://docs.netskope.com/en/unified-user-management/
 **Last Modified:** 2026-05-05T05:38:48+00:00
-**Scraped:** 2026-07-24T09:01:49.114476+00:00
+**Scraped:** 2026-07-25T08:41:58.195223+00:00
 
 Unified User Management - Netskope Knowledge Portal
 Unified User Management
@@ -206480,7 +206660,7 @@ Unified User Management
 ## Netskope Governance Language
 **URL:** https://docs.netskope.com/en/netskope-governance-language/
 **Last Modified:** 2025-10-29T04:25:56+00:00
-**Scraped:** 2026-07-24T09:01:50.299313+00:00
+**Scraped:** 2026-07-25T08:41:59.369961+00:00
 
 Netskope Governance Language - Netskope Knowledge Portal
 Netskope Governance Language
@@ -206554,7 +206734,7 @@ Netskope Governance Language
 ## Onboard Supported SaaS Apps
 **URL:** https://docs.netskope.com/en/configure-apps-for-sspm/
 **Last Modified:** 2025-10-29T09:50:32+00:00
-**Scraped:** 2026-07-24T09:01:51.483028+00:00
+**Scraped:** 2026-07-25T08:42:00.547064+00:00
 
 Onboard Supported SaaS Apps - Netskope Knowledge Portal
 Onboard Supported SaaS Apps
@@ -206617,7 +206797,7 @@ Onboard Supported SaaS Apps
 ## Password Policy
 **URL:** https://docs.netskope.com/en/password-policy/
 **Last Modified:** 2025-11-05T06:52:08+00:00
-**Scraped:** 2026-07-24T09:01:52.760180+00:00
+**Scraped:** 2026-07-25T08:42:01.736573+00:00
 
 Password Policy - Netskope Knowledge Portal
 Password Policy
@@ -206665,7 +206845,7 @@ Password Policy
 ## View Configured Ticket Orchestrator Plugins
 **URL:** https://docs.netskope.com/en/view-configured-ticket-orchestrator-plugins/
 **Last Modified:** 2025-10-31T20:32:52+00:00
-**Scraped:** 2026-07-24T09:01:53.931235+00:00
+**Scraped:** 2026-07-25T08:42:03.013402+00:00
 
 View Configured Ticket Orchestrator Plugins - Netskope Knowledge Portal
 View Configured Ticket Orchestrator Plugins
@@ -206690,7 +206870,7 @@ View Configured Ticket Orchestrator Plugins
 ## List Events and Use Filter Options
 **URL:** https://docs.netskope.com/en/list-events-and-use-filter-options/
 **Last Modified:** 2025-10-31T20:43:33+00:00
-**Scraped:** 2026-07-24T09:01:55.104490+00:00
+**Scraped:** 2026-07-25T08:42:04.191582+00:00
 
 List Events and Use Filter Options - Netskope Knowledge Portal
 List Events and Use Filter Options
@@ -206733,7 +206913,7 @@ List Events and Use Filter Options
 ## Manage Custom Fields
 **URL:** https://docs.netskope.com/en/manage-custom-fields/
 **Last Modified:** 2025-10-31T21:07:12+00:00
-**Scraped:** 2026-07-24T09:01:56.278846+00:00
+**Scraped:** 2026-07-25T08:42:05.463391+00:00
 
 Manage Custom Fields - Netskope Knowledge Portal
 Manage Custom Fields
@@ -206777,7 +206957,7 @@ Manage Custom Fields
 ## Manage Risk Exchange Business Rules
 **URL:** https://docs.netskope.com/en/manage-risk-exchange-business-rules/
 **Last Modified:** 2025-10-31T22:47:04+00:00
-**Scraped:** 2026-07-24T09:01:57.453461+00:00
+**Scraped:** 2026-07-25T08:42:06.740765+00:00
 
 Manage Risk Exchange Business Rules - Netskope Knowledge Portal
 Manage Risk Exchange Business Rules
@@ -206817,7 +206997,7 @@ Manage Risk Exchange Business Rules
 ## Map a Risk Exchange Business Rule to an Action
 **URL:** https://docs.netskope.com/en/map-a-risk-exchange-business-rule-to-an-action/
 **Last Modified:** 2025-10-31T22:49:48+00:00
-**Scraped:** 2026-07-24T09:01:58.628515+00:00
+**Scraped:** 2026-07-25T08:42:07.916690+00:00
 
 Map a Risk Exchange Business Rule to an Action - Netskope Knowledge Portal
 Map a Risk Exchange Business Rule to an Action
@@ -206856,7 +207036,7 @@ Map a Risk Exchange Business Rule to an Action
 ## Perform an Action on an Entity Field
 **URL:** https://docs.netskope.com/en/perform-an-action-on-an-entity-field/
 **Last Modified:** 2025-10-31T22:52:13+00:00
-**Scraped:** 2026-07-24T09:01:59.805874+00:00
+**Scraped:** 2026-07-25T08:42:09.089879+00:00
 
 Perform an Action on an Entity Field - Netskope Knowledge Portal
 Perform an Action on an Entity Field
@@ -206892,7 +207072,7 @@ Perform an Action on an Entity Field
 ## Actions
 **URL:** https://docs.netskope.com/en/actions/
 **Last Modified:** 2025-10-31T23:01:20+00:00
-**Scraped:** 2026-07-24T09:02:00.983212+00:00
+**Scraped:** 2026-07-25T08:42:10.267911+00:00
 
 Actions - Netskope Knowledge Portal
 Actions
@@ -206935,7 +207115,7 @@ Actions
 ## Approve or Decline Pending Actions
 **URL:** https://docs.netskope.com/en/approve-or-decline-pending-actions/
 **Last Modified:** 2025-10-31T23:07:03+00:00
-**Scraped:** 2026-07-24T09:02:03.346764+00:00
+**Scraped:** 2026-07-25T08:42:12.619915+00:00
 
 Approve or Decline Pending Actions - Netskope Knowledge Portal
 Approve or Decline Pending Actions
@@ -206966,7 +207146,7 @@ Approve or Decline Pending Actions
 ## Revert Successful Actions
 **URL:** https://docs.netskope.com/en/revert-successful-actions/
 **Last Modified:** 2025-10-31T23:08:45+00:00
-**Scraped:** 2026-07-24T09:02:04.519248+00:00
+**Scraped:** 2026-07-25T08:42:13.794371+00:00
 
 Revert Successful Actions - Netskope Knowledge Portal
 Revert Successful Actions
@@ -206992,7 +207172,7 @@ Revert Successful Actions
 ## Records
 **URL:** https://docs.netskope.com/en/records/
 **Last Modified:** 2025-10-31T23:11:28+00:00
-**Scraped:** 2026-07-24T09:02:05.692919+00:00
+**Scraped:** 2026-07-25T08:42:14.971620+00:00
 
 Records - Netskope Knowledge Portal
 Records
@@ -207025,7 +207205,7 @@ Records
 ## Viewing and Analyzing Findings
 **URL:** https://docs.netskope.com/en/view-security-posture-findings/
 **Last Modified:** 2026-01-22T07:44:19+00:00
-**Scraped:** 2026-07-24T09:02:08.059549+00:00
+**Scraped:** 2026-07-25T08:42:17.330361+00:00
 
 Viewing and Analyzing Findings - Netskope Knowledge Portal
 Viewing and Analyzing Findings
@@ -207222,7 +207402,7 @@ Viewing and Analyzing Findings
 ## Creating a GRE Site
 **URL:** https://docs.netskope.com/en/creating-a-gre-site/
 **Last Modified:** 2026-04-14T20:26:02+00:00
-**Scraped:** 2026-07-24T09:02:12.821055+00:00
+**Scraped:** 2026-07-25T08:42:22.272788+00:00
 
 Creating a GRE Site - Netskope Knowledge Portal
 Creating a GRE Site
@@ -207321,7 +207501,7 @@ Creating a GRE Site
 ## Universal Reverse Proxy
 **URL:** https://docs.netskope.com/en/universal-reverse-proxy-2/
 **Last Modified:** 2026-06-17T16:43:29+00:00
-**Scraped:** 2026-07-24T09:02:14.031999+00:00
+**Scraped:** 2026-07-25T08:42:23.443000+00:00
 
 Universal Reverse Proxy - Netskope Knowledge Portal
 Universal Reverse Proxy
@@ -207572,7 +207752,7 @@ Universal Reverse Proxy
 ## OCR
 **URL:** https://docs.netskope.com/en/ocr/
 **Last Modified:** 2026-06-25T19:22:16+00:00
-**Scraped:** 2026-07-24T09:02:15.200734+00:00
+**Scraped:** 2026-07-25T08:42:24.696000+00:00
 
 OCR
 Optical Character Recognition (OCR) is automatic extraction of text from images within DLP. OCR is a feature within Advanced DLP.
@@ -207605,7 +207785,7 @@ OCR
 ## Importing domain allowlist or blocklist from a CSV file
 **URL:** https://docs.netskope.com/en/importing-domain-allowlist-or-blocklist-from-a-csv-file/
 **Last Modified:** 2025-11-12T23:16:21+00:00
-**Scraped:** 2026-07-24T09:02:16.370091+00:00
+**Scraped:** 2026-07-25T08:42:25.874255+00:00
 
 Importing domain allowlist or blocklist from a CSV file - Netskope Knowledge Portal
 Importing domain allowlist or blocklist from a CSV file
@@ -207628,7 +207808,7 @@ Importing domain allowlist or blocklist from a CSV file
 ## AWS Security Hub OCSF Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/aws-security-hub-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T22:59:47+00:00
-**Scraped:** 2026-07-24T09:02:18.769255+00:00
+**Scraped:** 2026-07-25T08:42:28.274019+00:00
 
 AWS Security Hub OCSF Plugin for Risk Exchange - Netskope Knowledge Portal
 AWS Security Hub OCSF Plugin for Risk Exchange
@@ -208293,7 +208473,7 @@ AWS Security Hub OCSF Plugin for Risk Exchange
 ## Manage Custom File Classification Business Rules (Beta)
 **URL:** https://docs.netskope.com/en/manage-custom-file-classification-business-rules-beta/
 **Last Modified:** 2025-11-14T01:11:14+00:00
-**Scraped:** 2026-07-24T09:02:26.019394+00:00
+**Scraped:** 2026-07-25T08:42:35.311637+00:00
 
 Manage Custom File Classification Business Rules (Beta) - Netskope Knowledge Portal
 Manage Custom File Classification Business Rules (Beta)
@@ -208307,7 +208487,7 @@ Manage Custom File Classification Business Rules (Beta)
 ## Configure and View Custom File Classification Business Rules (Beta)
 **URL:** https://docs.netskope.com/en/configure-and-view-custom-file-classification-business-rules-beta/
 **Last Modified:** 2025-11-14T01:11:29+00:00
-**Scraped:** 2026-07-24T09:02:27.296714+00:00
+**Scraped:** 2026-07-25T08:42:36.498836+00:00
 
 Configure and View Custom File Classification Business Rules (Beta) - Netskope Knowledge Portal
 Configure and View Custom File Classification Business Rules (Beta)
@@ -208361,7 +208541,7 @@ Configure and View Custom File Classification Business Rules (Beta)
 ## View Configured Custom File Classification Plugins (Beta)
 **URL:** https://docs.netskope.com/en/view-configured-custom-file-classification-plugins-beta/
 **Last Modified:** 2025-11-14T01:13:24+00:00
-**Scraped:** 2026-07-24T09:02:28.470332+00:00
+**Scraped:** 2026-07-25T08:42:37.769587+00:00
 
 View Configured Custom File Classification Plugins (Beta) - Netskope Knowledge Portal
 View Configured Custom File Classification Plugins (Beta)
@@ -208394,7 +208574,7 @@ View Configured Custom File Classification Plugins (Beta)
 ## Update Configured Custom File Classification Plugins (Beta)
 **URL:** https://docs.netskope.com/en/update-configured-custom-file-classification-plugins-beta/
 **Last Modified:** 2025-11-14T01:13:41+00:00
-**Scraped:** 2026-07-24T09:02:29.653771+00:00
+**Scraped:** 2026-07-25T08:42:38.946132+00:00
 
 Update Configured Custom File Classification Plugins (Beta) - Netskope Knowledge Portal
 Update Configured Custom File Classification Plugins (Beta)
@@ -208418,7 +208598,7 @@ Update Configured Custom File Classification Plugins (Beta)
 ## Configure Custom File Classification Sharing (Beta)
 **URL:** https://docs.netskope.com/en/configure-custom-file-classification-sharing-beta/
 **Last Modified:** 2025-11-14T01:26:48+00:00
-**Scraped:** 2026-07-24T09:02:30.938411+00:00
+**Scraped:** 2026-07-25T08:42:40.126677+00:00
 
 Configure Custom File Classification Sharing (Beta) - Netskope Knowledge Portal
 Configure Custom File Classification Sharing (Beta)
@@ -208460,7 +208640,7 @@ Configure Custom File Classification Sharing (Beta)
 ## Sharing and Upload Management (Beta)
 **URL:** https://docs.netskope.com/en/sharing-and-upload-management-beta/
 **Last Modified:** 2025-11-14T01:23:24+00:00
-**Scraped:** 2026-07-24T09:02:32.122600+00:00
+**Scraped:** 2026-07-25T08:42:41.304524+00:00
 
 Sharing and Upload Management (Beta) - Netskope Knowledge Portal
 Sharing and Upload Management (Beta)
@@ -208521,7 +208701,7 @@ Sharing and Upload Management (Beta)
 ## List File Metadata and Use Filter Options (Beta)
 **URL:** https://docs.netskope.com/en/list-file-metadata-and-use-filter-options-beta/
 **Last Modified:** 2025-11-14T01:29:40+00:00
-**Scraped:** 2026-07-24T09:02:33.308076+00:00
+**Scraped:** 2026-07-25T08:42:42.486438+00:00
 
 List File Metadata and Use Filter Options (Beta) - Netskope Knowledge Portal
 List File Metadata and Use Filter Options (Beta)
@@ -208643,7 +208823,7 @@ List File Metadata and Use Filter Options (Beta)
 ## Analyze SaaS Data Exposure and Access
 **URL:** https://docs.netskope.com/en/analyze-saas-data-exposure-and-access/
 **Last Modified:** 2026-04-16T01:58:50+00:00
-**Scraped:** 2026-07-24T09:02:34.639885+00:00
+**Scraped:** 2026-07-25T08:42:43.666839+00:00
 
 Analyze SaaS Data Exposure and Access - Netskope Knowledge Portal
 Analyze SaaS Data Exposure and Access
@@ -208777,7 +208957,7 @@ Analyze SaaS Data Exposure and Access
 ## Security Rules
 **URL:** https://docs.netskope.com/en/next-generation-saas-security-posture-rule/
 **Last Modified:** 2025-11-20T12:12:42+00:00
-**Scraped:** 2026-07-24T09:02:35.835839+00:00
+**Scraped:** 2026-07-25T08:42:44.955816+00:00
 
 Security Rules - Netskope Knowledge Portal
 Security Rules
@@ -208960,7 +209140,7 @@ Security Rules
 ## Removing the Appliance
 **URL:** https://docs.netskope.com/en/removing-the-appliance/
 **Last Modified:** 2026-06-25T19:19:29+00:00
-**Scraped:** 2026-07-24T09:02:37.010329+00:00
+**Scraped:** 2026-07-25T08:42:46.130453+00:00
 
 Removing the Appliance - Netskope Knowledge Portal
 Removing the Appliance
@@ -208982,7 +209162,7 @@ Removing the Appliance
 ## Omnissa Workspace One UEM Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/omnissa-workspace-one-uem-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:08:18+00:00
-**Scraped:** 2026-07-24T09:02:38.266657+00:00
+**Scraped:** 2026-07-25T08:42:47.379665+00:00
 
 Omnissa Workspace One UEM Plugin for Risk Exchange - Netskope Knowledge Portal
 Omnissa Workspace One UEM Plugin for Risk Exchange
@@ -209872,7 +210052,7 @@ Omnissa Workspace One UEM Plugin for Risk Exchange
 ## Configure Microsoft 365 OneDrive for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-365-onedrive-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-12-02T18:00:16+00:00
-**Scraped:** 2026-07-24T09:02:39.463998+00:00
+**Scraped:** 2026-07-25T08:42:48.570729+00:00
 
 Configure Microsoft 365 OneDrive for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Microsoft 365 OneDrive for the Next Generation API Data Protection
@@ -210076,7 +210256,7 @@ Configure Microsoft 365 OneDrive for the Next Generation API Data Protection
 ## Device Classification for Mac
 **URL:** https://docs.netskope.com/en/device-classification-for-mac/
 **Last Modified:** 2026-07-13T07:25:07+00:00
-**Scraped:** 2026-07-24T09:02:44.932566+00:00
+**Scraped:** 2026-07-25T08:42:53.843457+00:00
 
 Device Classification for Mac - Netskope Knowledge Portal
 Device Classification for Mac
@@ -210377,7 +210557,7 @@ Device Classification for Mac
 ## Omnissa Horizon
 **URL:** https://docs.netskope.com/en/omnissa-horizon/
 **Last Modified:** 2026-04-10T12:28:12+00:00
-**Scraped:** 2026-07-24T09:02:46.108446+00:00
+**Scraped:** 2026-07-25T08:42:55.018585+00:00
 
 Omnissa Horizon - Netskope Knowledge Portal
 Omnissa Horizon
@@ -210438,8 +210618,9 @@ Omnissa Horizon
 ## Cloud Explicit Proxy HTTPS
 **URL:** https://docs.netskope.com/en/cloud-explicit-proxy-https/
 **Last Modified:** 2026-04-27T07:07:22+00:00
-**Scraped:** 2026-07-24T09:02:47.296686+00:00
+**Scraped:** 2026-07-25T08:42:56.206522+00:00
 
+Cloud Explicit Proxy HTTPS - Netskope Knowledge Portal
 Cloud Explicit Proxy HTTPS
 Cloud Explicit Proxy
 is an access method that allows you to steer traffic to Netskope using a PAC file if you’re unable to use Netskope Client, IPSec, or GRE access methods. However, Cloud Explicit Proxy has a few limitations:
@@ -210797,7 +210978,7 @@ Cloud Explicit Proxy HTTPS
 ## Custom File Classification Plugin
 **URL:** https://docs.netskope.com/en/custom-file-classification-plugin/
 **Last Modified:** 2026-06-02T19:13:51+00:00
-**Scraped:** 2026-07-24T09:02:48.477295+00:00
+**Scraped:** 2026-07-25T08:42:57.506452+00:00
 
 Custom File Classification Plugin - Netskope Knowledge Portal
 Custom File Classification Plugin
@@ -211119,7 +211300,7 @@ Custom File Classification Plugin
 ## Configure 3rd-party Custom File Classification Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-custom-file-classification-plugins/
 **Last Modified:** 2026-06-11T21:57:26+00:00
-**Scraped:** 2026-07-24T09:02:49.748772+00:00
+**Scraped:** 2026-07-25T08:42:58.676468+00:00
 
 Configure 3rd-party Custom File Classification Plugins - Netskope Knowledge Portal
 Configure 3rd-party Custom File Classification Plugins
@@ -211135,7 +211316,7 @@ Configure 3rd-party Custom File Classification Plugins
 ## Linux File Share Plugin for Custom File Classification
 **URL:** https://docs.netskope.com/en/linux-file-share-plugin-for-custom-file-classification/
 **Last Modified:** 2026-06-02T18:42:18+00:00
-**Scraped:** 2026-07-24T09:02:50.948328+00:00
+**Scraped:** 2026-07-25T08:42:59.870791+00:00
 
 Linux File Share Plugin for Custom File Classification - Netskope Knowledge Portal
 Linux File Share Plugin for Custom File Classification
@@ -211367,7 +211548,7 @@ Linux File Share Plugin for Custom File Classification
 ## Scan Content Type
 **URL:** https://docs.netskope.com/en/scan-content-type/
 **Last Modified:** 2025-12-05T02:53:11+00:00
-**Scraped:** 2026-07-24T09:02:52.129176+00:00
+**Scraped:** 2026-07-25T08:43:01.146747+00:00
 
 Scan Content Type - Netskope Knowledge Portal
 Scan Content Type
@@ -211436,7 +211617,7 @@ Scan Content Type
 ## Configure ChatGPT Enterprise for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-chatgpt-enterprise-for-the-next-generation-api-data-protection/
 **Last Modified:** 2025-12-05T02:55:51+00:00
-**Scraped:** 2026-07-24T09:02:53.299500+00:00
+**Scraped:** 2026-07-25T08:43:02.362198+00:00
 
 Configure ChatGPT Enterprise for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure ChatGPT Enterprise for the Next Generation API Data Protection
@@ -211618,7 +211799,7 @@ Configure ChatGPT Enterprise for the Next Generation API Data Protection
 ## Jamf School
 **URL:** https://docs.netskope.com/en/jamf-school/
 **Last Modified:** 2025-12-10T13:26:26+00:00
-**Scraped:** 2026-07-24T09:02:54.467488+00:00
+**Scraped:** 2026-07-25T08:43:03.546695+00:00
 
 Jamf School - Netskope Knowledge Portal
 Jamf School
@@ -211635,7 +211816,7 @@ Jamf School
 ## Microsoft File Share Plugin for Custom File Classification
 **URL:** https://docs.netskope.com/en/microsoft-file-share-plugin-for-custom-file-classification/
 **Last Modified:** 2026-06-02T18:55:51+00:00
-**Scraped:** 2026-07-24T09:02:56.871966+00:00
+**Scraped:** 2026-07-25T08:43:05.979981+00:00
 
 Microsoft File Share Plugin for Custom File Classification - Netskope Knowledge Portal
 Microsoft File Share Plugin for Custom File Classification
@@ -211963,7 +212144,7 @@ Microsoft File Share Plugin for Custom File Classification
 ## Troubleshooting Guidelines
 **URL:** https://docs.netskope.com/en/troubleshooting-guidelines/
 **Last Modified:** 2025-12-11T05:41:42+00:00
-**Scraped:** 2026-07-24T09:03:08.074570+00:00
+**Scraped:** 2026-07-25T08:43:16.827399+00:00
 
 Troubleshooting Guidelines - Netskope Knowledge Portal
 Troubleshooting Guidelines
@@ -211983,8 +212164,9 @@ Troubleshooting Guidelines
 ## SSPM Connectivity to SaaS App
 **URL:** https://docs.netskope.com/en/sspm-connectivity-to-saas-app/
 **Last Modified:** 2026-06-15T05:46:11+00:00
-**Scraped:** 2026-07-24T09:03:16.568933+00:00
+**Scraped:** 2026-07-25T08:43:18.282667+00:00
 
+SSPM Connectivity to SaaS App - Netskope Knowledge Portal
 SSPM Connectivity to SaaS App
 This article outlines the common connectivity issues that can occur between SSPM and your integrated SaaS apps. It provides a clear list of SSPM error codes along with their corresponding remediation steps, helping you quickly identify the root cause and restore a healthy connection. Use these tables as your primary reference when diagnosing connectivity failures, permission gaps, or API-related errors across your SaaS integrations.
 If the last scan time exceeds twice the configured Security Scan Interval, check the instance state and regrant the instance if it is in an error state.
@@ -212528,7 +212710,7 @@ SSPM Connectivity to SaaS App
 ## Viewing Security Posture by SaaS Apps
 **URL:** https://docs.netskope.com/en/view-saas-apps/
 **Last Modified:** 2026-06-15T05:46:32+00:00
-**Scraped:** 2026-07-24T09:03:17.807145+00:00
+**Scraped:** 2026-07-25T08:43:19.452413+00:00
 
 Viewing Security Posture by SaaS Apps - Netskope Knowledge Portal
 Viewing Security Posture by SaaS Apps
@@ -212669,7 +212851,7 @@ Viewing Security Posture by SaaS Apps
 ## Get Profiles
 **URL:** https://docs.netskope.com/en/get-profiles/
 **Last Modified:** 2026-06-25T19:14:36+00:00
-**Scraped:** 2026-07-24T09:03:18.979472+00:00
+**Scraped:** 2026-07-25T08:43:20.729685+00:00
 
 Get Profiles - Netskope Knowledge Portal
 Get Profiles
@@ -212735,7 +212917,7 @@ Get Profiles
 ## Get Pending Jobs
 **URL:** https://docs.netskope.com/en/get-pending-jobs/
 **Last Modified:** 2026-06-25T19:14:35+00:00
-**Scraped:** 2026-07-24T09:03:20.156221+00:00
+**Scraped:** 2026-07-25T08:43:22.096957+00:00
 
 Get Pending Jobs - Netskope Knowledge Portal
 Get Pending Jobs
@@ -212812,7 +212994,7 @@ Get Pending Jobs
 ## REST API v2 Reporting Endpoints for Advanced Analytics
 **URL:** https://docs.netskope.com/en/rest-api-v2-reporting-endpoints-for-advanced-analytics/
 **Last Modified:** 2026-03-05T17:06:46+00:00
-**Scraped:** 2026-07-24T09:03:23.725212+00:00
+**Scraped:** 2026-07-25T08:43:25.773793+00:00
 
 REST API v2 Reporting Endpoints for Advanced Analytics - Netskope Knowledge Portal
 REST API v2 Reporting Endpoints for Advanced Analytics
@@ -212932,7 +213114,7 @@ REST API v2 Reporting Endpoints for Advanced Analytics
 ## REST API v2 Reporting Endpoints for Reports
 **URL:** https://docs.netskope.com/en/rest-api-v2-reporting-endpoints-for-reports/
 **Last Modified:** 2026-03-05T17:06:50+00:00
-**Scraped:** 2026-07-24T09:03:24.902010+00:00
+**Scraped:** 2026-07-25T08:43:26.951458+00:00
 
 REST API v2 Reporting Endpoints for Reports - Netskope Knowledge Portal
 REST API v2 Reporting Endpoints for Reports
@@ -213048,7 +213230,7 @@ REST API v2 Reporting Endpoints for Reports
 ## Operational Behavior and Validation
 **URL:** https://docs.netskope.com/en/operational-behavior-validation/
 **Last Modified:** 2025-12-20T00:15:42+00:00
-**Scraped:** 2026-07-24T09:03:30.793100+00:00
+**Scraped:** 2026-07-25T08:43:32.926363+00:00
 
 Operational Behavior and Validation - Netskope Knowledge Portal
 Operational Behavior and Validation
@@ -213073,7 +213255,7 @@ Operational Behavior and Validation
 ## AI Gateway Overview
 **URL:** https://docs.netskope.com/en/ai-gateway-overview/
 **Last Modified:** 2026-05-18T15:01:12+00:00
-**Scraped:** 2026-07-24T09:03:31.975384+00:00
+**Scraped:** 2026-07-25T08:43:34.089333+00:00
 
 AI Gateway Overview - Netskope Knowledge Portal
 AI Gateway Overview
@@ -213163,7 +213345,7 @@ AI Gateway Overview
 ## Installation and Deployment of VM Images
 **URL:** https://docs.netskope.com/en/installation-and-deployment-of-vm-images/
 **Last Modified:** 2026-05-18T15:01:13+00:00
-**Scraped:** 2026-07-24T09:03:33.156029+00:00
+**Scraped:** 2026-07-25T08:43:35.255717+00:00
 
 Installation and Deployment of VM Images - Netskope Knowledge Portal
 Installation and Deployment of VM Images
@@ -213182,7 +213364,7 @@ Installation and Deployment of VM Images
 ## Downloading the VMware ESXi Image
 **URL:** https://docs.netskope.com/en/downloading-the-vmware-esxi-image/
 **Last Modified:** 2026-07-23T09:11:18+00:00
-**Scraped:** 2026-07-24T09:03:34.329987+00:00
+**Scraped:** 2026-07-25T08:43:36.524589+00:00
 
 Downloading the VMware ESXi Image - Netskope Knowledge Portal
 Downloading the VMware ESXi Image
@@ -213213,7 +213395,7 @@ Downloading the VMware ESXi Image
 ## Launching the AWS Amazon Machine Image (AMI)
 **URL:** https://docs.netskope.com/en/downloading-the-amazon-machine-image/
 **Last Modified:** 2026-07-23T09:19:53+00:00
-**Scraped:** 2026-07-24T09:03:35.503082+00:00
+**Scraped:** 2026-07-25T08:43:37.696552+00:00
 
 Launching the AWS Amazon Machine Image (AMI) - Netskope Knowledge Portal
 Launching the AWS Amazon Machine Image (AMI)
@@ -213244,7 +213426,7 @@ Launching the AWS Amazon Machine Image (AMI)
 ## Installation in Your Infrastructure
 **URL:** https://docs.netskope.com/en/installation-in-your-infrastructure/
 **Last Modified:** 2026-05-18T15:00:36+00:00
-**Scraped:** 2026-07-24T09:03:36.673023+00:00
+**Scraped:** 2026-07-25T08:43:38.866563+00:00
 
 Installation in Your Infrastructure - Netskope Knowledge Portal
 Installation in Your Infrastructure
@@ -213260,8 +213442,9 @@ Installation in Your Infrastructure
 ## Deploying OVA on ESXi
 **URL:** https://docs.netskope.com/en/deploying-ova-on-esxi/
 **Last Modified:** 2026-05-18T15:01:08+00:00
-**Scraped:** 2026-07-24T09:03:37.848566+00:00
+**Scraped:** 2026-07-25T08:43:40.042376+00:00
 
+Deploying OVA on ESXi - Netskope Knowledge Portal
 Deploying OVA on ESXi
 To deploy OVA, follow the steps below.
 Login ESXi host to deploy OVA.Unzip ai-gateway-ova.zip file to get ova file. For downloading the file, refer to the steps in Downloading the VMware ESXi Image.
@@ -213346,7 +213529,7 @@ Deploying OVA on ESXi
 ## Deploying AWS AMI image
 **URL:** https://docs.netskope.com/en/deploying-aws-ami-image/
 **Last Modified:** 2026-05-18T15:01:05+00:00
-**Scraped:** 2026-07-24T09:03:39.022389+00:00
+**Scraped:** 2026-07-25T08:43:41.220403+00:00
 
 Deploying AWS AMI image - Netskope Knowledge Portal
 Deploying AWS AMI image
@@ -213387,7 +213570,7 @@ Deploying AWS AMI image
 ## Setup and Registration
 **URL:** https://docs.netskope.com/en/setup-and-registration/
 **Last Modified:** 2026-05-18T15:00:37+00:00
-**Scraped:** 2026-07-24T09:03:40.190222+00:00
+**Scraped:** 2026-07-25T08:43:42.376020+00:00
 
 Setup and Registration - Netskope Knowledge Portal
 Setup and Registration
@@ -213401,7 +213584,7 @@ Setup and Registration
 ## Deploy AI Gateway on Netskope Portal
 **URL:** https://docs.netskope.com/en/deploy-ai-gateway-on-netskope-portal/
 **Last Modified:** 2026-07-15T05:29:10+00:00
-**Scraped:** 2026-07-24T09:03:41.371967+00:00
+**Scraped:** 2026-07-25T08:43:43.640319+00:00
 
 Deploy AI Gateway on Netskope Portal - Netskope Knowledge Portal
 Deploy AI Gateway on Netskope Portal
@@ -213502,7 +213685,7 @@ Deploy AI Gateway on Netskope Portal
 ## Install Certificate on AI Gateway
 **URL:** https://docs.netskope.com/en/install-certificate-on-ai-gateway/
 **Last Modified:** 2026-06-08T08:26:47+00:00
-**Scraped:** 2026-07-24T09:03:42.541802+00:00
+**Scraped:** 2026-07-25T08:43:44.815074+00:00
 
 Install Certificate on AI Gateway - Netskope Knowledge Portal
 Install Certificate on AI Gateway
@@ -213551,7 +213734,7 @@ Install Certificate on AI Gateway
 ## Integrating with AI Guardrails
 **URL:** https://docs.netskope.com/en/integrating-with-ai-security-guardrails/
 **Last Modified:** 2026-05-18T15:00:39+00:00
-**Scraped:** 2026-07-24T09:03:44.896002+00:00
+**Scraped:** 2026-07-25T08:43:47.260483+00:00
 
 Integrating with AI Guardrails - Netskope Knowledge Portal
 Integrating with AI Guardrails
@@ -213566,7 +213749,7 @@ Integrating with AI Guardrails
 ## Installing GPU-Based Guardrails
 **URL:** https://docs.netskope.com/en/installing-gpu-based-guardrails/
 **Last Modified:** 2026-06-11T08:55:46+00:00
-**Scraped:** 2026-07-24T09:03:46.160341+00:00
+**Scraped:** 2026-07-25T08:43:48.442523+00:00
 
 Installing GPU-Based Guardrails - Netskope Knowledge Portal
 Installing GPU-Based Guardrails
@@ -213751,8 +213934,9 @@ Installing GPU-Based Guardrails
 ## Docker Deployment
 **URL:** https://docs.netskope.com/en/docker-deployment/
 **Last Modified:** 2026-05-18T15:00:43+00:00
-**Scraped:** 2026-07-24T09:03:47.421773+00:00
+**Scraped:** 2026-07-25T08:43:49.617870+00:00
 
+Docker Deployment - Netskope Knowledge Portal
 Docker Deployment
 If you are using GPU based AI Guardrails, directly download and deploy the Netskope LLM Docker image.
 As a standard image, it can run in any environment supporting containers as follows:
@@ -213829,7 +214013,7 @@ Docker Deployment
 ## Selecting AI Guardrails Service
 **URL:** https://docs.netskope.com/en/selecting-llm-guardrails-service/
 **Last Modified:** 2026-05-18T15:00:44+00:00
-**Scraped:** 2026-07-24T09:03:48.596150+00:00
+**Scraped:** 2026-07-25T08:43:50.794282+00:00
 
 Selecting AI Guardrails Service - Netskope Knowledge Portal
 Selecting AI Guardrails Service
@@ -213860,7 +214044,7 @@ Selecting AI Guardrails Service
 ## Configure AI Guardrails Service Certificate
 **URL:** https://docs.netskope.com/en/configure-llm-service-certificate/
 **Last Modified:** 2026-05-18T15:00:40+00:00
-**Scraped:** 2026-07-24T09:03:49.770860+00:00
+**Scraped:** 2026-07-25T08:43:51.965983+00:00
 
 Configure AI Guardrails Service Certificate - Netskope Knowledge Portal
 Configure AI Guardrails Service Certificate
@@ -213889,7 +214073,7 @@ Configure AI Guardrails Service Certificate
 ## Configure AI Guardrails Service Host
 **URL:** https://docs.netskope.com/en/configure-llm-service-host/
 **Last Modified:** 2026-05-25T06:54:55+00:00
-**Scraped:** 2026-07-24T09:03:50.945909+00:00
+**Scraped:** 2026-07-25T08:43:53.136791+00:00
 
 Configure AI Guardrails Service Host - Netskope Knowledge Portal
 Configure AI Guardrails Service Host
@@ -213940,7 +214124,7 @@ Configure AI Guardrails Service Host
 ## Delete AI Guardrails Service Host Configuration
 **URL:** https://docs.netskope.com/en/delete-llm-service-host-configuration/
 **Last Modified:** 2026-05-18T15:00:41+00:00
-**Scraped:** 2026-07-24T09:03:52.119621+00:00
+**Scraped:** 2026-07-25T08:43:54.409481+00:00
 
 Delete AI Guardrails Service Host Configuration - Netskope Knowledge Portal
 Delete AI Guardrails Service Host Configuration
@@ -213964,7 +214148,7 @@ Delete AI Guardrails Service Host Configuration
 ## Configuration
 **URL:** https://docs.netskope.com/en/configuration/
 **Last Modified:** 2026-05-18T15:01:13+00:00
-**Scraped:** 2026-07-24T09:03:53.390692+00:00
+**Scraped:** 2026-07-25T08:43:55.579752+00:00
 
 Configuration - Netskope Knowledge Portal
 Configuration
@@ -213980,7 +214164,7 @@ Configuration
 ## AI Provider List
 **URL:** https://docs.netskope.com/en/ai-provider-list/
 **Last Modified:** 2026-05-21T14:31:07+00:00
-**Scraped:** 2026-07-24T09:03:54.560962+00:00
+**Scraped:** 2026-07-25T08:43:56.765906+00:00
 
 AI Provider List - Netskope Knowledge Portal
 AI Provider List
@@ -214008,7 +214192,7 @@ AI Provider List
 ## Add or Register a Custom AI Provider
 **URL:** https://docs.netskope.com/en/add-or-register-a-custom-ai-provider/
 **Last Modified:** 2026-05-21T14:33:06+00:00
-**Scraped:** 2026-07-24T09:03:55.735617+00:00
+**Scraped:** 2026-07-25T08:43:57.938098+00:00
 
 Add or Register a Custom AI Provider - Netskope Knowledge Portal
 Add or Register a Custom AI Provider
@@ -214055,7 +214239,7 @@ Add or Register a Custom AI Provider
 ## Authentication Token and Group
 **URL:** https://docs.netskope.com/en/authentication-token-and-group/
 **Last Modified:** 2026-05-18T15:01:39+00:00
-**Scraped:** 2026-07-24T09:03:58.188315+00:00
+**Scraped:** 2026-07-25T08:44:00.282622+00:00
 
 Authentication Token and Group - Netskope Knowledge Portal
 Authentication Token and Group
@@ -214067,7 +214251,7 @@ Authentication Token and Group
 ## Create New Token Group
 **URL:** https://docs.netskope.com/en/create-new-token-group/
 **Last Modified:** 2026-05-18T15:01:03+00:00
-**Scraped:** 2026-07-24T09:03:59.366944+00:00
+**Scraped:** 2026-07-25T08:44:01.555035+00:00
 
 Create New Token Group - Netskope Knowledge Portal
 Create New Token Group
@@ -214099,7 +214283,7 @@ Create New Token Group
 ## Create New Token
 **URL:** https://docs.netskope.com/en/create-new-token/
 **Last Modified:** 2026-05-18T15:01:02+00:00
-**Scraped:** 2026-07-24T09:04:00.541654+00:00
+**Scraped:** 2026-07-25T08:44:02.713213+00:00
 
 Create New Token - Netskope Knowledge Portal
 Create New Token
@@ -214141,7 +214325,7 @@ Create New Token
 ## Rate Limit
 **URL:** https://docs.netskope.com/en/rate-limit/
 **Last Modified:** 2026-05-18T15:01:40+00:00
-**Scraped:** 2026-07-24T09:04:01.752257+00:00
+**Scraped:** 2026-07-25T08:44:03.885262+00:00
 
 Rate Limit - Netskope Knowledge Portal
 Rate Limit
@@ -214186,8 +214370,9 @@ Rate Limit
 ## AI Gateway Policies
 **URL:** https://docs.netskope.com/en/ai-gateway-policies/
 **Last Modified:** 2026-05-18T15:01:40+00:00
-**Scraped:** 2026-07-24T09:04:02.931292+00:00
+**Scraped:** 2026-07-25T08:44:05.060647+00:00
 
+AI Gateway Policies - Netskope Knowledge Portal
 AI Gateway Policies
 This article outlines how to configure policies for controlling and monitoring AI traffic. The AI Gateway evaluates policies in a specific sequence, processing sections in the following order.
 Access Control
@@ -214213,7 +214398,7 @@ AI Gateway Policies
 ## Access Policies
 **URL:** https://docs.netskope.com/en/access-policies/
 **Last Modified:** 2026-05-18T15:00:29+00:00
-**Scraped:** 2026-07-24T09:04:04.206530+00:00
+**Scraped:** 2026-07-25T08:44:06.237984+00:00
 
 Access Policies - Netskope Knowledge Portal
 Access Policies
@@ -214290,8 +214475,9 @@ Access Policies
 ## AI Guardrails
 **URL:** https://docs.netskope.com/en/ai-guardrails-policy/
 **Last Modified:** 2026-05-18T15:00:30+00:00
-**Scraped:** 2026-07-24T09:04:06.565077+00:00
+**Scraped:** 2026-07-25T08:44:08.587923+00:00
 
+AI Guardrails - Netskope Knowledge Portal
 AI Guardrails
 Create New Guardrails Group
 To create a new Guardrails policy group, follow the steps below.
@@ -214369,7 +214555,7 @@ AI Guardrails
 ## Signing In to Your Appliance
 **URL:** https://docs.netskope.com/en/signing-in-to-your-appliance/
 **Last Modified:** 2026-05-18T15:01:14+00:00
-**Scraped:** 2026-07-24T09:04:07.834606+00:00
+**Scraped:** 2026-07-25T08:44:09.841145+00:00
 
 Signing In to Your Appliance - Netskope Knowledge Portal
 Signing In to Your Appliance
@@ -214413,7 +214599,7 @@ Signing In to Your Appliance
 ## Monitoring AI Gateway events
 **URL:** https://docs.netskope.com/en/monitoring-ai-gateway-events/
 **Last Modified:** 2026-07-21T06:13:25+00:00
-**Scraped:** 2026-07-24T09:04:09.004529+00:00
+**Scraped:** 2026-07-25T08:44:11.012465+00:00
 
 Monitoring AI Gateway events - Netskope Knowledge Portal
 Monitoring AI Gateway events
@@ -214446,7 +214632,7 @@ Monitoring AI Gateway events
 ## AI Gateway Sizing Guidelines
 **URL:** https://docs.netskope.com/en/ai-gateway-sizing-guidelines/
 **Last Modified:** 2026-07-17T09:01:52+00:00
-**Scraped:** 2026-07-24T09:04:10.181009+00:00
+**Scraped:** 2026-07-25T08:44:12.187932+00:00
 
 AI Gateway Sizing Guidelines - Netskope Knowledge Portal
 AI Gateway Sizing Guidelines
@@ -214515,7 +214701,7 @@ AI Gateway Sizing Guidelines
 ## Best Practices for User Alert Policies
 **URL:** https://docs.netskope.com/en/best-practices-for-user-alert-policies/
 **Last Modified:** 2026-01-06T21:31:36+00:00
-**Scraped:** 2026-07-24T09:04:11.449216+00:00
+**Scraped:** 2026-07-25T08:44:13.357264+00:00
 
 Best Practices for User Alert Policies - Netskope Knowledge Portal
 Best Practices for User Alert Policies
@@ -214552,7 +214738,7 @@ Best Practices for User Alert Policies
 ## Proxy Configuration for Docker
 **URL:** https://docs.netskope.com/en/proxy-configuration-for-docker/
 **Last Modified:** 2026-01-07T07:38:54+00:00
-**Scraped:** 2026-07-24T09:04:18.607363+00:00
+**Scraped:** 2026-07-25T08:44:20.639552+00:00
 
 Proxy Configuration for Docker - Netskope Knowledge Portal
 Proxy Configuration for Docker
@@ -214607,7 +214793,7 @@ Proxy Configuration for Docker
 ## Red Hat and Podman Configuration
 **URL:** https://docs.netskope.com/en/red-hat-and-podman-configuration/
 **Last Modified:** 2026-01-07T07:39:07+00:00
-**Scraped:** 2026-07-24T09:04:19.780965+00:00
+**Scraped:** 2026-07-25T08:44:22.000562+00:00
 
 Red Hat and Podman Configuration - Netskope Knowledge Portal
 Red Hat and Podman Configuration
@@ -214687,7 +214873,7 @@ Red Hat and Podman Configuration
 ## Risk Assessment, Remediation, and Mitigation Plan for Netskope Cloud Exchange Deployments
 **URL:** https://docs.netskope.com/en/risk-assessment-remediation-and-mitigation-plan-for-netskope-cloud-exchange-deployments/
 **Last Modified:** 2026-07-02T19:13:38+00:00
-**Scraped:** 2026-07-24T09:04:25.834926+00:00
+**Scraped:** 2026-07-25T08:44:27.956621+00:00
 
 Risk Assessment, Remediation, and Mitigation Plan for Netskope Cloud Exchange Deployments - Netskope Knowledge Portal
 Risk Assessment, Remediation, and Mitigation Plan for Netskope Cloud Exchange Deployments
@@ -214869,7 +215055,7 @@ Risk Assessment, Remediation, and Mitigation Plan for Netskope Cloud Exchange De
 ## Microsoft Intune Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/microsoft-intune-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:06:57+00:00
-**Scraped:** 2026-07-24T09:04:27.273124+00:00
+**Scraped:** 2026-07-25T08:44:29.351774+00:00
 
 Microsoft Intune Plugin for Risk Exchange - Netskope Knowledge Portal
 Microsoft Intune Plugin for Risk Exchange
@@ -215718,7 +215904,7 @@ Microsoft Intune Plugin for Risk Exchange
 ## CrowdStrike Falcon Spotlight Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-falcon-spotlight-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:02:29+00:00
-**Scraped:** 2026-07-24T09:04:28.636149+00:00
+**Scraped:** 2026-07-25T08:44:30.567435+00:00
 
 CrowdStrike Falcon Spotlight Plugin for Risk Exchange - Netskope Knowledge Portal
 CrowdStrike Falcon Spotlight Plugin for Risk Exchange
@@ -216404,7 +216590,7 @@ CrowdStrike Falcon Spotlight Plugin for Risk Exchange
 ## Netskope AI Agent with Microsoft Security Copilot
 **URL:** https://docs.netskope.com/en/netskope-ai-agent-with-microsoft-security-copilot/
 **Last Modified:** 2026-07-23T19:16:59+00:00
-**Scraped:** 2026-07-24T09:04:29.818424+00:00
+**Scraped:** 2026-07-25T08:44:31.738407+00:00
 
 Netskope AI Agent with Microsoft Security Copilot - Netskope Knowledge Portal
 Netskope AI Agent with Microsoft Security Copilot
@@ -216492,7 +216678,7 @@ Netskope AI Agent with Microsoft Security Copilot
 ## Creating a Target
 **URL:** https://docs.netskope.com/en/creating-a-target/
 **Last Modified:** 2026-06-15T23:20:24+00:00
-**Scraped:** 2026-07-24T09:04:31.007206+00:00
+**Scraped:** 2026-07-25T08:44:32.922482+00:00
 
 Creating a Target - Netskope Knowledge Portal
 Creating a Target
@@ -216668,7 +216854,7 @@ Creating a Target
 ## Backup Cloud Exchange
 **URL:** https://docs.netskope.com/en/backup-cloud-exchange/
 **Last Modified:** 2026-06-03T18:57:10+00:00
-**Scraped:** 2026-07-24T09:04:34.587558+00:00
+**Scraped:** 2026-07-25T08:44:36.577653+00:00
 
 Backup Cloud Exchange - Netskope Knowledge Portal
 Backup Cloud Exchange
@@ -216743,7 +216929,7 @@ Backup Cloud Exchange
 ## Private App Segments
 **URL:** https://docs.netskope.com/en/private-app-segments/
 **Last Modified:** 2026-01-29T22:54:53+00:00
-**Scraped:** 2026-07-24T09:04:35.858373+00:00
+**Scraped:** 2026-07-25T08:44:37.852013+00:00
 
 Private App Segments - Netskope Knowledge Portal
 Private App Segments
@@ -216766,7 +216952,7 @@ Private App Segments
 ## Test Rounds
 **URL:** https://docs.netskope.com/en/test-rounds/
 **Last Modified:** 2026-07-14T20:38:40+00:00
-**Scraped:** 2026-07-24T09:04:37.035715+00:00
+**Scraped:** 2026-07-25T08:44:39.029816+00:00
 
 Test Rounds - Netskope Knowledge Portal
 Test Rounds
@@ -216853,7 +217039,7 @@ Test Rounds
 ## Next Generation API Data Protection Retroactive Scan
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-retroactive-scan/
 **Last Modified:** 2026-02-02T18:00:49+00:00
-**Scraped:** 2026-07-24T09:04:38.231856+00:00
+**Scraped:** 2026-07-25T08:44:40.229863+00:00
 
 Next Generation API Data Protection Retroactive Scan - Netskope Knowledge Portal
 Next Generation API Data Protection Retroactive Scan
@@ -217107,7 +217293,7 @@ Next Generation API Data Protection Retroactive Scan
 ## Configure Slack Enterprise for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-slack-enterprise-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-06-15T15:10:41+00:00
-**Scraped:** 2026-07-24T09:04:41.874182+00:00
+**Scraped:** 2026-07-25T08:44:43.940406+00:00
 
 Configure Slack Enterprise for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Slack Enterprise for the Next Generation API Data Protection
@@ -217272,7 +217458,7 @@ Configure Slack Enterprise for the Next Generation API Data Protection
 ## IPSec
 **URL:** https://docs.netskope.com/en/ipsec/
 **Last Modified:** 2026-07-02T23:07:17+00:00
-**Scraped:** 2026-07-24T09:04:43.054905+00:00
+**Scraped:** 2026-07-25T08:44:45.138575+00:00
 
 IPSec - Netskope Knowledge Portal
 IPSec
@@ -217531,7 +217717,7 @@ IPSec
 ## Column Classification Rules
 **URL:** https://docs.netskope.com/en/column-classification-rules/
 **Last Modified:** 2026-06-25T19:14:32+00:00
-**Scraped:** 2026-07-24T09:04:44.233187+00:00
+**Scraped:** 2026-07-25T08:44:46.413804+00:00
 
 Column Classification Rules - Netskope Knowledge Portal
 Column Classification Rules
@@ -217646,7 +217832,7 @@ Column Classification Rules
 ## Metric Accuracy and Performance Optimization
 **URL:** https://docs.netskope.com/en/metric-accuracy-and-performance-optimization/
 **Last Modified:** 2026-02-13T20:11:05+00:00
-**Scraped:** 2026-07-24T09:04:47.768415+00:00
+**Scraped:** 2026-07-25T08:44:49.935419+00:00
 
 Metric Accuracy and Performance Optimization - Netskope Knowledge Portal
 Metric Accuracy and Performance Optimization
@@ -217666,8 +217852,9 @@ Metric Accuracy and Performance Optimization
 ## Microsoft Group Policy Object (GPO)
 **URL:** https://docs.netskope.com/en/microsoft-group-policy-object-gpo/
 **Last Modified:** 2026-07-22T06:40:39+00:00
-**Scraped:** 2026-07-24T09:04:49.066389+00:00
+**Scraped:** 2026-07-25T08:44:51.129362+00:00
 
+Microsoft Group Policy Object (GPO) - Netskope Knowledge Portal
 Microsoft Group Policy Object (GPO)
 You can deploy Netskope Client to Active Directory (AD) joined devices via Microsoft GPO using a script based or MST based deployment option. Before you begin, ensure that you meet all prerequisites.
 Prerequisites
@@ -217877,7 +218064,7 @@ Microsoft Group Policy Object (GPO)
 ## Viewing and Analyzing Users
 **URL:** https://docs.netskope.com/en/viewing-and-analyzing-users/
 **Last Modified:** 2026-04-27T05:59:15+00:00
-**Scraped:** 2026-07-24T09:04:51.400797+00:00
+**Scraped:** 2026-07-25T08:44:53.488931+00:00
 
 Viewing and Analyzing Users - Netskope Knowledge Portal
 Viewing and Analyzing Users
@@ -218018,7 +218205,7 @@ Viewing and Analyzing Users
 ## Skope IT Transaction Events
 **URL:** https://docs.netskope.com/en/skope-it-transaction-events/
 **Last Modified:** 2026-06-30T13:15:32+00:00
-**Scraped:** 2026-07-24T09:04:52.583134+00:00
+**Scraped:** 2026-07-25T08:44:54.669275+00:00
 
 Skope IT Transaction Events - Netskope Knowledge Portal
 Skope IT Transaction Events
@@ -218151,8 +218338,9 @@ Skope IT Transaction Events
 ## Steganographic Detection
 **URL:** https://docs.netskope.com/en/steganographic-detection/
 **Last Modified:** 2026-06-25T19:19:35+00:00
-**Scraped:** 2026-07-24T09:04:53.757271+00:00
+**Scraped:** 2026-07-25T08:44:55.843484+00:00
 
+Steganographic Detection - Netskope Knowledge Portal
 Steganographic Detection
 This feature requires Advanced DLP. Reach out to your account executive or support@netskope.com for more information.
 Steganography detection, or steganalysis, is the process of identifying the presence of hidden information within a cover medium, such as an image file. The rise of sophisticated data-hiding techniques requires equally advanced detection methods. This document outlines the foundational approach for a machine learning (ML) model designed to perform preliminary detection of steganographically altered image files.
@@ -218196,7 +218384,7 @@ Steganographic Detection
 ## Visibility into MCP Usage
 **URL:** https://docs.netskope.com/en/visibility-into-mcp-usage/
 **Last Modified:** 2026-05-11T23:15:42+00:00
-**Scraped:** 2026-07-24T09:04:56.126525+00:00
+**Scraped:** 2026-07-25T08:44:58.306390+00:00
 
 Visibility into MCP Usage - Netskope Knowledge Portal
 Visibility into MCP Usage
@@ -218300,7 +218488,7 @@ Visibility into MCP Usage
 ## Configuring HTTP Header-Based Policies
 **URL:** https://docs.netskope.com/en/configuring-http-header-based-policies/
 **Last Modified:** 2026-05-11T23:21:52+00:00
-**Scraped:** 2026-07-24T09:04:58.572781+00:00
+**Scraped:** 2026-07-25T08:45:00.685284+00:00
 
 Configuring HTTP Header-Based Policies - Netskope Knowledge Portal
 Configuring HTTP Header-Based Policies
@@ -218354,7 +218542,7 @@ Configuring HTTP Header-Based Policies
 ## Configuring RTP Policies to Block Events
 **URL:** https://docs.netskope.com/en/configuring-rtp-policies-to-block-events/
 **Last Modified:** 2026-04-16T02:11:12+00:00
-**Scraped:** 2026-07-24T09:04:59.745306+00:00
+**Scraped:** 2026-07-25T08:45:01.867979+00:00
 
 Configuring RTP Policies to Block Events - Netskope Knowledge Portal
 Configuring RTP Policies to Block Events
@@ -218373,7 +218561,7 @@ Configuring RTP Policies to Block Events
 ## Granular Access Control to Block a Specific MCP Server
 **URL:** https://docs.netskope.com/en/granular-access-control-to-block-a-specific-mcp-server/
 **Last Modified:** 2026-06-11T19:08:12+00:00
-**Scraped:** 2026-07-24T09:05:02.218425+00:00
+**Scraped:** 2026-07-25T08:45:04.230918+00:00
 
 Granular Access Control to Block a Specific MCP Server - Netskope Knowledge Portal
 Granular Access Control to Block a Specific MCP Server
@@ -218408,7 +218596,7 @@ Granular Access Control to Block a Specific MCP Server
 ## Transaction Events Fields Reference
 **URL:** https://docs.netskope.com/en/transaction-events-fields-reference/
 **Last Modified:** 2026-07-10T16:25:48+00:00
-**Scraped:** 2026-07-24T09:05:05.919791+00:00
+**Scraped:** 2026-07-25T08:45:07.939686+00:00
 
 Transaction Events Fields Reference - Netskope Knowledge Portal
 Transaction Events Fields Reference
@@ -219342,7 +219530,7 @@ Transaction Events Fields Reference
 ## Transaction Events Formats
 **URL:** https://docs.netskope.com/en/transaction-events-formats/
 **Last Modified:** 2026-02-20T06:06:45+00:00
-**Scraped:** 2026-07-24T09:05:07.207142+00:00
+**Scraped:** 2026-07-25T08:45:09.120378+00:00
 
 Transaction Events Formats - Netskope Knowledge Portal
 Transaction Events Formats
@@ -219499,7 +219687,7 @@ Transaction Events Formats
 ## Configure Column Classification Rules and Hybrid Profiles
 **URL:** https://docs.netskope.com/en/configure-column-classification-rules-and-hybrid-profiles/
 **Last Modified:** 2026-03-13T07:09:40+00:00
-**Scraped:** 2026-07-24T09:05:09.586649+00:00
+**Scraped:** 2026-07-25T08:45:11.595512+00:00
 
 Configure Column Classification Rules and Hybrid Profiles - Netskope Knowledge Portal
 Configure Column Classification Rules and Hybrid Profiles
@@ -219659,7 +219847,7 @@ Configure Column Classification Rules and Hybrid Profiles
 ## Configure Entity Data Types and Sensitivity Levels
 **URL:** https://docs.netskope.com/en/configure-entity-data-types-and-sensitivity-levels/
 **Last Modified:** 2026-05-05T22:48:25+00:00
-**Scraped:** 2026-07-24T09:05:10.762575+00:00
+**Scraped:** 2026-07-25T08:45:12.776227+00:00
 
 Configure Entity Data Types and Sensitivity Levels - Netskope Knowledge Portal
 Configure Entity Data Types and Sensitivity Levels
@@ -219763,7 +219951,7 @@ Configure Entity Data Types and Sensitivity Levels
 ## Tenable Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/tenable-plugin-for-risk-exchange/
 **Last Modified:** 2026-02-21T00:31:21+00:00
-**Scraped:** 2026-07-24T09:05:12.012986+00:00
+**Scraped:** 2026-07-25T08:45:14.178741+00:00
 
 Tenable Plugin for Risk Exchange - Netskope Knowledge Portal
 Tenable Plugin for Risk Exchange
@@ -220787,7 +220975,7 @@ Tenable Plugin for Risk Exchange
 ## Connect AWS FSx for Windows File Server to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-fsx-for-windows-file-server-to-dspm/
 **Last Modified:** 2026-02-28T23:55:45+00:00
-**Scraped:** 2026-07-24T09:05:13.481808+00:00
+**Scraped:** 2026-07-25T08:45:15.684774+00:00
 
 Connect AWS FSx for Windows File Server to DSPM - Netskope Knowledge Portal
 Connect AWS FSx for Windows File Server to DSPM
@@ -224021,9 +224209,8 @@ Connect AWS FSx for Windows File Server to DSPM
 ## Connect AWS FSx for NetApp ONTAP to DSPM
 **URL:** https://docs.netskope.com/en/connect-aws-fsx-for-netapp-ontap-to-dspm/
 **Last Modified:** 2026-03-13T07:08:28+00:00
-**Scraped:** 2026-07-24T09:05:14.931242+00:00
+**Scraped:** 2026-07-25T08:45:17.181733+00:00
 
-Connect AWS FSx for NetApp ONTAP to DSPM - Netskope Knowledge Portal
 Connect AWS FSx for NetApp ONTAP to DSPM
 Overview
 Netskope DSPM enables you to scan unstructured data stored in
@@ -227262,7 +227449,7 @@ Connect AWS FSx for NetApp ONTAP to DSPM
 ## Supported File Types for TYOC
 **URL:** https://docs.netskope.com/en/supported-file-types-for-tyoc/
 **Last Modified:** 2026-06-25T19:22:24+00:00
-**Scraped:** 2026-07-24T09:05:16.198702+00:00
+**Scraped:** 2026-07-25T08:45:18.353055+00:00
 
 Supported File Types for TYOC - Netskope Knowledge Portal
 Supported File Types for TYOC
@@ -227288,8 +227475,8 @@ Supported File Types for TYOC
 ---
 ## Traceroute Analysis
 **URL:** https://docs.netskope.com/en/traceroute-analysis/
-**Last Modified:** 2026-06-25T17:39:33+00:00
-**Scraped:** 2026-07-24T09:05:17.380957+00:00
+**Last Modified:** 2026-07-23T23:21:05+00:00
+**Scraped:** 2026-07-25T08:45:19.520299+00:00
 
 Traceroute Analysis - Netskope Knowledge Portal
 Traceroute Analysis
@@ -227474,7 +227661,7 @@ Traceroute Analysis
 ## Netskope GovCloud
 **URL:** https://docs.netskope.com/en/netskope-govcloud/
 **Last Modified:** 2026-02-25T00:58:28+00:00
-**Scraped:** 2026-07-24T09:05:18.547335+00:00
+**Scraped:** 2026-07-25T08:45:20.675780+00:00
 
 Netskope GovCloud
 Netskope GovCloud, leveraging the strength of Netskope Intelligent SSE powered by its Zero Trust Engine, provides federal agencies unrivaled visibility and real-time data and threat protection across web and cloud applications wherever they are.
@@ -227487,7 +227674,7 @@ Netskope GovCloud
 ## Configure NPA Browser-based Access
 **URL:** https://docs.netskope.com/en/npa-browser-based-access/
 **Last Modified:** 2026-06-18T20:06:47+00:00
-**Scraped:** 2026-07-24T09:05:20.987498+00:00
+**Scraped:** 2026-07-25T08:45:23.203269+00:00
 
 Configure NPA Browser-based Access - Netskope Knowledge Portal
 Configure NPA Browser-based Access
@@ -227514,7 +227701,7 @@ Configure NPA Browser-based Access
 ## Using the Same Private App Domain in Enterprise Browser and Any Browser Apps
 **URL:** https://docs.netskope.com/en/using-the-same-private-app-domain-in-enterprise-browser-and-any-browser-apps/
 **Last Modified:** 2026-02-28T00:12:04+00:00
-**Scraped:** 2026-07-24T09:05:23.348527+00:00
+**Scraped:** 2026-07-25T08:45:25.586446+00:00
 
 Using the Same Private App Domain in Enterprise Browser and Any Browser Apps - Netskope Knowledge Portal
 Using the Same Private App Domain in Enterprise Browser and Any Browser Apps
@@ -227563,7 +227750,7 @@ Using the Same Private App Domain in Enterprise Browser and Any Browser Apps
 ## Mixed Content Support for Private Apps with Netskope Enterprise Browser
 **URL:** https://docs.netskope.com/en/mixed-content-support-for-private-apps-with-netskope-enterprise-browser/
 **Last Modified:** 2026-03-03T01:13:23+00:00
-**Scraped:** 2026-07-24T09:05:24.522513+00:00
+**Scraped:** 2026-07-25T08:45:26.756057+00:00
 
 Mixed Content Support for Private Apps with Netskope Enterprise Browser - Netskope Knowledge Portal
 Mixed Content Support for Private Apps with Netskope Enterprise Browser
@@ -227610,7 +227797,7 @@ Mixed Content Support for Private Apps with Netskope Enterprise Browser
 ## Next Generation API Data Protection for GitHub
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-github/
 **Last Modified:** 2026-03-02T18:00:10+00:00
-**Scraped:** 2026-07-24T09:05:26.867817+00:00
+**Scraped:** 2026-07-25T08:45:29.099469+00:00
 
 Next Generation API Data Protection for GitHub - Netskope Knowledge Portal
 Next Generation API Data Protection for GitHub
@@ -227631,7 +227818,7 @@ Next Generation API Data Protection for GitHub
 ## 3rd Party App Limitations
 **URL:** https://docs.netskope.com/3rd-party-app-limitations/
 **Last Modified:** 2026-07-01T03:24:42+00:00
-**Scraped:** 2026-07-24T09:05:29.623883+00:00
+**Scraped:** 2026-07-25T08:45:31.627841+00:00
 
 3rd Party App Limitations - Netskope Knowledge Portal
 3rd Party App Limitations
@@ -227750,7 +227937,7 @@ In this Topic
 ## Migrate GitHub from Classic to Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/migrate-github-from-classic-to-next-generation-api-data-protection/
 **Last Modified:** 2026-03-02T18:00:07+00:00
-**Scraped:** 2026-07-24T09:05:30.796322+00:00
+**Scraped:** 2026-07-25T08:45:32.810684+00:00
 
 Migrate GitHub from Classic to Next Generation API Data Protection - Netskope Knowledge Portal
 Migrate GitHub from Classic to Next Generation API Data Protection
@@ -227813,7 +228000,7 @@ Migrate GitHub from Classic to Next Generation API Data Protection
 ## Features Not Supported in Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/features-not-supported-in-next-generation-api-data-protection/
 **Last Modified:** 2026-03-02T18:00:03+00:00
-**Scraped:** 2026-07-24T09:05:31.970787+00:00
+**Scraped:** 2026-07-25T08:45:33.967888+00:00
 
 Features Not Supported in Next Generation API Data Protection - Netskope Knowledge Portal
 Features Not Supported in Next Generation API Data Protection
@@ -227883,7 +228070,7 @@ Features Not Supported in Next Generation API Data Protection
 ## Next Generation API Data Protection for Smartsheet
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-smartsheet/
 **Last Modified:** 2026-02-18T07:41:12+00:00
-**Scraped:** 2026-07-24T09:05:34.323143+00:00
+**Scraped:** 2026-07-25T08:45:36.285232+00:00
 
 Next Generation API Data Protection for Smartsheet - Netskope Knowledge Portal
 Next Generation API Data Protection for Smartsheet
@@ -227903,7 +228090,7 @@ Next Generation API Data Protection for Smartsheet
 ## Configure Smartsheet for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-smartsheet-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-03-05T04:15:03+00:00
-**Scraped:** 2026-07-24T09:05:35.502550+00:00
+**Scraped:** 2026-07-25T08:45:37.561300+00:00
 
 Configure Smartsheet for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Smartsheet for the Next Generation API Data Protection
@@ -227995,7 +228182,7 @@ Configure Smartsheet for the Next Generation API Data Protection
 ## Security Cloud Platform Configuration
 **URL:** https://docs.netskope.com/en/security-cloud-platform-configuration/
 **Last Modified:** 2026-04-06T17:39:18+00:00
-**Scraped:** 2026-07-24T09:05:37.956730+00:00
+**Scraped:** 2026-07-25T08:45:39.989699+00:00
 
 Security Cloud Platform Configuration - Netskope Knowledge Portal
 Security Cloud Platform Configuration
@@ -228905,7 +229092,7 @@ Security Cloud Platform Configuration
 ## Insights
 **URL:** https://docs.netskope.com/en/dem-insights/
 **Last Modified:** 2026-07-23T00:14:34+00:00
-**Scraped:** 2026-07-24T09:05:39.130553+00:00
+**Scraped:** 2026-07-25T08:45:41.146756+00:00
 
 Insights - Netskope Knowledge Portal
 Insights
@@ -228978,7 +229165,7 @@ Insights
 ## Connect NetApp ONTAP to DSPM
 **URL:** https://docs.netskope.com/en/connect-netapp-ontap-to-dspm/
 **Last Modified:** 2026-06-19T21:57:01+00:00
-**Scraped:** 2026-07-24T09:05:40.315042+00:00
+**Scraped:** 2026-07-25T08:45:42.331154+00:00
 
 Connect NetApp ONTAP to DSPM - Netskope Knowledge Portal
 Connect NetApp ONTAP to DSPM
@@ -229172,7 +229359,7 @@ Connect NetApp ONTAP to DSPM
 ## Model Drifting
 **URL:** https://docs.netskope.com/en/model-drifting/
 **Last Modified:** 2026-03-06T20:37:23+00:00
-**Scraped:** 2026-07-24T09:05:41.483217+00:00
+**Scraped:** 2026-07-25T08:45:43.501953+00:00
 
 Model Drifting - Netskope Knowledge Portal
 Model Drifting
@@ -229194,7 +229381,7 @@ Model Drifting
 ## Generate a Netskope API Token
 **URL:** https://docs.netskope.com/en/generate-a-netskope-api-token/
 **Last Modified:** 2026-07-06T19:14:27+00:00
-**Scraped:** 2026-07-24T09:05:42.643629+00:00
+**Scraped:** 2026-07-25T08:45:44.684528+00:00
 
 Generate a Netskope API Token - Netskope Knowledge Portal
 Generate a Netskope API Token
@@ -229267,7 +229454,7 @@ Generate a Netskope API Token
 ## Configure the Netskope Add-on Account
 **URL:** https://docs.netskope.com/en/configure-the-netskope-add-on-account/
 **Last Modified:** 2026-03-16T18:42:22+00:00
-**Scraped:** 2026-07-24T09:05:43.801507+00:00
+**Scraped:** 2026-07-25T08:45:45.858323+00:00
 
 Configure the Netskope Add-on Account - Netskope Knowledge Portal
 Configure the Netskope Add-on Account
@@ -229289,7 +229476,7 @@ Configure the Netskope Add-on Account
 ## Installation and Upgrade of the Netskope Add-on for Splunk
 **URL:** https://docs.netskope.com/en/installation-and-upgrade-of-the-netskope-add-on-for-splunk/
 **Last Modified:** 2026-03-06T05:53:20+00:00
-**Scraped:** 2026-07-24T09:05:44.976412+00:00
+**Scraped:** 2026-07-25T08:45:47.030931+00:00
 
 Installation and Upgrade of the Netskope Add-on for Splunk - Netskope Knowledge Portal
 Installation and Upgrade of the Netskope Add-on for Splunk
@@ -229345,7 +229532,7 @@ Installation and Upgrade of the Netskope Add-on for Splunk
 ## Known Issues with the Netskope Add-on for Splunk
 **URL:** https://docs.netskope.com/en/known-issues-with-the-netskope-add-on-for-splunk/
 **Last Modified:** 2026-03-06T05:52:30+00:00
-**Scraped:** 2026-07-24T09:05:46.233032+00:00
+**Scraped:** 2026-07-25T08:45:48.200447+00:00
 
 Known Issues with the Netskope Add-on for Splunk - Netskope Knowledge Portal
 Known Issues with the Netskope Add-on for Splunk
@@ -229363,7 +229550,7 @@ Known Issues with the Netskope Add-on for Splunk
 ## Troubleshooting the Netskope Add-on for Splunk
 **URL:** https://docs.netskope.com/en/troubleshooting-the-netskope-add-on-for-splunk/
 **Last Modified:** 2026-03-06T05:51:43+00:00
-**Scraped:** 2026-07-24T09:05:47.407099+00:00
+**Scraped:** 2026-07-25T08:45:49.375428+00:00
 
 Troubleshooting the Netskope Add-on for Splunk - Netskope Knowledge Portal
 Troubleshooting the Netskope Add-on for Splunk
@@ -229416,7 +229603,7 @@ Troubleshooting the Netskope Add-on for Splunk
 ## Reporting a Case with Netskope Support
 **URL:** https://docs.netskope.com/en/reporting-a-case-with-netskope-support/
 **Last Modified:** 2026-03-06T06:27:13+00:00
-**Scraped:** 2026-07-24T09:05:48.588016+00:00
+**Scraped:** 2026-07-25T08:45:50.643794+00:00
 
 Reporting a Case with Netskope Support - Netskope Knowledge Portal
 Reporting a Case with Netskope Support
@@ -229440,7 +229627,7 @@ Reporting a Case with Netskope Support
 ## Manage CLI Shell Lock
 **URL:** https://docs.netskope.com/en/manage-cli-shell-lock/
 **Last Modified:** 2026-05-18T15:01:09+00:00
-**Scraped:** 2026-07-24T09:05:50.975069+00:00
+**Scraped:** 2026-07-25T08:45:52.974938+00:00
 
 Manage CLI Shell Lock - Netskope Knowledge Portal
 Manage CLI Shell Lock
@@ -229492,7 +229679,7 @@ Manage CLI Shell Lock
 ## Troubleshooting and Diagnostics
 **URL:** https://docs.netskope.com/en/troubleshooting-and-diagnostics/
 **Last Modified:** 2026-05-18T15:01:17+00:00
-**Scraped:** 2026-07-24T09:05:53.322707+00:00
+**Scraped:** 2026-07-25T08:45:55.337318+00:00
 
 Troubleshooting and Diagnostics - Netskope Knowledge Portal
 Troubleshooting and Diagnostics
@@ -229509,7 +229696,7 @@ Troubleshooting and Diagnostics
 ## License and Entitlement Data Visibility
 **URL:** https://docs.netskope.com/en/license-and-entitlement-data-visibility/
 **Last Modified:** 2026-05-18T15:01:41+00:00
-**Scraped:** 2026-07-24T09:05:54.575894+00:00
+**Scraped:** 2026-07-25T08:45:56.496255+00:00
 
 License and Entitlement Data Visibility - Netskope Knowledge Portal
 License and Entitlement Data Visibility
@@ -229530,7 +229717,7 @@ License and Entitlement Data Visibility
 ## Licensing and Entitlement Enforcement
 **URL:** https://docs.netskope.com/en/licensing-and-entitlement-enforcement/
 **Last Modified:** 2026-05-18T15:01:09+00:00
-**Scraped:** 2026-07-24T09:05:55.747630+00:00
+**Scraped:** 2026-07-25T08:45:57.669039+00:00
 
 Licensing and Entitlement Enforcement - Netskope Knowledge Portal
 Licensing and Entitlement Enforcement
@@ -229563,7 +229750,7 @@ Licensing and Entitlement Enforcement
 ## Configure Data Inputs
 **URL:** https://docs.netskope.com/en/configure-data-inputs/
 **Last Modified:** 2026-03-16T19:03:28+00:00
-**Scraped:** 2026-07-24T09:05:58.202726+00:00
+**Scraped:** 2026-07-25T08:46:00.034966+00:00
 
 Configure Data Inputs - Netskope Knowledge Portal
 Configure Data Inputs
@@ -229709,7 +229896,7 @@ Configure Data Inputs
 ## Configure Add-on Settings
 **URL:** https://docs.netskope.com/en/configure-add-on-settings/
 **Last Modified:** 2026-03-16T18:55:05+00:00
-**Scraped:** 2026-07-24T09:05:59.373780+00:00
+**Scraped:** 2026-07-25T08:46:01.295774+00:00
 
 Configure Add-on Settings - Netskope Knowledge Portal
 Configure Add-on Settings
@@ -229766,7 +229953,7 @@ Configure Add-on Settings
 ## Qualys Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/qualys-plugin-for-risk-exchange/
 **Last Modified:** 2026-03-19T22:51:29+00:00
-**Scraped:** 2026-07-24T09:06:00.714943+00:00
+**Scraped:** 2026-07-25T08:46:02.636291+00:00
 
 Qualys Plugin for Risk Exchange - Netskope Knowledge Portal
 Qualys Plugin for Risk Exchange
@@ -231687,7 +231874,7 @@ Qualys Plugin for Risk Exchange
 ## Self Addressed Email Detection
 **URL:** https://docs.netskope.com/en/self-addressed-email-detection/
 **Last Modified:** 2026-06-25T19:19:25+00:00
-**Scraped:** 2026-07-24T09:06:01.931761+00:00
+**Scraped:** 2026-07-25T08:46:03.813559+00:00
 
 Self Addressed Email Detection - Netskope Knowledge Portal
 Self Addressed Email Detection
@@ -231731,7 +231918,7 @@ Self Addressed Email Detection
 ## Updating Field Extraction Configuration for a Sourcetype Using Splunk Web
 **URL:** https://docs.netskope.com/en/updating-field-extraction-configuration-for-a-sourcetype-using-splunk-web/
 **Last Modified:** 2026-04-02T21:36:10+00:00
-**Scraped:** 2026-07-24T09:06:03.229223+00:00
+**Scraped:** 2026-07-25T08:46:04.996051+00:00
 
 Updating Field Extraction Configuration for a Sourcetype Using Splunk Web - Netskope Knowledge Portal
 Updating Field Extraction Configuration for a Sourcetype Using Splunk Web
@@ -231789,7 +231976,7 @@ Updating Field Extraction Configuration for a Sourcetype Using Splunk Web
 ## How to Create Rules Using Custom Attributes
 **URL:** https://docs.netskope.com/en/how-to-create-rules-using-custom-attributes/
 **Last Modified:** 2026-03-27T05:44:19+00:00
-**Scraped:** 2026-07-24T09:06:04.406835+00:00
+**Scraped:** 2026-07-25T08:46:06.174633+00:00
 
 How to Create Rules Using Custom Attributes - Netskope Knowledge Portal
 How to Create Rules Using Custom Attributes
@@ -231889,7 +232076,7 @@ How to Create Rules Using Custom Attributes
 ## User Overview - User Details and Individual Experience Scores
 **URL:** https://docs.netskope.com/en/user-overview-user-details-individual-experience-scores/
 **Last Modified:** 2026-07-23T00:04:24+00:00
-**Scraped:** 2026-07-24T09:06:05.586043+00:00
+**Scraped:** 2026-07-25T08:46:07.351024+00:00
 
 User Overview - User Details and Individual Experience Scores - Netskope Knowledge Portal
 User Overview - User Details and Individual Experience Scores
@@ -232000,7 +232187,7 @@ User Overview - User Details and Individual Experience Scores
 ## User Overview - Netskope DEM Experience Score
 **URL:** https://docs.netskope.com/en/user-overview-netskope-dem-experience-score/
 **Last Modified:** 2026-07-23T00:08:54+00:00
-**Scraped:** 2026-07-24T09:06:06.758948+00:00
+**Scraped:** 2026-07-25T08:46:08.524542+00:00
 
 User Overview - Netskope DEM Experience Score - Netskope Knowledge Portal
 User Overview - Netskope DEM Experience Score
@@ -232040,8 +232227,9 @@ User Overview - Netskope DEM Experience Score
 ## User Overview - Metrics
 **URL:** https://docs.netskope.com/en/user-overview-metrics/
 **Last Modified:** 2026-06-25T17:40:29+00:00
-**Scraped:** 2026-07-24T09:06:08.112631+00:00
+**Scraped:** 2026-07-25T08:46:09.710254+00:00
 
+User Overview - Metrics - Netskope Knowledge Portal
 User Overview - Metrics
 Met
 ric Details
@@ -232385,7 +232573,7 @@ User Overview - Metrics
 ## Customizing Privileged User Definition
 **URL:** https://docs.netskope.com/en/customizing-privileged-user-definition/
 **Last Modified:** 2026-04-27T06:16:24+00:00
-**Scraped:** 2026-07-24T09:06:09.288449+00:00
+**Scraped:** 2026-07-25T08:46:10.889735+00:00
 
 Customizing Privileged User Definition - Netskope Knowledge Portal
 Customizing Privileged User Definition
@@ -232462,7 +232650,7 @@ Customizing Privileged User Definition
 ## Connect SMB File Share to DSPM
 **URL:** https://docs.netskope.com/en/connect-smb-file-share-to-dspm/
 **Last Modified:** 2026-05-07T15:48:49+00:00
-**Scraped:** 2026-07-24T09:06:10.810154+00:00
+**Scraped:** 2026-07-25T08:46:12.388443+00:00
 
 Connect SMB File Share to DSPM - Netskope Knowledge Portal
 Connect SMB File Share to DSPM
@@ -236010,7 +236198,7 @@ Connect SMB File Share to DSPM
 ## Deploy a Local Broker
 **URL:** https://docs.netskope.com/en/deploy-a-local-broker/
 **Last Modified:** 2026-04-02T02:05:36+00:00
-**Scraped:** 2026-07-24T09:06:12.085647+00:00
+**Scraped:** 2026-07-25T08:46:13.544145+00:00
 
 Deploy a Local Broker - Netskope Knowledge Portal
 Deploy a Local Broker
@@ -236025,7 +236213,7 @@ Deploy a Local Broker
 ## Manage a Local Broker
 **URL:** https://docs.netskope.com/en/manage-a-local-broker/
 **Last Modified:** 2026-04-06T17:16:33+00:00
-**Scraped:** 2026-07-24T09:06:13.265298+00:00
+**Scraped:** 2026-07-25T08:46:14.712944+00:00
 
 Manage a Local Broker - Netskope Knowledge Portal
 Manage a Local Broker
@@ -236039,9 +236227,8 @@ Manage a Local Broker
 ## Upgrade a Local Broker
 **URL:** https://docs.netskope.com/en/upgrading-a-local-broker/
 **Last Modified:** 2026-04-02T02:50:47+00:00
-**Scraped:** 2026-07-24T09:06:14.434645+00:00
+**Scraped:** 2026-07-25T08:46:15.865568+00:00
 
-Upgrade a Local Broker - Netskope Knowledge Portal
 Upgrade a Local Broker
 Use the Local Broker Wizard to upgrade your Local Broker. The wizard checks if an upgrade is needed and applies both software and system updates.
 Before you begin, ensure you have admin access to the Local Broker host and a maintenance window if required.
@@ -236059,7 +236246,7 @@ Upgrade a Local Broker
 ## Guidance for Installing 3rd-party Applications on Local Brokers
 **URL:** https://docs.netskope.com/en/guidance-for-installing-3rd-party-applications-on-local-brokers/
 **Last Modified:** 2026-04-02T00:22:41+00:00
-**Scraped:** 2026-07-24T09:06:15.701835+00:00
+**Scraped:** 2026-07-25T08:46:17.035602+00:00
 
 Guidance for Installing 3rd-party Applications on Local Brokers - Netskope Knowledge Portal
 Guidance for Installing 3rd-party Applications on Local Brokers
@@ -236073,7 +236260,7 @@ Guidance for Installing 3rd-party Applications on Local Brokers
 ## Local Broker Selection and Fallback
 **URL:** https://docs.netskope.com/en/local-broker-selection-and-fallback/
 **Last Modified:** 2026-06-16T03:45:52+00:00
-**Scraped:** 2026-07-24T09:06:16.887597+00:00
+**Scraped:** 2026-07-25T08:46:18.220351+00:00
 
 Local Broker Selection and Fallback - Netskope Knowledge Portal
 Local Broker Selection and Fallback
@@ -236305,7 +236492,7 @@ Local Broker Selection and Fallback
 ## Custom Attributes Enrichment
 **URL:** https://docs.netskope.com/en/custom-attributes-enrichment-2/
 **Last Modified:** 2026-07-13T18:14:00+00:00
-**Scraped:** 2026-07-24T09:06:18.062631+00:00
+**Scraped:** 2026-07-25T08:46:19.391618+00:00
 
 Custom Attributes Enrichment - Netskope Knowledge Portal
 Custom Attributes Enrichment
@@ -236371,7 +236558,7 @@ Custom Attributes Enrichment
 ## ServiceNow and Netskope CMDB Integration
 **URL:** https://docs.netskope.com/en/servicenow-and-netskope-cmdb-integration/
 **Last Modified:** 2026-07-09T22:35:31+00:00
-**Scraped:** 2026-07-24T09:06:20.612634+00:00
+**Scraped:** 2026-07-25T08:46:21.788617+00:00
 
 ServiceNow and Netskope CMDB Integration - Netskope Knowledge Portal
 ServiceNow and Netskope CMDB Integration
@@ -236939,7 +237126,7 @@ ServiceNow and Netskope CMDB Integration
 ## Viewing AI Guardrails Alerts
 **URL:** https://docs.netskope.com/en/viewing-ai-security-guardrails-alerts/
 **Last Modified:** 2026-04-20T10:41:15+00:00
-**Scraped:** 2026-07-24T09:06:22.976714+00:00
+**Scraped:** 2026-07-25T08:46:24.300791+00:00
 
 Viewing AI Guardrails Alerts - Netskope Knowledge Portal
 Viewing AI Guardrails Alerts
@@ -236995,7 +237182,7 @@ Viewing AI Guardrails Alerts
 ## Viewing AI Guardrails Incidents
 **URL:** https://docs.netskope.com/en/viewing-ai-security-incidents/
 **Last Modified:** 2026-04-20T10:46:26+00:00
-**Scraped:** 2026-07-24T09:06:25.329735+00:00
+**Scraped:** 2026-07-25T08:46:26.621123+00:00
 
 Viewing AI Guardrails Incidents - Netskope Knowledge Portal
 Viewing AI Guardrails Incidents
@@ -237054,7 +237241,7 @@ Viewing AI Guardrails Incidents
 ## Onboard Microsoft Copilot
 **URL:** https://docs.netskope.com/en/onboard-microsoft-copilot/
 **Last Modified:** 2026-05-27T06:10:22+00:00
-**Scraped:** 2026-07-24T09:06:26.560883+00:00
+**Scraped:** 2026-07-25T08:46:27.787983+00:00
 
 Onboard Microsoft Copilot - Netskope Knowledge Portal
 Onboard Microsoft Copilot
@@ -237146,7 +237333,7 @@ Onboard Microsoft Copilot
 ## Permissions Required for Microsoft Copilot
 **URL:** https://docs.netskope.com/en/permissions-required-for-microsoft-copilot/
 **Last Modified:** 2026-04-07T07:15:33+00:00
-**Scraped:** 2026-07-24T09:06:28.029998+00:00
+**Scraped:** 2026-07-25T08:46:29.046632+00:00
 
 Permissions Required for Microsoft Copilot - Netskope Knowledge Portal
 Permissions Required for Microsoft Copilot
@@ -237207,7 +237394,7 @@ Permissions Required for Microsoft Copilot
 ## Launching the Google Cloud Platform (GCP) Image
 **URL:** https://docs.netskope.com/en/downloading-the-google-cloud-platform-gcp-image/
 **Last Modified:** 2026-07-23T09:23:03+00:00
-**Scraped:** 2026-07-24T09:06:30.452107+00:00
+**Scraped:** 2026-07-25T08:46:31.401662+00:00
 
 Launching the Google Cloud Platform (GCP) Image - Netskope Knowledge Portal
 Launching the Google Cloud Platform (GCP) Image
@@ -237239,7 +237426,7 @@ Launching the Google Cloud Platform (GCP) Image
 ## Getting Started with AI Command Center
 **URL:** https://docs.netskope.com/en/getting-started-with-ai-command-center/
 **Last Modified:** 2026-07-20T15:32:38+00:00
-**Scraped:** 2026-07-24T09:06:31.624794+00:00
+**Scraped:** 2026-07-25T08:46:32.560579+00:00
 
 Getting Started with AI Command Center - Netskope Knowledge Portal
 Getting Started with AI Command Center
@@ -237317,8 +237504,9 @@ Getting Started with AI Command Center
 ## AI Asset Overview
 **URL:** https://docs.netskope.com/en/ai-asset-overview/
 **Last Modified:** 2026-07-21T04:16:59+00:00
-**Scraped:** 2026-07-24T09:06:32.903480+00:00
+**Scraped:** 2026-07-25T08:46:33.822890+00:00
 
+AI Asset Overview - Netskope Knowledge Portal
 AI Asset Overview
 The
 Overview
@@ -237429,7 +237617,7 @@ AI Asset Overview
 ## AI Inventory
 **URL:** https://docs.netskope.com/en/ai-inventory/
 **Last Modified:** 2026-07-21T04:16:01+00:00
-**Scraped:** 2026-07-24T09:06:34.182872+00:00
+**Scraped:** 2026-07-25T08:46:34.988623+00:00
 
 AI Inventory - Netskope Knowledge Portal
 AI Inventory
@@ -237602,7 +237790,7 @@ AI Inventory
 ## Case Creation
 **URL:** https://docs.netskope.com/en/case-creation/
 **Last Modified:** 2026-07-23T20:41:27+00:00
-**Scraped:** 2026-07-24T09:06:36.633069+00:00
+**Scraped:** 2026-07-25T08:46:37.325241+00:00
 
 Case Creation - Netskope Knowledge Portal
 Case Creation
@@ -237721,7 +237909,7 @@ Case Creation
 ## Views
 **URL:** https://docs.netskope.com/en/aisecops-views/
 **Last Modified:** 2026-07-23T20:39:01+00:00
-**Scraped:** 2026-07-24T09:06:37.814818+00:00
+**Scraped:** 2026-07-25T08:46:38.491994+00:00
 
 Views - Netskope Knowledge Portal
 Views
@@ -237850,7 +238038,7 @@ Views
 ## Multi-Cloud & Cross-Cloud
 **URL:** https://docs.netskope.com/en/multi-cloud-cross-cloud/
 **Last Modified:** 2026-04-16T01:22:56+00:00
-**Scraped:** 2026-07-24T09:06:38.988240+00:00
+**Scraped:** 2026-07-25T08:46:39.646730+00:00
 
 Multi-Cloud & Cross-Cloud - Netskope Knowledge Portal
 Multi-Cloud & Cross-Cloud
@@ -237862,7 +238050,7 @@ Multi-Cloud & Cross-Cloud
 ## AI Guardrails Dashboard
 **URL:** https://docs.netskope.com/en/ai-guardrails-dashboard/
 **Last Modified:** 2026-04-24T20:30:06+00:00
-**Scraped:** 2026-07-24T09:06:40.178362+00:00
+**Scraped:** 2026-07-25T08:46:40.819065+00:00
 
 AI Guardrails Dashboard - Netskope Knowledge Portal
 AI Guardrails Dashboard
@@ -238036,7 +238224,7 @@ AI Guardrails Dashboard
 ## NewEdge Express Connect Licensing Terms
 **URL:** https://docs.netskope.com/en/newedge-express-connect-licensing-terms/
 **Last Modified:** 2026-06-29T23:04:46+00:00
-**Scraped:** 2026-07-24T09:06:41.451827+00:00
+**Scraped:** 2026-07-25T08:46:42.078758+00:00
 
 NewEdge Express Connect Licensing Terms - Netskope Knowledge Portal
 NewEdge Express Connect Licensing Terms
@@ -238092,7 +238280,7 @@ NewEdge Express Connect Licensing Terms
 ## General Settings
 **URL:** https://docs.netskope.com/en/general/
 **Last Modified:** 2026-05-04T23:45:49+00:00
-**Scraped:** 2026-07-24T09:06:42.626827+00:00
+**Scraped:** 2026-07-25T08:46:43.238921+00:00
 
 General Settings - Netskope Knowledge Portal
 General Settings
@@ -238151,7 +238339,7 @@ General Settings
 ## Plugin Repository
 **URL:** https://docs.netskope.com/en/plugin-repository/
 **Last Modified:** 2026-04-28T07:02:23+00:00
-**Scraped:** 2026-07-24T09:06:43.919284+00:00
+**Scraped:** 2026-07-25T08:46:44.401825+00:00
 
 Plugin Repository - Netskope Knowledge Portal
 Plugin Repository
@@ -238231,7 +238419,7 @@ Plugin Repository
 ## Cloud Exchange Troubleshooting
 **URL:** https://docs.netskope.com/en/cloud-exchange-troubleshooting/
 **Last Modified:** 2026-06-18T20:07:38+00:00
-**Scraped:** 2026-07-24T09:06:45.284163+00:00
+**Scraped:** 2026-07-25T08:46:45.912756+00:00
 
 Common Symptoms:
 During the HA setup, when the CE management server runs the setup script, an input/output error occurs.
@@ -238241,8 +238429,9 @@ Error Details :
 ## About Cloud Exchange
 **URL:** https://docs.netskope.com/en/about-cloud-exchange/
 **Last Modified:** 2026-07-02T19:06:24+00:00
-**Scraped:** 2026-07-24T09:06:46.456966+00:00
+**Scraped:** 2026-07-25T08:46:47.167641+00:00
 
+About Cloud Exchange - Netskope Knowledge Portal
 About Cloud Exchange
 Cloud Exchange (CE) includes four primary modules that can be enabled or disabled as needed: Log Shipper, Ticket Orchestrator, Threat Exchange, and Risk Exchange. CE also includes two beta modules: Custom File Classification and Exact Data Match.
 CE is supported by Netskope, but individual plugins leverage functionality provided by 3rd-party partners. While CE comes at no cost to users, CE will only work if the attached system(s) is configured with entitlements that enable the applicable API queries and data flows.
@@ -238299,7 +238488,7 @@ About Cloud Exchange
 ## Cloud Exchange Feature Lists
 **URL:** https://docs.netskope.com/en/cloud-exchange-feature-lists/
 **Last Modified:** 2026-05-06T18:04:19+00:00
-**Scraped:** 2026-07-24T09:06:47.733743+00:00
+**Scraped:** 2026-07-25T08:46:48.434332+00:00
 
 Cloud Exchange Feature Lists - Netskope Knowledge Portal
 Cloud Exchange Feature Lists
@@ -238450,8 +238639,9 @@ Cloud Exchange Feature Lists
 ## Cloud Exchange System Requirements
 **URL:** https://docs.netskope.com/en/cloud-exchange-system-requirements/
 **Last Modified:** 2026-05-28T22:01:31+00:00
-**Scraped:** 2026-07-24T09:06:48.942988+00:00
+**Scraped:** 2026-07-25T08:46:49.627857+00:00
 
+Cloud Exchange System Requirements - Netskope Knowledge Portal
 Cloud Exchange System Requirements
 This section describes the system resources and software requirements required for the Netskope Cloud Exchange installation.
 Netskope Cloud Exchange uses a setup script to verify that the host system is ready to run the Cloud Exchange platform. In addition to compute and storage size, permissions, and some software versioning on the host, Cloud Exchange needs access to GitHub, Docker Hub, a Netskope tenant, AWS, and other 3rd-party platforms you want to integrate. Evaluate your system readiness to help the setup complete successfully.
@@ -238826,7 +239016,7 @@ Cloud Exchange System Requirements
 ## Explore the Dashboards
 **URL:** https://docs.netskope.com/en/explore-the-dashboards/
 **Last Modified:** 2026-06-09T19:45:53+00:00
-**Scraped:** 2026-07-24T09:06:50.134554+00:00
+**Scraped:** 2026-07-25T08:46:50.818713+00:00
 
 Explore the Dashboards - Netskope Knowledge Portal
 Explore the Dashboards
@@ -239205,8 +239395,9 @@ Explore the Dashboards
 ## Install Cloud Exchange on a Cloud Platform
 **URL:** https://docs.netskope.com/en/install-cloud-exchange-on-a-cloud-platform/
 **Last Modified:** 2026-05-05T13:09:22+00:00
-**Scraped:** 2026-07-24T09:06:51.403083+00:00
+**Scraped:** 2026-07-25T08:46:52.047395+00:00
 
+Install Cloud Exchange on a Cloud Platform - Netskope Knowledge Portal
 Install Cloud Exchange on a Cloud Platform
 Cloud Exchange supports the AWS, Azure, and GCP platforms.
 AWS
@@ -239692,7 +239883,7 @@ Install Cloud Exchange on a Cloud Platform
 ## Install Netskope Cloud Exchange on a Red Hat Enterprise 9.5 Linux Host
 **URL:** https://docs.netskope.com/en/install-netskope-cloud-exchange-on-a-red-hat-enterprise-linux-host/
 **Last Modified:** 2026-04-28T07:04:34+00:00
-**Scraped:** 2026-07-24T09:06:52.593927+00:00
+**Scraped:** 2026-07-25T08:46:53.208358+00:00
 
 Install Netskope Cloud Exchange on a Red Hat Enterprise 9.5 Linux Host - Netskope Knowledge Portal
 Install Netskope Cloud Exchange on a Red Hat Enterprise 9.5 Linux Host
@@ -239784,7 +239975,7 @@ Install Netskope Cloud Exchange on a Red Hat Enterprise 9.5 Linux Host
 ## Manage Tags
 **URL:** https://docs.netskope.com/en/manage-tags/
 **Last Modified:** 2026-04-28T07:05:06+00:00
-**Scraped:** 2026-07-24T09:06:54.954601+00:00
+**Scraped:** 2026-07-25T08:46:55.523582+00:00
 
 Manage Tags - Netskope Knowledge Portal
 Manage Tags
@@ -239807,7 +239998,7 @@ Manage Tags
 ## Select and Modify Tags
 **URL:** https://docs.netskope.com/en/select-and-modify-tags/
 **Last Modified:** 2026-04-28T07:05:09+00:00
-**Scraped:** 2026-07-24T09:06:56.137719+00:00
+**Scraped:** 2026-07-25T08:46:56.681623+00:00
 
 Select and Modify Tags - Netskope Knowledge Portal
 Select and Modify Tags
@@ -239831,7 +240022,7 @@ Select and Modify Tags
 ## Custom File Classification Module
 **URL:** https://docs.netskope.com/en/custom-file-classification-module/
 **Last Modified:** 2026-06-11T21:57:00+00:00
-**Scraped:** 2026-07-24T09:06:58.496501+00:00
+**Scraped:** 2026-07-25T08:46:59.097739+00:00
 
 Custom File Classification Module - Netskope Knowledge Portal
 Custom File Classification Module
@@ -239865,7 +240056,7 @@ Custom File Classification Module
 ## List IoCs and Use Filter Options
 **URL:** https://docs.netskope.com/en/list-iocs-and-use-filter-options/
 **Last Modified:** 2026-04-28T07:06:05+00:00
-**Scraped:** 2026-07-24T09:06:59.687170+00:00
+**Scraped:** 2026-07-25T08:47:00.268119+00:00
 
 List IoCs and Use Filter Options - Netskope Knowledge Portal
 List IoCs and Use Filter Options
@@ -240000,7 +240191,7 @@ List IoCs and Use Filter Options
 ## Schema Editor
 **URL:** https://docs.netskope.com/en/schema-editor/
 **Last Modified:** 2026-04-28T07:06:14+00:00
-**Scraped:** 2026-07-24T09:07:02.078850+00:00
+**Scraped:** 2026-07-25T08:47:02.617597+00:00
 
 Schema Editor - Netskope Knowledge Portal
 Schema Editor
@@ -240120,8 +240311,9 @@ Schema Editor
 ## Install Cloud Exchange
 **URL:** https://docs.netskope.com/en/install-cloud-exchange/
 **Last Modified:** 2026-04-28T07:07:29+00:00
-**Scraped:** 2026-07-24T09:07:03.261282+00:00
+**Scraped:** 2026-07-25T08:47:03.780081+00:00
 
+Install Cloud Exchange - Netskope Knowledge Portal
 Install Cloud Exchange
 Cloud Exchange runs in a Docker environment in the cloud or on your own hardware with a base OS of Linux.
 Important
@@ -240196,7 +240388,7 @@ Install Cloud Exchange
 ## Secrets Manager
 **URL:** https://docs.netskope.com/en/secrets-manager/
 **Last Modified:** 2026-04-28T07:07:06+00:00
-**Scraped:** 2026-07-24T09:07:04.440803+00:00
+**Scraped:** 2026-07-25T08:47:04.941705+00:00
 
 Secrets Manager - Netskope Knowledge Portal
 Secrets Manager
@@ -240256,8 +240448,9 @@ Secrets Manager
 ## Install Cloud Exchange on Ubuntu
 **URL:** https://docs.netskope.com/en/install-cloud-exchange-on-ubuntu/
 **Last Modified:** 2026-05-06T18:25:24+00:00
-**Scraped:** 2026-07-24T09:07:05.615644+00:00
+**Scraped:** 2026-07-25T08:47:06.201185+00:00
 
+Install Cloud Exchange on Ubuntu - Netskope Knowledge Portal
 Install Cloud Exchange on Ubuntu
 Important
 Contact your
@@ -240327,8 +240520,9 @@ Install Cloud Exchange on Ubuntu
 ## Install Cloud Exchange on a Virtual Machine
 **URL:** https://docs.netskope.com/en/install-cloud-exchange-on-a-virtual-machine/
 **Last Modified:** 2026-05-05T21:37:51+00:00
-**Scraped:** 2026-07-24T09:07:06.812141+00:00
+**Scraped:** 2026-07-25T08:47:07.392272+00:00
 
+Install Cloud Exchange on a Virtual Machine - Netskope Knowledge Portal
 Install Cloud Exchange on a Virtual Machine
 Cloud Exchange supports VMware ESXi, HyperV, and KVM virtual machines.
 VMware
@@ -240823,7 +241017,7 @@ Install Cloud Exchange on a Virtual Machine
 ## Cloud Exchange High Availability
 **URL:** https://docs.netskope.com/en/cloud-exchange-high-availability/
 **Last Modified:** 2026-07-01T22:41:54+00:00
-**Scraped:** 2026-07-24T09:07:08.011668+00:00
+**Scraped:** 2026-07-25T08:47:08.567257+00:00
 
 Cloud Exchange High Availability - Netskope Knowledge Portal
 Cloud Exchange High Availability
@@ -241054,7 +241248,7 @@ Cloud Exchange High Availability
 ## Upgrade Cloud Exchange
 **URL:** https://docs.netskope.com/en/upgrade-cloud-exchange/
 **Last Modified:** 2026-07-02T20:00:38+00:00
-**Scraped:** 2026-07-24T09:07:09.237389+00:00
+**Scraped:** 2026-07-25T08:47:09.768983+00:00
 
 Make sure to take a
 backup
@@ -241064,7 +241258,7 @@ before proceeding for upgrade.
 ## Migrate Cloud Exchange
 **URL:** https://docs.netskope.com/en/migrate-cloud-exchange/
 **Last Modified:** 2026-07-02T20:11:58+00:00
-**Scraped:** 2026-07-24T09:07:10.471769+00:00
+**Scraped:** 2026-07-25T08:47:10.975555+00:00
 
 Migrate Cloud Exchange - Netskope Knowledge Portal
 Migrate Cloud Exchange
@@ -241601,7 +241795,7 @@ Migrate Cloud Exchange
 ## Prerequisites for Azure Key Vault Secrets Manager
 **URL:** https://docs.netskope.com/en/prerequisites-for-azure-key-vault-secrets-manager/
 **Last Modified:** 2026-06-04T17:37:09+00:00
-**Scraped:** 2026-07-24T09:07:11.652410+00:00
+**Scraped:** 2026-07-25T08:47:12.137372+00:00
 
 Prerequisites for Azure Key Vault Secrets Manager - Netskope Knowledge Portal
 Prerequisites for Azure Key Vault Secrets Manager
@@ -241737,7 +241931,7 @@ Prerequisites for Azure Key Vault Secrets Manager
 ## Risk Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/risk-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2026-04-28T07:10:02+00:00
-**Scraped:** 2026-07-24T09:07:13.074610+00:00
+**Scraped:** 2026-07-25T08:47:13.362461+00:00
 
 Risk Exchange Custom Plugin Developers Guide - Netskope Knowledge Portal
 Risk Exchange Custom Plugin Developers Guide
@@ -243223,7 +243417,7 @@ Risk Exchange Custom Plugin Developers Guide
 ## Exact Match For Manual Upload (Beta)
 **URL:** https://docs.netskope.com/en/exact-match-for-manual-upload/
 **Last Modified:** 2026-04-28T19:04:11+00:00
-**Scraped:** 2026-07-24T09:07:14.259970+00:00
+**Scraped:** 2026-07-25T08:47:14.526226+00:00
 
 Exact Match For Manual Upload (Beta) - Netskope Knowledge Portal
 Exact Match For Manual Upload (Beta)
@@ -243321,7 +243515,7 @@ Exact Match For Manual Upload (Beta)
 ## Data Store Smart Scan
 **URL:** https://docs.netskope.com/en/data-store-smart-scan/
 **Last Modified:** 2026-05-06T22:52:17+00:00
-**Scraped:** 2026-07-24T09:07:15.436692+00:00
+**Scraped:** 2026-07-25T08:47:15.787820+00:00
 
 Data Store Smart Scan - Netskope Knowledge Portal
 Data Store Smart Scan
@@ -243393,7 +243587,7 @@ Data Store Smart Scan
 ## AWS S3 Inventory Support in DSPM
 **URL:** https://docs.netskope.com/en/aws-s3-inventory-support-in-dspm/
 **Last Modified:** 2026-04-29T23:13:21+00:00
-**Scraped:** 2026-07-24T09:07:16.612685+00:00
+**Scraped:** 2026-07-25T08:47:16.943194+00:00
 
 AWS S3 Inventory Support in DSPM - Netskope Knowledge Portal
 AWS S3 Inventory Support in DSPM
@@ -243418,7 +243612,7 @@ AWS S3 Inventory Support in DSPM
 ## Enterprise Browser Device Classification
 **URL:** https://docs.netskope.com/en/enterprise-browser-device-classification/
 **Last Modified:** 2026-04-30T03:21:23+00:00
-**Scraped:** 2026-07-24T09:07:17.783180+00:00
+**Scraped:** 2026-07-25T08:47:18.103369+00:00
 
 Enterprise Browser Device Classification - Netskope Knowledge Portal
 Enterprise Browser Device Classification
@@ -243472,7 +243666,7 @@ Enterprise Browser Device Classification
 ## AI Gateway Analytics Dashboard
 **URL:** https://docs.netskope.com/en/ai-gateway-analytics-dashboard/
 **Last Modified:** 2026-04-30T04:55:34+00:00
-**Scraped:** 2026-07-24T09:07:18.964564+00:00
+**Scraped:** 2026-07-25T08:47:19.377644+00:00
 
 AI Gateway Analytics Dashboard - Netskope Knowledge Portal
 AI Gateway Analytics Dashboard
@@ -243688,7 +243882,7 @@ AI Gateway Analytics Dashboard
 ## PQL Reference
 **URL:** https://docs.netskope.com/en/pql-reference/
 **Last Modified:** 2026-07-23T20:42:10+00:00
-**Scraped:** 2026-07-24T09:07:20.175428+00:00
+**Scraped:** 2026-07-25T08:47:20.571764+00:00
 
 PQL Reference - Netskope Knowledge Portal
 PQL Reference
@@ -244125,7 +244319,7 @@ PQL Reference
 ## Configuration
 **URL:** https://docs.netskope.com/en/aisecops-configuration/
 **Last Modified:** 2026-07-23T20:42:35+00:00
-**Scraped:** 2026-07-24T09:07:21.366657+00:00
+**Scraped:** 2026-07-25T08:47:21.845710+00:00
 
 Configuration - Netskope Knowledge Portal
 Configuration
@@ -244315,7 +244509,7 @@ Configuration
 ## Risk Exchange Archive
 **URL:** https://docs.netskope.com/en/risk-exchange-archive/
 **Last Modified:** 2026-04-30T19:44:49+00:00
-**Scraped:** 2026-07-24T09:07:22.538211+00:00
+**Scraped:** 2026-07-25T08:47:23.100943+00:00
 
 Risk Exchange Archive - Netskope Knowledge Portal
 Risk Exchange Archive
@@ -244330,7 +244524,7 @@ Risk Exchange Archive
 ## Insider Threats & Advanced Compromise Policies
 **URL:** https://docs.netskope.com/en/behavior-analytics-policies/
 **Last Modified:** 2026-05-04T15:00:07+00:00
-**Scraped:** 2026-07-24T09:07:24.911268+00:00
+**Scraped:** 2026-07-25T08:47:25.617309+00:00
 
 Insider Threats &amp; Advanced Compromise Policies - Netskope Knowledge Portal
 Insider Threats & Advanced Compromise Policies
@@ -244363,7 +244557,7 @@ Insider Threats &amp; Advanced Compromise Policies
 ## ML Based Policies
 **URL:** https://docs.netskope.com/en/ml-based-policies/
 **Last Modified:** 2026-05-04T15:00:14+00:00
-**Scraped:** 2026-07-24T09:07:26.072117+00:00
+**Scraped:** 2026-07-25T08:47:26.776534+00:00
 
 ML Based Policies - Netskope Knowledge Portal
 ML Based Policies
@@ -244406,7 +244600,7 @@ ML Based Policies
 ## Rule-Based Policies
 **URL:** https://docs.netskope.com/en/rule-based-policies/
 **Last Modified:** 2026-07-02T19:12:34+00:00
-**Scraped:** 2026-07-24T09:07:27.363855+00:00
+**Scraped:** 2026-07-25T08:47:27.963124+00:00
 
 Rule-Based Policies - Netskope Knowledge Portal
 Rule-Based Policies
@@ -244602,7 +244796,7 @@ Rule-Based Policies
 ## Advanced Behavior Analytics
 **URL:** https://docs.netskope.com/en/behavior-analytics-user-confidence-index/
 **Last Modified:** 2026-05-04T15:00:41+00:00
-**Scraped:** 2026-07-24T09:07:28.730176+00:00
+**Scraped:** 2026-07-25T08:47:29.128736+00:00
 
 Advanced Behavior Analytics - Netskope Knowledge Portal
 Advanced Behavior Analytics
@@ -244719,7 +244913,7 @@ Advanced Behavior Analytics
 ## Insider Threats & Advanced Compromise Incident Details
 **URL:** https://docs.netskope.com/en/behavior-analytics-incident-details/
 **Last Modified:** 2026-05-04T15:00:29+00:00
-**Scraped:** 2026-07-24T09:07:29.910915+00:00
+**Scraped:** 2026-07-25T08:47:30.292032+00:00
 
 Insider Threats &amp; Advanced Compromise Incident Details - Netskope Knowledge Portal
 Insider Threats & Advanced Compromise Incident Details
@@ -244776,7 +244970,7 @@ Insider Threats &amp; Advanced Compromise Incident Details
 ## Standard Behavior Analytics
 **URL:** https://docs.netskope.com/en/behavior-analytics-incidents/
 **Last Modified:** 2026-05-04T15:00:23+00:00
-**Scraped:** 2026-07-24T09:07:31.085683+00:00
+**Scraped:** 2026-07-25T08:47:31.455249+00:00
 
 Standard Behavior Analytics - Netskope Knowledge Portal
 Standard Behavior Analytics
@@ -244857,7 +245051,7 @@ Standard Behavior Analytics
 ## User Watchlist
 **URL:** https://docs.netskope.com/en/user-watchlist/
 **Last Modified:** 2026-05-04T15:00:26+00:00
-**Scraped:** 2026-07-24T09:07:34.619066+00:00
+**Scraped:** 2026-07-25T08:47:35.041636+00:00
 
 User Watchlist - Netskope Knowledge Portal
 User Watchlist
@@ -244943,7 +245137,7 @@ User Watchlist
 ## Configure ServiceNow for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-servicenow-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-06-12T07:57:28+00:00
-**Scraped:** 2026-07-24T09:07:38.199114+00:00
+**Scraped:** 2026-07-25T08:47:38.577047+00:00
 
 Configure ServiceNow for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure ServiceNow for the Next Generation API Data Protection
@@ -245292,9 +245486,8 @@ Configure ServiceNow for the Next Generation API Data Protection
 ## Enrollment Token Management
 **URL:** https://docs.netskope.com/en/enrollment-token-management/
 **Last Modified:** 2026-05-04T17:00:22+00:00
-**Scraped:** 2026-07-24T09:07:40.650522+00:00
+**Scraped:** 2026-07-25T08:47:40.906675+00:00
 
-Enrollment Token Management - Netskope Knowledge Portal
 Enrollment Token Management
 This document provides guidance on the token management for the secure enrollment service. The secure enrollment service have two tokens which are listed as below:
 Authentication token
@@ -245415,7 +245608,7 @@ Enrollment Token Management
 ## Supported Plugin Configurations
 **URL:** https://docs.netskope.com/en/supported-plugin-configurations/
 **Last Modified:** 2026-05-05T12:58:06+00:00
-**Scraped:** 2026-07-24T09:07:43.016849+00:00
+**Scraped:** 2026-07-25T08:47:43.257487+00:00
 
 Supported Plugin Configurations - Netskope Knowledge Portal
 Supported Plugin Configurations
@@ -245673,7 +245866,7 @@ Supported Plugin Configurations
 ## Enterprise Browser – iOS Installation Guide
 **URL:** https://docs.netskope.com/en/enterprise-browser-ios-installation-guide/
 **Last Modified:** 2026-05-07T07:55:30+00:00
-**Scraped:** 2026-07-24T09:07:45.399122+00:00
+**Scraped:** 2026-07-25T08:47:45.604260+00:00
 
 Enterprise Browser – iOS Installation Guide - Netskope Knowledge Portal
 Enterprise Browser – iOS Installation Guide
@@ -245925,7 +246118,7 @@ Enterprise Browser – iOS Installation Guide
 ## Understand Privilege Analysis Results for SMB
 **URL:** https://docs.netskope.com/en/understand-privilege-analysis-results-for-smb/
 **Last Modified:** 2026-05-07T15:52:43+00:00
-**Scraped:** 2026-07-24T09:07:46.583429+00:00
+**Scraped:** 2026-07-25T08:47:46.773600+00:00
 
 Understand Privilege Analysis Results for SMB - Netskope Knowledge Portal
 Understand Privilege Analysis Results for SMB
@@ -246059,9 +246252,8 @@ Understand Privilege Analysis Results for SMB
 ## Retrieving Custom Images on Google Cloud Platform (GCP)
 **URL:** https://docs.netskope.com/en/retrieving-custom-images-on-google-cloud-platform-gcp/
 **Last Modified:** 2026-05-18T15:01:11+00:00
-**Scraped:** 2026-07-24T09:07:49.173608+00:00
+**Scraped:** 2026-07-25T08:47:51.825511+00:00
 
-Retrieving Custom Images on Google Cloud Platform (GCP) - Netskope Knowledge Portal
 Retrieving Custom Images on Google Cloud Platform (GCP)
 This section explains how to retrieve and use custom images provided by Netskope within Google Cloud Platform (GCP).
 This following steps covers how to access and deploy Netskope custom images within GCP, ensuring a streamlined, efficient configuration process.
@@ -246103,7 +246295,7 @@ Retrieving Custom Images on Google Cloud Platform (GCP)
 ## Migrating URL Lists to Destination Profiles
 **URL:** https://docs.netskope.com/en/migrating-url-lists-to-destination-profiles/
 **Last Modified:** 2026-06-01T18:00:36+00:00
-**Scraped:** 2026-07-24T09:07:50.378341+00:00
+**Scraped:** 2026-07-25T08:47:53.002186+00:00
 
 Migrating URL Lists to Destination Profiles - Netskope Knowledge Portal
 Migrating URL Lists to Destination Profiles
@@ -246357,7 +246549,7 @@ Migrating URL Lists to Destination Profiles
 ## Manage DSPM Virtual Appliance Sidecars (OVA)
 **URL:** https://docs.netskope.com/en/manage-dspm-virtual-appliance-sidecars-ova/
 **Last Modified:** 2026-06-19T21:59:05+00:00
-**Scraped:** 2026-07-24T09:07:51.557993+00:00
+**Scraped:** 2026-07-25T08:47:54.163524+00:00
 
 Manage DSPM Virtual Appliance Sidecars (OVA) - Netskope Knowledge Portal
 Manage DSPM Virtual Appliance Sidecars (OVA)
@@ -246433,158 +246625,19 @@ In this Topic
 Manage DSPM Virtual Appliance Sidecars (OVA)
 
 ---
-## Deploying GCP Image
+## 
 **URL:** https://docs.netskope.com/en/setting-up-aig-appliance-on-gcp/
 **Last Modified:** 2026-05-27T09:04:51+00:00
-**Scraped:** 2026-07-24T09:07:56.636088+00:00
+**Scraped:** 2026-07-25T08:47:55.319670+00:00
 
-Deploying GCP Image
-You can create a VM instance in Google Cloud using the Google Cloud console. This topic shows how to set up an AI Gateway instance on the Google Cloud Platform (GCP).
-Follow the below steps to set up AI Gateway on GCP:
-Sign in to your Google Cloud account using
-https://console.cloud.google.com/
-Select your
-Google Cloud project
-.
-In the navigation menu, click
-Compute Engine
->
-VM instances
-.
-Click the
-Create Instance
-button.
-On the
-Create instance
-, under
-Machine configuration
-, specify the instance
-Name
-and
-Machine type
-.  For more information on the minimum requirements of the machine type, see:
-/en/ai-gateway-sizing-guidelines
-.
-Name:
-Enter a name for your VM instance.
-Machine type:
-c2d-highcpu-16
-Select
-OS and Storage
-in the left pane. Click
-Change
-.
-Under Boot disk, select
-Custom images
-and specify the
-Image *
-from the drop-down list. Click
-Select
-.
-You must Configure the SSH public key at
-Security
-step.
-If you do not add SSH keys during deployment, refer to the
-Add or change SSH key after the VM creation
-section for instructions on adding them later.
-Configure the SSH public key
-Follow the below steps to
-Configure the SSH public key
-:
-In the
-Google Cloud console
-https://console.cloud.google.com/
-, go to the
-Create an instance page
-.
-Scroll down and click on the
-Security
-section in the left navigation menu.
-Expand the
-Manage access
-section.
-Ensure the
-Control VM access through IAM permissions
-checkbox is not selected.
-In the
-Add manually generated SSH keys
-section, click
-+ Add item.
-Enter the
-SSH Key 1 *
-in the textbox.
-Enter your entire
-public key string
-with the account name: nsadmin which should be separated with white space into the text box.
-Click
-Create
-to launch the instance.
-Add or change SSH key after the VM creation
-This topic describes how to add or change the SSH keys to virtual machine (VM) instances. AI Gateway uses
-cloud-init
-to inject metadata-based SSH public keys into the
-nsadmin
-, and
-nsdebug
-accounts during VM instance creation.
-To add or update SSH public keys after creating the VM instance, configure the metadata-based SSH keys for these two accounts:
-nsadmin for using AIG-CLI
-nsdebug for collecting debug bundle
-Follow the below steps to add or change SSH key after the VM creation:
-Sign in to your Google Cloud account using
-https://console.cloud.google.com/
-.
-Select your
-Google Cloud project
-.
-Select
-VM instances
-from the left pane.
-Select the target VM instance and click
-Edit.
-Note
-: You can apply these changes while the VM instance is either
-Running
-or
-Stopped
-. New SSH keys take effect immediately without requiring a reboot or a fresh boot.
-Scroll down until you see
-Security and access.
-Ensure Block project-wide SSH keys remain selected if you do not use project-wide keys.
-Click
-Add item
-twice to create entry fields for both the
-nsadmin
-and
-nsdebug
-accounts. Use a single space to separate fields in the SSH key string.
-Format  <Key Protocol> <Key Body> <Account>
-For example,  ssh-rsa AAAAB3NzaC1y… nsadmin ssh-rsa AAAAB3NzaC1y…
-Note
-: If you want to update existing keys, remember to remove it by clicking the
-Delete item
-next to the key field.
-Scroll down again until you see
-Metadata.
-Ensure to have a metadata key.
-Enter the metadata key as
-enable-oslogin
-and set the value as false.
-Click
-Add item
-.
-Click
-Save
-.
+Netskope Knowledge Portal
 In this Topic
-Deploying GCP Image
-Deploying GCP Image - Netskope Knowledge Portal
 
 ---
 ## Deploying Virtual Private Edge
 **URL:** https://docs.netskope.com/en/deploying-virtual-private-edge/
 **Last Modified:** 2026-05-14T08:09:40+00:00
-**Scraped:** 2026-07-24T09:07:57.911871+00:00
+**Scraped:** 2026-07-25T08:47:56.480853+00:00
 
 Deploying Virtual Private Edge - Netskope Knowledge Portal
 Deploying Virtual Private Edge
@@ -246698,7 +246751,7 @@ Deploying Virtual Private Edge
 ## Virtual Private Edge
 **URL:** https://docs.netskope.com/en/virtual-private-edge/
 **Last Modified:** 2026-05-14T21:40:07+00:00
-**Scraped:** 2026-07-24T09:07:59.089015+00:00
+**Scraped:** 2026-07-25T08:47:57.642016+00:00
 
 Virtual Private Edge - Netskope Knowledge Portal
 Virtual Private Edge
@@ -246778,7 +246831,7 @@ Virtual Private Edge
 ## Enabling URL Rewrites, Custom Hostname and Portal Links for NPA Browser Access
 **URL:** https://docs.netskope.com/en/enabling-url-rewrites-custom-hostname-and-portal-links-for-npa-browser-access/
 **Last Modified:** 2026-06-05T22:06:06+00:00
-**Scraped:** 2026-07-24T09:08:02.671457+00:00
+**Scraped:** 2026-07-25T08:48:01.369589+00:00
 
 Enabling URL Rewrites, Custom Hostname and Portal Links for NPA Browser Access - Netskope Knowledge Portal
 Enabling URL Rewrites, Custom Hostname and Portal Links for NPA Browser Access
@@ -246842,7 +246895,7 @@ Enabling URL Rewrites, Custom Hostname and Portal Links for NPA Browser Access
 ## Configure Browser Access with URL Rewrite
 **URL:** https://docs.netskope.com/en/configure-browser-access-with-url-rewrite/
 **Last Modified:** 2026-06-16T01:15:48+00:00
-**Scraped:** 2026-07-24T09:08:03.949036+00:00
+**Scraped:** 2026-07-25T08:48:02.546959+00:00
 
 Configure Browser Access with URL Rewrite - Netskope Knowledge Portal
 Configure Browser Access with URL Rewrite
@@ -246917,8 +246970,9 @@ Configure Browser Access with URL Rewrite
 ## Configure a Custom Hostname for Browser Access
 **URL:** https://docs.netskope.com/en/configure-a-custom-hostname-for-browser-access/
 **Last Modified:** 2026-06-16T01:17:31+00:00
-**Scraped:** 2026-07-24T09:08:05.123100+00:00
+**Scraped:** 2026-07-25T08:48:03.703200+00:00
 
+Configure a Custom Hostname for Browser Access - Netskope Knowledge Portal
 Configure a Custom Hostname for Browser Access
 By default, Browser Access application segments are accessed through a default Netskope public host FQDN such as:
 192-168-1-100-443-tenantname.npaproxy.goskope.com
@@ -246957,7 +247011,7 @@ Configure a Custom Hostname for Browser Access
 ## Configure Portal Links for Browser Access
 **URL:** https://docs.netskope.com/en/configure-portal-links-for-browser-access/
 **Last Modified:** 2026-06-16T03:07:17+00:00
-**Scraped:** 2026-07-24T09:08:06.299755+00:00
+**Scraped:** 2026-07-25T08:48:04.864929+00:00
 
 Configure Portal Links for Browser Access - Netskope Knowledge Portal
 Configure Portal Links for Browser Access
@@ -247045,7 +247099,7 @@ Configure Portal Links for Browser Access
 ## SMB File Share Plugin for Custom File Classification
 **URL:** https://docs.netskope.com/en/smb-file-share-plugin-for-custom-file-classification/
 **Last Modified:** 2026-05-26T17:26:53+00:00
-**Scraped:** 2026-07-24T09:08:07.504225+00:00
+**Scraped:** 2026-07-25T08:48:06.052196+00:00
 
 SMB File Share Plugin for Custom File Classification - Netskope Knowledge Portal
 SMB File Share Plugin for Custom File Classification
@@ -247362,7 +247416,7 @@ SMB File Share Plugin for Custom File Classification
 ## SentinelOne Singularity XDR Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/sentinelone-singularity-xdr-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T23:09:17+00:00
-**Scraped:** 2026-07-24T09:08:08.852475+00:00
+**Scraped:** 2026-07-25T08:48:07.359533+00:00
 
 SentinelOne Singularity XDR Plugin for Risk Exchange - Netskope Knowledge Portal
 SentinelOne Singularity XDR Plugin for Risk Exchange
@@ -249229,7 +249283,7 @@ SentinelOne Singularity XDR Plugin for Risk Exchange
 ## Enable a Forensic Profile
 **URL:** https://docs.netskope.com/en/enable-a-forensic-profile/
 **Last Modified:** 2026-06-25T19:32:46+00:00
-**Scraped:** 2026-07-24T09:08:10.012602+00:00
+**Scraped:** 2026-07-25T08:48:08.520117+00:00
 
 Enable a Forensic Profile - Netskope Knowledge Portal
 Enable a Forensic Profile
@@ -249296,8 +249350,9 @@ Enable a Forensic Profile
 ## Next Gen Forensics
 **URL:** https://docs.netskope.com/en/next-gen-forensics/
 **Last Modified:** 2026-05-26T02:29:41+00:00
-**Scraped:** 2026-07-24T09:08:11.386785+00:00
+**Scraped:** 2026-07-25T08:48:09.749204+00:00
 
+Next Gen Forensics - Netskope Knowledge Portal
 Next Gen Forensics
 With forensics, you can save a copy of the file and the DLP match highlights in a forensic storage location. This information can provide incident remediators the much needed evidence along with other information that is available in the DLP incident and the corresponding Skope IT alert.
 Next Gen forensics is developed on a new platform whereby it is decoupled from the classic API Data Protection. Previously, forensic was tightly coupled with the classic API Data Protection product where the administrator would set up and configure forensics using the classic API Data Protection grant flow requiring extensive permission scopes from the SaaS/IaaS provider. With Next Gen, forensics can now be configured independently requiring a minimum set of permissions.
@@ -250183,7 +250238,7 @@ Next Gen Forensics
 ## Next Generation API Data Protection for Anthropic Claude Enterprise
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-for-anthropic-claude-enterprise/
 **Last Modified:** 2026-05-20T13:31:10+00:00
-**Scraped:** 2026-07-24T09:08:12.661879+00:00
+**Scraped:** 2026-07-25T08:48:10.905431+00:00
 
 Next Generation API Data Protection for Anthropic Claude Enterprise - Netskope Knowledge Portal
 Next Generation API Data Protection for Anthropic Claude Enterprise
@@ -250203,7 +250258,7 @@ Next Generation API Data Protection for Anthropic Claude Enterprise
 ## Configure Anthropic Claude Enterprise for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-anthropic-claude-enterprise-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-06-08T22:33:04+00:00
-**Scraped:** 2026-07-24T09:08:13.849604+00:00
+**Scraped:** 2026-07-25T08:48:12.068335+00:00
 
 Configure Anthropic Claude Enterprise for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Anthropic Claude Enterprise for the Next Generation API Data Protection
@@ -250305,8 +250360,9 @@ Configure Anthropic Claude Enterprise for the Next Generation API Data Protectio
 ## Anthropic Claude Support for AI Command Center
 **URL:** https://docs.netskope.com/en/anthropic-claude-support-for-ai-discovery/
 **Last Modified:** 2026-05-22T17:11:10+00:00
-**Scraped:** 2026-07-24T09:08:15.027048+00:00
+**Scraped:** 2026-07-25T08:48:13.230640+00:00
 
+Anthropic Claude Support for AI Command Center - Netskope Knowledge Portal
 Anthropic Claude Support for AI Command Center
 Anthropic Claude support for AICC is currently available as a preview feature.
 Netskope now supports Anthropic Claude within AI Command Center, delivering unified visibility and posture management for Claude Enterprise and Claude Platform through integration with the Claude Compliance API (Claude Enterprise) and Admin API (Claude Platform).
@@ -250383,7 +250439,7 @@ Anthropic Claude Support for AI Command Center
 ## Onboard Claude for AI Command Center
 **URL:** https://docs.netskope.com/en/onboard-claude-for-ai-discovery/
 **Last Modified:** 2026-05-22T17:12:06+00:00
-**Scraped:** 2026-07-24T09:08:16.211431+00:00
+**Scraped:** 2026-07-25T08:48:14.397135+00:00
 
 Onboard Claude for AI Command Center - Netskope Knowledge Portal
 Onboard Claude for AI Command Center
@@ -250531,8 +250587,9 @@ Onboard Claude for AI Command Center
 ## Deploying AI Guardrails LLM on Google Cloud TPU
 **URL:** https://docs.netskope.com/en/deploying-ai-guardrails-llm-on-google-cloud-tpu/
 **Last Modified:** 2026-05-22T10:09:15+00:00
-**Scraped:** 2026-07-24T09:08:17.391569+00:00
+**Scraped:** 2026-07-25T08:48:15.566865+00:00
 
+Deploying AI Guardrails LLM on Google Cloud TPU - Netskope Knowledge Portal
 Deploying AI Guardrails LLM on Google Cloud TPU
 Deploy AI Guardrails LLM on Google Cloud TPU for secure inference.
 Prerequisites
@@ -250747,7 +250804,7 @@ Deploying AI Guardrails LLM on Google Cloud TPU
 ## AWS Inspector Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/aws-inspector-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-29T02:47:22+00:00
-**Scraped:** 2026-07-24T09:08:18.781949+00:00
+**Scraped:** 2026-07-25T08:48:16.781367+00:00
 
 AWS Inspector Plugin for Risk Exchange - Netskope Knowledge Portal
 AWS Inspector Plugin for Risk Exchange
@@ -251514,7 +251571,7 @@ AWS Inspector Plugin for Risk Exchange
 ## Classic API Data Protection: End of Life Announcement and Migration Guide
 **URL:** https://docs.netskope.com/en/classic-api-data-protection-end-of-life-announcement-and-migration-guide/
 **Last Modified:** 2026-05-30T03:12:36+00:00
-**Scraped:** 2026-07-24T09:08:19.967527+00:00
+**Scraped:** 2026-07-25T08:48:17.947367+00:00
 
 Classic API Data Protection: End of Life Announcement and Migration Guide - Netskope Knowledge Portal
 Classic API Data Protection: End of Life Announcement and Migration Guide
@@ -251619,7 +251676,7 @@ Classic API Data Protection: End of Life Announcement and Migration Guide
 ## AICC Glossary
 **URL:** https://docs.netskope.com/en/aicc-glossary/
 **Last Modified:** 2026-06-05T08:41:37+00:00
-**Scraped:** 2026-07-24T09:08:23.573275+00:00
+**Scraped:** 2026-07-25T08:48:21.492133+00:00
 
 AICC Glossary - Netskope Knowledge Portal
 AICC Glossary
@@ -251673,7 +251730,7 @@ AICC Glossary
 ## MCP Gateway Overview
 **URL:** https://docs.netskope.com/en/mcp-gateway-overview/
 **Last Modified:** 2026-06-11T06:53:42+00:00
-**Scraped:** 2026-07-24T09:08:24.842774+00:00
+**Scraped:** 2026-07-25T08:48:22.748083+00:00
 
 MCP Gateway Overview - Netskope Knowledge Portal
 MCP Gateway Overview
@@ -251706,7 +251763,7 @@ MCP Gateway Overview
 ## Configuring MCP Gateway
 **URL:** https://docs.netskope.com/en/configuring-mcp-gateway/
 **Last Modified:** 2026-06-29T06:20:19+00:00
-**Scraped:** 2026-07-24T09:08:26.027871+00:00
+**Scraped:** 2026-07-25T08:48:23.916621+00:00
 
 Configuring MCP Gateway - Netskope Knowledge Portal
 Configuring MCP Gateway
@@ -251865,7 +251922,7 @@ Configuring MCP Gateway
 ## Monitoring MCP Gateway Events
 **URL:** https://docs.netskope.com/en/monitoring-mcp-gateway-events/
 **Last Modified:** 2026-06-11T06:56:41+00:00
-**Scraped:** 2026-07-24T09:08:27.302500+00:00
+**Scraped:** 2026-07-25T08:48:25.082113+00:00
 
 Monitoring MCP Gateway Events - Netskope Knowledge Portal
 Monitoring MCP Gateway Events
@@ -251949,7 +252006,7 @@ Monitoring MCP Gateway Events
 ## Troubleshooting and Known Limitations
 **URL:** https://docs.netskope.com/en/troubleshooting-and-known-limitations/
 **Last Modified:** 2026-06-11T06:57:15+00:00
-**Scraped:** 2026-07-24T09:08:28.478539+00:00
+**Scraped:** 2026-07-25T08:48:26.448203+00:00
 
 Troubleshooting and Known Limitations - Netskope Knowledge Portal
 Troubleshooting and Known Limitations
@@ -252015,7 +252072,7 @@ Troubleshooting and Known Limitations
 ## Next Generation API Data Protection Feature Matrix per Cloud App
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-feature-matrix-per-cloud-app/
 **Last Modified:** 2026-06-08T17:01:24+00:00
-**Scraped:** 2026-07-24T09:08:29.949523+00:00
+**Scraped:** 2026-07-25T08:48:27.706284+00:00
 
 Next Generation API Data Protection Feature Matrix per Cloud App - Netskope Knowledge Portal
 Next Generation API Data Protection Feature Matrix per Cloud App
@@ -253442,7 +253499,7 @@ Next Generation API Data Protection Feature Matrix per Cloud App
 ## Next Generation API Data Protection Inventory
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-inventory/
 **Last Modified:** 2026-06-08T17:00:40+00:00
-**Scraped:** 2026-07-24T09:08:31.164829+00:00
+**Scraped:** 2026-07-25T08:48:28.898635+00:00
 
 Next Generation API Data Protection Inventory - Netskope Knowledge Portal
 Next Generation API Data Protection Inventory
@@ -253854,8 +253911,9 @@ Next Generation API Data Protection Inventory
 ## Next Generation API Data Protection Dashboard
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-dashboard/
 **Last Modified:** 2026-06-08T17:00:46+00:00
-**Scraped:** 2026-07-24T09:08:33.536100+00:00
+**Scraped:** 2026-07-25T08:48:31.255876+00:00
 
+Next Generation API Data Protection Dashboard - Netskope Knowledge Portal
 Next Generation API Data Protection Dashboard
 Next Generation API Data Protection has introduced a new dashboard page for Next Generation API Data Protection SaaS apps. To view the dashboard, log in to the Netskope tenant UI, navigate to
 API-enabled Protection > SAAS (NEXT GEN) > Dashboard
@@ -254096,7 +254154,7 @@ Next Generation API Data Protection Dashboard
 ## Amazon WorkSpaces
 **URL:** https://docs.netskope.com/en/amazon-workspaces/
 **Last Modified:** 2026-06-08T17:30:46+00:00
-**Scraped:** 2026-07-24T09:08:37.082658+00:00
+**Scraped:** 2026-07-25T08:48:34.780411+00:00
 
 Amazon WorkSpaces - Netskope Knowledge Portal
 Amazon WorkSpaces
@@ -254172,7 +254230,7 @@ Amazon WorkSpaces
 ## Blackberry Cylance
 **URL:** https://docs.netskope.com/en/blackberry-cylance/
 **Last Modified:** 2026-07-22T06:22:40+00:00
-**Scraped:** 2026-07-24T09:08:38.245074+00:00
+**Scraped:** 2026-07-25T08:48:36.041493+00:00
 
 Blackberry Cylance - Netskope Knowledge Portal
 Blackberry Cylance
@@ -254223,7 +254281,7 @@ Blackberry Cylance
 ## Cisco Umbrella
 **URL:** https://docs.netskope.com/en/cisco-umbrella/
 **Last Modified:** 2026-07-22T06:16:31+00:00
-**Scraped:** 2026-07-24T09:08:39.424524+00:00
+**Scraped:** 2026-07-25T08:48:37.206884+00:00
 
 Cisco Umbrella - Netskope Knowledge Portal
 Cisco Umbrella
@@ -254294,8 +254352,9 @@ Cisco Umbrella
 ## Cisco AnyConnect
 **URL:** https://docs.netskope.com/en/cisco-anyconnect/
 **Last Modified:** 2026-07-22T06:18:07+00:00
-**Scraped:** 2026-07-24T09:08:40.599083+00:00
+**Scraped:** 2026-07-25T08:48:38.365302+00:00
 
+Cisco AnyConnect - Netskope Knowledge Portal
 Cisco AnyConnect
 This article provides instructions to configure Netskope steered traffic to go directly to the Netskope cloud without traversing the full VPN tunnel.
 You must add exceptions to your Netskope steering configuration to bypass VPN traffic. To learn more see:
@@ -254341,8 +254400,9 @@ Cisco AnyConnect
 ## CrowdStrike
 **URL:** https://docs.netskope.com/en/crowdstrike/
 **Last Modified:** 2026-07-22T06:23:16+00:00
-**Scraped:** 2026-07-24T09:08:41.763910+00:00
+**Scraped:** 2026-07-25T08:48:39.528277+00:00
 
+CrowdStrike - Netskope Knowledge Portal
 CrowdStrike
 CrowdStrike is an agent-based sensor that prevents breaches and malware attacks. It provides Endpoint Detection and Response (EDR) services to all endpoints by a single agent, commonly known as the CrowdStrike Falcon Sensor.
 This document contains the best practices that ensure smooth interoperability between CrowdStrike and Netskope Client.
@@ -254412,13 +254472,12 @@ nsdiag.exe
 Occasionally, the injection of the CrowdStrike’s DLLs leads to instability and unexpected behavior. For troubleshooting purposes,  allowlist Netskope Client’s processes in the CrowdStrike setting to resolve the issue.
 In this Topic
 CrowdStrike
-CrowdStrike - Netskope Knowledge Portal
 
 ---
 ## FortiGate VPN
 **URL:** https://docs.netskope.com/en/fortigate-vpn/
 **Last Modified:** 2026-07-22T06:18:33+00:00
-**Scraped:** 2026-07-24T09:08:43.000685+00:00
+**Scraped:** 2026-07-25T08:48:40.715734+00:00
 
 FortiGate VPN - Netskope Knowledge Portal
 FortiGate VPN
@@ -254836,8 +254895,9 @@ FortiGate VPN
 ## Palo Alto GlobalProtect
 **URL:** https://docs.netskope.com/en/palo-alto-globalprotect/
 **Last Modified:** 2026-07-22T06:19:14+00:00
-**Scraped:** 2026-07-24T09:08:44.178675+00:00
+**Scraped:** 2026-07-25T08:48:41.879509+00:00
 
+Palo Alto GlobalProtect - Netskope Knowledge Portal
 Palo Alto GlobalProtect
 This topic provides configuration details that enable seamless interoperability between Palo Alto GlobalProtect and Netskope Client.
 For scenarios where a Palo Alto GlobalProtect full tunnel is established, we recommend that you perform the  following steps to ensure client traffic is bypassed to Netskope Cloud via the closest data center (POP).
@@ -254899,7 +254959,7 @@ Palo Alto GlobalProtect
 ## Squid Proxy
 **URL:** https://docs.netskope.com/en/squid-proxy/
 **Last Modified:** 2026-07-22T06:15:55+00:00
-**Scraped:** 2026-07-24T09:08:45.352323+00:00
+**Scraped:** 2026-07-25T08:48:43.038764+00:00
 
 Squid Proxy - Netskope Knowledge Portal
 Squid Proxy
@@ -254927,7 +254987,7 @@ Squid Proxy
 ## Trend Micro Maximum Security
 **URL:** https://docs.netskope.com/en/trend-micro-maximum-security/
 **Last Modified:** 2026-07-22T06:23:48+00:00
-**Scraped:** 2026-07-24T09:08:46.516777+00:00
+**Scraped:** 2026-07-25T08:48:44.203171+00:00
 
 Trend Micro Maximum Security - Netskope Knowledge Portal
 Trend Micro Maximum Security
@@ -255035,7 +255095,7 @@ Trend Micro Maximum Security
 ## Symantec Endpoint Protection
 **URL:** https://docs.netskope.com/en/symantec-endpoint-protection/
 **Last Modified:** 2026-07-22T06:31:21+00:00
-**Scraped:** 2026-07-24T09:08:47.706894+00:00
+**Scraped:** 2026-07-25T08:48:45.402347+00:00
 
 Symantec Endpoint Protection - Netskope Knowledge Portal
 Symantec Endpoint Protection
@@ -255153,7 +255213,7 @@ Symantec Endpoint Protection
 ## VMware Carbon Black
 **URL:** https://docs.netskope.com/en/vmware-carbon-black/
 **Last Modified:** 2026-07-22T06:25:06+00:00
-**Scraped:** 2026-07-24T09:08:48.874730+00:00
+**Scraped:** 2026-07-25T08:48:46.570514+00:00
 
 VMware Carbon Black - Netskope Knowledge Portal
 VMware Carbon Black
@@ -255243,7 +255303,7 @@ VMware Carbon Black
 ## Viewing Test Details
 **URL:** https://docs.netskope.com/en/viewing-test-details/
 **Last Modified:** 2026-07-14T21:09:32+00:00
-**Scraped:** 2026-07-24T09:08:51.241238+00:00
+**Scraped:** 2026-07-25T08:48:48.901723+00:00
 
 Viewing Test Details - Netskope Knowledge Portal
 Viewing Test Details
@@ -255422,7 +255482,7 @@ Viewing Test Details
 ## AI Guardrails Profile
 **URL:** https://docs.netskope.com/en/ai-security-guardrails-profile/
 **Last Modified:** 2026-06-08T18:39:42+00:00
-**Scraped:** 2026-07-24T09:08:52.419754+00:00
+**Scraped:** 2026-07-25T08:48:50.063566+00:00
 
 AI Guardrails Profile - Netskope Knowledge Portal
 AI Guardrails Profile
@@ -255516,7 +255576,7 @@ AI Guardrails Profile
 ## Prompt Library
 **URL:** https://docs.netskope.com/en/prompt-library/
 **Last Modified:** 2026-07-18T05:02:03+00:00
-**Scraped:** 2026-07-24T09:08:53.603719+00:00
+**Scraped:** 2026-07-25T08:48:51.327614+00:00
 
 Prompt Library - Netskope Knowledge Portal
 Prompt Library
@@ -255602,7 +255662,7 @@ Prompt Library
 ## AI Guardrails Custom Topics
 **URL:** https://docs.netskope.com/en/ai-guardrails-custom-topics/
 **Last Modified:** 2026-07-09T20:12:47+00:00
-**Scraped:** 2026-07-24T09:08:54.778071+00:00
+**Scraped:** 2026-07-25T08:48:52.490514+00:00
 
 AI Guardrails Custom Topics - Netskope Knowledge Portal
 AI Guardrails Custom Topics
@@ -255673,7 +255733,7 @@ AI Guardrails Custom Topics
 ## High-Capacity Tunnels Licensing Terms
 **URL:** https://docs.netskope.com/en/high-capacity-tunnels-licensing-terms/
 **Last Modified:** 2026-06-12T20:23:11+00:00
-**Scraped:** 2026-07-24T09:08:57.194009+00:00
+**Scraped:** 2026-07-25T08:48:55.003765+00:00
 
 High-Capacity Tunnels Licensing Terms - Netskope Knowledge Portal
 High-Capacity Tunnels Licensing Terms
@@ -255738,7 +255798,7 @@ High-Capacity Tunnels Licensing Terms
 ## Agentic Broker Licensing Terms
 **URL:** https://docs.netskope.com/en/agentic-broker-licensing-terms/
 **Last Modified:** 2026-06-24T18:58:52+00:00
-**Scraped:** 2026-07-24T09:08:58.369891+00:00
+**Scraped:** 2026-07-25T08:48:56.257983+00:00
 
 Agentic Broker Licensing Terms - Netskope Knowledge Portal
 Agentic Broker Licensing Terms
@@ -255796,7 +255856,7 @@ Agentic Broker Licensing Terms
 ## AI Guardrails Licensing Terms
 **URL:** https://docs.netskope.com/en/ai-guardrails-licensing-terms/
 **Last Modified:** 2026-06-11T17:58:10+00:00
-**Scraped:** 2026-07-24T09:08:59.543176+00:00
+**Scraped:** 2026-07-25T08:48:57.417065+00:00
 
 AI Guardrails Licensing Terms - Netskope Knowledge Portal
 AI Guardrails Licensing Terms
@@ -255850,7 +255910,7 @@ AI Guardrails Licensing Terms
 ## AI Red Teaming Licensing Terms
 **URL:** https://docs.netskope.com/en/ai-red-teaming-licensing-terms/
 **Last Modified:** 2026-06-11T17:56:03+00:00
-**Scraped:** 2026-07-24T09:09:00.716358+00:00
+**Scraped:** 2026-07-25T08:48:58.572586+00:00
 
 AI Red Teaming Licensing Terms - Netskope Knowledge Portal
 AI Red Teaming Licensing Terms
@@ -255897,8 +255957,9 @@ AI Red Teaming Licensing Terms
 ## AI Gateway Licensing Terms
 **URL:** https://docs.netskope.com/en/ai-gateway-licensing-terms/
 **Last Modified:** 2026-06-29T22:56:31+00:00
-**Scraped:** 2026-07-24T09:09:03.073000+00:00
+**Scraped:** 2026-07-25T08:49:00.901964+00:00
 
+AI Gateway Licensing Terms - Netskope Knowledge Portal
 AI Gateway Licensing Terms
 Service Description
 Netskope AI Gateway provides the ability to intercept and secure traffic between AI agents and AI models (LLMs), and between Model Context Protocol (MCP) clients and MCP servers, where the Gateway is deployed within a customer-controlled environment.
@@ -255950,7 +256011,7 @@ AI Gateway Licensing Terms
 ## Agentic Broker Dashboard for Securing MCP
 **URL:** https://docs.netskope.com/en/agentic-broker-dashboard-for-securing-mcp/
 **Last Modified:** 2026-06-12T20:11:17+00:00
-**Scraped:** 2026-07-24T09:09:04.246444+00:00
+**Scraped:** 2026-07-25T08:49:02.187563+00:00
 
 Agentic Broker Dashboard for Securing MCP - Netskope Knowledge Portal
 Agentic Broker Dashboard for Securing MCP
@@ -256119,8 +256180,9 @@ Agentic Broker Dashboard for Securing MCP
 ## Publisher Kernel Updates
 **URL:** https://docs.netskope.com/en/publisher-kernel-updates/
 **Last Modified:** 2026-06-15T19:38:28+00:00
-**Scraped:** 2026-07-24T09:09:05.534101+00:00
+**Scraped:** 2026-07-25T08:49:03.346449+00:00
 
+Publisher Kernel Updates - Netskope Knowledge Portal
 Publisher Kernel Updates
 Netskope Publisher runs on Ubuntu Linux. To keep the underlying OS kernel secure and up to date, Publisher relies on Ubuntu’s native unattended-upgrades mechanism for automated kernel patching.
 This article explains how kernel updates work, when they take effect, and the recommended configuration for a fully automated patching experience.
@@ -256213,8 +256275,9 @@ Publisher Kernel Updates
 ## Deploy the DSPM Single Appliance
 **URL:** https://docs.netskope.com/en/deploy-the-dspm-single-appliance/
 **Last Modified:** 2026-07-16T01:20:56+00:00
-**Scraped:** 2026-07-24T09:09:06.722929+00:00
+**Scraped:** 2026-07-25T08:49:04.546598+00:00
 
+Deploy the DSPM Single Appliance - Netskope Knowledge Portal
 Deploy the DSPM Single Appliance
 Overview
 The DSPM Single Appliance bundles both the sidecar and DLP services into one virtual machine. This unified model simplifies deployment by reducing the process to a single image, a single CLI command, and a single License Key.
@@ -256579,6 +256642,15 @@ nsappliance(config)> set dns secondary x.x.x.x
 nsappliance(config)> save
 nsappliance(config)> exit
 Ensure that DNS resolution works on the appliance before proceeding.
+Ensure you have a REST API v1 token. If you already have one, skip to the next step. To generate a token, go to
+Settings
+>
+Tools
+>
+Rest API v1
+and click
+Generate New Token
+.
 Apply the License Key you retrieved in Step 1:
 nsappliance> configure
 nsappliance(config)# set system licensekey <license-key>
@@ -256686,7 +256758,7 @@ Deploy the DSPM Single Appliance
 ## Understanding Digital Experience Management (DEM) Scores
 **URL:** https://docs.netskope.com/en/understanding-digital-experience-management-dem-scores/
 **Last Modified:** 2026-06-25T17:40:28+00:00
-**Scraped:** 2026-07-24T09:09:07.906672+00:00
+**Scraped:** 2026-07-25T08:49:05.706299+00:00
 
 Understanding Digital Experience Management (DEM) Scores - Netskope Knowledge Portal
 Understanding Digital Experience Management (DEM) Scores
@@ -256766,7 +256838,7 @@ Understanding Digital Experience Management (DEM) Scores
 ## IPS Settings
 **URL:** https://docs.netskope.com/en/about-ips-settings/
 **Last Modified:** 2026-07-06T15:03:19+00:00
-**Scraped:** 2026-07-24T09:09:09.092482+00:00
+**Scraped:** 2026-07-25T08:49:06.871312+00:00
 
 IPS Settings - Netskope Knowledge Portal
 IPS Settings
@@ -256852,7 +256924,7 @@ IPS Settings
 ## Creating a Test
 **URL:** https://docs.netskope.com/en/creating-a-test/
 **Last Modified:** 2026-07-21T15:12:13+00:00
-**Scraped:** 2026-07-24T09:09:10.367040+00:00
+**Scraped:** 2026-07-25T08:49:08.032479+00:00
 
 Creating a Test - Netskope Knowledge Portal
 Creating a Test
@@ -256917,7 +256989,7 @@ Creating a Test
 ## Configure GitHub for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-github-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-07-06T17:03:34+00:00
-**Scraped:** 2026-07-24T09:09:11.578647+00:00
+**Scraped:** 2026-07-25T08:49:09.315307+00:00
 
 Configure GitHub for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure GitHub for the Next Generation API Data Protection
@@ -257271,7 +257343,7 @@ Configure GitHub for the Next Generation API Data Protection
 ## Configure Google Drive for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-google-drive-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-07-06T17:03:39+00:00
-**Scraped:** 2026-07-24T09:09:12.779034+00:00
+**Scraped:** 2026-07-25T08:49:10.489286+00:00
 
 Configure Google Drive for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Google Drive for the Next Generation API Data Protection
@@ -257504,8 +257576,9 @@ Configure Google Drive for the Next Generation API Data Protection
 ## Create a Next Generation API Data Protection Policy
 **URL:** https://docs.netskope.com/en/create-a-next-generation-api-data-protection-policy/
 **Last Modified:** 2026-07-17T10:54:18+00:00
-**Scraped:** 2026-07-24T09:09:14.183160+00:00
+**Scraped:** 2026-07-25T08:49:11.735596+00:00
 
+Create a Next Generation API Data Protection Policy - Netskope Knowledge Portal
 Create a Next Generation API Data Protection Policy
 This article describes the steps to create a Next Generation API Data Protection policy on the Netskope tenant UI. Before that, lets understand a fundamental concept of Next Generation API Data Protection.
 Exposure-Based vs. Actor-Based Policies
@@ -258478,8 +258551,9 @@ Create a Next Generation API Data Protection Policy
 ## Citrix Virtual Apps and Desktop
 **URL:** https://docs.netskope.com/en/citrix-virtual-apps-and-desktop/
 **Last Modified:** 2026-07-06T17:04:02+00:00
-**Scraped:** 2026-07-24T09:09:15.358475+00:00
+**Scraped:** 2026-07-25T08:49:12.905558+00:00
 
+Citrix Virtual Apps and Desktop - Netskope Knowledge Portal
 Citrix Virtual Apps and Desktop
 A cloud-based platform that hosts cloud-hosted desktops and applications. Using Citrix cloud you can deploy Citrix products, desktops, and other applications using any type of cloud-like private, public, or hybrid.  You can install Netskope Client in Citrix Virtual apps using the
 deployment options
@@ -258539,7 +258613,7 @@ Citrix Virtual Apps and Desktop
 ## Devices
 **URL:** https://docs.netskope.com/en/devices/
 **Last Modified:** 2026-07-08T17:08:42+00:00
-**Scraped:** 2026-07-24T09:09:17.834988+00:00
+**Scraped:** 2026-07-25T08:49:15.365059+00:00
 
 Devices - Netskope Knowledge Portal
 Devices
@@ -259697,7 +259771,7 @@ Devices
 ## External Browser-based Authentication
 **URL:** https://docs.netskope.com/en/external-browser-based-authentication/
 **Last Modified:** 2026-07-22T06:36:09+00:00
-**Scraped:** 2026-07-24T09:09:20.218998+00:00
+**Scraped:** 2026-07-25T08:49:17.736361+00:00
 
 External Browser-based Authentication - Netskope Knowledge Portal
 External Browser-based Authentication
@@ -259749,7 +259823,7 @@ External Browser-based Authentication
 ## Soft-Removal of Devices
 **URL:** https://docs.netskope.com/en/soft-removal-of-devices/
 **Last Modified:** 2026-07-17T09:33:08+00:00
-**Scraped:** 2026-07-24T09:09:21.395935+00:00
+**Scraped:** 2026-07-25T08:49:18.912637+00:00
 
 Soft-Removal of Devices - Netskope Knowledge Portal
 Soft-Removal of Devices
@@ -259822,8 +259896,9 @@ Soft-Removal of Devices
 ## Configuring Virtual Private Edge
 **URL:** https://docs.netskope.com/en/configuring-virtual-private-edge/
 **Last Modified:** 2026-07-07T20:28:28+00:00
-**Scraped:** 2026-07-24T09:09:27.618546+00:00
+**Scraped:** 2026-07-25T08:49:25.096660+00:00
 
+Configuring Virtual Private Edge - Netskope Knowledge Portal
 Configuring Virtual Private Edge
 After you have deployed the VPE Node, you can configure Virtual Private Edge (VPE) and apply the Netskope service to your environment.
 Configuring a Platform Template
@@ -260004,7 +260079,7 @@ Configuring Virtual Private Edge
 ## AI Guardrails On Demand
 **URL:** https://docs.netskope.com/en/ai-guardrails-on-demand/
 **Last Modified:** 2026-07-08T22:37:56+00:00
-**Scraped:** 2026-07-24T09:09:28.811277+00:00
+**Scraped:** 2026-07-25T08:49:26.303883+00:00
 
 AI Guardrails On Demand - Netskope Knowledge Portal
 AI Guardrails On Demand
@@ -260306,8 +260381,9 @@ AI Guardrails On Demand
 ## Enterprise Browser Product Licensing Terms
 **URL:** https://docs.netskope.com/en/enterprise-browser-product-licensing-terms/
 **Last Modified:** 2026-07-09T16:47:40+00:00
-**Scraped:** 2026-07-24T09:09:30.240675+00:00
+**Scraped:** 2026-07-25T08:49:27.751008+00:00
 
+Enterprise Browser Product Licensing Terms - Netskope Knowledge Portal
 Enterprise Browser Product Licensing Terms
 Service Overview
 Netskope Enterprise Browser delivers centralized browser security, policy enforcement, and traffic steering for Users accessing web and cloud applications through a managed browser environment.
@@ -260348,7 +260424,7 @@ Enterprise Browser Product Licensing Terms
 ## Licenses
 **URL:** https://docs.netskope.com/en/licenses/
 **Last Modified:** 2026-07-10T23:10:00+00:00
-**Scraped:** 2026-07-24T09:09:31.403029+00:00
+**Scraped:** 2026-07-25T08:49:28.938815+00:00
 
 Licenses - Netskope Knowledge Portal
 Licenses
@@ -260440,8 +260516,9 @@ Licenses
 ## Agent Profile
 **URL:** https://docs.netskope.com/en/agent-profiles/
 **Last Modified:** 2026-07-09T23:36:12+00:00
-**Scraped:** 2026-07-24T09:09:32.570459+00:00
+**Scraped:** 2026-07-25T08:49:30.111289+00:00
 
+Agent Profile - Netskope Knowledge Portal
 Agent Profile
 Agent profiles are a list of predefined agents that can be identified on Netskope (like Claude Code, OpenClaw, etc.) and are used with Agent Guardrails Profiles in Real-time Policies to manage how  and what agents access. Agent Profiles are predefined and cannot be created, modified, or deleted.
 Go to
@@ -260471,8 +260548,9 @@ Agent Profile
 ## Agent Guardrails Profile
 **URL:** https://docs.netskope.com/en/agent-guardrails-profile/
 **Last Modified:** 2026-07-09T23:36:15+00:00
-**Scraped:** 2026-07-24T09:09:33.744965+00:00
+**Scraped:** 2026-07-25T08:49:31.388314+00:00
 
+Agent Guardrails Profile - Netskope Knowledge Portal
 Agent Guardrails Profile
 The Agent Guardrails profile allows you to regulate and control the actions of an agent when accessing SaaS apps.  You can configure profiles and then use them in Real-time Protection policies to prevent the agent from taking unintended actions.
 To create an Agent Guardrails profile:
@@ -260531,8 +260609,9 @@ Agent Guardrails Profile
 ## View Agent Guardrails Alerts
 **URL:** https://docs.netskope.com/en/view-agent-guardrails-alerts/
 **Last Modified:** 2026-07-09T23:41:57+00:00
-**Scraped:** 2026-07-24T09:09:36.090495+00:00
+**Scraped:** 2026-07-25T08:49:33.747157+00:00
 
+View Agent Guardrails Alerts - Netskope Knowledge Portal
 View Agent Guardrails Alerts
 When users violate your Agent Guardrails policy while using genertative AI apps, Netskope triggers an alert in
 Skope IT
@@ -260575,7 +260654,7 @@ View Agent Guardrails Alerts
 ## DCC Overview
 **URL:** https://docs.netskope.com/en/dcc-overview/
 **Last Modified:** 2026-07-11T07:43:18+00:00
-**Scraped:** 2026-07-24T09:09:37.269607+00:00
+**Scraped:** 2026-07-25T08:49:34.923151+00:00
 
 DCC Overview - Netskope Knowledge Portal
 DCC Overview
@@ -260668,7 +260747,7 @@ DCC Overview
 ## Data Stores and Destinations
 **URL:** https://docs.netskope.com/en/dcc-data-stores-and-destinations/
 **Last Modified:** 2026-07-11T07:43:35+00:00
-**Scraped:** 2026-07-24T09:09:38.453865+00:00
+**Scraped:** 2026-07-25T08:49:36.109057+00:00
 
 Data Stores and Destinations - Netskope Knowledge Portal
 Data Stores and Destinations
@@ -260835,7 +260914,7 @@ Data Stores and Destinations
 ## Identities
 **URL:** https://docs.netskope.com/en/dcc-identities/
 **Last Modified:** 2026-07-11T07:43:51+00:00
-**Scraped:** 2026-07-24T09:09:39.631001+00:00
+**Scraped:** 2026-07-25T08:49:37.288608+00:00
 
 Identities - Netskope Knowledge Portal
 Identities
@@ -260921,7 +261000,7 @@ Identities
 ## Risk Policies and Remediation
 **URL:** https://docs.netskope.com/en/dcc-risk-policies-and-remediation/
 **Last Modified:** 2026-07-11T07:44:03+00:00
-**Scraped:** 2026-07-24T09:09:40.816062+00:00
+**Scraped:** 2026-07-25T08:49:38.473664+00:00
 
 Risk Policies and Remediation - Netskope Knowledge Portal
 Risk Policies and Remediation
@@ -261069,7 +261148,7 @@ Risk Policies and Remediation
 ## Global Search
 **URL:** https://docs.netskope.com/en/dcc-global-search/
 **Last Modified:** 2026-07-11T07:44:08+00:00
-**Scraped:** 2026-07-24T09:09:41.987530+00:00
+**Scraped:** 2026-07-25T08:49:39.642461+00:00
 
 Global Search - Netskope Knowledge Portal
 Global Search
@@ -261094,8 +261173,9 @@ Global Search
 ## Configure Microsoft 365 SharePoint for the Next Generation API Data Protection
 **URL:** https://docs.netskope.com/en/configure-microsoft-365-sharepoint-for-the-next-generation-api-data-protection/
 **Last Modified:** 2026-07-14T07:41:06+00:00
-**Scraped:** 2026-07-24T09:09:43.192729+00:00
+**Scraped:** 2026-07-25T08:49:40.935708+00:00
 
+Configure Microsoft 365 SharePoint for the Next Generation API Data Protection - Netskope Knowledge Portal
 Configure Microsoft 365 SharePoint for the Next Generation API Data Protection
 To configure Microsoft 365 SharePoint (Commercial, GCC & GCC High) for the Next Generation API Data Protection, follow the instructions below.
 Prerequisites
@@ -261332,7 +261412,7 @@ Configure Microsoft 365 SharePoint for the Next Generation API Data Protection
 ## Creating a Custom Prompt
 **URL:** https://docs.netskope.com/en/creating-a-custom-prompt/
 **Last Modified:** 2026-07-18T04:42:53+00:00
-**Scraped:** 2026-07-24T09:09:45.555248+00:00
+**Scraped:** 2026-07-25T08:49:43.293793+00:00
 
 Creating a Custom Prompt - Netskope Knowledge Portal
 Creating a Custom Prompt
@@ -261378,7 +261458,7 @@ Creating a Custom Prompt
 ## Configure AWS Bedrock as a Custom AI Provider
 **URL:** https://docs.netskope.com/en/configure-aws-bedrock-as-a-custom-ai-provider/
 **Last Modified:** 2026-07-15T15:04:21+00:00
-**Scraped:** 2026-07-24T09:09:46.734506+00:00
+**Scraped:** 2026-07-25T08:49:44.459337+00:00
 
 Configure AWS Bedrock as a Custom AI Provider - Netskope Knowledge Portal
 Configure AWS Bedrock as a Custom AI Provider
@@ -261537,7 +261617,7 @@ Configure AWS Bedrock as a Custom AI Provider
 ## Redact Sensitive Data
 **URL:** https://docs.netskope.com/en/redact-sensitive-data/
 **Last Modified:** 2026-07-16T04:21:31+00:00
-**Scraped:** 2026-07-24T09:09:48.015378+00:00
+**Scraped:** 2026-07-25T08:49:45.641907+00:00
 
 Redact Sensitive Data - Netskope Knowledge Portal
 Redact Sensitive Data
@@ -261665,7 +261745,7 @@ Redact Sensitive Data
 ## DNSaaS Licensing Terms
 **URL:** https://docs.netskope.com/en/dnsaas-licensing-terms/
 **Last Modified:** 2026-07-16T20:50:55+00:00
-**Scraped:** 2026-07-24T09:09:49.193221+00:00
+**Scraped:** 2026-07-25T08:49:46.815498+00:00
 
 DNSaaS Licensing Terms - Netskope Knowledge Portal
 DNSaaS Licensing Terms
@@ -261739,7 +261819,7 @@ DNSaaS Licensing Terms
 ## Application Probes Best Practices
 **URL:** https://docs.netskope.com/en/application-probes-best-practices/
 **Last Modified:** 2026-07-20T17:07:57+00:00
-**Scraped:** 2026-07-24T09:09:50.368574+00:00
+**Scraped:** 2026-07-25T08:49:47.978281+00:00
 
 Application Probes Best Practices - Netskope Knowledge Portal
 Application Probes Best Practices
@@ -261808,7 +261888,7 @@ Application Probes Best Practices
 ## Getting Started
 **URL:** https://docs.netskope.com/en/getting-started/
 **Last Modified:** 2025-09-01T12:43:18+00:00
-**Scraped:** 2026-07-24T09:09:52.719073+00:00
+**Scraped:** 2026-07-25T08:49:50.315534+00:00
 
 Getting Started - Netskope Knowledge Portal
 Getting Started
@@ -261831,8 +261911,9 @@ Getting Started
 ## Classic API Data Protection
 **URL:** https://docs.netskope.com/en/api-data-protection/
 **Last Modified:** 2026-06-21T04:53:28+00:00
-**Scraped:** 2026-07-24T09:09:53.878980+00:00
+**Scraped:** 2026-07-25T08:49:51.475818+00:00
 
+Classic API Data Protection - Netskope Knowledge Portal
 Classic API Data Protection
 Classic API Data Protection: End of Life Announcement
 The Classic API Data Protection platform has been the foundation of Netskope’s CASB API security offering for many customers. As Netskope continues to invest in its Next Generation API Data Protection platform, built for modern SaaS and AI app coverage — the classic platform will reach end of life on
@@ -261890,7 +261971,7 @@ Classic API Data Protection
 ## Intrusion Prevention System
 **URL:** https://docs.netskope.com/en/intrusion-prevention-system/
 **Last Modified:** 2026-01-29T21:51:53+00:00
-**Scraped:** 2026-07-24T09:09:56.317283+00:00
+**Scraped:** 2026-07-25T08:49:53.786382+00:00
 
 Intrusion Prevention System - Netskope Knowledge Portal
 Intrusion Prevention System
@@ -261907,7 +261988,7 @@ Intrusion Prevention System
 ## Device Intelligence
 **URL:** https://docs.netskope.com/en/device-intelligence/
 **Last Modified:** 2025-09-01T12:55:13+00:00
-**Scraped:** 2026-07-24T09:09:57.489541+00:00
+**Scraped:** 2026-07-25T08:49:55.042157+00:00
 
 Device Intelligence - Netskope Knowledge Portal
 Device Intelligence
@@ -261932,7 +262013,7 @@ Device Intelligence
 ## Netskope Public Cloud Security
 **URL:** https://docs.netskope.com/en/netskope-public-cloud-security/
 **Last Modified:** 2025-10-14T01:00:25+00:00
-**Scraped:** 2026-07-24T09:09:59.841613+00:00
+**Scraped:** 2026-07-25T08:49:57.529356+00:00
 
 Netskope Public Cloud Security - Netskope Knowledge Portal
 Netskope Public Cloud Security
@@ -261983,7 +262064,7 @@ Netskope Public Cloud Security
 ## Next Generation API Data Protection Platform
 **URL:** https://docs.netskope.com/en/next-generation-api-data-protection-platform/
 **Last Modified:** 2026-06-30T17:17:18+00:00
-**Scraped:** 2026-07-24T09:10:03.339032+00:00
+**Scraped:** 2026-07-25T08:50:01.139330+00:00
 
 Next Generation API Data Protection Platform - Netskope Knowledge Portal
 Next Generation API Data Protection Platform
@@ -262045,7 +262126,7 @@ Next Generation API Data Protection Platform
 ## SaaS Security Posture Management
 **URL:** https://docs.netskope.com/en/saas-security-posture-management/
 **Last Modified:** 2026-07-21T10:07:17+00:00
-**Scraped:** 2026-07-24T09:10:04.527562+00:00
+**Scraped:** 2026-07-25T08:50:02.316893+00:00
 
 SaaS Security Posture Management - Netskope Knowledge Portal
 SaaS Security Posture Management
@@ -262172,7 +262253,7 @@ SaaS Security Posture Management
 ## Remote Browser Isolation
 **URL:** https://docs.netskope.com/en/remote-browser-isolation/
 **Last Modified:** 2025-08-31T01:46:33+00:00
-**Scraped:** 2026-07-24T09:10:06.976298+00:00
+**Scraped:** 2026-07-25T08:50:04.634220+00:00
 
 Remote Browser Isolation - Netskope Knowledge Portal
 Remote Browser Isolation
@@ -262200,7 +262281,7 @@ Remote Browser Isolation
 ## Risk Insights
 **URL:** https://docs.netskope.com/en/risk-insights/
 **Last Modified:** 2025-08-31T01:50:01+00:00
-**Scraped:** 2026-07-24T09:10:08.155378+00:00
+**Scraped:** 2026-07-25T08:50:05.818353+00:00
 
 Risk Insights - Netskope Knowledge Portal
 Risk Insights
@@ -262305,7 +262386,7 @@ Risk Insights
 ## Transaction Events
 **URL:** https://docs.netskope.com/en/transaction-events/
 **Last Modified:** 2026-01-07T08:19:18+00:00
-**Scraped:** 2026-07-24T09:10:09.326670+00:00
+**Scraped:** 2026-07-25T08:50:06.991336+00:00
 
 Transaction Events - Netskope Knowledge Portal
 Transaction Events
@@ -262327,7 +262408,7 @@ Transaction Events
 ## Device Classification
 **URL:** https://docs.netskope.com/en/device-classification/
 **Last Modified:** 2025-08-31T01:55:09+00:00
-**Scraped:** 2026-07-24T09:10:12.846029+00:00
+**Scraped:** 2026-07-25T08:50:10.559949+00:00
 
 Device Classification - Netskope Knowledge Portal
 Device Classification
@@ -262341,7 +262422,7 @@ Device Classification
 ## Integrations
 **URL:** https://docs.netskope.com/en/integrations-439794/
 **Last Modified:** 2025-09-01T12:37:46+00:00
-**Scraped:** 2026-07-24T09:10:14.017543+00:00
+**Scraped:** 2026-07-25T08:50:11.729678+00:00
 
 Integrations - Netskope Knowledge Portal
 Integrations
@@ -262362,8 +262443,9 @@ Integrations
 ## Active Directory with Netskope Adapters
 **URL:** https://docs.netskope.com/en/ad-with-netskope-adapters/
 **Last Modified:** 2026-06-15T06:02:38+00:00
-**Scraped:** 2026-07-24T09:10:15.296380+00:00
+**Scraped:** 2026-07-25T08:50:12.894255+00:00
 
+Active Directory with Netskope Adapters - Netskope Knowledge Portal
 Active Directory with Netskope Adapters
 The Netskope Adapter provides key integrations to enable seamless synchronization of user data and enhance visibility in the Netskope platform.
 It supports the following functionalities:
@@ -262485,8 +262567,9 @@ Active Directory with Netskope Adapters
 ## Netskope Cloud Exchange
 **URL:** https://docs.netskope.com/en/netskope-cloud-exchange/
 **Last Modified:** 2026-05-05T23:21:58+00:00
-**Scraped:** 2026-07-24T09:10:16.470080+00:00
+**Scraped:** 2026-07-25T08:50:14.051650+00:00
 
+Netskope Cloud Exchange - Netskope Knowledge Portal
 Netskope Cloud Exchange
 Netskope Cloud Exchange (CE) provides customers with powerful integration tools to leverage investments across their security posture. CE consumes valuable Netskope telemetry and external threat intelligence and risk scores, enabling improved policy implementation, automated service ticket creation, and exportation of log events from the Netskope Security Cloud.
 CE is run as an extensible platform with core code and plugins that are installed inside a Linux Docker environment maintained by each user.
@@ -262518,7 +262601,7 @@ Netskope Cloud Exchange
 ## Advanced Analytics
 **URL:** https://docs.netskope.com/en/advanced-analytics/
 **Last Modified:** 2025-08-31T01:49:24+00:00
-**Scraped:** 2026-07-24T09:10:18.803085+00:00
+**Scraped:** 2026-07-25T08:50:16.465752+00:00
 
 Advanced Analytics - Netskope Knowledge Portal
 Advanced Analytics
@@ -262563,7 +262646,7 @@ Advanced Analytics
 ## Digital Experience Management
 **URL:** https://docs.netskope.com/en/digital-experience-management/
 **Last Modified:** 2026-06-02T04:04:00+00:00
-**Scraped:** 2026-07-24T09:10:19.978094+00:00
+**Scraped:** 2026-07-25T08:50:17.625814+00:00
 
 Digital Experience Management - Netskope Knowledge Portal
 Digital Experience Management
@@ -262610,7 +262693,7 @@ Digital Experience Management
 ## Reports
 **URL:** https://docs.netskope.com/en/reports/
 **Last Modified:** 2025-08-31T01:49:52+00:00
-**Scraped:** 2026-07-24T09:10:21.149246+00:00
+**Scraped:** 2026-07-25T08:50:18.783062+00:00
 
 Reports - Netskope Knowledge Portal
 Reports
@@ -262631,8 +262714,9 @@ Reports
 ## REST API
 **URL:** https://docs.netskope.com/en/rest-api/
 **Last Modified:** 2025-08-31T01:39:11+00:00
-**Scraped:** 2026-07-24T09:10:22.308739+00:00
+**Scraped:** 2026-07-25T08:50:19.939741+00:00
 
+REST API - Netskope Knowledge Portal
 REST API
 The following sections explain how to use our REST APIs to perform various functions. Go to
 Netskope Platform API Endpoints for REST API v1
@@ -262650,7 +262734,7 @@ REST API
 ## Skope IT
 **URL:** https://docs.netskope.com/en/skope-it/
 **Last Modified:** 2025-08-31T01:39:00+00:00
-**Scraped:** 2026-07-24T09:10:23.482598+00:00
+**Scraped:** 2026-07-25T08:50:21.096589+00:00
 
 Skope IT - Netskope Knowledge Portal
 Skope IT
@@ -262666,8 +262750,9 @@ Skope IT
 ## Appliances
 **URL:** https://docs.netskope.com/en/appliances/
 **Last Modified:** 2025-08-31T01:42:39+00:00
-**Scraped:** 2026-07-24T09:10:24.654246+00:00
+**Scraped:** 2026-07-25T08:50:22.253786+00:00
 
+Appliances - Netskope Knowledge Portal
 Appliances
 Note
 The Netskope on-premises hardware appliances were retired on 03/31/2025. Refer to
@@ -262685,7 +262770,7 @@ Appliances
 ## Forensics
 **URL:** https://docs.netskope.com/en/forensics/
 **Last Modified:** 2025-09-26T08:25:33+00:00
-**Scraped:** 2026-07-24T09:10:25.832873+00:00
+**Scraped:** 2026-07-25T08:50:23.416687+00:00
 
 Forensics - Netskope Knowledge Portal
 Forensics
@@ -262763,7 +262848,7 @@ Forensics
 ## Reports (New Experience)
 **URL:** https://docs.netskope.com/en/reports-new-experience/
 **Last Modified:** 2025-08-31T01:55:57+00:00
-**Scraped:** 2026-07-24T09:10:27.111371+00:00
+**Scraped:** 2026-07-25T08:50:24.576415+00:00
 
 Reports (New Experience) - Netskope Knowledge Portal
 Reports (New Experience)
@@ -262783,7 +262868,7 @@ Reports (New Experience)
 ## Cloud TAP
 **URL:** https://docs.netskope.com/en/cloud-tap/
 **Last Modified:** 2026-05-27T21:24:19+00:00
-**Scraped:** 2026-07-24T09:10:28.273820+00:00
+**Scraped:** 2026-07-25T08:50:25.837002+00:00
 
 Cloud TAP - Netskope Knowledge Portal
 Cloud TAP
@@ -262877,7 +262962,7 @@ Cloud TAP
 ## User Provisioning and Authentication
 **URL:** https://docs.netskope.com/en/user-provisioning-and-authentication/
 **Last Modified:** 2026-04-02T08:06:15+00:00
-**Scraped:** 2026-07-24T09:10:29.738090+00:00
+**Scraped:** 2026-07-25T08:50:27.105887+00:00
 
 User Provisioning and Authentication - Netskope Knowledge Portal
 User Provisioning and Authentication
@@ -263035,7 +263120,7 @@ User Provisioning and Authentication
 ## Data Retention
 **URL:** https://docs.netskope.com/en/data-retention/
 **Last Modified:** 2025-08-31T01:39:10+00:00
-**Scraped:** 2026-07-24T09:10:30.899951+00:00
+**Scraped:** 2026-07-25T08:50:28.444669+00:00
 
 Data Retention - Netskope Knowledge Portal
 Data Retention
@@ -263144,7 +263229,7 @@ Data Retention
 ## Data Security Posture Management (DSPM)
 **URL:** https://docs.netskope.com/en/data-security-posture-management/
 **Last Modified:** 2026-07-05T21:02:25+00:00
-**Scraped:** 2026-07-24T09:10:32.079730+00:00
+**Scraped:** 2026-07-25T08:50:29.604556+00:00
 
 Data Security Posture Management (DSPM) - Netskope Knowledge Portal
 Data Security Posture Management (DSPM)
@@ -263193,7 +263278,7 @@ Data Security Posture Management (DSPM)
 ## Enterprise Browser
 **URL:** https://docs.netskope.com/en/enterprise-browser/
 **Last Modified:** 2026-04-30T14:34:04+00:00
-**Scraped:** 2026-07-24T09:10:33.258902+00:00
+**Scraped:** 2026-07-25T08:50:30.759736+00:00
 
 Enterprise Browser - Netskope Knowledge Portal
 Enterprise Browser
@@ -263222,8 +263307,9 @@ Enterprise Browser
 ## Netskope Copilot
 **URL:** https://docs.netskope.com/en/netskope-copilot/
 **Last Modified:** 2026-07-23T19:04:30+00:00
-**Scraped:** 2026-07-24T09:10:35.697599+00:00
+**Scraped:** 2026-07-25T08:50:33.187693+00:00
 
+Netskope Copilot - Netskope Knowledge Portal
 Netskope Copilot
 Copilot is an advanced AI-powered security assistant designed to enhance threat detection and risk mitigation capabilities within cloud environments. Copilot represents a paradigm shift in cloud security management, combining advanced artificial intelligence with security best practices to deliver timely, actionable security intelligence.
 This solution helps you to accelerate the identification of potential security vulnerabilities and streamline remediation processes across your cloud and on-premises applications and network infrastructure. Copilot provides enterprise-grade security insights, implementable security improvements tailored to your environment, accessible to technical personnel regardless of specialized security training.
@@ -263243,7 +263329,7 @@ Netskope Copilot
 ## DNS-as-a-Service (DNSaaS)
 **URL:** https://docs.netskope.com/en/dns-as-a-service-dnsaas/
 **Last Modified:** 2026-02-02T22:02:07+00:00
-**Scraped:** 2026-07-24T09:10:36.856070+00:00
+**Scraped:** 2026-07-25T08:50:34.343598+00:00
 
 DNS-as-a-Service (DNSaaS) - Netskope Knowledge Portal
 DNS-as-a-Service (DNSaaS)
@@ -263265,7 +263351,7 @@ DNS-as-a-Service (DNSaaS)
 ## Reverse Proxy as a Service
 **URL:** https://docs.netskope.com/en/reverse-proxy-as-a-service/
 **Last Modified:** 2026-07-09T14:14:29+00:00
-**Scraped:** 2026-07-24T09:10:38.047922+00:00
+**Scraped:** 2026-07-25T08:50:35.521972+00:00
 
 Reverse Proxy as a Service - Netskope Knowledge Portal
 Reverse Proxy as a Service
@@ -263493,7 +263579,7 @@ Reverse Proxy as a Service
 ## Reverse Proxy
 **URL:** https://docs.netskope.com/en/reverse-proxy/
 **Last Modified:** 2025-11-14T19:12:28+00:00
-**Scraped:** 2026-07-24T09:10:39.223928+00:00
+**Scraped:** 2026-07-25T08:50:36.774326+00:00
 
 Reverse Proxy - Netskope Knowledge Portal
 Reverse Proxy
@@ -263505,8 +263591,9 @@ Reverse Proxy
 ## AI/ML Usage and Governance in Netskope Products
 **URL:** https://docs.netskope.com/en/ai-ml-usage-and-governance-in-netskope-products/
 **Last Modified:** 2026-07-23T18:58:27+00:00
-**Scraped:** 2026-07-24T09:10:41.580329+00:00
+**Scraped:** 2026-07-25T08:50:39.115448+00:00
 
+AI/ML Usage and Governance in Netskope Products - Netskope Knowledge Portal
 AI/ML Usage and Governance in Netskope Products
 Several capabilities in the Netskope Platform are implemented via AI/ML models. Most of the models are internally developed by Netskope, proprietary to Netskope, and targeted to cybersecurity use cases.
 Netskope has an internal AI Governance Committee that sets internal policy, processes, and standards for the safe and ethical use of AI/ML within Netskope and in Netskope products. The Committee includes technical, privacy, and legal experts.
@@ -263563,7 +263650,7 @@ AI/ML Usage and Governance in Netskope Products
 ## Netskope Cloud Platform
 **URL:** https://docs.netskope.com/en/netskope-cloud/
 **Last Modified:** 2025-12-30T22:53:00+00:00
-**Scraped:** 2026-07-24T09:10:46.470809+00:00
+**Scraped:** 2026-07-25T08:50:43.827557+00:00
 
 Netskope Cloud Platform - Netskope Knowledge Portal
 Netskope Cloud Platform
@@ -263575,7 +263662,7 @@ Netskope Cloud Platform
 ## AI Security
 **URL:** https://docs.netskope.com/en/ai-security/
 **Last Modified:** 2026-07-09T16:59:32+00:00
-**Scraped:** 2026-07-24T09:10:47.644450+00:00
+**Scraped:** 2026-07-25T08:50:44.987429+00:00
 
 AI Security
 AI security refers to the protection of artificial intelligence (AI) systems from threats that target their integrity, confidentiality, and availability. As AI becomes more integrated into digital infrastructure, AI cyber security has emerged as a crucial field focused on defending both AI-powered technologies and systems against misuse or attack. To learn more:
@@ -263645,7 +263732,7 @@ AI Security
 ## AI Guardrails
 **URL:** https://docs.netskope.com/en/ai-guardrails/
 **Last Modified:** 2026-06-09T00:38:27+00:00
-**Scraped:** 2026-07-24T09:10:48.857937+00:00
+**Scraped:** 2026-07-25T08:50:46.148087+00:00
 
 AI Guardrails - Netskope Knowledge Portal
 AI Guardrails
@@ -263721,7 +263808,7 @@ AI Guardrails
 ## AI Gateway
 **URL:** https://docs.netskope.com/en/ai-gateway/
 **Last Modified:** 2026-06-11T18:50:36+00:00
-**Scraped:** 2026-07-24T09:10:50.035710+00:00
+**Scraped:** 2026-07-25T08:50:47.301983+00:00
 
 AI Gateway
 The Netskope
@@ -263756,7 +263843,7 @@ AI Gateway
 ## Agentic Broker
 **URL:** https://docs.netskope.com/en/agentic-broker/
 **Last Modified:** 2026-07-03T09:52:32+00:00
-**Scraped:** 2026-07-24T09:10:51.307959+00:00
+**Scraped:** 2026-07-25T08:50:48.455182+00:00
 
 Agentic Broker - Netskope Knowledge Portal
 Agentic Broker
@@ -263783,7 +263870,7 @@ Agentic Broker
 ## AI Command Center
 **URL:** https://docs.netskope.com/en/ai-command-center/
 **Last Modified:** 2026-07-09T16:19:11+00:00
-**Scraped:** 2026-07-24T09:10:54.865606+00:00
+**Scraped:** 2026-07-25T08:50:51.913337+00:00
 
 AI Command Center
 AI Command Center (AICC) is a Netskope capability that provides comprehensive visibility, governance, and risk management for AI usage across your organization.
@@ -263811,7 +263898,7 @@ AI Command Center
 ## Behavior Analytics
 **URL:** https://docs.netskope.com/en/behavior-analytics/
 **Last Modified:** 2026-05-04T15:00:18+00:00
-**Scraped:** 2026-07-24T09:10:57.204797+00:00
+**Scraped:** 2026-07-25T08:50:54.327503+00:00
 
 Behavior Analytics - Netskope Knowledge Portal
 Behavior Analytics
@@ -263839,7 +263926,7 @@ Behavior Analytics
 ## AI Red Teaming
 **URL:** https://docs.netskope.com/en/ai-red-teaming/
 **Last Modified:** 2026-07-14T20:25:25+00:00
-**Scraped:** 2026-07-24T09:10:58.385646+00:00
+**Scraped:** 2026-07-25T08:50:55.589212+00:00
 
 AI Red Teaming - Netskope Knowledge Portal
 AI Red Teaming
@@ -263943,7 +264030,7 @@ AI Red Teaming
 ## DataSec Command Center
 **URL:** https://docs.netskope.com/en/datasec-command-center/
 **Last Modified:** 2026-07-11T07:42:59+00:00
-**Scraped:** 2026-07-24T09:10:59.562218+00:00
+**Scraped:** 2026-07-25T08:50:56.760762+00:00
 
 DataSec Command Center - Netskope Knowledge Portal
 DataSec Command Center
@@ -264005,7 +264092,7 @@ DataSec Command Center
 ## Deepfake Detection
 **URL:** https://docs.netskope.com/en/deepfake-detection/
 **Last Modified:** 2026-07-21T21:47:44+00:00
-**Scraped:** 2026-07-24T09:11:00.827125+00:00
+**Scraped:** 2026-07-25T08:50:58.027261+00:00
 
 Deepfake Detection - Netskope Knowledge Portal
 Deepfake Detection
@@ -264031,8 +264118,9 @@ Deepfake Detection
 ## Agent Guardrails
 **URL:** https://docs.netskope.com/en/agent-guardrails/
 **Last Modified:** 2026-07-09T23:42:54+00:00
-**Scraped:** 2026-07-24T09:11:02.008448+00:00
+**Scraped:** 2026-07-25T08:50:59.182374+00:00
 
+Agent Guardrails - Netskope Knowledge Portal
 Agent Guardrails
 AI agents require broad access to perform complex tasks autonomously, often without human intervention. However, they can also execute high-impact actions—such as bulk-deleting emails, pushing code, modifying inbox rules, or cloning repositories—which can lead to unintended consequences.
 Agent Guardrails gives admins real-time control over these actions through intent-, risk-, and access-based policies. These guardrails apply directly to agent traffic with zero impact on normal user activity.
@@ -264044,7 +264132,7 @@ Agent Guardrails
 ## AI Agents
 **URL:** https://docs.netskope.com/en/ai-agents/
 **Last Modified:** 2026-07-23T19:15:58+00:00
-**Scraped:** 2026-07-24T09:11:03.184572+00:00
+**Scraped:** 2026-07-25T08:51:00.364296+00:00
 
 AI Agents - Netskope Knowledge Portal
 AI Agents
@@ -264059,7 +264147,7 @@ AI Agents
 ## On-Premises Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-93-0-0/
 **Last Modified:** 2025-08-31T02:08:32+00:00
-**Scraped:** 2026-07-24T09:11:04.363672+00:00
+**Scraped:** 2026-07-25T08:51:01.532371+00:00
 
 On-Premises Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.0.0
@@ -264129,7 +264217,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-77-5-0/
 **Last Modified:** 2025-08-31T02:08:44+00:00
-**Scraped:** 2026-07-24T09:11:05.553179+00:00
+**Scraped:** 2026-07-25T08:51:02.712593+00:00
 
 On-Premises Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.5.0
@@ -264177,7 +264265,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-93-1-0/
 **Last Modified:** 2025-08-31T02:08:26+00:00
-**Scraped:** 2026-07-24T09:11:06.732378+00:00
+**Scraped:** 2026-07-25T08:51:03.872575+00:00
 
 On-Premises Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.1.0
@@ -264242,7 +264330,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:08:07+00:00
-**Scraped:** 2026-07-24T09:11:07.922418+00:00
+**Scraped:** 2026-07-25T08:51:05.044640+00:00
 
 On-Premises Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 103.0.0.338
@@ -264388,7 +264476,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-77-6-0/
 **Last Modified:** 2025-08-31T02:08:38+00:00
-**Scraped:** 2026-07-24T09:11:09.202690+00:00
+**Scraped:** 2026-07-25T08:51:06.307446+00:00
 
 On-Premises Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.6.0
@@ -264466,7 +264554,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-99-0-0/
 **Last Modified:** 2025-08-31T02:08:16+00:00
-**Scraped:** 2026-07-24T09:11:10.479305+00:00
+**Scraped:** 2026-07-25T08:51:07.472026+00:00
 
 On-Premises Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 99.0.0
@@ -264539,7 +264627,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-96-0-0/
 **Last Modified:** 2025-08-31T02:08:21+00:00
-**Scraped:** 2026-07-24T09:11:11.659522+00:00
+**Scraped:** 2026-07-25T08:51:08.631615+00:00
 
 On-Premises Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 96.0.0
@@ -264604,7 +264692,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-77-5-0/
 **Last Modified:** 2025-08-31T02:07:31+00:00
-**Scraped:** 2026-07-24T09:11:12.840282+00:00
+**Scraped:** 2026-07-25T08:51:09.801140+00:00
 
 Virtual Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.5.0
@@ -264661,7 +264749,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:06:51+00:00
-**Scraped:** 2026-07-24T09:11:14.035005+00:00
+**Scraped:** 2026-07-25T08:51:11.078946+00:00
 
 Virtual Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 103.0.0.338
@@ -264873,7 +264961,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-77-6-0/
 **Last Modified:** 2025-08-31T02:07:24+00:00
-**Scraped:** 2026-07-24T09:11:15.223172+00:00
+**Scraped:** 2026-07-25T08:51:12.241916+00:00
 
 Virtual Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.6.0
@@ -264929,7 +265017,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-93-0-0/
 **Last Modified:** 2025-08-31T02:07:18+00:00
-**Scraped:** 2026-07-24T09:11:16.402476+00:00
+**Scraped:** 2026-07-25T08:51:13.501444+00:00
 
 Virtual Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.0.0
@@ -265011,7 +265099,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-96-0-0/
 **Last Modified:** 2025-08-31T02:07:05+00:00
-**Scraped:** 2026-07-24T09:11:17.587409+00:00
+**Scraped:** 2026-07-25T08:51:14.664104+00:00
 
 Virtual Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 96.0.0
@@ -265087,7 +265175,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-99-0-0/
 **Last Modified:** 2025-08-31T02:06:58+00:00
-**Scraped:** 2026-07-24T09:11:18.770219+00:00
+**Scraped:** 2026-07-25T08:51:15.827003+00:00
 
 Virtual Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 99.0.0
@@ -265168,7 +265256,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-93-1-0/
 **Last Modified:** 2025-08-31T02:07:11+00:00
-**Scraped:** 2026-07-24T09:11:19.949408+00:00
+**Scraped:** 2026-07-25T08:51:16.990532+00:00
 
 Virtual Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.1.0
@@ -265245,7 +265333,7 @@ Known Issues
 ## Netskope IoT Security Release Notes in 2022
 **URL:** https://docs.netskope.com/en/fixed-issues-in-2022/
 **Last Modified:** 2025-08-31T02:05:19+00:00
-**Scraped:** 2026-07-24T09:11:21.119781+00:00
+**Scraped:** 2026-07-25T08:51:18.145785+00:00
 
 Netskope IoT Security Release Notes in 2022 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in 2022
@@ -265261,7 +265349,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.02
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-23-02/
 **Last Modified:** 2025-08-31T02:05:15+00:00
-**Scraped:** 2026-07-24T09:12:17.367082+00:00
+**Scraped:** 2026-07-25T08:52:13.238857+00:00
 
 Netskope IoT Security Release Notes in Version 23.02 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.02
@@ -265277,7 +265365,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.01
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-23-01/
 **Last Modified:** 2025-08-31T02:05:17+00:00
-**Scraped:** 2026-07-24T09:12:19.713593+00:00
+**Scraped:** 2026-07-25T08:52:15.552323+00:00
 
 Netskope IoT Security Release Notes in Version 23.01 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.01
@@ -265293,7 +265381,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.03
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-23-03/
 **Last Modified:** 2025-08-31T02:05:09+00:00
-**Scraped:** 2026-07-24T09:12:20.996210+00:00
+**Scraped:** 2026-07-25T08:52:16.706885+00:00
 
 Netskope IoT Security Release Notes in Version 23.03 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.03
@@ -265309,7 +265397,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.3.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-3-3-0/
 **Last Modified:** 2025-08-31T02:04:09+00:00
-**Scraped:** 2026-07-24T09:12:22.166956+00:00
+**Scraped:** 2026-07-25T08:52:17.866457+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.3.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.0
@@ -265322,7 +265410,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.1.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-3-1-5/
 **Last Modified:** 2025-08-31T02:04:16+00:00
-**Scraped:** 2026-07-24T09:12:23.339439+00:00
+**Scraped:** 2026-07-25T08:52:19.022360+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.1.5 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.5
@@ -265334,7 +265422,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.2.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-3-2-0/
 **Last Modified:** 2025-08-31T02:04:12+00:00
-**Scraped:** 2026-07-24T09:12:24.512015+00:00
+**Scraped:** 2026-07-25T08:52:20.177568+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.2.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.2.0
@@ -265346,7 +265434,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.05
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-23-05/
 **Last Modified:** 2025-08-31T02:04:59+00:00
-**Scraped:** 2026-07-24T09:12:25.682320+00:00
+**Scraped:** 2026-07-25T08:52:21.334386+00:00
 
 Netskope IoT Security Release Notes in Version 23.05 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.05
@@ -265362,7 +265450,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.3.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-3-3-1/
 **Last Modified:** 2025-08-31T02:04:07+00:00
-**Scraped:** 2026-07-24T09:12:26.948947+00:00
+**Scraped:** 2026-07-25T08:52:22.499204+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.3.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.1
@@ -265375,7 +265463,7 @@ Fixed Issues
 ## Netskope Golden Client Release Notes Version 90.2.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-version-90-2-0/
 **Last Modified:** 2025-08-31T02:01:44+00:00
-**Scraped:** 2026-07-24T09:12:28.119957+00:00
+**Scraped:** 2026-07-25T08:52:23.653747+00:00
 
 Netskope Golden Client Release Notes Version 90.2.0 - Netskope Knowledge Portal
 Netskope Golden Client Release Notes Version 90.2.0
@@ -265390,7 +265478,7 @@ Fixed Issues
 ## On-Premises Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:08:06+00:00
-**Scraped:** 2026-07-24T09:12:29.309646+00:00
+**Scraped:** 2026-07-25T08:52:24.825907+00:00
 
 On-Premises Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 103.0.0.338
@@ -265536,7 +265624,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-77-5-0/
 **Last Modified:** 2025-08-31T02:08:43+00:00
-**Scraped:** 2026-07-24T09:12:30.801277+00:00
+**Scraped:** 2026-07-25T08:52:25.985745+00:00
 
 On-Premises Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.5.0
@@ -265584,7 +265672,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-93-0-0/
 **Last Modified:** 2025-08-31T02:08:31+00:00
-**Scraped:** 2026-07-24T09:12:31.980546+00:00
+**Scraped:** 2026-07-25T08:52:27.148908+00:00
 
 On-Premises Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.0.0
@@ -265654,7 +265742,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-93-1-0/
 **Last Modified:** 2025-08-31T02:08:25+00:00
-**Scraped:** 2026-07-24T09:12:33.157750+00:00
+**Scraped:** 2026-07-25T08:52:28.312799+00:00
 
 On-Premises Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.1.0
@@ -265719,7 +265807,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-77-6-0/
 **Last Modified:** 2025-08-31T02:08:37+00:00
-**Scraped:** 2026-07-24T09:12:34.341136+00:00
+**Scraped:** 2026-07-25T08:52:29.669004+00:00
 
 On-Premises Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.6.0
@@ -265797,7 +265885,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-96-0-0/
 **Last Modified:** 2025-08-31T02:08:20+00:00
-**Scraped:** 2026-07-24T09:12:35.519389+00:00
+**Scraped:** 2026-07-25T08:52:30.830041+00:00
 
 On-Premises Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 96.0.0
@@ -265862,7 +265950,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-77-5-0/
 **Last Modified:** 2025-08-31T02:07:30+00:00
-**Scraped:** 2026-07-24T09:12:36.721445+00:00
+**Scraped:** 2026-07-25T08:52:31.991868+00:00
 
 Virtual Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.5.0
@@ -265919,7 +266007,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-77-6-0/
 **Last Modified:** 2025-08-31T02:07:23+00:00
-**Scraped:** 2026-07-24T09:12:37.898844+00:00
+**Scraped:** 2026-07-25T08:52:33.152306+00:00
 
 Virtual Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.6.0
@@ -265975,7 +266063,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:06:50+00:00
-**Scraped:** 2026-07-24T09:12:39.196142+00:00
+**Scraped:** 2026-07-25T08:52:34.329929+00:00
 
 Virtual Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 103.0.0.338
@@ -266187,7 +266275,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-93-0-0/
 **Last Modified:** 2025-08-31T02:07:17+00:00
-**Scraped:** 2026-07-24T09:12:40.374936+00:00
+**Scraped:** 2026-07-25T08:52:35.492126+00:00
 
 Virtual Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.0.0
@@ -266269,7 +266357,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-99-0-0/
 **Last Modified:** 2025-08-31T02:08:15+00:00
-**Scraped:** 2026-07-24T09:12:41.554105+00:00
+**Scraped:** 2026-07-25T08:52:36.656805+00:00
 
 On-Premises Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 99.0.0
@@ -266342,7 +266430,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-93-1-0/
 **Last Modified:** 2025-08-31T02:07:10+00:00
-**Scraped:** 2026-07-24T09:12:42.734763+00:00
+**Scraped:** 2026-07-25T08:52:37.819832+00:00
 
 Virtual Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.1.0
@@ -266419,7 +266507,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-96-0-0/
 **Last Modified:** 2025-08-31T02:07:04+00:00
-**Scraped:** 2026-07-24T09:12:43.913745+00:00
+**Scraped:** 2026-07-25T08:52:38.981488+00:00
 
 Virtual Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 96.0.0
@@ -266495,7 +266583,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-99-0-0/
 **Last Modified:** 2025-08-31T02:06:57+00:00
-**Scraped:** 2026-07-24T09:12:46.294657+00:00
+**Scraped:** 2026-07-25T08:52:41.403716+00:00
 
 Virtual Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 99.0.0
@@ -266576,7 +266664,7 @@ Known Issues
 ## Netskope Library Dashboard Updates April 12, 2023
 **URL:** https://docs.netskope.com/en/netskope-library-dashboard-updates-april-12-2023/
 **Last Modified:** 2025-08-31T02:03:55+00:00
-**Scraped:** 2026-07-24T09:13:51.994777+00:00
+**Scraped:** 2026-07-25T08:53:46.677998+00:00
 
 Netskope Library Dashboard Updates April 12, 2023 - Netskope Knowledge Portal
 Netskope Library Dashboard Updates April 12, 2023
@@ -266612,7 +266700,7 @@ These changes will be applied automatically after the update for dashboards sche
 ## New Features And Enhancements for March 3, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-march-3-2023/
 **Last Modified:** 2025-08-31T02:03:56+00:00
-**Scraped:** 2026-07-24T09:14:54.152128+00:00
+**Scraped:** 2026-07-25T08:54:48.137513+00:00
 
 New Features And Enhancements for March 3, 2023 - Netskope Knowledge Portal
 New Features And Enhancements for March 3, 2023
@@ -266641,7 +266729,7 @@ Adding Bin custom fields
 ## New Features and Enhancements April 20, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-20-2023/
 **Last Modified:** 2025-08-31T02:03:54+00:00
-**Scraped:** 2026-07-24T09:14:55.320837+00:00
+**Scraped:** 2026-07-25T08:54:49.291712+00:00
 
 New Features and Enhancements April 20, 2023 - Netskope Knowledge Portal
 New Features and Enhancements April 20, 2023
@@ -266655,7 +266743,7 @@ Fixed an issue under the Page Events data collection when the ‘Serial’ field
 ## On-Premises Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:08:04+00:00
-**Scraped:** 2026-07-24T09:14:56.515644+00:00
+**Scraped:** 2026-07-25T08:54:50.559727+00:00
 
 On-Premises Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 103.0.0.338
@@ -266801,7 +266889,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-77-5-0/
 **Last Modified:** 2025-08-31T02:08:41+00:00
-**Scraped:** 2026-07-24T09:14:57.698904+00:00
+**Scraped:** 2026-07-25T08:54:51.722494+00:00
 
 On-Premises Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.5.0
@@ -266849,7 +266937,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-77-6-0/
 **Last Modified:** 2025-08-31T02:08:35+00:00
-**Scraped:** 2026-07-24T09:14:58.979610+00:00
+**Scraped:** 2026-07-25T08:54:52.886727+00:00
 
 On-Premises Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 77.6.0
@@ -266927,7 +267015,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-93-0-0/
 **Last Modified:** 2025-08-31T02:08:29+00:00
-**Scraped:** 2026-07-24T09:15:00.169037+00:00
+**Scraped:** 2026-07-25T08:54:54.049070+00:00
 
 On-Premises Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.0.0
@@ -266997,7 +267085,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-93-1-0/
 **Last Modified:** 2025-08-31T02:08:24+00:00
-**Scraped:** 2026-07-24T09:15:01.457337+00:00
+**Scraped:** 2026-07-25T08:54:55.306897+00:00
 
 On-Premises Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 93.1.0
@@ -267062,7 +267150,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-99-0-0/
 **Last Modified:** 2025-08-31T02:08:13+00:00
-**Scraped:** 2026-07-24T09:15:02.679064+00:00
+**Scraped:** 2026-07-25T08:54:56.468921+00:00
 
 On-Premises Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 99.0.0
@@ -267135,7 +267223,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-96-0-0/
 **Last Modified:** 2025-08-31T02:08:18+00:00
-**Scraped:** 2026-07-24T09:15:03.855306+00:00
+**Scraped:** 2026-07-25T08:54:57.629033+00:00
 
 On-Premises Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 96.0.0
@@ -267200,7 +267288,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 93.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-93-0-0/
 **Last Modified:** 2025-08-31T02:07:15+00:00
-**Scraped:** 2026-07-24T09:15:05.046069+00:00
+**Scraped:** 2026-07-25T08:54:58.793267+00:00
 
 Virtual Appliance Release Notes Version 93.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.0.0
@@ -267282,7 +267370,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 77.5.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-77-5-0/
 **Last Modified:** 2025-08-31T02:07:28+00:00
-**Scraped:** 2026-07-24T09:15:06.221097+00:00
+**Scraped:** 2026-07-25T08:55:00.052881+00:00
 
 Virtual Appliance Release Notes Version 77.5.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.5.0
@@ -267339,7 +267427,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 77.6.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-77-6-0/
 **Last Modified:** 2025-08-31T02:07:22+00:00
-**Scraped:** 2026-07-24T09:15:07.411824+00:00
+**Scraped:** 2026-07-25T08:55:01.220774+00:00
 
 Virtual Appliance Release Notes Version 77.6.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 77.6.0
@@ -267395,7 +267483,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 103.0.0.338
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-103-0-0-338/
 **Last Modified:** 2025-08-31T02:06:49+00:00
-**Scraped:** 2026-07-24T09:15:08.711382+00:00
+**Scraped:** 2026-07-25T08:55:02.424828+00:00
 
 Virtual Appliance Release Notes Version 103.0.0.338 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 103.0.0.338
@@ -267607,7 +267695,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 93.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-93-1-0/
 **Last Modified:** 2025-08-31T02:07:09+00:00
-**Scraped:** 2026-07-24T09:15:09.888858+00:00
+**Scraped:** 2026-07-25T08:55:03.585965+00:00
 
 Virtual Appliance Release Notes Version 93.1.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 93.1.0
@@ -267684,7 +267772,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 99.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-99-0-0/
 **Last Modified:** 2025-08-31T02:06:56+00:00
-**Scraped:** 2026-07-24T09:15:11.170596+00:00
+**Scraped:** 2026-07-25T08:55:04.750417+00:00
 
 Virtual Appliance Release Notes Version 99.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 99.0.0
@@ -267765,7 +267853,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 96.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-96-0-0/
 **Last Modified:** 2025-08-31T02:07:02+00:00
-**Scraped:** 2026-07-24T09:15:12.351787+00:00
+**Scraped:** 2026-07-25T08:55:05.912114+00:00
 
 Virtual Appliance Release Notes Version 96.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 96.0.0
@@ -267841,7 +267929,7 @@ Known Issues
 ## Netskope IoT Security Release Notes in 2022
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-2022/
 **Last Modified:** 2025-08-31T02:05:19+00:00
-**Scraped:** 2026-07-24T09:15:15.962133+00:00
+**Scraped:** 2026-07-25T08:55:09.379057+00:00
 
 Netskope IoT Security Release Notes in 2022 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in 2022
@@ -267857,7 +267945,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.01
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-01/
 **Last Modified:** 2025-08-31T02:05:16+00:00
-**Scraped:** 2026-07-24T09:15:58.809542+00:00
+**Scraped:** 2026-07-25T08:55:51.696770+00:00
 
 Netskope IoT Security Release Notes in Version 23.01 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.01
@@ -267873,7 +267961,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 2.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-2-0-0/
 **Last Modified:** 2025-08-31T02:04:23+00:00
-**Scraped:** 2026-07-24T09:16:03.631682+00:00
+**Scraped:** 2026-07-25T08:55:56.324810+00:00
 
 Netskope Cloud Exchange Release Notes Version 2.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 2.0.0
@@ -267884,7 +267972,7 @@ What's New
 ## Netskope IoT Security Release Notes in Version 23.04
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-04/
 **Last Modified:** 2025-08-31T02:05:02+00:00
-**Scraped:** 2026-07-24T09:16:04.799729+00:00
+**Scraped:** 2026-07-25T08:55:57.479203+00:00
 
 Netskope IoT Security Release Notes in Version 23.04 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.04
@@ -267899,7 +267987,7 @@ What's New
 ## Netskope IoT Security Release Notes in Version 23.03
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-03/
 **Last Modified:** 2025-08-31T02:05:08+00:00
-**Scraped:** 2026-07-24T09:16:05.971568+00:00
+**Scraped:** 2026-07-25T08:55:58.735422+00:00
 
 Netskope IoT Security Release Notes in Version 23.03 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.03
@@ -267915,7 +268003,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.02
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-02/
 **Last Modified:** 2025-08-31T02:05:14+00:00
-**Scraped:** 2026-07-24T09:16:07.140454+00:00
+**Scraped:** 2026-07-25T08:55:59.891490+00:00
 
 Netskope IoT Security Release Notes in Version 23.02 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.02
@@ -267931,7 +268019,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.06
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-06/
 **Last Modified:** 2025-08-31T02:04:57+00:00
-**Scraped:** 2026-07-24T09:16:08.411811+00:00
+**Scraped:** 2026-07-25T08:56:01.047097+00:00
 
 Netskope IoT Security Release Notes in Version 23.06 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.06
@@ -267946,7 +268034,7 @@ What's New
 ## Netskope IoT Security Release Notes in Version 23.05
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-05/
 **Last Modified:** 2025-08-31T02:04:58+00:00
-**Scraped:** 2026-07-24T09:16:09.582213+00:00
+**Scraped:** 2026-07-25T08:56:02.227462+00:00
 
 Netskope IoT Security Release Notes in Version 23.05 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.05
@@ -267962,7 +268050,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.1.2
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-1-2/
 **Last Modified:** 2025-08-31T02:04:14+00:00
-**Scraped:** 2026-07-24T09:16:10.756925+00:00
+**Scraped:** 2026-07-25T08:56:03.384384+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.1.2 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.2
@@ -267973,7 +268061,7 @@ What's New
 ## Netskope Cloud Exchange Release Notes Version 3.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-0-0/
 **Last Modified:** 2025-08-31T02:04:21+00:00
-**Scraped:** 2026-07-24T09:16:11.926480+00:00
+**Scraped:** 2026-07-25T08:56:04.540651+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.0.0
@@ -267984,7 +268072,7 @@ What's New
 ## Netskope Cloud Exchange Release Notes Version 3.1.5
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-1-5/
 **Last Modified:** 2025-08-31T02:04:15+00:00
-**Scraped:** 2026-07-24T09:16:13.097701+00:00
+**Scraped:** 2026-07-25T08:56:05.793764+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.1.5 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.5
@@ -267996,7 +268084,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-1-0/
 **Last Modified:** 2025-08-31T02:04:19+00:00
-**Scraped:** 2026-07-24T09:16:14.267091+00:00
+**Scraped:** 2026-07-25T08:56:06.947219+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.0
@@ -268007,7 +268095,7 @@ What's New
 ## Netskope Cloud Exchange Release Notes Version 3.1.3
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-1-3/
 **Last Modified:** 2025-08-31T02:04:18+00:00
-**Scraped:** 2026-07-24T09:16:15.437458+00:00
+**Scraped:** 2026-07-25T08:56:08.102843+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.1.3 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.1.3
@@ -268018,7 +268106,7 @@ What's New
 ## Netskope Cloud Exchange Release Notes Version 3.2.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-2-0/
 **Last Modified:** 2025-08-31T02:04:11+00:00
-**Scraped:** 2026-07-24T09:16:16.606350+00:00
+**Scraped:** 2026-07-25T08:56:09.256693+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.2.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.2.0
@@ -268030,7 +268118,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.3.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-3-1/
 **Last Modified:** 2025-08-31T02:04:06+00:00
-**Scraped:** 2026-07-24T09:16:17.777190+00:00
+**Scraped:** 2026-07-25T08:56:10.412953+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.3.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.1
@@ -268043,7 +268131,7 @@ Fixed Issues
 ## Netskope Cloud Exchange Release Notes Version 3.3.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-3-3-0/
 **Last Modified:** 2025-08-31T02:04:08+00:00
-**Scraped:** 2026-07-24T09:16:18.949288+00:00
+**Scraped:** 2026-07-25T08:56:11.566836+00:00
 
 Netskope Cloud Exchange Release Notes Version 3.3.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 3.3.0
@@ -268056,7 +268144,7 @@ Fixed Issues
 ## New Features and Enhancements June 15, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-15-2023/
 **Last Modified:** 2025-08-31T02:03:52+00:00
-**Scraped:** 2026-07-24T09:16:20.120505+00:00
+**Scraped:** 2026-07-25T08:56:12.726174+00:00
 
 New Features and Enhancements June 15, 2023 - Netskope Knowledge Portal
 New Features and Enhancements June 15, 2023
@@ -268081,7 +268169,7 @@ Top 10 Applications by # Sessions
 ## New Features and Enhancements June 30, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-30-2023/
 **Last Modified:** 2025-08-31T02:03:51+00:00
-**Scraped:** 2026-07-24T09:16:21.292719+00:00
+**Scraped:** 2026-07-25T08:56:13.884299+00:00
 
 New Features and Enhancements June 30, 2023 - Netskope Knowledge Portal
 New Features and Enhancements June 30, 2023
@@ -268117,7 +268205,7 @@ Save the widget.
 ## New Features and Enhancements May 18, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-may-18-2023/
 **Last Modified:** 2025-08-31T02:03:53+00:00
-**Scraped:** 2026-07-24T09:16:22.464692+00:00
+**Scraped:** 2026-07-25T08:56:15.040272+00:00
 
 New Features and Enhancements May 18, 2023 - Netskope Knowledge Portal
 New Features and Enhancements May 18, 2023
@@ -268139,7 +268227,7 @@ Netskope Library widgets now have tags; this can be used to help search and filt
 ## New Features and Enhancements March 30, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-march-30-2023/
 **Last Modified:** 2025-08-31T02:03:57+00:00
-**Scraped:** 2026-07-24T09:16:23.634850+00:00
+**Scraped:** 2026-07-25T08:56:16.194791+00:00
 
 New Features and Enhancements March 30, 2023 - Netskope Knowledge Portal
 New Features and Enhancements March 30, 2023
@@ -268168,7 +268256,7 @@ Remove this field from any saved dashboards / widgets or you will get an error.
 ## New Features and Enhancements July 13, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-july-13-2023/
 **Last Modified:** 2025-08-31T02:03:56+00:00
-**Scraped:** 2026-07-24T09:16:44.190435+00:00
+**Scraped:** 2026-07-25T08:56:36.454830+00:00
 
 New Features and Enhancements July 13, 2023 - Netskope Knowledge Portal
 New Features and Enhancements July 13, 2023
@@ -268194,7 +268282,7 @@ Malware in Managed Apps Details
 ## Netskope IoT Security Release Notes in Version 23.07
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-07/
 **Last Modified:** 2025-08-31T02:05:11+00:00
-**Scraped:** 2026-07-24T09:16:52.779961+00:00
+**Scraped:** 2026-07-25T08:56:44.558054+00:00
 
 Netskope IoT Security Release Notes in Version 23.07 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.07
@@ -268210,7 +268298,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.07
 **URL:** https://docs.netskope.com/en/fixed-issues-in-23-07/
 **Last Modified:** 2025-08-31T02:05:12+00:00
-**Scraped:** 2026-07-24T09:16:53.948098+00:00
+**Scraped:** 2026-07-25T08:56:45.712249+00:00
 
 Netskope IoT Security Release Notes in Version 23.07 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.07
@@ -268226,7 +268314,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:06:41+00:00
-**Scraped:** 2026-07-24T09:16:57.679138+00:00
+**Scraped:** 2026-07-25T08:56:49.284307+00:00
 
 Virtual Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 106.0.0.379
@@ -268327,7 +268415,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:07:57+00:00
-**Scraped:** 2026-07-24T09:16:58.875032+00:00
+**Scraped:** 2026-07-25T08:56:50.452809+00:00
 
 On-Premises Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 106.0.0.379
@@ -268431,7 +268519,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:06:42+00:00
-**Scraped:** 2026-07-24T09:17:00.095849+00:00
+**Scraped:** 2026-07-25T08:56:51.615874+00:00
 
 Virtual Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 106.0.0.379
@@ -268532,7 +268620,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:07:58+00:00
-**Scraped:** 2026-07-24T09:17:01.290267+00:00
+**Scraped:** 2026-07-25T08:56:52.780462+00:00
 
 On-Premises Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 106.0.0.379
@@ -268636,7 +268724,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:06:43+00:00
-**Scraped:** 2026-07-24T09:17:02.481792+00:00
+**Scraped:** 2026-07-25T08:56:53.946029+00:00
 
 Virtual Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 106.0.0.379
@@ -268737,7 +268825,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 106.0.0.379
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-106-0-0-379/
 **Last Modified:** 2025-08-31T02:07:59+00:00
-**Scraped:** 2026-07-24T09:17:03.760981+00:00
+**Scraped:** 2026-07-25T08:56:55.115553+00:00
 
 On-Premises Appliance Release Notes Version 106.0.0.379 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 106.0.0.379
@@ -268841,7 +268929,7 @@ Known Issues
 ## Netskope IoT Security Release Notes in Version 23.08
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-08/
 **Last Modified:** 2025-08-31T02:05:05+00:00
-**Scraped:** 2026-07-24T09:17:16.799697+00:00
+**Scraped:** 2026-07-25T08:57:08.052553+00:00
 
 Netskope IoT Security Release Notes in Version 23.08 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.08
@@ -268857,7 +268945,7 @@ Fixed Issues
 ## Netskope IoT Security Release Notes in Version 23.08
 **URL:** https://docs.netskope.com/en/fixed-issues-in-23-08/
 **Last Modified:** 2025-08-31T02:05:06+00:00
-**Scraped:** 2026-07-24T09:17:18.074537+00:00
+**Scraped:** 2026-07-25T08:57:09.206258+00:00
 
 Netskope IoT Security Release Notes in Version 23.08 - Netskope Knowledge Portal
 Netskope IoT Security Release Notes in Version 23.08
@@ -268873,7 +268961,7 @@ Fixed Issues
 ## New Features and Enhancements September 7, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-september-7-2023/
 **Last Modified:** 2025-08-31T02:03:54+00:00
-**Scraped:** 2026-07-24T09:17:23.964613+00:00
+**Scraped:** 2026-07-25T08:57:14.983550+00:00
 
 New Features and Enhancements September 7, 2023 - Netskope Knowledge Portal
 New Features and Enhancements September 7, 2023
@@ -268892,7 +268980,7 @@ The DLP Incidents – Resolution Time widget’s unit custom calculation is modi
 ## Netskope Device Intelligence Release Notes in Version 23.09
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-09/
 **Last Modified:** 2025-08-31T02:04:55+00:00
-**Scraped:** 2026-07-24T09:17:28.652848+00:00
+**Scraped:** 2026-07-25T08:57:19.605712+00:00
 
 Netskope Device Intelligence Release Notes in Version 23.09 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.09
@@ -268907,7 +268995,7 @@ What's New
 ## New Features and Enhancements October 18, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-october-18-2023/
 **Last Modified:** 2025-08-31T02:03:53+00:00
-**Scraped:** 2026-07-24T09:17:52.591065+00:00
+**Scraped:** 2026-07-25T08:57:43.206969+00:00
 
 New Features and Enhancements October 18, 2023 - Netskope Knowledge Portal
 New Features and Enhancements October 18, 2023
@@ -268931,7 +269019,7 @@ in the Netskope Library. This widget is now created with pivot ranked applicatio
 ## Netskope Device Intelligence Release Notes in Version 23.10
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-10/
 **Last Modified:** 2025-08-31T02:04:53+00:00
-**Scraped:** 2026-07-24T09:17:57.388184+00:00
+**Scraped:** 2026-07-25T08:57:47.888241+00:00
 
 Netskope Device Intelligence Release Notes in Version 23.10 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.10
@@ -268946,7 +269034,7 @@ What's New
 ## New Features and Enhancements November 2, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-november-2-2023/
 **Last Modified:** 2025-08-31T02:03:52+00:00
-**Scraped:** 2026-07-24T09:18:01.024195+00:00
+**Scraped:** 2026-07-25T08:57:51.410907+00:00
 
 New Features and Enhancements November 2, 2023 - Netskope Knowledge Portal
 New Features and Enhancements November 2, 2023
@@ -268987,7 +269075,7 @@ Collection: Application Events
 ## Netskope Device Intelligence Release Notes in Version 23.11
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-11/
 **Last Modified:** 2025-08-31T02:04:50+00:00
-**Scraped:** 2026-07-24T09:18:13.062344+00:00
+**Scraped:** 2026-07-25T08:58:03.264364+00:00
 
 Netskope Device Intelligence Release Notes in Version 23.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.11
@@ -269003,7 +269091,7 @@ Fixed Issues
 ## Netskope Device Intelligence Release Notes in Version 23.11
 **URL:** https://docs.netskope.com/en/fixed-issues-in-23-11/
 **Last Modified:** 2025-08-31T02:04:51+00:00
-**Scraped:** 2026-07-24T09:18:14.237518+00:00
+**Scraped:** 2026-07-25T08:58:04.420868+00:00
 
 Netskope Device Intelligence Release Notes in Version 23.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.11
@@ -269019,7 +269107,7 @@ Fixed Issues
 ## On-Premises Appliance Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-110-0-0/
 **Last Modified:** 2025-08-31T02:07:51+00:00
-**Scraped:** 2026-07-24T09:18:17.777302+00:00
+**Scraped:** 2026-07-25T08:58:07.927425+00:00
 
 On-Premises Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 110.0.0
@@ -269104,7 +269192,7 @@ Fixed Issues
 ## On-Premises Appliance Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-110-0-0/
 **Last Modified:** 2025-08-31T02:07:53+00:00
-**Scraped:** 2026-07-24T09:18:18.962644+00:00
+**Scraped:** 2026-07-25T08:58:09.110235+00:00
 
 On-Premises Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 110.0.0
@@ -269189,7 +269277,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-110-0-0/
 **Last Modified:** 2025-08-31T02:06:34+00:00
-**Scraped:** 2026-07-24T09:18:20.147746+00:00
+**Scraped:** 2026-07-25T08:58:10.276534+00:00
 
 Virtual Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 110.0.0
@@ -269282,7 +269370,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 110.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-110-0-0/
 **Last Modified:** 2025-08-31T02:06:35+00:00
-**Scraped:** 2026-07-24T09:18:21.326231+00:00
+**Scraped:** 2026-07-25T08:58:11.535315+00:00
 
 Virtual Appliance Release Notes Version 110.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 110.0.0
@@ -269375,7 +269463,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 111.0.0.8350
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher/
 **Last Modified:** 2025-08-31T02:02:38+00:00
-**Scraped:** 2026-07-24T09:18:24.939618+00:00
+**Scraped:** 2026-07-25T08:58:15.099154+00:00
 
 Netskope Private Access Publisher Release Notes Version 111.0.0.8350 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 111.0.0.8350
@@ -269391,7 +269479,7 @@ Fixed Issues
 ## New Features and Enhancements December 14, 2023
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-december-14-2023/
 **Last Modified:** 2025-08-31T02:03:50+00:00
-**Scraped:** 2026-07-24T09:18:28.455156+00:00
+**Scraped:** 2026-07-25T08:58:18.711196+00:00
 
 New Features and Enhancements December 14, 2023 - Netskope Knowledge Portal
 New Features and Enhancements December 14, 2023
@@ -269405,7 +269493,7 @@ Fixed an issue where an error message was generated for the widget ‘Top 10 Ca
 ## Netskope Release Notes Hotfix Version 111.0.8
 **URL:** https://docs.netskope.com/en/fixed-issues/
 **Last Modified:** 2025-08-31T01:59:00+00:00
-**Scraped:** 2026-07-24T09:18:30.797096+00:00
+**Scraped:** 2026-07-25T08:58:21.032007+00:00
 
 Netskope Release Notes Hotfix Version 111.0.8 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 111.0.8
@@ -269428,7 +269516,7 @@ Fixed Issues
 ## Netskope Device Intelligence Release Notes in Version 23.12
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-23-12/
 **Last Modified:** 2025-08-31T02:04:49+00:00
-**Scraped:** 2026-07-24T09:18:34.563615+00:00
+**Scraped:** 2026-07-25T08:58:24.637055+00:00
 
 Netskope Device Intelligence Release Notes in Version 23.12 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 23.12
@@ -269443,7 +269531,7 @@ What's New
 ## New Features and Enhancements January 12, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-january-12-2024/
 **Last Modified:** 2025-08-31T02:03:50+00:00
-**Scraped:** 2026-07-24T09:18:40.538658+00:00
+**Scraped:** 2026-07-25T08:58:30.611339+00:00
 
 New Features and Enhancements January 12, 2024 - Netskope Knowledge Portal
 New Features and Enhancements January 12, 2024
@@ -269471,7 +269559,7 @@ DLP Incidents Monitoring Dashboard
 ## Netskope Device Intelligence Release Notes in Version 24.01
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-01/
 **Last Modified:** 2025-08-31T02:04:47+00:00
-**Scraped:** 2026-07-24T09:18:42.883308+00:00
+**Scraped:** 2026-07-25T08:58:33.220592+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.01 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.01
@@ -269486,7 +269574,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 112.0.0.8440
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-112-0-0-8440/
 **Last Modified:** 2025-09-01T16:26:48+00:00
-**Scraped:** 2026-07-24T09:18:49.933879+00:00
+**Scraped:** 2026-07-25T08:58:41.126659+00:00
 
 Netskope Private Access Publisher Release Notes Version 112.0.0.8440 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 112.0.0.8440
@@ -269502,7 +269590,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 112.0.0.8440
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-version-112-0-0-8440/
 **Last Modified:** 2025-08-31T02:02:34+00:00
-**Scraped:** 2026-07-24T09:18:51.103383+00:00
+**Scraped:** 2026-07-25T08:58:42.296148+00:00
 
 Netskope Private Access Publisher Release Notes Version 112.0.0.8440 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 112.0.0.8440
@@ -269518,7 +269606,7 @@ Fixed Issues
 ## Netskope Device Intelligence Release Notes in Version 24.02
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-02/
 **Last Modified:** 2025-08-31T02:04:45+00:00
-**Scraped:** 2026-07-24T09:18:53.442346+00:00
+**Scraped:** 2026-07-25T08:58:44.633080+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.02 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.02
@@ -269533,7 +269621,7 @@ What's New
 ## New Features and Enhancements February 29, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-february-29-2024/
 **Last Modified:** 2025-08-31T02:03:49+00:00
-**Scraped:** 2026-07-24T09:18:54.614182+00:00
+**Scraped:** 2026-07-25T08:58:45.809408+00:00
 
 New Features and Enhancements February 29, 2024 - Netskope Knowledge Portal
 New Features and Enhancements February 29, 2024
@@ -269561,7 +269649,7 @@ GCP Storage
 ## Netskope Private Access Publisher Release Notes Version 113.0.0.8462
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-113-0-0-8462/
 **Last Modified:** 2025-08-31T02:02:30+00:00
-**Scraped:** 2026-07-24T09:19:01.674509+00:00
+**Scraped:** 2026-07-25T08:58:53.057519+00:00
 
 Netskope Private Access Publisher Release Notes Version 113.0.0.8462 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 113.0.0.8462
@@ -269577,7 +269665,7 @@ What's New
 ## New Features and Enhancements March 19, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-march-19-2024/
 **Last Modified:** 2025-08-31T02:03:48+00:00
-**Scraped:** 2026-07-24T09:19:07.559609+00:00
+**Scraped:** 2026-07-25T08:58:58.914692+00:00
 
 New Features and Enhancements March 19, 2024 - Netskope Knowledge Portal
 New Features and Enhancements March 19, 2024
@@ -269599,7 +269687,7 @@ Device Client Data Collection
 ## Netskope Device Intelligence Release Notes in Version 24.03
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-03/
 **Last Modified:** 2025-08-31T02:04:43+00:00
-**Scraped:** 2026-07-24T09:19:10.011244+00:00
+**Scraped:** 2026-07-25T08:59:01.284489+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.03 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.03
@@ -269614,7 +269702,7 @@ What's New
 ## New Features and Enhancements March 28, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-march-28-2024/
 **Last Modified:** 2025-08-31T02:03:48+00:00
-**Scraped:** 2026-07-24T09:19:11.184015+00:00
+**Scraped:** 2026-07-25T08:59:02.455318+00:00
 
 New Features and Enhancements March 28, 2024 - Netskope Knowledge Portal
 New Features and Enhancements March 28, 2024
@@ -269640,7 +269728,7 @@ You can schedule a dashboard directly from the Netskope shared folder and automa
 ## On-Premises Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-113-0-0/
 **Last Modified:** 2025-08-31T02:07:46+00:00
-**Scraped:** 2026-07-24T09:19:13.548212+00:00
+**Scraped:** 2026-07-25T08:59:04.817041+00:00
 
 On-Premises Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 113.0.0
@@ -269726,7 +269814,7 @@ Known Issues
 ## On-Premises Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-113-0-0/
 **Last Modified:** 2025-08-31T02:07:48+00:00
-**Scraped:** 2026-07-24T09:19:15.914172+00:00
+**Scraped:** 2026-07-25T08:59:07.173661+00:00
 
 On-Premises Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 113.0.0
@@ -269812,7 +269900,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-113-0-0/
 **Last Modified:** 2025-08-31T02:06:26+00:00
-**Scraped:** 2026-07-24T09:19:17.098375+00:00
+**Scraped:** 2026-07-25T08:59:08.352023+00:00
 
 Virtual Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 113.0.0
@@ -269905,7 +269993,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-113-0-0/
 **Last Modified:** 2025-08-31T02:06:28+00:00
-**Scraped:** 2026-07-24T09:19:18.283111+00:00
+**Scraped:** 2026-07-25T08:59:09.537929+00:00
 
 Virtual Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 113.0.0
@@ -269998,7 +270086,7 @@ Known Issues
 ## New Features and Enhancements April 11, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-11-2024/
 **Last Modified:** 2025-08-31T02:03:47+00:00
-**Scraped:** 2026-07-24T09:19:19.551239+00:00
+**Scraped:** 2026-07-25T08:59:10.718231+00:00
 
 New Features and Enhancements April 11, 2024 - Netskope Knowledge Portal
 New Features and Enhancements April 11, 2024
@@ -270019,7 +270107,7 @@ Security Operations
 ## New Features and Enhancements April 29, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-29-2024/
 **Last Modified:** 2025-08-31T02:03:46+00:00
-**Scraped:** 2026-07-24T09:19:26.693728+00:00
+**Scraped:** 2026-07-25T08:59:17.759013+00:00
 
 New Features and Enhancements April 29, 2024 - Netskope Knowledge Portal
 New Features and Enhancements April 29, 2024
@@ -270030,7 +270118,7 @@ Modified the ‘User’ field mapping in the Incidents data collection to fix an
 ## Netskope Device Intelligence Release Notes in Version 24.04
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-04/
 **Last Modified:** 2025-08-31T02:04:42+00:00
-**Scraped:** 2026-07-24T09:19:29.035274+00:00
+**Scraped:** 2026-07-25T08:59:20.199537+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.04 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.04
@@ -270045,7 +270133,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 115.0.0.8634
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-115-0-0-8634/
 **Last Modified:** 2025-08-31T02:02:27+00:00
-**Scraped:** 2026-07-24T09:19:37.430570+00:00
+**Scraped:** 2026-07-25T08:59:28.502493+00:00
 
 Netskope Private Access Publisher Release Notes Version 115.0.0.8634 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 115.0.0.8634
@@ -270061,7 +270149,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 115.0.0.8634
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-version-115-0-0-8634/
 **Last Modified:** 2025-08-31T02:02:28+00:00
-**Scraped:** 2026-07-24T09:19:38.599563+00:00
+**Scraped:** 2026-07-25T08:59:29.669329+00:00
 
 Netskope Private Access Publisher Release Notes Version 115.0.0.8634 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 115.0.0.8634
@@ -270077,7 +270165,7 @@ Fixed Issues
 ## On-Premises Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-on-premises-appliance-version-113-0-0/
 **Last Modified:** 2025-08-31T02:07:47+00:00
-**Scraped:** 2026-07-24T09:19:42.119978+00:00
+**Scraped:** 2026-07-25T08:59:33.479552+00:00
 
 On-Premises Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 113.0.0
@@ -270163,7 +270251,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 113.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-113-0-0/
 **Last Modified:** 2025-08-31T02:06:27+00:00
-**Scraped:** 2026-07-24T09:19:43.301596+00:00
+**Scraped:** 2026-07-25T08:59:34.657562+00:00
 
 Virtual Appliance Release Notes Version 113.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 113.0.0
@@ -270256,7 +270344,7 @@ Known Issues
 ## New Features and Enhancements May 16, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-may-16-2024/
 **Last Modified:** 2025-08-31T02:03:46+00:00
-**Scraped:** 2026-07-24T09:19:44.529674+00:00
+**Scraped:** 2026-07-25T08:59:35.931054+00:00
 
 New Features and Enhancements May 16, 2024 - Netskope Knowledge Portal
 New Features and Enhancements May 16, 2024
@@ -270267,7 +270355,7 @@ Updated the “Devices by Current Version” widget table to reflect the latest 
 ## Netskope Private Access Publisher Release Notes Version 116.0.0.8665
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-116-0-0/
 **Last Modified:** 2025-08-31T02:02:25+00:00
-**Scraped:** 2026-07-24T09:19:58.840186+00:00
+**Scraped:** 2026-07-25T08:59:50.091488+00:00
 
 Netskope Private Access Publisher Release Notes Version 116.0.0.8665 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 116.0.0.8665
@@ -270282,7 +270370,7 @@ What's New
 ## New Features and Enhancements June 6, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-6-2024/
 **Last Modified:** 2025-08-31T02:03:45+00:00
-**Scraped:** 2026-07-24T09:20:00.010112+00:00
+**Scraped:** 2026-07-25T08:59:51.258596+00:00
 
 New Features and Enhancements June 6, 2024 - Netskope Knowledge Portal
 New Features and Enhancements June 6, 2024
@@ -270293,7 +270381,7 @@ Added the ‘Gateway’ field to the Page Events, Application Events, and Alerts
 ## Netskope Device Intelligence Release Notes in Version 24.06
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-06/
 **Last Modified:** 2025-08-31T02:04:40+00:00
-**Scraped:** 2026-07-24T09:20:09.655349+00:00
+**Scraped:** 2026-07-25T09:00:00.821653+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.06 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.06
@@ -270308,7 +270396,7 @@ What's New
 ## New Features and Enhancements June 27, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-27-2024/
 **Last Modified:** 2025-08-31T02:03:44+00:00
-**Scraped:** 2026-07-24T09:20:10.842131+00:00
+**Scraped:** 2026-07-25T09:00:02.043312+00:00
 
 New Features and Enhancements June 27, 2024 - Netskope Knowledge Portal
 New Features and Enhancements June 27, 2024
@@ -270334,7 +270422,7 @@ Fixed an issue where GPS coordinates were missing for some events due to non-sta
 ## Netskope Private Access Publisher Release Notes Version 117.0.0.8690
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-117-0-0-8690/
 **Last Modified:** 2025-08-31T02:02:24+00:00
-**Scraped:** 2026-07-24T09:20:19.077411+00:00
+**Scraped:** 2026-07-25T09:00:10.474231+00:00
 
 Netskope Private Access Publisher Release Notes Version 117.0.0.8690 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 117.0.0.8690
@@ -270351,7 +270439,7 @@ What's New
 ## New Features and Enhancements July 11, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-july-11-2024/
 **Last Modified:** 2025-08-31T02:03:44+00:00
-**Scraped:** 2026-07-24T09:20:20.247100+00:00
+**Scraped:** 2026-07-25T09:00:11.641503+00:00
 
 New Features and Enhancements July 11, 2024 - Netskope Knowledge Portal
 New Features and Enhancements July 11, 2024
@@ -270368,7 +270456,7 @@ Added two widgets, “Top Instances Detected: App/Instance/Activity” and “In
 ## Netskope Device Intelligence Release Notes in Version 24.07
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-07/
 **Last Modified:** 2025-08-31T02:04:38+00:00
-**Scraped:** 2026-07-24T09:20:28.551848+00:00
+**Scraped:** 2026-07-25T09:00:19.940977+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.07 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.07
@@ -270383,7 +270471,7 @@ What's New
 ## On-Premises Appliance Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-117-0-0/
 **Last Modified:** 2025-08-31T02:07:41+00:00
-**Scraped:** 2026-07-24T09:20:36.889396+00:00
+**Scraped:** 2026-07-25T09:00:28.278427+00:00
 
 On-Premises Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 117.0.0
@@ -270469,7 +270557,7 @@ Fixed Issues
 ## On-Premises Appliance Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-117-0-0/
 **Last Modified:** 2025-08-31T02:07:42+00:00
-**Scraped:** 2026-07-24T09:20:38.168288+00:00
+**Scraped:** 2026-07-25T09:00:29.468228+00:00
 
 On-Premises Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 117.0.0
@@ -270555,7 +270643,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-117-0-0/
 **Last Modified:** 2025-08-31T02:06:19+00:00
-**Scraped:** 2026-07-24T09:20:40.534748+00:00
+**Scraped:** 2026-07-25T09:00:31.827044+00:00
 
 Virtual Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 117.0.0
@@ -270646,7 +270734,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 117.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-117-0-0/
 **Last Modified:** 2025-08-31T02:06:20+00:00
-**Scraped:** 2026-07-24T09:20:41.714321+00:00
+**Scraped:** 2026-07-25T09:00:33.190179+00:00
 
 Virtual Appliance Release Notes Version 117.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 117.0.0
@@ -270737,7 +270825,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 118.0.0.8741
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-version-118-0-0-8741/
 **Last Modified:** 2025-08-31T02:02:22+00:00
-**Scraped:** 2026-07-24T09:20:47.773901+00:00
+**Scraped:** 2026-07-25T09:00:39.136177+00:00
 
 Netskope Private Access Publisher Release Notes Version 118.0.0.8741 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 118.0.0.8741
@@ -270753,7 +270841,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 118.0.0.8741
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-118-0-0-8741/
 **Last Modified:** 2025-08-31T02:02:22+00:00
-**Scraped:** 2026-07-24T09:20:48.943976+00:00
+**Scraped:** 2026-07-25T09:00:40.305469+00:00
 
 Netskope Private Access Publisher Release Notes Version 118.0.0.8741 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 118.0.0.8741
@@ -270769,7 +270857,7 @@ Fixed Issues
 ## New Features and Enhancements August 23, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-august-23-2024/
 **Last Modified:** 2025-08-31T02:03:43+00:00
-**Scraped:** 2026-07-24T09:20:50.114508+00:00
+**Scraped:** 2026-07-25T09:00:41.475523+00:00
 
 New Features and Enhancements August 23, 2024 - Netskope Knowledge Portal
 New Features and Enhancements August 23, 2024
@@ -270786,7 +270874,7 @@ widget table to reflect the latest supported version and golden release version.
 ## Netskope Device Intelligence Release Notes in Version 24.08
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-08/
 **Last Modified:** 2025-08-31T02:04:36+00:00
-**Scraped:** 2026-07-24T09:20:52.452872+00:00
+**Scraped:** 2026-07-25T09:00:43.815782+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.08 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.08
@@ -270801,7 +270889,7 @@ What's New
 ## New Features and Enhancements September 3, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-september-3-2024/
 **Last Modified:** 2025-08-31T02:03:43+00:00
-**Scraped:** 2026-07-24T09:20:59.697421+00:00
+**Scraped:** 2026-07-25T09:00:51.069476+00:00
 
 New Features and Enhancements September 3, 2024 - Netskope Knowledge Portal
 New Features and Enhancements September 3, 2024
@@ -270816,7 +270904,7 @@ Internal use only field attributes are now hidden from view from the custom fiel
 ## Netskope Private Access Publisher Release Notes Version 119.0.0.8846
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-119-0-0-8846/
 **Last Modified:** 2025-08-31T02:02:19+00:00
-**Scraped:** 2026-07-24T09:21:04.411350+00:00
+**Scraped:** 2026-07-25T09:00:55.853616+00:00
 
 Netskope Private Access Publisher Release Notes Version 119.0.0.8846 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 119.0.0.8846
@@ -270832,7 +270920,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 119.0.0.8846
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-version-119-0-0-8846/
 **Last Modified:** 2025-08-31T02:02:20+00:00
-**Scraped:** 2026-07-24T09:21:05.581835+00:00
+**Scraped:** 2026-07-25T09:00:57.023411+00:00
 
 Netskope Private Access Publisher Release Notes Version 119.0.0.8846 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 119.0.0.8846
@@ -270848,7 +270936,7 @@ Fixed Issues
 ## New Features and Enhancements September 19, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-september-19-2024/
 **Last Modified:** 2025-08-31T02:03:42+00:00
-**Scraped:** 2026-07-24T09:21:11.454643+00:00
+**Scraped:** 2026-07-25T09:01:02.911394+00:00
 
 New Features and Enhancements September 19, 2024 - Netskope Knowledge Portal
 New Features and Enhancements September 19, 2024
@@ -270859,7 +270947,7 @@ Added a new attribute, ‘True Object Type,’ to the Incidents data collection 
 ## Netskope Private Access Publisher Release Notes Version 120.0.0.8869
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-120-0-0-8869/
 **Last Modified:** 2025-08-31T02:02:17+00:00
-**Scraped:** 2026-07-24T09:21:19.796365+00:00
+**Scraped:** 2026-07-25T09:01:11.143680+00:00
 
 Netskope Private Access Publisher Release Notes Version 120.0.0.8869 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 120.0.0.8869
@@ -270877,7 +270965,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 121.0.0.8953
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-121/
 **Last Modified:** 2025-08-31T02:02:16+00:00
-**Scraped:** 2026-07-24T09:21:37.892712+00:00
+**Scraped:** 2026-07-25T09:01:29.113921+00:00
 
 Netskope Private Access Publisher Release Notes Version 121.0.0.8953 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 121.0.0.8953
@@ -270896,7 +270984,7 @@ What's New
 ## Netskope Device Intelligence Release Notes in Version 24.11
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-11/
 **Last Modified:** 2025-08-31T02:04:34+00:00
-**Scraped:** 2026-07-24T09:21:48.633055+00:00
+**Scraped:** 2026-07-25T09:01:39.782860+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.11
@@ -270911,7 +270999,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 122.0.0.9124
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-122-0-0-9124/
 **Last Modified:** 2025-08-31T02:02:14+00:00
-**Scraped:** 2026-07-24T09:21:57.073646+00:00
+**Scraped:** 2026-07-25T09:01:48.310453+00:00
 
 Netskope Private Access Publisher Release Notes Version 122.0.0.9124 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 122.0.0.9124
@@ -270930,7 +271018,7 @@ What's New
 ## On-Premises Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-on-premises-appliance-version-121-0-0/
 **Last Modified:** 2025-08-31T02:07:35+00:00
-**Scraped:** 2026-07-24T09:21:59.431310+00:00
+**Scraped:** 2026-07-25T09:01:50.774045+00:00
 
 On-Premises Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 121.0.0
@@ -271016,7 +271104,7 @@ Fixed Issues
 ## On-Premises Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-on-premises-appliance-version-121-0-0/
 **Last Modified:** 2025-08-31T02:07:37+00:00
-**Scraped:** 2026-07-24T09:22:00.614351+00:00
+**Scraped:** 2026-07-25T09:01:51.955744+00:00
 
 On-Premises Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 On-Premises Appliance Release Notes Version 121.0.0
@@ -271102,7 +271190,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-121-0-0/
 **Last Modified:** 2025-08-31T02:06:12+00:00
-**Scraped:** 2026-07-24T09:22:03.202785+00:00
+**Scraped:** 2026-07-25T09:01:54.316606+00:00
 
 Virtual Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 121.0.0
@@ -271195,7 +271283,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-121-0-0/
 **Last Modified:** 2025-08-31T02:06:15+00:00
-**Scraped:** 2026-07-24T09:22:04.384652+00:00
+**Scraped:** 2026-07-25T09:01:55.496791+00:00
 
 Virtual Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 121.0.0
@@ -271288,7 +271376,7 @@ Known Issues
 ## New Features and Enhancements December 12, 2024
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-december-12-2024/
 **Last Modified:** 2025-08-31T02:03:41+00:00
-**Scraped:** 2026-07-24T09:22:05.563558+00:00
+**Scraped:** 2026-07-25T09:01:56.672776+00:00
 
 New Features and Enhancements December 12, 2024 - Netskope Knowledge Portal
 New Features and Enhancements December 12, 2024
@@ -271354,7 +271442,7 @@ For finer adjustments to data point size, switch to the ‘Points’ tab, adjust
 ## Netskope Device Intelligence Release Notes in Version 24.12
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-24-12/
 **Last Modified:** 2025-08-31T02:04:32+00:00
-**Scraped:** 2026-07-24T09:22:07.903718+00:00
+**Scraped:** 2026-07-25T09:01:59.008746+00:00
 
 Netskope Device Intelligence Release Notes in Version 24.12 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 24.12
@@ -271369,7 +271457,7 @@ What's New
 ## Virtual Appliance Release Notes Version 121.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-121-0-0/
 **Last Modified:** 2025-08-31T02:06:14+00:00
-**Scraped:** 2026-07-24T09:22:09.179167+00:00
+**Scraped:** 2026-07-25T09:02:00.304280+00:00
 
 Virtual Appliance Release Notes Version 121.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 121.0.0
@@ -271462,7 +271550,7 @@ Known Issues
 ## New Features and Enhancements January 9, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-january-9-2025/
 **Last Modified:** 2025-08-31T02:03:41+00:00
-**Scraped:** 2026-07-24T09:22:51.562013+00:00
+**Scraped:** 2026-07-25T09:02:43.157969+00:00
 
 New Features and Enhancements January 9, 2025 - Netskope Knowledge Portal
 New Features and Enhancements January 9, 2025
@@ -271491,7 +271579,7 @@ Does the vulnerability assessment include checks for OWASP top 10 vulnerabilitie
 ## Netskope Device Intelligence Release Notes in Version 25.01
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-25-01/
 **Last Modified:** 2025-08-31T02:04:31+00:00
-**Scraped:** 2026-07-24T09:22:58.592265+00:00
+**Scraped:** 2026-07-25T09:02:50.316522+00:00
 
 Netskope Device Intelligence Release Notes in Version 25.01 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.01
@@ -271506,7 +271594,7 @@ What's New
 ## New Features and Enhancements January 31, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-january-31-2025/
 **Last Modified:** 2025-08-31T02:03:40+00:00
-**Scraped:** 2026-07-24T09:23:00.934709+00:00
+**Scraped:** 2026-07-25T09:02:52.652894+00:00
 
 New Features and Enhancements January 31, 2025 - Netskope Knowledge Portal
 New Features and Enhancements January 31, 2025
@@ -271523,7 +271611,7 @@ Advanced Analytics Interface
 ## Netskope Private Access Publisher Release Notes Version 123.0.0.9194
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-123-0-0-9194/
 **Last Modified:** 2025-08-31T02:02:12+00:00
-**Scraped:** 2026-07-24T09:23:10.684866+00:00
+**Scraped:** 2026-07-25T09:03:02.258333+00:00
 
 Netskope Private Access Publisher Release Notes Version 123.0.0.9194 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 123.0.0.9194
@@ -271542,7 +271630,7 @@ What's New
 ## New Features and Enhancements February 6, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-february-6-2025/
 **Last Modified:** 2025-08-31T02:03:40+00:00
-**Scraped:** 2026-07-24T09:23:11.959193+00:00
+**Scraped:** 2026-07-25T09:03:03.522936+00:00
 
 New Features and Enhancements February 6, 2025 - Netskope Knowledge Portal
 New Features and Enhancements February 6, 2025
@@ -271554,7 +271642,7 @@ The Shared Credential User field is available for the Alerts data collection. Th
 ## New Features and Enhancements February 20, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-february-20-2025/
 **Last Modified:** 2025-08-31T02:03:39+00:00
-**Scraped:** 2026-07-24T09:23:13.128667+00:00
+**Scraped:** 2026-07-25T09:03:04.689201+00:00
 
 New Features and Enhancements February 20, 2025 - Netskope Knowledge Portal
 New Features and Enhancements February 20, 2025
@@ -271565,7 +271653,7 @@ The application lookup method for events generated from the API Connector access
 ## Netskope Private Access Publisher Release Notes Version 124.0.0.9304
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-124-0-0-9304/
 **Last Modified:** 2025-08-31T02:02:11+00:00
-**Scraped:** 2026-07-24T09:23:22.843574+00:00
+**Scraped:** 2026-07-25T09:03:14.230411+00:00
 
 Netskope Private Access Publisher Release Notes Version 124.0.0.9304 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 124.0.0.9304
@@ -271582,7 +271670,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 124.1.0.9370
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-124-1-0-9370/
 **Last Modified:** 2025-08-31T02:02:08+00:00
-**Scraped:** 2026-07-24T09:23:28.899573+00:00
+**Scraped:** 2026-07-25T09:03:20.186988+00:00
 
 Netskope Private Access Publisher Release Notes Version 124.1.0.9370 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 124.1.0.9370
@@ -271599,7 +271687,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 124.1.0.9370
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-version-124-1-0-9370/
 **Last Modified:** 2025-08-31T02:02:09+00:00
-**Scraped:** 2026-07-24T09:23:30.070324+00:00
+**Scraped:** 2026-07-25T09:03:21.360194+00:00
 
 Netskope Private Access Publisher Release Notes Version 124.1.0.9370 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 124.1.0.9370
@@ -271616,7 +271704,7 @@ Fixed Issues
 ## Netskope Device Intelligence Release Notes in Version 25.03
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-25-03/
 **Last Modified:** 2025-08-31T02:04:29+00:00
-**Scraped:** 2026-07-24T09:23:32.409192+00:00
+**Scraped:** 2026-07-25T09:03:23.701774+00:00
 
 Netskope Device Intelligence Release Notes in Version 25.03 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.03
@@ -271631,7 +271719,7 @@ What's New
 ## New Features and Enhancements April 17, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-17-2025/
 **Last Modified:** 2025-08-31T02:03:38+00:00
-**Scraped:** 2026-07-24T09:23:50.757852+00:00
+**Scraped:** 2026-07-25T09:03:41.765565+00:00
 
 New Features and Enhancements April 17, 2025 - Netskope Knowledge Portal
 New Features and Enhancements April 17, 2025
@@ -271643,7 +271731,7 @@ The widget is color-coded based on the ‘Client Support Status’ and will be a
 ## Netskope Private Access Publisher Release Notes Version 125.0.0.9474
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-125-0-0-9474/
 **Last Modified:** 2025-08-31T02:02:06+00:00
-**Scraped:** 2026-07-24T09:23:53.201422+00:00
+**Scraped:** 2026-07-25T09:03:44.103357+00:00
 
 Netskope Private Access Publisher Release Notes Version 125.0.0.9474 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 125.0.0.9474
@@ -271659,7 +271747,7 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 125.0.0.9474
 **URL:** https://docs.netskope.com/en/known-issue-in-publisher-version-125-0-0-9497/
 **Last Modified:** 2025-08-31T02:02:07+00:00
-**Scraped:** 2026-07-24T09:23:54.372335+00:00
+**Scraped:** 2026-07-25T09:03:45.273546+00:00
 
 Netskope Private Access Publisher Release Notes Version 125.0.0.9474 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 125.0.0.9474
@@ -271675,7 +271763,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 124.0.0.125
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-124-0-0-125/
 **Last Modified:** 2025-08-31T02:06:09+00:00
-**Scraped:** 2026-07-24T09:23:56.824391+00:00
+**Scraped:** 2026-07-25T09:03:47.724640+00:00
 
 Virtual Appliance Release Notes Version 124.0.0.125 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 124.0.0.125
@@ -271817,7 +271905,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 124.0.0.125
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-124-0-0-125/
 **Last Modified:** 2025-08-31T02:06:08+00:00
-**Scraped:** 2026-07-24T09:23:59.195180+00:00
+**Scraped:** 2026-07-25T09:03:50.097051+00:00
 
 Virtual Appliance Release Notes Version 124.0.0.125 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 124.0.0.125
@@ -271959,7 +272047,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 126.0.0.9487
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-126-0-0-9487/
 **Last Modified:** 2025-08-31T02:02:04+00:00
-**Scraped:** 2026-07-24T09:24:11.150965+00:00
+**Scraped:** 2026-07-25T09:04:01.858371+00:00
 
 Netskope Private Access Publisher Release Notes Version 126.0.0.9487 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 126.0.0.9487
@@ -271974,7 +272062,7 @@ What's New
 ## Netskope Device Intelligence Release Notes in Version 25.05
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-version-25-05/
 **Last Modified:** 2025-08-31T02:04:24+00:00
-**Scraped:** 2026-07-24T09:24:17.211066+00:00
+**Scraped:** 2026-07-25T09:04:07.904666+00:00
 
 Netskope Device Intelligence Release Notes in Version 25.05 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.05
@@ -271989,7 +272077,7 @@ What's New
 ## New Features and Enhancements June 5, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-5-2025/
 **Last Modified:** 2025-08-31T02:03:37+00:00
-**Scraped:** 2026-07-24T09:24:25.517048+00:00
+**Scraped:** 2026-07-25T09:04:16.125788+00:00
 
 New Features and Enhancements June 5, 2025 - Netskope Knowledge Portal
 New Features and Enhancements June 5, 2025
@@ -272000,7 +272088,7 @@ Added a new dashboard to the Netskope Library to show the AI usage and provide v
 ## Inline App Connector Release AC-127.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-ac-127-0-0/
 **Last Modified:** 2026-06-25T02:45:28+00:00
-**Scraped:** 2026-07-24T09:24:27.961288+00:00
+**Scraped:** 2026-07-25T09:04:18.469192+00:00
 
 Inline App Connector Release AC-127.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-127.0.0
@@ -272032,7 +272120,7 @@ Known Issues
 ## Inline App Connector Release AC-127.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-127-0-0/
 **Last Modified:** 2026-06-25T02:45:17+00:00
-**Scraped:** 2026-07-24T09:24:29.117356+00:00
+**Scraped:** 2026-07-25T09:04:19.638624+00:00
 
 Inline App Connector Release AC-127.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-127.0.0
@@ -272064,7 +272152,7 @@ Known Issues
 ## Inline App Connector Release AC-127.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-127-0-0/
 **Last Modified:** 2026-06-25T02:45:40+00:00
-**Scraped:** 2026-07-24T09:24:30.286677+00:00
+**Scraped:** 2026-07-25T09:04:20.811594+00:00
 
 Inline App Connector Release AC-127.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-127.0.0
@@ -272096,7 +272184,7 @@ Known Issues
 ## New Features and Enhancements June 20, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-20-2025/
 **Last Modified:** 2025-08-31T02:03:37+00:00
-**Scraped:** 2026-07-24T09:24:36.363612+00:00
+**Scraped:** 2026-07-25T09:04:26.883104+00:00
 
 New Features and Enhancements June 20, 2025 - Netskope Knowledge Portal
 New Features and Enhancements June 20, 2025
@@ -272109,7 +272197,7 @@ An additional icon is available for the ‘edit’ menu option for widgets when 
 ## New Features and Enhancements June 30, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-30-2025/
 **Last Modified:** 2025-08-31T02:03:36+00:00
-**Scraped:** 2026-07-24T09:24:37.534441+00:00
+**Scraped:** 2026-07-25T09:04:28.050318+00:00
 
 New Features and Enhancements June 30, 2025 - Netskope Knowledge Portal
 New Features and Enhancements June 30, 2025
@@ -272123,7 +272211,7 @@ For further customization, save a copy to your personal or Group folder. This re
 ## New Features and Enhancements July 3, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-july-3-2025/
 **Last Modified:** 2025-08-31T02:03:35+00:00
-**Scraped:** 2026-07-24T09:24:40.072171+00:00
+**Scraped:** 2026-07-25T09:04:30.498215+00:00
 
 New Features and Enhancements July 3, 2025 - Netskope Knowledge Portal
 New Features and Enhancements July 3, 2025
@@ -272147,7 +272235,7 @@ is enabled. This resulted in widgets not displaying correctly.
 ## Inline App Connector Release AC-128.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connectors-ac-128-0-0/
 **Last Modified:** 2026-06-25T02:44:08+00:00
-**Scraped:** 2026-07-24T09:24:47.149200+00:00
+**Scraped:** 2026-07-25T09:04:37.730020+00:00
 
 Inline App Connector Release AC-128.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-128.0.0
@@ -272181,7 +272269,7 @@ Known Issues
 ## Inline App Connector Release AC-128.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-128-0-0/
 **Last Modified:** 2026-06-25T02:44:21+00:00
-**Scraped:** 2026-07-24T09:24:48.319670+00:00
+**Scraped:** 2026-07-25T09:04:38.913197+00:00
 
 Inline App Connector Release AC-128.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-128.0.0
@@ -272215,7 +272303,7 @@ Known Issues
 ## Inline App Connector Release AC-128.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-128-0-0/
 **Last Modified:** 2026-06-25T02:44:37+00:00
-**Scraped:** 2026-07-24T09:24:49.497758+00:00
+**Scraped:** 2026-07-25T09:04:40.084152+00:00
 
 Inline App Connector Release AC-128.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-128.0.0
@@ -272249,7 +272337,7 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 128.0.0.9857
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-128-0-0-9857/
 **Last Modified:** 2025-08-31T02:02:02+00:00
-**Scraped:** 2026-07-24T09:24:50.765038+00:00
+**Scraped:** 2026-07-25T09:04:41.257323+00:00
 
 Netskope Private Access Publisher Release Notes Version 128.0.0.9857 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 128.0.0.9857
@@ -272264,7 +272352,7 @@ What's New
 ## Virtual Appliance Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-for-virtual-appliance-version-128-0-0/
 **Last Modified:** 2025-08-31T02:05:56+00:00
-**Scraped:** 2026-07-24T09:24:59.183058+00:00
+**Scraped:** 2026-07-25T09:04:49.775686+00:00
 
 Virtual Appliance Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 128.0.0
@@ -272409,7 +272497,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/known-issues-for-virtual-appliance-version-128-0-0/
 **Last Modified:** 2025-11-03T18:44:54+00:00
-**Scraped:** 2026-07-24T09:25:00.381670+00:00
+**Scraped:** 2026-07-25T09:04:50.956290+00:00
 
 Virtual Appliance Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 128.0.0
@@ -272554,7 +272642,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 128.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-for-virtual-appliance-version-128-0-0/
 **Last Modified:** 2025-08-31T02:05:58+00:00
-**Scraped:** 2026-07-24T09:25:01.599421+00:00
+**Scraped:** 2026-07-25T09:04:52.139626+00:00
 
 Virtual Appliance Release Notes Version 128.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 128.0.0
@@ -272699,7 +272787,7 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 129.0.0.10054
 **URL:** https://docs.netskope.com/en/fixed-issues-in-publisher-version-129-0-0-10054/
 **Last Modified:** 2025-08-31T02:02:00+00:00
-**Scraped:** 2026-07-24T09:25:15.785728+00:00
+**Scraped:** 2026-07-25T09:05:06.357528+00:00
 
 Netskope Private Access Publisher Release Notes Version 129.0.0.10054 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 129.0.0.10054
@@ -272717,7 +272805,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 129.0.0.10054
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-publisher-version-129-0-0-10054/
 **Last Modified:** 2025-08-31T02:01:59+00:00
-**Scraped:** 2026-07-24T09:25:16.954664+00:00
+**Scraped:** 2026-07-25T09:05:07.528685+00:00
 
 Netskope Private Access Publisher Release Notes Version 129.0.0.10054 - Netskope Knowledge Portal
 Netskope Private Access Publisher Release Notes Version 129.0.0.10054
@@ -272735,7 +272823,7 @@ Fixed Issues
 ## Inline App Connector Release AC-129.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connectors-ac-129-0-0/
 **Last Modified:** 2026-06-25T02:43:09+00:00
-**Scraped:** 2026-07-24T09:25:19.300201+00:00
+**Scraped:** 2026-07-25T09:05:09.880310+00:00
 
 Inline App Connector Release AC-129.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-129.0.0
@@ -272769,7 +272857,7 @@ Known Issues
 ## Inline App Connector Release AC-129.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-129-0-0/
 **Last Modified:** 2026-06-25T02:43:20+00:00
-**Scraped:** 2026-07-24T09:25:20.574147+00:00
+**Scraped:** 2026-07-25T09:05:11.065289+00:00
 
 Inline App Connector Release AC-129.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-129.0.0
@@ -272803,7 +272891,7 @@ Known Issues
 ## Inline App Connector Release AC-129.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-129-0-0/
 **Last Modified:** 2026-06-25T02:43:31+00:00
-**Scraped:** 2026-07-24T09:25:21.748942+00:00
+**Scraped:** 2026-07-25T09:05:12.336051+00:00
 
 Inline App Connector Release AC-129.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-129.0.0
@@ -272837,7 +272925,7 @@ Known Issues
 ## Netskope Device Intelligence Release Notes in Version 25.08
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-device-intelligence-25-08/
 **Last Modified:** 2025-09-01T04:29:15+00:00
-**Scraped:** 2026-07-24T09:25:27.809920+00:00
+**Scraped:** 2026-07-25T09:05:18.202554+00:00
 
 Netskope Device Intelligence Release Notes in Version 25.08 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.08
@@ -272852,7 +272940,7 @@ What's New
 ## New Features and Enhancements September 5, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-september-5-2025/
 **Last Modified:** 2025-09-08T14:05:29+00:00
-**Scraped:** 2026-07-24T09:25:39.955804+00:00
+**Scraped:** 2026-07-25T09:05:29.957195+00:00
 
 New Features and Enhancements September 5, 2025 - Netskope Knowledge Portal
 New Features and Enhancements September 5, 2025
@@ -272873,7 +272961,7 @@ Dashboards Overview
 ## Inline App Connector Release AC-130.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connectors-ac-130-0-0/
 **Last Modified:** 2026-06-25T03:23:23+00:00
-**Scraped:** 2026-07-24T09:25:50.704516+00:00
+**Scraped:** 2026-07-25T09:05:40.537527+00:00
 
 Inline App Connector Release AC-130.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-130.0.0
@@ -272908,7 +272996,7 @@ Known Issues
 ## Inline App Connector Release AC-130.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-130-0-0/
 **Last Modified:** 2026-06-25T03:23:33+00:00
-**Scraped:** 2026-07-24T09:25:51.875044+00:00
+**Scraped:** 2026-07-25T09:05:41.709064+00:00
 
 Inline App Connector Release AC-130.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-130.0.0
@@ -272943,7 +273031,7 @@ Known Issues
 ## Inline App Connector Release AC-130.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-130-0-0/
 **Last Modified:** 2026-06-25T03:23:43+00:00
-**Scraped:** 2026-07-24T09:25:53.050725+00:00
+**Scraped:** 2026-07-25T09:05:42.883580+00:00
 
 Inline App Connector Release AC-130.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-130.0.0
@@ -272978,7 +273066,7 @@ Known Issues
 ## Netskope Release Notes Version 131.0.0
 **URL:** https://docs.netskope.com/en/__trashed/
 **Last Modified:** 2025-10-08T20:09:53+00:00
-**Scraped:** 2026-07-24T09:25:56.712491+00:00
+**Scraped:** 2026-07-25T09:05:46.407684+00:00
 
 Netskope Release Notes Version 131.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 131.0.0
@@ -273022,7 +273110,7 @@ Deprecated
 ## New Features and Enhancements October 17, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-october-17-2025/
 **Last Modified:** 2025-10-17T16:48:04+00:00
-**Scraped:** 2026-07-24T09:26:03.909930+00:00
+**Scraped:** 2026-07-25T09:05:53.559726+00:00
 
 New Features and Enhancements October 17, 2025 - Netskope Knowledge Portal
 New Features and Enhancements October 17, 2025
@@ -273033,7 +273121,7 @@ With this release, we have fixed an issue with the ‘% of Risky AI Apps Amongst
 ## Inline App Connector Release AC-131.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-ac-131-0-0/
 **Last Modified:** 2026-06-25T02:40:50+00:00
-**Scraped:** 2026-07-24T09:26:06.353156+00:00
+**Scraped:** 2026-07-25T09:05:55.906542+00:00
 
 Inline App Connector Release AC-131.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-131.0.0
@@ -273064,7 +273152,7 @@ Known Issues
 ## Inline App Connector Release AC-131.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-131-0-0/
 **Last Modified:** 2026-06-25T02:41:01+00:00
-**Scraped:** 2026-07-24T09:26:07.525788+00:00
+**Scraped:** 2026-07-25T09:05:57.079002+00:00
 
 Inline App Connector Release AC-131.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-131.0.0
@@ -273095,7 +273183,7 @@ Known Issues
 ## Inline App Connector Release AC-131.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-131-0-0/
 **Last Modified:** 2026-06-25T02:41:14+00:00
-**Scraped:** 2026-07-24T09:26:08.697263+00:00
+**Scraped:** 2026-07-25T09:05:58.347691+00:00
 
 Inline App Connector Release AC-131.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-131.0.0
@@ -273126,7 +273214,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 131.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-131-1-0/
 **Last Modified:** 2025-10-29T02:59:15+00:00
-**Scraped:** 2026-07-24T09:26:11.045063+00:00
+**Scraped:** 2026-07-25T09:06:00.687412+00:00
 
 Netskope Release Notes Hotfix Version 131.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 131.1.0
@@ -273153,7 +273241,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 131.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-131-1-0/
 **Last Modified:** 2025-10-29T21:50:58+00:00
-**Scraped:** 2026-07-24T09:26:15.930514+00:00
+**Scraped:** 2026-07-25T09:06:05.422567+00:00
 
 Netskope Release Notes Hotfix Version 131.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 131.1.0
@@ -273180,7 +273268,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-exchange-v6-0-0/
 **Last Modified:** 2025-10-30T20:03:22+00:00
-**Scraped:** 2026-07-24T09:26:18.275149+00:00
+**Scraped:** 2026-07-25T09:06:07.871886+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.0
@@ -273194,7 +273282,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-exchange-v6-0-0/
 **Last Modified:** 2025-10-30T20:03:32+00:00
-**Scraped:** 2026-07-24T09:26:19.447261+00:00
+**Scraped:** 2026-07-25T09:06:09.041902+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.0
@@ -273208,7 +273296,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-exchange-v6-0-0/
 **Last Modified:** 2025-10-30T20:03:54+00:00
-**Scraped:** 2026-07-24T09:26:20.620705+00:00
+**Scraped:** 2026-07-25T09:06:10.304126+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.0
@@ -273222,7 +273310,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 131.1.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-version-131-1-1/
 **Last Modified:** 2025-11-05T19:08:38+00:00
-**Scraped:** 2026-07-24T09:26:22.959465+00:00
+**Scraped:** 2026-07-25T09:06:12.644849+00:00
 
 Netskope Release Notes Hotfix Version 131.1.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 131.1.1
@@ -273248,7 +273336,7 @@ Fixed Issues
 ## Inline App Connector Release AC-132.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-ac-132-0-0/
 **Last Modified:** 2026-06-25T02:39:20+00:00
-**Scraped:** 2026-07-24T09:26:28.838002+00:00
+**Scraped:** 2026-07-25T09:06:18.623455+00:00
 
 Inline App Connector Release AC-132.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-132.0.0
@@ -273280,7 +273368,7 @@ Known Issues
 ## Inline App Connector Release AC-132.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-132-0-0/
 **Last Modified:** 2026-06-25T02:39:34+00:00
-**Scraped:** 2026-07-24T09:26:30.012198+00:00
+**Scraped:** 2026-07-25T09:06:19.800540+00:00
 
 Inline App Connector Release AC-132.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-132.0.0
@@ -273312,7 +273400,7 @@ Known Issues
 ## Inline App Connector Release AC-132.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-132-0-0/
 **Last Modified:** 2026-06-25T02:39:49+00:00
-**Scraped:** 2026-07-24T09:26:31.191495+00:00
+**Scraped:** 2026-07-25T09:06:20.972255+00:00
 
 Inline App Connector Release AC-132.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-132.0.0
@@ -273344,7 +273432,7 @@ Known Issues
 ## New Features and Enhancements November 14, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-november-14-2025/
 **Last Modified:** 2025-12-12T23:23:31+00:00
-**Scraped:** 2026-07-24T09:26:35.876504+00:00
+**Scraped:** 2026-07-25T09:06:25.668282+00:00
 
 New Features and Enhancements November 14, 2025 - Netskope Knowledge Portal
 New Features and Enhancements November 14, 2025
@@ -273381,7 +273469,7 @@ Users can view the filtered in the dashboard level filters instead. These change
 ## Netskope Device Intelligence Release Notes in Version 25.11
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-device-intelligence-25-11/
 **Last Modified:** 2025-11-26T03:50:16+00:00
-**Scraped:** 2026-07-24T09:26:40.670547+00:00
+**Scraped:** 2026-07-25T09:06:30.363494+00:00
 
 Netskope Device Intelligence Release Notes in Version 25.11 - Netskope Knowledge Portal
 Netskope Device Intelligence Release Notes in Version 25.11
@@ -273396,7 +273484,7 @@ What's New
 ## New Features and Enhancements December 5, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-december-5-2025/
 **Last Modified:** 2025-12-09T19:17:17+00:00
-**Scraped:** 2026-07-24T09:26:51.403696+00:00
+**Scraped:** 2026-07-25T09:06:41.525223+00:00
 
 New Features and Enhancements December 5, 2025 - Netskope Knowledge Portal
 New Features and Enhancements December 5, 2025
@@ -273428,7 +273516,7 @@ This change is currently rolled out for all commercial customers.
 ## New Features and Enhancements December 15, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-december-15-2025/
 **Last Modified:** 2025-12-15T19:31:21+00:00
-**Scraped:** 2026-07-24T09:27:04.438175+00:00
+**Scraped:** 2026-07-25T09:06:54.417524+00:00
 
 New Features and Enhancements December 15, 2025 - Netskope Knowledge Portal
 New Features and Enhancements December 15, 2025
@@ -273444,7 +273532,7 @@ The UI tooltip for the status of ‘Pause/Resume Transaction Events’ will not 
 ## Inline App Connector Release AC-133.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-133-0-0/
 **Last Modified:** 2026-06-25T02:36:38+00:00
-**Scraped:** 2026-07-24T09:27:05.707144+00:00
+**Scraped:** 2026-07-25T09:06:55.588571+00:00
 
 Inline App Connector Release AC-133.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-133.0.0
@@ -273473,7 +273561,7 @@ Known Issues
 ## Inline App Connector Release AC-133.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-ac-133-0-0/
 **Last Modified:** 2026-06-25T02:36:52+00:00
-**Scraped:** 2026-07-24T09:27:06.881086+00:00
+**Scraped:** 2026-07-25T09:06:56.860856+00:00
 
 Inline App Connector Release AC-133.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-133.0.0
@@ -273502,7 +273590,7 @@ Known Issues
 ## Inline App Connector Release AC-133.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-133-0-0/
 **Last Modified:** 2026-06-25T02:37:09+00:00
-**Scraped:** 2026-07-24T09:27:08.051461+00:00
+**Scraped:** 2026-07-25T09:06:58.030511+00:00
 
 Inline App Connector Release AC-133.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-133.0.0
@@ -273531,7 +273619,7 @@ Known Issues
 ## New Features and Enhancements December 18, 2025
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-december-18-2025/
 **Last Modified:** 2025-12-18T18:29:09+00:00
-**Scraped:** 2026-07-24T09:27:10.392412+00:00
+**Scraped:** 2026-07-25T09:07:00.375518+00:00
 
 New Features and Enhancements December 18, 2025 - Netskope Knowledge Portal
 New Features and Enhancements December 18, 2025
@@ -273551,7 +273639,7 @@ Malsite Severity
 ## Netskope Cloud Exchange Release Notes Version 6.0.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-exchange-version-6-0-1/
 **Last Modified:** 2026-02-24T02:33:28+00:00
-**Scraped:** 2026-07-24T09:27:22.542982+00:00
+**Scraped:** 2026-07-25T09:07:12.143071+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.1
@@ -273565,7 +273653,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.0.1
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-exchange-6-0-1/
 **Last Modified:** 2026-02-24T02:34:32+00:00
-**Scraped:** 2026-07-24T09:27:23.714155+00:00
+**Scraped:** 2026-07-25T09:07:13.311090+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.1
@@ -273579,7 +273667,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.0.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-exchange-version-6-0-1/
 **Last Modified:** 2026-01-28T10:55:29+00:00
-**Scraped:** 2026-07-24T09:27:24.885802+00:00
+**Scraped:** 2026-07-25T09:07:14.590123+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.0.1 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.0.1
@@ -273593,7 +273681,7 @@ Known Issues
 ## AI Gateway Release Notes Version - 1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-ai-gateway-aig-1-0/
 **Last Modified:** 2026-01-29T05:04:07+00:00
-**Scraped:** 2026-07-24T09:27:27.335639+00:00
+**Scraped:** 2026-07-25T09:07:16.929416+00:00
 
 AI Gateway Release Notes Version - 1.0 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.0
@@ -273609,7 +273697,7 @@ Fixed Issues
 ## Inline App Connector Release AC-134.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-inline-app-connector-134-0-0/
 **Last Modified:** 2026-06-25T02:34:43+00:00
-**Scraped:** 2026-07-24T09:27:35.769036+00:00
+**Scraped:** 2026-07-25T09:07:25.264666+00:00
 
 Inline App Connector Release AC-134.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-134.0.0
@@ -273641,7 +273729,7 @@ Deprecated
 ## Inline App Connector Release AC-134.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-134-0-0/
 **Last Modified:** 2026-06-25T02:35:07+00:00
-**Scraped:** 2026-07-24T09:27:37.041079+00:00
+**Scraped:** 2026-07-25T09:07:26.438051+00:00
 
 Inline App Connector Release AC-134.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-134.0.0
@@ -273673,7 +273761,7 @@ Deprecated
 ## Inline App Connector Release AC-134.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-134-0-0/
 **Last Modified:** 2026-06-25T02:35:24+00:00
-**Scraped:** 2026-07-24T09:27:38.217796+00:00
+**Scraped:** 2026-07-25T09:07:27.610741+00:00
 
 Inline App Connector Release AC-134.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-134.0.0
@@ -273705,7 +273793,7 @@ Deprecated
 ## Inline App Connector Release AC-134.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-134-0-0/
 **Last Modified:** 2026-06-25T02:35:44+00:00
-**Scraped:** 2026-07-24T09:27:39.390266+00:00
+**Scraped:** 2026-07-25T09:07:28.882144+00:00
 
 Inline App Connector Release AC-134.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-134.0.0
@@ -273737,7 +273825,7 @@ Deprecated
 ## New Features and Enhancements February 13, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-february-13-2026/
 **Last Modified:** 2026-03-05T17:48:08+00:00
-**Scraped:** 2026-07-24T09:27:47.813832+00:00
+**Scraped:** 2026-07-25T09:07:37.516120+00:00
 
 New Features and Enhancements February 13, 2026 - Netskope Knowledge Portal
 New Features and Enhancements February 13, 2026
@@ -273754,7 +273842,7 @@ Metric Accuracy and Performance Optimization
 ## Netskope Release Notes Hotfix Version 134.0.5
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-134-0-5/
 **Last Modified:** 2026-02-15T14:22:17+00:00
-**Scraped:** 2026-07-24T09:27:50.159123+00:00
+**Scraped:** 2026-07-25T09:07:39.855811+00:00
 
 Netskope Release Notes Hotfix Version 134.0.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 134.0.5
@@ -273779,7 +273867,7 @@ What's New
 ## Netskope Adapter Release Notes  215.254.18.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-active-directory-with-netskope-adapters-215-254-18-1/
 **Last Modified:** 2026-02-25T04:53:36+00:00
-**Scraped:** 2026-07-24T09:27:57.384173+00:00
+**Scraped:** 2026-07-25T09:07:47.175366+00:00
 
 Netskope Adapter Release Notes 215.254.18.1 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  215.254.18.1
@@ -273792,7 +273880,7 @@ Fixed Issues
 ## Netskope Adapter Release Notes  215.254.18.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-active-directory-with-netskope-adapters-215-254-18-1/
 **Last Modified:** 2026-02-25T04:53:41+00:00
-**Scraped:** 2026-07-24T09:27:58.551828+00:00
+**Scraped:** 2026-07-25T09:07:48.440496+00:00
 
 Netskope Adapter Release Notes 215.254.18.1 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  215.254.18.1
@@ -273805,7 +273893,7 @@ Fixed Issues
 ## AI Gateway Release Notes Version - 1.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-1/
 **Last Modified:** 2026-02-27T15:17:07+00:00
-**Scraped:** 2026-07-24T09:27:59.720500+00:00
+**Scraped:** 2026-07-25T09:07:49.611055+00:00
 
 AI Gateway Release Notes Version - 1.1 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.1
@@ -273822,7 +273910,7 @@ Fixed Issues
 ## AI Gateway Release Notes Version - 1.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-ai-gateway-1-1/
 **Last Modified:** 2026-02-27T15:17:30+00:00
-**Scraped:** 2026-07-24T09:28:00.891875+00:00
+**Scraped:** 2026-07-25T09:07:50.780461+00:00
 
 AI Gateway Release Notes Version - 1.1 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.1
@@ -273839,7 +273927,7 @@ Fixed Issues
 ## Netskope Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-0-0/
 **Last Modified:** 2026-03-17T17:36:18+00:00
-**Scraped:** 2026-07-24T09:28:05.777632+00:00
+**Scraped:** 2026-07-25T09:07:55.545223+00:00
 
 Netskope Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 135.0.0
@@ -273879,7 +273967,7 @@ Known Issues
 ## Netskope Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-135-0-0/
 **Last Modified:** 2026-03-17T16:34:39+00:00
-**Scraped:** 2026-07-24T09:28:07.005189+00:00
+**Scraped:** 2026-07-25T09:07:56.772832+00:00
 
 Netskope Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 135.0.0
@@ -273919,7 +274007,7 @@ Known Issues
 ## New Features and Enhancements March 5, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-march-5-2026/
 **Last Modified:** 2026-03-07T03:59:37+00:00
-**Scraped:** 2026-07-24T09:28:08.173119+00:00
+**Scraped:** 2026-07-25T09:07:58.038262+00:00
 
 New Features and Enhancements March 5, 2026 - Netskope Knowledge Portal
 New Features and Enhancements March 5, 2026
@@ -273939,7 +274027,7 @@ REST API v2 Reporting Endpoints for Reports
 ## AI Gateway Release Notes Version - 1.2
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-2/
 **Last Modified:** 2026-03-10T13:44:29+00:00
-**Scraped:** 2026-07-24T09:28:09.343185+00:00
+**Scraped:** 2026-07-25T09:07:59.306598+00:00
 
 AI Gateway Release Notes Version - 1.2 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.2
@@ -273954,7 +274042,7 @@ What's New
 ## Inline App Connector Release AC-135.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-135-0-0/
 **Last Modified:** 2026-06-25T02:33:28+00:00
-**Scraped:** 2026-07-24T09:28:12.967362+00:00
+**Scraped:** 2026-07-25T09:08:02.837310+00:00
 
 Inline App Connector Release AC-135.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-135.0.0
@@ -273983,7 +274071,7 @@ Known Issues
 ## Inline App Connector Release AC-135.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-ac-135-0-0/
 **Last Modified:** 2026-06-25T02:33:42+00:00
-**Scraped:** 2026-07-24T09:28:15.313907+00:00
+**Scraped:** 2026-07-25T09:08:05.184740+00:00
 
 Inline App Connector Release AC-135.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-135.0.0
@@ -274012,7 +274100,7 @@ Known Issues
 ## Inline App Connector Release AC-135.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-135-0-0/
 **Last Modified:** 2026-06-25T02:33:58+00:00
-**Scraped:** 2026-07-24T09:28:16.589385+00:00
+**Scraped:** 2026-07-25T09:08:06.357789+00:00
 
 Inline App Connector Release AC-135.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-135.0.0
@@ -274041,7 +274129,7 @@ Known Issues
 ## New Features and Enhancements March 19, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-march-19-2026/
 **Last Modified:** 2026-03-20T17:58:19+00:00
-**Scraped:** 2026-07-24T09:28:21.468819+00:00
+**Scraped:** 2026-07-25T09:08:11.146530+00:00
 
 New Features and Enhancements March 19, 2026 - Netskope Knowledge Portal
 New Features and Enhancements March 19, 2026
@@ -274063,7 +274151,7 @@ Device Client Data Collection
 ## Netskope Release Notes Hotfix Version 135.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-135-1-0/
 **Last Modified:** 2026-03-24T10:45:35+00:00
-**Scraped:** 2026-07-24T09:28:24.982261+00:00
+**Scraped:** 2026-07-25T09:08:14.665084+00:00
 
 Netskope Release Notes Hotfix Version 135.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.0
@@ -274089,7 +274177,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.4
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-135-1-4/
 **Last Modified:** 2026-03-24T06:02:16+00:00
-**Scraped:** 2026-07-24T09:28:27.328334+00:00
+**Scraped:** 2026-07-25T09:08:17.101490+00:00
 
 Netskope Release Notes Hotfix Version 135.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.4
@@ -274114,7 +274202,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.4
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-1-4/
 **Last Modified:** 2026-03-24T06:02:22+00:00
-**Scraped:** 2026-07-24T09:28:28.500291+00:00
+**Scraped:** 2026-07-25T09:08:18.273609+00:00
 
 Netskope Release Notes Hotfix Version 135.1.4 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.4
@@ -274139,7 +274227,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 132.0.23
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-132-0-23/
 **Last Modified:** 2026-03-24T06:04:36+00:00
-**Scraped:** 2026-07-24T09:28:30.836339+00:00
+**Scraped:** 2026-07-25T09:08:20.610185+00:00
 
 Netskope Release Notes Hotfix Version 132.0.23 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 132.0.23
@@ -274163,7 +274251,7 @@ Fixed Issues
 ## Virtual Appliance Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-virtual-appliance-135-0-0/
 **Last Modified:** 2026-03-31T15:23:05+00:00
-**Scraped:** 2026-07-24T09:28:37.993176+00:00
+**Scraped:** 2026-07-25T09:08:27.742763+00:00
 
 Virtual Appliance Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 135.0.0
@@ -274255,7 +274343,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.10
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-1-10/
 **Last Modified:** 2026-04-02T06:36:43+00:00
-**Scraped:** 2026-07-24T09:28:44.134273+00:00
+**Scraped:** 2026-07-25T09:08:33.854663+00:00
 
 Netskope Release Notes Hotfix Version 135.1.10 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.10
@@ -274278,7 +274366,7 @@ Fixed Issues
 ## Netskope Release Notes Version 136.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-136-0-0/
 **Last Modified:** 2026-07-02T21:28:24+00:00
-**Scraped:** 2026-07-24T09:28:46.501037+00:00
+**Scraped:** 2026-07-25T09:08:36.484806+00:00
 
 Netskope Release Notes Version 136.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.0.0
@@ -274314,7 +274402,7 @@ Known Issues
 ## Netskope Release Notes Version 136.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-136-0-0/
 **Last Modified:** 2026-05-18T21:22:37+00:00
-**Scraped:** 2026-07-24T09:28:47.684494+00:00
+**Scraped:** 2026-07-25T09:08:37.962848+00:00
 
 Netskope Release Notes Version 136.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.0.0
@@ -274350,7 +274438,7 @@ Known Issues
 ## Netskope Release Notes Version 136.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-136-0-0/
 **Last Modified:** 2026-04-10T22:28:47+00:00
-**Scraped:** 2026-07-24T09:28:48.862302+00:00
+**Scraped:** 2026-07-25T09:08:39.143443+00:00
 
 Netskope Release Notes Version 136.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 136.0.0
@@ -274386,7 +274474,7 @@ Known Issues
 ## New Features and Enhancements April 13, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-13-2026/
 **Last Modified:** 2026-04-13T20:09:24+00:00
-**Scraped:** 2026-07-24T09:28:50.033897+00:00
+**Scraped:** 2026-07-25T09:08:40.308971+00:00
 
 New Features and Enhancements April 13, 2026 - Netskope Knowledge Portal
 New Features and Enhancements April 13, 2026
@@ -274399,7 +274487,7 @@ Affected tenants and dashboards will now see ‘File Name’ and ‘File Path’
 ## Inline App Connector Release AC-136.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-inline-app-connector-ac-136-0-0/
 **Last Modified:** 2026-06-25T02:31:58+00:00
-**Scraped:** 2026-07-24T09:28:52.387536+00:00
+**Scraped:** 2026-07-25T09:08:42.670349+00:00
 
 Inline App Connector Release AC-136.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-136.0.0
@@ -274427,7 +274515,7 @@ Known Issues
 ## Inline App Connector Release AC-136.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-inline-app-connector-ac-136-0-0/
 **Last Modified:** 2026-06-25T02:32:15+00:00
-**Scraped:** 2026-07-24T09:28:53.558695+00:00
+**Scraped:** 2026-07-25T09:08:43.843750+00:00
 
 Inline App Connector Release AC-136.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-136.0.0
@@ -274455,7 +274543,7 @@ Known Issues
 ## Inline App Connector Release AC-136.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-inline-app-connector-ac-136-0-0/
 **Last Modified:** 2026-06-25T02:32:34+00:00
-**Scraped:** 2026-07-24T09:28:54.732168+00:00
+**Scraped:** 2026-07-25T09:08:45.012765+00:00
 
 Inline App Connector Release AC-136.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-136.0.0
@@ -274483,7 +274571,7 @@ Known Issues
 ## New Features and Enhancements April 17, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-17-2026/
 **Last Modified:** 2026-04-18T01:48:27+00:00
-**Scraped:** 2026-07-24T09:28:59.420145+00:00
+**Scraped:** 2026-07-25T09:08:49.802348+00:00
 
 New Features and Enhancements April 17, 2026 - Netskope Knowledge Portal
 New Features and Enhancements April 17, 2026
@@ -274529,7 +274617,7 @@ AI Guardrails Dashboard
 ## AI Gateway Release Notes Version - 1.3
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-3/
 **Last Modified:** 2026-04-21T06:33:09+00:00
-**Scraped:** 2026-07-24T09:29:07.641433+00:00
+**Scraped:** 2026-07-25T09:08:58.107047+00:00
 
 AI Gateway Release Notes Version - 1.3 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.3
@@ -274544,7 +274632,7 @@ What's New
 ## Netskope Release Notes Hotfix Version 136.1.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-136-1-5/
 **Last Modified:** 2026-04-21T15:41:08+00:00
-**Scraped:** 2026-07-24T09:29:10.080632+00:00
+**Scraped:** 2026-07-25T09:09:00.447678+00:00
 
 Netskope Release Notes Hotfix Version 136.1.5 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 136.1.5
@@ -274569,7 +274657,7 @@ Fixed Issues
 ## New Features and Enhancements April 23, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-april-23-2026/
 **Last Modified:** 2026-05-06T17:00:49+00:00
-**Scraped:** 2026-07-24T09:29:11.248475+00:00
+**Scraped:** 2026-07-25T09:09:01.624642+00:00
 
 New Features and Enhancements April 23, 2026 - Netskope Knowledge Portal
 New Features and Enhancements April 23, 2026
@@ -274583,7 +274671,7 @@ AI Gateway Analytics Dashboard
 ## Netskope Cloud Exchange Release Notes Version 6.1.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-exchange-version-6-1-0/
 **Last Modified:** 2026-07-22T05:13:09+00:00
-**Scraped:** 2026-07-24T09:29:13.593554+00:00
+**Scraped:** 2026-07-25T09:09:04.053943+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.1.0
@@ -274597,7 +274685,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.1.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-exchange-version-6-1-0/
 **Last Modified:** 2026-04-27T19:31:50+00:00
-**Scraped:** 2026-07-24T09:29:14.764958+00:00
+**Scraped:** 2026-07-25T09:09:05.223993+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.1.0
@@ -274611,7 +274699,7 @@ Known Issues
 ## Netskope Cloud Exchange Release Notes Version 6.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-exchange-version-6-1-0/
 **Last Modified:** 2026-05-27T10:07:46+00:00
-**Scraped:** 2026-07-24T09:29:15.934960+00:00
+**Scraped:** 2026-07-25T09:09:06.492264+00:00
 
 Netskope Cloud Exchange Release Notes Version 6.1.0 - Netskope Knowledge Portal
 Netskope Cloud Exchange Release Notes Version 6.1.0
@@ -274625,7 +274713,7 @@ Known Issues
 ## Enterprise Browser Release Notes April 30, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-enterprise-browser-april-30-2026/
 **Last Modified:** 2026-04-30T15:13:00+00:00
-**Scraped:** 2026-07-24T09:29:18.288235+00:00
+**Scraped:** 2026-07-25T09:09:08.832023+00:00
 
 Enterprise Browser Release Notes April 30, 2026 - Netskope Knowledge Portal
 Enterprise Browser Release Notes April 30, 2026
@@ -274635,7 +274723,7 @@ What's New
 ## Netskope Release Notes Version 137.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-137-0-0/
 **Last Modified:** 2026-06-01T23:59:00+00:00
-**Scraped:** 2026-07-24T09:29:21.814984+00:00
+**Scraped:** 2026-07-25T09:09:12.433527+00:00
 
 Netskope Release Notes Version 137.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.0.0
@@ -274668,7 +274756,7 @@ Known Issues
 ## Netskope Release Notes Version 137.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-137-0-0/
 **Last Modified:** 2026-05-04T14:47:32+00:00
-**Scraped:** 2026-07-24T09:29:22.995295+00:00
+**Scraped:** 2026-07-25T09:09:13.612752+00:00
 
 Netskope Release Notes Version 137.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.0.0
@@ -274701,7 +274789,7 @@ Known Issues
 ## Netskope Release Notes Version 137.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-137-0-0/
 **Last Modified:** 2026-05-04T14:48:14+00:00
-**Scraped:** 2026-07-24T09:29:24.173740+00:00
+**Scraped:** 2026-07-25T09:09:14.787845+00:00
 
 Netskope Release Notes Version 137.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.0.0
@@ -274734,7 +274822,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.13
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-1-13/
 **Last Modified:** 2026-05-05T04:05:13+00:00
-**Scraped:** 2026-07-24T09:29:26.514703+00:00
+**Scraped:** 2026-07-25T09:09:17.137292+00:00
 
 Netskope Release Notes Hotfix Version 135.1.13 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.13
@@ -274753,7 +274841,7 @@ Fixed Issues
 ## Netskope Release Notes Hotfix Version 137.0.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-137-0-1/
 **Last Modified:** 2026-05-05T10:52:12+00:00
-**Scraped:** 2026-07-24T09:29:28.959444+00:00
+**Scraped:** 2026-07-25T09:09:19.478478+00:00
 
 Netskope Release Notes Hotfix Version 137.0.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 137.0.1
@@ -274779,7 +274867,7 @@ Fixed Issues
 ## Netskope Release Notes Hotfix Version 137.0.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-137-0-1/
 **Last Modified:** 2026-05-05T04:18:57+00:00
-**Scraped:** 2026-07-24T09:29:30.131532+00:00
+**Scraped:** 2026-07-25T09:09:20.648644+00:00
 
 Netskope Release Notes Hotfix Version 137.0.1 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 137.0.1
@@ -274805,7 +274893,7 @@ Fixed Issues
 ## AI Gateway Release Notes Version - 1.4
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-4/
 **Last Modified:** 2026-05-08T04:07:02+00:00
-**Scraped:** 2026-07-24T09:29:34.913572+00:00
+**Scraped:** 2026-07-25T09:09:25.518853+00:00
 
 AI Gateway Release Notes Version - 1.4 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.4
@@ -274820,7 +274908,7 @@ What's New
 ## Inline App Connector Release AC-137.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-inline-app-connector-ac-137-0-0/
 **Last Modified:** 2026-06-25T02:30:21+00:00
-**Scraped:** 2026-07-24T09:29:37.254034+00:00
+**Scraped:** 2026-07-25T09:09:27.856203+00:00
 
 Inline App Connector Release AC-137.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-137.0.0
@@ -274848,7 +274936,7 @@ Known Issues
 ## Inline App Connector Release AC-137.0.0
 **URL:** https://docs.netskope.com/en/known-issues-inline-app-connector-ac-137-0-0/
 **Last Modified:** 2026-06-25T02:30:55+00:00
-**Scraped:** 2026-07-24T09:29:39.631230+00:00
+**Scraped:** 2026-07-25T09:09:30.213060+00:00
 
 Inline App Connector Release AC-137.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-137.0.0
@@ -274876,7 +274964,7 @@ Known Issues
 ## Inline App Connector Release AC-137.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-inline-app-connector-ac-137-0-0/
 **Last Modified:** 2026-06-25T02:30:41+00:00
-**Scraped:** 2026-07-24T09:29:40.808576+00:00
+**Scraped:** 2026-07-25T09:09:31.389555+00:00
 
 Inline App Connector Release AC-137.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-137.0.0
@@ -274904,7 +274992,7 @@ Known Issues
 ## Netskope Release Notes Hotfix Version 135.1.14
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-1-14/
 **Last Modified:** 2026-05-14T17:30:12+00:00
-**Scraped:** 2026-07-24T09:29:43.330880+00:00
+**Scraped:** 2026-07-25T09:09:33.920364+00:00
 
 Netskope Release Notes Hotfix Version 135.1.14 - Netskope Knowledge Portal
 Netskope Release Notes Hotfix Version 135.1.14
@@ -274926,7 +275014,7 @@ Fixed Issues
 ## Netskope Release Notes Version 137.1.3
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-137-1-3/
 **Last Modified:** 2026-05-18T19:11:31+00:00
-**Scraped:** 2026-07-24T09:29:54.066486+00:00
+**Scraped:** 2026-07-25T09:09:44.819152+00:00
 
 Netskope Release Notes Version 137.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.1.3
@@ -274949,7 +275037,7 @@ Known Issues
 ## Netskope Release Notes Version 137.1.3
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-137-1-3/
 **Last Modified:** 2026-05-18T19:10:57+00:00
-**Scraped:** 2026-07-24T09:29:55.239388+00:00
+**Scraped:** 2026-07-25T09:09:45.990713+00:00
 
 Netskope Release Notes Version 137.1.3 - Netskope Knowledge Portal
 Netskope Release Notes Version 137.1.3
@@ -274972,7 +275060,7 @@ Known Issues
 ## AI Gateway Release Notes Version - 1.5
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-5/
 **Last Modified:** 2026-06-08T04:55:55+00:00
-**Scraped:** 2026-07-24T09:29:58.847436+00:00
+**Scraped:** 2026-07-25T09:09:49.497816+00:00
 
 AI Gateway Release Notes Version - 1.5 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.5
@@ -274988,7 +275076,7 @@ Fixed Issues
 ## AI Gateway Release Notes Version - 1.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-ai-gateway-1-5/
 **Last Modified:** 2026-06-08T03:57:56+00:00
-**Scraped:** 2026-07-24T09:30:00.018028+00:00
+**Scraped:** 2026-07-25T09:09:50.665028+00:00
 
 AI Gateway Release Notes Version - 1.5 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.5
@@ -275004,7 +275092,7 @@ Fixed Issues
 ## Netskope Release Notes Version 138.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-138-0-0/
 **Last Modified:** 2026-07-14T16:50:48+00:00
-**Scraped:** 2026-07-24T09:30:03.595754+00:00
+**Scraped:** 2026-07-25T09:09:54.447434+00:00
 
 Netskope Release Notes Version 138.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.0.0
@@ -275035,7 +275123,7 @@ Known Issues
 ## Netskope Release Notes Version 138.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-138-0-0/
 **Last Modified:** 2026-06-17T20:36:24+00:00
-**Scraped:** 2026-07-24T09:30:04.824820+00:00
+**Scraped:** 2026-07-25T09:09:55.625154+00:00
 
 Netskope Release Notes Version 138.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.0.0
@@ -275066,7 +275154,7 @@ Known Issues
 ## Netskope Release Notes Version 138.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-138-0-0/
 **Last Modified:** 2026-06-17T23:11:26+00:00
-**Scraped:** 2026-07-24T09:30:06.002697+00:00
+**Scraped:** 2026-07-25T09:09:56.801378+00:00
 
 Netskope Release Notes Version 138.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.0.0
@@ -275097,7 +275185,7 @@ Known Issues
 ## Virtual Appliance Release Notes Version 135.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-virtual-appliance-135-0-0/
 **Last Modified:** 2026-06-12T17:22:51+00:00
-**Scraped:** 2026-07-24T09:30:07.189656+00:00
+**Scraped:** 2026-07-25T09:09:57.989540+00:00
 
 Virtual Appliance Release Notes Version 135.0.0 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 135.0.0
@@ -275189,7 +275277,7 @@ Known Issues
 ## Netskope Release Notes Version 138.0.2
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-138-0-2/
 **Last Modified:** 2026-06-10T01:56:13+00:00
-**Scraped:** 2026-07-24T09:30:09.534659+00:00
+**Scraped:** 2026-07-25T09:10:00.331980+00:00
 
 Netskope Release Notes Version 138.0.2 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.0.2
@@ -275214,7 +275302,7 @@ Fixed Issues
 ## Inline App Connector Release AC-138.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-inline-app-connector-ac-138-0-0/
 **Last Modified:** 2026-06-25T02:27:39+00:00
-**Scraped:** 2026-07-24T09:30:11.879763+00:00
+**Scraped:** 2026-07-25T09:10:02.836695+00:00
 
 Inline App Connector Release AC-138.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-138.0.0
@@ -275244,7 +275332,7 @@ Deprecated
 ## Inline App Connector Release AC-138.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-inline-app-connector-ac-138-0-0/
 **Last Modified:** 2026-06-25T02:28:13+00:00
-**Scraped:** 2026-07-24T09:30:13.053299+00:00
+**Scraped:** 2026-07-25T09:10:04.010271+00:00
 
 Inline App Connector Release AC-138.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-138.0.0
@@ -275274,7 +275362,7 @@ Deprecated
 ## Inline App Connector Release AC-138.0.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-netskope-inline-app-connector-ac-138-0-0/
 **Last Modified:** 2026-06-25T02:28:27+00:00
-**Scraped:** 2026-07-24T09:30:14.224176+00:00
+**Scraped:** 2026-07-25T09:10:05.181994+00:00
 
 Inline App Connector Release AC-138.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-138.0.0
@@ -275304,8 +275392,9 @@ Deprecated
 ## Virtual Appliance Release Notes Version 132.0.1
 **URL:** https://docs.netskope.com/en/known-issues-in-virtual-appliance-132-0-1/
 **Last Modified:** 2026-06-12T17:19:19+00:00
-**Scraped:** 2026-07-24T09:30:15.404296+00:00
+**Scraped:** 2026-07-25T09:10:06.363493+00:00
 
+Virtual Appliance Release Notes Version 132.0.1 - Netskope Knowledge Portal
 Virtual Appliance Release Notes Version 132.0.1
 Release Date: February 4, 2026
 This release provides several improvements for Netskope’s Virtual Appliance, such as new features, enhancements, known issues, and fixed issues.
@@ -275397,7 +275486,7 @@ Deprecated
 ## New Features and Enhancements June 12, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-june-12-2026/
 **Last Modified:** 2026-06-12T20:15:45+00:00
-**Scraped:** 2026-07-24T09:30:16.573105+00:00
+**Scraped:** 2026-07-25T09:10:07.626395+00:00
 
 New Features and Enhancements June 12, 2026 - Netskope Knowledge Portal
 New Features and Enhancements June 12, 2026
@@ -275420,7 +275509,7 @@ Agentic Broker Dashboard for Securing MCP
 ## Netskope Adapter Release Notes  215.255.20261.23
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-active-directory-with-netskope-adapters-215-255-20261-23/
 **Last Modified:** 2026-06-19T00:20:01+00:00
-**Scraped:** 2026-07-24T09:30:23.707052+00:00
+**Scraped:** 2026-07-25T09:10:14.646187+00:00
 
 Netskope Adapter Release Notes 215.255.20261.23 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  215.255.20261.23
@@ -275433,7 +275522,7 @@ Fixed Issues
 ## Netskope Adapter Release Notes  215.255.20261.23
 **URL:** https://docs.netskope.com/en/fixed-issues-in-active-directory-with-netskope-adapters-215-255-20261-23/
 **Last Modified:** 2026-06-19T00:20:09+00:00
-**Scraped:** 2026-07-24T09:30:24.876710+00:00
+**Scraped:** 2026-07-25T09:10:15.914196+00:00
 
 Netskope Adapter Release Notes 215.255.20261.23 - Netskope Knowledge Portal
 Netskope Adapter Release Notes  215.255.20261.23
@@ -275446,7 +275535,7 @@ Fixed Issues
 ## Netskope Release Notes Version 138.1.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-138-1-0/
 **Last Modified:** 2026-06-22T11:55:53+00:00
-**Scraped:** 2026-07-24T09:30:27.237509+00:00
+**Scraped:** 2026-07-25T09:10:18.254239+00:00
 
 Netskope Release Notes Version 138.1.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.1.0
@@ -275472,7 +275561,7 @@ Known Issues
 ## Netskope Release Notes Version 139.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-139-0-0/
 **Last Modified:** 2026-07-17T04:03:30+00:00
-**Scraped:** 2026-07-24T09:30:33.383108+00:00
+**Scraped:** 2026-07-25T09:10:24.128769+00:00
 
 Netskope Release Notes Version 139.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 139.0.0
@@ -275506,7 +275595,7 @@ Known Issues
 ## Netskope Release Notes Version 139.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-139-0-0/
 **Last Modified:** 2026-07-14T10:43:03+00:00
-**Scraped:** 2026-07-24T09:30:34.665748+00:00
+**Scraped:** 2026-07-25T09:10:25.462392+00:00
 
 Netskope Release Notes Version 139.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 139.0.0
@@ -275540,7 +275629,7 @@ Known Issues
 ## Netskope Release Notes Version 139.0.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-139-0-0/
 **Last Modified:** 2026-07-06T06:04:11+00:00
-**Scraped:** 2026-07-24T09:30:35.901929+00:00
+**Scraped:** 2026-07-25T09:10:26.791826+00:00
 
 Netskope Release Notes Version 139.0.0 - Netskope Knowledge Portal
 Netskope Release Notes Version 139.0.0
@@ -275574,7 +275663,7 @@ Known Issues
 ## Netskope Release Notes Version 138.1.5
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-138-1-5/
 **Last Modified:** 2026-07-08T04:28:17+00:00
-**Scraped:** 2026-07-24T09:30:39.417190+00:00
+**Scraped:** 2026-07-25T09:10:30.306581+00:00
 
 Netskope Release Notes Version 138.1.5 - Netskope Knowledge Portal
 Netskope Release Notes Version 138.1.5
@@ -275598,7 +275687,7 @@ Fixed Issues
 ## Netskope Release Notes Version 135.1.20
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-135-1-20/
 **Last Modified:** 2026-07-08T04:31:09+00:00
-**Scraped:** 2026-07-24T09:30:41.762395+00:00
+**Scraped:** 2026-07-25T09:10:32.740472+00:00
 
 Netskope Release Notes Version 135.1.20 - Netskope Knowledge Portal
 Netskope Release Notes Version 135.1.20
@@ -275622,7 +275711,7 @@ Fixed Issues
 ## Netskope Release Notes Version 132.0.28
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-132-0-28/
 **Last Modified:** 2026-07-08T04:34:03+00:00
-**Scraped:** 2026-07-24T09:30:44.297617+00:00
+**Scraped:** 2026-07-25T09:10:35.083068+00:00
 
 Netskope Release Notes Version 132.0.28 - Netskope Knowledge Portal
 Netskope Release Notes Version 132.0.28
@@ -275646,7 +275735,7 @@ Fixed Issues
 ## Inline App Connector Release AC-139.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-inline-app-connector-ac-139-0-0/
 **Last Modified:** 2026-07-13T07:24:25+00:00
-**Scraped:** 2026-07-24T09:30:46.645704+00:00
+**Scraped:** 2026-07-25T09:10:37.427860+00:00
 
 Inline App Connector Release AC-139.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-139.0.0
@@ -275673,7 +275762,7 @@ Fixed Issues
 ## Inline App Connector Release AC-139.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-inline-app-connector-ac-139-0-0/
 **Last Modified:** 2026-07-13T07:11:01+00:00
-**Scraped:** 2026-07-24T09:30:47.819931+00:00
+**Scraped:** 2026-07-25T09:10:38.967609+00:00
 
 Inline App Connector Release AC-139.0.0 - Netskope Knowledge Portal
 Inline App Connector Release AC-139.0.0
@@ -275700,7 +275789,7 @@ Fixed Issues
 ## AI Gateway Release Notes Version - 1.6
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-6/
 **Last Modified:** 2026-07-15T19:52:37+00:00
-**Scraped:** 2026-07-24T09:30:50.162483+00:00
+**Scraped:** 2026-07-25T09:10:41.506553+00:00
 
 AI Gateway Release Notes Version - 1.6 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.6
@@ -275716,7 +275805,7 @@ Fixed Issues
 ## AI Gateway Release Notes Version - 1.6
 **URL:** https://docs.netskope.com/en/fixed-issues-in-ai-gateway-1-6/
 **Last Modified:** 2026-07-15T19:45:48+00:00
-**Scraped:** 2026-07-24T09:30:51.333215+00:00
+**Scraped:** 2026-07-25T09:10:42.677452+00:00
 
 AI Gateway Release Notes Version - 1.6 - Netskope Knowledge Portal
 AI Gateway Release Notes Version - 1.6
@@ -275732,7 +275821,7 @@ Fixed Issues
 ## Enterprise Browser Release Notes July 15, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-enterprise-browser-july-15-2026/
 **Last Modified:** 2026-07-21T17:33:04+00:00
-**Scraped:** 2026-07-24T09:30:57.206513+00:00
+**Scraped:** 2026-07-25T09:10:48.632903+00:00
 
 Enterprise Browser Release Notes July 15, 2026 - Netskope Knowledge Portal
 Enterprise Browser Release Notes July 15, 2026
