@@ -1,12 +1,12 @@
 # Netskope Docs — Sase
-_Generated: 2026-07-25 09:10 UTC_
+_Generated: 2026-07-26 09:26 UTC_
 _Pages: 4_
 
 ---
 ## Borderless SD-WAN
 **URL:** https://docs.netskope.com/en/borderless-sd-wan/
 **Last Modified:** 2026-06-02T01:38:20+00:00
-**Scraped:** 2026-07-25T08:15:34.927408+00:00
+**Scraped:** 2026-07-26T08:34:41.103529+00:00
 
 Borderless SD-WAN - Netskope Knowledge Portal
 Borderless SD-WAN
@@ -23,7 +23,7 @@ Borderless SD-WAN
 ## Netskope IPSec with Aruba EdgeConnect SD-WAN
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-aruba-edgeconnect-sd-wan/
 **Last Modified:** 2025-08-31T01:55:23+00:00
-**Scraped:** 2026-07-25T08:30:51.647840+00:00
+**Scraped:** 2026-07-26T08:48:59.681206+00:00
 
 Netskope IPSec with Aruba EdgeConnect SD-WAN - Netskope Knowledge Portal
 Netskope IPSec with Aruba EdgeConnect SD-WAN
@@ -349,7 +349,7 @@ Netskope IPSec with Aruba EdgeConnect SD-WAN
 ## Netskope Borderless WAN Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-tenant-plugin/
 **Last Modified:** 2026-05-05T22:35:25+00:00
-**Scraped:** 2026-07-25T08:36:43.320436+00:00
+**Scraped:** 2026-07-26T08:54:28.913010+00:00
 
 Netskope Borderless WAN Tenant Plugin - Netskope Knowledge Portal
 Netskope Borderless WAN Tenant Plugin
@@ -536,7 +536,7 @@ Netskope Borderless WAN Tenant Plugin
 ## Netskope Borderless WAN Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:48:53+00:00
-**Scraped:** 2026-07-25T08:36:44.508073+00:00
+**Scraped:** 2026-07-26T08:54:30.041742+00:00
 
 Netskope Borderless WAN Plugin for Log Shipper - Netskope Knowledge Portal
 Netskope Borderless WAN Plugin for Log Shipper

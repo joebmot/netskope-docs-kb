@@ -1,12 +1,12 @@
 # Netskope Docs — Firewall
-_Generated: 2026-07-25 09:10 UTC_
+_Generated: 2026-07-26 09:26 UTC_
 _Pages: 12_
 
 ---
 ## Check Firewall Policy
 **URL:** https://docs.netskope.com/en/check-firewall-policy/
 **Last Modified:** 2026-03-06T02:17:29+00:00
-**Scraped:** 2026-07-25T08:01:44.837796+00:00
+**Scraped:** 2026-07-26T08:21:47.915353+00:00
 
 Check Firewall Policy - Netskope Knowledge Portal
 Check Firewall Policy
@@ -37,7 +37,7 @@ Check Firewall Policy
 ## Cloud Firewall Advanced Analytics Events
 **URL:** https://docs.netskope.com/en/cloud-firewall-advanced-analytics-events/
 **Last Modified:** 2025-08-31T01:50:43+00:00
-**Scraped:** 2026-07-25T08:05:34.267204+00:00
+**Scraped:** 2026-07-26T08:25:21.198679+00:00
 
 Cloud Firewall Advanced Analytics Events - Netskope Knowledge Portal
 Cloud Firewall Advanced Analytics Events
@@ -85,7 +85,7 @@ Cloud Firewall Advanced Analytics Events
 ## Cloud Firewall Network Events and Alerts
 **URL:** https://docs.netskope.com/en/cloud-firewall-network-events-and-alerts/
 **Last Modified:** 2025-08-31T01:50:42+00:00
-**Scraped:** 2026-07-25T08:05:38.958377+00:00
+**Scraped:** 2026-07-26T08:25:25.628714+00:00
 
 Cloud Firewall Network Events and Alerts - Netskope Knowledge Portal
 Cloud Firewall Network Events and Alerts
@@ -162,7 +162,7 @@ Cloud Firewall Network Events and Alerts
 ## Configuring Cloud Firewall Steering Exceptions
 **URL:** https://docs.netskope.com/en/configuring-cloud-firewall-steering-exceptions/
 **Last Modified:** 2026-02-17T18:22:18+00:00
-**Scraped:** 2026-07-25T08:06:20.098481+00:00
+**Scraped:** 2026-07-26T08:26:03.573094+00:00
 
 Configuring Cloud Firewall Steering Exceptions - Netskope Knowledge Portal
 Configuring Cloud Firewall Steering Exceptions
@@ -210,7 +210,7 @@ Configuring Cloud Firewall Steering Exceptions
 ## Creating a Firewall App Definition
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition/
 **Last Modified:** 2025-08-31T01:50:40+00:00
-**Scraped:** 2026-07-25T08:07:15.523122+00:00
+**Scraped:** 2026-07-26T08:26:54.913568+00:00
 
 Creating a Firewall App Definition - Netskope Knowledge Portal
 Creating a Firewall App Definition
@@ -286,7 +286,7 @@ Creating a Firewall App Definition
 ## Netskope Client Support in Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-client-support-in-cloud-firewall/
 **Last Modified:** 2026-05-12T18:04:01+00:00
-**Scraped:** 2026-07-25T08:10:48.450025+00:00
+**Scraped:** 2026-07-26T08:30:13.711227+00:00
 
 Netskope Client Support in Cloud Firewall
 Netskope client is an agent-based deployment method where a lightweight non-intrusive agent is installed on the endpoint. The Netskope client provides the most comprehensive coverage as they can be installed on managed devices to provide visibility and policy enforcement for devices that are both on-premises and remote (off network).
@@ -482,9 +482,8 @@ Netskope Client Support in Cloud Firewall
 ## Creating a Firewall App Definition
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition-449298/
 **Last Modified:** 2025-09-16T06:08:33+00:00
-**Scraped:** 2026-07-25T08:15:44.677836+00:00
+**Scraped:** 2026-07-26T08:34:49.984337+00:00
 
-Creating a Firewall App Definition - Netskope Knowledge Portal
 Creating a Firewall App Definition
 If you have the Cloud Firewall license, on the App Definition page, you can create new rules for firewall apps to apply to policies. You can create multiple rules for the same firewall app. For example, if you create an app called “Allow_FTP” with a certain destination IP and protocol, this same app can be reused to add more destination IPs and protocols.
 Note
@@ -541,7 +540,7 @@ Creating a Firewall App Definition
 ## Firewall Settings for DSPM-Hosted Instances
 **URL:** https://docs.netskope.com/en/firewall-settings-for-netskope-dspm-hosted-instances/
 **Last Modified:** 2026-06-18T22:14:05+00:00
-**Scraped:** 2026-07-25T08:34:04.016141+00:00
+**Scraped:** 2026-07-26T08:52:00.085352+00:00
 
 Firewall Settings for DSPM-Hosted Instances - Netskope Knowledge Portal
 Firewall Settings for DSPM-Hosted Instances
@@ -638,7 +637,7 @@ Firewall Settings for DSPM-Hosted Instances
 ## CCI Cloud Firewall Apps
 **URL:** https://docs.netskope.com/en/cci-cloud-firewall-apps/
 **Last Modified:** 2026-06-19T16:05:45+00:00
-**Scraped:** 2026-07-25T08:35:15.730488+00:00
+**Scraped:** 2026-07-26T08:53:06.594441+00:00
 
 CCI Cloud Firewall Apps - Netskope Knowledge Portal
 CCI Cloud Firewall Apps
@@ -651,7 +650,7 @@ CCI Cloud Firewall Apps
 ## Windows Defender Firewall
 **URL:** https://docs.netskope.com/en/windows-defender-firewall/
 **Last Modified:** 2026-07-22T06:24:39+00:00
-**Scraped:** 2026-07-25T08:48:30.062254+00:00
+**Scraped:** 2026-07-26T09:05:36.355604+00:00
 
 Windows Defender Firewall - Netskope Knowledge Portal
 Windows Defender Firewall
@@ -752,7 +751,7 @@ Windows Defender Firewall
 ## Mac Native Firewall
 **URL:** https://docs.netskope.com/en/mac-native-firewall/
 **Last Modified:** 2026-07-22T06:32:16+00:00
-**Scraped:** 2026-07-25T08:48:47.729400+00:00
+**Scraped:** 2026-07-26T09:05:53.193165+00:00
 
 Mac Native Firewall - Netskope Knowledge Portal
 Mac Native Firewall
@@ -802,9 +801,8 @@ Mac Native Firewall
 ## Netskope Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-cloud-firewall/
 **Last Modified:** 2026-01-12T22:43:34+00:00
-**Scraped:** 2026-07-25T08:49:56.202883+00:00
+**Scraped:** 2026-07-26T09:06:58.807068+00:00
 
-Netskope Cloud Firewall - Netskope Knowledge Portal
 Netskope Cloud Firewall
 Note
 This document guides you to configure the Netskope Cloud Firewall. The Netskope Cloud Firewall controls your organizations’ outbound non-HTTP(S) traffic. However, if you intend to manage the HTTP(S) traffic (on port 80/443 and non standard ports), you can refer to the Netskope Secure Web Gateway and Netskope Cloud Access Security Broker documentation.
