@@ -1,13 +1,14 @@
 # Netskope Docs — Casb
-_Generated: 2026-07-26 09:26 UTC_
+_Generated: 2026-07-27 10:50 UTC_
 _Pages: 7_
 
 ---
 ## API (Observe for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-observe-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-07-26T08:21:23.584007+00:00
+**Scraped:** 2026-07-27T09:42:58.706533+00:00
 
+API (Observe for Managed App Activities) - Netskope Knowledge Portal
 API (Observe for Managed App Activities)
 This section outlines specific use cases to observe for managed app activities. Check back because new use cases are added periodically.
 Create a list of publicly accessible documents in an API-Protected service
@@ -24,7 +25,7 @@ API (Observe for Managed App Activities)
 ## API (Monitor for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-07-26T08:21:24.694151+00:00
+**Scraped:** 2026-07-27T09:42:59.852228+00:00
 
 API (Monitor for Managed App Activities) - Netskope Knowledge Portal
 API (Monitor for Managed App Activities)
@@ -43,7 +44,7 @@ API (Monitor for Managed App Activities)
 ## API Connectors
 **URL:** https://docs.netskope.com/en/api-connectors/
 **Last Modified:** 2025-11-04T16:57:54+00:00
-**Scraped:** 2026-07-26T08:21:25.783545+00:00
+**Scraped:** 2026-07-27T09:43:00.975173+00:00
 
 API Connectors - Netskope Knowledge Portal
 API Connectors
@@ -58,7 +59,7 @@ API Connectors
 ## CASB API Protection
 **URL:** https://docs.netskope.com/en/casb-api-protection/
 **Last Modified:** 2026-01-31T05:39:42+00:00
-**Scraped:** 2026-07-26T08:21:46.786624+00:00
+**Scraped:** 2026-07-27T09:43:22.694174+00:00
 
 CASB API Protection - Netskope Knowledge Portal
 CASB API Protection
@@ -80,7 +81,7 @@ CASB API Protection
 ## Remove the Netskope CASB API App from the Zoom Account
 **URL:** https://docs.netskope.com/en/remove-the-netskope-casb-api-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-07-26T08:31:28.817056+00:00
+**Scraped:** 2026-07-27T09:53:21.493495+00:00
 
 Remove the Netskope CASB API App from the Zoom Account - Netskope Knowledge Portal
 Remove the Netskope CASB API App from the Zoom Account
@@ -114,7 +115,7 @@ Remove the Netskope CASB API App from the Zoom Account
 ## Uninstall the Netskope CASB API for Confluence App
 **URL:** https://docs.netskope.com/en/uninstall-the-netskope-casb-api-for-confluence-app/
 **Last Modified:** 2025-08-31T01:42:14+00:00
-**Scraped:** 2026-07-26T08:47:30.442746+00:00
+**Scraped:** 2026-07-27T10:09:46.874731+00:00
 
 Uninstall the Netskope CASB API for Confluence App - Netskope Knowledge Portal
 Uninstall the Netskope CASB API for Confluence App
@@ -141,7 +142,7 @@ Uninstall the Netskope CASB API for Confluence App
 ## CASB API Usage
 **URL:** https://docs.netskope.com/en/casb-api-billable-user-calculation/
 **Last Modified:** 2026-06-12T07:25:57+00:00
-**Scraped:** 2026-07-26T09:02:22.925987+00:00
+**Scraped:** 2026-07-27T10:25:02.396070+00:00
 
 CASB API Usage - Netskope Knowledge Portal
 CASB API Usage
