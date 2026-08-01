@@ -1,12 +1,12 @@
 # Netskope Docs — Uba
-_Generated: 2026-07-31 09:49 UTC_
-_Pages: 22_
+_Generated: 2026-08-01 09:24 UTC_
+_Pages: 21_
 
 ---
 ## Deactivated User Behavior in Workplace from Meta
 **URL:** https://docs.netskope.com/en/deactivated-user-behavior-in-workplace-from-meta/
 **Last Modified:** 2025-08-31T01:41:56+00:00
-**Scraped:** 2026-07-31T08:49:53.747868+00:00
+**Scraped:** 2026-08-01T08:20:02.452983+00:00
 
 Deactivated User Behavior in Workplace from Meta - Netskope Knowledge Portal
 Deactivated User Behavior in Workplace from Meta
@@ -26,7 +26,7 @@ Deactivated User Behavior in Workplace from Meta
 ## Deleted/Deactivated User Behavior in Egnyte
 **URL:** https://docs.netskope.com/en/deleted-deactivated-user-behavior-in-egnyte/
 **Last Modified:** 2025-08-31T01:40:17+00:00
-**Scraped:** 2026-07-31T08:50:00.375599+00:00
+**Scraped:** 2026-08-01T08:20:09.324557+00:00
 
 Deleted/Deactivated User Behavior in Egnyte - Netskope Knowledge Portal
 Deleted/Deactivated User Behavior in Egnyte
@@ -54,7 +54,7 @@ Deleted/Deactivated User Behavior in Egnyte
 ## Deleted/Suspended User Behavior in Dropbox
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-dropbox/
 **Last Modified:** 2025-08-31T01:40:11+00:00
-**Scraped:** 2026-07-31T08:50:01.493703+00:00
+**Scraped:** 2026-08-01T08:20:10.479671+00:00
 
 Deleted/Suspended User Behavior in Dropbox - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Dropbox
@@ -76,7 +76,7 @@ Deleted/Suspended User Behavior in Dropbox
 ## Deleted/Suspended User Behavior in Box
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-box/
 **Last Modified:** 2025-08-31T01:39:55+00:00
-**Scraped:** 2026-07-31T08:50:02.639639+00:00
+**Scraped:** 2026-08-01T08:20:11.645827+00:00
 
 Deleted/Suspended User Behavior in Box - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Box
@@ -98,9 +98,8 @@ Deleted/Suspended User Behavior in Box
 ## Deleted/Suspended User Behavior in Gmail
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-gmail/
 **Last Modified:** 2025-08-31T01:40:31+00:00
-**Scraped:** 2026-07-31T08:50:03.747253+00:00
+**Scraped:** 2026-08-01T08:20:13.205032+00:00
 
-Deleted/Suspended User Behavior in Gmail - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Gmail
 This article describes how API Data Protection deals when a user is either deleted or suspended in Gmail.
 User State
@@ -112,12 +111,13 @@ Suspended
 Same behavior as above.
 In this Topic
 Deleted/Suspended User Behavior in Gmail
+Deleted/Suspended User Behavior in Gmail - Netskope Knowledge Portal
 
 ---
 ## Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-sharepoint/
 **Last Modified:** 2025-08-31T01:41:18+00:00
-**Scraped:** 2026-07-31T08:50:04.875633+00:00
+**Scraped:** 2026-08-01T08:20:14.339729+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
@@ -139,7 +139,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 ## Deleted/Suspended User Behavior in Google Drive
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-google-drive/
 **Last Modified:** 2025-08-31T01:40:41+00:00
-**Scraped:** 2026-07-31T08:50:05.978379+00:00
+**Scraped:** 2026-08-01T08:20:15.481303+00:00
 
 Deleted/Suspended User Behavior in Google Drive - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Google Drive
@@ -165,9 +165,8 @@ Deleted/Suspended User Behavior in Google Drive
 ## Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-onedrive/
 **Last Modified:** 2025-08-31T01:40:55+00:00
-**Scraped:** 2026-07-31T08:50:07.086929+00:00
+**Scraped:** 2026-08-01T08:20:16.947995+00:00
 
-Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 This article describes how API Data Protection deals when a user is either deleted or suspended in OneDrive.
 User State
@@ -182,12 +181,13 @@ Note
 When a user is suspended, account suspension notification is generated as part of audit logs.
 In this Topic
 Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
+Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive - Netskope Knowledge Portal
 
 ---
 ## Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-outlook/
 **Last Modified:** 2025-08-31T01:41:02+00:00
-**Scraped:** 2026-07-31T08:50:08.189206+00:00
+**Scraped:** 2026-08-01T08:20:18.114871+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 Outlook - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
@@ -206,7 +206,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
 ## Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-teams/
 **Last Modified:** 2025-08-31T01:41:22+00:00
-**Scraped:** 2026-07-31T08:50:09.292519+00:00
+**Scraped:** 2026-08-01T08:20:19.278630+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 Teams - Netskope Knowledge Portal
 Deleted/Suspended User Behavior in Microsoft Office 365 Teams
@@ -227,7 +227,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 ## Deleted User Behavior in Slack Teams
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-slack-teams/
 **Last Modified:** 2025-08-31T01:41:49+00:00
-**Scraped:** 2026-07-31T08:50:10.422034+00:00
+**Scraped:** 2026-08-01T08:20:20.435666+00:00
 
 Deleted User Behavior in Slack Teams - Netskope Knowledge Portal
 Deleted User Behavior in Slack Teams
@@ -244,9 +244,8 @@ Deleted User Behavior in Slack Teams
 ## Deleted User Behavior in Cisco Webex Teams
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-cisco-webex-teams/
 **Last Modified:** 2025-08-31T01:40:02+00:00
-**Scraped:** 2026-07-31T08:50:12.628485+00:00
+**Scraped:** 2026-08-01T08:20:23.295552+00:00
 
-Deleted User Behavior in Cisco Webex Teams - Netskope Knowledge Portal
 Deleted User Behavior in Cisco Webex Teams
 This article describes how API Data Protection deals when a user is deleted in Cisco Webex Teams.
 User State
@@ -258,12 +257,13 @@ Note
 A new user has to accept the invitation before user-listing kicks in.
 In this Topic
 Deleted User Behavior in Cisco Webex Teams
+Deleted User Behavior in Cisco Webex Teams - Netskope Knowledge Portal
 
 ---
 ## Deleted User Behavior in Slack Enterprise
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-slack-enterprise/
 **Last Modified:** 2025-08-31T01:41:42+00:00
-**Scraped:** 2026-07-31T08:50:13.732872+00:00
+**Scraped:** 2026-08-01T08:20:24.444455+00:00
 
 Deleted User Behavior in Slack Enterprise - Netskope Knowledge Portal
 Deleted User Behavior in Slack Enterprise
@@ -280,8 +280,9 @@ Deleted User Behavior in Slack Enterprise
 ## Inactive/Freeze User Behavior in Salesforce
 **URL:** https://docs.netskope.com/en/inactive-freeze-user-behavior-in-salesforce/
 **Last Modified:** 2025-08-31T01:41:28+00:00
-**Scraped:** 2026-07-31T08:51:50.563433+00:00
+**Scraped:** 2026-08-01T08:22:05.191468+00:00
 
+Inactive/Freeze User Behavior in Salesforce - Netskope Knowledge Portal
 Inactive/Freeze User Behavior in Salesforce
 This article describes how API Data Protection deals when a user is either inactive or frozen in Salesforce.
 User State
@@ -299,7 +300,7 @@ Inactive/Freeze User Behavior in Salesforce
 ## Removed/Blocked User Behavior in GitHub
 **URL:** https://docs.netskope.com/en/removed-blocked-user-behavior-in-github/
 **Last Modified:** 2025-08-31T01:40:23+00:00
-**Scraped:** 2026-07-31T08:54:10.911320+00:00
+**Scraped:** 2026-08-01T08:24:30.768441+00:00
 
 Removed/Blocked User Behavior in GitHub - Netskope Knowledge Portal
 Removed/Blocked User Behavior in GitHub
@@ -317,43 +318,43 @@ In this Topic
 Removed/Blocked User Behavior in GitHub
 
 ---
-## Advanced UEBA Quick Start
+## Quick Start
 **URL:** https://docs.netskope.com/en/advanced-ueba-quick-start/
-**Last Modified:** 2026-06-04T21:24:55+00:00
-**Scraped:** 2026-07-31T09:10:15.227791+00:00
+**Last Modified:** 2026-07-31T22:09:28+00:00
+**Scraped:** 2026-08-01T08:41:06.182635+00:00
 
-Advanced UEBA Quick Start - Netskope Knowledge Portal
-Advanced UEBA Quick Start
-Once Advanced UEBA is enabled in your account, the recommended next step is to disable the Standard UEBA policies.
-Machine Learning detections in Advanced UEBA will automatically learn the baselines for different users and raise individual alerts if there is anomalous behavior. Therefore, best practice is to disable the Standard UEBA policies.
-The table below provides examples of the Advanced UEBA policies that will supersede the corresponding Standard UEBA policies.
+Quick Start - Netskope Knowledge Portal
+Quick Start
+Once Insider Threats & Advanced Compromise is enabled in your account, the recommended next step is to disable the Standard UEBA policies.
+Machine Learning detections in Insider Threats & Advanced Compromise will automatically learn the baselines for different users and raise individual alerts if there is anomalous behavior. Therefore, best practice is to disable the Standard UEBA policies.
+The table below provides examples of the Insider Threats & Advanced Compromise policies that will supersede the corresponding Standard UEBA policies.
 Standard UEBA Policy
-Advanced UEBA Equivalent Example
+Insider Threats & Advanced Compromise Equivalent Example
 Improvements
 Bulk Failed Login
 A user-based spike in failed login attempts
-Advanced UEBA will build a baseline and alert when there is a deviation as opposed to a statically configured threshold.
+Insider Threats & Advanced Compromise will build a baseline and alert when there is a deviation as opposed to a statically configured threshold.
 Bulk Delete
 A user-based spike in files deleted detected from real-time protection
-Advanced UEBA will build a baseline and alert when there is a deviation as opposed to a statically configured threshold.
+Insider Threats & Advanced Compromise will build a baseline and alert when there is a deviation as opposed to a statically configured threshold.
 Bulk Upload
 A user-based spike in sensitive data uploaded to personal apps
-Advanced UEBA will build a baseline and alert when there is a deviation as opposed to a statically configured threshold. In addition, Advanced UEBA also takes into account the nature of the data being moved by looking at associated DLP policy violation alerts.
+Insider Threats & Advanced Compromise will build a baseline and alert when there is a deviation as opposed to a statically configured threshold. In addition, Advanced UEBA also takes into account the nature of the data being moved by looking at associated DLP policy violation alerts.
 Bulk Download
 A user-based spike in sensitive files downloaded
-Advanced UEBA will build a baseline and alert when there is a deviation as opposed to a statically configured threshold. In addition, Advanced UEBA also takes into account the nature of the data being moved by looking at associated DLP policy violation alerts.
+Insider Threats & Advanced Compromise will build a baseline and alert when there is a deviation as opposed to a statically configured threshold. In addition, Advanced UEBA also takes into account the nature of the data being moved by looking at associated DLP policy violation alerts.
 Proximity
 First access from an IP block for the organization
-Advanced UEBA identifies a compromised credential being used when authentication or an admin activity happening from a network that has never been used before. This is higher fidelity compared to using ‘impossible travel’ to find possibly malicious activity because it hones in on specific malicious activity.
+Insider Threats & Advanced Compromise identifies a compromised credential being used when authentication or an admin activity happening from a network that has never been used before. This is higher fidelity compared to using ‘impossible travel’ to find possibly malicious activity because it hones in on specific malicious activity.
 Risky Countries
 First access from an IP block for the organization
-Advanced UEBA identifies compromised credentials using a more precise and baseline-based policy that uses IP blocks as opposed to a static country list.
+Insider Threats & Advanced Compromise identifies compromised credentials using a more precise and baseline-based policy that uses IP blocks as opposed to a static country list.
 Suspicious Data Movement
 Potential sensitive data movement
-Advanced UEBA will build a baseline as well as monitor a wider range of application and app instances with no pre-configuration. In addition, Advanced UEBA policies do not require labeling of instances by the customer.
+Insider Threats & Advanced Compromise will build a baseline as well as monitor a wider range of application and app instances with no pre-configuration. In addition, Advanced UEBA policies do not require labeling of instances by the customer.
 Rare Event
 The 16+ policies beginning with “First access”
-Advanced UEBA uses a more precise set of policies to identify compromised credentials and insiders while significantly reducing the false positives from rare events that aren’t indicative of an insider threat or compromise.
+Insider Threats & Advanced Compromise uses a more precise set of policies to identify compromised credentials and insiders while significantly reducing the false positives from rare events that aren’t indicative of an insider threat or compromise.
 Shared Credentials
 Numerous policies that cover scenarios for
 Compromised credentials
@@ -366,7 +367,7 @@ Access from an unusual country for the user
 Activity detected outside user’s regular working hours
 AWS IAM activity without MFA from a non-Netskope IP address
 Compromised credential found in a data breach
-Advanced UEBA uses a more precise set of policies to identify compromised credentials and insiders while significantly reducing the false positives from credential sharing that aren’t indicative of an insider threat or compromise.
+Insider Threats & Advanced Compromise uses a more precise set of policies to identify compromised credentials and insiders while significantly reducing the false positives from credential sharing that aren’t indicative of an insider threat or compromise.
 Setting Up a Low UCI Threshold Alert
 You should
 ensure that an alert is generated
@@ -405,31 +406,31 @@ If an anomaly or set of anomalies are not an indicator that the user has a compr
 Mark as Allowed
 to remove the impact on the UCI as shown below. Marking an anomaly as allowed will suppress this anomaly from recurring for the same user and the same feature for 45 days.
 In this Topic
-Advanced UEBA Quick Start
+Quick Start
 
 ---
-## Advanced UEBA Troubleshooting
+## Troubleshooting
 **URL:** https://docs.netskope.com/en/advanced-ueba-troubleshooting/
-**Last Modified:** 2026-04-10T22:22:46+00:00
-**Scraped:** 2026-07-31T09:10:16.324730+00:00
+**Last Modified:** 2026-07-31T22:15:17+00:00
+**Scraped:** 2026-08-01T08:41:07.336548+00:00
 
-Advanced UEBA Troubleshooting - Netskope Knowledge Portal
-Advanced UEBA Troubleshooting
+Troubleshooting - Netskope Knowledge Portal
+Troubleshooting
 If there is a large amount of users with low UCI scores and the cause seems to be something upstream, like a DLP policy that is raising a large amount of violations, then the solution is to tune the upstream policy.
 If this does not appear to be an upstream issue but rather an issue in the UEBA policy itself – for example, an ML-based unusual user agent detection that is raising a large amount of alerts – then there are two possible courses of action.
 If the volume is acceptable but the impact to the UCI is large, the recommended next step is tuning the score and severity down to a range that does not result in a large number of users with low UCI scores.
 If the volume and UCI impact are both unacceptable, then the remaining solution is to disable this policy and file a support ticket. This should be a rare course of action, since the policies have been pre-tuned so an average organization does not have a lot of alerts.
 In this Topic
-Advanced UEBA Troubleshooting
+Troubleshooting
 
 ---
-## Third-party Integrations with Advanced UEBA
+## Third-Party Integrations
 **URL:** https://docs.netskope.com/en/third-party-integrations-with-advanced-ueba/
-**Last Modified:** 2026-04-10T22:22:21+00:00
-**Scraped:** 2026-07-31T09:10:17.420388+00:00
+**Last Modified:** 2026-07-31T22:14:10+00:00
+**Scraped:** 2026-08-01T08:41:08.479651+00:00
 
-Third-party Integrations with Advanced UEBA - Netskope Knowledge Portal
-Third-party Integrations with Advanced UEBA
+Third-Party Integrations - Netskope Knowledge Portal
+Third-Party Integrations
 Using the REST API to Ingest External Alerts
 By using the REST API, organizations that have detections from other platforms can consume the alerts to impact the UCI. The documentation for this API endpoint can be found
 here
@@ -443,32 +444,32 @@ Users’ scores can be shared with other platforms using
 Cloud Risk Exchange
 . UCI can also drive CTO (Cloud Ticket Orchestrator) to automate workflow for investigations.
 In this Topic
-Third-party Integrations with Advanced UEBA
+Third-Party Integrations
 
 ---
-## Advanced UEBA SOC Detections Pack
+## SOC Detections Pack
 **URL:** https://docs.netskope.com/en/advanced-ueba-soc-detections-pack/
-**Last Modified:** 2026-04-22T12:45:39+00:00
-**Scraped:** 2026-07-31T09:17:27.386604+00:00
+**Last Modified:** 2026-07-31T22:00:37+00:00
+**Scraped:** 2026-08-01T08:48:33.320429+00:00
 
-Advanced UEBA SOC Detections Pack - Netskope Knowledge Portal
-Advanced UEBA SOC Detections Pack
+SOC Detections Pack - Netskope Knowledge Portal
+SOC Detections Pack
 Additional licensing is required. Contact your Netskope account team to enable this feature.
-Netskope is expanding Advanced UEBA’s existing portfolio of 160 ML based policies with a new SOC Detections Pack that introduces a patented approach for C2 beacon detection. Command and Control (C2) tools, such as Cobalt Strike, employ malleable profiles (patterns that cannot be fingerprinted using tools such as IPS) to circumvent traditional defenses. The SOC Detections Pack enhances Advanced UEBA by providing early detection of compromised devices where C2 beacons have been deployed.
+Netskope is expanding UEBA’s existing portfolio of 160 ML based policies with a new SOC Detections Pack that introduces a patented approach for C2 beacon detection. Command and Control (C2) tools, such as Cobalt Strike, employ malleable profiles (patterns that cannot be fingerprinted using tools such as IPS) to circumvent traditional defenses. The SOC Detections Pack enhances Advanced UEBA by providing early detection of compromised devices where C2 beacons have been deployed.
 The new license includes 15 new C2 beacon detection policies today and many more forthcoming additional detections. These new C2 detection policies analyze web traffic to identify anomalous C2 callbacks and use machine learning models to isolate C2 frameworks (such as Mythic and Cobalt Strike) from benign callbacks (such as software update checks).
-For customers who recognize the importance of C2 beacon detection, the Advanced UEBA – SOC Detections Pack offers significant value for detecting early compromise.
-The full list of Advanced UEBA C2 policies is visible to Netskope accounts with the SOC Detections Pack license enabled.
+For customers who recognize the importance of C2 beacon detection, the SOC Detections Pack offers significant value for detecting early compromise.
+The full list of UEBA C2 policies is visible to Netskope accounts with the SOC Detections Pack license enabled.
 To learn more:
 Effective C2 Beaconing Detection white paper
 Advancing C2 Beacon Detection blog
 In this Topic
-Advanced UEBA SOC Detections Pack
+SOC Detections Pack
 
 ---
 ## HPE Aruba Networking Central Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/hpe-aruba-networking-central-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T22:46:10+00:00
-**Scraped:** 2026-07-31T09:17:51.096818+00:00
+**Scraped:** 2026-08-01T08:48:57.746311+00:00
 
 HPE Aruba Networking Central Plugin for Risk Exchange - Netskope Knowledge Portal
 HPE Aruba Networking Central Plugin for Risk Exchange
@@ -1139,44 +1140,24 @@ In this Topic
 HPE Aruba Networking Central Plugin for Risk Exchange
 
 ---
-## Advanced UEBA Best Practices
-**URL:** https://docs.netskope.com/en/advanced-ueba-best-practices/
-**Last Modified:** 2026-05-04T15:00:33+00:00
-**Scraped:** 2026-07-31T09:27:14.639623+00:00
-
-Advanced UEBA Best Practices - Netskope Knowledge Portal
-Advanced UEBA Best Practices
-The following sections outline the best practices to quickly and efficiently operationalize Advanced UEBA. The policy page for Advanced UEBA is found under
-Policies
->
-Insider Threats & Advanced Compromise
-. Using the policies in the Insider Threats & Advanced Compromise page, you can perform the configuration steps below to fully utilize Advanced UEBA.
-Advanced UEBA Quick Start
-Advanced UEBA Optional Tuning
-Advanced UEBA Troubleshooting
-Third-party integrations with Advanced UEBA
-In this Topic
-Advanced UEBA Best Practices
-
----
-## Advanced UEBA Optional Tuning
+## Optional Tuning
 **URL:** https://docs.netskope.com/en/advanced-ueba-optional-tuning/
-**Last Modified:** 2026-05-04T15:00:37+00:00
-**Scraped:** 2026-07-31T09:27:15.740019+00:00
+**Last Modified:** 2026-07-31T22:13:07+00:00
+**Scraped:** 2026-08-01T08:58:40.434997+00:00
 
-Advanced UEBA Optional Tuning - Netskope Knowledge Portal
-Advanced UEBA Optional Tuning
+Optional Tuning - Netskope Knowledge Portal
+Optional Tuning
 The steps detailed in this section are optional and should be implemented based on organizational needs.
-Configure Additional UEBA Policies
+Configure Insider Threats & Advanced Compromise Policies
 Admins will enable certain standard UEBA policies in addition to enabling the default disabled policies. The following sections describe and explain the circumstances for each case.
 Standard UEBA Use Cases
-Although, the recommended course of action in the getting started guide is to disable all the Standard UEBA policies, some organizations might have a use case that requires a standard UEBA policy. The following is a list of common use cases for standard UEBA.
+Although, the recommended course of action in the getting started guide is to disable all the standard UEBA policies, some organizations might have a use case that requires a standard UEBA policy. The following is a list of common use cases for standard UEBA.
 Identifying traffic from a certain country or list of countries
 The “Risky Countries” policy can generate an alert for every access from a country on a watchlist. This can be useful for reviewing activity from countries from which users are not authorized to work.
 Identifying data movement to all non-managed app instances
-Advanced UEBA has policies to identify data movement from managed application instances as well as data movement to personal application instances. However, if there is a need to also identify data movement to not only personal but all non-managed app instances, then the “Bulk Upload” policy can be used. This policy requires labeling each managed application instance and adding it to the exception criteria in the policy definition.
+Insider Threats & Advanced Compromise has policies to identify data movement from managed application instances as well as data movement to personal application instances. However, if there is a need to also identify data movement to not only personal but all non-managed app instances, then the “Bulk Upload” policy can be used. This policy requires labeling each managed application instance and adding it to the exception criteria in the policy definition.
 Enabling the Default Disabled Policies
-There are Advanced UEBA policies (including “High severity malware alert” and “High severity DLP policy violation”) that come disabled by default. This is because these policies are dependent on account specific policy configurations. The following sections describe the process and conditions for enabling each of these policies.
+There are Insider Threats & Advanced Compromise policies (including “High severity malware alert” and “High severity DLP policy violation”) that come disabled by default. This is because these policies are dependent on account specific policy configurations. The following sections describe the process and conditions for enabling each of these policies.
 New private app access for this user
 This policy identifies if there are new NPA apps being accessed by an individual. If you are still enabling / adding NPA apps, we recommend this policy stay disabled. Once all the NPA apps have been onboarded, this policy can be safely enabled. Enabling this policy too early may cause a large number of alerts to be raised for newly onboarded applications.
 Reduce UCI for DLP policy violations
@@ -1186,23 +1167,23 @@ Medium Severity DLP policy violation
 High Severity DLP policy violation
 Critical Severity DLP policy violation
 The severity of the DLP alert is determined by the thresholds in the DLP profile / rule referenced in the policy violation.
-The severity of the policy violation maps to one of the Advanced UEBA policies, and, based on this you can map the required severity level and tune the desired impact in the Advanced UEBA policy as shown below. This impact should take into account the expected alert volume to reduce the UCI scores to moderate and poor values only in exceptional cases.
-Reduce UCI for malware & malsite policy violations
+The severity of the policy violation maps to one of the Insider Threats & Advanced Compromise policies, and, based on this you can map the required severity level and tune the desired impact in the Insider Threats & Advanced Compromise policy as shown below. This impact should take into account the expected alert volume to reduce the UCI scores to moderate and poor values only in exceptional cases.
+Reduce UCI for Malware & Malsite Policy Violations
 There are four malware and one malsite policy to impact the UCI score for policy violations as shown below.
 Malsite alert
 Low severity malware alert
 Medium severity malware alert
 High severity malware alert
 Patient zero malware alert
-Unlike the DLP policies above, the severity of a Malware alert is determined internally by the threat detection service that raised the alert. However, similar to above, these Advanced UEBA policies can be enabled and configured to the desired score that does not result in numerous low UCI users.
+Unlike the DLP policies above, the severity of a Malware alert is determined internally by the threat detection service that raised the alert. However, similar to above, these Insider Threats & Advanced Compromise policies can be enabled and configured to the desired score that does not result in numerous low UCI users.
 Reduce UCI for third party app violations
-There are four policies that reduce the UCI for strange or malicious behavior detected by third party cloud applications. These are triggered by an app event that is generated from an API connector audit log. Enable these if you need to see the UCI reduced as a result of suspicious behavior detected by upstream sources like Google Drive and Box. You do not need additional configurations in Advanced UEBA for these policies.
+There are four policies that reduce the UCI for strange or malicious behavior detected by third party cloud applications. These are triggered by an app event that is generated from an API connector audit log. Enable these if you need to see the UCI reduced as a result of suspicious behavior detected by upstream sources like Google Drive and Box. You do not need additional configurations for Insider Threats & Advanced Compromise policies.
 Suspicious activity detected by Google Drive
 Device compromise detected by Google Drive
 Device ownership change detected by Google Drive
 Malicious file detected by Box
 Manage Exclusion List
-With Advanced UEBA admins can create a list of users within the same account to exclude from UCI scoring and UBA anomaly incidents.
+Admins can create a list of users within the same account to exclude from UCI scoring and UBA anomaly incidents.
 Each account can only have one Exclusion List.
 Use cases for the exclusion list include trusted users (e.g., SOC team) and regular users excluded for compliance with workers’ council requirements in certain countries.
 Navigate to
@@ -1235,4 +1216,4 @@ Log Type
 User Exclusion List Edited
 The audit log captures the first time the exclusion list is created and each time it’s edited.
 In this Topic
-Advanced UEBA Optional Tuning
+Optional Tuning
