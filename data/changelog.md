@@ -1,59 +1,56 @@
-# Changelog — 2026-08-02 09:22 UTC
+# Changelog — 2026-08-03 10:45 UTC
 
 **Total pages:** 3486
-**New:** 1  |  **Updated:** 848  |  **Errors:** 0
-
-## New Pages
-- https://docs.netskope.com/en/retrieving-custom-images-on-google-cloud-platform-gcp/
+**New:** 0  |  **Updated:** 946  |  **Errors:** 0
 
 ## Updated Pages
-- https://docs.netskope.com/en/advanced-threat-protection/
+- https://docs.netskope.com/en/access-the-admin-console/
+- https://docs.netskope.com/en/alert-when-a-file-is-shared-with-large-number-of-users-internal-external/
+- https://docs.netskope.com/en/alert-on-all-activities-accessing-a-managed-service-via-reverse-proxy/
 - https://docs.netskope.com/en/alert-when-a-file-is-externally-shared/
-- https://docs.netskope.com/en/allowlist-the-netskope-client/
-- https://docs.netskope.com/en/api-connectors/
-- https://docs.netskope.com/en/api-protection-for-managed-app-activities/
-- https://docs.netskope.com/en/auto-remediation/
+- https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
+- https://docs.netskope.com/en/api-protection-features/
+- https://docs.netskope.com/en/api-protection-dashboard/
+- https://docs.netskope.com/en/block-risky-activities-to-low-poor-ccl-apps/
+- https://docs.netskope.com/en/block-risky-activities-to-unsanctioned-non-it-purchased-apps/
+- https://docs.netskope.com/en/bypass-netskope-from-your-vpn/
 - https://docs.netskope.com/en/casb-api-protection/
-- https://docs.netskope.com/en/block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps/
-- https://docs.netskope.com/en/configure-netskope-client-settings/
-- https://docs.netskope.com/en/create-a-policy-to-block-sharing-with-identified-external-users/
+- https://docs.netskope.com/en/create-a-dlp-policy-to-search-an-entire-data-repository-and-apply-predefined-labels-per-enterprise-data-classification-rules/
+- https://docs.netskope.com/en/create-a-list-of-private-documents-stored-in-an-api-protected-service/
+- https://docs.netskope.com/en/create-a-policy-to-identify-sensitive-data-in-specific-locations-public-external-or-non-approved-groups/
+- https://docs.netskope.com/en/create-and-apply-a-legal-hold-policy-if-required/
+- https://docs.netskope.com/en/create-and-validate-a-security-policy/
+- https://docs.netskope.com/en/create-dlp-policies-for-sensitive-data-for-a-specific-ou-from-a-user-and-provide-user-coaching/
+- https://docs.netskope.com/en/create-local-administrators/
 - https://docs.netskope.com/en/create-reports-on-activity-or-incidents-in-an-api-protected-service/
+- https://docs.netskope.com/en/deployment-options/
 - https://docs.netskope.com/en/cspm-scans-on-gcp-accounts/
-- https://docs.netskope.com/en/deploy-the-netskope-client/
-- https://docs.netskope.com/en/iaas-monitor/
-- https://docs.netskope.com/en/iaas/
+- https://docs.netskope.com/en/dlp-scans-on-aws-accounts/
+- https://docs.netskope.com/en/filtering-traffic-to-high-risk-countries/
+- https://docs.netskope.com/en/filtering-top-level-domains/
+- https://docs.netskope.com/en/http-header-policies/
 - https://docs.netskope.com/en/inline-protection-of-cloud-apps/
-- https://docs.netskope.com/en/integrations-videos/
+- https://docs.netskope.com/en/integrate-an-identity-provider-idp/
+- https://docs.netskope.com/en/investigate-specific-external-user-activity-to-determine-risk-posture/
+- https://docs.netskope.com/microlearning-video-library/
+- https://docs.netskope.com/en/netskope-security-cloud-features/
 - https://docs.netskope.com/en/netskope-success-resource-center/
 - https://docs.netskope.com/en/next-steps/
+- https://docs.netskope.com/en/ngswg-basic-policies/
+- https://docs.netskope.com/en/protect-unmanaged-device-protection/
 - https://docs.netskope.com/en/protect-against-unknown-malicious-websites/
-- https://docs.netskope.com/en/provide-a-risk-assessment-of-a-cloud-service-using-cci/
+- https://docs.netskope.com/en/remediate-iaas-misconfigurations/
+- https://docs.netskope.com/en/public-cloud-overview/
 - https://docs.netskope.com/en/quick-start/
+- https://docs.netskope.com/en/review-available-metrics-and-confirm-reports/
+- https://docs.netskope.com/en/threat-protection-features/
 - https://docs.netskope.com/en/supported-integrations-features/
 - https://docs.netskope.com/en/unmanaged-device-protection/
-- https://docs.netskope.com/en/validate-traffic-steering/
+- https://docs.netskope.com/en/workplace-from-meta-groups-page/
 - https://docs.netskope.com/en/optional-uninstall-the-netskope-app-from-the-zoom-account/
+- https://docs.netskope.com/en/workplace-from-meta-users-page/
 - https://docs.netskope.com/en/about-netskope-secure-web-gateway/
-- https://docs.netskope.com/en/about-malicious-sites/
-- https://docs.netskope.com/en/action-117717/
-- https://docs.netskope.com/en/about-websites/
-- https://docs.netskope.com/en/action-117930/
+- https://docs.netskope.com/en/action-117886/
+- https://docs.netskope.com/en/action-117841/
 - https://docs.netskope.com/en/action-118037/
 - https://docs.netskope.com/en/action-118109/
-- https://docs.netskope.com/en/action-118131/
-- https://docs.netskope.com/en/action/
-- https://docs.netskope.com/en/add-users/
-- https://docs.netskope.com/en/allow-users-to-disable-private-apps-access-on-the-netskope-client/
-- https://docs.netskope.com/en/api-data-protection-for-slack-for-teams/
-- https://docs.netskope.com/en/next-generation-api-data-protection-performance-response-time/
-- https://docs.netskope.com/en/app-instance-profile/
-- https://docs.netskope.com/en/app-suite-details/
-- https://docs.netskope.com/en/architecture-of-netskope-iot-security/
-- https://docs.netskope.com/en/category-definitions/
-- https://docs.netskope.com/en/choose-a-traffic-steering-method/
-- https://docs.netskope.com/en/cisco-webex-messages-with-violations-page/
-- https://docs.netskope.com/en/cloud-app-suite-membership/
-- https://docs.netskope.com/en/configure-certificates/
-- https://docs.netskope.com/en/configure-cisco-webex-teams-for-api-data-protection/
-- https://docs.netskope.com/en/configure-microsoft-365-instance-for-next-generation-saas-security-posture-management/
-- https://docs.netskope.com/en/configure-servicenow-instance-for-next-generation-saas-security-posture-management/
