@@ -1,12 +1,12 @@
 # Netskope Docs — Sase
-_Generated: 2026-08-13 08:33 UTC_
+_Generated: 2026-08-14 08:30 UTC_
 _Pages: 4_
 
 ---
 ## Borderless SD-WAN
 **URL:** https://docs.netskope.com/en/borderless-sd-wan/
 **Last Modified:** 2026-06-02T01:38:20+00:00
-**Scraped:** 2026-08-13T07:35:39.505406+00:00
+**Scraped:** 2026-08-14T07:33:00.596321+00:00
 
 Borderless SD-WAN - Netskope Technical Documentation
 Borderless SD-WAN
@@ -23,7 +23,7 @@ Borderless SD-WAN
 ## Netskope IPSec with Aruba EdgeConnect SD-WAN
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-aruba-edgeconnect-sd-wan/
 **Last Modified:** 2025-08-31T01:55:23+00:00
-**Scraped:** 2026-08-13T07:51:20.656036+00:00
+**Scraped:** 2026-08-14T07:48:23.169146+00:00
 
 Netskope IPSec with Aruba EdgeConnect SD-WAN - Netskope Technical Documentation
 Netskope IPSec with Aruba EdgeConnect SD-WAN
@@ -349,9 +349,8 @@ Netskope IPSec with Aruba EdgeConnect SD-WAN
 ## Netskope Borderless WAN Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-tenant-plugin/
 **Last Modified:** 2026-05-05T22:35:25+00:00
-**Scraped:** 2026-08-13T07:57:22.822107+00:00
+**Scraped:** 2026-08-14T07:54:20.032827+00:00
 
-Netskope Borderless WAN Tenant Plugin - Netskope Technical Documentation
 Netskope Borderless WAN Tenant Plugin
 This document explains how to configure the Netskope Borderless WAN Tenant v1.1.0 plugin in Cloud Exchange. This plugin is responsible for configuring BWAN tenants and collecting events of types Audit, Authentication, Client, Gateway, and System from Netskope Borderless WAN.
 Prerequisites
@@ -536,7 +535,7 @@ Netskope Borderless WAN Tenant Plugin
 ## Netskope Borderless WAN Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:48:53+00:00
-**Scraped:** 2026-08-13T07:57:24.120164+00:00
+**Scraped:** 2026-08-14T07:54:21.207540+00:00
 
 Netskope Borderless WAN Plugin for Log Shipper - Netskope Technical Documentation
 Netskope Borderless WAN Plugin for Log Shipper
