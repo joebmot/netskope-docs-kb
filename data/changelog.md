@@ -1,71 +1,61 @@
-# Changelog — 2026-08-14 08:30 UTC
+# Changelog — 2026-08-15 07:42 UTC
 
-**Total pages:** 3516
-**New:** 10  |  **Updated:** 535  |  **Errors:** 1
+**Total pages:** 3519
+**New:** 3  |  **Updated:** 1062  |  **Errors:** 0
 
 ## New Pages
-- https://docs.netskope.com/en/sspm-connectivity-to-saas-app/
-- https://docs.netskope.com/en/policy-actions/
-- https://docs.netskope.com/en/launching-the-azure-platform-image/
-- https://docs.netskope.com/en/automated-bootstrap-using-aws-secrets-manager/
-- https://docs.netskope.com/en/route-traffic-to-a-single-ai-gateway-endpoint/
-- https://docs.netskope.com/en/adding-private-app-bypasses/
-- https://docs.netskope.com/en/soti-mobicontrol/
-- https://docs.netskope.com/en/ai-gateway-release-notes-version-1-7/
-- https://docs.netskope.com/en/new-features-and-enhancements-in-ai-gateway-1-7/
-- https://docs.netskope.com/en/fixed-issues-in-ai-gateway-1-7/
+- https://docs.netskope.com/en/retrieving-custom-images-on-google-cloud-platform-gcp/
+- https://docs.netskope.com/en/samsung-knox/
+- https://docs.netskope.com/en/netskope-one-sd-wan-licensing-terms/
 
 ## Updated Pages
-- https://docs.netskope.com/en/about-the-admin-console/
 - https://docs.netskope.com/en/access-the-admin-console/
-- https://docs.netskope.com/en/alert-when-a-file-is-shared-with-large-number-of-users-internal-external/
+- https://docs.netskope.com/en/alert-block-upon-detection-of-password-protected-files/
+- https://docs.netskope.com/en/alert-when-a-file-is-made-public/
+- https://docs.netskope.com/en/alert-when-a-file-is-externally-shared/
+- https://docs.netskope.com/en/alert-when-a-file-is-shared-with-specific-groups/
 - https://docs.netskope.com/en/allow-access-to-a-sanctioned-instance-of-a-supported-corporate-app/
-- https://docs.netskope.com/en/allowlist-the-netskope-client/
-- https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-forward-or-reverse-proxy/
-- https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-trusted-or-untrusted-networks/
+- https://docs.netskope.com/en/analyze-and-report-on-using-corporate-credentials-on-non-sanctioned-apps/
+- https://docs.netskope.com/en/api-protection-managed-app-activities-use-cases/
+- https://docs.netskope.com/en/api-protection-features/
+- https://docs.netskope.com/en/apply-policies-to-enforce-step-up-authentication-as-required/
+- https://docs.netskope.com/en/award-winning-dlp-features/
 - https://docs.netskope.com/en/bypass-netskope-from-your-vpn/
-- https://docs.netskope.com/en/cloud-inline-protection/
+- https://docs.netskope.com/en/casb-api-protection/
+- https://docs.netskope.com/en/check-firewall-policy/
 - https://docs.netskope.com/en/configure-a-steering-profile/
-- https://docs.netskope.com/en/configure-netskope-client-settings/
-- https://docs.netskope.com/en/create-and-validate-a-security-policy/
+- https://docs.netskope.com/en/create-a-list-of-externally-shared-documents-stored-in-an-api-protected-service/
+- https://docs.netskope.com/en/create-a-list-of-users-with-most-public-files-stored-in-an-api-protected-service/
+- https://docs.netskope.com/en/create-a-list-of-users-with-non-expiring-links-to-files-stored-in-an-api-protected-service/
+- https://docs.netskope.com/en/create-a-policy-to-block-sharing-with-identified-external-users/
+- https://docs.netskope.com/en/create-and-apply-a-legal-hold-policy-if-required/
 - https://docs.netskope.com/en/create-local-administrators/
+- https://docs.netskope.com/en/cspm-scans-on-aws-accounts/
+- https://docs.netskope.com/en/create-reports-on-activity-or-incidents-in-an-api-protected-service/
+- https://docs.netskope.com/en/cspm-scans-on-azure-accounts/
 - https://docs.netskope.com/en/deployment-options/
+- https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities/
+- https://docs.netskope.com/en/cspm-scans-on-gcp-accounts/
+- https://docs.netskope.com/en/deploy-the-netskope-client/
+- https://docs.netskope.com/en/dlp-scans-on-cloud-saas/
+- https://docs.netskope.com/en/encryption-and-tokenization-features/
+- https://docs.netskope.com/en/dlp-scans-on-azure-accounts/
 - https://docs.netskope.com/en/granular-visibility-and-control-of-saas-iaas-and-web-features/
-- https://docs.netskope.com/en/iaas/
+- https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
+- https://docs.netskope.com/en/identify-and-act-on-individual-files-or-folders-on-a-case-by-case-basis/
 - https://docs.netskope.com/en/inline-protection-of-cloud-apps/
 - https://docs.netskope.com/en/integrate-an-identity-provider-idp/
+- https://docs.netskope.com/en/investigate-specific-external-user-activity-to-determine-risk-posture/
 - https://docs.netskope.com/en/monitor-activity-with-reverse-proxy-as-an-access-method/
+- https://docs.netskope.com/en/manual-steps-for-remediation/
 - https://docs.netskope.com/microlearning-video-library/
 - https://docs.netskope.com/en/netskope-client-videos/
+- https://docs.netskope.com/en/next-steps/
 - https://docs.netskope.com/en/quick-start/
-- https://docs.netskope.com/en/report-on-all-activity-with-reverse-proxy-as-the-access-method/
-- https://docs.netskope.com/en/swg-web-traffic/
+- https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/
+- https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/
+- https://docs.netskope.com/en/threat-scan-on-iaas-storage/
+- https://docs.netskope.com/en/understanding-api-protection/
 - https://docs.netskope.com/en/validate-traffic-steering/
-- https://docs.netskope.com/en/optional-uninstall-the-netskope-app-from-the-zoom-account/
-- https://docs.netskope.com/en/about-netskope-secure-web-gateway/
-- https://docs.netskope.com/en/action-117717/
-- https://docs.netskope.com/en/about-websites/
-- https://docs.netskope.com/en/action-117930/
-- https://docs.netskope.com/en/add-users/
-- https://docs.netskope.com/en/activity/
-- https://docs.netskope.com/en/api-data-protection-features/
-- https://docs.netskope.com/en/api-data-protection-for-servicenow/
-- https://docs.netskope.com/en/app-instance-profile/
-- https://docs.netskope.com/en/automatically-add-new-accounts-to-netskope-363651/
-- https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-outlook/
-- https://docs.netskope.com/en/best-practices-for-real-time-protection-policies/
-- https://docs.netskope.com/en/bandwidth-control-2/
-- https://docs.netskope.com/en/best-practices-for-utility-policies/
-- https://docs.netskope.com/en/building-regular-expressions/
-- https://docs.netskope.com/en/box-audit-events/
-- https://docs.netskope.com/en/choose-a-traffic-steering-method/
-- https://docs.netskope.com/en/cisco-webex-summary-page/
-- https://docs.netskope.com/en/configure-certificates/
-- https://docs.netskope.com/en/connected-app-plugin-profile/
-- https://docs.netskope.com/en/connected-apps-plugins/
-- https://docs.netskope.com/en/content-118082/
-- https://docs.netskope.com/en/create-a-custom-dlp-profile/
-- https://docs.netskope.com/en/create-a-policy-user-notification/
-
-## Errors
-- https://docs.netskope.com/en/retrieving-custom-images-on-google-cloud-platform-gcp/
+- https://docs.netskope.com/en/using-classic-reports/
+- https://docs.netskope.com/en/view-top-apps-activities-and-data-by-usage/
