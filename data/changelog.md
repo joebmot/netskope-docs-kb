@@ -1,60 +1,56 @@
-# Changelog — 2026-08-28 19:34 UTC
+# Changelog — 2026-08-29 13:20 UTC
 
 **Total pages:** 3550
-**New:** 2  |  **Updated:** 701  |  **Errors:** 0
-
-## New Pages
-- https://docs.netskope.com/en/use-glob-patterns-in-private-app-definitions-2/
-- https://docs.netskope.com/en/ai-platforms-discovery-and-security-posture-management/
+**New:** 0  |  **Updated:** 596  |  **Errors:** 0
 
 ## Updated Pages
-- https://docs.netskope.com/en/add-bypasses-in-netskope/
-- https://docs.netskope.com/en/alert-block-upon-detection-of-password-protected-files/
+- https://docs.netskope.com/en/about-the-admin-console/
+- https://docs.netskope.com/en/advanced-threat-protection/
 - https://docs.netskope.com/en/alert-when-a-file-is-made-public/
-- https://docs.netskope.com/en/alert-when-a-file-is-externally-shared/
-- https://docs.netskope.com/en/alert-when-a-file-is-shared-with-specific-groups/
+- https://docs.netskope.com/en/alert-when-a-file-is-shared-with-large-number-of-users-internal-external/
 - https://docs.netskope.com/en/api-connectors/
-- https://docs.netskope.com/en/architectural-advantage-features/
-- https://docs.netskope.com/en/auto-remediation/
-- https://docs.netskope.com/en/casb-api-protection/
-- https://docs.netskope.com/en/check-firewall-policy/
-- https://docs.netskope.com/en/create-a-list-of-private-documents-stored-in-an-api-protected-service/
-- https://docs.netskope.com/en/create-a-list-of-users-with-most-public-files-stored-in-an-api-protected-service/
-- https://docs.netskope.com/en/create-a-policy-to-allow-sharing-with-approved-external-users/
-- https://docs.netskope.com/en/create-a-policy-to-identify-and-modify-internal-and-external-sharing/
+- https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic/
+- https://docs.netskope.com/en/blocking-online-ads-silently/
+- https://docs.netskope.com/en/bypass-netskope-from-your-vpn/
+- https://docs.netskope.com/en/configure-a-steering-profile/
+- https://docs.netskope.com/en/create-a-policy-to-alert-or-block-sharing-of-sensitive-data-with-external-teams/
 - https://docs.netskope.com/en/create-a-policy-to-find-encrypted-or-password-protected-files/
 - https://docs.netskope.com/en/create-and-validate-a-security-policy/
-- https://docs.netskope.com/en/deployment-options/
-- https://docs.netskope.com/en/deploy-the-netskope-client/
 - https://docs.netskope.com/en/filtering-top-level-domains/
-- https://docs.netskope.com/en/iaas-protect/
-- https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
-- https://docs.netskope.com/microlearning-video-library/
+- https://docs.netskope.com/en/identify-and-act-on-individual-files-or-folders-on-a-case-by-case-basis/
+- https://docs.netskope.com/en/integrations-videos/
+- https://docs.netskope.com/en/integrate-an-identity-provider-idp/
+- https://docs.netskope.com/en/netskope-client-videos/
+- https://docs.netskope.com/en/netskope-directory-importer-videos/
+- https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/
 - https://docs.netskope.com/en/threat-protection-features/
-- https://docs.netskope.com/en/understanding-api-protection/
 - https://docs.netskope.com/en/view-users-access-to-cloud-services-geographically/
-- https://docs.netskope.com/en/view-top-cloud-categories-by-usage/
-- https://docs.netskope.com/en/about-netskope-secure-web-gateway/
-- https://docs.netskope.com/en/access-control-in-netskope-iot-security/
+- https://docs.netskope.com/en/workplace-from-meta-posts-with-violations-page/
+- https://docs.netskope.com/en/about-malicious-sites/
 - https://docs.netskope.com/en/about-websites/
 - https://docs.netskope.com/en/action-117930/
-- https://docs.netskope.com/en/advanced-file-scanning/
-- https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-onedrive/
-- https://docs.netskope.com/en/app-suite-details/
+- https://docs.netskope.com/en/action-118109/
+- https://docs.netskope.com/en/action/
+- https://docs.netskope.com/en/add-users/
+- https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-teams/
+- https://docs.netskope.com/en/app-instance-profile/
 - https://docs.netskope.com/en/application-117947/
-- https://docs.netskope.com/en/application-117927/
-- https://docs.netskope.com/en/bandwidth-control-2/
+- https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-sharepoint/
 - https://docs.netskope.com/en/best-practices-for-utility-policies/
 - https://docs.netskope.com/en/cgnat-address-support-for-local-dns-resolution/
-- https://docs.netskope.com/en/channels-117814/
-- https://docs.netskope.com/en/box-audit-events/
+- https://docs.netskope.com/en/building-regular-expressions/
+- https://docs.netskope.com/en/category-definitions/
 - https://docs.netskope.com/en/choose-a-traffic-steering-method/
-- https://docs.netskope.com/en/cloud-firewall-advanced-analytics-events/
+- https://docs.netskope.com/en/cisco-webex-messages-with-violations-page/
+- https://docs.netskope.com/en/clipboard-in-rbi/
 - https://docs.netskope.com/en/cloud-security-posture-management/
-- https://docs.netskope.com/en/configure-a-gre-tunnel/
 - https://docs.netskope.com/en/configure-certificates/
-- https://docs.netskope.com/en/configure-browser-access-for-private-apps/
-- https://docs.netskope.com/en/configure-client-prelogon-connectivity/
 - https://docs.netskope.com/en/configure-citrix-sharefile-for-the-next-generation-api-data-protection/
-- https://docs.netskope.com/en/configure-github-instance-for-next-generation-saas-security-posture-management/
-- https://docs.netskope.com/en/configure-microsoft-office-365-outlook-for-api-data-protection/
+- https://docs.netskope.com/en/configure-slack-for-team-for-api-data-protection/
+- https://docs.netskope.com/en/configuring-cloud-firewall-steering-exceptions/
+- https://docs.netskope.com/en/content-117950/
+- https://docs.netskope.com/en/cookie-surrogate/
+- https://docs.netskope.com/en/create-a-custom-header/
+- https://docs.netskope.com/en/create-a-microsoft-office-365-teams-policy/
+- https://docs.netskope.com/en/create-a-real-time-protection-policy-for-private-apps/
+- https://docs.netskope.com/en/create-a-real-time-protection-policy-for-web-categories/
