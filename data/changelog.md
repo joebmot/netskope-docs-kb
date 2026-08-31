@@ -1,63 +1,63 @@
-# Changelog — 2026-08-30 12:19 UTC
+# Changelog — 2026-08-31 13:46 UTC
 
-**Total pages:** 3555
-**New:** 5  |  **Updated:** 331  |  **Errors:** 0
+**Total pages:** 3556
+**New:** 2  |  **Updated:** 567  |  **Errors:** 1
 
 ## New Pages
-- https://docs.netskope.com/en/dlp-on-demand-public-cloud/
-- https://docs.netskope.com/en/public-cloud-setup/
-- https://docs.netskope.com/en/managing-your-public-cloud-api-key/
-- https://docs.netskope.com/en/public-cloud-troubleshooting/
-- https://docs.netskope.com/en/public-cloud-region-mapping/
+- https://docs.netskope.com/en/ai-security-ops-release-notes-version-august-2026/
+- https://docs.netskope.com/en/new-features-and-enhancements-in-ai-security-ops-august-2026/
 
 ## Updated Pages
-- https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic/
-- https://docs.netskope.com/en/blocking-online-ads-silently/
-- https://docs.netskope.com/en/configure-a-steering-profile/
+- https://docs.netskope.com/en/about-the-admin-console/
+- https://docs.netskope.com/en/access-the-admin-console/
+- https://docs.netskope.com/en/add-bypasses-in-netskope/
+- https://docs.netskope.com/en/advanced-threat-protection/
+- https://docs.netskope.com/en/allowlist-the-netskope-client/
+- https://docs.netskope.com/en/architectural-advantage-features/
+- https://docs.netskope.com/en/auto-remediation/
+- https://docs.netskope.com/en/configure-netskope-client-settings/
+- https://docs.netskope.com/en/create-a-dlp-policy-to-search-an-entire-data-repository-and-apply-predefined-labels-per-enterprise-data-classification-rules/
 - https://docs.netskope.com/en/create-a-list-of-publicly-accessible-documents-in-an-api-protected-service/
-- https://docs.netskope.com/en/integrations-videos/
+- https://docs.netskope.com/en/create-and-validate-a-security-policy/
+- https://docs.netskope.com/en/create-local-administrators/
+- https://docs.netskope.com/en/deployment-options/
+- https://docs.netskope.com/en/inline-monitoring-for-cloud-apps/
 - https://docs.netskope.com/en/integrate-an-identity-provider-idp/
-- https://docs.netskope.com/en/netskope-client-videos/
-- https://docs.netskope.com/en/netskope-directory-importer-videos/
+- https://docs.netskope.com/microlearning-video-library/
+- https://docs.netskope.com/en/netskope-security-cloud-features/
+- https://docs.netskope.com/en/protect-against-network-based-attacks/
+- https://docs.netskope.com/en/quick-start/
+- https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/
+- https://docs.netskope.com/en/saas-iaas-web-discovery-and-risk-assessment-features/
 - https://docs.netskope.com/en/using-advanced-analytics/
-- https://docs.netskope.com/en/workplace-from-meta-posts-with-violations-page/
-- https://docs.netskope.com/en/api-data-protection-for-microsoft-office-365-teams/
-- https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-sharepoint/
-- https://docs.netskope.com/en/building-regular-expressions/
+- https://docs.netskope.com/en/about-netskope-secure-web-gateway/
+- https://docs.netskope.com/en/about-malicious-sites/
+- https://docs.netskope.com/en/about-websites/
+- https://docs.netskope.com/en/action-118109/
+- https://docs.netskope.com/en/add-users/
+- https://docs.netskope.com/en/adding-a-file-profile/
+- https://docs.netskope.com/en/additional-reading-326338/
+- https://docs.netskope.com/en/additional-reading-326326/
+- https://docs.netskope.com/en/advanced-file-scanning/
+- https://docs.netskope.com/en/api-data-protection-features/
+- https://docs.netskope.com/en/app-instance-profile/
+- https://docs.netskope.com/en/application-120284/
+- https://docs.netskope.com/en/authorize-netskope-introspection-app-on-box-enterprise/
+- https://docs.netskope.com/en/azure-web-app-permissions-for-microsoft-office-365-teams/
+- https://docs.netskope.com/en/cgnat-address-support-for-local-dns-resolution/
+- https://docs.netskope.com/en/category-definitions/
+- https://docs.netskope.com/en/box-audit-events/
 - https://docs.netskope.com/en/choose-a-traffic-steering-method/
-- https://docs.netskope.com/en/cisco-webex-messages-with-violations-page/
-- https://docs.netskope.com/en/constraint-profile/
-- https://docs.netskope.com/en/create-a-custom-dlp-profile/
-- https://docs.netskope.com/en/create-a-custom-header/
-- https://docs.netskope.com/en/create-a-real-time-protection-policy-for-private-apps/
-- https://docs.netskope.com/en/create-fingerprint-rules/
-- https://docs.netskope.com/en/deploy-the-netskope-client-for-netskope-private-access/
-- https://docs.netskope.com/en/dlp-117951/
-- https://docs.netskope.com/en/dns-profile/
-- https://docs.netskope.com/en/executive-dashboard-in-netskope-iot-security/
-- https://docs.netskope.com/en/files-page-117870/
-- https://docs.netskope.com/en/microsoft-office-365-teams-messages-with-violations-page/
-- https://docs.netskope.com/en/netskope-client-support-in-cloud-firewall/
-- https://docs.netskope.com/en/private-access-faqs/
-- https://docs.netskope.com/en/private-app-management/
-- https://docs.netskope.com/en/protect-netskope-iot-security/
-- https://docs.netskope.com/en/security-posture-policy/
-- https://docs.netskope.com/en/select-a-severity-threshold/
-- https://docs.netskope.com/en/select-an-exact-match-file/
-- https://docs.netskope.com/en/select-predefined-data-identifiers/
-- https://docs.netskope.com/en/slack-files-page/
-- https://docs.netskope.com/en/ssl-decryption/
-- https://docs.netskope.com/en/use-advanced-expressions/
-- https://docs.netskope.com/en/user-management/
-- https://docs.netskope.com/en/view-private-access-status-for-devices/
-- https://docs.netskope.com/en/windows-autopilot-with-private-access-prelogon/
-- https://docs.netskope.com/en/deploy-client-on-macos-using-intune/
-- https://docs.netskope.com/en/explicit-proxies/
-- https://docs.netskope.com/en/exceptions-for-anti-virus-applications/
-- https://docs.netskope.com/en/exception-configuration-for-vpn-applications/
-- https://docs.netskope.com/en/locating-your-netskope-newedge-data-center/
-- https://docs.netskope.com/en/netskope-client-deployment-options/
-- https://docs.netskope.com/en/netskope-client-hardening/
-- https://docs.netskope.com/en/netskope-client-overview/
-- https://docs.netskope.com/en/provisioning-users-for-netskope-client/
-- https://docs.netskope.com/en/saml-reverse-proxy/
+- https://docs.netskope.com/en/cisco-webex-teams-page/
+- https://docs.netskope.com/en/clipboard-in-rbi/
+- https://docs.netskope.com/en/configure-browser-access-for-private-apps/
+- https://docs.netskope.com/en/configure-cisco-webex-teams-for-api-data-protection/
+- https://docs.netskope.com/en/configure-dropbox-for-api-data-protection/
+- https://docs.netskope.com/en/configure-client-prelogon-connectivity/
+- https://docs.netskope.com/en/configure-egnyte-for-api-data-protection/
+- https://docs.netskope.com/en/configure-citrix-sharefile-for-the-next-generation-api-data-protection/
+- https://docs.netskope.com/en/configure-gmail-for-api-data-protection/
+- https://docs.netskope.com/en/configure-microsoft-office-365-outlook-for-api-data-protection/
+
+## Errors
+- https://docs.netskope.com/en/setting-up-aig-appliance-on-gcp/
