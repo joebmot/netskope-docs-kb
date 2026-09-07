@@ -1,11 +1,14 @@
-# Changelog — 2026-09-06 11:18 UTC
+# Changelog — 2026-09-07 12:33 UTC
 
-**Total pages:** 3578
-**New:** 2  |  **Updated:** 3002  |  **Errors:** 0
+**Total pages:** 3583
+**New:** 5  |  **Updated:** 2995  |  **Errors:** 0
 
 ## New Pages
-- https://docs.netskope.com/en/retrieving-custom-images-on-google-cloud-platform-gcp/
-- https://docs.netskope.com/en/netskope-digital-experience-monitoring-dashboards-in-splunk/
+- https://docs.netskope.com/en/deployment-and-installation/
+- https://docs.netskope.com/en/mdm-installation-for-enterprise-browser/
+- https://docs.netskope.com/en/netskope-private-access-release-notes-version-140-1/
+- https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-140-1/
+- https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-140-1/
 
 ## Updated Pages
 - https://docs.netskope.com/en/about-the-admin-console/
@@ -33,8 +36,8 @@
 - https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-forward-or-reverse-proxy/
 - https://docs.netskope.com/en/apply-policies-based-on-the-constraint-profile/
 - https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic/
+- https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-trusted-or-untrusted-networks/
 - https://docs.netskope.com/en/architectural-advantage-features/
-- https://docs.netskope.com/en/award-winning-dlp-features/
 - https://docs.netskope.com/en/auto-remediation/
 - https://docs.netskope.com/en/block-risky-activities-to-unsanctioned-non-it-purchased-apps/
 - https://docs.netskope.com/en/bypass-netskope-from-your-vpn/
@@ -44,6 +47,7 @@
 - https://docs.netskope.com/en/coach-users-away-from-unsanctioned-applications-and-allow-justification-of-required-use/
 - https://docs.netskope.com/en/cloud-inline-protection/
 - https://docs.netskope.com/en/control-aws-apps-using-instance-ids/
+- https://docs.netskope.com/en/configure-a-steering-profile/
 - https://docs.netskope.com/en/configure-netskope-client-settings/
 - https://docs.netskope.com/en/create-a-list-of-externally-shared-documents-stored-in-an-api-protected-service/
 - https://docs.netskope.com/en/create-a-dlp-policy-to-search-an-entire-data-repository-and-apply-predefined-labels-per-enterprise-data-classification-rules/
@@ -57,4 +61,3 @@
 - https://docs.netskope.com/en/create-a-policy-to-alert-or-block-sharing-of-sensitive-data-with-external-teams/
 - https://docs.netskope.com/en/create-a-policy-to-identify-sensitive-data-in-specific-locations-public-external-or-non-approved-groups/
 - https://docs.netskope.com/en/create-a-policy-to-identify-and-modify-internal-and-external-sharing/
-- https://docs.netskope.com/en/create-a-policy-to-find-encrypted-or-password-protected-files/
