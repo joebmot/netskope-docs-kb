@@ -1,12 +1,12 @@
 # Netskope Docs — Client
-_Generated: 2026-09-08 11:44 UTC_
+_Generated: 2026-09-09 11:49 UTC_
 _Pages: 95_
 
 ---
 ## Allowlist the Netskope Client
 **URL:** https://docs.netskope.com/en/allowlist-the-netskope-client/
 **Last Modified:** 2025-08-31T01:50:51+00:00
-**Scraped:** 2026-09-08T10:30:36.245274+00:00
+**Scraped:** 2026-09-09T10:42:00.668990+00:00
 
 Allowlist the Netskope Client
 Some endpoint security software or Anti-Virus/Anti-Malware engines may mark the Netskope Client as malicious (because it attempts to intercept all internet-bound traffic for the purposes of forwarding it to the Netskope Cloud), and can block it from running.
@@ -20,9 +20,8 @@ Allowlist the Netskope Client
 ## Configure Netskope Client Settings
 **URL:** https://docs.netskope.com/en/configure-netskope-client-settings/
 **Last Modified:** 2025-08-31T01:50:50+00:00
-**Scraped:** 2026-09-08T10:31:11.545430+00:00
+**Scraped:** 2026-09-09T10:42:32.931248+00:00
 
-Configure Netskope Client Settings - Netskope Technical Documentation
 Configure Netskope Client Settings
 The Netskope Client has a range of settings that are controlled centrally by administrators; for example: Tamperproofing settings, Software Update settings, and on-premises detection.
 Settings profiles can be applied globally or targeted towards specific groups of users. Just like the Steering Profile Configuration, there is a default settings configuration that is used as a fallback or in the absence of any other profiles.
@@ -67,7 +66,7 @@ Configure Netskope Client Settings
 ## Deploy the Netskope Client
 **URL:** https://docs.netskope.com/en/deploy-the-netskope-client/
 **Last Modified:** 2026-05-27T08:01:40+00:00
-**Scraped:** 2026-09-08T10:31:41.074982+00:00
+**Scraped:** 2026-09-09T10:42:59.938555+00:00
 
 Deploy the Netskope Client
 We recommend that you enable
@@ -152,7 +151,7 @@ Deploy the Netskope Client
 ## Netskope Client Videos
 **URL:** https://docs.netskope.com/en/netskope-client-videos/
 **Last Modified:** 2025-08-31T01:50:58+00:00
-**Scraped:** 2026-09-08T10:32:09.254122+00:00
+**Scraped:** 2026-09-09T10:43:25.536828+00:00
 
 Netskope Client Videos - Netskope Technical Documentation
 Netskope Client Videos
@@ -168,7 +167,7 @@ Netskope Client Videos
 ## Allow Users to Disable Private App Segment Access on the Netskope Client
 **URL:** https://docs.netskope.com/en/allow-users-to-disable-private-apps-access-on-the-netskope-client/
 **Last Modified:** 2026-01-14T23:14:26+00:00
-**Scraped:** 2026-09-08T10:33:45.204999+00:00
+**Scraped:** 2026-09-09T10:44:53.944794+00:00
 
 Allow Users to Disable Private App Segment Access on the Netskope Client - Netskope Technical Documentation
 Allow Users to Disable Private App Segment Access on the Netskope Client
@@ -196,7 +195,7 @@ Allow Users to Disable Private App Segment Access on the Netskope Client
 ## Configure Client Prelogon Connectivity
 **URL:** https://docs.netskope.com/en/configure-client-prelogon-connectivity/
 **Last Modified:** 2026-03-03T01:42:47+00:00
-**Scraped:** 2026-09-08T10:35:14.564311+00:00
+**Scraped:** 2026-09-09T10:46:15.656506+00:00
 
 Configure Client Prelogon Connectivity - Netskope Technical Documentation
 Configure Client Prelogon Connectivity
@@ -462,7 +461,7 @@ Configure Client Prelogon Connectivity
 ## Use Client Re-authentication
 **URL:** https://docs.netskope.com/en/use-client-re-authentication/
 **Last Modified:** 2026-08-28T15:23:25+00:00
-**Scraped:** 2026-09-08T10:44:00.136858+00:00
+**Scraped:** 2026-09-09T10:54:11.371646+00:00
 
 Use Client Re-authentication - Netskope Technical Documentation
 Use Client Re-authentication
@@ -700,7 +699,7 @@ Use Client Re-authentication
 ## Addressing SSL Error while Accessing AWS Services via the AWS CLI with the Netskope Client Enabled
 **URL:** https://docs.netskope.com/en/addressing-ssl-error-while-accessing-aws-services-via-the-aws-cli-with-the-netskope-client-enabled/
 **Last Modified:** 2026-08-18T17:43:34+00:00
-**Scraped:** 2026-09-08T10:45:05.528246+00:00
+**Scraped:** 2026-09-09T10:55:11.820184+00:00
 
 Addressing SSL Error while Accessing AWS Services via the AWS CLI with the Netskope Client Enabled - Netskope Technical Documentation
 Addressing SSL Error while Accessing AWS Services via the AWS CLI with the Netskope Client Enabled
@@ -847,7 +846,7 @@ Addressing SSL Error while Accessing AWS Services via the AWS CLI with the Netsk
 ## Deploy Client on macOS Using Intune
 **URL:** https://docs.netskope.com/en/deploy-client-on-macos-using-intune/
 **Last Modified:** 2026-09-04T06:17:19+00:00
-**Scraped:** 2026-09-08T10:45:22.806303+00:00
+**Scraped:** 2026-09-09T10:55:27.442301+00:00
 
 Deploy Client on macOS Using Intune
 This article provides instructions to deploy Netskope Client on macOS devices(Big Sur and later) using the Microsoft Intune. The following steps are for deploying Netskope Client on macOS devices running macOS 11.x (Big Sur) or later.
@@ -1432,7 +1431,7 @@ Deploy Client on macOS Using Intune
 ## Deploy Client on iOS Using Jamf Pro
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-jamf-pro/
 **Last Modified:** 2026-07-21T06:10:10+00:00
-**Scraped:** 2026-09-08T10:45:35.300338+00:00
+**Scraped:** 2026-09-09T10:55:38.618883+00:00
 
 Deploy Client on iOS Using Jamf Pro - Netskope Technical Documentation
 Deploy Client on iOS Using Jamf Pro
@@ -1783,7 +1782,7 @@ Deploy Client on iOS Using Jamf Pro
 ## Deploy Netskope Client on MacOS Using Jamf School
 **URL:** https://docs.netskope.com/en/deploy-client-on-macos-using-jamf-school/
 **Last Modified:** 2026-09-04T04:54:01+00:00
-**Scraped:** 2026-09-08T10:45:36.692991+00:00
+**Scraped:** 2026-09-09T10:55:39.765454+00:00
 
 Deploy Netskope Client on MacOS Using Jamf School
 This section describes the steps to deploy the Netskope Client app in a macOS device using Jamf School.
@@ -2376,7 +2375,7 @@ Deploy Netskope Client on MacOS Using Jamf School
 ## Netskope Client Deployment Options
 **URL:** https://docs.netskope.com/en/netskope-client-deployment-options/
 **Last Modified:** 2026-05-13T05:23:58+00:00
-**Scraped:** 2026-09-08T10:45:46.527717+00:00
+**Scraped:** 2026-09-09T10:55:49.016261+00:00
 
 Netskope Client Deployment Options
 This document describes the deployment workflow and various deployment options available for the administrators to deploy Netskope Client.
@@ -2541,7 +2540,7 @@ Netskope Client Deployment Options
 ## Netskope Client Hardening
 **URL:** https://docs.netskope.com/en/netskope-client-hardening/
 **Last Modified:** 2026-07-22T06:13:47+00:00
-**Scraped:** 2026-09-08T10:45:47.716234+00:00
+**Scraped:** 2026-09-09T10:55:50.126266+00:00
 
 Netskope Client Hardening
 Netskope Client provides various hardening options to ensure its smooth operation. This document provides insights into the hardening features of the Netskope Client installed on Windows and macOS devices. To learn the supported versions, view
@@ -2580,7 +2579,7 @@ Netskope Client Hardening
 ## Netskope Client Overview
 **URL:** https://docs.netskope.com/en/netskope-client-overview/
 **Last Modified:** 2026-09-04T05:18:15+00:00
-**Scraped:** 2026-09-08T10:45:48.917200+00:00
+**Scraped:** 2026-09-09T10:55:51.227298+00:00
 
 Netskope Client Overview
 The Netskope Client is a lightweight application designed to direct traffic from end-user devices to the Netskope Cloud Next Generation Secure Web Gateway (SWG), Zero Trust Network Access (ZTNA), and Firewall as a Service (FWaaS) components. The Netskope Client also offers services such as
@@ -2649,7 +2648,7 @@ Netskope Client Overview
 ## Provisioning Users for Netskope Client
 **URL:** https://docs.netskope.com/en/provisioning-users-for-netskope-client/
 **Last Modified:** 2026-07-22T06:11:30+00:00
-**Scraped:** 2026-09-08T10:45:51.303462+00:00
+**Scraped:** 2026-09-09T10:55:53.438135+00:00
 
 Provisioning Users for Netskope Client - Netskope Technical Documentation
 Provisioning Users for Netskope Client
@@ -2673,8 +2672,9 @@ Provisioning Users for Netskope Client
 ## SAML Client Profile
 **URL:** https://docs.netskope.com/en/saml-client-profile/
 **Last Modified:** 2026-08-17T15:26:42+00:00
-**Scraped:** 2026-09-08T10:45:56.250154+00:00
+**Scraped:** 2026-09-09T10:55:57.893115+00:00
 
+SAML Client Profile - Netskope Technical Documentation
 SAML Client Profile
 The Client SSO integration allows organizations to enforce steering cloud application traffic to Netskope Cloud for very precise and granular analysis. In scenarios where the Netskope Client is not present or disabled on the end user’s device, the user is redirected from the Single Sign On (SSO) portal to a location from where the user can download the Netskope Client or request for the Client.
 Create Enterprise Application
@@ -2789,7 +2789,7 @@ SAML Client Profile
 ## Uninstalling the Netskope Client
 **URL:** https://docs.netskope.com/en/uninstalling-the-netskope-client/
 **Last Modified:** 2026-09-04T06:34:59+00:00
-**Scraped:** 2026-09-08T10:46:00.052379+00:00
+**Scraped:** 2026-09-09T10:56:01.333451+00:00
 
 Uninstalling the Netskope Client
 This section describes various options to uninstall Netskope Client from the end-user devices.
@@ -3227,7 +3227,7 @@ Uninstalling the Netskope Client
 ## Install and Test the Client
 **URL:** https://docs.netskope.com/en/install-and-test-the-client/
 **Last Modified:** 2026-09-04T05:20:20+00:00
-**Scraped:** 2026-09-08T10:47:58.846467+00:00
+**Scraped:** 2026-09-09T10:57:49.096198+00:00
 
 Install and Test the Client
 With SAML configured in Google and Netskope, now install the Client on your devices.
@@ -3256,7 +3256,7 @@ Install and Test the Client
 ## Netskope Client IdP Mode with Google SAML Auth
 **URL:** https://docs.netskope.com/en/netskope-client-idp-mode-with-google-saml-auth/
 **Last Modified:** 2025-08-31T01:55:35+00:00
-**Scraped:** 2026-09-08T10:48:44.477702+00:00
+**Scraped:** 2026-09-09T10:58:29.492402+00:00
 
 Netskope Client IdP Mode with Google SAML Auth - Netskope Technical Documentation
 Netskope Client IdP Mode with Google SAML Auth
@@ -3273,8 +3273,9 @@ Netskope Client IdP Mode with Google SAML Auth
 ## Client Steering
 **URL:** https://docs.netskope.com/en/client-steering/
 **Last Modified:** 2026-07-23T01:27:52+00:00
-**Scraped:** 2026-09-08T10:51:17.626381+00:00
+**Scraped:** 2026-09-09T11:00:50.315897+00:00
 
+Client Steering - Netskope Technical Documentation
 Client Steering
 The Client Steering page provides information about user requests that the Netskope Client directs to the Netskope Cloud. You can get a granular view of the different users, applications being accessed, Netskope Client version used to process user requests, user activities, and other valuable insights. Go to
 Digital Experience Management > Client Steering
@@ -3315,8 +3316,9 @@ Client Steering
 ## Get Client Data
 **URL:** https://docs.netskope.com/en/get-client-data/
 **Last Modified:** 2025-08-31T01:39:20+00:00
-**Scraped:** 2026-09-08T10:52:33.132444+00:00
+**Scraped:** 2026-09-09T11:01:59.198263+00:00
 
+Get Client Data - Netskope Technical Documentation
 Get Client Data
 This endpoint returns information related to the Netskope Client.
 Request Endpoint
@@ -3455,8 +3457,9 @@ Get Client Data
 ## Netskope Client Enforcement using Okta
 **URL:** https://docs.netskope.com/en/netskope-client-enforcement-using-okta/
 **Last Modified:** 2026-07-22T06:47:58+00:00
-**Scraped:** 2026-09-08T10:58:19.203397+00:00
+**Scraped:** 2026-09-09T11:07:13.089547+00:00
 
+Netskope Client Enforcement using Okta - Netskope Technical Documentation
 Netskope Client Enforcement using Okta
 The Netskope with Okta integration allows organizations to enforce steering cloud application traffic to Netskope’s cloud for very precise and granular analysis. If the Netskope client is not present on the device, the source IP coming to IDP is not going to be a Netskope proxy IP. The user is redirected to the Netskope page (Client checker) for client installation and activation.
 Installing Netskope client on end user machines using an IdP is one of the automated mechanisms apart from using distribution mechanisms, like SCCM or JAMF.
@@ -3526,8 +3529,9 @@ Netskope Client Enforcement using Okta
 ## Troubleshooting Guide for iOS Netskope Client App
 **URL:** https://docs.netskope.com/en/troubleshooting-guide-for-ios-netskope-client-app/
 **Last Modified:** 2025-08-31T01:48:14+00:00
-**Scraped:** 2026-09-08T10:58:30.266228+00:00
+**Scraped:** 2026-09-09T11:07:23.173013+00:00
 
+Troubleshooting Guide for iOS Netskope Client App - Netskope Technical Documentation
 Troubleshooting Guide for iOS Netskope Client App
 Introduction
 This guide is designed to streamline the troubleshooting process with the MDM-based deployments.
@@ -3595,7 +3599,7 @@ Troubleshooting Guide for iOS Netskope Client App
 ## Deploy Client on Android Using IBM MaaS360
 **URL:** https://docs.netskope.com/en/deploy-client-on-android-using-ibm-maas360/
 **Last Modified:** 2026-07-21T06:01:50+00:00
-**Scraped:** 2026-09-08T10:58:45.379414+00:00
+**Scraped:** 2026-09-09T11:07:36.689930+00:00
 
 Deploy Client on Android Using IBM MaaS360 - Netskope Technical Documentation
 Deploy Client on Android Using IBM MaaS360
@@ -3790,7 +3794,7 @@ Deploy Client on Android Using IBM MaaS360
 ## Deploy Client on iOS Using Omnissa Workspace ONE
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-omnissa-workspace-one/
 **Last Modified:** 2026-08-05T13:24:07+00:00
-**Scraped:** 2026-09-08T10:58:56.394280+00:00
+**Scraped:** 2026-09-09T11:07:46.773039+00:00
 
 Deploy Client on iOS Using Omnissa Workspace ONE - Netskope Technical Documentation
 Deploy Client on iOS Using Omnissa Workspace ONE
@@ -4149,7 +4153,7 @@ Deploy Client on iOS Using Omnissa Workspace ONE
 ## Netskope Client Supported OS and Platform
 **URL:** https://docs.netskope.com/en/netskope-client-supported-os-and-platform/
 **Last Modified:** 2026-09-02T14:47:41+00:00
-**Scraped:** 2026-09-08T10:59:13.581928+00:00
+**Scraped:** 2026-09-09T11:08:02.729394+00:00
 
 Netskope Client Supported OS and Platform
 This article describes the versions that are supported for each operating system.
@@ -4233,7 +4237,7 @@ Netskope Client Supported OS and Platform
 ## Device Client Data Collection
 **URL:** https://docs.netskope.com/en/advanced-analytics-device-client-data-collection/
 **Last Modified:** 2026-06-10T05:03:12+00:00
-**Scraped:** 2026-09-08T10:59:34.610575+00:00
+**Scraped:** 2026-09-09T11:08:21.717614+00:00
 
 Device Client Data Collection - Netskope Technical Documentation
 Device Client Data Collection
@@ -4587,7 +4591,7 @@ Device Client Data Collection
 ## Netskope Client Troubleshooting Guide
 **URL:** https://docs.netskope.com/en/netskope-client-troubleshooting-guide/
 **Last Modified:** 2026-04-06T12:13:37+00:00
-**Scraped:** 2026-09-08T11:00:22.695117+00:00
+**Scraped:** 2026-09-09T11:09:05.575803+00:00
 
 Netskope Client Troubleshooting Guide
 This guide is designed to help troubleshoot issues with end-users and administrators using Netskope Client.
@@ -4863,8 +4867,9 @@ Netskope Client Troubleshooting Guide
 ## Deploy Client on iOS Using Ivanti Neurons
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-ivanti-neurons/
 **Last Modified:** 2026-05-06T09:02:45+00:00
-**Scraped:** 2026-09-08T11:00:50.808223+00:00
+**Scraped:** 2026-09-09T11:09:31.306030+00:00
 
+Deploy Client on iOS Using Ivanti Neurons - Netskope Technical Documentation
 Deploy Client on iOS Using Ivanti Neurons
 The following sections explain how to upload and enroll certificates and how to configure an iOS profile for Ivanti Neurons (formerly known as MobileIron Cloud) for on-demand or per-app VPN. For information about iOS VPN fail-open, refer to
 iOS VPN Fail Open
@@ -5213,7 +5218,7 @@ Deploy Client on iOS Using Ivanti Neurons
 ## Deploy Client on Android Using Ivanti Neurons
 **URL:** https://docs.netskope.com/en/deploy-client-on-android-using-ivanti-neurons/
 **Last Modified:** 2025-08-31T01:48:41+00:00
-**Scraped:** 2026-09-08T11:00:52.030754+00:00
+**Scraped:** 2026-09-09T11:09:32.454200+00:00
 
 Deploy Client on Android Using Ivanti Neurons - Netskope Technical Documentation
 Deploy Client on Android Using Ivanti Neurons
@@ -5571,7 +5576,7 @@ Deploy Client on Android Using Ivanti Neurons
 ## Deploy Client on macOS Using Ivanti Neurons
 **URL:** https://docs.netskope.com/en/deploy-client-on-macos-using-ivanti-neurons/
 **Last Modified:** 2026-07-22T06:47:07+00:00
-**Scraped:** 2026-09-08T11:00:53.237158+00:00
+**Scraped:** 2026-09-09T11:09:33.568384+00:00
 
 Deploy Client on macOS Using Ivanti Neurons
 This topic describes the procedure to configure Ivanti Neurons (formerly known as MobileIron Cloud) for macOS.
@@ -5809,7 +5814,7 @@ Deploy Client on macOS Using Ivanti Neurons
 ## Deploy Client on iOS Using IBM MaaS360
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-ibm-maas360/
 **Last Modified:** 2026-07-21T05:56:53+00:00
-**Scraped:** 2026-09-08T11:02:07.264253+00:00
+**Scraped:** 2026-09-09T11:10:41.277102+00:00
 
 Deploy Client on iOS Using IBM MaaS360 - Netskope Technical Documentation
 Deploy Client on iOS Using IBM MaaS360
@@ -5993,9 +5998,8 @@ Deploy Client on iOS Using IBM MaaS360
 ## Deploy Client on iOS Using Iru
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-iru/
 **Last Modified:** 2026-09-04T05:57:50+00:00
-**Scraped:** 2026-09-08T11:02:09.665582+00:00
+**Scraped:** 2026-09-09T11:10:43.523162+00:00
 
-Deploy Client on iOS Using Iru - Netskope Technical Documentation
 Deploy Client on iOS Using Iru
 Iru is formerly known as Kandji.
 This document  illustrates the procedure to deploy Netskope Client on iOS devices and this process ensures reduced user interaction while deploying tenant certificates, system and network extensions.
@@ -6132,12 +6136,13 @@ Steering Configuration
 .
 In this Topic
 Deploy Client on iOS Using Iru
+Deploy Client on iOS Using Iru - Netskope Technical Documentation
 
 ---
 ## Netskope Client Resource Utilization
 **URL:** https://docs.netskope.com/en/netskope-client-resource-utilization/
 **Last Modified:** 2026-07-28T19:50:11+00:00
-**Scraped:** 2026-09-08T11:02:27.934134+00:00
+**Scraped:** 2026-09-09T11:11:00.613633+00:00
 
 Netskope Client Resource Utilization - Netskope Technical Documentation
 Netskope Client Resource Utilization
@@ -6199,7 +6204,7 @@ Netskope Client Resource Utilization
 ## Deploy Netskope Client In Restricted Regions
 **URL:** https://docs.netskope.com/en/deploy-netskope-client-in-restricted-regions/
 **Last Modified:** 2025-08-31T01:48:35+00:00
-**Scraped:** 2026-09-08T11:02:59.029881+00:00
+**Scraped:** 2026-09-09T11:11:28.583612+00:00
 
 Deploy Netskope Client In Restricted Regions - Netskope Technical Documentation
 Deploy Netskope Client In Restricted Regions
@@ -6214,7 +6219,7 @@ Deploy Netskope Client In Restricted Regions
 ## Deploy Netskope Client For iOS In Restricted Regions
 **URL:** https://docs.netskope.com/en/deploy-netskope-client-for-ios-in-restricted-regions/
 **Last Modified:** 2025-08-31T01:48:36+00:00
-**Scraped:** 2026-09-08T11:03:00.246206+00:00
+**Scraped:** 2026-09-09T11:11:29.689528+00:00
 
 Deploy Netskope Client For iOS In Restricted Regions - Netskope Technical Documentation
 Deploy Netskope Client For iOS In Restricted Regions
@@ -6274,7 +6279,7 @@ Deploy Netskope Client For iOS In Restricted Regions
 ## Deploy Netskope Client For Android In Restricted Regions
 **URL:** https://docs.netskope.com/en/deploy-netskope-client-for-android-in-restricted-regions/
 **Last Modified:** 2026-09-04T06:32:24+00:00
-**Scraped:** 2026-09-08T11:03:01.449657+00:00
+**Scraped:** 2026-09-09T11:11:30.827837+00:00
 
 Deploy Netskope Client For Android In Restricted Regions - Netskope Technical Documentation
 Deploy Netskope Client For Android In Restricted Regions
@@ -6457,8 +6462,9 @@ Deploy Netskope Client For Android In Restricted Regions
 ## Deploy Client on MacOS Using Jamf Pro
 **URL:** https://docs.netskope.com/en/deploy-client-on-macos-using-jamf-pro/
 **Last Modified:** 2026-09-07T04:52:03+00:00
-**Scraped:** 2026-09-08T11:03:14.623569+00:00
+**Scraped:** 2026-09-09T11:11:42.490928+00:00
 
+Deploy Client on MacOS Using Jamf Pro - Netskope Technical Documentation
 Deploy Client on MacOS Using Jamf Pro
 Jamf Pro is an enterprise mobility management tool that manages endpoints for Apple iOS and macOS devices. This article provides instructions to install the Netskope Client on MacOS devices using Jamf Pro.
 Prerequisites
@@ -7210,7 +7216,7 @@ Deploy Client on MacOS Using Jamf Pro
 ## Netskope Client Network Configuration
 **URL:** https://docs.netskope.com/en/netskope-client-network-configuration/
 **Last Modified:** 2026-08-03T17:06:20+00:00
-**Scraped:** 2026-09-08T11:03:15.837694+00:00
+**Scraped:** 2026-09-09T11:11:43.621894+00:00
 
 Netskope Client Network Configuration
 This topic describes the various network configuration requirements for Netskope Client with respect to Global Server Load Balancing (GSLB) and how it works.
@@ -7472,8 +7478,9 @@ Netskope Client Network Configuration
 ## Netskope Client For Android and ChromeOS
 **URL:** https://docs.netskope.com/en/netskope-client-for-android/
 **Last Modified:** 2026-06-30T12:08:49+00:00
-**Scraped:** 2026-09-08T11:04:31.533709+00:00
+**Scraped:** 2026-09-09T11:12:52.564126+00:00
 
+Netskope Client For Android and ChromeOS - Netskope Technical Documentation
 Netskope Client For Android and ChromeOS
 This document describes the available deployment methods and user enrollment options when installing the Netskope Client on Android and ChromeOS devices.
 Supported versions
@@ -7629,8 +7636,9 @@ Netskope Client For Android and ChromeOS
 ## Netskope Client Enforcement Using OneLogin
 **URL:** https://docs.netskope.com/en/netskope-client-enforcement-using-onelogin/
 **Last Modified:** 2026-07-22T06:48:06+00:00
-**Scraped:** 2026-09-08T11:04:46.975938+00:00
+**Scraped:** 2026-09-09T11:13:06.334324+00:00
 
+Netskope Client Enforcement Using OneLogin - Netskope Technical Documentation
 Netskope Client Enforcement Using OneLogin
 This document guides through the steps to configure the Netskope Client Enforcement application in OneLogin as a self-service option to deploy the Netskope Client.
 This document demonstrates the use of Netskope Client enforcement with the pre-configured ‘AARP’ application within OneLogin. The outlined steps are applicable to any similar SaaS application.
@@ -7808,8 +7816,9 @@ Netskope Client Enforcement Using OneLogin
 ## Use the NPA Client in Windows Multi-User Virtual Desktop Environments
 **URL:** https://docs.netskope.com/en/use-the-npa-client-in-windows-multi-user-virtual-desktop-environments/
 **Last Modified:** 2026-05-28T04:15:00+00:00
-**Scraped:** 2026-09-08T11:05:26.772377+00:00
+**Scraped:** 2026-09-09T11:13:42.075949+00:00
 
+Use the NPA Client in Windows Multi-User Virtual Desktop Environments - Netskope Technical Documentation
 Use the NPA Client in Windows Multi-User Virtual Desktop Environments
 This article explains how to configure Netskope Private Access (NPA) for multi-user virtual desktop environments on Windows, where users are logging in simultaneously, enabling secure access for environments with shared system processes (Session ID 0) and dedicated VDI user tunnels, through which a user’s private application sessions are processed through.
 Introduction
@@ -7962,9 +7971,8 @@ Use the NPA Client in Windows Multi-User Virtual Desktop Environments
 ## Deploy Client On Windows Using Intune with Win32 App
 **URL:** https://docs.netskope.com/en/deploy-client-on-windows-using-intune-with-win32-app/
 **Last Modified:** 2026-07-22T06:41:35+00:00
-**Scraped:** 2026-09-08T11:06:18.294914+00:00
+**Scraped:** 2026-09-09T11:14:28.239956+00:00
 
-Deploy Client On Windows Using Intune with Win32 App - Netskope Technical Documentation
 Deploy Client On Windows Using Intune with Win32 App
 This article provides instructions to deploy Netskope Client on Windows devices (either joined to Active Directory or Microsoft Entra ID) using the Microsoft Intune Win32 app.
 Prerequisites
@@ -8205,9 +8213,8 @@ Deploy Client On Windows Using Intune with Win32 App
 ## Netskope Client Deployment Parameters
 **URL:** https://docs.netskope.com/en/netskope-client-deployment-parameters/
 **Last Modified:** 2025-08-31T01:48:17+00:00
-**Scraped:** 2026-09-08T11:07:02.102486+00:00
+**Scraped:** 2026-09-09T11:15:07.853902+00:00
 
-Netskope Client Deployment Parameters - Netskope Technical Documentation
 Netskope Client Deployment Parameters
 This document can assist administrators identify values needed for various deployment methods.
 Commonly Used Parameters
@@ -8302,7 +8309,7 @@ Netskope Client Deployment Parameters
 ## Deploy Netskope Client with Endpoint Central on Windows
 **URL:** https://docs.netskope.com/en/deploy-netskope-client-with-endpoint-central-on-windows/
 **Last Modified:** 2026-09-04T06:18:42+00:00
-**Scraped:** 2026-09-08T11:07:45.343931+00:00
+**Scraped:** 2026-09-09T11:15:47.249443+00:00
 
 Deploy Netskope Client with Endpoint Central on Windows
 This document describes the instructions to deploy Netskope Client using Endpoint Central on Windows devices.
@@ -8425,8 +8432,9 @@ Deploy Netskope Client with Endpoint Central on Windows
 ## Deploy Netskope Client with Endpoint Central on MacOS
 **URL:** https://docs.netskope.com/en/deploy-netskope-client-with-endpoint-central-on-macos/
 **Last Modified:** 2026-09-04T06:20:04+00:00
-**Scraped:** 2026-09-08T11:07:46.680899+00:00
+**Scraped:** 2026-09-09T11:15:48.363969+00:00
 
+Deploy Netskope Client with Endpoint Central on MacOS - Netskope Technical Documentation
 Deploy Netskope Client with Endpoint Central on MacOS
 This document describes the instructions for the silent deployment of  Netskope Client using Endpoint Central on MacOS devices.
 Prerequisites
@@ -8616,9 +8624,8 @@ Deploy Netskope Client with Endpoint Central on MacOS
 ## Deploy Client On Android Using Intune
 **URL:** https://docs.netskope.com/en/deploy-client-on-android-using-intune/
 **Last Modified:** 2026-07-17T09:46:10+00:00
-**Scraped:** 2026-09-08T11:10:02.964131+00:00
+**Scraped:** 2026-09-09T11:17:52.732161+00:00
 
-Deploy Client On Android Using Intune - Netskope Technical Documentation
 Deploy Client On Android Using Intune
 This documents illustrates the procedure to deploy Netskope Client in Android devices using Intune.
 Prerequisites
@@ -9014,7 +9021,7 @@ Deploy Client On Android Using Intune
 ## Deploy Client on Android Using Omnissa Workspace ONE
 **URL:** https://docs.netskope.com/en/deploy-client-on-android-using-vmware-workspace-one/
 **Last Modified:** 2026-06-10T06:09:55+00:00
-**Scraped:** 2026-09-08T11:10:04.187751+00:00
+**Scraped:** 2026-09-09T11:17:53.853915+00:00
 
 Deploy Client on Android Using Omnissa Workspace ONE - Netskope Technical Documentation
 Deploy Client on Android Using Omnissa Workspace ONE
@@ -9166,9 +9173,8 @@ Deploy Client on Android Using Omnissa Workspace ONE
 ## Deploy Client on Windows Using Omnissa Workspace ONE
 **URL:** https://docs.netskope.com/en/deploy-client-on-windows-using-omnissa-workspace-one/
 **Last Modified:** 2026-09-04T05:34:38+00:00
-**Scraped:** 2026-09-08T11:10:05.390235+00:00
+**Scraped:** 2026-09-09T11:17:54.978364+00:00
 
-Deploy Client on Windows Using Omnissa Workspace ONE - Netskope Technical Documentation
 Deploy Client on Windows Using Omnissa Workspace ONE
 This article describes how to deploy Netskope Client on Windows devices using Omnissa Workspace ONE.
 Prerequisites
@@ -9295,7 +9301,7 @@ Deploy Client on Windows Using Omnissa Workspace ONE
 ## Netskope Client Command Reference
 **URL:** https://docs.netskope.com/en/netskope-client-command-reference/
 **Last Modified:** 2026-02-19T16:34:49+00:00
-**Scraped:** 2026-09-08T11:10:06.593207+00:00
+**Scraped:** 2026-09-09T11:17:56.092012+00:00
 
 Netskope Client Command Reference - Netskope Technical Documentation
 Netskope Client Command Reference
@@ -9467,9 +9473,8 @@ Netskope Client Command Reference
 ## Netskope Client Enrollment
 **URL:** https://docs.netskope.com/en/netskope-client-enrollment-methods/
 **Last Modified:** 2025-10-06T15:05:55+00:00
-**Scraped:** 2026-09-08T11:10:10.191090+00:00
+**Scraped:** 2026-09-09T11:17:59.460285+00:00
 
-Netskope Client Enrollment - Netskope Technical Documentation
 Netskope Client Enrollment
 Secure Enrollment content is now moved to the Netskope Client Enrollment section. This approach is to consolidate all enrollment methods and deployment instructions in one place.
 Netskope Client enrolment with the Netskope Cloud services is a mandatory step before steering the traffic and securing the end-user device.
@@ -9526,9 +9531,8 @@ Netskope Client Enrollment
 ## Netskope Client Enrollment Using IDP
 **URL:** https://docs.netskope.com/en/netskope-client-enrollment-using-idp/
 **Last Modified:** 2026-06-05T13:05:11+00:00
-**Scraped:** 2026-09-08T11:10:11.412792+00:00
+**Scraped:** 2026-09-09T11:18:00.691096+00:00
 
-Netskope Client Enrollment Using IDP - Netskope Technical Documentation
 Netskope Client Enrollment Using IDP
 The Netskope Client supports Single Sign-On (SSO) user enrollment when it integrates with a SAML 2.0 supported identity provider.
 Supported Versions
@@ -9814,9 +9818,8 @@ Netskope Client Enrollment Using IDP
 ## Netskope Client Enrollment Using UPN
 **URL:** https://docs.netskope.com/en/netskope-client-enrollment-using-upn/
 **Last Modified:** 2026-08-18T06:02:13+00:00
-**Scraped:** 2026-09-08T11:10:12.614742+00:00
+**Scraped:** 2026-09-09T11:18:01.811245+00:00
 
-Netskope Client Enrollment Using UPN - Netskope Technical Documentation
 Netskope Client Enrollment Using UPN
 Using this method, the user machine is domain joined. The Netskope Client monitors the Directory Service to identify the user by their User Principal Name.
 Prerequisites
@@ -9923,7 +9926,7 @@ Netskope Client Enrollment Using UPN
 ## Netskope Client Enrollment Using Email Invite
 **URL:** https://docs.netskope.com/en/netskope-client-enrollment-using-email-invite/
 **Last Modified:** 2026-06-01T12:46:10+00:00
-**Scraped:** 2026-09-08T11:10:13.837553+00:00
+**Scraped:** 2026-09-09T11:18:02.984659+00:00
 
 Netskope Client Enrollment Using Email Invite - Netskope Technical Documentation
 Netskope Client Enrollment Using Email Invite
@@ -10262,7 +10265,7 @@ Netskope Client Enrollment Using Email Invite
 ## Explicit Proxy Over Client (EPoC)
 **URL:** https://docs.netskope.com/en/explicit-proxy-over-client-epoc/
 **Last Modified:** 2026-06-24T20:23:53+00:00
-**Scraped:** 2026-09-08T11:10:24.050666+00:00
+**Scraped:** 2026-09-09T11:18:12.338081+00:00
 
 Explicit Proxy Over Client (EPoC) - Netskope Technical Documentation
 Explicit Proxy Over Client (EPoC)
@@ -10301,9 +10304,8 @@ Explicit Proxy Over Client (EPoC)
 ## Netskope Client for Virtual Desktop Infrastructure (VDI)
 **URL:** https://docs.netskope.com/en/netskope-client-for-virtual-desktop-infrastructure-vdi/
 **Last Modified:** 2026-09-04T06:30:58+00:00
-**Scraped:** 2026-09-08T11:10:47.206691+00:00
+**Scraped:** 2026-09-09T11:18:32.917526+00:00
 
-Netskope Client for Virtual Desktop Infrastructure (VDI) - Netskope Technical Documentation
 Netskope Client for Virtual Desktop Infrastructure (VDI)
 This document mainly describes the instructions to deploy Netskope Client in a VDI environment. It also covers the configurations, limitations, and best practices that apply to the different types of VDI deployments used in your organization.
 Supported VDI Environments
@@ -10555,7 +10557,7 @@ Netskope Client for Virtual Desktop Infrastructure (VDI)
 ## Deploy Client on iOS Using Intune
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-intune/
 **Last Modified:** 2026-04-17T12:23:26+00:00
-**Scraped:** 2026-09-08T11:10:52.096112+00:00
+**Scraped:** 2026-09-09T11:18:37.429508+00:00
 
 Deploy Client on iOS Using Intune - Netskope Technical Documentation
 Deploy Client on iOS Using Intune
@@ -11051,7 +11053,7 @@ Deploy Client on iOS Using Intune
 ## Netskope Client Debug Mode
 **URL:** https://docs.netskope.com/en/netskope-client-debug-mode/
 **Last Modified:** 2026-07-22T06:48:44+00:00
-**Scraped:** 2026-09-08T11:11:41.098355+00:00
+**Scraped:** 2026-09-09T11:19:23.843232+00:00
 
 Netskope Client Debug Mode
 The Netskope Client debug mode offers an easy and efficient way to consolidate all necessary information required for troubleshooting. In the event of any issues, activate debug mode and reproduce the issue. Once the issue occurs, stop the debug mode and share the generated archive file with Netskope.
@@ -11209,7 +11211,7 @@ Netskope Client Debug Mode
 ## Service Account Migration and Netskope Client Auditing
 **URL:** https://docs.netskope.com/en/service-account-migration-and-netskope-client-auditing/
 **Last Modified:** 2025-10-14T18:56:46+00:00
-**Scraped:** 2026-09-08T11:11:50.821145+00:00
+**Scraped:** 2026-09-09T11:19:33.655589+00:00
 
 Service Account Migration and Netskope Client Auditing - Netskope Technical Documentation
 Service Account Migration and Netskope Client Auditing
@@ -11377,7 +11379,7 @@ Service Account Migration and Netskope Client Auditing
 ## Netskope Client For Linux
 **URL:** https://docs.netskope.com/en/netskope-client-for-linux/
 **Last Modified:** 2026-09-04T05:22:38+00:00
-**Scraped:** 2026-09-08T11:12:26.146163+00:00
+**Scraped:** 2026-09-09T11:20:08.876737+00:00
 
 Netskope Client For Linux
 This document describes the available deployment methods and user enrollment options when installing the Netskope Client on Linux devices.
@@ -11607,8 +11609,9 @@ Netskope Client For Linux
 ## Deploy Netskope Client On Citrix DaaS With Azure Virtual Desktop
 **URL:** https://docs.netskope.com/en/deploy-netskope-client-on-citrix-daas-with-azure-virtual-desktop/
 **Last Modified:** 2025-11-05T18:00:24+00:00
-**Scraped:** 2026-09-08T11:12:27.351990+00:00
+**Scraped:** 2026-09-09T11:20:09.996042+00:00
 
+Deploy Netskope Client On Citrix DaaS With Azure Virtual Desktop - Netskope Technical Documentation
 Deploy Netskope Client On Citrix DaaS With Azure Virtual Desktop
 This document describes how to deploy Netskope Client on Citrix DaaS with Azure Virtual Desktop supporting multi-user environments.
 Overview
@@ -11688,8 +11691,9 @@ Deploy Netskope Client On Citrix DaaS With Azure Virtual Desktop
 ## Deploy Client on macOS Using Omnissa Workspace ONE
 **URL:** https://docs.netskope.com/en/deploy-client-on-macos-using-omnissa-workspace-one/
 **Last Modified:** 2026-09-07T09:52:41+00:00
-**Scraped:** 2026-09-08T11:12:58.329394+00:00
+**Scraped:** 2026-09-09T11:20:38.010970+00:00
 
+Deploy Client on macOS Using Omnissa Workspace ONE - Netskope Technical Documentation
 Deploy Client on macOS Using Omnissa Workspace ONE
 This article describes how to deploy Netskope Client on macOS devices using Omnissa Workspace ONE.
 Prerequisites
@@ -12461,8 +12465,9 @@ Deploy Client on macOS Using Omnissa Workspace ONE
 ## Deploy Client on macOS Using Iru
 **URL:** https://docs.netskope.com/en/deploy-client-on-macos-using-iru/
 **Last Modified:** 2026-09-04T04:48:20+00:00
-**Scraped:** 2026-09-08T11:12:59.556204+00:00
+**Scraped:** 2026-09-09T11:20:39.169826+00:00
 
+Deploy Client on macOS Using Iru - Netskope Technical Documentation
 Deploy Client on macOS Using Iru
 Iru is formerly known as Kandji.
 This article illustrates the procedure to deploy Netskope Client on macOS devices running Big Sur or later  using the Kandji MDM as the IdP. This process ensures reduced user interaction while deploying tenant certificates, system and network extensions.
@@ -12976,7 +12981,7 @@ Deploy Client on macOS Using Iru
 ## Netskope Client For Windows
 **URL:** https://docs.netskope.com/en/netskope-client-for-windows/
 **Last Modified:** 2026-09-04T05:21:38+00:00
-**Scraped:** 2026-09-08T11:13:00.791504+00:00
+**Scraped:** 2026-09-09T11:20:40.331849+00:00
 
 Netskope Client For Windows
 This document describes the available deployment methods and users enrollment options when users install Netskope Client on Windows devices.
@@ -13417,7 +13422,7 @@ Netskope Client For Windows
 ## Deploy Client on iOS Using Jamf School
 **URL:** https://docs.netskope.com/en/deploy-client-on-ios-using-jamf-school/
 **Last Modified:** 2026-09-04T05:44:34+00:00
-**Scraped:** 2026-09-08T11:13:13.534947+00:00
+**Scraped:** 2026-09-09T11:20:51.611617+00:00
 
 Deploy Client on iOS Using Jamf School - Netskope Technical Documentation
 Deploy Client on iOS Using Jamf School
@@ -13732,9 +13737,8 @@ Deploy Client on iOS Using Jamf School
 ## Event Streaming Client
 **URL:** https://docs.netskope.com/en/event-streaming-client/
 **Last Modified:** 2026-01-07T19:45:12+00:00
-**Scraped:** 2026-09-08T11:14:24.992985+00:00
+**Scraped:** 2026-09-09T11:21:56.907329+00:00
 
-Event Streaming Client - Netskope Technical Documentation
 Event Streaming Client
 Event Streaming Client provides a high performance and centrally managed solution to stream Transaction Events to a SIEM.
 This page provides an overview and references to other sections.
@@ -13775,7 +13779,7 @@ Event Streaming Client
 ## Event Streaming Client Architecture
 **URL:** https://docs.netskope.com/en/event-streaming-client-architecture/
 **Last Modified:** 2026-01-07T08:09:57+00:00
-**Scraped:** 2026-09-08T11:14:26.201648+00:00
+**Scraped:** 2026-09-09T11:21:58.033328+00:00
 
 Event Streaming Client Architecture - Netskope Technical Documentation
 Event Streaming Client Architecture
@@ -13833,7 +13837,7 @@ Event Streaming Client Architecture
 ## Event Streaming Client Requirements
 **URL:** https://docs.netskope.com/en/event-streaming-client-requirements/
 **Last Modified:** 2026-02-10T17:02:31+00:00
-**Scraped:** 2026-09-08T11:14:27.390303+00:00
+**Scraped:** 2026-09-09T11:21:59.158562+00:00
 
 Event Streaming Client Requirements - Netskope Technical Documentation
 Event Streaming Client Requirements
@@ -13879,9 +13883,8 @@ Event Streaming Client Requirements
 ## Event Streaming Client Deployment
 **URL:** https://docs.netskope.com/en/event-streaming-client-deployment/
 **Last Modified:** 2026-01-07T17:19:31+00:00
-**Scraped:** 2026-09-08T11:14:28.593017+00:00
+**Scraped:** 2026-09-09T11:22:00.293041+00:00
 
-Event Streaming Client Deployment - Netskope Technical Documentation
 Event Streaming Client Deployment
 Before deployment, please:
 review
@@ -14191,9 +14194,8 @@ Event Streaming Client Deployment
 ## Event Streaming Client Configuration
 **URL:** https://docs.netskope.com/en/event-streaming-client-configuration/
 **Last Modified:** 2026-01-07T17:32:29+00:00
-**Scraped:** 2026-09-08T11:14:29.802667+00:00
+**Scraped:** 2026-09-09T11:22:01.459935+00:00
 
-Event Streaming Client Configuration - Netskope Technical Documentation
 Event Streaming Client Configuration
 Configuration on the Event Streaming Client is currently only available via REST APIv2. To learn how to setup API access refer to,
 Event Streaming Client Deployment
@@ -14823,9 +14825,8 @@ Event Streaming Client Configuration
 ## Event Streaming Client Format Examples
 **URL:** https://docs.netskope.com/en/event-streaming-client-format-examples/
 **Last Modified:** 2026-03-06T16:06:19+00:00
-**Scraped:** 2026-09-08T11:14:33.434119+00:00
+**Scraped:** 2026-09-09T11:22:05.375048+00:00
 
-Event Streaming Client Format Examples - Netskope Technical Documentation
 Event Streaming Client Format Examples
 Format examples
 This page provide examples for format configuration.
@@ -22790,7 +22791,7 @@ Event Streaming Client Format Examples
 ## Event Streaming Client API Access
 **URL:** https://docs.netskope.com/en/event-streaming-client-api-access/
 **Last Modified:** 2026-01-07T07:39:26+00:00
-**Scraped:** 2026-09-08T11:14:34.638524+00:00
+**Scraped:** 2026-09-09T11:22:06.489993+00:00
 
 Event Streaming Client API Access - Netskope Technical Documentation
 Event Streaming Client API Access
@@ -22822,7 +22823,7 @@ Event Streaming Client API Access
 ## Event Streaming Client Operations and Troubleshooting
 **URL:** https://docs.netskope.com/en/event-streaming-client-operations-and-troubleshooting/
 **Last Modified:** 2026-01-07T19:49:11+00:00
-**Scraped:** 2026-09-08T11:14:35.832042+00:00
+**Scraped:** 2026-09-09T11:22:07.599424+00:00
 
 Event Streaming Client Operations and Troubleshooting - Netskope Technical Documentation
 Event Streaming Client Operations and Troubleshooting
@@ -22917,8 +22918,9 @@ Event Streaming Client Operations and Troubleshooting
 ## Event Streaming Client FAQs
 **URL:** https://docs.netskope.com/en/event-streaming-client-faqs/
 **Last Modified:** 2026-01-07T17:42:41+00:00
-**Scraped:** 2026-09-08T11:14:37.033503+00:00
+**Scraped:** 2026-09-09T11:22:08.712540+00:00
 
+Event Streaming Client FAQs - Netskope Technical Documentation
 Event Streaming Client FAQs
 How quickly is my configuration change applied?
 Any change on streamingclient API configuration is synchronized to clients in two minutes. However, Log Streaming initialization can take up to one hour and Log Streaming configuration changes can take up to 15 minutes.
@@ -22948,7 +22950,7 @@ Event Streaming Client FAQs
 ## Netskope Client for macOS
 **URL:** https://docs.netskope.com/en/netskope-client-for-macos/
 **Last Modified:** 2026-09-04T05:10:52+00:00
-**Scraped:** 2026-09-08T11:14:52.171340+00:00
+**Scraped:** 2026-09-09T11:22:22.307609+00:00
 
 Netskope Client for macOS
 This document describes the available deployment methods and user enrolment options when installing the Netskope Client on macOS devices.
@@ -23358,14 +23360,13 @@ Netskope Client for macOS
 ## Using Netskope Client
 **URL:** https://docs.netskope.com/en/using-netskope-client/
 **Last Modified:** 2026-09-07T16:44:01+00:00
-**Scraped:** 2026-09-08T11:14:53.627616+00:00
+**Scraped:** 2026-09-09T11:22:23.496938+00:00
 
 Using Netskope Client
-The end-user client provides the following options:
-Netskope Client UI Options
-For macOS
-For Windows
-For Linux
+The Netskope Client provides user interface services through the system tray. When features such as
+Hide Client Icon on System Tray
+are enabled, the system tray icon is not displayed.
+Netskope Client
 Services
 Displays the Netskope services enabled at your endpoint. Services displays the following options:
 Windows and macOS
@@ -23373,15 +23374,15 @@ Internet Security
 Private Access
 Endpoint DLP
 Endpoint SD-WAN
+Windows
+macOS
+In Windows and macOS, hover your mouse over the Netskope Client icon in the toolbar to view the different services displayed in the tooltip.
 Linux
 Internet Security
 Endpoint SD-WAN
-In Windows and macOS, you can find the services displayed in the tooltip when you hover your mouse over the Netskope Client icon in the toolbar.
-Windows
-macOS
 Enabling or Disabling
 Client Services
-By default, for all AD users or devices the client is enabled. However, users can choose to disable the client by selecting the
+By default, the Client is enabled for all enrolled users. However, users can choose to disable the client by selecting the
 Disable Netskope Client
 option from the Netskope Client system tray icon. For Windows and macOS, it displays the option
 Disable All Client Services
@@ -23528,8 +23529,9 @@ Partner Tenant Access feature is disabled
 Client unenrollment
 Client uninstallation
 Configuration
+During a troubleshooting scenario, user can click the
 Configuration
-: During a troubleshooting scenario, user can click the Configuration option to view and share the following configuration details about the installed client.
+option to view and share the following configuration details about the installed client.
 Organization
 Gateway (in FQDN format)
 Gateway IP (IP address and POP name)
@@ -24013,7 +24015,7 @@ Using Netskope Client
 ## Netskope Client Interoperability
 **URL:** https://docs.netskope.com/en/netskope-client-interoperability/
 **Last Modified:** 2026-07-22T06:14:34+00:00
-**Scraped:** 2026-09-08T11:15:40.415199+00:00
+**Scraped:** 2026-09-09T11:23:06.634818+00:00
 
 Netskope Client Interoperability - Netskope Technical Documentation
 Netskope Client Interoperability
@@ -24125,7 +24127,7 @@ Netskope Client Interoperability
 ## Enforce Enrollment for Netskope Client
 **URL:** https://docs.netskope.com/en/enforce-enrollment-for-netskope-client/
 **Last Modified:** 2026-09-04T06:26:45+00:00
-**Scraped:** 2026-09-08T11:15:45.614134+00:00
+**Scraped:** 2026-09-09T11:23:11.152131+00:00
 
 Enforce Enrollment for Netskope Client
 Mandatory user enrollment is a crucial security enhancement that guarantees all end-user traffic is subject to your organization’s security policies, thereby ensuring policy enforcement. This immediately enforces security compliance following Netskope Client installation, particularly within a managed environment.
@@ -24209,7 +24211,7 @@ Enforce Enrollment for Netskope Client
 ## Netskope Client Integration With Imprivata
 **URL:** https://docs.netskope.com/en/netskope-client-integration-with-imprivata/
 **Last Modified:** 2026-07-22T06:37:07+00:00
-**Scraped:** 2026-09-08T11:16:36.085395+00:00
+**Scraped:** 2026-09-09T11:23:57.383105+00:00
 
 Netskope Client Integration With Imprivata - Netskope Technical Documentation
 Netskope Client Integration With Imprivata
@@ -24291,7 +24293,7 @@ Netskope Client Integration With Imprivata
 ## Deploy Client On Windows Using Intune
 **URL:** https://docs.netskope.com/en/deploy-client-on-windows-using-intune/
 **Last Modified:** 2026-07-22T06:41:17+00:00
-**Scraped:** 2026-09-08T11:17:46.925858+00:00
+**Scraped:** 2026-09-09T11:25:01.834123+00:00
 
 Deploy Client On Windows Using Intune
 This article provides instructions to deploy Netskope Client on Windows devices (either joined to Active Directory or Microsoft Entra ID) using the Microsoft Intune.
@@ -24473,7 +24475,7 @@ Deploy Client On Windows Using Intune
 ## Netskope Client for iOS
 **URL:** https://docs.netskope.com/en/netskope-client-for-ios/
 **Last Modified:** 2026-09-04T05:26:44+00:00
-**Scraped:** 2026-09-08T11:17:48.269396+00:00
+**Scraped:** 2026-09-09T11:25:03.008464+00:00
 
 Netskope Client for iOS
 This document describes the available deployment methods and user enrollment options when installing the Netskope Client on iOS devices.
@@ -24691,7 +24693,7 @@ Netskope Client for iOS
 ## Data Center Pinning In Netskope Client
 **URL:** https://docs.netskope.com/en/data-center-pinning-in-netskope-client/
 **Last Modified:** 2026-05-04T17:00:06+00:00
-**Scraped:** 2026-09-08T11:17:50.689672+00:00
+**Scraped:** 2026-09-09T11:25:05.537016+00:00
 
 Data Center Pinning In Netskope Client - Netskope Technical Documentation
 Data Center Pinning In Netskope Client
@@ -24778,7 +24780,7 @@ Data Center Pinning In Netskope Client
 ## Netskope Client Configuration
 **URL:** https://docs.netskope.com/en/netskope-client-configuration/
 **Last Modified:** 2026-08-14T05:11:43+00:00
-**Scraped:** 2026-09-08T11:19:03.468891+00:00
+**Scraped:** 2026-09-09T11:26:11.531507+00:00
 
 Netskope Client Configuration
 This topic describes the various options available for an administrator to configure Netskope Client. You can configure system-wide settings using the Client Configuration dialog box.
@@ -25339,7 +25341,7 @@ Netskope Client Configuration
 ## FIPS 140-3 Mode Support for Netskope Client
 **URL:** https://docs.netskope.com/en/fips-140-3-mode-support-for-netskope-client/
 **Last Modified:** 2026-07-06T07:16:20+00:00
-**Scraped:** 2026-09-08T11:19:07.077317+00:00
+**Scraped:** 2026-09-09T11:26:14.894240+00:00
 
 FIPS 140-3 Mode Support for Netskope Client - Netskope Technical Documentation
 FIPS 140-3 Mode Support for Netskope Client
@@ -25425,8 +25427,9 @@ FIPS 140-3 Mode Support for Netskope Client
 ## Netskope Client AI Discovery
 **URL:** https://docs.netskope.com/en/netskope-client-ai-discovery/
 **Last Modified:** 2026-07-21T05:55:27+00:00
-**Scraped:** 2026-09-08T11:19:36.971241+00:00
+**Scraped:** 2026-09-09T11:26:41.854992+00:00
 
+Netskope Client AI Discovery - Netskope Technical Documentation
 Netskope Client AI Discovery
 Netskope introduces
 AI Discovery
@@ -25504,9 +25507,8 @@ Netskope Client AI Discovery
 ## Netskope Client Golden Release Updates
 **URL:** https://docs.netskope.com/en/netskope-client-golden-release-updates/
 **Last Modified:** 2026-09-04T06:21:35+00:00
-**Scraped:** 2026-09-08T11:21:04.066853+00:00
+**Scraped:** 2026-09-09T11:28:00.883814+00:00
 
-Netskope Client Golden Release Updates - Netskope Technical Documentation
 Netskope Client Golden Release Updates
 Current Golden Release:
 141
@@ -25544,7 +25546,7 @@ Netskope Client Golden Release Updates
 ## Netskope Client
 **URL:** https://docs.netskope.com/en/netskope-client/
 **Last Modified:** 2025-09-02T16:32:58+00:00
-**Scraped:** 2026-09-08T11:21:38.768826+00:00
+**Scraped:** 2026-09-09T11:28:34.747775+00:00
 
 Netskope Client
 Clients and VPN profiles provide the most comprehensive coverage as they can be installed on managed or unmanaged devices to provide visibility and policy enforcement for devices that are both on-premises and off-premises.
@@ -25583,16 +25585,17 @@ Netskope Client
 ## Streaming Client - Netskope Technical Documentation
 **URL:** https://docs.netskope.com/en/streaming-client/
 **Last Modified:** 2026-04-22T19:31:30+00:00
-**Scraped:** 2026-09-08T11:22:23.781960+00:00
+**Scraped:** 2026-09-09T11:29:15.205116+00:00
 
-
+Streaming Client - Netskope Technical Documentation
 
 ---
 ## Netskope Golden Client Release Notes Version 90.2.0
 **URL:** https://docs.netskope.com/en/netskope-golden-client-release-notes-version-90-2-0/
 **Last Modified:** 2025-08-31T09:59:51+00:00
-**Scraped:** 2026-09-08T11:25:17.111729+00:00
+**Scraped:** 2026-09-09T11:31:51.097883+00:00
 
+Netskope Golden Client Release Notes Version 90.2.0 - Netskope Technical Documentation
 Netskope Golden Client Release Notes Version 90.2.0
 Netskope release 90.2.0 is a hotfix release comprising of a couple of Netskope golden client fixes.
 Release Notes Subscription
@@ -25605,8 +25608,9 @@ Fixed Issues
 ## Streaming Client Release Notes April 1, 2026
 **URL:** https://docs.netskope.com/en/streaming-client-release-notes-april-1-2026/
 **Last Modified:** 2026-04-02T11:43:22+00:00
-**Scraped:** 2026-09-08T11:40:42.538108+00:00
+**Scraped:** 2026-09-09T11:45:55.623980+00:00
 
+Streaming Client Release Notes April 1, 2026 - Netskope Technical Documentation
 Streaming Client Release Notes April 1, 2026
 What's New
 Fixed Issues
@@ -25615,7 +25619,7 @@ Fixed Issues
 ## Streaming Client Release Notes April 1, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-streaming-client-april-1-2026/
 **Last Modified:** 2026-04-02T03:31:35+00:00
-**Scraped:** 2026-09-08T11:40:43.729217+00:00
+**Scraped:** 2026-09-09T11:45:56.742764+00:00
 
 Streaming Client Release Notes April 1, 2026 - Netskope Technical Documentation
 Streaming Client Release Notes April 1, 2026
@@ -25626,8 +25630,9 @@ Fixed Issues
 ## Streaming Client Release Notes April 1, 2026
 **URL:** https://docs.netskope.com/en/fixed-issues-in-streaming-client-april-1-2026/
 **Last Modified:** 2026-04-02T03:31:47+00:00
-**Scraped:** 2026-09-08T11:40:44.928048+00:00
+**Scraped:** 2026-09-09T11:45:57.844386+00:00
 
+Streaming Client Release Notes April 1, 2026 - Netskope Technical Documentation
 Streaming Client Release Notes April 1, 2026
 What's New
 Fixed Issues
@@ -25636,7 +25641,7 @@ Fixed Issues
 ## Streaming Client Release Notes May 7, 2026
 **URL:** https://docs.netskope.com/en/fixed-issues-in-streaming-client-may-7-2026/
 **Last Modified:** 2026-05-07T06:21:47+00:00
-**Scraped:** 2026-09-08T11:41:36.565279+00:00
+**Scraped:** 2026-09-09T11:46:45.088714+00:00
 
 Streaming Client Release Notes May 7, 2026 - Netskope Technical Documentation
 Streaming Client Release Notes May 7, 2026
@@ -25647,7 +25652,7 @@ Fixed Issues
 ## Streaming Client Release Notes May 7, 2026
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-streaming-client-may-7-2026/
 **Last Modified:** 2026-05-07T06:21:59+00:00
-**Scraped:** 2026-09-08T11:41:37.751601+00:00
+**Scraped:** 2026-09-09T11:46:46.232133+00:00
 
 Streaming Client Release Notes May 7, 2026 - Netskope Technical Documentation
 Streaming Client Release Notes May 7, 2026
@@ -25658,8 +25663,9 @@ Fixed Issues
 ## Streaming Client Release Notes May 7, 2026
 **URL:** https://docs.netskope.com/en/streaming-client-release-notes-may-7-2026/
 **Last Modified:** 2026-05-07T06:22:13+00:00
-**Scraped:** 2026-09-08T11:41:38.948106+00:00
+**Scraped:** 2026-09-09T11:46:47.345444+00:00
 
+Streaming Client Release Notes May 7, 2026 - Netskope Technical Documentation
 Streaming Client Release Notes May 7, 2026
 What's New
 Fixed Issues
