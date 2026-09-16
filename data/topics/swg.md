@@ -1,13 +1,14 @@
 # Netskope Docs — Swg
-_Generated: 2026-09-15 12:08 UTC_
-_Pages: 20_
+_Generated: 2026-09-16 12:11 UTC_
+_Pages: 19_
 
 ---
 ## NGSWG Basic Policies
 **URL:** https://docs.netskope.com/en/ngswg-basic-policies/
 **Last Modified:** 2025-08-31T01:51:20+00:00
-**Scraped:** 2026-09-15T11:00:08.262857+00:00
+**Scraped:** 2026-09-16T10:48:57.833755+00:00
 
+NGSWG Basic Policies - Netskope Technical Documentation
 NGSWG Basic Policies
 Here are some basic policy use cases that should be addressed first after deployment of the Next Generation – Secure Web Gateway (NGSWG).
 Use case #
@@ -30,15 +31,13 @@ NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protec
 Review Available metrics and confirm what reports to track
 In this Topic
 NGSWG Basic Policies
-NGSWG Basic Policies - Netskope Technical Documentation
 
 ---
 ## SWG Web traffic
 **URL:** https://docs.netskope.com/en/swg-web-traffic/
 **Last Modified:** 2025-08-31T01:51:20+00:00
-**Scraped:** 2026-09-15T11:00:31.111103+00:00
+**Scraped:** 2026-09-16T10:49:25.571322+00:00
 
-SWG Web traffic - Netskope Technical Documentation
 SWG Web traffic
 Here are some basic policy use cases that should be addressed first after deployment of the Next Generation – Secure Web Gateway (NGSWG).
 Use case #
@@ -61,12 +60,13 @@ NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protec
 Review Available metrics and confirm what reports to track
 In this Topic
 SWG Web traffic
+SWG Web traffic - Netskope Technical Documentation
 
 ---
 ## About Netskope Secure Web Gateway
 **URL:** https://docs.netskope.com/en/about-netskope-secure-web-gateway/
 **Last Modified:** 2026-08-18T17:43:28+00:00
-**Scraped:** 2026-09-15T11:01:01.854964+00:00
+**Scraped:** 2026-09-16T10:50:00.570610+00:00
 
 About Netskope Secure Web Gateway
 Netskope Secure Web Gateway enables you to govern web usage and provide a safe experience for your users with comprehensive web classification and content filtering.  By steering web traffic through Netskope, you can distill web activity into user sites, page visits, and other web activities in order to analyze usage and protect your enterprise.
@@ -138,8 +138,9 @@ About Netskope Secure Web Gateway
 ## Best Practices for Real-time Protection Policies
 **URL:** https://docs.netskope.com/en/best-practices-for-real-time-protection-policies/
 **Last Modified:** 2026-08-18T17:40:52+00:00
-**Scraped:** 2026-09-15T11:02:23.286595+00:00
+**Scraped:** 2026-09-16T10:51:39.056768+00:00
 
+Best Practices for Real-time Protection Policies - Netskope Technical Documentation
 Best Practices for Real-time Protection Policies
 The following sections walk you through the best practices of Real-time Protection and how to get the most out of your
 Real-time Protection policies
@@ -191,7 +192,7 @@ Best Practices for Real-time Protection Policies
 ## Create a Real-time Protection Policy for Isolation (Targeted RBI)
 **URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-isolation-targeted-rbi/
 **Last Modified:** 2025-08-31T01:46:34+00:00
-**Scraped:** 2026-09-15T11:03:50.532397+00:00
+**Scraped:** 2026-09-16T10:53:25.296542+00:00
 
 Create a Real-time Protection Policy for Isolation (Targeted RBI)
 Policies are defined using a set of variables. These variables define the criteria for detecting policy violations.
@@ -319,411 +320,12 @@ In this Topic
 Create a Real-time Protection Policy for Isolation (Targeted RBI)
 
 ---
-## Create a Real-time Protection Policy for Private App Segments
-**URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-private-apps/
-**Last Modified:** 2026-08-03T15:24:55+00:00
-**Scraped:** 2026-09-15T11:03:51.678779+00:00
-
-Create a Real-time Protection Policy for Private App Segments
-Private App Segments are not steered by default, which means by default private apps are never accessible to end-users, and they also will not receive a user notification about this. The end-user’s steering profile needs to be updated to include the private apps required for the User (Group/OU), and a matching real-time policy must exist if no discovery is configured for the user. Policies are required to log events and enable access to Users, Groups, or OUs.
-Warning — Beginning in R142, NPA DLP and Threat Protection policies only perform inspection
-— they no longer grant access to the private application. Because NPA does not allow traffic by default, each private app you inspect now also needs a dedicated Real-time Protection (Private App Access) policy that allows access. Create both policies before R142 reaches your tenant to avoid a temporary loss of connectivity. If you are not entitled to NPA DLP/Threat Protection, remove those policies instead of adding an allow policy.
-Use Real-time Protection policies to:
-Define access to a Private App Segment leveraging Source Policy criteria:
-Access Method: Browser Access and/or Client
-(Optional)
-Specific User(s), User Group(s) or Organization Unit(s)
-(Optional)
-Source IP (Egress)
-(Optional)
-Operating System
-(Optional)
-Device Classification
-(Optional)
-Define access to a Private App Segment leveraging Destination Policy criteria:
-Using an individual Private App Segment
-Or leveraging Private App Segment Tags
-And optionally with a browsing activity when applying a Data Loss Prevention or Threat Protection profile:
-Download, Upload or FormPost
-(Optional)
-File Constraints: File Name or Extension, File Type or File Size
-Define Profiles and Action:
-Standard Actions for Client Based Policies
-Allow
-Block
-Periodic Authentication
-Profiles available for Client and Browser Access
-DLP Profile
-Profiles available for Client Access
-Threat Protection Profile
-For a specific private app, you may want to have one policy that grants access for a defined set of users, and then use a second policy that blocks and notifies users who don’t have access.
-Configure Private App Access Policies
-When configuration
-Private App Access Policies
-for Applications that also
-require Threat Protection or Data Loss Prevention Profiles
-you must ensure the placement of the Access Rule is after the DLP or Threat Protection rule on Netskope version before R142.
-Go to
-Policies > Real-time Protection
-.
-Click
-New policy
-and select
-Private App Access
-.
-For Source you can configure the following options:
-Specify the Users, OU, or Groups for which the Private App Access Policy is applied. (If not specified it’s applied to all Users.)
-Specify whether the Access Method is
-Browser Access
-or
-Client
-(Threat Protection profiles are only available for Client Access)
-Restrict access based on Source IP (Egress) which allows administrators to restrict access to Private App Segments based on the Egress IP of the end-users.
-The Operating System for which the Private App Access Policy is applied to (Client only).
-Which Custom Device Classification profile must be active for the user for the rule to apply (Client only; Browser Access will always be marked as a Unmanaged Device).
-For Destination:
-Select
-Private App Segment
-and add Private App Segments underneath.
-Select the Activities that the destination rule is applied to (Only valid with Browser Access and applying a DLP Profile).
-For Action, select
-Allow
-to grant access. To deny access, select
-Block
-, select a policy notification template from the dropdown list, or
-create
-one. To enforce
-Periodic Authentication
-ensure the Source OS criteria is set to Windows and/or MacOS and select a customer end-user notification template for the rule.
-Give the policy a name, and then click
-Save
-.
-In the Status section, confirm the policy is Enabled. Optionally, click
-+ Policy Schedule
-to restrict when this policy is active based on day, date, and time of day. For full configuration details, see
-Time-Based Policies
-.
-Click
-Apply Changes
-.
-If this
-Private App Access Policy
-is intended for an application with a
-DLP or Threat Protection Policy
-, then ensure the
-placement
-of the access policy is
-after the DLP/Threat Protection Rule
-in your policy order, to ensure your DLP and Threat Protection profiles are applied.
-Per-App Periodic Authentication for Private App Segment policies:
-Periodic Authentication is available on policies with a Threat Protection or Data Loss Prevention profile starting from Netskope release R142.
-Policy Schedule caveats for Private App Segment policies:
-Browser Access/Enterprise Browser:
-Although a Policy Schedule can be configured on Browser Access and Enterprise Browser policies, enforcement is not yet supported for these access methods. Support is planned for a future release.
-Local Brokers:
-Policy Schedule will only be enforced when user traffic is egressing from a public IP address (non RFC-1918) to the Local Broker. Traffic originating from private/internal IP ranges will bypass the time-based enforcement.
-Configure Per-App Periodic Authentication Policies
-Periodic Per-App Authentication
-introduces an additional layer of security by requiring users to periodically authenticate when accessing specific Private App Segments. This feature is available for desktop devices only (Windows and macOS).
-Prerequisites
-SAML Forward Proxy
-must be configured and deployed to enable client enrollment and user identification.
-Users must use the same identity (Email) as during client enrollment in order for authentication to succeed.
-Source OS
-criteria needs to be set to
-Windows and/or MacOS
-in order to select the new Periodic Authentication action.
-Netskope Client
-needs to be at version
-R133
-or higher.
-Configure a Periodic Authentication Real-Time Policy
-To enforce periodic authentication:
-Go to
-Policies > Real-Time Protection Policies
-.
-Click
-New Policy > Private App Access
-.
-For
-Source Criteria
-, include
-Operating System = Windows and/or macOS
-.
-Select
-Client
-for the
-Access Method
-.
-Select the Private App Segment(s) for the
-Destination
-.
-Select
-Periodic Authentication
-for the
-Action
-, and define the authentication interval (like every 30 minutes).
-Select a
-User Notification
-template.
-When finished, click
-Save
-.
-After a user’s authentication expires, existing sessions remain valid. However, new sessions will require authentication after the interval expires.
-Note:
-Periodic Authentication
-is only available on Windows and MacOS.
-How the Authentication Timer Works
-The system’s timer logic is simple yet powerful. It relies on a single timestamp that marks the user’s most recent successful authentication for
-any
-private application.
-Think of it as a universal hall pass that gets a new timestamp every time you’re asked to re-authenticate. When you try to access an app, the system simply checks if the time elapsed since you got your last timestamp is greater than the specific authentication interval required for
-that app
-.
-Use Case Example
-Periodic Per-App Authentication
-works very different from the NPA periodic re-authentication mechanism that existed already. Periodic Reauthentication brings the entire NPA tunnel down
-after
-a set timer if authentication does not happen; per-app authentication works
-before
-a user accesses an application and does not interact with the NPA tunnel.
-Here’s a real-world scenario to show how this works in practice.
-Imagine we have two policies configured for a user, Alice:
-App A (GitLab):
-Requires authentication every 90 minutes.
-App B (Jira):
-Requires authentication every 60 minutes.
-Here is a timeline of Alice’s activity:
-9:00 AM:
-Alice accesses GitLab (App A) for the first time.
-Action:
-She is prompted to authenticate. Upon success, access is granted.
-Result:
-The system’s Last Authentication Time for Alice is now set to 9:00 AM. ⏰
-9:50 AM:
-Alice opens Jira (App B).
-Check:
-The system calculates the time since her last authentication:
-9:50 AM - 9:00 AM = 50 minutes
-.
-Action:
-Since 50 minutes is less than Jira’s 60-minute interval, no new authentication is needed. Access is granted seamlessly.
-Result:
-The Last Authentication Time remains 9:00 AM.
-10:10 AM:
-Alice tries to access Jira (App B) again.
-Check:
-The system calculates the time elapsed:
-10:10 AM - 9:00 AM = 70 minutes
-.
-Action:
-Since 70 minutes is greater than Jira’s 60-minute interval, Alice is prompted to re-authenticate.
-Result:
-Upon success, the Last Authentication Time is updated to 10:10 AM. 🔄
-10:30 AM:
-Alice navigates back to GitLab (App A).
-Check:
-The system uses the
-newest
-timestamp:
-10:30 AM - 10:10 AM = 20 minutes
-.
-Action:
-Since 20 minutes is less than GitLab’s 90-minute interval, no authentication is required.
-Result:
-The Last Authentication Time remains 10:10 AM.
-This single, rolling timestamp ensures that authentication happens based on the policy of the app being accessed, relative to the user’s last system-wide authentication event.
-Configure Threat Protection Policies
-Netskope Private Access (NPA) allows organizations to apply Threat Protection to web traffic (ports 80 and 443) for private apps, ensuring files are scanned for malware in real-time. When using Threat Protection with NPA, note that this feature:
-Requires
-Client
-as the Access Method.
-Scans all web traffic on HTTP (80) and HTTPS (443).
-Applies real-time scanning to protect private app access from malware and other advanced threats.
-Netskope Private Access now also supports Client to Server IPS protections based on HTTP (80) and HTTPS (443). More information can be found here:
-About IPS Settings
-.
-Create a File Hash List
-Define hash values (MD5/SHA-256) for files to be detected.
-Use these lists to
-allowlist
-(safe) or
-blocklist
-(malicious) known file hashes.
-Configure Threat Protection for Real-Time Private App Access Policies
-Go to
-Policies
->
-Real-time Protection
-.
-Click
-New Policy
-and then
-Private App Access
-.
-On the Real-time Protection policy page, enter the settings for
-Source
-(Users, Access Method and other Source Criteria) and
-Destination
-(Private App/Private App Tag) first.
-In the
-Profile & Action
-section, select
-Add Profile
-and choose
-Threat Protection Profile
-. Netskope recommends selecting
-Default Malware Scan (predefined)
-, because it automatically scans across all Threat Protection engines your platform is licensed for.
-Select the
-Action
-for each severity level. The recommended action for every severity level is
-Block
-. This ensures the best protection for users. To apply a remediation profile for each severity level, select a remediation profile from the dropdown list.
-Optionally, if you selected
-File Type
-constraints, and choose a
-Block
-action for a severity level, you can see the
-Block till benign verdict by dynamic threat analysis
-option. Select to block users from uploading or downloading a file until Netskope dynamic threat analysis provides a benign verdict. The analysis can take up to 10 minutes. For more details, go to
-Creating a Threat Protection Policy for Patient Zero
-.
-Enter a name for the policy and click
-Save
-.
-This
-Threat Protection Policy
-only inspects traffic; it does not grant access to the private app. Create
-a separate
-Private App Access Policy
-with an
-Allow
-action for the same app and users, and place it after this Threat Protection rule in your policy order so the Threat Protection Profile is applied. (From R142 this order is no longer important.)
-When the
-Fallback Action
-for Advanced File Scanning is set to
-Alert
-or
-Block
-, some events might not have policy name if there’s a TSS or DLP fail reason. There’s no rule hit because you excluded the Threat Protection rule. You don’t have a catch-all rule at the end of the policy.
-Configure Data Loss Prevention Policies
-Netskope Private Access supports applying Data Loss Prevention (DLP) to private apps by using Private App Access real-time policies. Use this configuration to inspect and protect sensitive data for both
-Browser Access
-and
-Client
-access to private apps. For Browser Access, you can also scope the policy to specific browser activities. For information about creating DLP profiles, rules, and identifiers, see
-Data Loss Prevention
-.
-Prerequisites
-Ensure a Publisher is already configured.
-For Browser Access, confirm a SAML reverse proxy IdP for Private Apps is configured.
-For Browser Access, verify the private app is configured for Browser Access.
-Create the DLP profile you want to apply before creating the policy.
-Configure a DLP policy for Private Apps
-Go to
-Policies > Real-time Protection
-and create or edit a
-Private App Access
-policy. The broader real-time policy framework supports DLP and Threat Protection and includes
-Private App Segment Access
-as a policy type.
-For
-Source
-, select the users or groups to which the policy applies, and set the
-Access Method
-to
-Browser Access
-,
-Client
-, or both, depending on the use case.
-For
-Destination
-, select the Private App Segment(s). Ensure the specific Activities are configured in order to be able to define a Data Loss Prevention Profile.
-For
-Profile & Action
-, select
-Add Profile
-and choose the required DLP Profile(s).
-Choose the enforcement action, name the policy, and click
-Save
-.
-This
-DLP Policy
-only inspects traffic; it does not grant access to the private app. Create
-a separate Private App Access Policy
-with an
-Allow
-action for the same app and users, and place it after this DLP rule in your policy order so the DLP profile is applied. (From R142 this order is no longer important.)
-Additional Notes
-For
-NPA Browser Access DLP
-, only
-HTTP and HTTPS
-private apps are supported.
-AnyApp Browser Access
-apps such as
-RDP/SSH
-are not supported for DLP.
-For
-NPA Client Access DLP
-, only
-HTTP and HTTPS
-over
-port 80 and 443
-are supported.
-Transaction events are not generated
-for
-DLP
-traffic, even when transaction events are enabled for web traffic.
-Review the
-Supported File Types for Content Inspection
-for file-format coverage.
-OCR
-is an
-Advanced DLP
-capability in Netskope generally, but
-OCR
-is
-not supported
-for NPA.
-Validation
-After saving the policy, test access to the private app with representative content that should trigger the selected DLP profile. Confirm the expected enforcement result and review the resulting DLP alerts or incidents.
-Related links
-Enforce DLP for NPA Browser Access Private Apps
-for Browser Access-specific prerequisites and legacy context.
-Data Loss Prevention
-/
-About DLP
-for profiles, rules, identifiers, and incidents.
-Supported File Types for Content Inspection
-for file-format coverage.
-User Notification Configuration
-This feature uses a new User Notification type to alert users when authentication is required. Follow these steps:
-Go to
-Policies > User Notification (Template Section)
-Click
-Add Template > Private App Segments
-Customize the notification with the following in mind:
-Set the
-Action
-to
-Periodic Authentication
-Provide clear context in the message, like the example shown below, or something more specific, like
-Authentication is required to continue using [App Name]. Please reload after completing authentication.
-)
-When finished, click
-Save
-.
-In this Topic
-Create a Real-time Protection Policy for Private App Segments
-
----
 ## Create a Real-time Protection Policy for Web Categories
 **URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-web-categories/
 **Last Modified:** 2026-08-18T17:43:31+00:00
-**Scraped:** 2026-09-15T11:03:53.925749+00:00
+**Scraped:** 2026-09-16T10:53:29.428426+00:00
 
+Create a Real-time Protection Policy for Web Categories - Netskope Technical Documentation
 Create a Real-time Protection Policy for Web Categories
 When you have visibility into the web traffic and the activities performed by users, the next step is to define policies to enforce your business rules. Policies allow you to enforce an action (like block) based on web categories, users and groups, app activity, and so on. In addition to this, you can also define data loss prevention (DLP) and threat protection profiles to inspect traffic to prevent sensitive and critical data leaks and exposure. For a more detailed view of each policy, click the expand icon adjacent to the name of the policy.
 You can move policies by dragging the icon beside the policy name. For more options, like cloning a policy, click the three dots to the far right of this policy to open a menu that enables you to clone, revert, disable, move, and delete policies.
@@ -764,13 +366,12 @@ To modify this policy, click on it and select the pencil icon next to the headin
 Apply Changes.
 In this Topic
 Create a Real-time Protection Policy for Web Categories
-Create a Real-time Protection Policy for Web Categories - Netskope Technical Documentation
 
 ---
 ## Creating a Threat Protection Policy for Real-time Protection
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-real-time-protection/
 **Last Modified:** 2025-09-03T18:23:19+00:00
-**Scraped:** 2026-09-15T11:04:26.351782+00:00
+**Scraped:** 2026-09-16T10:54:07.270833+00:00
 
 Creating a Threat Protection Policy for Real-time Protection
 Netskope can scan files stored in your cloud storage applications for malware. Real-time Protection policies scan files for malware by default. For added protection, optional configurations include allowlist and blocklist file hash lists for malware detection, and integrating Carbon Black for endpoint protection to use remediation profiles while creating an Real-time Protection policy.
@@ -843,12 +444,13 @@ Save
 Now you are ready to use the malware and malicious sites pages.
 In this Topic
 Creating a Threat Protection Policy for Real-time Protection
+Creating a Threat Protection Policy for Real-time Protection - Netskope Technical Documentation
 
 ---
 ## Real-time Protection for Public Cloud
 **URL:** https://docs.netskope.com/en/real-time-protection-for-public-cloud/
 **Last Modified:** 2025-08-31T01:50:20+00:00
-**Scraped:** 2026-09-15T11:08:59.245560+00:00
+**Scraped:** 2026-09-16T10:59:41.210409+00:00
 
 Real-time Protection for Public Cloud
 Real-time protection policies allow you to enforce access control on your public cloud assets. Using real-time protection policy, you can inspect traffic to prevent sensitive and critical data leaks and exposure. If you’ve subscribed to Netskope’s Storage Scan features DLP Scan and Threat Protection (Malware Scan), you can use real-time protection policies to define data loss prevention and threat protection profiles.
@@ -866,7 +468,7 @@ Real-time Protection for Public Cloud - Netskope Technical Documentation
 ## Supported AWS Entities for Real-time Protection
 **URL:** https://docs.netskope.com/en/supported-aws-entities-for-real-time-protection/
 **Last Modified:** 2025-08-31T01:50:21+00:00
-**Scraped:** 2026-09-15T11:10:40.156388+00:00
+**Scraped:** 2026-09-16T11:01:42.866404+00:00
 
 Supported AWS Entities for Real-time Protection
 Netskope for IaaS Real-time Protection provides robust real-time activity monitoring and enforcement for AWS Services across API and Browser/Console traffic. The following table provides the list of AWS services that are supported for Real-time Protection.
@@ -39990,7 +39592,7 @@ Supported AWS Entities for Real-time Protection - Netskope Technical Documentati
 ## Configure Real-time Protection Policies for Email Outbound
 **URL:** https://docs.netskope.com/en/configure-real-time-protection-policies-for-email-outbound/
 **Last Modified:** 2026-06-25T19:32:53+00:00
-**Scraped:** 2026-09-15T11:14:05.115394+00:00
+**Scraped:** 2026-09-16T11:05:52.409011+00:00
 
 Configure Real-time Protection Policies for Email Outbound
 Real-time Protection policies enable Netskope to scan outgoing emails for DLP violations. This protection is done as emails are received from Microsoft Exchange or Gmail and processed by the SMTP Proxy which allows data to be examined and protected in real time.
@@ -40115,7 +39717,7 @@ Configure Real-time Protection Policies for Email Outbound - Netskope Technical 
 ## Create a Real-time Protection Policy for Threat Exchange File Hashes
 **URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-threat-exchange-file-hashes/
 **Last Modified:** 2026-03-21T02:26:06+00:00
-**Scraped:** 2026-09-15T11:14:22.071074+00:00
+**Scraped:** 2026-09-16T11:06:13.665310+00:00
 
 Create a Real-time Protection Policy for Threat Exchange File Hashes - Netskope Technical Documentation
 Create a Real-time Protection Policy for Threat Exchange File Hashes
@@ -40145,7 +39747,7 @@ Create a Real-time Protection Policy for Threat Exchange File Hashes
 ## Supported GCP Entities for Real-time Protection
 **URL:** https://docs.netskope.com/en/supported-gcp-entities-for-real-time-protection/
 **Last Modified:** 2025-08-31T01:50:21+00:00
-**Scraped:** 2026-09-15T11:23:36.917857+00:00
+**Scraped:** 2026-09-16T11:17:34.266242+00:00
 
 Supported GCP Entities for Real-time Protection
 Netskope for IaaS Real-time Protection provides robust real-time activity monitoring and enforcement for GCP services across API and CLI traffic. For GCP, Browser traffic is also covered. The following table provides the list of GCP services that are supported for Real-time Protection.
@@ -54009,12 +53611,13 @@ Create
 API Only
 In this Topic
 Supported GCP Entities for Real-time Protection
+Supported GCP Entities for Real-time Protection - Netskope Technical Documentation
 
 ---
 ## Configuring Real-time Protection Policies
 **URL:** https://docs.netskope.com/en/configuring-real-time-protection-policies/
-**Last Modified:** 2026-09-07T06:35:36+00:00
-**Scraped:** 2026-09-15T11:24:35.420597+00:00
+**Last Modified:** 2026-09-15T10:25:46+00:00
+**Scraped:** 2026-09-16T11:18:44.414703+00:00
 
 Configuring Real-time Protection Policies
 With Real-time Protection (RTP), you can define policies with a wide range of variables to enforce access control or inspect traffic with DLP or Threat Protection. When creating an RTP policy, you can configure the traffic criteria (i.e., source and destination), the profile applied to the policy, and the action performed when the traffic criteria and policy are matched.
@@ -54384,12 +53987,13 @@ API-enriched Real-time Controls for Slack Enterprise
 Enforcing DLP and TSS Policies on E2E Encrypted Apps
 In this Topic
 Configuring Real-time Protection Policies
+Configuring Real-time Protection Policies - Netskope Technical Documentation
 
 ---
 ## Real-time Protection for IaaS
 **URL:** https://docs.netskope.com/en/real-time-protection-for-iaas/
 **Last Modified:** 2025-08-31T01:50:20+00:00
-**Scraped:** 2026-09-15T11:24:37.668958+00:00
+**Scraped:** 2026-09-16T11:18:47.117895+00:00
 
 Real-time Protection for IaaS
 You can define granular
@@ -54466,13 +54070,12 @@ Save
 .
 In this Topic
 Real-time Protection for IaaS
-Real-time Protection for IaaS - Netskope Technical Documentation
 
 ---
 ## Real-time Protection Policies for MCP Security
 **URL:** https://docs.netskope.com/en/real-time-protection-policies-for-mcp-security/
 **Last Modified:** 2026-08-10T16:23:13+00:00
-**Scraped:** 2026-09-15T11:40:11.295733+00:00
+**Scraped:** 2026-09-16T11:37:43.982470+00:00
 
 Real-time Protection Policies for MCP Security
 Real-time Protection (RTP) policies for Model Context Protocol (MCP) security let you control communications between AI agents and MCP servers — the third-party services that expose tools, prompts, and resources to those agents. You can create sophisticated RTP policies specifically for MCP traffic to allow, alert, or block communications based on the destination server, the category of server, specific protocol activities, or the MCP protocol version in use.
@@ -54569,13 +54172,12 @@ Granular Access Control to Block a Specific MCP Server
 Broad Access Control to Block all MCP Traffic with RTP
 In this Topic
 Real-time Protection Policies for MCP Security
-Real-time Protection Policies for MCP Security - Netskope Technical Documentation
 
 ---
 ## Creating an AI Guardrails Policy for Real-time Protection
 **URL:** https://docs.netskope.com/en/creating-an-ai-security-guardrails-policy-for-real-time-protection/
 **Last Modified:** 2026-05-07T16:02:42+00:00
-**Scraped:** 2026-09-15T11:41:29.786789+00:00
+**Scraped:** 2026-09-16T11:39:20.767142+00:00
 
 Creating an AI Guardrails Policy for Real-time Protection
 After creating an
@@ -54670,8 +54272,9 @@ Creating an AI Guardrails Policy for Real-time Protection
 ## Create an Agent Action Control Policy for Real-time Protection
 **URL:** https://docs.netskope.com/en/create-an-agent-guardrails-policy-for-real-time-protection/
 **Last Modified:** 2026-09-14T23:28:50+00:00
-**Scraped:** 2026-09-15T11:44:02.806871+00:00
+**Scraped:** 2026-09-16T11:42:29.381215+00:00
 
+Create an Agent Action Control Policy for Real-time Protection - Netskope Technical Documentation
 Create an Agent Action Control Policy for Real-time Protection
 To regulate and control the actions performed by agents across your organization, you need a Real-time Protection policy so you can apply the policy to the agents across your organization.
 To create an Agent Action Control policy for Real-time Protection:
@@ -54731,15 +54334,13 @@ Apply Changes
 After creating an Agent Action Control policy, you can view the matched policy alerts in Skope IT.
 In this Topic
 Create an Agent Action Control Policy for Real-time Protection
-Create an Agent Action Control Policy for Real-time Protection - Netskope Technical Documentation
 
 ---
 ## Netskope Secure Web Gateway
 **URL:** https://docs.netskope.com/en/netskope-secure-web-gateway/
 **Last Modified:** 2025-08-31T06:20:00+00:00
-**Scraped:** 2026-09-15T11:46:22.254428+00:00
+**Scraped:** 2026-09-16T11:45:33.570756+00:00
 
-Netskope Secure Web Gateway - Netskope Technical Documentation
 Netskope Secure Web Gateway
 Netskope Secure Web Gateway  provides next generation secure web gateway (NG SWG) capabilities to prevent malware, detect advanced threats, filter websites by category, protect data, enable remote browser isolation, and control apps and cloud services for any user, location, or device. Single-pass inline proxy is unmatched for its ability to decode cloud and web traffic including instance and activity.
 About Netskope Secure Web Gateway
@@ -54759,14 +54360,14 @@ Netskope Secure Web Gateway
 ## Real-time Protection
 **URL:** https://docs.netskope.com/en/real-time-protection/
 **Last Modified:** 2026-01-06T21:31:53+00:00
-**Scraped:** 2026-09-15T11:46:25.947359+00:00
+**Scraped:** 2026-09-16T11:45:37.665092+00:00
 
 Real-time Protection - Netskope Technical Documentation
 Real-time Protection
 Real-time Protection allows you to enforce granular access control (like block) based on the cloud apps, cloud app categories, website categories, users and groups, app activity, and so on in a policy. In addition to this, you can also define data loss prevention (DLP) and threat protection profiles to inspect traffic to prevent sensitive and critical data leaks and exposure. Real-time Protection policies also provide broad, risk-based access control for websites and malware and malicious sites protection.
+Configuring Real-time: Internet Access Policies
 Best Practices for Real-time Protection Policies
 Configuring Real-time Protection Policies
-Configuring Real-time: Internet Access Policies
 Insider Threats & Advanced Compromise Policies
 Real-time Protection for Public Cloud
 Time Based Policies
