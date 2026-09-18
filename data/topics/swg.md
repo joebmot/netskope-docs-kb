@@ -1,13 +1,14 @@
 # Netskope Docs — Swg
-_Generated: 2026-09-17 12:02 UTC_
+_Generated: 2026-09-18 11:36 UTC_
 _Pages: 19_
 
 ---
 ## NGSWG Basic Policies
 **URL:** https://docs.netskope.com/en/ngswg-basic-policies/
 **Last Modified:** 2025-08-31T01:51:20+00:00
-**Scraped:** 2026-09-17T10:55:18.618749+00:00
+**Scraped:** 2026-09-18T10:30:38.328247+00:00
 
+NGSWG Basic Policies - Netskope Technical Documentation
 NGSWG Basic Policies
 Here are some basic policy use cases that should be addressed first after deployment of the Next Generation – Secure Web Gateway (NGSWG).
 Use case #
@@ -35,9 +36,8 @@ NGSWG Basic Policies
 ## SWG Web traffic
 **URL:** https://docs.netskope.com/en/swg-web-traffic/
 **Last Modified:** 2025-08-31T01:51:20+00:00
-**Scraped:** 2026-09-17T10:55:41.457646+00:00
+**Scraped:** 2026-09-18T10:31:00.371759+00:00
 
-SWG Web traffic - Netskope Technical Documentation
 SWG Web traffic
 Here are some basic policy use cases that should be addressed first after deployment of the Next Generation – Secure Web Gateway (NGSWG).
 Use case #
@@ -60,12 +60,13 @@ NGSWG, Web policies, Observe Web traffic and Usage, Inline Monitoring and Protec
 Review Available metrics and confirm what reports to track
 In this Topic
 SWG Web traffic
+SWG Web traffic - Netskope Technical Documentation
 
 ---
 ## About Netskope Secure Web Gateway
 **URL:** https://docs.netskope.com/en/about-netskope-secure-web-gateway/
 **Last Modified:** 2026-08-18T17:43:28+00:00
-**Scraped:** 2026-09-17T10:56:09.824347+00:00
+**Scraped:** 2026-09-18T10:31:27.998993+00:00
 
 About Netskope Secure Web Gateway - Netskope Technical Documentation
 About Netskope Secure Web Gateway
@@ -138,9 +139,8 @@ About Netskope Secure Web Gateway
 ## Best Practices for Real-time Protection Policies
 **URL:** https://docs.netskope.com/en/best-practices-for-real-time-protection-policies/
 **Last Modified:** 2026-08-18T17:40:52+00:00
-**Scraped:** 2026-09-17T10:57:30.347410+00:00
+**Scraped:** 2026-09-18T10:32:47.502601+00:00
 
-Best Practices for Real-time Protection Policies - Netskope Technical Documentation
 Best Practices for Real-time Protection Policies
 The following sections walk you through the best practices of Real-time Protection and how to get the most out of your
 Real-time Protection policies
@@ -192,9 +192,8 @@ Best Practices for Real-time Protection Policies
 ## Create a Real-time Protection Policy for Isolation (Targeted RBI)
 **URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-isolation-targeted-rbi/
 **Last Modified:** 2025-08-31T01:46:34+00:00
-**Scraped:** 2026-09-17T10:58:55.646124+00:00
+**Scraped:** 2026-09-18T10:34:10.740244+00:00
 
-Create a Real-time Protection Policy for Isolation (Targeted RBI) - Netskope Technical Documentation
 Create a Real-time Protection Policy for Isolation (Targeted RBI)
 Policies are defined using a set of variables. These variables define the criteria for detecting policy violations.
 For descriptions for each of the variables used, refer to Real-time Protection
@@ -319,14 +318,14 @@ RBI Templates
 .
 In this Topic
 Create a Real-time Protection Policy for Isolation (Targeted RBI)
+Create a Real-time Protection Policy for Isolation (Targeted RBI) - Netskope Technical Documentation
 
 ---
 ## Create a Real-time Protection Policy for Web Categories
 **URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-web-categories/
 **Last Modified:** 2026-08-18T17:43:31+00:00
-**Scraped:** 2026-09-17T10:58:59.035584+00:00
+**Scraped:** 2026-09-18T10:34:14.281972+00:00
 
-Create a Real-time Protection Policy for Web Categories - Netskope Technical Documentation
 Create a Real-time Protection Policy for Web Categories
 When you have visibility into the web traffic and the activities performed by users, the next step is to define policies to enforce your business rules. Policies allow you to enforce an action (like block) based on web categories, users and groups, app activity, and so on. In addition to this, you can also define data loss prevention (DLP) and threat protection profiles to inspect traffic to prevent sensitive and critical data leaks and exposure. For a more detailed view of each policy, click the expand icon adjacent to the name of the policy.
 You can move policies by dragging the icon beside the policy name. For more options, like cloning a policy, click the three dots to the far right of this policy to open a menu that enables you to clone, revert, disable, move, and delete policies.
@@ -367,14 +366,14 @@ To modify this policy, click on it and select the pencil icon next to the headin
 Apply Changes.
 In this Topic
 Create a Real-time Protection Policy for Web Categories
+Create a Real-time Protection Policy for Web Categories - Netskope Technical Documentation
 
 ---
 ## Creating a Threat Protection Policy for Real-time Protection
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-real-time-protection/
 **Last Modified:** 2025-09-03T18:23:19+00:00
-**Scraped:** 2026-09-17T10:59:29.515898+00:00
+**Scraped:** 2026-09-18T10:34:43.972533+00:00
 
-Creating a Threat Protection Policy for Real-time Protection - Netskope Technical Documentation
 Creating a Threat Protection Policy for Real-time Protection
 Netskope can scan files stored in your cloud storage applications for malware. Real-time Protection policies scan files for malware by default. For added protection, optional configurations include allowlist and blocklist file hash lists for malware detection, and integrating Carbon Black for endpoint protection to use remediation profiles while creating an Real-time Protection policy.
 To use the optional configurations in a Real-time Protection policy, configure these options before creating the Real-time Protection policy:
@@ -451,9 +450,8 @@ Creating a Threat Protection Policy for Real-time Protection
 ## Real-time Protection for Public Cloud
 **URL:** https://docs.netskope.com/en/real-time-protection-for-public-cloud/
 **Last Modified:** 2025-08-31T01:50:20+00:00
-**Scraped:** 2026-09-17T11:03:59.237930+00:00
+**Scraped:** 2026-09-18T10:39:08.621498+00:00
 
-Real-time Protection for Public Cloud - Netskope Technical Documentation
 Real-time Protection for Public Cloud
 Real-time protection policies allow you to enforce access control on your public cloud assets. Using real-time protection policy, you can inspect traffic to prevent sensitive and critical data leaks and exposure. If you’ve subscribed to Netskope’s Storage Scan features DLP Scan and Threat Protection (Malware Scan), you can use real-time protection policies to define data loss prevention and threat protection profiles.
 When you create real-time policies, you can define the action to be performed on content that does not match a profile. For detailed information on Real-time protection policies, see
@@ -464,12 +462,13 @@ Supported AWS Entities for Real-time Protection
 Supported GCP Entities for Real-time Protection
 In this Topic
 Real-time Protection for Public Cloud
+Real-time Protection for Public Cloud - Netskope Technical Documentation
 
 ---
 ## Supported AWS Entities for Real-time Protection
 **URL:** https://docs.netskope.com/en/supported-aws-entities-for-real-time-protection/
 **Last Modified:** 2025-08-31T01:50:21+00:00
-**Scraped:** 2026-09-17T11:05:38.527008+00:00
+**Scraped:** 2026-09-18T10:40:45.874205+00:00
 
 Supported AWS Entities for Real-time Protection
 Netskope for IaaS Real-time Protection provides robust real-time activity monitoring and enforcement for AWS Services across API and Browser/Console traffic. The following table provides the list of AWS services that are supported for Real-time Protection.
@@ -39593,7 +39592,7 @@ Supported AWS Entities for Real-time Protection - Netskope Technical Documentati
 ## Configure Real-time Protection Policies for Email Outbound
 **URL:** https://docs.netskope.com/en/configure-real-time-protection-policies-for-email-outbound/
 **Last Modified:** 2026-06-25T19:32:53+00:00
-**Scraped:** 2026-09-17T11:09:01.512256+00:00
+**Scraped:** 2026-09-18T10:44:04.994014+00:00
 
 Configure Real-time Protection Policies for Email Outbound
 Real-time Protection policies enable Netskope to scan outgoing emails for DLP violations. This protection is done as emails are received from Microsoft Exchange or Gmail and processed by the SMTP Proxy which allows data to be examined and protected in real time.
@@ -39712,12 +39711,13 @@ SMTP Removed Recipients
 has been added to the Email Notification template in order to inform the user that their email has been modified by the SMTP Proxy.
 In this Topic
 Configure Real-time Protection Policies for Email Outbound
+Configure Real-time Protection Policies for Email Outbound - Netskope Technical Documentation
 
 ---
 ## Create a Real-time Protection Policy for Threat Exchange File Hashes
 **URL:** https://docs.netskope.com/en/create-a-real-time-protection-policy-for-threat-exchange-file-hashes/
 **Last Modified:** 2026-03-21T02:26:06+00:00
-**Scraped:** 2026-09-17T11:09:18.494074+00:00
+**Scraped:** 2026-09-18T10:44:21.660948+00:00
 
 Create a Real-time Protection Policy for Threat Exchange File Hashes - Netskope Technical Documentation
 Create a Real-time Protection Policy for Threat Exchange File Hashes
@@ -39747,7 +39747,7 @@ Create a Real-time Protection Policy for Threat Exchange File Hashes
 ## Supported GCP Entities for Real-time Protection
 **URL:** https://docs.netskope.com/en/supported-gcp-entities-for-real-time-protection/
 **Last Modified:** 2025-08-31T01:50:21+00:00
-**Scraped:** 2026-09-17T11:18:29.014583+00:00
+**Scraped:** 2026-09-18T10:53:16.326405+00:00
 
 Supported GCP Entities for Real-time Protection
 Netskope for IaaS Real-time Protection provides robust real-time activity monitoring and enforcement for GCP services across API and CLI traffic. For GCP, Browser traffic is also covered. The following table provides the list of GCP services that are supported for Real-time Protection.
@@ -53611,12 +53611,13 @@ Create
 API Only
 In this Topic
 Supported GCP Entities for Real-time Protection
+Supported GCP Entities for Real-time Protection - Netskope Technical Documentation
 
 ---
 ## Configuring Real-time Protection Policies
 **URL:** https://docs.netskope.com/en/configuring-real-time-protection-policies/
 **Last Modified:** 2026-09-15T10:25:46+00:00
-**Scraped:** 2026-09-17T11:19:26.467790+00:00
+**Scraped:** 2026-09-18T10:54:12.465476+00:00
 
 Configuring Real-time Protection Policies
 With Real-time Protection (RTP), you can define policies with a wide range of variables to enforce access control or inspect traffic with DLP or Threat Protection. When creating an RTP policy, you can configure the traffic criteria (i.e., source and destination), the profile applied to the policy, and the action performed when the traffic criteria and policy are matched.
@@ -53986,12 +53987,13 @@ API-enriched Real-time Controls for Slack Enterprise
 Enforcing DLP and TSS Policies on E2E Encrypted Apps
 In this Topic
 Configuring Real-time Protection Policies
+Configuring Real-time Protection Policies - Netskope Technical Documentation
 
 ---
 ## Real-time Protection for IaaS
 **URL:** https://docs.netskope.com/en/real-time-protection-for-iaas/
 **Last Modified:** 2025-08-31T01:50:20+00:00
-**Scraped:** 2026-09-17T11:19:28.726270+00:00
+**Scraped:** 2026-09-18T10:54:14.680041+00:00
 
 Real-time Protection for IaaS - Netskope Technical Documentation
 Real-time Protection for IaaS
@@ -54074,7 +54076,7 @@ Real-time Protection for IaaS
 ## Real-time Protection Policies for MCP Security
 **URL:** https://docs.netskope.com/en/real-time-protection-policies-for-mcp-security/
 **Last Modified:** 2026-08-10T16:23:13+00:00
-**Scraped:** 2026-09-17T11:34:56.457120+00:00
+**Scraped:** 2026-09-18T11:09:18.847269+00:00
 
 Real-time Protection Policies for MCP Security
 Real-time Protection (RTP) policies for Model Context Protocol (MCP) security let you control communications between AI agents and MCP servers — the third-party services that expose tools, prompts, and resources to those agents. You can create sophisticated RTP policies specifically for MCP traffic to allow, alert, or block communications based on the destination server, the category of server, specific protocol activities, or the MCP protocol version in use.
@@ -54176,9 +54178,8 @@ Real-time Protection Policies for MCP Security
 ## Creating an AI Guardrails Policy for Real-time Protection
 **URL:** https://docs.netskope.com/en/creating-an-ai-security-guardrails-policy-for-real-time-protection/
 **Last Modified:** 2026-05-07T16:02:42+00:00
-**Scraped:** 2026-09-17T11:36:14.818920+00:00
+**Scraped:** 2026-09-18T11:10:35.481881+00:00
 
-Creating an AI Guardrails Policy for Real-time Protection - Netskope Technical Documentation
 Creating an AI Guardrails Policy for Real-time Protection
 After creating an
 AI guardrails profile
@@ -54267,22 +54268,81 @@ Viewing AI Guardrails Alerts
 .
 In this Topic
 Creating an AI Guardrails Policy for Real-time Protection
+Creating an AI Guardrails Policy for Real-time Protection - Netskope Technical Documentation
 
 ---
-## Create an Agent Action Control Policy for Real-time Protection - Netskope Technical Documentation
-**URL:** https://docs.netskope.com/en/create-an-agent-guardrails-policy-for-real-time-protection/
-**Last Modified:** 2026-09-14T23:28:50+00:00
-**Scraped:** 2026-09-17T11:38:48.313326+00:00
+## Create an Agent Action Control Policy for Real-time Protection
+**URL:** https://docs.netskope.com/en/create-an-agent-action-control-policy-for-real-time-protection/
+**Last Modified:** 2026-09-17T00:07:33+00:00
+**Scraped:** 2026-09-18T11:13:09.181096+00:00
 
+Create an Agent Action Control Policy for Real-time Protection
+To regulate and control the actions performed by agents across your organization, you need a Real-time Protection policy so you can apply the policy to the agents across your organization.
+To create an Agent Action Control policy for Real-time Protection:
+Go to
+Policies
+>
+Real-time Protection
+.
+Click
+New Policy
+and then select
+Agent Action Control
+.
+Enter the policy information:
+Source
+: Search for and select the Agents to use. Click
+Add Criteria
+to add other sources, like users, user groups, organizational units, source IP, and Source IP (egress) that you want to group with the agents to restrict the scope.
+Destination
+: Select the traffic destination you want to apply the Agent Action Control policy to. Select
+Applications
+from the dropdown, and then add the Cloud Apps to manage with this policy.
+Profile & Action
+: Configure the following.
+Agent Action Control
+: Select the Agent Action Control profiles you want to add to the Real-time Protection policy. You can add multiple profiles to a Real-time Protection policy.
+Profile Action
+: Select the action you want Netskope to take when users trigger the policy.
+Alert
+Allow
+Block
+If you select
+Block
+, you can also choose a default or custom notification template to send to the end-user for user coaching if Netskope detects a policy violation.
+Policy Name
+: Enter a policy name. You can only use alphanumeric characters and symbols such as underscore (_), dash (-), and square brackets ([ ]). You cannot use the greater-than (>) or less-than (<) symbols in policy names.
++ Policy Description
+: Click to add notes or information.
++ Email Notification
+: Netskope doesn’t send email-based notifications for Agent Action Control alerts.
+Status
+: Ensure it’s
+Enabled
+so the policy is active.
+Click
+Save
+. The new policy appears on the Real-time Protection Policy page.
+In the
+Move Policy
+window, move the Agent Action Control policy based on your interpretation of the severity of the content moderation.
+Click
+Save
+.
+Click
+Apply Changes
+.
+After creating an Agent Action Control policy, you can view the matched policy alerts in Skope IT.
+In this Topic
+Create an Agent Action Control Policy for Real-time Protection
 Create an Agent Action Control Policy for Real-time Protection - Netskope Technical Documentation
 
 ---
 ## Netskope Secure Web Gateway
 **URL:** https://docs.netskope.com/en/netskope-secure-web-gateway/
 **Last Modified:** 2025-08-31T06:20:00+00:00
-**Scraped:** 2026-09-17T11:41:19.995111+00:00
+**Scraped:** 2026-09-18T11:15:36.848051+00:00
 
-Netskope Secure Web Gateway - Netskope Technical Documentation
 Netskope Secure Web Gateway
 Netskope Secure Web Gateway  provides next generation secure web gateway (NG SWG) capabilities to prevent malware, detect advanced threats, filter websites by category, protect data, enable remote browser isolation, and control apps and cloud services for any user, location, or device. Single-pass inline proxy is unmatched for its ability to decode cloud and web traffic including instance and activity.
 About Netskope Secure Web Gateway
@@ -54297,12 +54357,13 @@ Netskope Tenant Certificate Rotation Guide
 About Predefined Categories
 In this Topic
 Netskope Secure Web Gateway
+Netskope Secure Web Gateway - Netskope Technical Documentation
 
 ---
 ## Real-time Protection
 **URL:** https://docs.netskope.com/en/real-time-protection/
 **Last Modified:** 2026-01-06T21:31:53+00:00
-**Scraped:** 2026-09-17T11:41:23.389400+00:00
+**Scraped:** 2026-09-18T11:15:40.168096+00:00
 
 Real-time Protection - Netskope Technical Documentation
 Real-time Protection
