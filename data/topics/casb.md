@@ -1,13 +1,14 @@
 # Netskope Docs — Casb
-_Generated: 2026-09-28 13:55 UTC_
-_Pages: 7_
+_Generated: 2026-09-29 13:10 UTC_
+_Pages: 8_
 
 ---
 ## API (Observe for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-observe-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-09-28T12:47:32.316358+00:00
+**Scraped:** 2026-09-29T12:02:50.905970+00:00
 
+API (Observe for Managed App Activities) - Netskope Technical Documentation
 API (Observe for Managed App Activities)
 This section outlines specific use cases to observe for managed app activities. Check back because new use cases are added periodically.
 Create a list of publicly accessible documents in an API-Protected service
@@ -24,7 +25,7 @@ API (Observe for Managed App Activities)
 ## API (Monitor for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-09-28T12:47:33.425017+00:00
+**Scraped:** 2026-09-29T12:02:51.988468+00:00
 
 API (Monitor for Managed App Activities) - Netskope Technical Documentation
 API (Monitor for Managed App Activities)
@@ -43,9 +44,8 @@ API (Monitor for Managed App Activities)
 ## API Connectors
 **URL:** https://docs.netskope.com/en/api-connectors/
 **Last Modified:** 2025-11-04T16:57:54+00:00
-**Scraped:** 2026-09-28T12:47:34.536690+00:00
+**Scraped:** 2026-09-29T12:02:53.066859+00:00
 
-API Connectors - Netskope Technical Documentation
 API Connectors
 There are two platforms available for API Data Protection:
 API Data Protection – Classic
@@ -58,8 +58,9 @@ API Connectors
 ## CASB API Protection
 **URL:** https://docs.netskope.com/en/casb-api-protection/
 **Last Modified:** 2026-01-31T05:39:42+00:00
-**Scraped:** 2026-09-28T12:47:55.450901+00:00
+**Scraped:** 2026-09-29T12:03:13.935941+00:00
 
+CASB API Protection - Netskope Technical Documentation
 CASB API Protection
 What is CASB?
 CASB, or Cloud Access Security Broker, is a security policy enforcement point placed between cloud service providers and their users to ensure security policies and compliance. It helps organizations protect their data by providing visibility, data security, threat protection, and compliance management across cloud services. To learn more:
@@ -79,7 +80,7 @@ CASB API Protection
 ## Remove the Netskope CASB API App from the Zoom Account
 **URL:** https://docs.netskope.com/en/remove-the-netskope-casb-api-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-09-28T12:57:33.570204+00:00
+**Scraped:** 2026-09-29T12:12:53.249778+00:00
 
 Remove the Netskope CASB API App from the Zoom Account - Netskope Technical Documentation
 Remove the Netskope CASB API App from the Zoom Account
@@ -113,7 +114,7 @@ Remove the Netskope CASB API App from the Zoom Account
 ## Uninstall the Netskope CASB API for Confluence App
 **URL:** https://docs.netskope.com/en/uninstall-the-netskope-casb-api-for-confluence-app/
 **Last Modified:** 2025-08-31T01:42:14+00:00
-**Scraped:** 2026-09-28T13:13:22.860055+00:00
+**Scraped:** 2026-09-29T12:28:42.496589+00:00
 
 Uninstall the Netskope CASB API for Confluence App - Netskope Technical Documentation
 Uninstall the Netskope CASB API for Confluence App
@@ -140,7 +141,7 @@ Uninstall the Netskope CASB API for Confluence App
 ## CASB API Usage
 **URL:** https://docs.netskope.com/en/casb-api-billable-user-calculation/
 **Last Modified:** 2026-06-12T07:25:57+00:00
-**Scraped:** 2026-09-28T13:28:00.475286+00:00
+**Scraped:** 2026-09-29T12:43:19.596207+00:00
 
 CASB API Usage - Netskope Technical Documentation
 CASB API Usage
@@ -388,3 +389,66 @@ For SaaS applications, if the number of billable users exceeds 1 million, Nets
 file. This recommendation is due to a limitation in Numbers for Mac and Microsoft Excel, which supports a maximum of 1 million records per sheet.
 In this Topic
 CASB API Usage
+
+---
+## CASB API Product Licensing Terms
+**URL:** https://docs.netskope.com/en/casb-api-product-licensing-terms/
+**Last Modified:** 2026-09-29T03:36:34+00:00
+**Scraped:** 2026-09-29T12:49:18.578090+00:00
+
+CASB API Product Licensing Terms - Netskope Technical Documentation
+CASB API Product Licensing Terms
+Service Overview
+CASB API provides out-of-band data protection, threat detection, and user behavioral anomaly detection for sanctioned SaaS applications via direct API integrations.
+Definitions and Unit of Measure
+A
+“Seat”
+is a subscription for a Netskope API-enabled service instance to monitor a single app instance of service or user account for the protected SaaS app. Examples:
+Two application user accounts monitored by Netskope API-enabled Services for three SaaS application accounts requires a subscription for six Seats (2 Users x 3 SaaS application instances = 6 Seats).
+Two Netskope instances concurrently connected to the same SaaS application account with 1K app users, are treated as 2K user Seats.
+A
+“User”
+is defined as each individual that:
+is authorized by the customer to use the customer’s systems (including the customer’s network, cloud services and Internet connections)
+whose use of such systems is monitored by, or accessed by use of, the Services.
+A “TB” is defined as one terabyte of data processed via the Retroactive Scan functionality.
+Unit of Measure:
+Seats
+: Each User to application instance relationship counts as one Seat, which is one Subscription Unit.
+User
+: Each User counts as one Subscription Unit and cannot be shared between multiple Users.
+TB
+: Each terabyte of data scanned via a Retroactive Scan counts as one Subscription Unit.
+Entitlement
+Subscription Period
+: As set forth in a customer’s order.
+Licensing Model:
+CASB API can be entitled either per ‘Seat’ or per ‘User’ and both entitle a fixed volume of Retroactive scanning capability.
+Seat-based Subscription:
+Each Subscription Unit (e.g,, Seat, TB, User, etc.)  for Seat-based Subscriptions entitles customers to one Seat. Customers must purchase a fixed number of Seats that can be applied to any number of Application instances so long as the Seat quantity used does not exceed the entitled quantity.
+User-based Subscription:
+Each Subscription Unit for User-based Subscription entitles customers to one User with access to unlimited non-Generative AI applications.
+Pooling
+User, Seat and TB entitlement is assigned at the account level and may be shared across multiple of the customer’s tenants.
+Add-On packages
+Customers may purchase incremental Subscription Units to increase their entitlements for Users, Seats, or TB (via ‘add-on’ packages) at any time during the subscription period, by placing an additional order.
+Non -Roll Over:
+Any unused allocations at the end of the subscription period do not roll over to the subsequent period.
+Usage Monitoring
+Customers may view their usage by application directly within the CASB API dashboard in the WebUI at the tenant level. Customers must log into each respective tenant to review granular usage data.
+Measurement & Enforcement
+Measurement Methodology
+– Netskope measures usage based on the number of unique Users or Seats observed daily at the Customer’s account level. Methodology is aligned to the specific Application being monitored (refer to the “
+Billable User” methodology
+for application-specific breakdowns).
+TB scanned via Retroactive Scanning is measured as cumulative volume over the annual Subscription Period.
+Service Limitations
+If usage exceeds the purchased entitlement, Netskope reserves the right to limit functionality, including the cessation of protection, until the customer acquires sufficient additional licenses.
+Overage Remediation
+If the customer’s actual usage exceeds the purchased entitlement, the customer must, within 30 days of notification, either:
+Purchase additional licenses (Users, Seats or TB packages) sufficient to cover the total active usage; or
+Immediately cease the use of the Service for the volume exceeding the licensed entitlement.
+Customer Records:
+The customer may be required to provide system data, audit logs, or written confirmation of the number of Users and/or Seats upon reasonable request by Netskope.
+In this Topic
+CASB API Product Licensing Terms
