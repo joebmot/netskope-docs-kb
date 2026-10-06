@@ -1,13 +1,14 @@
 # Netskope Docs — Firewall
-_Generated: 2026-10-05 14:37 UTC_
+_Generated: 2026-10-06 13:49 UTC_
 _Pages: 12_
 
 ---
 ## Check Firewall Policy
 **URL:** https://docs.netskope.com/en/check-firewall-policy/
 **Last Modified:** 2026-08-05T23:04:24+00:00
-**Scraped:** 2026-10-05T13:29:26.505237+00:00
+**Scraped:** 2026-10-06T12:41:27.615487+00:00
 
+Check Firewall Policy - Netskope Technical Documentation
 Check Firewall Policy
 Soon you’ll be installing the Netskope Client (which is used to automatically forward traffic to the Netskope cloud) to user devices, and you must ensure that it is able to communicate to the Netskope Cloud.
 Ensure that the following are permitted through both any installed Endpoint firewall software (like Windows Firewall, Crowdstrike, etc.) and any on-premise network firewall (like Palo Alto, Fortinet, etc.):
@@ -36,7 +37,7 @@ Check Firewall Policy
 ## Cloud Firewall Advanced Analytics Events
 **URL:** https://docs.netskope.com/en/cloud-firewall-advanced-analytics-events/
 **Last Modified:** 2026-10-01T09:06:56+00:00
-**Scraped:** 2026-10-05T13:33:01.483096+00:00
+**Scraped:** 2026-10-06T12:45:02.216058+00:00
 
 Cloud Firewall Advanced Analytics Events - Netskope Technical Documentation
 Cloud Firewall Advanced Analytics Events
@@ -84,8 +85,9 @@ Cloud Firewall Advanced Analytics Events
 ## Cloud Firewall Network Events and Alerts
 **URL:** https://docs.netskope.com/en/cloud-firewall-network-events-and-alerts/
 **Last Modified:** 2026-10-01T09:06:41+00:00
-**Scraped:** 2026-10-05T13:33:05.949017+00:00
+**Scraped:** 2026-10-06T12:45:06.673655+00:00
 
+Cloud Firewall Network Events and Alerts - Netskope Technical Documentation
 Cloud Firewall Network Events and Alerts
 Network Events log all traffic that is steered to Netskope at the connection level.
 To view Network events, go to
@@ -160,7 +162,7 @@ Cloud Firewall Network Events and Alerts
 ## Configuring Cloud Firewall Steering Exceptions
 **URL:** https://docs.netskope.com/en/configuring-cloud-firewall-steering-exceptions/
 **Last Modified:** 2026-10-01T09:06:17+00:00
-**Scraped:** 2026-10-05T13:33:42.985005+00:00
+**Scraped:** 2026-10-06T12:45:43.454341+00:00
 
 Configuring Cloud Firewall Steering Exceptions
 Navigate to
@@ -202,13 +204,15 @@ Save
 Navigate to Skope IT > Network Events to view your bypassed applications.
 In this Topic
 Configuring Cloud Firewall Steering Exceptions
+Configuring Cloud Firewall Steering Exceptions - Netskope Technical Documentation
 
 ---
 ## Creating a Firewall App Definition
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition/
 **Last Modified:** 2026-10-01T09:05:53+00:00
-**Scraped:** 2026-10-05T13:34:34.852516+00:00
+**Scraped:** 2026-10-06T12:46:34.946916+00:00
 
+Creating a Firewall App Definition - Netskope Technical Documentation
 Creating a Firewall App Definition
 If you have the Cloud Firewall license, on the App Definition page, you can create new rules for firewall apps to apply to policies. You can create multiple rules for the same firewall app. For example, if you create an app called “Allow_FTP” with a certain destination IP and protocol, this same app can be reused to add more destination IPs and protocols.
 Custom apps that only have traffic-based definition rules won’t have activities detected. You cannot add Firewall apps to steering.
@@ -279,10 +283,331 @@ In this Topic
 Creating a Firewall App Definition
 
 ---
+## Creating a Firewall App Definition
+**URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition-449298/
+**Last Modified:** 2025-09-16T06:08:33+00:00
+**Scraped:** 2026-10-06T12:54:26.153178+00:00
+
+Creating a Firewall App Definition - Netskope Technical Documentation
+Creating a Firewall App Definition
+If you have the Cloud Firewall license, on the App Definition page, you can create new rules for firewall apps to apply to policies. You can create multiple rules for the same firewall app. For example, if you create an app called “Allow_FTP” with a certain destination IP and protocol, this same app can be reused to add more destination IPs and protocols.
+Note
+Custom apps that only have traffic-based definition rules won’t have activities detected. You cannot add Firewall apps to steering.
+To create a firewall app definition:
+Go to
+Settings
+>
+Security Cloud Platform
+>
+App Definition
+.
+In the
+Cloud & Firewall Apps
+tab, click
+New App Definition Rule
+and then
+Firewall App
+.
+In the
+New App Definition Rule: Firewall App
+window:
+Application
+: Choose an existing firewall custom app or create a new one, and then enter a name for the app. A firewall custom app can’t have the same name as a cloud custom app.
+Destination IP
+: Enter a valid IP address, IP range, FQDN, PQDN, or CIDR netmask separated by commas. If you leave it empty, Netskope sets the destination IP to any.
+Protocol
+: Choose the protocol for the firewall app. For
+TCP
+,
+UDP
+, and
+TCP/UDP
+, you can enter:
+A specific port:
+22
+A specific port range:
+1024-2048
+A combination of ports and port ranges:
+22,80,443,1024-2048
+ICMP
+doesn’t require port configuration. A TCP flow times out after 5 minutes of idle time. Netskope recommends you use a keepalive for TCP-based protocols that might leverage longer idle sessions such as SSH, FTP, etc.
+Click
+Save
+.
+Following is the rule order of custom app definitions and policies:
+Firewall Apps – Netskope picks the app that matches first in the policies, i.e. the app matches by the policy ordered list.
+Cloud Apps – Netskope finds the most specific application first then matches by the policy ordered list.
+If the app matches both Cloud and Firewall apps as described above (i.e. there is overlap), Netskope uses policy ordering to determine a priority.
+In this Topic
+Creating a Firewall App Definition
+
+---
+## Firewall Settings for DSPM-Hosted Instances
+**URL:** https://docs.netskope.com/en/firewall-settings-for-netskope-dspm-hosted-instances/
+**Last Modified:** 2026-08-21T18:10:54+00:00
+**Scraped:** 2026-10-06T13:11:25.541056+00:00
+
+Firewall Settings for DSPM-Hosted Instances
+Overview
+Because the DSPM (also known as
+Netskope One DSPM
+) application is hosted and managed by Netskope (instead of being self-hosted), you may need to update your firewall/security group settings in order for Netskope DSPM to connect to your Data Stores.
+Important Egress Requirements:
+The specific firewall configurations you need depend on your deployment use case:
+–
+For Direct Connections (no sidecar):
+Apply the rules in the
+DSPM Application Egress
+section.
+–
+For
+Single Appliance
+Deployments:
+Apply the rules in the
+DSPM Application Egress
+,
+Sidecar Egress and Ports
+, and
+DLP Service Egress
+sections. All three apply to the same host.
+–
+For
+Distributed Deployments
+(separate sidecars + DLP appliance):
+Apply the rules in the
+Sidecar Egress and Ports
+and
+DLP Service Egress
+sections to their respective hosts.
+DSPM Application Egress
+All Data Store scans will originate from these IP addresses, so you need to whitelist them:
+This list has been updated to include new public CIDR blocks from Netskope’s AWS accounts. If you use whitelisting, please add these new ranges to ensure uninterrupted connectivity.
+IP Address
+CIDR by Home POP
+35.86.53.159
+44.226.200.72
+44.236.251.30
+44.243.172.80
+52.27.197.60
+52.27.67.30
+52.39.117.251
+52.39.99.174
+52.40.249.64
+52.43.227.202
+54.189.99.166
+Home POP
+CIDR
+SJC1
+18.98.10.112/28
+SJC2
+18.98.10.112/28
+SV5
+18.98.10.112/28
+DFW3
+18.98.10.112/28
+AM2
+18.96.33.16/28
+FR4
+18.96.33.16/28
+FRA2
+18.96.33.16/28
+ZUR2
+18.98.224.160/28
+LON3
+18.98.162.192/28
+SIN2
+18.99.40.96/28
+MEL2
+18.98.196.32/28
+BOM3
+18.96.226.80/28
+If you need to identify your home POP, reach out to your account manager.
+Sidecar Egress and Ports
+If you are using sidecars to connect with your Data Stores, you may need to update your firewall/security group settings in order to provide outbound egress for sidecars to communicate with DSPM.
+Additionally, in the distributed deployment model, the sidecar must be able to communicate with the
+DLP appliance
+via
+HTTPS (port 443)
+. In the Single Appliance model, this communication happens locally on the same host.
+For more information, please visit any of our sidecar installation articles in the
+Netskope DSPM Deployment Guides
+.
+DLP Service Egress
+The
+DLP appliance
+requires its own outbound egress to the internet. This connectivity is necessary for the appliance to validate its license and download configurations.
+In this Topic
+Firewall Settings for DSPM-Hosted Instances
+Firewall Settings for DSPM-Hosted Instances - Netskope Technical Documentation
+
+---
+## CCI Cloud Firewall Apps
+**URL:** https://docs.netskope.com/en/cci-cloud-firewall-apps/
+**Last Modified:** 2026-06-19T16:05:45+00:00
+**Scraped:** 2026-10-06T13:12:32.606607+00:00
+
+CCI Cloud Firewall Apps - Netskope Technical Documentation
+CCI Cloud Firewall Apps
+Admins can look up Cloud Firewall apps and identify if the app is a firewall only app (L3/L4) or Hybrid app (L3/L4 and L7). This page is dynamic and apps are continually added, removed, and updated.
+Users can filter by CCL, app type, or search by app name.
+In this Topic
+CCI Cloud Firewall Apps
+
+---
+## Windows Defender Firewall
+**URL:** https://docs.netskope.com/en/windows-defender-firewall/
+**Last Modified:** 2026-09-01T17:03:30+00:00
+**Scraped:** 2026-10-06T13:26:36.952028+00:00
+
+Windows Defender Firewall - Netskope Technical Documentation
+Windows Defender Firewall
+Windows Defender firewall is a stateful host firewall that monitors incoming and outgoing traffic in a device using rules and policies. This document contains the best practices required in Windows Defender Firewall and Netskope Client to ensure smooth interoperability.
+Environment
+This document was created using the following components:
+Netskope Client: 141.0.0
+OS: Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, and Windows Server 2022
+Interoperability Configuration Requirements
+Specific configurations in the Windows Defender firewall ensure processes or traffic from either of the applications are not blocked or directed to the Netskope Cloud.
+Configurations In Windows Defender Firewall
+The administrators mostly configure Windows Defender firewall in:
+Domain environment: This includes configuring rules for all devices in that domain  automatically using Group Policy.
+Non-domain environment: This includes configuring firewall policies for non-domain joined devices using tools such as Microsoft Intune, BMC, and so on.
+Best Practices:
+The administrators can consider certain best practices while configuring the Windows Defender firewall to optimize the security of the devices. To learn more, view
+Best Practices
+.
+Configure GPO In Windows Defender
+To open a GPO to Windows Firewall with Advanced Security:
+Open the
+Group Policy Management
+console.
+In the navigation pane, expand
+Forest (YourForestName)
+>
+Domains (YourDomainName)
+>
+Group Policy Objects
+.
+In the navigation pane of the
+Group Policy Management Editor
+, navigate to
+Computer Configuration
+>
+Policies
+>
+Windows Settings
+>
+Security Settings
+>
+Windows Firewall with Advanced Security
+>
+Windows Firewall with Advanced Security
+.
+Set the firewall to be enabled and click
+Windows Firewall Properties
+.
+Set the following options for Domain Profile, Private Profile, and Public Profile:
+Firewall State to On.
+Inbound Connections to Block (Default)
+Outbound Connections to Allow (Default)
+Click
+OK
+.
+Configure Firewall Rules
+Go to
+Computer Configuration
+>
+Policies
+>
+Windows Settings
+>
+Security Settings
+>
+Windows Firewall with Advanced Security
+>
+Windows Firewall with Advanced Security.
+Click
+Outbound Rules
+>
+New Rule
+.
+In the
+New Outbound Rule Wizard
+window, perform the following:
+Rule Type: Select the rule to create.
+Protocol and Ports: Select the port the rule applies to.
+Action: Select the action to perform when a connection matches the specified conditions.
+Profile: Select the applicable profiles where you need to apply the rules.
+Name: Enter a name to identify the rule.
+After providing all outbound rules, you can see the new rule in the Group Policy Management console.
+Validate Firewall Rules
+Apply GPO to a computer OU, and view the result on the client firewall configuration or use the command
+gpupdate /force
+to manually refresh the policy and publish it to the client.
+Make sure to install and run the NS Client with Cloud Firewall mode.
+On the client machine which is already domain joined, open the RDP application and access the resource. RDP application must be restricted and it should not be steered through NSProxy.
+Verifying Interoperability
+Netskope Client Features
+Refer to the list of
+validated use cases
+to verify Client operations.
+In this Topic
+Windows Defender Firewall
+
+---
+## Mac Native Firewall
+**URL:** https://docs.netskope.com/en/mac-native-firewall/
+**Last Modified:** 2026-09-01T17:04:09+00:00
+**Scraped:** 2026-10-06T13:26:40.420712+00:00
+
+Mac Native Firewall
+Apple devices running macOS have built in firewall mechanisms to allow or block incoming or outgoing traffic. Various MDM tools allow deploying configuration policies that can enable or disable firewalls and also deploy firewall rules. This document lists the configuration requirements to ensure Netskope Client and Mac Native Firewall operate smoothly.
+Environment
+This document was created using the following components:
+Netskope Client: 141.0.0
+OS: macOS
+Interoperability Configuration Requirements
+Netskope recommends the following configurations to ensure that Netskope Client can steer traffic directly to Netskope cloud.
+Netskope recommends a layered security posture, use macOS packet filter rules to enforce host-level restrictions alongside Netskope’s Internet security and least-privilege access. When configuring a mac native firewall, allow list the Netskope IP range along with other known service exceptions.
+Configuring Mac Native Firewall
+When configuring policies for Client deployment, ensure that you add options in your MDM tool to enable firewall and open ports 80 and 443.
+To deploy Netskope Client in a Virtual Machine (VM), ensure that the Client in the host machine is disabled.
+Enable Firewall
+The following references can  provide MDM specific configuration guidelines to enable or disable firewalls in a macOS device:
+JAMF Pro
+Omnissa Workspace One
+MS Intune / Endpoint Manager
+Verifying Interoperability
+Netskope Client
+Refer to the list of
+validated use cases
+that you can use to verify Client operations.
+Mac Firewall
+Netskope Client is able to bypass exception and tunnel traffic as specified in the steering configuration.
+To validate Mac Firewall, enable firewall on your macOS machine from
+System Settings
+>
+Network
+>
+Firewall
+.
+After enabling the firewall, no traffic is allowed and gets blocked. Perform the following steps to block port 443:
+Open /etc/pf.conf using vim editor.
+Add the following rule at the end of pf.conf file – to block 443 port:
+block in proto tcp from any to any port 443
+block out proto tcp from any to any port 443
+Run below command to enable filter
+sudo pfctl -e -f /etc/pf.conf
+The rule to block is now set and blocks any website traffic.
+tail -f /Library/Logs/Netskope/nsdebuglog.log
+In this Topic
+Mac Native Firewall
+
+---
 ## Netskope Client Support in Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-client-support-in-cloud-firewall/
-**Last Modified:** 2026-10-01T09:06:28+00:00
-**Scraped:** 2026-10-05T13:37:54.382697+00:00
+**Last Modified:** 2026-10-05T17:00:29+00:00
+**Scraped:** 2026-10-06T13:27:54.210370+00:00
 
 Netskope Client Support in Cloud Firewall
 Netskope client is an agent-based deployment method where a lightweight non-intrusive agent is installed on the endpoint. The Netskope client provides the most comprehensive coverage as they can be installed on managed devices to provide visibility and policy enforcement for devices that are both on-premises and remote (off network).
@@ -301,6 +626,7 @@ Windows 10 or later
 Windows Server 2016 or later
 macOS Big Sur or later
 iOS 15 or later
+Android and ChromeOS
 If you have a older version of Windows or macOS, refer
 Netskope Client Dynamic Steering, Fall Back, and Fail Close Behavior
 .
@@ -475,331 +801,12 @@ In this Topic
 Netskope Client Support in Cloud Firewall
 
 ---
-## Creating a Firewall App Definition
-**URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition-449298/
-**Last Modified:** 2025-09-16T06:08:33+00:00
-**Scraped:** 2026-10-05T13:42:30.995366+00:00
-
-Creating a Firewall App Definition - Netskope Technical Documentation
-Creating a Firewall App Definition
-If you have the Cloud Firewall license, on the App Definition page, you can create new rules for firewall apps to apply to policies. You can create multiple rules for the same firewall app. For example, if you create an app called “Allow_FTP” with a certain destination IP and protocol, this same app can be reused to add more destination IPs and protocols.
-Note
-Custom apps that only have traffic-based definition rules won’t have activities detected. You cannot add Firewall apps to steering.
-To create a firewall app definition:
-Go to
-Settings
->
-Security Cloud Platform
->
-App Definition
-.
-In the
-Cloud & Firewall Apps
-tab, click
-New App Definition Rule
-and then
-Firewall App
-.
-In the
-New App Definition Rule: Firewall App
-window:
-Application
-: Choose an existing firewall custom app or create a new one, and then enter a name for the app. A firewall custom app can’t have the same name as a cloud custom app.
-Destination IP
-: Enter a valid IP address, IP range, FQDN, PQDN, or CIDR netmask separated by commas. If you leave it empty, Netskope sets the destination IP to any.
-Protocol
-: Choose the protocol for the firewall app. For
-TCP
-,
-UDP
-, and
-TCP/UDP
-, you can enter:
-A specific port:
-22
-A specific port range:
-1024-2048
-A combination of ports and port ranges:
-22,80,443,1024-2048
-ICMP
-doesn’t require port configuration. A TCP flow times out after 5 minutes of idle time. Netskope recommends you use a keepalive for TCP-based protocols that might leverage longer idle sessions such as SSH, FTP, etc.
-Click
-Save
-.
-Following is the rule order of custom app definitions and policies:
-Firewall Apps – Netskope picks the app that matches first in the policies, i.e. the app matches by the policy ordered list.
-Cloud Apps – Netskope finds the most specific application first then matches by the policy ordered list.
-If the app matches both Cloud and Firewall apps as described above (i.e. there is overlap), Netskope uses policy ordering to determine a priority.
-In this Topic
-Creating a Firewall App Definition
-
----
-## Firewall Settings for DSPM-Hosted Instances
-**URL:** https://docs.netskope.com/en/firewall-settings-for-netskope-dspm-hosted-instances/
-**Last Modified:** 2026-08-21T18:10:54+00:00
-**Scraped:** 2026-10-05T13:59:39.531785+00:00
-
-Firewall Settings for DSPM-Hosted Instances - Netskope Technical Documentation
-Firewall Settings for DSPM-Hosted Instances
-Overview
-Because the DSPM (also known as
-Netskope One DSPM
-) application is hosted and managed by Netskope (instead of being self-hosted), you may need to update your firewall/security group settings in order for Netskope DSPM to connect to your Data Stores.
-Important Egress Requirements:
-The specific firewall configurations you need depend on your deployment use case:
-–
-For Direct Connections (no sidecar):
-Apply the rules in the
-DSPM Application Egress
-section.
-–
-For
-Single Appliance
-Deployments:
-Apply the rules in the
-DSPM Application Egress
-,
-Sidecar Egress and Ports
-, and
-DLP Service Egress
-sections. All three apply to the same host.
-–
-For
-Distributed Deployments
-(separate sidecars + DLP appliance):
-Apply the rules in the
-Sidecar Egress and Ports
-and
-DLP Service Egress
-sections to their respective hosts.
-DSPM Application Egress
-All Data Store scans will originate from these IP addresses, so you need to whitelist them:
-This list has been updated to include new public CIDR blocks from Netskope’s AWS accounts. If you use whitelisting, please add these new ranges to ensure uninterrupted connectivity.
-IP Address
-CIDR by Home POP
-35.86.53.159
-44.226.200.72
-44.236.251.30
-44.243.172.80
-52.27.197.60
-52.27.67.30
-52.39.117.251
-52.39.99.174
-52.40.249.64
-52.43.227.202
-54.189.99.166
-Home POP
-CIDR
-SJC1
-18.98.10.112/28
-SJC2
-18.98.10.112/28
-SV5
-18.98.10.112/28
-DFW3
-18.98.10.112/28
-AM2
-18.96.33.16/28
-FR4
-18.96.33.16/28
-FRA2
-18.96.33.16/28
-ZUR2
-18.98.224.160/28
-LON3
-18.98.162.192/28
-SIN2
-18.99.40.96/28
-MEL2
-18.98.196.32/28
-BOM3
-18.96.226.80/28
-If you need to identify your home POP, reach out to your account manager.
-Sidecar Egress and Ports
-If you are using sidecars to connect with your Data Stores, you may need to update your firewall/security group settings in order to provide outbound egress for sidecars to communicate with DSPM.
-Additionally, in the distributed deployment model, the sidecar must be able to communicate with the
-DLP appliance
-via
-HTTPS (port 443)
-. In the Single Appliance model, this communication happens locally on the same host.
-For more information, please visit any of our sidecar installation articles in the
-Netskope DSPM Deployment Guides
-.
-DLP Service Egress
-The
-DLP appliance
-requires its own outbound egress to the internet. This connectivity is necessary for the appliance to validate its license and download configurations.
-In this Topic
-Firewall Settings for DSPM-Hosted Instances
-
----
-## CCI Cloud Firewall Apps
-**URL:** https://docs.netskope.com/en/cci-cloud-firewall-apps/
-**Last Modified:** 2026-06-19T16:05:45+00:00
-**Scraped:** 2026-10-05T14:00:46.743262+00:00
-
-CCI Cloud Firewall Apps - Netskope Technical Documentation
-CCI Cloud Firewall Apps
-Admins can look up Cloud Firewall apps and identify if the app is a firewall only app (L3/L4) or Hybrid app (L3/L4 and L7). This page is dynamic and apps are continually added, removed, and updated.
-Users can filter by CCL, app type, or search by app name.
-In this Topic
-CCI Cloud Firewall Apps
-
----
-## Windows Defender Firewall
-**URL:** https://docs.netskope.com/en/windows-defender-firewall/
-**Last Modified:** 2026-09-01T17:03:30+00:00
-**Scraped:** 2026-10-05T14:14:58.266965+00:00
-
-Windows Defender Firewall
-Windows Defender firewall is a stateful host firewall that monitors incoming and outgoing traffic in a device using rules and policies. This document contains the best practices required in Windows Defender Firewall and Netskope Client to ensure smooth interoperability.
-Environment
-This document was created using the following components:
-Netskope Client: 141.0.0
-OS: Windows 10, Windows 11, Windows Server 2016, Windows Server 2019, and Windows Server 2022
-Interoperability Configuration Requirements
-Specific configurations in the Windows Defender firewall ensure processes or traffic from either of the applications are not blocked or directed to the Netskope Cloud.
-Configurations In Windows Defender Firewall
-The administrators mostly configure Windows Defender firewall in:
-Domain environment: This includes configuring rules for all devices in that domain  automatically using Group Policy.
-Non-domain environment: This includes configuring firewall policies for non-domain joined devices using tools such as Microsoft Intune, BMC, and so on.
-Best Practices:
-The administrators can consider certain best practices while configuring the Windows Defender firewall to optimize the security of the devices. To learn more, view
-Best Practices
-.
-Configure GPO In Windows Defender
-To open a GPO to Windows Firewall with Advanced Security:
-Open the
-Group Policy Management
-console.
-In the navigation pane, expand
-Forest (YourForestName)
->
-Domains (YourDomainName)
->
-Group Policy Objects
-.
-In the navigation pane of the
-Group Policy Management Editor
-, navigate to
-Computer Configuration
->
-Policies
->
-Windows Settings
->
-Security Settings
->
-Windows Firewall with Advanced Security
->
-Windows Firewall with Advanced Security
-.
-Set the firewall to be enabled and click
-Windows Firewall Properties
-.
-Set the following options for Domain Profile, Private Profile, and Public Profile:
-Firewall State to On.
-Inbound Connections to Block (Default)
-Outbound Connections to Allow (Default)
-Click
-OK
-.
-Configure Firewall Rules
-Go to
-Computer Configuration
->
-Policies
->
-Windows Settings
->
-Security Settings
->
-Windows Firewall with Advanced Security
->
-Windows Firewall with Advanced Security.
-Click
-Outbound Rules
->
-New Rule
-.
-In the
-New Outbound Rule Wizard
-window, perform the following:
-Rule Type: Select the rule to create.
-Protocol and Ports: Select the port the rule applies to.
-Action: Select the action to perform when a connection matches the specified conditions.
-Profile: Select the applicable profiles where you need to apply the rules.
-Name: Enter a name to identify the rule.
-After providing all outbound rules, you can see the new rule in the Group Policy Management console.
-Validate Firewall Rules
-Apply GPO to a computer OU, and view the result on the client firewall configuration or use the command
-gpupdate /force
-to manually refresh the policy and publish it to the client.
-Make sure to install and run the NS Client with Cloud Firewall mode.
-On the client machine which is already domain joined, open the RDP application and access the resource. RDP application must be restricted and it should not be steered through NSProxy.
-Verifying Interoperability
-Netskope Client Features
-Refer to the list of
-validated use cases
-to verify Client operations.
-In this Topic
-Windows Defender Firewall
-
----
-## Mac Native Firewall
-**URL:** https://docs.netskope.com/en/mac-native-firewall/
-**Last Modified:** 2026-09-01T17:04:09+00:00
-**Scraped:** 2026-10-05T14:15:01.751445+00:00
-
-Mac Native Firewall
-Apple devices running macOS have built in firewall mechanisms to allow or block incoming or outgoing traffic. Various MDM tools allow deploying configuration policies that can enable or disable firewalls and also deploy firewall rules. This document lists the configuration requirements to ensure Netskope Client and Mac Native Firewall operate smoothly.
-Environment
-This document was created using the following components:
-Netskope Client: 141.0.0
-OS: macOS
-Interoperability Configuration Requirements
-Netskope recommends the following configurations to ensure that Netskope Client can steer traffic directly to Netskope cloud.
-Netskope recommends a layered security posture, use macOS packet filter rules to enforce host-level restrictions alongside Netskope’s Internet security and least-privilege access. When configuring a mac native firewall, allow list the Netskope IP range along with other known service exceptions.
-Configuring Mac Native Firewall
-When configuring policies for Client deployment, ensure that you add options in your MDM tool to enable firewall and open ports 80 and 443.
-To deploy Netskope Client in a Virtual Machine (VM), ensure that the Client in the host machine is disabled.
-Enable Firewall
-The following references can  provide MDM specific configuration guidelines to enable or disable firewalls in a macOS device:
-JAMF Pro
-Omnissa Workspace One
-MS Intune / Endpoint Manager
-Verifying Interoperability
-Netskope Client
-Refer to the list of
-validated use cases
-that you can use to verify Client operations.
-Mac Firewall
-Netskope Client is able to bypass exception and tunnel traffic as specified in the steering configuration.
-To validate Mac Firewall, enable firewall on your macOS machine from
-System Settings
->
-Network
->
-Firewall
-.
-After enabling the firewall, no traffic is allowed and gets blocked. Perform the following steps to block port 443:
-Open /etc/pf.conf using vim editor.
-Add the following rule at the end of pf.conf file – to block 443 port:
-block in proto tcp from any to any port 443
-block out proto tcp from any to any port 443
-Run below command to enable filter
-sudo pfctl -e -f /etc/pf.conf
-The rule to block is now set and blocks any website traffic.
-tail -f /Library/Logs/Netskope/nsdebuglog.log
-In this Topic
-Mac Native Firewall
-
----
 ## Netskope Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-cloud-firewall/
 **Last Modified:** 2026-01-12T22:43:34+00:00
-**Scraped:** 2026-10-05T14:16:18.637991+00:00
+**Scraped:** 2026-10-06T13:28:13.362629+00:00
 
+Netskope Cloud Firewall - Netskope Technical Documentation
 Netskope Cloud Firewall
 Note
 This document guides you to configure the Netskope Cloud Firewall. The Netskope Cloud Firewall controls your organizations’ outbound non-HTTP(S) traffic. However, if you intend to manage the HTTP(S) traffic (on port 80/443 and non standard ports), you can refer to the Netskope Secure Web Gateway and Netskope Cloud Access Security Broker documentation.
