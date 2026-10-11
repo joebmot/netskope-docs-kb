@@ -1,12 +1,12 @@
 # Netskope Docs — Casb
-_Generated: 2026-10-10 13:02 UTC_
+_Generated: 2026-10-11 13:10 UTC_
 _Pages: 8_
 
 ---
 ## API (Observe for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-observe-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-10-10T11:50:19.741875+00:00
+**Scraped:** 2026-10-11T12:01:59.969699+00:00
 
 API (Observe for Managed App Activities) - Netskope Technical Documentation
 API (Observe for Managed App Activities)
@@ -25,7 +25,7 @@ API (Observe for Managed App Activities)
 ## API (Monitor for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-10-10T11:50:20.892702+00:00
+**Scraped:** 2026-10-11T12:02:01.076692+00:00
 
 API (Monitor for Managed App Activities) - Netskope Technical Documentation
 API (Monitor for Managed App Activities)
@@ -44,7 +44,7 @@ API (Monitor for Managed App Activities)
 ## API Connectors
 **URL:** https://docs.netskope.com/en/api-connectors/
 **Last Modified:** 2025-11-04T16:57:54+00:00
-**Scraped:** 2026-10-10T11:50:22.040559+00:00
+**Scraped:** 2026-10-11T12:02:02.172312+00:00
 
 API Connectors - Netskope Technical Documentation
 API Connectors
@@ -59,9 +59,8 @@ API Connectors
 ## CASB API Protection
 **URL:** https://docs.netskope.com/en/casb-api-protection/
 **Last Modified:** 2026-01-31T05:39:42+00:00
-**Scraped:** 2026-10-10T11:50:44.299914+00:00
+**Scraped:** 2026-10-11T12:02:23.321711+00:00
 
-CASB API Protection - Netskope Technical Documentation
 CASB API Protection
 What is CASB?
 CASB, or Cloud Access Security Broker, is a security policy enforcement point placed between cloud service providers and their users to ensure security policies and compliance. It helps organizations protect their data by providing visibility, data security, threat protection, and compliance management across cloud services. To learn more:
@@ -81,7 +80,7 @@ CASB API Protection
 ## Remove the Netskope CASB API App from the Zoom Account
 **URL:** https://docs.netskope.com/en/remove-the-netskope-casb-api-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-10-10T12:00:47.508739+00:00
+**Scraped:** 2026-10-11T12:11:59.748124+00:00
 
 Remove the Netskope CASB API App from the Zoom Account - Netskope Technical Documentation
 Remove the Netskope CASB API App from the Zoom Account
@@ -115,7 +114,7 @@ Remove the Netskope CASB API App from the Zoom Account
 ## Uninstall the Netskope CASB API for Confluence App
 **URL:** https://docs.netskope.com/en/uninstall-the-netskope-casb-api-for-confluence-app/
 **Last Modified:** 2025-08-31T01:42:14+00:00
-**Scraped:** 2026-10-10T12:17:25.297913+00:00
+**Scraped:** 2026-10-11T12:27:50.655082+00:00
 
 Uninstall the Netskope CASB API for Confluence App - Netskope Technical Documentation
 Uninstall the Netskope CASB API for Confluence App
@@ -142,7 +141,7 @@ Uninstall the Netskope CASB API for Confluence App
 ## CASB API Usage
 **URL:** https://docs.netskope.com/en/casb-api-billable-user-calculation/
 **Last Modified:** 2026-06-12T07:25:57+00:00
-**Scraped:** 2026-10-10T12:32:44.958085+00:00
+**Scraped:** 2026-10-11T12:42:30.640584+00:00
 
 CASB API Usage - Netskope Technical Documentation
 CASB API Usage
@@ -395,9 +394,8 @@ CASB API Usage
 ## CASB API Product Licensing Terms
 **URL:** https://docs.netskope.com/en/casb-api-product-licensing-terms/
 **Last Modified:** 2026-10-09T23:09:56+00:00
-**Scraped:** 2026-10-10T12:39:00.980071+00:00
+**Scraped:** 2026-10-11T12:48:29.151345+00:00
 
-CASB API Product Licensing Terms - Netskope Technical Documentation
 CASB API Product Licensing Terms
 Service Overview
 CASB API provides out-of-band data protection, threat detection, and user behavioral anomaly detection for sanctioned SaaS applications via direct API integrations.
@@ -426,14 +424,14 @@ Subscription Period
 Licensing Model:
 CASB API can be entitled either per ‘Seat’ or per ‘User’ and both entitle a fixed volume of Retroactive scanning capability.
 Seat-based Subscription:
-Each Subscription Unit (e.g,, Seat, TB, User, etc.)  for Seat-based Subscriptions entitles customers to one Seat. Customers must purchase a fixed number of Seats that can be applied to any number of Application instances so long as the Seat quantity used does not exceed the entitled quantity.
+Each Subscription Unit (e.g, Seat, TB, User, etc.)  for Seat-based Subscriptions entitles customers to one Seat. Customers must purchase a fixed number of Seats that can be applied to any number of Application instances so long as the Seat quantity used does not exceed the entitled quantity.
 User-based Subscription:
 Each Subscription Unit for User-based Subscription entitles customers to one User with access to unlimited non-Generative AI applications.
 Pooling
 User, Seat and TB entitlement is assigned at the account level and may be shared across multiple of the customer’s tenants.
 Add-On packages
 Customers may purchase incremental Subscription Units to increase their entitlements for Users, Seats, or TB (via ‘add-on’ packages) at any time during the subscription period, by placing an additional order.
-Non -Roll Over:
+Non-Roll Over:
 Any unused allocations at the end of the subscription period do not roll over to the subsequent period.
 Usage Monitoring
 Customers may view their usage by application directly within the CASB API dashboard in the WebUI at the tenant level. Customers must log into each respective tenant to review granular usage data.
