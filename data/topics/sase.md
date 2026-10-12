@@ -1,12 +1,12 @@
 # Netskope Docs — Sase
-_Generated: 2026-10-11 13:10 UTC_
+_Generated: 2026-10-12 15:28 UTC_
 _Pages: 5_
 
 ---
 ## Borderless SD-WAN
 **URL:** https://docs.netskope.com/en/borderless-sd-wan/
 **Last Modified:** 2026-06-02T01:38:20+00:00
-**Scraped:** 2026-10-11T12:15:10.119138+00:00
+**Scraped:** 2026-10-12T14:32:07.640701+00:00
 
 Borderless SD-WAN - Netskope Technical Documentation
 Borderless SD-WAN
@@ -23,7 +23,7 @@ Borderless SD-WAN
 ## Netskope IPSec with Aruba EdgeConnect SD-WAN
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-aruba-edgeconnect-sd-wan/
 **Last Modified:** 2025-08-31T01:55:23+00:00
-**Scraped:** 2026-10-11T12:29:18.783624+00:00
+**Scraped:** 2026-10-12T14:46:28.837340+00:00
 
 Netskope IPSec with Aruba EdgeConnect SD-WAN - Netskope Technical Documentation
 Netskope IPSec with Aruba EdgeConnect SD-WAN
@@ -349,9 +349,8 @@ Netskope IPSec with Aruba EdgeConnect SD-WAN
 ## Netskope Borderless WAN Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-tenant-plugin/
 **Last Modified:** 2026-05-05T22:35:25+00:00
-**Scraped:** 2026-10-11T12:34:43.435757+00:00
+**Scraped:** 2026-10-12T14:51:59.914163+00:00
 
-Netskope Borderless WAN Tenant Plugin - Netskope Technical Documentation
 Netskope Borderless WAN Tenant Plugin
 This document explains how to configure the Netskope Borderless WAN Tenant v1.1.0 plugin in Cloud Exchange. This plugin is responsible for configuring BWAN tenants and collecting events of types Audit, Authentication, Client, Gateway, and System from Netskope Borderless WAN.
 Prerequisites
@@ -536,9 +535,8 @@ Netskope Borderless WAN Tenant Plugin
 ## Netskope Borderless WAN Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:48:53+00:00
-**Scraped:** 2026-10-11T12:34:44.547968+00:00
+**Scraped:** 2026-10-12T14:52:01.049552+00:00
 
-Netskope Borderless WAN Plugin for Log Shipper - Netskope Technical Documentation
 Netskope Borderless WAN Plugin for Log Shipper
 This document explains how to configure the Borderless WAN 1.1.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin is used to fetch Events (Audit, Authentication, Client, Gateway, System) from the
 Monitor > Events
@@ -831,9 +829,8 @@ Netskope Borderless WAN Plugin for Log Shipper
 ## Netskope One SD-WAN Licensing Terms
 **URL:** https://docs.netskope.com/en/netskope-one-sd-wan-licensing-terms/
 **Last Modified:** 2026-08-14T17:15:50+00:00
-**Scraped:** 2026-10-11T12:46:49.267603+00:00
+**Scraped:** 2026-10-12T15:04:14.369942+00:00
 
-Netskope One SD-WAN Licensing Terms - Netskope Technical Documentation
 Netskope One SD-WAN Licensing Terms
 To learn more:
 Netskope One SD-WAN Licensing Terms
