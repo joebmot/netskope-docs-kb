@@ -1,12 +1,12 @@
 # Netskope Docs — Admin
-_Generated: 2026-10-15 11:54 UTC_
+_Generated: 2026-10-16 11:44 UTC_
 _Pages: 57_
 
 ---
 ## About the Admin Console
 **URL:** https://docs.netskope.com/en/about-the-admin-console/
 **Last Modified:** 2025-08-31T01:50:45+00:00
-**Scraped:** 2026-10-15T10:47:23.729574+00:00
+**Scraped:** 2026-10-16T10:36:10.843093+00:00
 
 About the Admin Console - Netskope Technical Documentation
 About the Admin Console
@@ -57,7 +57,7 @@ About the Admin Console
 ## Access the Admin Console
 **URL:** https://docs.netskope.com/en/access-the-admin-console/
 **Last Modified:** 2025-08-31T01:50:47+00:00
-**Scraped:** 2026-10-15T10:47:24.827075+00:00
+**Scraped:** 2026-10-16T10:36:11.943075+00:00
 
 Access the Admin Console - Netskope Technical Documentation
 Access the Admin Console
@@ -87,8 +87,9 @@ Access the Admin Console
 ## Create Local Administrators
 **URL:** https://docs.netskope.com/en/create-local-administrators/
 **Last Modified:** 2025-08-31T01:50:47+00:00
-**Scraped:** 2026-10-15T10:48:28.812227+00:00
+**Scraped:** 2026-10-16T10:37:16.419758+00:00
 
+Create Local Administrators - Netskope Technical Documentation
 Create Local Administrators
 Go to
 Settings > Administration > Admins
@@ -122,8 +123,9 @@ Create Local Administrators
 ## Secure Tenant Configuration and Hardening
 **URL:** https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/
 **Last Modified:** 2026-06-09T18:58:13+00:00
-**Scraped:** 2026-10-15T10:49:25.362953+00:00
+**Scraped:** 2026-10-16T10:38:13.346254+00:00
 
+Secure Tenant Configuration and Hardening - Netskope Technical Documentation
 Secure Tenant Configuration and Hardening
 This document outlines the security configurations available in Netskope products and how those can be used to harden the security of Netskope products and components deployed in customer environments.
 Security hardening guidelines are provided in the following sections:
@@ -706,7 +708,7 @@ Secure Tenant Configuration and Hardening
 ## Delete or Downgrade the Global Administrator Account
 **URL:** https://docs.netskope.com/en/delete-or-downgrade-the-global-administrator-account-326348/
 **Last Modified:** 2025-08-31T01:41:20+00:00
-**Scraped:** 2026-10-15T10:53:23.483239+00:00
+**Scraped:** 2026-10-16T10:42:11.595223+00:00
 
 Delete or Downgrade the Global Administrator Account - Netskope Technical Documentation
 Delete or Downgrade the Global Administrator Account
@@ -754,7 +756,7 @@ Delete or Downgrade the Global Administrator Account
 ## Delete or Downgrade the Global Administrator Account
 **URL:** https://docs.netskope.com/en/delete-or-downgrade-the-global-administrator-account-326337/
 **Last Modified:** 2025-09-01T12:34:07+00:00
-**Scraped:** 2026-10-15T10:53:25.660884+00:00
+**Scraped:** 2026-10-16T10:42:13.765928+00:00
 
 Delete or Downgrade the Global Administrator Account - Netskope Technical Documentation
 Delete or Downgrade the Global Administrator Account
@@ -802,9 +804,8 @@ Delete or Downgrade the Global Administrator Account
 ## Delete or Downgrade the Global Administrator Account
 **URL:** https://docs.netskope.com/en/delete-or-downgrade-the-global-administrator-account/
 **Last Modified:** 2025-09-01T12:34:10+00:00
-**Scraped:** 2026-10-15T10:53:26.741914+00:00
+**Scraped:** 2026-10-16T10:42:14.858507+00:00
 
-Delete or Downgrade the Global Administrator Account - Netskope Technical Documentation
 Delete or Downgrade the Global Administrator Account
 Netskope requires a global administrator account to grant rights to the Netskope Activity Feeds for Microsoft Office 365 OneDrive for Business application. Post-grant, you can delete or downgrade the original service account that you have used to set up the Microsoft Office 365 OneDrive for Business app instance. To do so, follow the steps below:
 Log in to the Netskope tenant and navigate to
@@ -850,7 +851,7 @@ Delete or Downgrade the Global Administrator Account
 ## Deleting AWS Instances in the Netskope Tenant
 **URL:** https://docs.netskope.com/en/deleting-aws-instances-in-the-netskope-tenant/
 **Last Modified:** 2025-08-31T01:46:32+00:00
-**Scraped:** 2026-10-15T10:53:39.196807+00:00
+**Scraped:** 2026-10-16T10:42:26.839045+00:00
 
 Deleting AWS Instances in the Netskope Tenant - Netskope Technical Documentation
 Deleting AWS Instances in the Netskope Tenant
@@ -870,7 +871,7 @@ Deleting AWS Instances in the Netskope Tenant
 ## Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA
 **URL:** https://docs.netskope.com/en/step-3-3-add-the-azure-subscription-to-the-netskope-tenant-for-csa/
 **Last Modified:** 2025-08-31T01:46:02+00:00
-**Scraped:** 2026-10-15T10:58:51.342748+00:00
+**Scraped:** 2026-10-16T10:47:40.228839+00:00
 
 Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA - Netskope Technical Documentation
 Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA
@@ -931,7 +932,7 @@ Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA
 ## Step 3/3: Set up a Netskope instance with Azure App Registration credentials
 **URL:** https://docs.netskope.com/en/step-3-3-add-the-azure-subscription-to-the-netskope-tenant-for-forensics/
 **Last Modified:** 2025-08-31T01:46:26+00:00
-**Scraped:** 2026-10-15T10:58:53.513281+00:00
+**Scraped:** 2026-10-16T10:47:42.407989+00:00
 
 Step 3/3: Set up a Netskope instance with Azure App Registration credentials - Netskope Technical Documentation
 Step 3/3: Set up a Netskope instance with Azure App Registration credentials
@@ -993,7 +994,7 @@ Step 3/3: Set up a Netskope instance with Azure App Registration credentials
 ## Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection
 **URL:** https://docs.netskope.com/en/step-4-4-add-the-azure-subscription-to-the-netskope-tenant-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:14+00:00
-**Scraped:** 2026-10-15T10:58:54.592581+00:00
+**Scraped:** 2026-10-16T10:47:43.494178+00:00
 
 Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection - Netskope Technical Documentation
 Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection
@@ -1063,7 +1064,7 @@ Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection
 ## Upload Logs to the Netskope Tenant UI
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-ui/
 **Last Modified:** 2025-08-31T01:50:03+00:00
-**Scraped:** 2026-10-15T10:59:23.717344+00:00
+**Scraped:** 2026-10-16T10:48:12.618783+00:00
 
 Upload Logs to the Netskope Tenant UI - Netskope Technical Documentation
 Upload Logs to the Netskope Tenant UI
@@ -1091,7 +1092,7 @@ Upload Logs to the Netskope Tenant UI
 ## Operating Cloud Exchange
 **URL:** https://docs.netskope.com/en/cloud-exchange-console/
 **Last Modified:** 2026-03-21T01:18:36+00:00
-**Scraped:** 2026-10-15T11:01:41.740170+00:00
+**Scraped:** 2026-10-16T10:50:31.504981+00:00
 
 Operating Cloud Exchange - Netskope Technical Documentation
 Operating Cloud Exchange
@@ -1123,7 +1124,7 @@ Operating Cloud Exchange
 ## Create a File Profile in your Netskope Tenant for File Hashes
 **URL:** https://docs.netskope.com/en/create-a-file-profile-in-your-netskope-tenant-for-file-hashes/
 **Last Modified:** 2025-11-01T00:42:02+00:00
-**Scraped:** 2026-10-15T11:02:25.475816+00:00
+**Scraped:** 2026-10-16T10:51:15.265199+00:00
 
 Create a File Profile in your Netskope Tenant for File Hashes - Netskope Technical Documentation
 Create a File Profile in your Netskope Tenant for File Hashes
@@ -1150,7 +1151,7 @@ Create a File Profile in your Netskope Tenant for File Hashes
 ## Admin Account Domains
 **URL:** https://docs.netskope.com/en/admin-account-domains/
 **Last Modified:** 2025-08-31T01:38:42+00:00
-**Scraped:** 2026-10-15T11:05:35.774155+00:00
+**Scraped:** 2026-10-16T10:54:26.129855+00:00
 
 Admin Account Domains - Netskope Technical Documentation
 Admin Account Domains
@@ -1215,9 +1216,8 @@ Admin Account Domains
 ## Administration
 **URL:** https://docs.netskope.com/en/administration/
 **Last Modified:** 2025-08-31T01:38:34+00:00
-**Scraped:** 2026-10-15T11:05:36.851748+00:00
+**Scraped:** 2026-10-16T10:54:27.231818+00:00
 
-Administration - Netskope Technical Documentation
 Administration
 As an administrator, you have access to your tenant instance in Netskope. The Netskope UI provides full access to deploying and managing the Netskope solution. There are several administrator account types. You can assign each admin a specific role which has different admin privileges. You can configure an admin user as one of the admin account types. In addition, you can create custom designed roles based on your business needs.
 Log in to your tenant instance in Netskope using the URL provided in the initial onboarding email sent from Netskope. Upon first log in, you will be prompted to change the admin password.
@@ -1245,8 +1245,9 @@ Administration
 ## Admins Settings Page
 **URL:** https://docs.netskope.com/en/admins-settings-page/
 **Last Modified:** 2025-08-31T01:38:48+00:00
-**Scraped:** 2026-10-15T11:05:39.004450+00:00
+**Scraped:** 2026-10-16T10:54:29.401374+00:00
 
+Admins Settings Page - Netskope Technical Documentation
 Admins Settings Page
 The Admins Settings page contains general functions that apply to all admins.
 On the Settings page (
@@ -1269,8 +1270,9 @@ Admins Settings Page
 ## Assign Roles to Restricted Administrators
 **URL:** https://docs.netskope.com/en/assign-roles-to-restricted-administrators/
 **Last Modified:** 2025-08-31T01:38:41+00:00
-**Scraped:** 2026-10-15T11:05:50.887934+00:00
+**Scraped:** 2026-10-16T10:54:41.402789+00:00
 
+Assign Roles to Restricted Administrators - Netskope Technical Documentation
 Assign Roles to Restricted Administrators
 To assign roles to a restricted admin:
 Go to
@@ -1293,7 +1295,7 @@ Assign Roles to Restricted Administrators
 ## Change Access for an Admin Account
 **URL:** https://docs.netskope.com/en/change-access-for-an-admin-account/
 **Last Modified:** 2026-02-20T00:17:03+00:00
-**Scraped:** 2026-10-15T11:05:54.124784+00:00
+**Scraped:** 2026-10-16T10:54:44.692893+00:00
 
 Change Access for an Admin Account - Netskope Technical Documentation
 Change Access for an Admin Account
@@ -1331,7 +1333,7 @@ Change Access for an Admin Account
 ## Create Administrators
 **URL:** https://docs.netskope.com/en/create-administrators/
 **Last Modified:** 2025-08-31T01:38:40+00:00
-**Scraped:** 2026-10-15T11:06:16.996883+00:00
+**Scraped:** 2026-10-16T10:55:07.643530+00:00
 
 Create Administrators - Netskope Technical Documentation
 Create Administrators
@@ -1372,7 +1374,7 @@ Create Administrators
 ## Create Admins and Assign to Roles
 **URL:** https://docs.netskope.com/en/create-admins-and-assign-to-roles/
 **Last Modified:** 2025-08-31T01:38:50+00:00
-**Scraped:** 2026-10-15T11:06:21.341812+00:00
+**Scraped:** 2026-10-16T10:55:12.004310+00:00
 
 Create Admins and Assign to Roles - Netskope Technical Documentation
 Create Admins and Assign to Roles
@@ -1409,7 +1411,7 @@ Create Admins and Assign to Roles
 ## Create Roles for Restricted Administrators
 **URL:** https://docs.netskope.com/en/create-roles-for-restricted-administrators/
 **Last Modified:** 2025-08-31T01:38:40+00:00
-**Scraped:** 2026-10-15T11:06:32.145072+00:00
+**Scraped:** 2026-10-16T10:55:23.248683+00:00
 
 Create Roles for Restricted Administrators - Netskope Technical Documentation
 Create Roles for Restricted Administrators
@@ -1442,7 +1444,7 @@ Create Roles for Restricted Administrators
 ## Disallow Concurrent Logins by an Admin
 **URL:** https://docs.netskope.com/en/disallow-concurrent-logins-by-an-admin/
 **Last Modified:** 2025-08-31T01:38:54+00:00
-**Scraped:** 2026-10-15T11:06:49.919436+00:00
+**Scraped:** 2026-10-16T10:55:41.811956+00:00
 
 Disallow Concurrent Logins by an Admin - Netskope Technical Documentation
 Disallow Concurrent Logins by an Admin
@@ -1464,9 +1466,8 @@ Disallow Concurrent Logins by an Admin
 ## Manage Administrators
 **URL:** https://docs.netskope.com/en/manage-administrators/
 **Last Modified:** 2025-08-31T01:38:47+00:00
-**Scraped:** 2026-10-15T11:07:33.405891+00:00
+**Scraped:** 2026-10-16T10:56:27.706377+00:00
 
-Manage Administrators - Netskope Technical Documentation
 Manage Administrators
 The Netskope UI provides full access for deploying and managing admin rights for the Netskope solution. Netskope’s role-based administration enables you to control what different admins can do in the solution. You can delegate responsibilities among admins and granularly control their level of access to the solution to ensure they do not create conflicting policies and settings.
 The high level workflow for implementing role-based administration includes:
@@ -1494,7 +1495,7 @@ Manage Administrators
 ## Multi-Factor Authentication for Netskope Admins
 **URL:** https://docs.netskope.com/en/multi-factor-authentication-for-netskope-admins/
 **Last Modified:** 2025-10-09T23:38:08+00:00
-**Scraped:** 2026-10-15T11:07:40.228135+00:00
+**Scraped:** 2026-10-16T10:56:34.233992+00:00
 
 Multi-Factor Authentication for Netskope Admins - Netskope Technical Documentation
 Multi-Factor Authentication for Netskope Admins
@@ -1583,7 +1584,7 @@ Multi-Factor Authentication for Netskope Admins
 ## Managing Administrators
 **URL:** https://docs.netskope.com/en/managing-administrators/
 **Last Modified:** 2026-07-31T04:30:08+00:00
-**Scraped:** 2026-10-15T11:07:43.511696+00:00
+**Scraped:** 2026-10-16T10:56:37.497515+00:00
 
 Managing Administrators - Netskope Technical Documentation
 Managing Administrators
@@ -1784,9 +1785,8 @@ Managing Administrators
 ## Managing Administrators for RBAC V2
 **URL:** https://docs.netskope.com/en/managing-administrators-for-rbac-v2/
 **Last Modified:** 2025-08-31T01:38:46+00:00
-**Scraped:** 2026-10-15T11:07:44.587839+00:00
+**Scraped:** 2026-10-16T10:56:38.600193+00:00
 
-Managing Administrators for RBAC V2 - Netskope Technical Documentation
 Managing Administrators for RBAC V2
 Contact Support to enable this feature set in your account.
 Manage Administrators
@@ -1802,7 +1802,7 @@ Managing Administrators for RBAC V2
 ## Tenant Overview
 **URL:** https://docs.netskope.com/en/tenant-overview/
 **Last Modified:** 2026-10-03T00:27:03+00:00
-**Scraped:** 2026-10-15T11:08:23.699875+00:00
+**Scraped:** 2026-10-16T10:57:18.029276+00:00
 
 Tenant Overview - Netskope Technical Documentation
 Tenant Overview
@@ -1877,7 +1877,7 @@ Tenant Overview
 ## Configure the Remote Console
 **URL:** https://docs.netskope.com/en/configure-the-remote-console/
 **Last Modified:** 2026-08-18T17:14:07+00:00
-**Scraped:** 2026-10-15T11:09:39.966038+00:00
+**Scraped:** 2026-10-16T10:58:34.758960+00:00
 
 Configure the Remote Console - Netskope Technical Documentation
 Configure the Remote Console
@@ -1942,7 +1942,7 @@ Configure the Remote Console
 ## Hide Sensitive Data from Admins
 **URL:** https://docs.netskope.com/en/hide-sensitive-data-from-admins/
 **Last Modified:** 2026-08-18T17:15:04+00:00
-**Scraped:** 2026-10-15T11:10:09.268130+00:00
+**Scraped:** 2026-10-16T10:59:04.189212+00:00
 
 Hide Sensitive Data from Admins - Netskope Technical Documentation
 Hide Sensitive Data from Admins
@@ -1970,7 +1970,7 @@ Hide Sensitive Data from Admins
 ## Monitor Status using the Tenant UI
 **URL:** https://docs.netskope.com/en/monitor-status-using-the-tenant-ui-144864/
 **Last Modified:** 2026-08-18T17:15:07+00:00
-**Scraped:** 2026-10-15T11:10:25.550483+00:00
+**Scraped:** 2026-10-16T10:59:20.614123+00:00
 
 Monitor Status using the Tenant UI - Netskope Technical Documentation
 Monitor Status using the Tenant UI
@@ -2040,8 +2040,9 @@ Monitor Status using the Tenant UI
 ## Monitor Status using the Tenant UI
 **URL:** https://docs.netskope.com/en/monitor-status-using-the-tenant-ui/
 **Last Modified:** 2026-08-18T17:15:01+00:00
-**Scraped:** 2026-10-15T11:10:27.732576+00:00
+**Scraped:** 2026-10-16T10:59:22.783133+00:00
 
+Monitor Status using the Tenant UI - Netskope Technical Documentation
 Monitor Status using the Tenant UI
 The logs for dedicated log parsing appliances are processed on the appliance and extracted cloud app events are uploaded to your tenant instance in the Netskope appliance the beginning of each hour.
 You can check the status of the log processing on the
@@ -2108,7 +2109,7 @@ Monitor Status using the Tenant UI
 ## Upload Logs to the Netskope Tenant using HTTPS
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https-144861/
 **Last Modified:** 2026-08-18T17:04:03+00:00
-**Scraped:** 2026-10-15T11:10:49.593032+00:00
+**Scraped:** 2026-10-16T10:59:44.904237+00:00
 
 Upload Logs to the Netskope Tenant using HTTPS  - Netskope Technical Documentation
 Upload Logs to the Netskope Tenant using HTTPS
@@ -2139,7 +2140,7 @@ Upload Logs to the Netskope Tenant using HTTPS
 ## Upload Logs to the Netskope Tenant using HTTPS
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https/
 **Last Modified:** 2026-08-18T17:03:59+00:00
-**Scraped:** 2026-10-15T11:10:52.844834+00:00
+**Scraped:** 2026-10-16T10:59:48.177069+00:00
 
 Upload Logs to the Netskope Tenant using HTTPS  - Netskope Technical Documentation
 Upload Logs to the Netskope Tenant using HTTPS
@@ -2166,9 +2167,8 @@ Upload Logs to the Netskope Tenant using HTTPS
 ## Create a Netskope Support Admin
 **URL:** https://docs.netskope.com/en/create-a-netskope-support-admin/
 **Last Modified:** 2026-07-08T23:48:10+00:00
-**Scraped:** 2026-10-15T11:11:04.885998+00:00
+**Scraped:** 2026-10-16T11:00:00.269757+00:00
 
-Create a Netskope Support Admin - Netskope Technical Documentation
 Create a Netskope Support Admin
 You can grant Netskope personnel temporary access to your account through Netskope IdP. This feature is helpful when working with Netskope Support, Professional Services, Customer Experience, etc.
 To Grant Access
@@ -2317,8 +2317,9 @@ Create a Netskope Support Admin
 ## NewEdge Traffic Management Zones per NPA Tenant
 **URL:** https://docs.netskope.com/en/configure-newedge-traffic-management-zones-per-npa-tenant/
 **Last Modified:** 2026-03-03T02:38:54+00:00
-**Scraped:** 2026-10-15T11:12:27.644263+00:00
+**Scraped:** 2026-10-16T11:01:23.459229+00:00
 
+NewEdge Traffic Management Zones per NPA Tenant - Netskope Technical Documentation
 NewEdge Traffic Management Zones per NPA Tenant
 Netskope Private Access tenants may now take advantage of NewEdge Traffic Management
 intent-based
@@ -2340,7 +2341,7 @@ NewEdge Traffic Management Zones per NPA Tenant
 ## Netskope Tenant Certificate Rotation Guide
 **URL:** https://docs.netskope.com/en/netskope-tenant-certificate-rotation-guide/
 **Last Modified:** 2026-08-18T17:43:36+00:00
-**Scraped:** 2026-10-15T11:14:20.312502+00:00
+**Scraped:** 2026-10-16T11:03:16.840121+00:00
 
 Netskope Tenant Certificate Rotation Guide - Netskope Technical Documentation
 Netskope Tenant Certificate Rotation Guide
@@ -2353,8 +2354,9 @@ Netskope Tenant Certificate Rotation Guide
 ## Netskope Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-tenant-plugin/
 **Last Modified:** 2026-07-17T00:14:58+00:00
-**Scraped:** 2026-10-15T11:16:23.691918+00:00
+**Scraped:** 2026-10-16T11:05:20.065511+00:00
 
+Netskope Tenant Plugin - Netskope Technical Documentation
 Netskope Tenant Plugin
 Release Notes
 1.6.1 (Requires minimum Cloud Exchange version 6.1.0)
@@ -5262,8 +5264,9 @@ Netskope Tenant Plugin
 ## (Admin) Browser Set Up
 **URL:** https://docs.netskope.com/en/admin-browser-set-up/
 **Last Modified:** 2026-02-04T04:18:29+00:00
-**Scraped:** 2026-10-15T11:18:06.291347+00:00
+**Scraped:** 2026-10-16T11:07:02.764957+00:00
 
+(Admin) Browser Set Up - Netskope Technical Documentation
 (Admin) Browser Set Up
 Before inviting users to install Enterprise Browser and setting up policies, you must set up the basic configurations for the Enterprise Browser.
 Enterprise Browser requires users to authenticate to steer traffic through Netskope to the destination (e.g. the corporate apps). Each request generated by Enterprise Browser needs to include an auth token in the form of a header. Unauthenticated requests are not allowed, and users are prompted to authenticate to their SSO.
@@ -5346,8 +5349,9 @@ In this Topic
 ## (Admin) User Provisioning
 **URL:** https://docs.netskope.com/en/admin-user-provisioning/
 **Last Modified:** 2025-08-31T01:45:03+00:00
-**Scraped:** 2026-10-15T11:18:07.366916+00:00
+**Scraped:** 2026-10-16T11:07:03.847207+00:00
 
+(Admin) User Provisioning - Netskope Technical Documentation
 (Admin) User Provisioning
 You can invite users to download and install Netskope Enterprise Browser. Configure the style and content of the invitation and installation emails by editing the logo, button color, and templates below.
 Enterprise Browser users must exist in your account (e.g. imported via SCIM, AD Importer, etc.) prior to sending invitations.
@@ -5364,7 +5368,7 @@ In this Topic
 ## (Admin) Setting Up Your First RTP Policy for the Enterprise Browser
 **URL:** https://docs.netskope.com/en/admin-setting-up-your-first-rtp-policy-for-the-enterprise-browser/
 **Last Modified:** 2026-03-02T18:11:01+00:00
-**Scraped:** 2026-10-15T11:18:08.442745+00:00
+**Scraped:** 2026-10-16T11:07:04.927847+00:00
 
 (Admin) Setting Up Your First RTP Policy for the Enterprise Browser
 You can define your own Real-time Protection (RTP) policies with the Enterprise Browser.
@@ -5386,9 +5390,8 @@ In this Topic
 ## (Admin) Setting Up Your First Browser Control for the Enterprise Browser
 **URL:** https://docs.netskope.com/en/admin-setting-up-your-first-browser-control-for-the-enterprise-browser/
 **Last Modified:** 2026-02-27T17:49:58+00:00
-**Scraped:** 2026-10-15T11:18:09.518743+00:00
+**Scraped:** 2026-10-16T11:07:06.010889+00:00
 
-(Admin) Setting Up Your First Browser Control for the Enterprise Browser - Netskope Technical Documentation
 (Admin) Setting Up Your First Browser Control for the Enterprise Browser
 You can define Browser Protection policies (copy, paste, print, screenshot/ screen sharing, watermarking) and enforce them in Netskope Enterprise Browser for both SaaS and private applications.
 Path: Policies → Enterprise Browser Protection
@@ -5422,7 +5425,7 @@ In this Topic
 ## Managing Administrators for RBAC V3
 **URL:** https://docs.netskope.com/en/managing-administrators-for-rbac-v3/
 **Last Modified:** 2025-10-09T22:19:35+00:00
-**Scraped:** 2026-10-15T11:18:49.852262+00:00
+**Scraped:** 2026-10-16T11:07:46.314357+00:00
 
 Managing Administrators for RBAC V3 - Netskope Technical Documentation
 Managing Administrators for RBAC V3
@@ -5444,7 +5447,7 @@ Managing Administrators for RBAC V3
 ## Administrators RBAC V3
 **URL:** https://docs.netskope.com/en/administrators-rbac-v3/
 **Last Modified:** 2025-10-14T18:27:26+00:00
-**Scraped:** 2026-10-15T11:18:50.940074+00:00
+**Scraped:** 2026-10-16T11:07:47.404465+00:00
 
 Administrators RBAC V3 - Netskope Technical Documentation
 Administrators RBAC V3
@@ -5616,290 +5619,288 @@ Administrators RBAC V3
 ## DSPM Sidecar Administration Overview
 **URL:** https://docs.netskope.com/en/dspm-sidecar-administration-overview/
 **Last Modified:** 2026-10-15T00:49:59+00:00
-**Scraped:** 2026-10-15T11:20:58.047320+00:00
+**Scraped:** 2026-10-16T11:09:54.779048+00:00
 
-DSPM Sidecar Administration Overview - Netskope Technical Documentation
 DSPM Sidecar Administration Overview
 Overview
-This article explains how to manage Netskope DSPM sidecars. Sidecars are deployed in groups called sidecar pools, which link to your Netskope tenant using a unique security token. This page covers how to create and manage these pools and tokens within the Netskope UI.
-Additionally, you can deploy a Single Appliance that bundles both the sidecar and DLP services into one virtual machine. To learn more:
-Deploy the DSPM Single Appliance
-.
-For an overview of how sidecars and DLP appliances fit into the DSPM architecture, see
+A sidecar is a container or virtual machine that runs alongside an application or data repository to provide dedicated data processing services. In Netskope Data Security Posture Management (DSPM), a sidecar functions as a scanner that processes and inspects your organization’s data assets to identify sensitive information, detect posture risks, and enforce compliance policies.
+Sidecars handle the operational workload of scanning data repositories without routing raw data through the main application or external networks. This architecture keeps data processing close to where your data lives.
+To learn more about the broader architecture and network prerequisites:
+To learn more:
 DSPM Architecture
-. For firewall and egress requirements, see
+To learn more:
 Firewall Settings for DSPM-Hosted Instances
-.
-Sidecar Administration UI
-Go to
-DSPM
->
-Administration
->
-Sidecar
-to access the Sidecar Administration page.
-This page displays the following components:
-License Key
-: Appears at the top of the page with a copy button. You use this key during appliance deployment.
-New Deployment
-: A dropdown button with two deployment options:
-Standard Deployment
-: deploys the DLP service with a sidecar as a single appliance. This is the common path for most deployments.
-Advanced Deployment
-: deploys the DLP appliance and sidecars separately, for large-scale scanning scenarios.
-The
-Sidecar Pools
-table lists all registered pools and includes the following columns:
-Column
-Description
-Sidecar Pool Name
-The name assigned to the pool.
-Status
-The health status of the pool (
-green
-= Healthy,
-yellow
-= Needs Attention,
-grey
-= Incomplete).
-Note
-:
-Sidecar pools with an Incomplete (grey) status don’t appear in the Sidecar Pool drop-down when you connect a data store. If a pool you configured isn’t available for selection, return to this page and resolve any incomplete setup steps.
-DLP Version
-The DLP appliance version linked to the pool.
-Sidecar Version
-The sidecar software version running in the pool.
-Note
-:
-If the pool contains sidecars with a mix of versions, this displays
-Multiple Versions
-.
-Host Name
-The user-defined host name for the DLP appliance.
-Actions
-Options to edit, generate new token, or delete the pool. If actions are missing, the pool belongs to a Single Appliance and is system-controlled.
-Register a Sidecar Pool (Advanced Deployment Only)
-To establish the connection between your sidecars and your Netskope DSPM tenant, you first generate a unique authentication token by registering a sidecar pool. If you already have an existing sidecar pool token, you can skip this procedure.
-Go to
-DSPM
->
-Administration
->
-Sidecar
-.
-Click
-New Deployment
->
-Advanced Deployment
-.
-Enter a descriptive
-Name
-for the pool.
-(Optional)
-Select your
-DLP Appliance
-from the drop-down, or manually enter an IP address if your appliance doesn’t appear in the list. If you haven’t deployed a DLP appliance yet, you can leave this field blank, or click
-+ Add DLP Appliance
-to download or assign a DLP appliance image.
-Click
-Next
-.
-Select your target platform
->
-Choose the deployment method for your platform
->
-Click
-Done
-.
-When the Sidecar Authentication Token window appears, click
-Generate Token
-.
-Click
-Copy
-to save the token.
-Note
-: You need this token for the installation process.
-Click
-Done
-to close the window.
-Since you
-haven’t
-yet associated this token with a deployed sidecar, the new pool appears only if you click the
-Show Inactive Sidecars
-icon.
-Install and Associate Sidecars (Advanced Deployment Only)
-After you register a sidecar pool and copy the authentication token, deploy the sidecar instances in your environment. The deployment process varies depending on your environment (cloud or on-premises) and the specific installation method.
-Follow the detailed instructions in the appropriate guide below:
-Deploy a DSPM Sidecar on AWS EC2 via Terraform
-Deploy a DSPM Sidecar on AWS EC2 via CloudFormation
-Deploy DSPM Sidecars via Helm Chart
-Deploy a DSPM Sidecar on GCP via Cloud Run
-Deploy a DSPM Sidecar on Azure via Container Instances
-Retrieve Required Keys for the DLP Appliance (Advanced Deployment Only)
-The DLP appliance requires two separate keys. You retrieve both within the Netskope console:
-REST API v1 Key
-: The appliance leverages this key to fetch the latest DLP configurations. This key may already exist in your environment; if so, you can reuse it. Otherwise, generate a new one:
-Go to
+Deployment Models: Standard vs. Advanced
+Netskope DSPM supports two deployment architectures for your scanning infrastructure:
+Standard Deployment (Single Appliance)
+: Bundles both the sidecar and DLP services into one unified virtual machine. This unified model simplifies deployment by reducing the process to a single image, a single CLI command, and a single License Key. After deployment, the appliance auto-registers with your Netskope tenant and automatically creates its sidecar pool. No manual pool creation, token management, or CLI linking is required.
+To learn more:
+Deploy the DSPM Single Appliance
+Advanced Deployment (Separate Sidecars & DLP Appliances)
+: Required for large-scale scanning scenarios that deploy the DLP appliance and sidecars separately (for example, high-throughput cloud environments, Kubernetes clusters, or dedicated virtual machines). This model requires registering a sidecar pool, generating an association token, and deploying sidecars independently as detailed in this guide.
+To learn more:
+Deploy the DLP Appliance for DSPM
+Sidecar Administration Console
+The Sidecar administration page displays all registered sidecar pools and their associated sidecars. Each pool card provides a summary of active sidecars, operational status, and configuration details.
+To access the console:
+In the Netskope tenant UI, go to
 Settings
 >
-Tools
->
-Rest API v1
-.
-Click
-Generate New Token
-.
-Set the expiration to
-never expire
-.
-License Key
-: The appliance setup leverages this key to validate the DLP entitlement. The Netskope console generates this key automatically, and it appears at the top of the
 DSPM
 >
-Administration
->
-Sidecar
-page.
-Link a DLP Appliance to a Sidecar Pool (Advanced Deployment Only)
-Before deploying sidecars, you must have a DLP appliance available in the same network. For prerequisites and deployment instructions, see
-Deploy the DLP Appliance for DSPM
+Sidecars
 .
-Each sidecar pool must link to a DLP appliance for data classification. A single DLP appliance can serve multiple sidecars, as long as their sidecar pools register to the same appliance address.
-To link the appliance:
-Go to
+Advanced Deployment: Register and Deploy Sidecar Pools
+Use the following procedures when setting up dedicated, standalone sidecar pools in an advanced deployment architecture.
+Register a Sidecar Pool
+A sidecar pool is a logical grouping of one or more sidecars that share scanning workloads and configuration profiles. Before deploying individual sidecars, register the pool in the Netskope tenant console.
+To register a sidecar pool:
+In the Netskope tenant UI, go to
+Settings
+>
 DSPM
 >
-Administration
->
-Sidecar
-.
-In the
-Actions
-column, click the
-Edit
-icon for the pool associated with your sidecar.
-In the
-DLP Appliance
-field, select your appliance from the drop-down, or manually enter its IP address.
-Note
-: If you haven’t deployed an appliance, click
-+ Add DLP Appliance
+Sidecars
 .
 Click
-Test Connection
-to validate the configuration.
-When the connection test succeeds, click
-SAVE
-.
-Edit a Sidecar Pool (Advanced Deployment Only)
-You can edit the name or change the linked DLP appliance for a registered sidecar pool:
-Go to
-DSPM
+New Deployment
 >
-Administration
->
-Sidecar
-.
-Locate the sidecar pool you want to edit.
-In the
-Actions
-column, click the
-Edit
-icon.
-In the Edit Sidecar Pool window, update the
-Sidecar Pool Name
-or select a different
-DLP Appliance
-.
-(Optional)
-If you changed the DLP appliance, click
-Test Connection
-to validate connectivity.
-Click
-SAVE
-.
-Generate a Replacement Sidecar Token (Advanced Deployment Only)
-If you need a new authentication token for an existing sidecar pool, you can generate a replacement token.
-Go to
-DSPM
->
-Administration
->
-Sidecar
-.
-Locate the sidecar pool you want to update.
-In the
-Actions
-column, click the
-Generate New Token
-icon.
-In the Generate New Token dialog box, review the warning and click
-CONFIRM
-.
-When the Sidecar Authentication Token window appears, click
-Copy
-to save the new token.
-Click
-CLOSE
-to exit.
-Generating a new sidecar pool token invalidates the existing token, and you cannot view the token credentials again after closing this window.
-After you copy the new token, update your deployed sidecars to maintain connectivity with your Netskope DSPM tenant. The update process depends on your deployment method. For detailed instructions on updating the token in your environment, see the rotating tokens section in the appropriate deployment guide:
-Deploy DSPM Sidecars on AWS EC2 via Terraform – Netskope Technical Documentation
-Deploy DSPM Sidecars on AWS EC2 via CloudFormation – Netskope Technical Documentation
-Deploy DSPM Sidecars via Helm – Netskope Technical Documentation
-Deploy DSPM Sidecars on GCP via Cloud Run – Netskope Technical Documentation
-Deploy DSPM Sidecars on Azure via Container Instances – Netskope Technical Documentation
-View Sidecar Pool Details
-Click a sidecar pool name to view its details. By default, the details panel displays only active sidecars. Click the
-Show Inactive Sidecars
-icon to toggle the display of inactive sidecars.
-Pool Information
-, which includes the pool name, status (
-Active
-or
-Inactive
-), and an
-Edit Pool
-link
-DLP Appliance Information
-, which displays the host name and serial number, DLP version, IP address, uptime, memory usage, and average CPU load
-Sidecar(s)
-, which provides a table listing all sidecars in the pool with their name, status, version, last seen date, creator, and creation date
-Upgrade and Schedule (Single Appliance Only)
-For pools created by a Single Appliance, the details panel also displays upgrade management options.
-Automatic Upgrade Schedule
-shows the current schedule, the next automatic upgrade date, and provides an
-Upgrade Now
-link for on-demand upgrades.
-Single Appliance Upgrade History
-is a table showing past upgrades, including the status (
-Completed
+Advanced Deployment
+. The
+Register New Pool
+drawer opens.
+In
+Pool Name
+, enter a unique, descriptive identifier for the pool.
+Select the target
+Cloud Provider
+(
+AWS
 ,
-Cancelled
-), timestamp, trigger (
-Auto update
-,
-Manual
-), and description (e.g.,
-Full Upgrade, v135.0.24
-).
-To modify the schedule:
-In the pool details panel, click the
-Upgrade
-tab then click
-Edit Schedule
-.
-Choose when to apply the upgrade after release (
-Within the first week after release
-,
-Within the second week after release
+GCP
 , or
-Within the third week after release
-).
-Select the day of the week and start time (in the appliance’s local timezone).
+Azure
+) or
+On-Premise
+.
+Select the
+Region
+where your workloads and data repositories reside.
+Under
+Associated DLP Appliance
+, select the DLP appliance pool that will service classification and inspection requests for this sidecar pool.
 Click
+Register Pool
+.
+The system creates the pool and displays a unique registration token and CLI installation command. Copy and save these values to authenticate and associate standalone sidecars with this pool.
+Install and Associate a Sidecar with a Pool
+After registering the pool, deploy individual sidecar instances in your target cloud or on-premises environment and link them using the registration token.
+Prerequisites and Network Planning
+Before deploying a sidecar, verify the following network requirements:
+Outbound HTTPS (port 443) connectivity to the Netskope control plane:
+<tenant>.goskope.com
+(replace
+<tenant>
+with your actual tenant name)
+config-<tenant>.goskope.com
+callhome-<tenant>.goskope.com
+Outbound connectivity to the associated DLP appliance over HTTPS (TCP port 443).
+Allowlist Amazon S3 endpoints (for example,
+*.s3-us-west-1.amazonaws.com
+).
+Allowlist the following gateway domains:
+dlpappliancegw.sv5.goskope.com
+dlpappliancegw.bom3.goskope.com
+dlpappliancegw.am2.goskope.com
+dlpappliancegw.sjc1.goskope.com
+dlpappliancegw.fr4.goskope.com
+dlpappliancegw.ruh1.goskope.com
+dlpappliancegw.mel2.goskope.com
+dlpappliancegw.sjc2.goskope.com
+dlpappliancegw.zur2.goskope.com
+dlpappliancegw.lon3.goskope.com
+dlpappliancegw.sin2.goskope.com
+dlpappliancegw.dfw3.goskope.com
+dlpappliancegw.fra2.goskope.com
+– If you use DRM with DLP, allowlist Microsoft AIP endpoints.
+– All integrating services must reach the appliance over HTTPS (TCP 443).
+– SSL interception of traffic from the DLP appliance is not recommended. If you use a proxy, import the respective certificates.
+– Deploying multiple DLP appliances behind a network load balancer is not supported for asynchronous request scenarios.
+– For the complete list of egress and port requirements, see
+Firewall Settings for DSPM-Hosted Instances
+.
+Appliance Sizing
+Unless recommended otherwise, deploy a Medium-sized appliance. The Small size is intended only for proof-of-concept testing.
+Size
+AWS
+GCP
+Azure
+VM (ESXi / Hyper-V / KVM)
+Concurrent Requests
+Min Disk
+Small
+c5ad.4xlarge
+n2-standard-16
+Standard-F16s_v2
+16 cores / 32 GB RAM
+480 rps (burst 576)
+351 GB
+Medium
+c5ad.8xlarge
+n2-standard-32
+Standard-F32s_v2
+32 cores / 64 GB RAM
+1,280 rps (burst 1,536)
+351 GB
+Large
+c5ad.16xlarge
+n2-standard-64
+Standard-F64fs_v2
+64 cores / 128 GB RAM
+2,880 rps (burst 3,456)
+351 GB
+In AWS regions where
+c5ad
+is unavailable, use
+c5a
+. To ensure optimal performance, use SSDs for all instances. ESXi does not support dynamic resizing after creation.
+If you deploy an incorrectly-sized appliance, it doesn’t support scaling resources up or down. You must redeploy at the correct size.
+Deployment and Association Procedure
+Follow the deployment guide for your target platform to launch the instance image:
+For AWS, Azure, GCP, ESXi, Hyper-V, and KVM instructions, see
+Deploy the DSPM Single Appliance
+.
+After deploying the appliance, an initialization process begins. The appliance takes 45 to 60 minutes to initialize, depending on network and system conditions. During this time, the appliance downloads and deploys the required components.
+After instance creation and initialization:
+Connect to the appliance via SSH as
+nsadmin
+with default password
+nsappliance
+:
+ssh nsadmin@<instance_ip>
+When prompted on first login, select the
+DSPM
+persona.
+Change the default password:
+nsappliance> auth change-password
+Configure DNS if required:
+nsappliance> configure
+nsappliance(config)> set dns primary x.x.x.x
+nsappliance(config)> set dns secondary x.x.x.x
+nsappliance(config)> save
+nsappliance(config)> exit
+Apply the sidecar pool token retrieved during pool registration:
+nsappliance> configure
+nsappliance(config)# set system token
+nsappliance(config)# save
+nsappliance(config)# exit
+Verify tethering and connectivity status:
+nsappliance> status tethering
+.
+Note:
+Ensure
+callhome_reachable
+reports
+true
+and your tenant details populate correctly.
+Sidecar Operations and Maintenance
+The following management procedures apply to both Single Appliance pools and standalone sidecar pools.
+View Associated Sidecars
+You can view the active inventory, connectivity status, and software details of all sidecars linked to your tenant.
+To view your sidecars:
+In the Netskope tenant UI, go to
+Settings
+>
+DSPM
+>
+Sidecars
+.
+Select a pool from the
+Sidecar Pools
+list to open the sidecar details table.
+The sidecar inventory table provides the following details for each instance:
+Column
+Description
+Name
+The unique hostname or instance identifier assigned to the sidecar.
+IP Address
+The internal or private IPv4 address used by the sidecar host.
+Appliance
+The deployment type and host environment (for example, Single Appliance VM, AWS EC2, or Azure VM).
+Sidecar Pool
+The name of the logical sidecar pool to which the instance belongs.
+Status
+The operational state of the sidecar:
+Active
+(healthy and processing),
+Degraded
+(experiencing network or inspection latency), or
+Offline
+(unreachable by control plane).
+Actions
+Contextual administrative actions, including viewing logs, restarting services, or disassociating the sidecar from the pool.
+Manage Sidecar Upgrades
+Netskope One DSPM allows you to manage software updates for both Single Appliance and standalone sidecar pools directly from the console. You can schedule automatic upgrades to run during designated maintenance windows or execute manual updates on demand.
+Upgrade a Sidecar Pool
+To configure an automated upgrade schedule or trigger an immediate manual upgrade:
+In the Netskope tenant UI, go to
+Settings
+>
+DSPM
+>
+Sidecars
+.
+Select your sidecar pool from the list.
+In the sidecar pool details drawer, click the
+Upgrade
+tab.
+Manage upgrades using either of the following methods:
+Configure an automatic schedule
+: Click
+Edit Schedule
+. Under
+Delay After Release
+, choose
+0 weeks
+(immediately after release),
+1 week
+, or
+2 weeks
+. Select the preferred day of the week and local start time, and then click
 Save Schedule
 .
+Perform a manual upgrade
+: When a new version is available, the
+Upgrade Now
+button becomes active. Click
+Upgrade Now
+, verify the target version, and click
+Confirm Upgrade
+.
+If the sidecar pool is already running the latest version, the
+Upgrade Now
+option remains inactive.
+Monitor Upgrade Status
+Track active and historical upgrade operations under the
+Upgrade History
+section on the
+Upgrade
+tab.
+Upgrade Status
+Description
+System Behavior
+Queued
+An upgrade request is registered, but a scanning or discovery task is currently active.
+The system waits for the active scan or discovery job to finish before initiating the upgrade to prevent data inconsistency.
+Upgrading
+The agent downloaded the release package and is applying updates.
+The sidecar enters drain mode and temporarily stops fetching new scanning jobs from the backend.
+Completed
+The upgrade completed successfully and all pods passed readiness checks.
+The sidecar resumes active scanning operations using the updated release version.
+Failed
+The upgrade encountered an error (for example, container registry connectivity issues or pod readiness failure).
+The controller initiates an automatic rollback to restore the previous stable version within 5 minutes.
 In this Topic
 DSPM Sidecar Administration Overview
 
@@ -5907,7 +5908,7 @@ DSPM Sidecar Administration Overview
 ## Platform Administration & Identity
 **URL:** https://docs.netskope.com/en/platform-monitoring-and-administration/
 **Last Modified:** 2026-04-16T01:39:38+00:00
-**Scraped:** 2026-10-15T11:21:50.239247+00:00
+**Scraped:** 2026-10-16T11:10:47.125712+00:00
 
 Platform Administration &amp; Identity - Netskope Technical Documentation
 Platform Administration & Identity
@@ -5927,7 +5928,7 @@ Platform Administration &amp; Identity
 ## Manage DSPM Administrator Permissions (RBAC)
 **URL:** https://docs.netskope.com/en/manage-dspm-administrator-permissions-rbac/
 **Last Modified:** 2026-02-06T05:19:28+00:00
-**Scraped:** 2026-10-15T11:23:34.472520+00:00
+**Scraped:** 2026-10-16T11:12:31.826363+00:00
 
 Manage DSPM Administrator Permissions (RBAC) - Netskope Technical Documentation
 Manage DSPM Administrator Permissions (RBAC)
@@ -6099,8 +6100,9 @@ Manage DSPM Administrator Permissions (RBAC)
 ## (Admin) Setting Up Your First Extensions Governance Security Policy
 **URL:** https://docs.netskope.com/en/admin-setting-up-your-first-extensions-governance-security-policy/
 **Last Modified:** 2025-10-23T05:08:24+00:00
-**Scraped:** 2026-10-15T11:24:18.684034+00:00
+**Scraped:** 2026-10-16T11:13:16.206013+00:00
 
+(Admin) Setting Up Your First Extensions Governance Security Policy - Netskope Technical Documentation
 (Admin) Setting Up Your First Extensions Governance Security Policy
 This feature is in Controlled GA. Contact your Netskope Sales Representative to enable this feature in your account.
 We are introducing
@@ -6142,7 +6144,7 @@ In this Topic
 ## Configure your Netskope Tenant for Custom File Classification File Hash Sharing (Beta)
 **URL:** https://docs.netskope.com/en/configure-your-netskope-tenant-for-custom-file-classification-file-hash-sharing-beta/
 **Last Modified:** 2025-11-14T02:31:04+00:00
-**Scraped:** 2026-10-15T11:24:50.359422+00:00
+**Scraped:** 2026-10-16T11:13:48.167985+00:00
 
 Configure your Netskope Tenant for Custom File Classification File Hash Sharing (Beta) - Netskope Technical Documentation
 Configure your Netskope Tenant for Custom File Classification File Hash Sharing (Beta)
@@ -6161,7 +6163,7 @@ Configure your Netskope Tenant for Custom File Classification File Hash Sharing 
 ## Configure Trainable File Classifier on a Netskope Tenant (Beta)
 **URL:** https://docs.netskope.com/en/configure-trainable-file-classifier-on-netskope-tenant-beta/
 **Last Modified:** 2025-11-14T01:32:01+00:00
-**Scraped:** 2026-10-15T11:24:51.458586+00:00
+**Scraped:** 2026-10-16T11:13:49.247790+00:00
 
 Configure Trainable File Classifier on a Netskope Tenant (Beta) - Netskope Technical Documentation
 Configure Trainable File Classifier on a Netskope Tenant (Beta)
@@ -6183,7 +6185,7 @@ Configure Trainable File Classifier on a Netskope Tenant (Beta)
 ## Configure Custom File Classification Sharing with your Netskope Tenant Classifier (Beta)
 **URL:** https://docs.netskope.com/en/configure-custom-file-classification-sharing-with-your-netskope-tenant-classifier-beta/
 **Last Modified:** 2025-11-14T01:05:54+00:00
-**Scraped:** 2026-10-15T11:24:52.539430+00:00
+**Scraped:** 2026-10-16T11:13:50.325329+00:00
 
 Configure Custom File Classification Sharing with your Netskope Tenant Classifier (Beta) - Netskope Technical Documentation
 Configure Custom File Classification Sharing with your Netskope Tenant Classifier (Beta)
@@ -6212,7 +6214,7 @@ Configure Custom File Classification Sharing with your Netskope Tenant Classifie
 ## Partner Access (Accessing Private Apps in other Tenants)
 **URL:** https://docs.netskope.com/en/partner-access-accessing-private-apps-in-other-tenants/
 **Last Modified:** 2025-12-19T21:10:09+00:00
-**Scraped:** 2026-10-15T11:25:44.532586+00:00
+**Scraped:** 2026-10-16T11:14:42.479198+00:00
 
 Partner Access (Accessing Private Apps in other Tenants) - Netskope Technical Documentation
 Partner Access (Accessing Private Apps in other Tenants)
@@ -6257,7 +6259,7 @@ Partner Access (Accessing Private Apps in other Tenants)
 ## Configure Partner Tenants (Admin Workflow)
 **URL:** https://docs.netskope.com/en/configuring-partner-tenants-admin-workflow/
 **Last Modified:** 2026-01-26T22:51:25+00:00
-**Scraped:** 2026-10-15T11:25:45.625000+00:00
+**Scraped:** 2026-10-16T11:14:43.560296+00:00
 
 Configure Partner Tenants (Admin Workflow) - Netskope Technical Documentation
 Configure Partner Tenants (Admin Workflow)
@@ -6299,7 +6301,7 @@ Configure Partner Tenants (Admin Workflow)
 ## Connect to Third-Party Tenants (User Workflow)
 **URL:** https://docs.netskope.com/en/connecting-to-third-party-tenants-user-workflow/
 **Last Modified:** 2025-12-20T00:13:21+00:00
-**Scraped:** 2026-10-15T11:25:46.701394+00:00
+**Scraped:** 2026-10-16T11:14:44.647936+00:00
 
 Connect to Third-Party Tenants (User Workflow) - Netskope Technical Documentation
 Connect to Third-Party Tenants (User Workflow)
@@ -6339,7 +6341,7 @@ Connect to Third-Party Tenants (User Workflow)
 ## Manage Global Attributes in the Tenant UI
 **URL:** https://docs.netskope.com/en/manage-global-attributes-in-the-tenant-ui/
 **Last Modified:** 2026-02-18T04:05:53+00:00
-**Scraped:** 2026-10-15T11:26:57.596535+00:00
+**Scraped:** 2026-10-16T11:15:55.883449+00:00
 
 Manage Global Attributes in the Tenant UI - Netskope Technical Documentation
 Manage Global Attributes in the Tenant UI
@@ -6360,7 +6362,7 @@ Manage Global Attributes in the Tenant UI
 ## Manage DataSec Command Center Administrator Permissions (RBAC)
 **URL:** https://docs.netskope.com/en/manage-datasec-command-center-administrator-permissions-rbac/
 **Last Modified:** 2026-09-25T21:09:18+00:00
-**Scraped:** 2026-10-15T11:33:07.985467+00:00
+**Scraped:** 2026-10-16T11:22:13.661052+00:00
 
 Manage DataSec Command Center Administrator Permissions (RBAC) - Netskope Technical Documentation
 Manage DataSec Command Center Administrator Permissions (RBAC)
@@ -6513,7 +6515,7 @@ Manage DataSec Command Center Administrator Permissions (RBAC)
 ## Admin Console
 **URL:** https://docs.netskope.com/en/admin-console/
 **Last Modified:** 2025-09-01T12:42:42+00:00
-**Scraped:** 2026-10-15T11:34:14.741989+00:00
+**Scraped:** 2026-10-16T11:23:22.898028+00:00
 
 Admin Console
 The Netskope Admin console, or

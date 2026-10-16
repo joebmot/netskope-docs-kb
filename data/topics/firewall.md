@@ -1,12 +1,12 @@
 # Netskope Docs — Firewall
-_Generated: 2026-10-15 11:54 UTC_
+_Generated: 2026-10-16 11:44 UTC_
 _Pages: 12_
 
 ---
 ## Check Firewall Policy
 **URL:** https://docs.netskope.com/en/check-firewall-policy/
 **Last Modified:** 2026-08-05T23:04:24+00:00
-**Scraped:** 2026-10-15T10:48:03.756678+00:00
+**Scraped:** 2026-10-16T10:36:51.041365+00:00
 
 Check Firewall Policy
 Soon you’ll be installing the Netskope Client (which is used to automatically forward traffic to the Netskope cloud) to user devices, and you must ensure that it is able to communicate to the Netskope Cloud.
@@ -36,7 +36,7 @@ Check Firewall Policy
 ## Cloud Firewall Advanced Analytics Events
 **URL:** https://docs.netskope.com/en/cloud-firewall-advanced-analytics-events/
 **Last Modified:** 2026-10-01T09:06:56+00:00
-**Scraped:** 2026-10-15T10:51:32.249903+00:00
+**Scraped:** 2026-10-16T10:40:20.039349+00:00
 
 Cloud Firewall Advanced Analytics Events - Netskope Technical Documentation
 Cloud Firewall Advanced Analytics Events
@@ -84,7 +84,7 @@ Cloud Firewall Advanced Analytics Events
 ## Cloud Firewall Network Events and Alerts
 **URL:** https://docs.netskope.com/en/cloud-firewall-network-events-and-alerts/
 **Last Modified:** 2026-10-01T09:06:41+00:00
-**Scraped:** 2026-10-15T10:51:36.570670+00:00
+**Scraped:** 2026-10-16T10:40:24.392481+00:00
 
 Cloud Firewall Network Events and Alerts - Netskope Technical Documentation
 Cloud Firewall Network Events and Alerts
@@ -161,7 +161,7 @@ Cloud Firewall Network Events and Alerts
 ## Configuring Cloud Firewall Steering Exceptions
 **URL:** https://docs.netskope.com/en/configuring-cloud-firewall-steering-exceptions/
 **Last Modified:** 2026-10-01T09:06:17+00:00
-**Scraped:** 2026-10-15T10:52:12.723455+00:00
+**Scraped:** 2026-10-16T10:41:00.417195+00:00
 
 Configuring Cloud Firewall Steering Exceptions
 Navigate to
@@ -208,7 +208,7 @@ Configuring Cloud Firewall Steering Exceptions
 ## Creating a Firewall App Definition
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition/
 **Last Modified:** 2026-10-01T09:05:53+00:00
-**Scraped:** 2026-10-15T10:53:02.890016+00:00
+**Scraped:** 2026-10-16T10:41:50.837000+00:00
 
 Creating a Firewall App Definition - Netskope Technical Documentation
 Creating a Firewall App Definition
@@ -284,7 +284,7 @@ Creating a Firewall App Definition
 ## Creating a Firewall App Definition
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition-449298/
 **Last Modified:** 2025-09-16T06:08:33+00:00
-**Scraped:** 2026-10-15T11:00:41.285718+00:00
+**Scraped:** 2026-10-16T10:49:30.766312+00:00
 
 Creating a Firewall App Definition - Netskope Technical Documentation
 Creating a Firewall App Definition
@@ -343,7 +343,7 @@ Creating a Firewall App Definition
 ## Firewall Settings for DSPM-Hosted Instances
 **URL:** https://docs.netskope.com/en/firewall-settings-for-netskope-dspm-hosted-instances/
 **Last Modified:** 2026-08-21T18:10:54+00:00
-**Scraped:** 2026-10-15T11:17:14.897379+00:00
+**Scraped:** 2026-10-16T11:06:11.371617+00:00
 
 Firewall Settings for DSPM-Hosted Instances - Netskope Technical Documentation
 Firewall Settings for DSPM-Hosted Instances
@@ -442,7 +442,7 @@ Firewall Settings for DSPM-Hosted Instances
 ## CCI Cloud Firewall Apps
 **URL:** https://docs.netskope.com/en/cci-cloud-firewall-apps/
 **Last Modified:** 2026-06-19T16:05:45+00:00
-**Scraped:** 2026-10-15T11:18:20.373142+00:00
+**Scraped:** 2026-10-16T11:07:16.860219+00:00
 
 CCI Cloud Firewall Apps - Netskope Technical Documentation
 CCI Cloud Firewall Apps
@@ -455,7 +455,7 @@ CCI Cloud Firewall Apps
 ## Windows Defender Firewall
 **URL:** https://docs.netskope.com/en/windows-defender-firewall/
 **Last Modified:** 2026-09-01T17:03:30+00:00
-**Scraped:** 2026-10-15T11:32:06.874745+00:00
+**Scraped:** 2026-10-16T11:21:12.895845+00:00
 
 Windows Defender Firewall - Netskope Technical Documentation
 Windows Defender Firewall
@@ -556,7 +556,7 @@ Windows Defender Firewall
 ## Mac Native Firewall
 **URL:** https://docs.netskope.com/en/mac-native-firewall/
 **Last Modified:** 2026-09-01T17:04:09+00:00
-**Scraped:** 2026-10-15T11:32:10.252643+00:00
+**Scraped:** 2026-10-16T11:21:16.240169+00:00
 
 Mac Native Firewall - Netskope Technical Documentation
 Mac Native Firewall
@@ -606,7 +606,7 @@ Mac Native Firewall
 ## Netskope Client Support in Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-client-support-in-cloud-firewall/
 **Last Modified:** 2026-10-05T17:00:29+00:00
-**Scraped:** 2026-10-15T11:33:23.285391+00:00
+**Scraped:** 2026-10-16T11:22:28.979259+00:00
 
 Netskope Client Support in Cloud Firewall - Netskope Technical Documentation
 Netskope Client Support in Cloud Firewall
@@ -804,7 +804,7 @@ Netskope Client Support in Cloud Firewall
 ## Netskope Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-cloud-firewall/
 **Last Modified:** 2026-01-12T22:43:34+00:00
-**Scraped:** 2026-10-15T11:33:57.355556+00:00
+**Scraped:** 2026-10-16T11:23:05.454733+00:00
 
 Netskope Cloud Firewall - Netskope Technical Documentation
 Netskope Cloud Firewall
