@@ -1,14 +1,13 @@
 # Netskope Docs — Firewall
-_Generated: 2026-10-19 13:06 UTC_
+_Generated: 2026-10-20 11:59 UTC_
 _Pages: 12_
 
 ---
 ## Check Firewall Policy
 **URL:** https://docs.netskope.com/en/check-firewall-policy/
 **Last Modified:** 2026-08-05T23:04:24+00:00
-**Scraped:** 2026-10-19T11:59:49.225386+00:00
+**Scraped:** 2026-10-20T10:52:52.185832+00:00
 
-Check Firewall Policy - Netskope Technical Documentation
 Check Firewall Policy
 Soon you’ll be installing the Netskope Client (which is used to automatically forward traffic to the Netskope cloud) to user devices, and you must ensure that it is able to communicate to the Netskope Cloud.
 Ensure that the following are permitted through both any installed Endpoint firewall software (like Windows Firewall, Crowdstrike, etc.) and any on-premise network firewall (like Palo Alto, Fortinet, etc.):
@@ -32,14 +31,14 @@ from any SSL decryption/inspection mechanisms you are running on perimeter secur
 All connections between the Netskope Client and Netskope cloud are Certificate-Pinned to prevent Man-in-the-Middle attacks, so attempting to inspect this connection will cause it to fail.
 In this Topic
 Check Firewall Policy
+Check Firewall Policy - Netskope Technical Documentation
 
 ---
 ## Cloud Firewall Advanced Analytics Events
 **URL:** https://docs.netskope.com/en/cloud-firewall-advanced-analytics-events/
 **Last Modified:** 2026-10-01T09:06:56+00:00
-**Scraped:** 2026-10-19T12:03:17.580859+00:00
+**Scraped:** 2026-10-20T10:56:21.496304+00:00
 
-Cloud Firewall Advanced Analytics Events - Netskope Technical Documentation
 Cloud Firewall Advanced Analytics Events
 Cloud Firewall Events log all traffic that is steered to Netskope through Cloud Firewall.
 Note
@@ -80,12 +79,13 @@ and
 Creating Reports (Dashboards)
 In this Topic
 Cloud Firewall Advanced Analytics Events
+Cloud Firewall Advanced Analytics Events - Netskope Technical Documentation
 
 ---
 ## Cloud Firewall Network Events and Alerts
 **URL:** https://docs.netskope.com/en/cloud-firewall-network-events-and-alerts/
 **Last Modified:** 2026-10-01T09:06:41+00:00
-**Scraped:** 2026-10-19T12:03:21.928735+00:00
+**Scraped:** 2026-10-20T10:56:25.803386+00:00
 
 Cloud Firewall Network Events and Alerts - Netskope Technical Documentation
 Cloud Firewall Network Events and Alerts
@@ -162,8 +162,9 @@ Cloud Firewall Network Events and Alerts
 ## Configuring Cloud Firewall Steering Exceptions
 **URL:** https://docs.netskope.com/en/configuring-cloud-firewall-steering-exceptions/
 **Last Modified:** 2026-10-01T09:06:17+00:00
-**Scraped:** 2026-10-19T12:03:57.807598+00:00
+**Scraped:** 2026-10-20T10:57:01.453505+00:00
 
+Configuring Cloud Firewall Steering Exceptions - Netskope Technical Documentation
 Configuring Cloud Firewall Steering Exceptions
 Navigate to
 Settings > Security Cloud Platform > Traffic Steering > Steering Configuration > Default tenant config > Exceptions
@@ -204,15 +205,13 @@ Save
 Navigate to Skope IT > Network Events to view your bypassed applications.
 In this Topic
 Configuring Cloud Firewall Steering Exceptions
-Configuring Cloud Firewall Steering Exceptions - Netskope Technical Documentation
 
 ---
 ## Creating a Firewall App Definition
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition/
 **Last Modified:** 2026-10-01T09:05:53+00:00
-**Scraped:** 2026-10-19T12:04:48.120113+00:00
+**Scraped:** 2026-10-20T10:57:54.978880+00:00
 
-Creating a Firewall App Definition - Netskope Technical Documentation
 Creating a Firewall App Definition
 If you have the Cloud Firewall license, on the App Definition page, you can create new rules for firewall apps to apply to policies. You can create multiple rules for the same firewall app. For example, if you create an app called “Allow_FTP” with a certain destination IP and protocol, this same app can be reused to add more destination IPs and protocols.
 Custom apps that only have traffic-based definition rules won’t have activities detected. You cannot add Firewall apps to steering.
@@ -281,72 +280,23 @@ Cloud Apps – Netskope finds the most specific application first then matches b
 If the app matches both Cloud and Firewall apps as described above (i.e. there is overlap), Netskope uses policy ordering to determine a priority.
 In this Topic
 Creating a Firewall App Definition
+Creating a Firewall App Definition - Netskope Technical Documentation
 
 ---
-## Creating a Firewall App Definition
+## 
 **URL:** https://docs.netskope.com/en/creating-a-firewall-app-definition-449298/
 **Last Modified:** 2025-09-16T06:08:33+00:00
-**Scraped:** 2026-10-19T12:12:26.619516+00:00
+**Scraped:** 2026-10-20T11:05:37.356223+00:00
 
-Creating a Firewall App Definition
-If you have the Cloud Firewall license, on the App Definition page, you can create new rules for firewall apps to apply to policies. You can create multiple rules for the same firewall app. For example, if you create an app called “Allow_FTP” with a certain destination IP and protocol, this same app can be reused to add more destination IPs and protocols.
-Note
-Custom apps that only have traffic-based definition rules won’t have activities detected. You cannot add Firewall apps to steering.
-To create a firewall app definition:
-Go to
-Settings
->
-Security Cloud Platform
->
-App Definition
-.
-In the
-Cloud & Firewall Apps
-tab, click
-New App Definition Rule
-and then
-Firewall App
-.
-In the
-New App Definition Rule: Firewall App
-window:
-Application
-: Choose an existing firewall custom app or create a new one, and then enter a name for the app. A firewall custom app can’t have the same name as a cloud custom app.
-Destination IP
-: Enter a valid IP address, IP range, FQDN, PQDN, or CIDR netmask separated by commas. If you leave it empty, Netskope sets the destination IP to any.
-Protocol
-: Choose the protocol for the firewall app. For
-TCP
-,
-UDP
-, and
-TCP/UDP
-, you can enter:
-A specific port:
-22
-A specific port range:
-1024-2048
-A combination of ports and port ranges:
-22,80,443,1024-2048
-ICMP
-doesn’t require port configuration. A TCP flow times out after 5 minutes of idle time. Netskope recommends you use a keepalive for TCP-based protocols that might leverage longer idle sessions such as SSH, FTP, etc.
-Click
-Save
-.
-Following is the rule order of custom app definitions and policies:
-Firewall Apps – Netskope picks the app that matches first in the policies, i.e. the app matches by the policy ordered list.
-Cloud Apps – Netskope finds the most specific application first then matches by the policy ordered list.
-If the app matches both Cloud and Firewall apps as described above (i.e. there is overlap), Netskope uses policy ordering to determine a priority.
 In this Topic
-Creating a Firewall App Definition
+Netskope Technical Documentation
 
 ---
 ## Firewall Settings for DSPM-Hosted Instances
 **URL:** https://docs.netskope.com/en/firewall-settings-for-netskope-dspm-hosted-instances/
 **Last Modified:** 2026-08-21T18:10:54+00:00
-**Scraped:** 2026-10-19T12:29:11.341188+00:00
+**Scraped:** 2026-10-20T11:22:08.944934+00:00
 
-Firewall Settings for DSPM-Hosted Instances - Netskope Technical Documentation
 Firewall Settings for DSPM-Hosted Instances
 Overview
 Because the DSPM (also known as
@@ -438,12 +388,13 @@ DLP appliance
 requires its own outbound egress to the internet. This connectivity is necessary for the appliance to validate its license and download configurations.
 In this Topic
 Firewall Settings for DSPM-Hosted Instances
+Firewall Settings for DSPM-Hosted Instances - Netskope Technical Documentation
 
 ---
 ## CCI Cloud Firewall Apps
 **URL:** https://docs.netskope.com/en/cci-cloud-firewall-apps/
 **Last Modified:** 2026-06-19T16:05:45+00:00
-**Scraped:** 2026-10-19T12:30:17.432353+00:00
+**Scraped:** 2026-10-20T11:23:13.800656+00:00
 
 CCI Cloud Firewall Apps - Netskope Technical Documentation
 CCI Cloud Firewall Apps
@@ -456,9 +407,8 @@ CCI Cloud Firewall Apps
 ## Windows Defender Firewall
 **URL:** https://docs.netskope.com/en/windows-defender-firewall/
 **Last Modified:** 2026-09-01T17:03:30+00:00
-**Scraped:** 2026-10-19T12:44:01.382097+00:00
+**Scraped:** 2026-10-20T11:36:52.497344+00:00
 
-Windows Defender Firewall - Netskope Technical Documentation
 Windows Defender Firewall
 Windows Defender firewall is a stateful host firewall that monitors incoming and outgoing traffic in a device using rules and policies. This document contains the best practices required in Windows Defender Firewall and Netskope Client to ensure smooth interoperability.
 Environment
@@ -557,7 +507,7 @@ Windows Defender Firewall
 ## Mac Native Firewall
 **URL:** https://docs.netskope.com/en/mac-native-firewall/
 **Last Modified:** 2026-09-01T17:04:09+00:00
-**Scraped:** 2026-10-19T12:44:04.722112+00:00
+**Scraped:** 2026-10-20T11:36:55.802049+00:00
 
 Mac Native Firewall - Netskope Technical Documentation
 Mac Native Firewall
@@ -607,7 +557,7 @@ Mac Native Firewall
 ## Netskope Client Support in Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-client-support-in-cloud-firewall/
 **Last Modified:** 2026-10-05T17:00:29+00:00
-**Scraped:** 2026-10-19T12:45:17.356763+00:00
+**Scraped:** 2026-10-20T11:38:08.693057+00:00
 
 Netskope Client Support in Cloud Firewall
 Netskope client is an agent-based deployment method where a lightweight non-intrusive agent is installed on the endpoint. The Netskope client provides the most comprehensive coverage as they can be installed on managed devices to provide visibility and policy enforcement for devices that are both on-premises and remote (off network).
@@ -805,9 +755,8 @@ Netskope Client Support in Cloud Firewall - Netskope Technical Documentation
 ## Netskope Cloud Firewall
 **URL:** https://docs.netskope.com/en/netskope-cloud-firewall/
 **Last Modified:** 2026-01-12T22:43:34+00:00
-**Scraped:** 2026-10-19T12:45:54.944279+00:00
+**Scraped:** 2026-10-20T11:38:49.332678+00:00
 
-Netskope Cloud Firewall - Netskope Technical Documentation
 Netskope Cloud Firewall
 Note
 This document guides you to configure the Netskope Cloud Firewall. The Netskope Cloud Firewall controls your organizations’ outbound non-HTTP(S) traffic. However, if you intend to manage the HTTP(S) traffic (on port 80/443 and non standard ports), you can refer to the Netskope Secure Web Gateway and Netskope Cloud Access Security Broker documentation.
@@ -877,3 +826,4 @@ Policies that contain L3/4 Custom Firewall Applications that apply to web ports 
 Policies for Hybrid Applications (such as Teams) that apply to both CFW and CASB/SWG allowing the traffic, would prevent any further CASB/SWG Activity/Instance/Threat Protection/DLP policy that is placed below. Hybrid Application Policies must be placed generally at the bottom
 In this Topic
 Netskope Cloud Firewall
+Netskope Cloud Firewall - Netskope Technical Documentation
