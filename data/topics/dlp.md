@@ -1,13 +1,14 @@
 # Netskope Docs — Dlp
-_Generated: 2026-10-27 12:43 UTC_
+_Generated: 2026-10-28 13:15 UTC_
 _Pages: 91_
 
 ---
 ## Award-Winning DLP Features
 **URL:** https://docs.netskope.com/en/award-winning-dlp-features/
 **Last Modified:** 2025-08-31T01:51:00+00:00
-**Scraped:** 2026-10-27T11:32:34.026314+00:00
+**Scraped:** 2026-10-28T12:01:56.741793+00:00
 
+Award-Winning DLP Features - Netskope Technical Documentation
 Award-Winning DLP Features
 Feature
 Description
@@ -28,7 +29,7 @@ Award-Winning DLP Features
 ## Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules
 **URL:** https://docs.netskope.com/en/create-a-dlp-policy-to-search-an-entire-data-repository-and-apply-predefined-labels-per-enterprise-data-classification-rules/
 **Last Modified:** 2025-09-01T12:58:18+00:00
-**Scraped:** 2026-10-27T11:32:50.857095+00:00
+**Scraped:** 2026-10-28T12:02:13.654966+00:00
 
 Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules - Netskope Technical Documentation
 Create a DLP policy to search an entire data repository and apply predefined labels per Enterprise data classification rules
@@ -55,8 +56,9 @@ Create a DLP policy to search an entire data repository and apply predefined lab
 ## Create DLP policies for sensitive data for a specific OU from a user and provide user coaching
 **URL:** https://docs.netskope.com/en/create-dlp-policies-for-sensitive-data-for-a-specific-ou-from-a-user-and-provide-user-coaching/
 **Last Modified:** 2025-08-31T01:51:05+00:00
-**Scraped:** 2026-10-27T11:33:07.663189+00:00
+**Scraped:** 2026-10-28T12:02:30.699369+00:00
 
+Create DLP policies for sensitive data for a specific OU from a user and provide user coaching - Netskope Technical Documentation
 Create DLP policies for sensitive data for a specific OU from a user and provide user coaching
 Learn how to create a DLP policy using Real-time protection policies –
 Creating a policy
@@ -72,7 +74,7 @@ Create DLP policies for sensitive data for a specific OU from a user and provide
 ## DLP – Protect state for Managed App Activities
 **URL:** https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:30+00:00
-**Scraped:** 2026-10-27T11:33:14.684775+00:00
+**Scraped:** 2026-10-28T12:02:37.775110+00:00
 
 DLP – Protect state for Managed App Activities - Netskope Technical Documentation
 DLP – Protect state for Managed App Activities
@@ -89,7 +91,7 @@ DLP – Protect state for Managed App Activities
 ## DLP Scans on AWS Accounts
 **URL:** https://docs.netskope.com/en/dlp-scans-on-aws-accounts/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-10-27T11:33:18.176982+00:00
+**Scraped:** 2026-10-28T12:02:41.352777+00:00
 
 DLP Scans on AWS Accounts - Netskope Technical Documentation
 DLP Scans on AWS Accounts
@@ -110,7 +112,7 @@ DLP Scans on AWS Accounts
 ## DLP Scans on AWS, Azure, and GCP Accounts
 **URL:** https://docs.netskope.com/en/dlp-scans-on-cloud-saas/
 **Last Modified:** 2026-06-25T19:32:43+00:00
-**Scraped:** 2026-10-27T11:33:19.336934+00:00
+**Scraped:** 2026-10-28T12:02:42.601200+00:00
 
 DLP Scans on AWS, Azure, and GCP Accounts - Netskope Technical Documentation
 DLP Scans on AWS, Azure, and GCP Accounts
@@ -133,7 +135,7 @@ DLP Scans on AWS, Azure, and GCP Accounts
 ## DLP Scans on Azure Accounts
 **URL:** https://docs.netskope.com/en/dlp-scans-on-azure-accounts/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-10-27T11:33:22.859008+00:00
+**Scraped:** 2026-10-28T12:02:46.076514+00:00
 
 DLP Scans on Azure Accounts - Netskope Technical Documentation
 DLP Scans on Azure Accounts
@@ -154,8 +156,9 @@ DLP Scans on Azure Accounts
 ## Create a Custom DLP Profile
 **URL:** https://docs.netskope.com/en/create-a-custom-dlp-profile/
 **Last Modified:** 2026-06-25T19:19:21+00:00
-**Scraped:** 2026-10-27T11:37:30.252264+00:00
+**Scraped:** 2026-10-28T12:06:55.244786+00:00
 
+Create a Custom DLP Profile - Netskope Technical Documentation
 Create a Custom DLP Profile
 Creating a DLP profile involves selecting a file profile and then providing a DLP rule, content classification, or fingerprint rule.
 File profile section allows you to include or exclude specific files based on different attributes of a file. You can use existing file profiles or create a new file profile.
@@ -209,7 +212,7 @@ Create a Custom DLP Profile
 ## Create a Custom DLP Rule
 **URL:** https://docs.netskope.com/en/creating-a-custom-dlp-rule/
 **Last Modified:** 2026-06-25T19:14:26+00:00
-**Scraped:** 2026-10-27T11:38:01.411022+00:00
+**Scraped:** 2026-10-28T12:07:26.556445+00:00
 
 Create a Custom DLP Rule - Netskope Technical Documentation
 Create a Custom DLP Rule
@@ -232,9 +235,8 @@ Create a Custom DLP Rule
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117716/
 **Last Modified:** 2025-08-31T01:40:51+00:00
-**Scraped:** 2026-10-27T11:38:55.581859+00:00
+**Scraped:** 2026-10-28T12:08:22.262371+00:00
 
-DLP - Netskope Technical Documentation
 DLP
 This section of the API Data Protection Policy page specifies the type of DLP profile that triggers a policy violation.
 Note
@@ -259,9 +261,8 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117840/
 **Last Modified:** 2025-09-01T12:30:42+00:00
-**Scraped:** 2026-10-27T11:38:56.759673+00:00
+**Scraped:** 2026-10-28T12:08:23.413356+00:00
 
-DLP - Netskope Technical Documentation
 DLP
 This section of the API Data Protection Policy page specifies the type of DLP profile that triggers a policy violation.
 Note
@@ -286,7 +287,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117929/
 **Last Modified:** 2025-09-01T12:33:25+00:00
-**Scraped:** 2026-10-27T11:39:00.456975+00:00
+**Scraped:** 2026-10-28T12:08:26.990019+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -313,7 +314,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117863/
 **Last Modified:** 2025-09-01T12:34:08+00:00
-**Scraped:** 2026-10-27T11:39:01.626709+00:00
+**Scraped:** 2026-10-28T12:08:28.145039+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -342,7 +343,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117951/
 **Last Modified:** 2025-09-01T12:32:07+00:00
-**Scraped:** 2026-10-27T11:39:02.790021+00:00
+**Scraped:** 2026-10-28T12:08:29.296485+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -369,7 +370,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117885/
 **Last Modified:** 2025-09-01T12:30:47+00:00
-**Scraped:** 2026-10-27T11:39:03.952333+00:00
+**Scraped:** 2026-10-28T12:08:30.446665+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -396,7 +397,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117983/
 **Last Modified:** 2025-09-01T12:31:42+00:00
-**Scraped:** 2026-10-27T11:39:05.115589+00:00
+**Scraped:** 2026-10-28T12:08:31.599692+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -425,7 +426,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118036/
 **Last Modified:** 2025-09-01T12:31:11+00:00
-**Scraped:** 2026-10-27T11:39:06.278773+00:00
+**Scraped:** 2026-10-28T12:08:32.850029+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -452,8 +453,9 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118130/
 **Last Modified:** 2025-09-01T12:31:15+00:00
-**Scraped:** 2026-10-27T11:39:07.527489+00:00
+**Scraped:** 2026-10-28T12:08:34.056474+00:00
 
+DLP - Netskope Technical Documentation
 DLP
 This section of the API Data Protection Policy page specifies the type of DLP profile that triggers a policy violation.
 Note
@@ -480,8 +482,9 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118108/
 **Last Modified:** 2025-09-01T12:32:12+00:00
-**Scraped:** 2026-10-27T11:39:08.696148+00:00
+**Scraped:** 2026-10-28T12:08:35.209529+00:00
 
+DLP - Netskope Technical Documentation
 DLP
 This section of the API Data Protection Policy page specifies the type of DLP profile that triggers a policy violation.
 Note
@@ -506,7 +509,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-120387/
 **Last Modified:** 2025-09-01T12:31:20+00:00
-**Scraped:** 2026-10-27T11:39:09.862864+00:00
+**Scraped:** 2026-10-28T12:08:36.429136+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -533,7 +536,7 @@ DLP
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-118083/
 **Last Modified:** 2025-09-01T12:31:46+00:00
-**Scraped:** 2026-10-27T11:39:11.030228+00:00
+**Scraped:** 2026-10-28T12:08:37.609545+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -560,7 +563,7 @@ DLP
 ## DLP Profiles
 **URL:** https://docs.netskope.com/en/dlp-profiles/
 **Last Modified:** 2026-06-25T17:36:59+00:00
-**Scraped:** 2026-10-27T11:39:12.196368+00:00
+**Scraped:** 2026-10-28T12:08:38.779865+00:00
 
 DLP Profiles
 A DLP profile is a collection of predefined or custom DLP rules, classifiers, and custom fingerprint rules. If any of the rules or classifiers match the content, then the DLP profile flags the content as a policy violation. Using predefined profiles let you start evaluating loss of critical data in the cloud immediately. Creating new DLP profiles and rules enables you to refine custom methods of prevention. For insight about building custom DLP profiles and rules, see
@@ -603,7 +606,7 @@ DLP Profiles
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp/
 **Last Modified:** 2025-09-01T12:30:37+00:00
-**Scraped:** 2026-10-27T11:39:13.353975+00:00
+**Scraped:** 2026-10-28T12:08:40.028298+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -631,9 +634,8 @@ DLP
 ## DLP Rules
 **URL:** https://docs.netskope.com/en/dlp-rules/
 **Last Modified:** 2026-06-25T19:22:14+00:00
-**Scraped:** 2026-10-27T11:39:15.761872+00:00
+**Scraped:** 2026-10-28T12:08:42.388746+00:00
 
-DLP Rules - Netskope Technical Documentation
 DLP Rules
 DLP rules can contain one or more of these elements:
 Predefined data identifiers
@@ -683,7 +685,7 @@ DLP Rules
 ## Edit a Custom DLP Profile
 **URL:** https://docs.netskope.com/en/edit-a-custom-dlp-profile/
 **Last Modified:** 2026-10-19T11:01:08+00:00
-**Scraped:** 2026-10-27T11:39:16.931968+00:00
+**Scraped:** 2026-10-28T12:08:43.560352+00:00
 
 Edit a Custom DLP Profile - Netskope Technical Documentation
 Edit a Custom DLP Profile
@@ -695,8 +697,9 @@ Edit a Custom DLP Profile
 ## Endpoint Data Loss Prevention
 **URL:** https://docs.netskope.com/en/endpoint-data-loss-prevention/
 **Last Modified:** 2026-06-25T17:37:02+00:00
-**Scraped:** 2026-10-27T11:39:40.347189+00:00
+**Scraped:** 2026-10-28T12:09:07.469457+00:00
 
+Endpoint Data Loss Prevention - Netskope Technical Documentation
 Endpoint Data Loss Prevention
 Note
 Contact your Sales Representative to enable this feature for your account.
@@ -855,7 +858,7 @@ Endpoint Data Loss Prevention
 ## Name the DLP Rule
 **URL:** https://docs.netskope.com/en/name-the-dlp-rule/
 **Last Modified:** 2026-06-25T19:14:31+00:00
-**Scraped:** 2026-10-27T11:41:28.667116+00:00
+**Scraped:** 2026-10-28T12:10:57.417802+00:00
 
 Name the DLP Rule - Netskope Technical Documentation
 Name the DLP Rule
@@ -869,7 +872,7 @@ Name the DLP Rule
 ## Select a Predefined DLP Profile
 **URL:** https://docs.netskope.com/en/select-a-predefined-dlp-profile/
 **Last Modified:** 2026-06-25T19:19:20+00:00
-**Scraped:** 2026-10-27T11:43:23.415041+00:00
+**Scraped:** 2026-10-28T12:12:53.151160+00:00
 
 Select a Predefined DLP Profile - Netskope Technical Documentation
 Select a Predefined DLP Profile
@@ -946,8 +949,9 @@ Select a Predefined DLP Profile
 ## Select a DLP Entity
 **URL:** https://docs.netskope.com/en/select-dlp-entity/
 **Last Modified:** 2026-10-17T08:25:33+00:00
-**Scraped:** 2026-10-27T11:43:24.587783+00:00
+**Scraped:** 2026-10-28T12:12:54.327248+00:00
 
+Select a DLP Entity - Netskope Technical Documentation
 Select a DLP Entity
 Netskope has renamed
 Data Identifier
@@ -1006,9 +1010,8 @@ Select a DLP Entity
 ## Using DLP with Netskope Public Cloud Security
 **URL:** https://docs.netskope.com/en/using-dlp-with-netskope-public-cloud-security/
 **Last Modified:** 2026-06-25T17:37:00+00:00
-**Scraped:** 2026-10-27T11:45:19.112990+00:00
+**Scraped:** 2026-10-28T12:14:50.128264+00:00
 
-Using DLP with Netskope Public Cloud Security - Netskope Technical Documentation
 Using DLP with Netskope Public Cloud Security
 You can use Netskope’s DLP solution to check for compliance and protect sensitive data. The DLP profiles that enforce compliance and protect sensitive data consists of DLP rules that specify data identifiers. These data identifiers find content that should not be present in your IaaS environment. The following predefine rules and data identifiers can be used to create DLP profiles to monitor the data in your IaaS environment.
 Predefine Rule
@@ -1046,9 +1049,8 @@ Using DLP with Netskope Public Cloud Security
 ## Viewing DLP and Malware Alerts for Public Cloud Storage
 **URL:** https://docs.netskope.com/en/viewing-dlp-and-malware-alerts-for-public-cloud-storage/
 **Last Modified:** 2025-08-31T01:46:19+00:00
-**Scraped:** 2026-10-27T11:45:47.231978+00:00
+**Scraped:** 2026-10-28T12:15:19.134601+00:00
 
-Viewing DLP and Malware Alerts for Public Cloud Storage - Netskope Technical Documentation
 Viewing DLP and Malware Alerts for Public Cloud Storage
 Netskope performs DLP scans and malware scans on your storage against DLP and Threat Protection policies. When a violation is found, Netskope generates an alert.
 You can view the DLP alerts from:
@@ -1078,7 +1080,7 @@ Viewing DLP and Malware Alerts for Public Cloud Storage
 ## DLP Behavior with SMTP Proxy
 **URL:** https://docs.netskope.com/en/dlp-behavior-with-smtp-proxy/
 **Last Modified:** 2025-08-31T01:55:52+00:00
-**Scraped:** 2026-10-27T11:48:33.809689+00:00
+**Scraped:** 2026-10-28T12:17:59.318459+00:00
 
 DLP Behavior with SMTP Proxy - Netskope Technical Documentation
 DLP Behavior with SMTP Proxy
@@ -1116,7 +1118,7 @@ DLP Behavior with SMTP Proxy
 ## View DLP Incidents related to SMTP Proxy
 **URL:** https://docs.netskope.com/en/view-dlp-incidents-related-to-smtp-proxy/
 **Last Modified:** 2026-10-05T19:58:42+00:00
-**Scraped:** 2026-10-27T11:51:09.215981+00:00
+**Scraped:** 2026-10-28T12:20:28.007234+00:00
 
 View DLP Incidents related to SMTP Proxy - Netskope Technical Documentation
 View DLP Incidents related to SMTP Proxy
@@ -1172,7 +1174,7 @@ View DLP Incidents related to SMTP Proxy
 ## Downloading DLP Incident Files
 **URL:** https://docs.netskope.com/en/downloading-dlp-incident-files/
 **Last Modified:** 2025-08-31T01:38:58+00:00
-**Scraped:** 2026-10-27T11:53:01.919200+00:00
+**Scraped:** 2026-10-28T12:22:21.170593+00:00
 
 Downloading DLP Incident Files - Netskope Technical Documentation
 Downloading DLP Incident Files
@@ -1227,9 +1229,8 @@ Downloading DLP Incident Files
 ## Create a DLP Exact Match Hash from a Virtual Appliance
 **URL:** https://docs.netskope.com/en/create-a-dlp-exact-match-hash-from-a-virtual-appliance/
 **Last Modified:** 2026-08-18T17:18:37+00:00
-**Scraped:** 2026-10-27T11:56:11.665306+00:00
+**Scraped:** 2026-10-28T12:25:32.513687+00:00
 
-Create a DLP Exact Match Hash from a Virtual Appliance - Netskope Technical Documentation
 Create a DLP Exact Match Hash from a Virtual Appliance
 This process requires you to create a CSV file containing the exact match data and upload it to the Netskope cloud using a virtual appliance. When you upload the CSV file using the
 request dlp-pdd upload
@@ -1306,9 +1307,8 @@ Create a DLP Exact Match Hash from a Virtual Appliance
 ## Mimecast and Netskope DLP Configuration
 **URL:** https://docs.netskope.com/en/mimecast-and-netskope-dlp-configuration/
 **Last Modified:** 2025-08-31T01:55:32+00:00
-**Scraped:** 2026-10-27T11:57:41.654208+00:00
+**Scraped:** 2026-10-28T12:27:02.930742+00:00
 
-Mimecast and Netskope DLP Configuration - Netskope Technical Documentation
 Mimecast and Netskope DLP Configuration
 This document explains how to configure Netskope DLP with Mimecast.
 Netskope and Mimecast collaborate to provide a comprehensive data loss prevention (DLP) solution that effectively detects and safeguards sensitive information across the evolving cloud environment of joint customers. This approach is agnostic to sharing methods, user locations, applications, or device types. Netskope leverages its extensive knowledge of data sharing and extends it to email by employing a unified approach to DLP match rules. This allows customers to utilize their Mimecast environment to manage flagged email in accordance with established email policies.
@@ -1438,7 +1438,7 @@ Mimecast and Netskope DLP Configuration
 ## DLP
 **URL:** https://docs.netskope.com/en/dlp-117816/
 **Last Modified:** 2025-08-31T01:41:45+00:00
-**Scraped:** 2026-10-27T11:58:53.280883+00:00
+**Scraped:** 2026-10-28T12:28:14.884191+00:00
 
 DLP - Netskope Technical Documentation
 DLP
@@ -1468,7 +1468,7 @@ DLP
 ## Enforce DLP for NPA Browser Access Private Apps
 **URL:** https://docs.netskope.com/en/enforce-dlp-for-npa-browser-access-private-apps/
 **Last Modified:** 2026-05-28T22:38:29+00:00
-**Scraped:** 2026-10-27T12:05:02.207341+00:00
+**Scraped:** 2026-10-28T12:34:27.956581+00:00
 
 Enforce DLP for NPA Browser Access Private Apps
 Prerequisites
@@ -1567,7 +1567,7 @@ Enforce DLP for NPA Browser Access Private Apps
 ## Netskope One for Microsoft Purview DLP
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp/
 **Last Modified:** 2026-07-02T02:19:51+00:00
-**Scraped:** 2026-10-27T12:07:06.242190+00:00
+**Scraped:** 2026-10-28T12:36:32.419785+00:00
 
 Netskope One for Microsoft Purview DLP - Netskope Technical Documentation
 Netskope One for Microsoft Purview DLP
@@ -1613,8 +1613,9 @@ Netskope One for Microsoft Purview DLP
 ## Netskope One for Microsoft Purview DLP Troubleshooting and FAQ
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp-troubleshooting-and-faq/
 **Last Modified:** 2026-06-25T19:18:23+00:00
-**Scraped:** 2026-10-27T12:07:07.407266+00:00
+**Scraped:** 2026-10-28T12:36:33.574250+00:00
 
+Netskope One for Microsoft Purview DLP Troubleshooting and FAQ - Netskope Technical Documentation
 Netskope One for Microsoft Purview DLP Troubleshooting and FAQ
 Purview Integration is missing under Settings
 Check if the following tab exists in Netskope admin console in
@@ -1664,9 +1665,8 @@ Netskope One for Microsoft Purview DLP Troubleshooting and FAQ
 ## Netskope One for Microsoft Purview DLP Configuration
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp-configuration/
 **Last Modified:** 2026-07-02T02:41:16+00:00
-**Scraped:** 2026-10-27T12:07:08.592345+00:00
+**Scraped:** 2026-10-28T12:36:34.741898+00:00
 
-Netskope One for Microsoft Purview DLP Configuration - Netskope Technical Documentation
 Netskope One for Microsoft Purview DLP Configuration
 This configuration will have to be performed on both the Microsoft and Netskope-side.
 Netskope Setup
@@ -1790,7 +1790,7 @@ Netskope One for Microsoft Purview DLP Configuration
 ## Data Loss Prevention On Demand
 **URL:** https://docs.netskope.com/en/data-loss-prevention-on-demand/
 **Last Modified:** 2026-08-29T00:49:44+00:00
-**Scraped:** 2026-10-27T12:07:13.443797+00:00
+**Scraped:** 2026-10-28T12:36:39.612106+00:00
 
 Data Loss Prevention On Demand - Netskope Technical Documentation
 Data Loss Prevention On Demand
@@ -1826,7 +1826,7 @@ Data Loss Prevention On Demand
 ## Appliance Setup
 **URL:** https://docs.netskope.com/en/dlpondemandconfig/
 **Last Modified:** 2026-06-25T19:19:27+00:00
-**Scraped:** 2026-10-27T12:07:14.625753+00:00
+**Scraped:** 2026-10-28T12:36:40.807051+00:00
 
 Appliance Setup - Netskope Technical Documentation
 Appliance Setup
@@ -2378,9 +2378,8 @@ Appliance Setup
 ## Endpoint DLP Device and Content Control Policies
 **URL:** https://docs.netskope.com/en/epdlpcontrol/
 **Last Modified:** 2026-09-30T20:56:30+00:00
-**Scraped:** 2026-10-27T12:10:23.933281+00:00
+**Scraped:** 2026-10-28T12:39:53.989642+00:00
 
-Endpoint DLP Device and Content Control Policies - Netskope Technical Documentation
 Endpoint DLP Device and Content Control Policies
 Endpoint DLP Policy
 Endpoint DLP provides two types of protection policies: Device Control and Content Control.
@@ -2785,9 +2784,8 @@ Endpoint DLP Device and Content Control Policies
 ## About DLP
 **URL:** https://docs.netskope.com/en/about-dlp/
 **Last Modified:** 2026-10-06T17:55:35+00:00
-**Scraped:** 2026-10-27T12:10:55.312613+00:00
+**Scraped:** 2026-10-28T12:40:25.911074+00:00
 
-About DLP - Netskope Technical Documentation
 About DLP
 Netskope
 Data Loss Prevention (DLP)
@@ -3384,7 +3382,7 @@ About DLP
 ## Start a DLP Content Inspection Job for Unstructured Data (Asynchronous)
 **URL:** https://docs.netskope.com/en/start-dlp-content-inspection-job/
 **Last Modified:** 2026-09-16T17:04:31+00:00
-**Scraped:** 2026-10-27T12:11:02.389676+00:00
+**Scraped:** 2026-10-28T12:40:33.123505+00:00
 
 Start a DLP Content Inspection Job for Unstructured Data (Asynchronous) - Netskope Technical Documentation
 Start a DLP Content Inspection Job for Unstructured Data (Asynchronous)
@@ -3917,7 +3915,7 @@ Start a DLP Content Inspection Job for Unstructured Data (Asynchronous)
 ## Get Results of Prior DLP Inspection
 **URL:** https://docs.netskope.com/en/getting-dlp-inspection-results-cache/
 **Last Modified:** 2026-06-25T19:16:06+00:00
-**Scraped:** 2026-10-27T12:11:03.646041+00:00
+**Scraped:** 2026-10-28T12:40:34.310322+00:00
 
 Get Results of Prior DLP Inspection - Netskope Technical Documentation
 Get Results of Prior DLP Inspection
@@ -4646,7 +4644,7 @@ Get Results of Prior DLP Inspection
 ## Perform DLP Content Inspection and Retrieve Results (Synchronous)
 **URL:** https://docs.netskope.com/en/starting-a-synchronous-dlp-content-inspection-job/
 **Last Modified:** 2026-06-25T19:16:08+00:00
-**Scraped:** 2026-10-27T12:11:06.045496+00:00
+**Scraped:** 2026-10-28T12:40:36.792677+00:00
 
 Perform DLP Content Inspection and Retrieve Results (Synchronous) - Netskope Technical Documentation
 Perform DLP Content Inspection and Retrieve Results (Synchronous)
@@ -5405,9 +5403,8 @@ Perform DLP Content Inspection and Retrieve Results (Synchronous)
 ## Sending Data to DLP On Demand
 **URL:** https://docs.netskope.com/en/dlp-on-demand-usage/
 **Last Modified:** 2026-06-25T19:18:16+00:00
-**Scraped:** 2026-10-27T12:11:07.205731+00:00
+**Scraped:** 2026-10-28T12:40:37.945552+00:00
 
-Sending Data to DLP On Demand - Netskope Technical Documentation
 Sending Data to DLP On Demand
 When setting
 x-netskope-generate-incidents
@@ -5466,7 +5463,7 @@ Sending Data to DLP On Demand
 ## Retrieve Results from a Submitted Asynchronous DLP Content Inspection job
 **URL:** https://docs.netskope.com/en/retrieve-result-from-dlp-content-inspection-job/
 **Last Modified:** 2026-06-25T19:16:09+00:00
-**Scraped:** 2026-10-27T12:11:08.377968+00:00
+**Scraped:** 2026-10-28T12:40:39.133875+00:00
 
 Retrieve Results from a Submitted Asynchronous DLP Content Inspection job - Netskope Technical Documentation
 Retrieve Results from a Submitted Asynchronous DLP Content Inspection job
@@ -6141,9 +6138,8 @@ Retrieve Results from a Submitted Asynchronous DLP Content Inspection job
 ## Appliance Troubleshooting
 **URL:** https://docs.netskope.com/en/dlpondemandtroubleshooting/
 **Last Modified:** 2026-06-25T19:19:33+00:00
-**Scraped:** 2026-10-27T12:11:20.176643+00:00
+**Scraped:** 2026-10-28T12:40:51.099985+00:00
 
-Appliance Troubleshooting - Netskope Technical Documentation
 Appliance Troubleshooting
 The Appliance CLI comes with troubleshooting commands to help examine logs in order to debug the system.
 Create and Share the Debug Package
@@ -6174,7 +6170,7 @@ Appliance Troubleshooting
 ## DLP On Demand Appliance
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance/
 **Last Modified:** 2026-06-25T19:18:15+00:00
-**Scraped:** 2026-10-27T12:11:24.846863+00:00
+**Scraped:** 2026-10-28T12:40:55.828692+00:00
 
 DLP On Demand Appliance - Netskope Technical Documentation
 DLP On Demand Appliance
@@ -6194,7 +6190,7 @@ DLP On Demand Appliance
 ## Manage DLP On Demand
 **URL:** https://docs.netskope.com/en/manage-dlp-on-demand/
 **Last Modified:** 2026-06-25T19:19:29+00:00
-**Scraped:** 2026-10-27T12:11:30.684799+00:00
+**Scraped:** 2026-10-28T12:41:01.895037+00:00
 
 Manage DLP On Demand - Netskope Technical Documentation
 Manage DLP On Demand
@@ -6216,9 +6212,8 @@ Manage DLP On Demand
 ## DLP Detection
 **URL:** https://docs.netskope.com/en/dlp-detection/
 **Last Modified:** 2026-06-25T17:36:58+00:00
-**Scraped:** 2026-10-27T12:11:58.790003+00:00
+**Scraped:** 2026-10-28T12:41:26.920162+00:00
 
-DLP Detection - Netskope Technical Documentation
 DLP Detection
 For more information on DLP Detection, see the following pages:
 Steganographic Detection
@@ -6237,8 +6232,9 @@ DLP Detection
 ## Netskope One for Microsoft Purview DLP Supported Activities
 **URL:** https://docs.netskope.com/en/netskope-one-for-microsoft-purview-dlp-supported-activities/
 **Last Modified:** 2026-06-25T19:18:20+00:00
-**Scraped:** 2026-10-27T12:12:09.318835+00:00
+**Scraped:** 2026-10-28T12:41:37.438095+00:00
 
+Netskope One for Microsoft Purview DLP Supported Activities - Netskope Technical Documentation
 Netskope One for Microsoft Purview DLP Supported Activities
 The following is a list of supported activities by Netskope for Microsoft Purview DLP. These activities are aligned with the DLP activities of Netskope.
 Netskope Activities
@@ -6305,637 +6301,10 @@ In this Topic
 Netskope One for Microsoft Purview DLP Supported Activities
 
 ---
-## Configure a DLP Profile on a Netskope Tenant (Beta)
-**URL:** https://docs.netskope.com/en/configure-a-dlp-profile-on-netskope-tenant-beta/
-**Last Modified:** 2025-11-14T01:30:57+00:00
-**Scraped:** 2026-10-27T12:12:15.377916+00:00
-
-Configure a DLP Profile on a Netskope Tenant (Beta) - Netskope Technical Documentation
-Configure a DLP Profile on a Netskope Tenant (Beta)
-To use the Custom File Classifiers trained on the Netskope Tenant, you can configure a DLP Profile that can then be used in a Real-time Protection policy.
-Log in to your Netskope Tenant and go to
-Policies > DLP
-.
-Click
-New Profile
-.
-Select a file profile from the list if required and click
-Next
-.
-In the DLP Rule or File Classifier section, select classifiers that were used in your Custom File Classification Sharing configuration. These custom file classifiers will be present in the Custom Self-Trained File Classifiers section. Click
-Next
-.
-Enter a DLP Profile Name and click
-Save
-.
-To use the created DLP profile, click
-Apply Changes
-and then
-Apply
-.
-In this Topic
-Configure a DLP Profile on a Netskope Tenant (Beta)
-
----
-## Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta)
-**URL:** https://docs.netskope.com/en/configure-a-real-time-protection-policy-using-the-dlp-profile-on-netskope-tenant-beta/
-**Last Modified:** 2025-11-14T02:31:46+00:00
-**Scraped:** 2026-10-27T12:12:16.529819+00:00
-
-Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta) - Netskope Technical Documentation
-Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta)
-This policy configuration is just an example of how the File Hashes sent from Netskope CE can be utilized for Real Time Protection. Modify as appropriate for your organization and use-case.
-Go to Policies > Real-time Protection.
-Click New Policy and then select DLP.
-For Source, leave the default as User = All Users.
-Fill out the destination information. Click on Category dropdown and select “Cloud App”.
-Click on Cloud App dropdown, search and select “Google Drive”.
-Click outside of this list to close the search dialog.
-Click on Activities and select “Upload” and “Download”.
-Click outside of this list to close the search dialog.
-For Profile and Action, click on Action and select “Block”.
-Keep Template as default.
-Click on Add Profile and select “DLP Profile”.
-In the DLP Profile, search and select a profile we created earlier.
-Enter Policy Name.
-Select “Default” for Group and click on Save
-Select position of the policy as on the top and click on Save.
-Real-time Protection Policy is created successfully
-To use the created Policy click on the “Apply Changes” button, fill comment and save.
-In this Topic
-Configure a Real-time Protection Policy using the DLP Profile on Netskope Tenant (Beta)
-
----
-## Exact Data Match Plugin (Beta)
-**URL:** https://docs.netskope.com/en/exact-data-match-plugin/
-**Last Modified:** 2026-03-20T23:52:37+00:00
-**Scraped:** 2026-10-27T12:12:48.465220+00:00
-
-Exact Data Match Plugin (Beta) - Netskope Technical Documentation
-Exact Data Match Plugin (Beta)
-This document explains how to configure the Netskope EDM Plugin v1.0.0 in the Cloud Exchange platform. This plugin is used to push EDM File Hashes generated through a configured EDM plugin to a Netskope Tenant.
-This plugin operates in push mode only and is intended solely for use as a destination in data-sharing configurations.
-Prerequisites
-To complete this configuration, you need:
-A Netskope tenant (or multiple, for example, production and development/test instances) that is already configured in Cloud Exchange with permission to generate v2/RBACv3 tokens.
-A Netskope Cloud Exchange tenant with the
-Tenant plugin
-configured and the
-Exact Data Match module
-enabled.
-A supported third-party EDM plugin (like
-Microsoft File Share
-) configured and available for integration.
-Exact Data Match Plugin Scope
-This plugin is used to push EDM File Hashes to the Netskope Tenant.
-Permissions
-Ensure that a V2/V3 Token with the appropriate Role is used when configuring the Netskope Tenant, as it is required for the proper functioning of the Netskope EDM Plugin.
-API Endpoint
-Method
-Permission
-/api/v2/events/dataexport/events/alert
-GET
-Read
-/api/v2/services/dlp/edm/file/apply
-POST
-Read + Write
-/api/v2/services/dlp/edm/file/staging
-POST
-Read + Write
-API Details
-List of APIs Used
-API Endpoint
-Method
-Permission
-/api/v2/events/dataexport/events/alert
-GET
-Read
-/api/v2/services/dlp/edm/file/apply
-POST
-Read + Write
-/api/v2/services/dlp/edm/file/staging
-POST
-Read + Write
-Validate the V2 Token
-API Endpoint
-:
-https://<tenant-url>
-/api/v2/events/dataexport/events/alert
-Method:
-GET
-Application Headers
-Key
-Value
-Netskope-API-Token
-<netskope_api_v2_token>
-User-Agent
-netskope-ce-6.0.0
-Example API response
-{
-  "result": [
-    {
-      "CononicalName": "string",
-      "_id": "string",
-      "access_method": "string",
-      "account_id": "string",
-      "account_name": "string",
-      "acked": "string",
-      "action": "string",
-      "activity": "string",
-      "alert": "string",
-      "alert_id": "string",
-      "alert_name": "string",
-      "alert_type": "string",
-      "app": "string",
-      "app_activity": "string",
-      "app_session_id": 0,
-      "appcategory": "string",
-      "appsuite": "string",
-      "asset_id": "string",
-      "asset_object_id": "string",
-      "breach_date": 0,
-      "breach_description": "string",
-      "breach_id": "string",
-      "breach_media_references": "string",
-      "breach_score": "string",
-      "breach_target_references": "string",
-      "browser": "string",
-      "browser_session_id": 0,
-      "browser_version": "string",
-      "bypass_traffic": "string",
-      "category": "string",
-      "cci": 0,
-      "ccl": "string",
-      "client_bytes": 0,
-      "compliance_standards": [
-        "string"
-      ],
-      "conn_duration": 0,
-      "conn_endtime": 0,
-      "conn_starttime": 0,
-      "connection_id": 0,
-      "count": 0,
-      "data_type": "string",
-      "device": "string",
-      "device_classification": "string",
-      "dlp_file": "string",
-      "dlp_incident_id": 0,
-      "dlp_is_unique_count": "string",
-      "dlp_mail_parent_id": "string",
-      "dlp_parent_id": 0,
-      "dlp_profile": "string",
-      "dlp_rule": "string",
-      "dlp_rule_count": 0,
-      "dlp_rule_severity": "string",
-      "dlp_unique_count": 0,
-      "domain": "string",
-      "dst_country": "string",
-      "dst_geoip_src": 0,
-      "dst_latitude": 0,
-      "dst_location": "string",
-      "dst_longitude": 0,
-      "dst_region": "string",
-      "dst_timezone": "string",
-      "dst_zipcode": "string",
-      "dsthost": "string",
-      "dstip": "string",
-      "dstport": 0,
-      "email_source": "string",
-      "event_type": "string",
-      "evt_src_chnl": "string",
-      "exposure": "string",
-      "external_collaborator_count": 0,
-      "external_email": 0,
-      "file_cls_encrypted": true,
-      "file_lang": "string",
-      "file_path": "string",
-      "file_size": 0,
-      "file_type": "string",
-      "from_user": "string",
-      "fromlogs": "string",
-      "hostname": "string",
-      "http_transaction_count": 0,
-      "iaas_asset_tags": [
-        "string"
-      ],
-      "iaas_remediated": "string",
-      "instance": "string",
-      "instance_id": "string",
-      "internal_collaborator_count": 0,
-      "justification_reason": "string",
-      "justification_type": "string",
-      "last_app": "string",
-      "last_country": "string",
-      "last_device": "string",
-      "last_location": "string",
-      "last_region": "string",
-      "last_timestamp": 0,
-      "log_file_name": "string",
-      "malicious": "string",
-      "malsite_category": [
-        "string"
-      ],
-      "malsite_country": "string",
-      "malsite_id": "string",
-      "malsite_ip_host": "string",
-      "malsite_latitude": 0,
-      "malsite_longitude": 0,
-      "malsite_region": "string",
-      "managed_app": "string",
-      "managementID": "string",
-      "matched_username": "string",
-      "md5": "string",
-      "mime_type": "string",
-      "modified": 0,
-      "netskope_activity": "string",
-      "netskope_pop": "string",
-      "notify_template": "string",
-      "nsdeviceuid": "string",
-      "numbytes": 0,
-      "object": "string",
-      "object_id": "string",
-      "object_type": "string",
-      "org": "string",
-      "organization_unit": "string",
-      "orig_ty": "string",
-      "orignal_file_path": "string",
-      "os": "string",
-      "os_version": "string",
-      "other_categories": [
-        "string"
-      ],
-      "outer_doc_type": 0,
-      "owner": "string",
-      "page": "string",
-      "page_site": "string",
-      "parent_id": "string",
-      "password_type": "string",
-      "policy": "string",
-      "policy_actions": [
-        "string"
-      ],
-      "policy_id": "string",
-      "profile_id": "string",
-      "protocol": "string",
-      "referer": "string",
-      "region_id": "string",
-      "region_name": "string",
-      "req_cnt": 0,
-      "request_id": 0,
-      "resource_category": "string",
-      "resource_group": "string",
-      "resp_cnt": 0,
-      "sAMAccountName": "string",
-      "sa_profile_id": 0,
-      "sa_profile_name": "string",
-      "sa_rule_id": "string",
-      "sa_rule_name": "string",
-      "sa_rule_severity": "string",
-      "sanctioned_instance": "string",
-      "scan_type": "string",
-      "serial": "string",
-      "server_bytes": 0,
-      "sessionid": "string",
-      "severity": "string",
-      "severity_level": "string",
-      "severity_level_id": 0,
-      "sfwder": "string",
-      "sha256": "string",
-      "shared_domains": "string",
-      "shared_with": "string",
-      "site": "string",
-      "src_country": "string",
-      "src_geoip_src": 0,
-      "src_latitude": 0,
-      "src_location": "string",
-      "src_longitude": 0,
-      "src_region": "string",
-      "src_time": "string",
-      "src_timezone": "string",
-      "src_zipcode": "string",
-      "srcip": "string",
-      "suppression_end_time": 0,
-      "suppression_key": "string",
-      "suppression_start_time": 0,
-      "telemetry_app": "string",
-      "threat_match_field": "string",
-      "threat_match_value": "string",
-      "threat_source_id": 0,
-      "threshold": 0,
-      "threshold_time": 0,
-      "timestamp": 0,
-      "title": "string",
-      "to_object": "string",
-      "total_collaborator_count": 0,
-      "traffic_type": "string",
-      "transaction_id": 0,
-      "true_obj_category": "string",
-      "true_obj_type": "string",
-      "tss_mode": "string",
-      "two_factor_auth": "string",
-      "type": "string",
-      "universal_connector": "string",
-      "ur_normalized": "string",
-      "url": "string",
-      "user": "string",
-      "userPrincipalName": "string",
-      "user_generated": "string",
-      "user_id": "string",
-      "useragent": "string",
-      "userip": "string",
-      "userkey": "string",
-      "web_universal_connector": "string"
-    }
-  ]
-}
-Upload EDM Hash File to Staging
-API Endpoint
-:
-https://<tenant-url>
-/api/v2/services/dlp/edm/file/staging
-Method:
-POST
-Application Headers
-Key
-Value
-Netskope-API-Token
-<netskope_api_v2_token>
-User-Agent
-netskope-ce-6.0.0
-Content-Type
-application/json
-Request Body
-{
-  "edm_filename": "customers.csv",
-  "tgz_filename": "customers.tgz",
-  "sha1": "d6727f9b11c80631773a993c9823e60634b138b4",
-  "size": 15000,
-  "keep_staging": true,
-  "description": "This is the staging file for customers.tgz file on 2024-06-24"
-}
-Example API response
-{
-  "fileid": "4841a51417666e38760860b2c4e5b5b48627d2c4",
-  "uploadid": "MzBlZWE4Y2YtMzZmYy00MGI5LThhNDktNWU2MTk5OWI1NjAzLjBmM2Q4YmI1LTM4OTctNDY2Yy05ZjQ5LTk1N2FmZWNjYjk5NQ",
-  "part_max_size": 16000000,
-  "msg": "Optional message"
-}
-Apply Staged EDM Hash File
-API Endpoint
-:
-https://<tenant-url>
-/api/v2/services/dlp/edm/file/apply
-Method:
-POST
-Application Headers
-Key
-Value
-Netskope-API-Token
-<netskope_api_v2_token>
-User-Agent
-netskope-ce-6.0.0
-Content-Type
-application/json
-Request Body
-{
-  "fileid": fileid
-}
-Example API response
-status code: 201
-Response None
-Netskope EDM Plugin Support
-Feature
-Support
-Pull
-No
-Push
-Yes
-Performance Matrix
-Here is the performance reading conducted for pushing hashes for ~1M rows (25 columns, Per column ~30 Characters Long String, 0.3M unique values per Column) data on a Large Cloud Exchange instance with these specifications.
-Description
-Specifications
-Stack details
-Size: Large
-RAM: 32 GB
-CPU: 16 Cores
-Hashes Pushed From Source To Netskope Tenant Without Dict
-~10 minutes
-Hashes Pushed From Source To Netskope Tenant With Dict (2-3 columns)
-~14 minutes
-User Agent
-The user-agent added in this plugin is in the following format:
-netskope-ce-
-<ce_version>
-For example: netskope-ce-6.0.0
-Workflow
-Generate a v2 token for your Netskope tenant.
-Create Netskope Tenant Using V2 Auth Token.
-Configure Netskope EDM plugin.
-Configure Sharing between the EDM Third Party Plugin and the Netskope EDM Plugin.
-Check the status of the configured sharing.
-Watch a Video
-Click play to watch a video.
-Generate a V2 (RBACv3) Token
-In your Netskope tenant, go to
-Settings > Administration > Administrators & Roles > Roles.
-Click
-New
-to create a new role. Enter a Role Name and a Short Role Description. Make sure DLP is selected in the permissions section.
-Select the
-Manage And Apply
-permission for the DLP > DLP Profile.
-In Scope IT -> Alerts -> Manage Permission is Selected
-Under Skope IT, select the
-Manage
-permission for Skope IT > Alerts.
-Click
-Service Account
-.
-Enter a Service Account Name.
-Select the created role for the Service Account.
-Enter an Expire time. Select from Day(s), Hour(s), Week(s), Year(s).
-Click
-Save
-and copy the token. Use this to configure the Netskope Tenant Plugin in Cloud Exchange.
-The Role with DLP permissions will be used by only the CFC and EDM Modules. For accessing and using other modules, use the role
-Netskope Cloud Exchange
-for creating a token.
-Configure Netskope EDM Plugin
-In Cloud Exchange, go to
-Settings > Plugin Store
-.
-Search for and select the
-Netskope Exact Data Match (EDM)
-plugin box.
-Enter the Basic Information:
-Configuration Name
-: Provide a name appropriate for the integration.
-Tenant Name
-: Select tenant name from the dropdown.
-Change optional details if needed:
-Enable SSL verification
-: Enable the toggle to communicate via SSL. (Default=disabled)
-Click
-Save
-.
-You will be redirected to
-Exact Data Match > Plugins
-page, where you can see the configured plugin.
-Configure Sharing between a 3rd-party EDM Plugin and the EDM Plugin
-Go to the
-Exact Data Match > Sharing
-.
-Click
-Add Sharing Configuration
-.
-Source Configuration:
-Select a configured 3rd-party plugin.
-Destination Configuration:
-Select the Netskope EDM Plugin as destination configuration.
-Target:
-The value is automatically set according to the selected Destination Configuration.
-Click
-Save
-.
-Validate the Netskope EDM Plugin
-Cloud Exchange only stores sensitive pulled data CSV files temporarily until the hash generation and upload process is completed. After that, the stored files are automatically removed.
-Monitor Status of Configured Sharing
-Go to
-Exact Data Match > Sharing and Upload Management
-. Here you’ll see a list of status for all the configured sharing.
-The status values are as follows:
-Scheduled:
-Indicates that the sharing has been configured and the pull and push operation are still waiting in the queue for processing.
-Generating Hash:
-Indicates that the generating hash process has been started. At this stage, in the background fetching > validating > sanitization (if opted for) > generating hash stages will be included.
-Uploading Hash:
-Indicates that uploading hash to the destination configuration has been started.
-Upload Completed:
-Indicates that hashes are uploaded to the destination configuration.
-Checking Apply Status:
-At this stage, checks hashing apply status to the destination configuration.
-Apply In Progress:
-This represents that the hash process is started and in progress state on the destination.
-Completed:
-Indicates that hash file has been pushed successfully to destination configuration.
-Failed:
-Indicates that the action final result failed to execute. The actions are Generating Hash/Uploading Hash/Checking Apply Status.
-Validate the Push on Netskope Tenant
-To ensure the push of EDM hashes on the Netskope Tenant from Cloud Exchange:
-Log in to your Netskope Tenant.
-Go to
-Policies > DLP
-.
-Click
-Edit Rules
-and select
-DLP Rules
-.
-On the
-Exact Match
-tab, a list of files are shown.
-Troubleshooting
-Unable to share hashes
-If you are unable to share hashes, you’ll receive an error like:
-Error response: { “message”:“You cannot consume this service” }
-What to do:
-To solve the above mentioned issue, add the following endpoints to the V2 token on the Netskope tenant.
-API Endpoint
-Permission
-/api/v2/events/dataexport/events/alert
-Read
-/api/v2/services/dlp/edm/file/staging/list
-Read
-/api/v2/services/dlp/edm/file/apply
-Read + Write
-/api/v2/services/dlp/edm/file/staging
-Read + Write
-Limitations
-The maximum size of data that a Netskope EDM hash file can hold is 8 MB. Keep this in mind while configuring the Business Rule.
-Column names in the source data should not contain special characters or spaces. Use underscores instead.
-The EDM hash file name on Netskope tenant will be the same as the configuration name provided in Cloud Exchange.
-Known Behavior
-If sharing fails at any stage (Generating Hash/Uploading Hash/Checking Apply Status), the status will be marked as
-Failed
-and detailed error logs will be available in the Logging section.
-The plugin checks the apply status of hashes on the Netskope tenant periodically. This process may take some time depending on the size of the data.
-After hashes are successfully applied on the Netskope tenant, they cannot be deleted directly from Cloud Exchange. You need to delete them from the Netskope Tenant UI.
-If we configure sharing with the Netskope EDM plugin and the file is uploaded and processed by the tenant, everything works fine. If we later change the CSV column order, or add or remove columns, the tenant will raise the error below when applying hashes to the Netskope tenant. To fix this issue, the customer must delete the previously uploaded EDM hash file from the Netskope tenant.
-In this Topic
-Exact Data Match Plugin (Beta)
-
----
-## View Configured Exact Data Match Plugins (Beta)
-**URL:** https://docs.netskope.com/en/view-configured-exact-data-match-plugins/
-**Last Modified:** 2025-12-09T00:01:09+00:00
-**Scraped:** 2026-10-27T12:12:49.613942+00:00
-
-View Configured Exact Data Match Plugins (Beta) - Netskope Technical Documentation
-View Configured Exact Data Match Plugins (Beta)
-Read-access users can view the list of configured plugins and the status.
-Go to
-Exact Data Match
-and click
-Plugins
-.
-A list of configured plugins is displayed in the Configured Plugins section. Each plugin configuration is displayed as a box. There can be multiple plugin configurations for each vendor, each performing a task (pulling structured data, generating EDM hashes and sharing) a different way to the same or different vendor systems.
-The following details are displayed on each box:
-Logo
-: Logo of the plugin vendor.
-Name
-: The configuration name provided while configuring that plugin.
-Status
-: Enabled or Disabled. If it is actively polling, the word
-running
-will be shown next to the arrow.
-Sync Interval
-: The interval between polls by Exact Data Match of the plugged-in system.
-Last Run
-: The last time the plugin configuration was successfully executed.
-NA
-is displayed before the first sync using that particular plugin.
-In this Topic
-View Configured Exact Data Match Plugins (Beta)
-
----
-## Update Configured Exact Data Match Plugins (Beta)
-**URL:** https://docs.netskope.com/en/update-configured-exact-data-match-plugins/
-**Last Modified:** 2025-12-09T00:01:45+00:00
-**Scraped:** 2026-10-27T12:12:50.753348+00:00
-
-Update Configured Exact Data Match Plugins (Beta) - Netskope Technical Documentation
-Update Configured Exact Data Match Plugins (Beta)
-Only write-access users can update configured plugins.
-A write-access user can edit, disable/enable, and delete the configuration using the Edit icon (pencil), the Disable icon (circle and slash), or the Delete icon (trash can).
-In this Topic
-Update Configured Exact Data Match Plugins (Beta)
-
----
-## Configure 3rd-party Exact Data Match Plugins (Beta)
-**URL:** https://docs.netskope.com/en/configure-3rd-party-exact-data-match-plugins/
-**Last Modified:** 2025-12-09T02:15:19+00:00
-**Scraped:** 2026-10-27T12:12:51.919107+00:00
-
-Configure 3rd-party Exact Data Match Plugins (Beta) - Netskope Technical Documentation
-Configure 3rd-party Exact Data Match Plugins (Beta)
-Only admins and write-access users can configure 3rd-party Exact Data Match plugins. Exact Data Match comes with a library of supported plugins. Plugins can be easily configured to collect and share Exact Data Match hashes of structured data by following the plugin guide.
-You can also disable, enable, or delete existing plugin configurations. Exact Data Match can be configured with multiple plugins to the same system for different workflows from either the same Netskope tenant or multiple Netskope tenants.
-Exact Data Match only pulls and generates EDM (Exact Data Match) hashes of CSV and database queries.
-MySQL Plugin for Exact Data Match
-OracleDB Plugin for Exact Data Match
-SMB File Share Plugin for Exact Data Match
-Linux File Share Plugin for Exact Data Match
-Microsoft File Share Plugin for Exact Data Match
-Microsoft SQL Plugin for Exact Data Match
-Netskope EDM Forwarder/Receiver Plugin for Exact Data Match
-In this Topic
-Configure 3rd-party Exact Data Match Plugins (Beta)
-
----
 ## Linux File Share Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/linux-file-share-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:16:13+00:00
-**Scraped:** 2026-10-27T12:12:53.219838+00:00
+**Scraped:** 2026-10-28T12:42:03.583428+00:00
 
 Linux File Share Plugin for Exact Data Match - Netskope Technical Documentation
 Linux File Share Plugin for Exact Data Match
@@ -7254,7 +6623,7 @@ Linux File Share Plugin for Exact Data Match
 ## OracleDB Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/oracledb-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:18:12+00:00
-**Scraped:** 2026-10-27T12:12:54.411320+00:00
+**Scraped:** 2026-10-28T12:42:04.935532+00:00
 
 OracleDB Plugin for Exact Data Match - Netskope Technical Documentation
 OracleDB Plugin for Exact Data Match
@@ -7546,7 +6915,7 @@ OracleDB Plugin for Exact Data Match
 ## Microsoft File Share Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/microsoft-file-share-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:16:21+00:00
-**Scraped:** 2026-10-27T12:12:55.609818+00:00
+**Scraped:** 2026-10-28T12:42:06.165265+00:00
 
 Microsoft File Share Plugin for Exact Data Match - Netskope Technical Documentation
 Microsoft File Share Plugin for Exact Data Match
@@ -8056,7 +7425,7 @@ Microsoft File Share Plugin for Exact Data Match
 ## MySQL Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/mysql-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:18:02+00:00
-**Scraped:** 2026-10-27T12:12:56.856361+00:00
+**Scraped:** 2026-10-28T12:42:07.373660+00:00
 
 MySQL Plugin for Exact Data Match - Netskope Technical Documentation
 MySQL Plugin for Exact Data Match
@@ -8389,7 +7758,7 @@ MySQL Plugin for Exact Data Match
 ## Microsoft SQL Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/microsoft-sql-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:18:47+00:00
-**Scraped:** 2026-10-27T12:13:03.933255+00:00
+**Scraped:** 2026-10-28T12:42:14.646273+00:00
 
 Microsoft SQL Plugin for Exact Data Match - Netskope Technical Documentation
 Microsoft SQL Plugin for Exact Data Match
@@ -8696,8 +8065,9 @@ Microsoft SQL Plugin for Exact Data Match
 ## Netskope EDM Forwarder/Receiver Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/netskope-edm-forwarder-receiver-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:12:53+00:00
-**Scraped:** 2026-10-27T12:13:05.096619+00:00
+**Scraped:** 2026-10-28T12:42:15.856518+00:00
 
+Netskope EDM Forwarder/Receiver Plugin for Exact Data Match - Netskope Technical Documentation
 Netskope EDM Forwarder/Receiver Plugin for Exact Data Match
 This document explains how to configure the Netskope EDM Forwarder/Receiver plugin v1.0.0 with the Exact Data Match (EDM) module in the Netskope Cloud Exchange platform. The plugin operates in
 push mode
@@ -8945,8 +8315,9 @@ Netskope EDM Forwarder/Receiver Plugin for Exact Data Match
 ## Integrating with DLP on Demand
 **URL:** https://docs.netskope.com/en/integrating-with-dlp-on-demand/
 **Last Modified:** 2026-05-18T15:00:38+00:00
-**Scraped:** 2026-10-27T12:13:26.415863+00:00
+**Scraped:** 2026-10-28T12:42:37.098793+00:00
 
+Integrating with DLP on Demand - Netskope Technical Documentation
 Integrating with DLP on Demand
 Install the DLP on Demand appliance. For the detailed installation steps, see
 /en/dlpondemandconfig
@@ -9034,7 +8405,7 @@ Integrating with DLP on Demand
 ## DLP Policies for AI Traffic
 **URL:** https://docs.netskope.com/en/dlp-policies-for-ai-traffic/
 **Last Modified:** 2026-05-18T15:00:30+00:00
-**Scraped:** 2026-10-27T12:13:47.461684+00:00
+**Scraped:** 2026-10-28T12:42:58.278731+00:00
 
 DLP Policies for AI Traffic
 You can define a DLP policy by configuring traffic matches on various criteria. You can create policy groups and add multiple policies to the group. A default policy group is present.
@@ -9114,8 +8485,9 @@ DLP Policies for AI Traffic
 ## Understanding the DSPM DLP Profiles & Rules Screen
 **URL:** https://docs.netskope.com/en/understanding-the-dspm-dlp-profiles-rules-screen/
 **Last Modified:** 2026-04-08T22:49:48+00:00
-**Scraped:** 2026-10-27T12:14:24.065457+00:00
+**Scraped:** 2026-10-28T12:43:35.881829+00:00
 
+Understanding the DSPM DLP Profiles & Rules Screen - Netskope Technical Documentation
 Understanding the DSPM DLP Profiles & Rules Screen
 Overview
 The
@@ -9192,8 +8564,9 @@ Understanding the DSPM DLP Profiles & Rules Screen
 ## AISecOps
 **URL:** https://docs.netskope.com/en/aisecops-dlp-agent/
 **Last Modified:** 2026-10-17T08:54:01+00:00
-**Scraped:** 2026-10-27T12:14:33.267296+00:00
+**Scraped:** 2026-10-28T12:43:45.257891+00:00
 
+AISecOps - Netskope Technical Documentation
 AISecOps
 AISecOps
 Give your data security analysts their time back.
@@ -9253,9 +8626,8 @@ AISecOps
 ## Granular Control and Data Loss Prevention (DLP)
 **URL:** https://docs.netskope.com/en/granular-control-and-data-loss-prevention-dlp/
 **Last Modified:** 2026-09-28T07:31:53+00:00
-**Scraped:** 2026-10-27T12:14:39.023385+00:00
+**Scraped:** 2026-10-28T12:43:51.370017+00:00
 
-Granular Control and Data Loss Prevention (DLP) - Netskope Technical Documentation
 Granular Control and Data Loss Prevention (DLP)
 This topic provides an overview of how administrators can use the Skope IT application to monitor Model Context Protocol (MCP) communications in real-time. You will learn how to gain granular visibility into the interaction lifecycle—from initial handshakes to specific tool invocations and resource requests—to ensure compliance and detect potential threats. Furthermore, it explains how to analyze detailed event logs and initialization data to verify successful executions while ensuring sensitive data remains protected.
 Contact your Netskope account team to enable Agentic Broker in your account. Additional licensing is required for Agentic Broker and DLP. Note, to create a DLP policy, the DLP add-on license is required if you do not have DLP enabled in your account.
@@ -9353,109 +8725,10 @@ In this Topic
 Granular Control and Data Loss Prevention (DLP)
 
 ---
-## Configure Exact Data Match Sharing (Beta)
-**URL:** https://docs.netskope.com/en/configure-exact-data-match-sharing/
-**Last Modified:** 2026-04-28T07:04:39+00:00
-**Scraped:** 2026-10-27T12:16:25.142735+00:00
-
-Configure Exact Data Match Sharing (Beta) - Netskope Technical Documentation
-Configure Exact Data Match Sharing (Beta)
-You can create a configuration to share the Exact Data Match hashes of a file/data to the Netskope Tenant. This also facilitates hash sharing to Cloud Exchange to support isolation and/or cross region hash sharing to the Netskope Tenants.
-Go to
-Exact Data Match
-.
-Click
-Sharing
-. The Sharing configuration list is paginated with a count of 10 or less.
-Click
-Add Sharing Configuration
-.
-Select the source configuration and destination configuration. Click
-Save
-.
-Optionally, you can trigger Manual Sync for the sharing configuration.
-If needed, you can delete sharing configurations.
-Monitor the Status of Sharing Configuration
-View the hashing and upload status for Sharing Configuration to monitor their processing and ensure successful completion.  All entries with Source Type as a Plugin indicates status of the Sharing Configuration.
-Go to
-Exact Data Match > Sharing and Upload Management
-page.
-The following details will be shown for the sharing configuration.
-Source:
-The name of the source plugin configuration, or the name of the manually uploaded CSV file.
-Target
-: The name of the destination plugin configuration. Currently EDM supports sharing file hashes to Netskope Tenant only, hence the target field will be fixed and cannot be updated.
-Source Type:
-Plugin
-or
-Manual
-.
-Status:
-Displays the current status of pull/push operation as following:
-Scheduled:
-Indicates that the sharing has been configured and the pull and push operation are still waiting in the queue for processing.
-Generating Hash:
-Indicates that the generating hash process has been started. At this stage, in the background
-Fetching > Validating > Sanitization (if opted for) > Generating Hash
-staged will be included.
-Uploading Hash:
-Indicates that uploading hash to the destination configuration has been started.
-Upload Completed:
-Indicates that hashes are uploaded to the Netskope Tenant for processing.
-Checking Apply Status:
-At this stage, checking the status of apply process of the hashes on the Netskope Tenant.
-Apply In Progress:
-Represents that the hash processing is started and in progress state on the Netskope Tenant.
-Completed:
-Indicates that hash file has been shared successfully to destination configuration.
-Failed:
-Indicates that the final result of the action has been failed to execute. The actions are Generating Hash/Uploading Hash/Checking Apply Status.
-Last Updated At:
-Indicates last time the status has been updated for the sharing.
-Last Shared At:
-The last time when hashes were successfully shared with the destination configuration.
-Click
-Sync
-to refresh and view the latest details in the table.
-In this Topic
-Configure Exact Data Match Sharing (Beta)
-
----
-## Exact Data Match Module (Beta)
-**URL:** https://docs.netskope.com/en/exact-data-match-module/
-**Last Modified:** 2026-04-28T07:05:13+00:00
-**Scraped:** 2026-10-27T12:16:28.601108+00:00
-
-Exact Data Match Module (Beta)
-The Exact Data Match (EDM) module is a part of Cloud Exchange’s Data Protection (DLP) suite, designed to help organizations protect structured sensitive data. It works by generating cryptographic hashes of structured data (like from CSV files or database queries) and securely shares these hashes with the Netskope Tenant. These hashes are used to create real-time DLP policies that prevent sensitive data from leaving your network.
-The module is designed exclusively for deployment within Standalone containers on RHEL and Ubuntu systems and is not supported on medium stack instances or high-availability (HA) clusters. These deployment restrictions are now enforced.
-For optimal operation, the Exact Data Match module should be utilized in an isolated environment. Enabling the Exact Data Match module precludes the simultaneous use of additional modules.
-For existing deployments undergoing upgrade or migration, the current state of the Exact Data Match module is preserved. If the module is already enabled, it will remain enabled after the upgrade. However, once the Exact Data Match module is disabled on Medium stack or HA deployments, it cannot be re-enabled.
-In Cloud Exchange, go to
-Settings > General
-and enable the Exact Data Match (EDM) module.
-Click play to learn how to set up Exact Data Match.
-Exact Data Match Global Settings
-Only write-access users of Cloud Exchange can change the Exact Data Match settings.
-Go to
-Settings > Exact Data Match
-. Sensitive metadata collected from different sources are preserved for 7 days, by default. The file metadata that are older than the number of days specified will be deleted during the automatic cleanup.
-You can change the time duration to keep the metadata per your requirements. When finished, click
-Save
-.
-Configure 3rd-party Exact Data Match Plugins (Beta)
-Configure Exact Data Match Sharing (Beta)
-View Configured Exact Data Match Plugins (Beta)
-Update Configured Exact Data Match Plugins (Beta)
-Exact Match For Manual Upload (Beta)
-In this Topic
-Exact Data Match Module (Beta)
-
----
 ## Predefined DLP Profiles for DSPM
 **URL:** https://docs.netskope.com/en/predefined-dlp-profiles-for-dspm/
 **Last Modified:** 2026-05-05T21:45:08+00:00
-**Scraped:** 2026-10-27T12:17:11.437765+00:00
+**Scraped:** 2026-10-28T12:46:06.030421+00:00
 
 Predefined DLP Profiles for DSPM - Netskope Technical Documentation
 Predefined DLP Profiles for DSPM
@@ -9793,7 +9066,7 @@ Predefined DLP Profiles for DSPM
 ## Troubleshooting DSPM with DLP
 **URL:** https://docs.netskope.com/en/troubleshooting-dspm-with-dlp/
 **Last Modified:** 2026-09-17T17:03:33+00:00
-**Scraped:** 2026-10-27T12:17:20.968976+00:00
+**Scraped:** 2026-10-28T12:46:16.441310+00:00
 
 Troubleshooting DSPM with DLP - Netskope Technical Documentation
 Troubleshooting DSPM with DLP
@@ -9899,7 +9172,7 @@ Troubleshooting DSPM with DLP
 ## Deploy the DLP Appliance for DSPM
 **URL:** https://docs.netskope.com/en/deploy-the-dlp-appliance-for-dspm/
 **Last Modified:** 2026-06-18T22:52:44+00:00
-**Scraped:** 2026-10-27T12:17:22.107353+00:00
+**Scraped:** 2026-10-28T12:46:17.624770+00:00
 
 Deploy the DLP Appliance for DSPM - Netskope Technical Documentation
 Deploy the DLP Appliance for DSPM
@@ -10382,8 +9655,9 @@ Deploy the DLP Appliance for DSPM
 ## SMB File Share Plugin for Exact Data Match
 **URL:** https://docs.netskope.com/en/smb-file-share-plugin-for-exact-data-match/
 **Last Modified:** 2026-10-07T05:18:50+00:00
-**Scraped:** 2026-10-27T12:17:39.495848+00:00
+**Scraped:** 2026-10-28T12:46:35.764081+00:00
 
+SMB File Share Plugin for Exact Data Match - Netskope Technical Documentation
 SMB File Share Plugin for Exact Data Match
 Release Notes
 1.0.0
@@ -10784,9 +10058,8 @@ SMB File Share Plugin for Exact Data Match
 ## DLP Entity
 **URL:** https://docs.netskope.com/en/dlp-entity/
 **Last Modified:** 2026-10-17T08:25:09+00:00
-**Scraped:** 2026-10-27T12:17:56.626951+00:00
+**Scraped:** 2026-10-28T12:46:54.123148+00:00
 
-DLP Entity - Netskope Technical Documentation
 DLP Entity
 Netskope has renamed
 Data Identifier
@@ -10980,7 +10253,7 @@ DLP Entity
 ## DLP On Demand Public Cloud
 **URL:** https://docs.netskope.com/en/dlp-on-demand-public-cloud/
 **Last Modified:** 2026-08-29T00:48:34+00:00
-**Scraped:** 2026-10-27T12:19:27.958456+00:00
+**Scraped:** 2026-10-28T12:48:28.709652+00:00
 
 DLP On Demand Public Cloud - Netskope Technical Documentation
 DLP On Demand Public Cloud
@@ -10995,7 +10268,7 @@ DLP On Demand Public Cloud
 ## Data Loss Prevention Profiles for Private App Segments
 **URL:** https://docs.netskope.com/en/data-loss-prevention-profiles-for-private-app-segments/
 **Last Modified:** 2026-09-22T23:01:00+00:00
-**Scraped:** 2026-10-27T12:20:36.937156+00:00
+**Scraped:** 2026-10-28T12:49:40.963665+00:00
 
 Data Loss Prevention Profiles for Private App Segments - Netskope Technical Documentation
 Data Loss Prevention Profiles for Private App Segments
@@ -11143,7 +10416,7 @@ Data Loss Prevention Profiles for Private App Segments
 ## Endpoint DLP Outlook Plugin for Email DLP
 **URL:** https://docs.netskope.com/en/endpoint-dlp-outlook-plugin-for-email-dlp/
 **Last Modified:** 2026-09-25T21:53:54+00:00
-**Scraped:** 2026-10-27T12:20:50.696608+00:00
+**Scraped:** 2026-10-28T12:49:56.031892+00:00
 
 Endpoint DLP Outlook Plugin for Email DLP - Netskope Technical Documentation
 Endpoint DLP Outlook Plugin for Email DLP
@@ -11237,7 +10510,7 @@ Endpoint DLP Outlook Plugin for Email DLP
 ## Configuring AI File Classification and Entity Detection for DLP On Demand
 **URL:** https://docs.netskope.com/en/configuring-ai-file-classification-and-entity-detection-for-dlp-on-demand/
 **Last Modified:** 2026-10-19T09:55:17+00:00
-**Scraped:** 2026-10-27T12:21:41.265751+00:00
+**Scraped:** 2026-10-28T12:50:48.485151+00:00
 
 Configuring AI File Classification and Entity Detection for DLP On Demand - Netskope Technical Documentation
 Configuring AI File Classification and Entity Detection for DLP On Demand
@@ -11447,11 +10720,816 @@ In this Topic
 Configuring AI File Classification and Entity Detection for DLP On Demand
 
 ---
+## Exact Data Match Module
+**URL:** https://docs.netskope.com/en/exact-data-match-module/
+**Last Modified:** 2026-10-27T18:30:10+00:00
+**Scraped:** 2026-10-28T12:51:24.393019+00:00
+
+Exact Data Match Module - Netskope Technical Documentation
+Exact Data Match Module
+The Exact Data Match (EDM) module is a part of Cloud Exchange’s Data Protection (DLP) suite, designed to help organizations protect structured sensitive data. It works by generating cryptographic hashes of structured data (like from CSV files or database queries) and securely shares these hashes with the Netskope Tenant. These hashes are used to create real-time DLP policies that prevent sensitive data from leaving your network.
+The module is designed exclusively for deployment within Standalone containers on RHEL and Ubuntu systems and is not supported on medium stack instances or high-availability (HA) clusters. These deployment restrictions are now enforced.
+For optimal operation, the Exact Data Match module should be utilized in an isolated environment. Enabling the Exact Data Match module precludes the simultaneous use of additional modules.
+To enable the
+Exact Data Match
+module, you must first disable
+CLS, CTO, CTE and CRE
+(if enabled) modules by navigating to
+Settings
+>
+General
+. The
+CLS, CTO, CTE and CRE
+modules are not supported
+simultaneously
+with
+Exact Data Match
+or
+Custom File Classification
+.
+Important
+For existing deployments undergoing upgrade or migration, the current state of the Exact Data Match module is preserved. If the module is already enabled, it will remain enabled after the upgrade. However, when the Exact Data Match module is disabled on Medium stack or HA deployments, it cannot be re-enabled.
+In Cloud Exchange, go to
+Settings > General
+and enable the Exact Data Match (EDM) module.
+Click play to learn how to set up Exact Data Match.
+Exact Data Match Global Settings
+A
+write-access
+user can change the Exact Data Match settings.
+Go to
+Settings > Exact Data Match
+. Sensitive metadata collected from different sources are preserved for 7 days, by default. The file metadata that are older than the number of days specified will be deleted during the automatic cleanup.
+You can change the time duration to keep the metadata per your requirements. When finished, click
+Save
+.
+Configure 3rd-party Exact Data Match Plugins
+Configure Exact Data Match Sharing
+View Configured Exact Data Match Plugins
+Update Configured Exact Data Match Plugins
+Exact Match For Manual Upload
+In this Topic
+Exact Data Match Module
+
+---
+## Configure 3rd-party Exact Data Match Plugins
+**URL:** https://docs.netskope.com/en/configure-3rd-party-exact-data-match-plugins/
+**Last Modified:** 2026-10-27T18:32:52+00:00
+**Scraped:** 2026-10-28T12:51:35.361835+00:00
+
+Configure 3rd-party Exact Data Match Plugins - Netskope Technical Documentation
+Configure 3rd-party Exact Data Match Plugins
+Only
+admins
+and
+write-access
+users can configure 3rd-party Exact Data Match plugins. Exact Data Match comes with a library of supported plugins. Plugins can be easily configured to collect and share Exact Data Match hashes of structured data by following the plugin guide.
+You can also disable, enable, or delete existing plugin configurations. Exact Data Match can be configured with multiple plugins to the same system for different workflows from either the same Netskope tenant or multiple Netskope tenants.
+Exact Data Match only pulls and generates EDM (Exact Data Match) hashes of CSV and database queries.
+MySQL Plugin for Exact Data Match
+OracleDB Plugin for Exact Data Match
+SMB File Share Plugin for Exact Data Match
+Linux File Share Plugin for Exact Data Match
+Microsoft File Share Plugin for Exact Data Match
+Microsoft SQL Plugin for Exact Data Match
+Netskope EDM Forwarder/Receiver Plugin for Exact Data Match
+In this Topic
+Configure 3rd-party Exact Data Match Plugins
+
+---
+## Exact Data Match Plugin
+**URL:** https://docs.netskope.com/en/exact-data-match-plugin/
+**Last Modified:** 2026-10-27T18:32:46+00:00
+**Scraped:** 2026-10-28T12:51:39.005825+00:00
+
+Exact Data Match Plugin - Netskope Technical Documentation
+Exact Data Match Plugin
+This document explains how to configure the Netskope EDM Plugin v1.0.0 in the Cloud Exchange platform. This plugin is used to push EDM File Hashes generated through a configured EDM plugin to a Netskope Tenant.
+This plugin operates in push mode only and is intended solely for use as a destination in data-sharing configurations.
+Prerequisites
+To complete this configuration, you need:
+A Netskope tenant (or multiple, for example, production and development/test instances) that is already configured in Cloud Exchange with permission to generate V2 (RBACv3) tokens.
+A Netskope Cloud Exchange tenant with the
+Tenant plugin
+configured and the
+Exact Data Match module
+enabled.
+A supported third-party EDM plugin (like
+Microsoft File Share
+) configured and available for integration.
+Exact Data Match Plugin Scope
+This plugin is used to push EDM File Hashes to the Netskope Tenant.
+Permissions
+Ensure that a V2 (RBACv3) token with the appropriate Role is used when configuring the Netskope Tenant, as it is required for the proper functioning of the Netskope EDM Plugin.
+API Endpoint
+Method
+Permission
+/api/v2/events/dataexport/events/alert
+GET
+Read
+/api/v2/services/dlp/edm/file/apply
+POST
+Read + Write
+/api/v2/services/dlp/edm/file/staging
+POST
+Read + Write
+API Details
+List of APIs Used
+API Endpoint
+Method
+Permission
+/api/v2/events/dataexport/events/alert
+GET
+Read
+/api/v2/services/dlp/edm/file/apply
+POST
+Read + Write
+/api/v2/services/dlp/edm/file/staging
+POST
+Read + Write
+Validate the V2 Token
+API Endpoint
+:
+https://<tenant-url>
+/api/v2/events/dataexport/events/alert
+Method:
+GET
+Application Headers
+Key
+Value
+Netskope-API-Token
+<netskope_api_v2_token>
+User-Agent
+netskope-ce-6.0.0
+Example API response
+{
+  "result": [
+    {
+      "CononicalName": "string",
+      "_id": "string",
+      "access_method": "string",
+      "account_id": "string",
+      "account_name": "string",
+      "acked": "string",
+      "action": "string",
+      "activity": "string",
+      "alert": "string",
+      "alert_id": "string",
+      "alert_name": "string",
+      "alert_type": "string",
+      "app": "string",
+      "app_activity": "string",
+      "app_session_id": 0,
+      "appcategory": "string",
+      "appsuite": "string",
+      "asset_id": "string",
+      "asset_object_id": "string",
+      "breach_date": 0,
+      "breach_description": "string",
+      "breach_id": "string",
+      "breach_media_references": "string",
+      "breach_score": "string",
+      "breach_target_references": "string",
+      "browser": "string",
+      "browser_session_id": 0,
+      "browser_version": "string",
+      "bypass_traffic": "string",
+      "category": "string",
+      "cci": 0,
+      "ccl": "string",
+      "client_bytes": 0,
+      "compliance_standards": [
+        "string"
+      ],
+      "conn_duration": 0,
+      "conn_endtime": 0,
+      "conn_starttime": 0,
+      "connection_id": 0,
+      "count": 0,
+      "data_type": "string",
+      "device": "string",
+      "device_classification": "string",
+      "dlp_file": "string",
+      "dlp_incident_id": 0,
+      "dlp_is_unique_count": "string",
+      "dlp_mail_parent_id": "string",
+      "dlp_parent_id": 0,
+      "dlp_profile": "string",
+      "dlp_rule": "string",
+      "dlp_rule_count": 0,
+      "dlp_rule_severity": "string",
+      "dlp_unique_count": 0,
+      "domain": "string",
+      "dst_country": "string",
+      "dst_geoip_src": 0,
+      "dst_latitude": 0,
+      "dst_location": "string",
+      "dst_longitude": 0,
+      "dst_region": "string",
+      "dst_timezone": "string",
+      "dst_zipcode": "string",
+      "dsthost": "string",
+      "dstip": "string",
+      "dstport": 0,
+      "email_source": "string",
+      "event_type": "string",
+      "evt_src_chnl": "string",
+      "exposure": "string",
+      "external_collaborator_count": 0,
+      "external_email": 0,
+      "file_cls_encrypted": true,
+      "file_lang": "string",
+      "file_path": "string",
+      "file_size": 0,
+      "file_type": "string",
+      "from_user": "string",
+      "fromlogs": "string",
+      "hostname": "string",
+      "http_transaction_count": 0,
+      "iaas_asset_tags": [
+        "string"
+      ],
+      "iaas_remediated": "string",
+      "instance": "string",
+      "instance_id": "string",
+      "internal_collaborator_count": 0,
+      "justification_reason": "string",
+      "justification_type": "string",
+      "last_app": "string",
+      "last_country": "string",
+      "last_device": "string",
+      "last_location": "string",
+      "last_region": "string",
+      "last_timestamp": 0,
+      "log_file_name": "string",
+      "malicious": "string",
+      "malsite_category": [
+        "string"
+      ],
+      "malsite_country": "string",
+      "malsite_id": "string",
+      "malsite_ip_host": "string",
+      "malsite_latitude": 0,
+      "malsite_longitude": 0,
+      "malsite_region": "string",
+      "managed_app": "string",
+      "managementID": "string",
+      "matched_username": "string",
+      "md5": "string",
+      "mime_type": "string",
+      "modified": 0,
+      "netskope_activity": "string",
+      "netskope_pop": "string",
+      "notify_template": "string",
+      "nsdeviceuid": "string",
+      "numbytes": 0,
+      "object": "string",
+      "object_id": "string",
+      "object_type": "string",
+      "org": "string",
+      "organization_unit": "string",
+      "orig_ty": "string",
+      "orignal_file_path": "string",
+      "os": "string",
+      "os_version": "string",
+      "other_categories": [
+        "string"
+      ],
+      "outer_doc_type": 0,
+      "owner": "string",
+      "page": "string",
+      "page_site": "string",
+      "parent_id": "string",
+      "password_type": "string",
+      "policy": "string",
+      "policy_actions": [
+        "string"
+      ],
+      "policy_id": "string",
+      "profile_id": "string",
+      "protocol": "string",
+      "referer": "string",
+      "region_id": "string",
+      "region_name": "string",
+      "req_cnt": 0,
+      "request_id": 0,
+      "resource_category": "string",
+      "resource_group": "string",
+      "resp_cnt": 0,
+      "sAMAccountName": "string",
+      "sa_profile_id": 0,
+      "sa_profile_name": "string",
+      "sa_rule_id": "string",
+      "sa_rule_name": "string",
+      "sa_rule_severity": "string",
+      "sanctioned_instance": "string",
+      "scan_type": "string",
+      "serial": "string",
+      "server_bytes": 0,
+      "sessionid": "string",
+      "severity": "string",
+      "severity_level": "string",
+      "severity_level_id": 0,
+      "sfwder": "string",
+      "sha256": "string",
+      "shared_domains": "string",
+      "shared_with": "string",
+      "site": "string",
+      "src_country": "string",
+      "src_geoip_src": 0,
+      "src_latitude": 0,
+      "src_location": "string",
+      "src_longitude": 0,
+      "src_region": "string",
+      "src_time": "string",
+      "src_timezone": "string",
+      "src_zipcode": "string",
+      "srcip": "string",
+      "suppression_end_time": 0,
+      "suppression_key": "string",
+      "suppression_start_time": 0,
+      "telemetry_app": "string",
+      "threat_match_field": "string",
+      "threat_match_value": "string",
+      "threat_source_id": 0,
+      "threshold": 0,
+      "threshold_time": 0,
+      "timestamp": 0,
+      "title": "string",
+      "to_object": "string",
+      "total_collaborator_count": 0,
+      "traffic_type": "string",
+      "transaction_id": 0,
+      "true_obj_category": "string",
+      "true_obj_type": "string",
+      "tss_mode": "string",
+      "two_factor_auth": "string",
+      "type": "string",
+      "universal_connector": "string",
+      "ur_normalized": "string",
+      "url": "string",
+      "user": "string",
+      "userPrincipalName": "string",
+      "user_generated": "string",
+      "user_id": "string",
+      "useragent": "string",
+      "userip": "string",
+      "userkey": "string",
+      "web_universal_connector": "string"
+    }
+  ]
+}
+Upload EDM Hash File to Staging
+API Endpoint
+:
+https://<tenant-url>
+/api/v2/services/dlp/edm/file/staging
+Method:
+POST
+Application Headers
+Key
+Value
+Netskope-API-Token
+<netskope_api_v2_token>
+User-Agent
+netskope-ce-6.0.0
+Content-Type
+application/json
+Request Body
+{
+  "edm_filename": "customers.csv",
+  "tgz_filename": "customers.tgz",
+  "sha1": "d6727f9b11c80631773a993c9823e60634b138b4",
+  "size": 15000,
+  "keep_staging": true,
+  "description": "This is the staging file for customers.tgz file on 2024-06-24"
+}
+Example API response
+{
+  "fileid": "4841a51417666e38760860b2c4e5b5b48627d2c4",
+  "uploadid": "MzBlZWE4Y2YtMzZmYy00MGI5LThhNDktNWU2MTk5OWI1NjAzLjBmM2Q4YmI1LTM4OTctNDY2Yy05ZjQ5LTk1N2FmZWNjYjk5NQ",
+  "part_max_size": 16000000,
+  "msg": "Optional message"
+}
+Apply Staged EDM Hash File
+API Endpoint
+:
+https://<tenant-url>
+/api/v2/services/dlp/edm/file/apply
+Method:
+POST
+Application Headers
+Key
+Value
+Netskope-API-Token
+<netskope_api_v2_token>
+User-Agent
+netskope-ce-6.0.0
+Content-Type
+application/json
+Request Body
+{
+  "fileid": fileid
+}
+Example API response
+status code: 201
+Response None
+Netskope EDM Plugin Support
+Feature
+Support
+Pull
+No
+Push
+Yes
+Performance Matrix
+Here is the performance reading conducted for pushing hashes for ~1M rows (25 columns, Per column ~30 Characters Long String, 0.3M unique values per Column) data on a Large Cloud Exchange instance with these specifications.
+Description
+Specifications
+Stack details
+Size: Large
+RAM: 32 GB
+CPU: 16 Cores
+Hashes Pushed From Source To Netskope Tenant Without Dict
+~10 minutes
+Hashes Pushed From Source To Netskope Tenant With Dict (2-3 columns)
+~14 minutes
+User Agent
+The user-agent added in this plugin is in the following format:
+netskope-ce-
+<ce_version>
+For example: netskope-ce-6.0.0
+Workflow
+Generate a v2 token for your Netskope tenant.
+Create Netskope Tenant Using V2 Auth Token.
+Configure Netskope EDM plugin.
+Configure Sharing between the EDM Third Party Plugin and the Netskope EDM Plugin.
+Check the status of the configured sharing.
+Watch a Video
+Click play to watch a video.
+Generate a V2 (RBACv3) Token
+In your Netskope tenant, go to
+Settings > Administration > Administrators & Roles > Roles.
+Click
+New
+to create a new role. Enter a Role Name and a Short Role Description. Make sure DLP is selected in the permissions section.
+Select the
+Manage And Apply
+permission for the DLP > DLP Profile.
+In Scope IT > Alerts > Manage Permission is Selected.
+Under Skope IT, select the
+Manage
+permission for Skope IT > Alerts.
+Click
+Service Account
+.
+Enter a Service Account Name.
+Select the created role for the Service Account.
+Enter an Expire time. Select from Day(s), Hour(s), Week(s), Year(s).
+Click
+Save
+and copy the token. Use this to configure the Netskope Tenant Plugin in Cloud Exchange.
+The Role with DLP permissions will be used by only the CFC and EDM Modules. For accessing and using other modules, use the role
+Netskope Cloud Exchange
+for creating a token.
+Configure Netskope EDM Plugin
+In Cloud Exchange, go to
+Settings > Plugin Store
+.
+Search for and select the
+Netskope Exact Data Match (EDM)
+plugin box.
+Enter the Basic Information:
+Configuration Name
+: Provide a name appropriate for the integration.
+Tenant Name
+: Select tenant name from the dropdown.
+Change optional details if needed:
+Enable SSL verification
+: Enable the toggle to communicate via SSL. (Default=disabled)
+Click
+Save
+.
+You will be redirected to
+Exact Data Match > Plugins
+page, where you can see the configured plugin.
+Configure Sharing between a 3rd-party EDM Plugin and the EDM Plugin
+Go to the
+Exact Data Match > Sharing
+.
+Click
+Add Sharing Configuration
+.
+Source Configuration:
+Select a configured 3rd-party plugin.
+Destination Configuration:
+Select the Netskope EDM Plugin as destination configuration.
+Target:
+The value is automatically set according to the selected Destination Configuration.
+Click
+Save
+.
+Validate the Netskope EDM Plugin
+Cloud Exchange only stores sensitive pulled data CSV files temporarily until the hash generation and upload process is completed. After that, the stored files are automatically removed.
+Monitor Status of Configured Sharing
+Go to
+Exact Data Match > Sharing and Upload Management
+. Here you’ll see a list of status for all the configured sharing.
+The status values are as follows:
+Scheduled:
+Indicates that the sharing has been configured and the pull and push operation are still waiting in the queue for processing.
+Generating Hash:
+Indicates that the generating hash process has been started. At this stage, in the background fetching > validating > sanitization (if opted for) > generating hash stages will be included.
+Uploading Hash:
+Indicates that uploading hash to the destination configuration has been started.
+Upload Completed:
+Indicates that hashes are uploaded to the destination configuration.
+Checking Apply Status:
+At this stage, checks hashing apply status to the destination configuration.
+Apply In Progress:
+This represents that the hash process is started and in progress state on the destination.
+Completed:
+Indicates that hash file has been pushed successfully to destination configuration.
+Failed:
+Indicates that the action final result failed to execute. The actions are Generating Hash/Uploading Hash/Checking Apply Status.
+Validate the Push on Netskope Tenant
+To ensure the push of EDM hashes on the Netskope Tenant from Cloud Exchange:
+Log in to your Netskope Tenant.
+Go to
+Policies > DLP
+.
+Click
+Edit Rules
+and select
+DLP Rules
+.
+On the
+Exact Match
+tab, a list of files are shown.
+Troubleshooting
+Unable to share hashes
+If you are unable to share hashes, you’ll receive an error like:
+Error response: { “message”:“You cannot consume this service” }
+What to do:
+To solve the above mentioned issue, add the following endpoints to the V2 token on the Netskope tenant.
+API Endpoint
+Permission
+/api/v2/events/dataexport/events/alert
+Read
+/api/v2/services/dlp/edm/file/staging/list
+Read
+/api/v2/services/dlp/edm/file/apply
+Read + Write
+/api/v2/services/dlp/edm/file/staging
+Read + Write
+Limitations
+The maximum size of data that a Netskope EDM hash file can hold is 8 MB. Keep this in mind while configuring the Business Rule.
+Column names in the source data should not contain special characters or spaces. Use underscores instead.
+The EDM hash file name on Netskope tenant will be the same as the configuration name provided in Cloud Exchange.
+Known Behavior
+If sharing fails at any stage (Generating Hash/Uploading Hash/Checking Apply Status), the status will be marked as
+Failed
+and detailed error logs will be available in the Logging section.
+The plugin checks the apply status of hashes on the Netskope tenant periodically. This process may take some time depending on the size of the data.
+After hashes are successfully applied on the Netskope tenant, they cannot be deleted directly from Cloud Exchange. You need to delete them from the Netskope Tenant UI.
+If we configure sharing with the Netskope EDM plugin and the file is uploaded and processed by the tenant, everything works fine. If we later change the CSV column order, or add or remove columns, the tenant will raise the error below when applying hashes to the Netskope tenant. To fix this issue, the customer must delete the previously uploaded EDM hash file from the Netskope tenant.
+In this Topic
+Exact Data Match Plugin
+
+---
+## Configure Exact Data Match Sharing
+**URL:** https://docs.netskope.com/en/configure-exact-data-match-sharing/
+**Last Modified:** 2026-10-27T18:34:23+00:00
+**Scraped:** 2026-10-28T12:51:48.740630+00:00
+
+Configure Exact Data Match Sharing
+You can create a configuration to share the Exact Data Match hashes of a file/data to the Netskope Tenant. This also facilitates hash sharing to Cloud Exchange to support isolation and/or cross region hash sharing to the Netskope Tenants.
+Go to
+Exact Data Match
+.
+Click
+Sharing
+. The Sharing configuration list is paginated with a count of 10 or less.
+Click
+Add Sharing Configuration
+.
+Select the source configuration and destination configuration. Click
+Save
+.
+Optionally, you can trigger Manual Sync for the sharing configuration.
+If needed, you can delete sharing configurations.
+Monitor the Status of Sharing Configuration
+View the hashing and upload status for Sharing Configuration to monitor their processing and ensure successful completion.  All entries with Source Type as a Plugin indicates status of the Sharing Configuration.
+Go to
+Exact Data Match > Sharing and Upload Management
+.
+The following details will be shown for the sharing configuration.
+Source:
+The name of the source plugin configuration, or the name of the manually uploaded CSV file.
+Target
+: The name of the destination plugin configuration. Currently EDM supports sharing file hashes to Netskope Tenant only, hence the target field will be fixed and cannot be updated.
+Source Type:
+Plugin
+or
+Manual
+.
+Status:
+Displays the current status of pull/push operation as following:
+Scheduled:
+Indicates that the sharing has been configured and the pull and push operation are still waiting in the queue for processing.
+Generating Hash:
+Indicates that the generating hash process has been started. At this stage, in the background
+Fetching > Validating > Sanitization (if opted for) > Generating Hash
+staged will be included.
+Uploading Hash:
+Indicates that uploading hash to the destination configuration has been started.
+Upload Completed:
+Indicates that hashes are uploaded to the Netskope Tenant for processing.
+Checking Apply Status:
+At this stage, checking the status of apply process of the hashes on the Netskope Tenant.
+Apply In Progress:
+Represents that the hash processing is started and in progress state on the Netskope Tenant.
+Completed:
+Indicates that hash file has been shared successfully to destination configuration.
+Failed:
+Indicates that the final result of the action has been failed to execute. The actions are Generating Hash/Uploading Hash/Checking Apply Status.
+Last Updated At:
+Indicates last time the status has been updated for the sharing.
+Last Shared At:
+The last time when hashes were successfully shared with the destination configuration.
+Click
+Sync
+to refresh and view the latest details in the table.
+In this Topic
+Configure Exact Data Match Sharing
+
+---
+## View Configured Exact Data Match Plugins
+**URL:** https://docs.netskope.com/en/view-configured-exact-data-match-plugins/
+**Last Modified:** 2026-10-27T18:35:01+00:00
+**Scraped:** 2026-10-28T12:51:56.050560+00:00
+
+View Configured Exact Data Match Plugins - Netskope Technical Documentation
+View Configured Exact Data Match Plugins
+Read
+and
+write-access
+users can view the list of configured plugins and the status.
+Go to
+Exact Data Match
+and click
+Plugins
+.
+A list of configured plugins is displayed in the Configured Plugins section. Each plugin configuration is displayed as a box. There can be multiple plugin configurations for each vendor, each performing a task (pulling structured data, generating EDM hashes and sharing) a different way to the same or different vendor systems.
+The following details are displayed on each box:
+Logo
+: Logo of the plugin vendor.
+Name
+: The configuration name provided while configuring that plugin.
+Status
+: Enabled or Disabled. If it is actively polling, the word
+running
+will be shown next to the arrow.
+Sync Interval
+: The interval between polls by Exact Data Match of the plugged-in system.
+Last Run
+: The last time the plugin configuration was successfully executed.
+NA
+is displayed before the first sync using that particular plugin.
+In this Topic
+View Configured Exact Data Match Plugins
+
+---
+## Configure a DLP Profile on a Netskope Tenant
+**URL:** https://docs.netskope.com/en/configure-a-dlp-profile-on-netskope-tenant-beta/
+**Last Modified:** 2026-10-27T18:35:11+00:00
+**Scraped:** 2026-10-28T12:52:00.757422+00:00
+
+Configure a DLP Profile on a Netskope Tenant - Netskope Technical Documentation
+Configure a DLP Profile on a Netskope Tenant
+To use the Custom File Classifiers trained on the Netskope Tenant, you can configure a DLP Profile that can then be used in a Real-time Protection policy.
+Log in to your Netskope Tenant and go to
+Policies > DLP
+.
+Click
+New Profile
+.
+Select a file profile from the list if required and click
+Next
+.
+In the DLP Rule or File Classifier section, select classifiers that were used in your Custom File Classification Sharing configuration. These custom file classifiers will be present in the Custom Self-Trained File Classifiers section. Click
+Next
+.
+Enter a DLP Profile Name and click
+Save
+.
+To use the created DLP profile, click
+Apply Changes
+and then
+Apply
+.
+Go
+here
+to create a Real-time Protection policy using this DLP profile.
+In this Topic
+Configure a DLP Profile on a Netskope Tenant
+
+---
+## Configure a Real-time Protection Policy using a DLP Profile on a Netskope Tenant
+**URL:** https://docs.netskope.com/en/configure-a-real-time-protection-policy-using-the-dlp-profile-on-netskope-tenant-beta/
+**Last Modified:** 2026-10-27T18:35:13+00:00
+**Scraped:** 2026-10-28T12:52:01.940993+00:00
+
+Configure a Real-time Protection Policy using a DLP Profile on a Netskope Tenant - Netskope Technical Documentation
+Configure a Real-time Protection Policy using a DLP Profile on a Netskope Tenant
+This policy configuration is just an example of how the File Hashes sent from Netskope Cloud Exchange can be utilized for Real-Time Protection. Modify as appropriate for your organization and use case. Create a
+DLP Profile
+before proceeding.
+In your Netskope Tenant, go to
+Policies > Real-time Protection
+.
+Click
+New Policy
+and then select
+DLP
+.
+For Source, leave the default as
+User = All Users
+.
+Enter the destination information. Select
+Cloud App
+in the
+Category
+dropdown.
+Search for and select
+Google Drive
+in the
+Cloud App
+dropdown.
+Select
+Upload
+and
+Download
+for the
+Activities
+.
+For
+Profile & Action
+, select
+Block
+for the
+Action
+.
+Keep the Template default.
+Click
+Add Profile
+and select
+DLP Profile
+.
+In the DLP Profile dropdown, search for and select the profile you created previously.
+Enter a Policy Name.
+Select
+Default
+for Group and click
+Save
+.
+Set the position for the policy as
+To the top
+and click
+Save
+.
+To use this policy, click
+Apply Changes
+, enter a comment and click
+Apply
+.
+In this Topic
+Configure a Real-time Protection Policy using a DLP Profile on a Netskope Tenant
+
+---
+## Update Configured Exact Data Match Plugins
+**URL:** https://docs.netskope.com/en/update-configured-exact-data-match-plugins/
+**Last Modified:** 2026-10-27T18:37:01+00:00
+**Scraped:** 2026-10-28T12:52:04.287975+00:00
+
+Update Configured Exact Data Match Plugins - Netskope Technical Documentation
+Update Configured Exact Data Match Plugins
+A
+write-access
+users can update configured plugins.
+You can edit, disable/enable, and delete the configuration using the Edit icon (pencil), the Disable icon (circle and slash), or the Delete icon (trash can).
+Edit
+Enable/Disable
+Delete
+In this Topic
+Update Configured Exact Data Match Plugins
+
+---
 ## Data Loss Prevention
 **URL:** https://docs.netskope.com/en/data-loss-prevention/
 **Last Modified:** 2026-02-18T21:53:34+00:00
-**Scraped:** 2026-10-27T12:21:56.089452+00:00
+**Scraped:** 2026-10-28T12:52:27.329937+00:00
 
+Data Loss Prevention - Netskope Technical Documentation
 Data Loss Prevention
 The definition of
 Data Loss Prevention
@@ -11475,7 +11553,7 @@ Data Loss Prevention
 ## DLP On Demand Appliance - Netskope Technical Documentation
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance-2/
 **Last Modified:** 2026-04-22T19:31:04+00:00
-**Scraped:** 2026-10-27T12:22:50.772022+00:00
+**Scraped:** 2026-10-28T12:53:22.294719+00:00
 
 DLP On Demand Appliance - Netskope Technical Documentation
 
@@ -11483,7 +11561,7 @@ DLP On Demand Appliance - Netskope Technical Documentation
 ## AI Security Ops - Netskope Technical Documentation
 **URL:** https://docs.netskope.com/en/ai-security-ops-dlp-agent/
 **Last Modified:** 2026-07-17T22:18:13+00:00
-**Scraped:** 2026-10-27T12:22:54.164374+00:00
+**Scraped:** 2026-10-28T12:53:25.762618+00:00
 
 AI Security Ops - Netskope Technical Documentation
 
@@ -11491,7 +11569,7 @@ AI Security Ops - Netskope Technical Documentation
 ## DLP On Demand Appliance Release Notes Version - 135.0.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-dlp-on-demand-appliance-135/
 **Last Modified:** 2026-03-30T23:51:43+00:00
-**Scraped:** 2026-10-27T12:39:45.181353+00:00
+**Scraped:** 2026-10-28T13:10:57.084239+00:00
 
 DLP On Demand Appliance Release Notes Version - 135.0.0 - Netskope Technical Documentation
 DLP On Demand Appliance Release Notes Version - 135.0.0
@@ -11504,7 +11582,7 @@ Fixed Issues
 ## DLP On Demand Appliance Release Notes Version - 135.0.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-dlp-on-demand-appliance-135/
 **Last Modified:** 2026-03-30T23:52:04+00:00
-**Scraped:** 2026-10-27T12:39:46.310046+00:00
+**Scraped:** 2026-10-28T13:10:58.332502+00:00
 
 DLP On Demand Appliance Release Notes Version - 135.0.0 - Netskope Technical Documentation
 DLP On Demand Appliance Release Notes Version - 135.0.0
@@ -11517,7 +11595,7 @@ Fixed Issues
 ## DLP On Demand Appliance Release Notes Version - 135.0.0
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance-release-notes-version-135/
 **Last Modified:** 2026-03-31T02:26:52+00:00
-**Scraped:** 2026-10-27T12:39:47.437175+00:00
+**Scraped:** 2026-10-28T13:10:59.501350+00:00
 
 DLP On Demand Appliance Release Notes Version - 135.0.0 - Netskope Technical Documentation
 DLP On Demand Appliance Release Notes Version - 135.0.0
@@ -11530,8 +11608,9 @@ Fixed Issues
 ## AI Security Ops Release Notes Version - March 2026
 **URL:** https://docs.netskope.com/en/ai-security-ops-dlp-agent-release-notes-version-136-1/
 **Last Modified:** 2026-07-17T21:10:48+00:00
-**Scraped:** 2026-10-27T12:40:15.813262+00:00
+**Scraped:** 2026-10-28T13:11:29.062025+00:00
 
+AI Security Ops Release Notes Version - March 2026 - Netskope Technical Documentation
 AI Security Ops Release Notes Version - March 2026
 Introducing the launch of the new
 Netskope AI Security Ops Agent
@@ -11556,7 +11635,7 @@ Provides comprehensive Triage, Investigate, and Respond workflows, including the
 ## DLP On Demand Appliance Release Notes Version - 139.0.0
 **URL:** https://docs.netskope.com/en/dlp-on-demand-appliance-release-notes-version-139-0-0-0-0/
 **Last Modified:** 2026-07-06T22:14:18+00:00
-**Scraped:** 2026-10-27T12:41:42.447673+00:00
+**Scraped:** 2026-10-28T13:12:58.486779+00:00
 
 DLP On Demand Appliance Release Notes Version - 139.0.0 - Netskope Technical Documentation
 DLP On Demand Appliance Release Notes Version - 139.0.0

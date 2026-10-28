@@ -1,12 +1,12 @@
 # Netskope Docs — Identity
-_Generated: 2026-10-27 12:43 UTC_
+_Generated: 2026-10-28 13:15 UTC_
 _Pages: 47_
 
 ---
 ## Integrate an Identity Provider (IdP)
 **URL:** https://docs.netskope.com/en/integrate-an-identity-provider-idp/
 **Last Modified:** 2025-08-31T01:50:48+00:00
-**Scraped:** 2026-10-27T11:33:36.828019+00:00
+**Scraped:** 2026-10-28T12:02:59.993182+00:00
 
 Integrate an Identity Provider (IdP) - Netskope Technical Documentation
 Integrate an Identity Provider (IdP)
@@ -51,7 +51,7 @@ Integrate an Identity Provider (IdP)
 ## Configure the 3rd-Party Identity Service Provider Proxy Settings
 **URL:** https://docs.netskope.com/en/configure-the-3rd-party-identity-service-provider-proxy-settings/
 **Last Modified:** 2025-09-04T02:27:26+00:00
-**Scraped:** 2026-10-27T11:46:12.167312+00:00
+**Scraped:** 2026-10-28T12:15:44.051140+00:00
 
 Configure the 3rd-Party Identity Service Provider Proxy Settings - Netskope Technical Documentation
 Configure the 3rd-Party Identity Service Provider Proxy Settings
@@ -68,7 +68,7 @@ Configure the 3rd-Party Identity Service Provider Proxy Settings
 ## Configure the SAML Proxy in the Netskope UI
 **URL:** https://docs.netskope.com/en/configure-the-saml-proxy-in-the-netskope-ui/
 **Last Modified:** 2025-09-04T02:26:57+00:00
-**Scraped:** 2026-10-27T11:46:14.491937+00:00
+**Scraped:** 2026-10-28T12:15:46.390270+00:00
 
 Configure the SAML Proxy in the Netskope UI - Netskope Technical Documentation
 Configure the SAML Proxy in the Netskope UI
@@ -135,7 +135,7 @@ Configure the SAML Proxy in the Netskope UI
 ## SAML Reverse Proxy Global Settings
 **URL:** https://docs.netskope.com/en/saml-reverse-proxy-global-settings/
 **Last Modified:** 2025-09-04T02:25:24+00:00
-**Scraped:** 2026-10-27T11:46:52.513911+00:00
+**Scraped:** 2026-10-28T12:16:24.641738+00:00
 
 SAML Reverse Proxy Global Settings - Netskope Technical Documentation
 SAML Reverse Proxy Global Settings
@@ -164,8 +164,9 @@ SAML Reverse Proxy Global Settings
 ## SAML Reverse Proxy
 **URL:** https://docs.netskope.com/en/saml-reverse-proxy/
 **Last Modified:** 2025-09-04T02:24:46+00:00
-**Scraped:** 2026-10-27T11:46:54.852306+00:00
+**Scraped:** 2026-10-28T12:16:26.954859+00:00
 
+SAML Reverse Proxy - Netskope Technical Documentation
 SAML Reverse Proxy
 Netskope SAML proxy is required to direct the cloud app by your company to the reverse proxy running in your tenant in the Netskope cloud. If you use Netskope Client,  the traffic is redirected directly to the Netskope Cloud,
 When an end user goes to a SaaS application, the traffic to an SSO system like Okta, Ping Identity, OneLogin, etc. is directed via SAML  for user authentication. Once the user is authenticated, traffic from the Netskope reverse proxy engine is used for deep analysis.
@@ -181,9 +182,8 @@ SAML Reverse Proxy
 ## User Identity Methods for IPSec and GRE Tunnels
 **URL:** https://docs.netskope.com/en/user-identity-methods-for-ipsec-and-gre-tunnels-432170/
 **Last Modified:** 2026-05-26T19:48:17+00:00
-**Scraped:** 2026-10-27T11:46:58.392213+00:00
+**Scraped:** 2026-10-28T12:16:30.948701+00:00
 
-User Identity Methods for IPSec and GRE Tunnels - Netskope Technical Documentation
 User Identity Methods for IPSec and GRE Tunnels
 To steer tunnel traffic and identify users, you can use one of the following methods:
 Configuring the Netskope Client
@@ -392,9 +392,8 @@ User Identity Methods for IPSec and GRE Tunnels
 ## User Identity Methods for IPSec and GRE Tunnels
 **URL:** https://docs.netskope.com/en/user-identity-methods-for-ipsec-and-gre-tunnels/
 **Last Modified:** 2026-05-28T18:12:35+00:00
-**Scraped:** 2026-10-27T11:46:59.563259+00:00
+**Scraped:** 2026-10-28T12:16:32.116917+00:00
 
-User Identity Methods for IPSec and GRE Tunnels - Netskope Technical Documentation
 User Identity Methods for IPSec and GRE Tunnels
 To steer tunnel traffic and identify users, you can use one of the following methods:
 Configuring the Netskope Client
@@ -603,7 +602,7 @@ User Identity Methods for IPSec and GRE Tunnels
 ## Add an Azure AD Account in Netskope SAML – Forward Proxy
 **URL:** https://docs.netskope.com/en/add-an-azure-ad-account-in-netskope-saml-forward-proxy/
 **Last Modified:** 2025-09-01T13:15:50+00:00
-**Scraped:** 2026-10-27T11:47:08.012567+00:00
+**Scraped:** 2026-10-28T12:16:39.264930+00:00
 
 Add an Azure AD Account in Netskope SAML – Forward Proxy - Netskope Technical Documentation
 Add an Azure AD Account in Netskope SAML – Forward Proxy
@@ -632,7 +631,7 @@ Add an Azure AD Account in Netskope SAML – Forward Proxy
 ## Bypass SAML Forward Proxy Authentication Methods
 **URL:** https://docs.netskope.com/en/bypass-saml-forward-proxy-authentication-methods/
 **Last Modified:** 2025-08-31T01:55:21+00:00
-**Scraped:** 2026-10-27T11:47:22.540734+00:00
+**Scraped:** 2026-10-28T12:16:52.573393+00:00
 
 Bypass SAML Forward Proxy Authentication Methods - Netskope Technical Documentation
 Bypass SAML Forward Proxy Authentication Methods
@@ -655,447 +654,10 @@ In this Topic
 Bypass SAML Forward Proxy Authentication Methods
 
 ---
-## Cloud Exchange SSO with Entra ID
-**URL:** https://docs.netskope.com/en/cloud-exchange-sso-with-entra-id/
-**Last Modified:** 2026-03-21T01:16:51+00:00
-**Scraped:** 2026-10-27T11:47:29.726893+00:00
-
-Cloud Exchange SSO with Entra ID - Netskope Technical Documentation
-Cloud Exchange SSO with Entra ID
-This article explains how to configure Single-Sign-On (SSO) for the Netskope Cloud Exchange (CE) platform, specifically for Entra ID. This will allow you to manage administrator access to CE from within your existing Identity Provider (IdP) rather than configuring administrators within the platform manually.
-Cloud Exchange is different from the standard Netskope tenant you would have access to as a customer and facilitates the exchange of information between your various security and operations platforms.
-Click play to watch a video.
-Create a New Enterprise Application
-Go to the Entra ID
-portal
-and sign in using your Entra ID account with sufficient permissions, like an Application Developer role.
-Go to
-Enterprise applications
-.
-Go to
-Manage > All applications
-and click
-New application
-.
-The Browse Microsoft Entra Gallery pane opens and displays tiles for cloud platforms, on-premises applications, and featured applications. Applications listed in the Featured Applications section have icons indicating whether they support federated single sign-on (SSO) and provisioning. Search for
-Netskope Cloud Exchange Administration Console
-and select the application.
-Enter a name that you want to use to recognize the instance of the application. For example,
-Netskope Cloud Exchange Administration Console – SSO
-.
-Click
-Create
-. Note that the gallery can sometimes have a quirk where it returns an error when you click the
-Create
-button. Your application should have been created, even if you get this error. If you encounter this issue, return to the Enterprise Applications view and click the Refresh button. You should see your
-Netskope Cloud Exchange
-app appear in the list.
-Copy the Cloud Exchange SSO Information
-Log in to Cloud Exchange using the admin (super administrator) account, go to
-Settings > Users
-(this settings area will only be visible to the admin user).
-Select the
-SSO Configuration
-tab and toggle the
-SSO
-toggle
-ON
-(make sure you save this configuration).
-Note the Service Provider fields at the bottom of the screen. The image below shows which URL should be used for which SAML configuration field in Entra ID.
-Create Roles in Entra ID
-Users can be assigned Read/Write or just Read access to the Cloud Exchange UI based on the roles assigned to them: Admin (read/write access), Read-Only, or the custom admin with module-specific rights. You need to create these roles in Entra ID so that they can be assigned to users who use Cloud Exchange.
-Note
-If you don’t create and map these roles, SSO will fail.
-Return to the main Entra ID page (ensure you are NOT within the
-Enterprise Applications
-page). Select
-App registrations
-from the left-side menu, click
-All applications
-, and then select the
-Netskope Cloud Exchange
-app from the list.
-Click
-App Roles
-in the left panel, and then click
-Create app role
-. You need to create two roles: One for the Admin user role and one for the Read-Only user role.
-Create the Admin role as follows:
-For Display name, enter CE-Admin (this can be whatever you like).
-For Allowed member types, select the first option: Users/Groups.
-For Value, enter
-netskope-ce-write;netskope-ce-read
-. Ensure you copy/paste this exactly.
-For Description, enter
-Provide the user with read/write access to Cloud Exchange
-. Ensure that the
-Do you want to enable this app role?
-option is checked.
-Create the Read-Only role as follows:
-For Display name, enter CE-ReadOnly (this can be whatever you like).
-For Allowed member types, select the first option: Users/Groups.
-For Value, enter
-netskope-ce-read
-. Ensure you copy/paste this exactly.
-For Description, enter
-Provide the user with read-only access to Cloud Exchange
-. Ensure that the
-Do you want to enable this app role?
-option is checked.
-Click
-Save
-. You’re finished configuring the App Roles.
-Configure the Cloud Exchange Enterprise App in Entra ID
-From the Entra ID main menu, return to the Enterprise Applications list and select
-Netskope Cloud Exchange
-.
-In the left panel, click
-Single sign-on
-, and then select
-SAML
-when prompted.
-Provide the SAML Configuration
-Under Basic SAML Configuration, click
-Edit
-. Enter the Service Provider URLs from the Cloud Exchange SSO Configuration page to the appropriate Entra ID SAML configuration fields. See the tables below for mappings.
-Entra ID SAML Field
-Cloud Exchange Field
-Identifier (Entity ID)
-Service Provider Entity ID
-Reply URL (Assertion Consumer Service URL)
-Service Provider ACS URL
-Sign on URL
-Service Provider ACS URL
-Relay State
-N/A – Leave Blank
-Logout URL
-Service Provider SLS URL
-The
-Reply URL
-and
-Sign-on URL
-in Entra ID both use the Service Provider ACS URL from the Cloud Exchange portal. The
-Relay State
-field in Entra ID should be left blank.
-Click
-Save
-.
-Add Claims for Roles and Username
-Click
-Edit
-, and in the
-Attributes & Claims
-, click
-Add new claim
-.
-Add a new claim as follows:
-For Name, enter
-roles
-. Enter this exactly. Leave
-Namespace
-blank.
-For Source, ensure Attribute is selected (default).
-For Source attribute, select user.assignedroles from the dropdown list.
-Click
-Save
-to add the claim.
-Repeat the process to add a second role:
-For Name, enter
-username
-. Enter this exactly, Leave
-Namespace
-blank.
-For Source, ensure Attribute is selected (default).
-For Source attribute, select user.mail from the dropdown list. Click
-Save
-to add the claim.
-Once you’ve added the two new claims, your Attributes & Roles should look as follows:
-Download the SAML Signing Certificate
-Back on the SAML configuration page, scroll down to SAML Signing Certificate, and click to download the Base certificate.
-Copy the Entra ID Application URLs
-Under Set up Netskope Cloud Exchange, copy the Login URL, Logout URL, and Entra ID Identifier URL. You will need to paste these into the Cloud Exchange UI in the next section.
-The last step to perform in Entra ID is to assign users and/or groups to the Cloud Exchange app to provide them with access. We will also assign either the
-Read-Only
-or
-Admin
-roles we created earlier to these users/groups to grant them the appropriate permissions within Cloud Exchange.
-From the left panel in the Cloud Exchange Enterprise Application, select
-Users and groups
-, and then click
-Add user/group
-.
-Select the users and/or groups that are permitted to use the Cloud Exchange application. You must also assign a role to the selected users/groups, like CE-Admin (read/write), or CE-ReadOnly (read-only).
-Caution
-If you do not assign a role, SSO will fail when the user attempts to sign in. Also, DO NOT assign the default role you see in the list; this will also cause SSO to fail. You must only use the roles that you explicitly created in Entra ID.
-After assigning users/groups and applicable roles, your user/group list should look similar to this:
-Finish the SSO Configuration in Cloud Exchange
-Return to Cloud Exchange and go to
-Settings > Users > SSO Configuration
-.
-Enter the app URLs for the Identity Provider URL fields in the Cloud Exchange SSO configuration. Paste the corresponding Entra ID Application URLs you copied when configuring SAML on the Entra ID side. See the table below for mappings:
-Cloud Exchange Field
-Entra ID SAML Config Field
-Identity Provider Issuer URL
-Entra ID Identifier URL
-Identity provider SSO URL
-Login URL
-Identity provider SLO URL
-Logout URL
-Enter the SAML Signing Certificate. Open the Base SAML Signing Certificate you downloaded from Entra ID earlier in a text editor, such as Notepad or TextEdit. Don’t use MS Word. The certificate will have a .cer extension.
-Copy the contents of the certificate file into the Public x509 Certificate field in the Cloud Exchange SSO config (see the image above).
-Click
-Save
-.
-Test the SSO Configuration
-Open a new Incognito window (to avoid any potential issues with caching) and point your browser to the URL of your Cloud Exchange deployment.
-If you enabled the SSO checkbox as instructed earlier this guide, you will two options when connecting to Cloud Exchange:
-Log in with SSO.
-Log in with Username/Password.
-The SSO option is used for local login (like a default admin user, or any user manually added to the user list in CE).
-Select
-Login with SSO
-. You should be redirected to Entra ID to sign in.
-Upon entering your user credentials, you should be authenticated and redirected to the Cloud Exchange interface. In the example below, the Adele user was assigned the
-CE-ReadOnly
-role, so almost all of the
-Settings
-menu is hidden.
-Troubleshooting SSO for Cloud Exchange with Entra ID
-If you are having issues signing in, first look at which platform is giving you an error: Entra ID, or Cloud Exchange? If the error you see is from Entra ID, then there is likely an issue with your configuration on the Entra ID side. Double-check your URLs and/or whether the user you are attempting to sign in as is assigned to the application (or present in the group assigned to the app).
-In the image below, my
-nathan@lightwave.cloud
-user was unable to sign in, as they were not assigned to the application in Entra ID.
-If you are getting an error from Cloud Exchange, then you likely have incorrect URLs entered into either CE or Entra ID, not added the custom username and roles claims in Entra ID, or not assigned any roles to the user you are signing in as.
-If you get the error {“detail”:”Method Not Allowed”}, check that the URLs copied into both Entra ID and Cloud Exchange are correct and in the right place.
-If you get the error {“detail”:”Could not authenticate. username/roles attribute not set.”}, then check that you added the username and roles claims in the SAML config, AND assigned roles correctly to users when you added them to the Enterprise Application in Entra ID.
-If you pass SSO fine but receive a red Error while fetching data message in CE, then there is a problem with the role you have assigned to the user. Ensure you entered
-netskope-ce-write;netskope-ce-read
-as the attribute for the Admin role (CE-Admin) and
-netskope-ce-read
-as the attribute for the Read-Only role (CE-ReadOnly). Additionally, check that you have assigned one of these roles to your impacted user. You may also get this error if the default User role is assigned.
-In this Topic
-Cloud Exchange SSO with Entra ID
-
----
-## Cloud Exchange SSO with Okta
-**URL:** https://docs.netskope.com/en/cloud-exchange-sso-with-okta/
-**Last Modified:** 2025-10-31T02:26:43+00:00
-**Scraped:** 2026-10-27T11:47:30.904443+00:00
-
-Cloud Exchange SSO with Okta
-This article explains how to configure Single-Sign-On (SSO) for the Netskope Cloud Exchange (CE) platform, specifically for Okta. This allows you to manage administrator access to CE from within your existing Identity Provider (IdP) rather than configuring administrators within the platform manually.
-Cloud Exchange is different from the standard Netskope tenant you would have access to as a customer and facilitates the exchange of information between your various security and operations platforms.
-Watch a Video
-Click play to watch a video.
-Copy the Cloud Exchange SSO Information
-Log in to Cloud Exchange using the admin (super administrator) user and go to
-Settings > Users
-(this settings area will only be visible to the admin user).
-Select the
-SSO Configuration
-tab and toggle the
-SSO
-toggle
-ON
-(make sure you save this configuration). Copy the Service Provider Entity ID and Service Provider ACS URL fields. The image below shows which URL should be used for which configuration field in Okta.
-Configure an Okta SAML Integration
-Go back to your Okta console and configure these settings.
-For the first two Service Provider URL fields in the Cloud Exchange SSO configuration, paste the corresponding URL into the appropriate field in Okta. Refer the table below for mapping:
-Service Provider Entity ID
-Audience URL (SP Entity ID)
-Service Provider ACS URL
-Single sign-on URL
-Service Provider SLS URL
-N/A – Not used
-Set the Name ID Format
-Ensure you change the Name ID Format in Okta from
-Unspecified
-to
-EmailAddress
-.
-Finish the SAML Configuration
-When you are done, scroll to the bottom of the page and click
-Next
-. Check the box
-This is an internal app that we have created
-and click
-Finish
-.
-On the next page, click
-View SAML Setup Instructions
-inside the yellow box under the
-Sign On
-tab.
-A new tab opens containing the IdP SSO URL, IdP Issuer, and certificate that you need to copy to later enter into the Cloud Exchange console.
-Leave this tab open for now as we still have some configuration left to do in Okta.
-Add Additional Attributes
-Go to
-Sign On
-, and under the
-Attribute Statements
-section, click
-Show legacy configuration
-, then select
-Edit
-for
-Profile attribute statements
-.
-Add two additional attribute statements to the Okta configuration:
-username
-: Set the value to
-user.email
-.
-roles
-: Set the value to
-appuser.roles
-(you’ll need to type this manually, as it won’t appear in the dropdown list)
-Create the Roles Attribute in Okta
-Users can be assigned Read/Write or just Read access to the Cloud Exchange UI based on one of three roles assigned to them: Admin (read/write access), Read-Only, and Custom admin. You need to create the roles attribute in Okta so that it can be used and assigned to the groups of IT admins who will use Cloud Exchange.
-Go to
-Directory > Profile Editor
-from the left panel and select the
-Netskope Cloud Exchange User
-profile.
-Here you’ll see the username attribute added when you completed the SAML configuration, but the roles attribute is nowhere to be found, so we need to create it manually.
-Click
-Add Attribute
-.
-For
-Data type
-, select
-string
-.
-For
-Display name
-, enter
-Roles
-.
-For
-Variable name
-, enter
-roles
-(This is case-sensitive).
-For
-Description
-, enter
-Netskope Cloud Exchange Admin Roles
-.
-Enable the
-Attribute Required
-and
-Group
-options.
-Click
-Save
-.
-Configure User Groups for Cloud Exchange Access
-In your Okta console, create two groups: One for the users that will have read/write access to CE, and another for users that will have read-only access.
-Go to
-Directory > Groups
-from the left panel and select
-Add Group
-.
-Create the Read-Only and Admin Groups
-Create two groups called
-Netskope CE Read-Only
-and
-Netskope CE Admin
-.
-Assign People to the Read-Only Role
-Click the
-Netskope Cloud Exchange Read-Only
-group you created from the group list to edit the group.
-Under the People tab, click
-Assign People
-, and assign the users who will have read-only access to the CE platform. When finished, click
-Save
-.
-Select the
-Applications
-tab and click
-Assign applications
-.
-Assign the
-Netskope Cloud Exchange
-application.
-You will then be prompted to specify a role. Enter netskope-ce-read
-WARNING: You must enter this exactly or SSO will fail! This is case-sensitive.
-Select
-Save and Go Back
-to complete the configuration of the read-only groupî
-Assign People to the Admin Role
-Click the
-Netskope CE Admin
-group you created from the group list to edit the groupî
-Repeat the steps above except this time select the people who will have read/write access to the CE platform. When finished, click
-Save
-.
-When prompted to specify a role, enter
-netskope-ce-write;netskope-ce-read
-.
-WARNING: You must enter this exactly or SSO will fail! It is case sensitiveî
-Select
-Save and Go Back
-to complete the configuration of the Admin group.
-Finish the SSO Configuration in Cloud Exchange
-Return to the
-SSO Configuration
-section of the Cloud Exchange UI (
-Settings > Users > SSO Configuration
-). Here you enter the details from the Setup Instructions that you opened (in a separate tab) previously).
-For these fields in the Cloud Exchange SSO configuration, paste the corresponding information from the Okta Setup Instructions. See the table below for mapping:
-Cloud Exchange Field
-Okta Setup Instructions Field
-Identity Provider Issuer URL
-Identity Provider Issuer
-Identity provider SSO URL
-Identity Provider Single Sign-On URL
-Cloud Exchange Field
-Okta Setup Instructions Field
-Identity provider SLO URL
-Identity Provider Single Sign-On URL
-Public Certificate
-Certificate
-The SLO URL field is not needed, but cannot be blank. Copy the same URL used for the Identity provider SSO URL for this field.
-Click
-Save
-.
-Testing the SSO Configuration
-Open a new Incognito window (to avoid any potential issues with caching) and point your browser to the URL of your Cloud Exchange deployment.
-If you enabled the SSO checkbox as instructed at the beginning of this guide, you will two options when reaching Cloud Exchange:
-Log in with SSO.
-Option 2 is used for local login (the default admin user, or any user manually added to the user list in Cloud Exchange).
-Select
-Login with SSO
-. You should be redirected to Okta to sign in.
-Upon entering your user credentials you should be authenticated and redirected to the Cloud Exchange interface. In the example below, the Ben user was assigned to the
-Netskope CE Read-Only
-group, so almost all of the
-Settings
-menu is hidden.
-Troubleshooting SSO for Cloud Exchange with Okta
-If you are having issues signing in, first look at which platform is giving you an error: Okta or Cloud Exchange? If the error you are presented with is from Okta, then the issue is likely with your config on the Okta side. Double-check your URLs and/or whether the user you are attempting to sign in as is assigned to either the
-Netskope CE Read-Only
-or
-Netskope CE Admin
-groups.
-If you are getting an error from Cloud Exchange, then you have likely messed up the URLs entered into either CE or Okta, and not added the custom username and roles attributes, or not typed the name of the role correctly (ie: netskope-ce-read and netskope-ce- write;netskope-ce-read).
-If you get the error {“detail”:”Method Not Allowed”}, check that the URLs copied into both Okta and Cloud Exchange are correct and in the right place.
-If you get the error {“detail”:”Could not authenticate. username/roles attribute not set.”}, then check that you have added the username and roles claims in the SAML configî
-If you pass SSO fine, but receive a red Error while fetching data message in CE, then there is a problem with the role you have assigned to the user. Ensure you entered
-netskope-ce-write;netskope-ce-read
-as the attribute for the Admin group (Netskope CE Admin) and
-netskope-ce-read
-as the attribute for the Read-Only role (Netskope CE Read-Only)
-Additionally, check that you have assigned one of these groups to your impacted user: You may also get this error if anything else has been entered into the role field apart from the above two accepted strings
-In this Topic
-Cloud Exchange SSO with Okta
-
----
 ## Configure ADFS for Netskope SAML
 **URL:** https://docs.netskope.com/en/configure-adfs-for-netskope-saml/
 **Last Modified:** 2025-08-31T01:55:40+00:00
-**Scraped:** 2026-10-27T11:47:41.488252+00:00
+**Scraped:** 2026-10-28T12:17:08.167367+00:00
 
 Configure ADFS for Netskope SAML - Netskope Technical Documentation
 Configure ADFS for Netskope SAML
@@ -1185,7 +747,7 @@ Configure ADFS for Netskope SAML
 ## Configure ADFS for Netskope SSO Manually
 **URL:** https://docs.netskope.com/en/configure-adfs-for-netskope-sso-manually/
 **Last Modified:** 2025-08-31T01:38:38+00:00
-**Scraped:** 2026-10-27T11:47:42.662628+00:00
+**Scraped:** 2026-10-28T12:17:09.328061+00:00
 
 Configure ADFS for Netskope SSO Manually - Netskope Technical Documentation
 Configure ADFS for Netskope SSO Manually
@@ -1336,7 +898,7 @@ Configure ADFS for Netskope SSO Manually
 ## Configure ADFS for Netskope SSO using the Metadata File
 **URL:** https://docs.netskope.com/en/configure-adfs-for-netskope-sso-using-the-metadata-file/
 **Last Modified:** 2025-08-31T01:38:37+00:00
-**Scraped:** 2026-10-27T11:47:43.845282+00:00
+**Scraped:** 2026-10-28T12:17:10.490601+00:00
 
 Configure ADFS for Netskope SSO using the Metadata File - Netskope Technical Documentation
 Configure ADFS for Netskope SSO using the Metadata File
@@ -1474,7 +1036,7 @@ Configure ADFS for Netskope SSO using the Metadata File
 ## Configure an Enterprise Application in Microsoft Azure Active Directory for SAML Auth
 **URL:** https://docs.netskope.com/en/configure-an-enterprise-application-in-microsoft-azure-active-directory-for-saml-auth/
 **Last Modified:** 2025-09-01T13:15:49+00:00
-**Scraped:** 2026-10-27T11:47:47.453931+00:00
+**Scraped:** 2026-10-28T12:17:14.286747+00:00
 
 Configure an Enterprise Application in Microsoft Azure Active Directory for SAML Auth - Netskope Technical Documentation
 Configure an Enterprise Application in Microsoft Azure Active Directory for SAML Auth
@@ -1566,7 +1128,7 @@ Configure an Enterprise Application in Microsoft Azure Active Directory for SAML
 ## Configure Google IdP for Netskope SAML Forward Proxy
 **URL:** https://docs.netskope.com/en/configure-google-idp-for-netskope-saml-forward-proxy/
 **Last Modified:** 2025-08-31T01:55:36+00:00
-**Scraped:** 2026-10-27T11:47:49.784810+00:00
+**Scraped:** 2026-10-28T12:17:16.763786+00:00
 
 Configure Google IdP for Netskope SAML Forward Proxy - Netskope Technical Documentation
 Configure Google IdP for Netskope SAML Forward Proxy
@@ -1628,9 +1190,8 @@ Configure Google IdP for Netskope SAML Forward Proxy
 ## Configure Netskope SAML for ADFS
 **URL:** https://docs.netskope.com/en/configure-netskope-saml-for-adfs/
 **Last Modified:** 2025-08-31T01:55:40+00:00
-**Scraped:** 2026-10-27T11:47:55.652455+00:00
+**Scraped:** 2026-10-28T12:17:22.722407+00:00
 
-Configure Netskope SAML for ADFS - Netskope Technical Documentation
 Configure Netskope SAML for ADFS
 Log in to the Netskope UI (
 https://
@@ -1664,7 +1225,7 @@ Configure Netskope SAML for ADFS
 ## Configure Netskope SSO for ADFS
 **URL:** https://docs.netskope.com/en/configure-netskope-sso-for-adfs/
 **Last Modified:** 2025-08-31T01:38:39+00:00
-**Scraped:** 2026-10-27T11:47:59.245909+00:00
+**Scraped:** 2026-10-28T12:17:26.405994+00:00
 
 Configure Netskope SSO for ADFS - Netskope Technical Documentation
 Configure Netskope SSO for ADFS
@@ -1715,7 +1276,7 @@ Configure Netskope SSO for ADFS
 ## Configure the Netskope Plugin with SailPoint IdentityIQ
 **URL:** https://docs.netskope.com/en/configure-the-netskope-plugin-with-sailpoint-identityiq/
 **Last Modified:** 2026-10-19T07:16:10+00:00
-**Scraped:** 2026-10-27T11:48:06.580883+00:00
+**Scraped:** 2026-10-28T12:17:34.132893+00:00
 
 Configure the Netskope Plugin with SailPoint IdentityIQ - Netskope Technical Documentation
 Configure the Netskope Plugin with SailPoint IdentityIQ
@@ -1733,9 +1294,8 @@ Configure the Netskope Plugin with SailPoint IdentityIQ
 ## CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-falcon-identity-protection-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-28T00:23:50+00:00
-**Scraped:** 2026-10-27T11:48:30.281165+00:00
+**Scraped:** 2026-10-28T12:17:55.814172+00:00
 
-CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange - Netskope Technical Documentation
 CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange
 This document explains how to configure the CrowdStrike Identity Protect URE integration with the User Cloud Risk Exchange module of the Netskope Cloud Exchange platform. This integration collects user email and their scores from CrowdStrike’s Identity Protection platform to Netskope.
 Prerequisites
@@ -1913,7 +1473,7 @@ CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange
 ## Disable the Re-Sign SAML Assertion
 **URL:** https://docs.netskope.com/en/disable-the-re-sign-saml-assertion/
 **Last Modified:** 2025-08-31T01:55:01+00:00
-**Scraped:** 2026-10-27T11:48:31.440415+00:00
+**Scraped:** 2026-10-28T12:17:56.995150+00:00
 
 Disable the Re-Sign SAML Assertion - Netskope Technical Documentation
 Disable the Re-Sign SAML Assertion
@@ -1932,8 +1492,9 @@ Disable the Re-Sign SAML Assertion
 ## Enable Authentication and Configure SSO Domain Bypass Settings
 **URL:** https://docs.netskope.com/en/enable-authentication-and-configure-sso-domain-bypass-settings/
 **Last Modified:** 2025-08-31T01:55:19+00:00
-**Scraped:** 2026-10-27T11:48:34.988991+00:00
+**Scraped:** 2026-10-28T12:18:00.475698+00:00
 
+Enable Authentication and Configure SSO Domain Bypass Settings - Netskope Technical Documentation
 Enable Authentication and Configure SSO Domain Bypass Settings
 Go to
 Settings > Security Cloud Platform > Forward Proxy > Authentication
@@ -1975,7 +1536,7 @@ Enable Authentication and Configure SSO Domain Bypass Settings
 ## Get Netskope SAML Settings
 **URL:** https://docs.netskope.com/en/get-netskope-saml-settings/
 **Last Modified:** 2025-09-01T13:15:49+00:00
-**Scraped:** 2026-10-27T11:48:40.830504+00:00
+**Scraped:** 2026-10-28T12:18:06.573616+00:00
 
 Get Netskope SAML Settings - Netskope Technical Documentation
 Get Netskope SAML Settings
@@ -2005,7 +1566,7 @@ Get Netskope SAML Settings
 ## Get the Netskope SAML Settings
 **URL:** https://docs.netskope.com/en/get-the-netskope-saml-settings/
 **Last Modified:** 2025-08-31T01:55:36+00:00
-**Scraped:** 2026-10-27T11:48:43.233987+00:00
+**Scraped:** 2026-10-28T12:18:08.893001+00:00
 
 Get the Netskope SAML Settings - Netskope Technical Documentation
 Get the Netskope SAML Settings
@@ -2020,7 +1581,7 @@ Get the Netskope SAML Settings
 ## Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy
 **URL:** https://docs.netskope.com/en/netskope-explicit-proxy-for-chromebooks-with-google-saml-forward-proxy/
 **Last Modified:** 2026-10-19T07:18:25+00:00
-**Scraped:** 2026-10-27T11:49:35.845649+00:00
+**Scraped:** 2026-10-28T12:18:58.495249+00:00
 
 Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy - Netskope Technical Documentation
 Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy
@@ -2234,7 +1795,7 @@ Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy
 ## Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth
 **URL:** https://docs.netskope.com/en/netskope-forward-proxy-over-ipsec-gre-with-azure-ad-saml-auth/
 **Last Modified:** 2025-08-31T01:55:17+00:00
-**Scraped:** 2026-10-27T11:49:37.017164+00:00
+**Scraped:** 2026-10-28T12:18:59.650710+00:00
 
 Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth - Netskope Technical Documentation
 Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth
@@ -2267,7 +1828,7 @@ Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth
 ## Single Sign On with Okta
 **URL:** https://docs.netskope.com/en/sso-with-okta/
 **Last Modified:** 2025-08-31T01:38:36+00:00
-**Scraped:** 2026-10-27T11:49:53.505724+00:00
+**Scraped:** 2026-10-28T12:19:16.286085+00:00
 
 Single Sign On with Okta
 Netskope integrates with multiple third-party applications to provide a wide range of solutions. You can configure single sign-on (SSO) on the Netskope Admin Console to connect to these applications with or without authentication. Using the SSO Enabled feature in the Netskope Admin Console, you can set up forced authentication when connecting to third-party applications through Okta.
@@ -2369,7 +1930,7 @@ Single Sign On with Okta
 ## Single Sign On with Entra ID
 **URL:** https://docs.netskope.com/en/sso-with-entra-id/
 **Last Modified:** 2026-05-06T13:54:39+00:00
-**Scraped:** 2026-10-27T11:49:54.675026+00:00
+**Scraped:** 2026-10-28T12:19:17.456233+00:00
 
 Single Sign On with Entra ID
 Single Sign On with Microsoft Entra ID
@@ -2541,7 +2102,7 @@ Single Sign On with Entra ID
 ## Single Sign On with ADFS
 **URL:** https://docs.netskope.com/en/netskope-sso-with-adfs/
 **Last Modified:** 2025-08-31T01:38:37+00:00
-**Scraped:** 2026-10-27T11:49:55.855849+00:00
+**Scraped:** 2026-10-28T12:19:18.619310+00:00
 
 Single Sign On with ADFS - Netskope Technical Documentation
 Single Sign On with ADFS
@@ -2561,8 +2122,9 @@ Single Sign On with ADFS
 ## Reverse Proxy for Atlassian with Azure AD SSO
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-atlassian-with-azure-ad-sso/
 **Last Modified:** 2025-08-31T01:54:54+00:00
-**Scraped:** 2026-10-27T11:50:14.092464+00:00
+**Scraped:** 2026-10-28T12:19:36.903794+00:00
 
+Reverse Proxy for Atlassian with Azure AD SSO - Netskope Technical Documentation
 Reverse Proxy for Atlassian with Azure AD SSO
 Before using these instructions, go to
 Configure Azure AD with Atlassian Cloud SSO
@@ -2600,7 +2162,7 @@ Reverse Proxy for Atlassian with Azure AD SSO
 ## Reverse Proxy for ServiceNow with Azure AD SSO
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-servicenow-with-azure-ad-sso/
 **Last Modified:** 2025-08-31T01:54:59+00:00
-**Scraped:** 2026-10-27T11:50:18.789245+00:00
+**Scraped:** 2026-10-28T12:19:41.703078+00:00
 
 Reverse Proxy for ServiceNow with Azure AD SSO - Netskope Technical Documentation
 Reverse Proxy for ServiceNow with Azure AD SSO
@@ -2721,7 +2283,7 @@ Reverse Proxy for ServiceNow with Azure AD SSO
 ## SAML Proxy
 **URL:** https://docs.netskope.com/en/saml-proxy/
 **Last Modified:** 2025-08-31T01:55:39+00:00
-**Scraped:** 2026-10-27T11:50:21.111243+00:00
+**Scraped:** 2026-10-28T12:19:44.028925+00:00
 
 SAML Proxy - Netskope Technical Documentation
 SAML Proxy
@@ -2738,9 +2300,8 @@ SAML Proxy
 ## SSO Configuration
 **URL:** https://docs.netskope.com/en/sso-configuration/
 **Last Modified:** 2025-10-31T02:18:06+00:00
-**Scraped:** 2026-10-27T11:50:36.772940+00:00
+**Scraped:** 2026-10-28T12:19:58.665995+00:00
 
-SSO Configuration - Netskope Technical Documentation
 SSO Configuration
 An Admin can enable and disable SSO, and configure IdP settings. Also your service provider’s details are displayed on the SSO Configuration page. This workflow is explained in vendor-specific detail in the
 Okta
@@ -2794,7 +2355,7 @@ SSO Configuration
 ## SSO Access for Netskope Support
 **URL:** https://docs.netskope.com/en/sso-access-for-netskope-support/
 **Last Modified:** 2026-05-28T00:31:11+00:00
-**Scraped:** 2026-10-27T11:50:41.494575+00:00
+**Scraped:** 2026-10-28T12:20:03.582232+00:00
 
 SSO Access for Netskope Support - Netskope Technical Documentation
 SSO Access for Netskope Support
@@ -2884,7 +2445,7 @@ SSO Access for Netskope Support
 ## Test SSO via the IPSec or GRE Tunnel
 **URL:** https://docs.netskope.com/en/test-sso-via-the-ipsec-or-gre-tunnel/
 **Last Modified:** 2025-08-31T01:55:20+00:00
-**Scraped:** 2026-10-27T11:50:42.696182+00:00
+**Scraped:** 2026-10-28T12:20:04.735749+00:00
 
 Test SSO via the IPSec or GRE Tunnel - Netskope Technical Documentation
 Test SSO via the IPSec or GRE Tunnel
@@ -2917,7 +2478,7 @@ Test SSO via the IPSec or GRE Tunnel
 ## Enable SAML Authentication on the DPoP Appliance
 **URL:** https://docs.netskope.com/en/enable-saml-authentication-on-dpop-appliance/
 **Last Modified:** 2026-08-18T17:14:12+00:00
-**Scraped:** 2026-10-27T11:56:21.071374+00:00
+**Scraped:** 2026-10-28T12:25:42.236639+00:00
 
 Enable SAML Authentication on the DPoP Appliance - Netskope Technical Documentation
 Enable SAML Authentication on the DPoP Appliance
@@ -2944,7 +2505,7 @@ Enable SAML Authentication on the DPoP Appliance
 ## Reverse Proxy for ServiceNow with Pingfed IdP
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-servicenow-with-pingfed-idp/
 **Last Modified:** 2025-08-31T01:55:02+00:00
-**Scraped:** 2026-10-27T11:59:40.030258+00:00
+**Scraped:** 2026-10-28T12:29:01.470196+00:00
 
 Reverse Proxy for ServiceNow with Pingfed IdP - Netskope Technical Documentation
 Reverse Proxy for ServiceNow with Pingfed IdP
@@ -3107,7 +2668,7 @@ Reverse Proxy for ServiceNow with Pingfed IdP
 ## SAML Settings for Authentication
 **URL:** https://docs.netskope.com/en/saml-settings-for-authentication/
 **Last Modified:** 2026-05-14T21:49:24+00:00
-**Scraped:** 2026-10-27T12:02:42.862775+00:00
+**Scraped:** 2026-10-28T12:32:06.187705+00:00
 
 SAML Settings for Authentication
 The SAML Forward Proxy must be configured with the Assertion Consumer Service (ACS) URL, IdP URL, and IdP Certificate by following this procedure.
@@ -3287,9 +2848,8 @@ SAML Settings for Authentication
 ## SAML Authentication with OKTA
 **URL:** https://docs.netskope.com/en/saml-authentication-with-okta/
 **Last Modified:** 2025-08-31T01:56:04+00:00
-**Scraped:** 2026-10-27T12:02:44.020251+00:00
+**Scraped:** 2026-10-28T12:32:07.345613+00:00
 
-SAML Authentication with OKTA - Netskope Technical Documentation
 SAML Authentication with OKTA
 The following section illustrates the steps to set up SAML authentication via OKTA. Ensure that you have completed the provisioning steps as described
 here
@@ -3384,7 +2944,7 @@ SAML Authentication with OKTA
 ## SAML Authentication with Entra ID
 **URL:** https://docs.netskope.com/en/saml-authentication-with-entra-id/
 **Last Modified:** 2026-07-14T06:32:07+00:00
-**Scraped:** 2026-10-27T12:02:45.184690+00:00
+**Scraped:** 2026-10-28T12:32:08.609285+00:00
 
 SAML Authentication with Entra ID
 Netskope utilizes the System for Cross-domain Identity Management (SCIM) standard to automate user lifecycle management and synchronize identity data from Microsoft Entra ID to the Netskope Security Cloud Platform. This integration supports the automated creation, update, and deactivation of user accounts and group memberships, ensuring identity consistency across your security infrastructure.
@@ -3599,7 +3159,7 @@ SAML Authentication with Entra ID
 ## Configure Browser-based Access with Multiple IdPs
 **URL:** https://docs.netskope.com/en/browser-access-with-multiple-idps/
 **Last Modified:** 2026-02-27T22:15:38+00:00
-**Scraped:** 2026-10-27T12:03:34.077635+00:00
+**Scraped:** 2026-10-28T12:32:57.527360+00:00
 
 Configure Browser-based Access with Multiple IdPs
 This document explains how to configure and test a use case for the NPA Browser-based Access Multiple IdPs feature.
@@ -3777,7 +3337,7 @@ Configure Browser-based Access with Multiple IdPs
 ## CrowdStrike Falcon Identity Protection Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-falcon-identity-protection-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T23:08:52+00:00
-**Scraped:** 2026-10-27T12:03:54.118889+00:00
+**Scraped:** 2026-10-28T12:33:17.899182+00:00
 
 CrowdStrike Falcon Identity Protection Plugin for Risk Exchange - Netskope Technical Documentation
 CrowdStrike Falcon Identity Protection Plugin for Risk Exchange
@@ -4089,8 +3649,9 @@ CrowdStrike Falcon Identity Protection Plugin for Risk Exchange
 ## Reverse Proxy for Workday with Entra ID SSO
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-workday-with-entra-id-sso/
 **Last Modified:** 2025-08-31T01:55:04+00:00
-**Scraped:** 2026-10-27T12:05:29.405036+00:00
+**Scraped:** 2026-10-28T12:34:55.688285+00:00
 
+Reverse Proxy for Workday with Entra ID SSO - Netskope Technical Documentation
 Reverse Proxy for Workday with Entra ID SSO
 This guide provides step-by-step instructions to configure Workday Single Sign-On (SSO) with Microsoft Entra ID, using Netskope Reverse Proxy for enhanced security and authentication management.
 It is recommended to configure Workday with Microsoft EntraID without Netskope SAML Proxy before proceeding for a smoother configuration experience.
@@ -4234,7 +3795,7 @@ Reverse Proxy for Workday with Entra ID SSO
 ## Multiple IdP Support for Netskope SSO
 **URL:** https://docs.netskope.com/en/multiple-idp-support-for-netskope-sso/
 **Last Modified:** 2025-08-31T01:38:36+00:00
-**Scraped:** 2026-10-27T12:10:26.253505+00:00
+**Scraped:** 2026-10-28T12:39:56.341947+00:00
 
 Multiple IdP Support for Netskope SSO - Netskope Technical Documentation
 Multiple IdP Support for Netskope SSO
@@ -4326,7 +3887,7 @@ Multiple IdP Support for Netskope SSO
 ## Associate the Custom AI Provider to the AIG
 **URL:** https://docs.netskope.com/en/associate-the-custom-ai-provider-to-the-aig/
 **Last Modified:** 2026-05-18T15:00:32+00:00
-**Scraped:** 2026-10-27T12:13:39.311845+00:00
+**Scraped:** 2026-10-28T12:42:50.011042+00:00
 
 Associate the Custom AI Provider to the AIG - Netskope Technical Documentation
 Associate the Custom AI Provider to the AIG
@@ -4360,8 +3921,9 @@ Associate the Custom AI Provider to the AIG
 ## Browser-based Access with Reverse Proxy SAML
 **URL:** https://docs.netskope.com/en/browser-based-access-with-reverse-proxy-saml/
 **Last Modified:** 2026-02-28T00:38:19+00:00
-**Scraped:** 2026-10-27T12:15:02.637456+00:00
+**Scraped:** 2026-10-28T12:44:15.695226+00:00
 
+Browser-based Access with Reverse Proxy SAML - Netskope Technical Documentation
 Browser-based Access with Reverse Proxy SAML
 NPA supports browser access with these providers:
 Configure Browser-based Access with Okta
@@ -4374,7 +3936,7 @@ Browser-based Access with Reverse Proxy SAML
 ## Zone Selection Based on User Identity
 **URL:** https://docs.netskope.com/en/zone-selection-based-on-user-identity/
 **Last Modified:** 2026-10-08T04:24:05+00:00
-**Scraped:** 2026-10-27T12:17:09.160753+00:00
+**Scraped:** 2026-10-28T12:46:03.649282+00:00
 
 Zone Selection Based on User Identity - Netskope Technical Documentation
 Zone Selection Based on User Identity
@@ -4440,3 +4002,565 @@ Netskope Client Network Configuration
 NewEdge Traffic Management Zones per NPA Tenant
 In this Topic
 Zone Selection Based on User Identity
+
+---
+## Cloud Exchange SSO with Entra ID
+**URL:** https://docs.netskope.com/en/cloud-exchange-sso-with-entra-id/
+**Last Modified:** 2026-10-27T18:39:03+00:00
+**Scraped:** 2026-10-28T12:52:21.402754+00:00
+
+Cloud Exchange SSO with Entra ID - Netskope Technical Documentation
+Cloud Exchange SSO with Entra ID
+This article explains how to configure Single-Sign-On (SSO) for the Netskope Cloud Exchange (CE) platform, specifically for Entra ID. This will allow you to manage administrator access to CE from within your existing Identity Provider (IdP) rather than configuring administrators within the platform manually.
+Cloud Exchange is different from the standard Netskope tenant you would have access to as a customer and facilitates the exchange of information between your various security and operations platforms.
+Click play to watch a video.
+Create a New Enterprise Application
+Go to the Entra ID
+portal
+and sign in using your Entra ID account with sufficient permissions, like an Application Developer role.
+Go to
+Enterprise applications
+.
+Go to
+Manage > All applications
+and click
+New application
+.
+The Browse Microsoft Entra Gallery pane opens and displays tiles for cloud platforms, on-premises applications, and featured applications. Applications listed in the Featured Applications section have icons indicating whether they support federated single sign-on (SSO) and provisioning. Search for
+Netskope Cloud Exchange Administration Console
+and select the application.
+Enter a name that you want to use to recognize the instance of the application. For example,
+Netskope Cloud Exchange Administration Console – SSO
+.
+Click
+Create
+. Note that the gallery can sometimes have a quirk where it returns an error when you click the
+Create
+button. Your application should have been created, even if you get this error. If you encounter this issue, return to the Enterprise Applications view and click the Refresh button. You should see your
+Netskope Cloud Exchange
+app appear in the list.
+Copy the Cloud Exchange SSO Information
+Log in to Cloud Exchange using the admin (super administrator) account, go to
+Settings > Users
+(this settings area will only be visible to the admin user).
+Select the
+SSO Configuration
+tab and toggle the
+SSO
+toggle
+ON
+(make sure you save this configuration).
+Note the Service Provider fields at the bottom of the screen. The image below shows which URL should be used for which SAML configuration field in Entra ID.
+Create Roles in Entra ID
+Users can be assigned Read/Write or just Read access to the Cloud Exchange UI based on the roles assigned to them: Admin (read/write access), Read-Only, or the custom admin with module-specific rights. You need to create these roles in Entra ID so that they can be assigned to users who use Cloud Exchange.
+Note:
+Role names are case-sensitive. Enter them exactly as shown. Ensure the SAML attribute statement named
+roles
+is configured with the value
+appuser.roles
+.
+Platform-Wide Roles
+Role
+Permissions
+netskope-ce-read
+Read access to CTE, CTO, CLS, EDM, CFC, CRE, Settings, and AI, along with access to logs.
+netskope-ce-write
+Read and write access to CTE, CTO, CLS, EDM, CFC, CRE, Settings, and AI, along with access to logs.
+netskope-ce-api
+Grants the
+api
+permission.
+netskope-ce-admin
+Grants the
+admin
+permission.
+Module-Specific Roles
+Role
+Permissions
+netskope-cte-read
+Read access to CTE.
+netskope-cte-write
+Read and write access to CTE.
+netskope-cto-read
+Read access to CTO.
+netskope-cto-write
+Read and write access to CTO.
+netskope-cls-read
+Read access to CLS.
+netskope-cls-write
+Read and write access to CLS.
+netskope-edm-read
+Read access to EDM.
+netskope-edm-write
+Read and write access to EDM.
+netskope-cfc-read
+Read access to CFC.
+netskope-cfc-write
+Read and write access to CFC.
+netskope-cre-read
+Read access to CRE.
+netskope-cre-write
+Read and write access to CRE.
+netskope-ce-logs
+Access to logs.
+netskope-settings-read
+Read access to Settings.
+netskope-settings-write
+Read and write access to Settings.
+netskope-ce-ai-read
+Read access to AI.
+netskope-ce-ai-write
+Read and write access to AI.
+Assign Multiple Roles
+To assign multiple roles, enter the role names in the
+Roles
+field separated by semicolons.
+For example, to grant read and write access to CTE, read access to CLS, and access to logs, enter:
+netskope-cte-write;netskope-cls-read;netskope-ce-logs
+Each write role already includes the corresponding read permission. Assigning both the read and write roles for the same module is therefore unnecessary.
+Note
+If you don’t create and map these roles, SSO will fail.
+Return to the main Entra ID page (ensure you are NOT within the
+Enterprise Applications
+page). Select
+App registrations
+from the left-side menu, click
+All applications
+, and then select the
+Netskope Cloud Exchange
+app from the list.
+Click
+App Roles
+in the left panel, and then click
+Create app role
+. You need to create two roles: One for the Admin user role and one for the Read-Only user role.
+Create the Admin role as follows:
+For Display name, enter CE-Admin (this can be whatever you like).
+For Allowed member types, select the first option: Users/Groups.
+For Value, enter
+netskope-ce-write;netskope-ce-read
+. Ensure you copy/paste this exactly.
+For Description, enter
+Provide the user with read/write access to Cloud Exchange
+. Ensure that the
+Do you want to enable this app role?
+option is checked.
+Create the Read-Only role as follows:
+For Display name, enter CE-ReadOnly (this can be whatever you like).
+For Allowed member types, select the first option: Users/Groups.
+For Value, enter
+netskope-ce-read
+. Ensure you copy/paste this exactly.
+For Description, enter
+Provide the user with read-only access to Cloud Exchange
+. Ensure that the
+Do you want to enable this app role?
+option is checked.
+Click
+Save
+. You’re finished configuring the App Roles.
+Configure the Cloud Exchange Enterprise App in Entra ID
+From the Entra ID main menu, return to the Enterprise Applications list and select
+Netskope Cloud Exchange
+.
+In the left panel, click
+Single sign-on
+, and then select
+SAML
+when prompted.
+Provide the SAML Configuration
+Under Basic SAML Configuration, click
+Edit
+. Enter the Service Provider URLs from the Cloud Exchange SSO Configuration page to the appropriate Entra ID SAML configuration fields. See the tables below for mappings.
+Entra ID SAML FieldCloud Exchange Field
+Identifier (Entity ID)Service Provider Entity IDReply URL (Assertion Consumer Service URL)Service Provider ACS URLSign on URLService Provider ACS URLRelay StateN/A – Leave BlankLogout URLService Provider SLS URL
+The
+Reply URL
+and
+Sign-on URL
+in Entra ID both use the Service Provider ACS URL from the Cloud Exchange portal. The
+Relay State
+field in Entra ID should be left blank.
+Click
+Save
+.
+Add Claims for Roles and Username
+Click
+Edit
+, and in the
+Attributes & Claims
+, click
+Add new claim
+.
+Add a new claim as follows:
+For Name, enter
+roles
+. Enter this exactly. Leave
+Namespace
+blank.
+For Source, ensure Attribute is selected (default).
+For Source attribute, select user.assignedroles from the dropdown list.
+Click
+Save
+to add the claim.
+Repeat the process to add a second role:
+For Name, enter
+username
+. Enter this exactly, Leave
+Namespace
+blank.
+For Source, ensure Attribute is selected (default).
+For Source attribute, select user.mail from the dropdown list. Click
+Save
+to add the claim.
+After you’ve added the two new claims, your Attributes & Roles should look as follows:
+Download the SAML Signing Certificate
+Back on the SAML configuration page, scroll down to SAML Signing Certificate, and click to download the Base certificate.
+Copy the Entra ID Application URLs
+Under Set up Netskope Cloud Exchange, copy the Login URL, Logout URL, and Entra ID Identifier URL. You will need to paste these into the Cloud Exchange UI in the next section.
+The last step to perform in Entra ID is to assign users and/or groups to the Cloud Exchange app to provide them with access. We will also assign either the
+Read-Only
+or
+Admin
+roles we created earlier to these users/groups to grant them the appropriate permissions within Cloud Exchange.
+From the left panel in the Cloud Exchange Enterprise Application, select
+Users and groups
+, and then click
+Add user/group
+.
+Select the users and/or groups that are permitted to use the Cloud Exchange application. You must also assign a role to the selected users/groups, like CE-Admin (read/write), or CE-ReadOnly (read-only).
+Caution
+If you do not assign a role, SSO will fail when the user attempts to sign in. Also, DO NOT assign the default role you see in the list; this will also cause SSO to fail. You must only use the roles that you explicitly created in Entra ID.
+After assigning users/groups and applicable roles, your user/group list should look similar to this:
+Finish the SSO Configuration in Cloud Exchange
+Return to Cloud Exchange and go to
+Settings > Users > SSO Configuration
+.
+Enter the app URLs for the Identity Provider URL fields in the Cloud Exchange SSO configuration. Paste the corresponding Entra ID Application URLs you copied when configuring SAML on the Entra ID side. See the table below for mappings:
+Cloud Exchange Field
+Entra ID SAML Config Field
+Identity Provider Issuer URL
+Entra ID Identifier URL
+Identity provider SSO URL
+Login URL
+Identity provider SLO URL
+Logout URL
+Enter the SAML Signing Certificate. Open the Base SAML Signing Certificate you downloaded from Entra ID earlier in a text editor, such as Notepad or TextEdit. Don’t use MS Word. The certificate will have a .cer extension.
+Copy the contents of the certificate file into the Public x509 Certificate field in the Cloud Exchange SSO config (see the image above).
+Click
+Save
+.
+Test the SSO Configuration
+Open a new Incognito window (to avoid any potential issues with caching) and point your browser to the URL of your Cloud Exchange deployment.
+If you enabled the SSO checkbox as instructed earlier this guide, you will two options when connecting to Cloud Exchange:
+Log in with SSO.
+Log in with Username/Password.
+The SSO option is used for local login (like a default admin user, or any user manually added to the user list in CE).
+Select
+Login with SSO
+. You should be redirected to Entra ID to sign in.
+Upon entering your user credentials, you should be authenticated and redirected to the Cloud Exchange interface. In the example below, the Adele user was assigned the
+CE-ReadOnly
+role, so almost all of the
+Settings
+menu is hidden.
+Troubleshooting SSO for Cloud Exchange with Entra ID
+If you are having issues signing in, first look at which platform is giving you an error: Entra ID, or Cloud Exchange? If the error you see is from Entra ID, then there is likely an issue with your configuration on the Entra ID side. Double-check your URLs and/or whether the user you are attempting to sign in as is assigned to the application (or present in the group assigned to the app).
+In the image below, my
+nathan@lightwave.cloud
+user was unable to sign in, as they were not assigned to the application in Entra ID.
+If you are getting an error from Cloud Exchange, then you likely have incorrect URLs entered into either CE or Entra ID, not added the custom username and roles claims in Entra ID, or not assigned any roles to the user you are signing in as.
+If you get the error {“detail”:”Method Not Allowed”}, check that the URLs copied into both Entra ID and Cloud Exchange are correct and in the right place.
+If you get the error {“detail”:”Could not authenticate. username/roles attribute not set.”}, then check that you added the username and roles claims in the SAML config, AND assigned roles correctly to users when you added them to the Enterprise Application in Entra ID.
+If you pass SSO fine but receive a red Error while fetching data message in CE, then there is a problem with the role you have assigned to the user. Ensure you entered
+netskope-ce-write;netskope-ce-read
+as the attribute for the Admin role (CE-Admin) and
+netskope-ce-read
+as the attribute for the Read-Only role (CE-ReadOnly). Additionally, check that you have assigned one of these roles to your impacted user. You may also get this error if the default User role is assigned.
+In this Topic
+Cloud Exchange SSO with Entra ID
+
+---
+## Cloud Exchange SSO with Okta
+**URL:** https://docs.netskope.com/en/cloud-exchange-sso-with-okta/
+**Last Modified:** 2026-10-27T18:39:11+00:00
+**Scraped:** 2026-10-28T12:52:22.600967+00:00
+
+Cloud Exchange SSO with Okta - Netskope Technical Documentation
+Cloud Exchange SSO with Okta
+This article explains how to configure Single-Sign-On (SSO) for the Netskope Cloud Exchange (CE) platform, specifically for Okta. This allows you to manage administrator access to CE from within your existing Identity Provider (IdP) rather than configuring administrators within the platform manually.
+Cloud Exchange is different from the standard Netskope tenant you would have access to as a customer and facilitates the exchange of information between your various security and operations platforms.
+Watch a Video
+Click play to watch a video.
+Copy the Cloud Exchange SSO Information
+Log in to Cloud Exchange using the admin (super administrator) user and go to
+Settings > Users
+(this settings area will only be visible to the admin user).
+Select the
+SSO Configuration
+tab and toggle the
+SSO
+toggle
+ON
+(make sure you save this configuration). Copy the Service Provider Entity ID and Service Provider ACS URL fields. The image below shows which URL should be used for which configuration field in Okta.
+Configure an Okta SAML Integration
+Go back to your Okta console and configure these settings.
+For the first two Service Provider URL fields in the Cloud Exchange SSO configuration, paste the corresponding URL into the appropriate field in Okta. Refer the table below for mapping:
+Cloud Exchange Field
+Okta Field
+Service Provider Entity ID
+Audience URL (SP Entity ID)
+Service Provider ACS URL
+Single sign-on URL
+Service Provider SLS URL
+N/A – Not used
+Set the Name ID Format
+Ensure you change the Name ID Format in Okta from
+Unspecified
+to
+EmailAddress
+.
+Finish the SAML Configuration
+When you are done, scroll to the bottom of the page and click
+Next
+. Check the box
+This is an internal app that we have created
+and click
+Finish
+.
+On the next page, click
+View SAML Setup Instructions
+inside the yellow box under the
+Sign On
+tab.
+A new tab opens containing the IdP SSO URL, IdP Issuer, and certificate that you need to copy to later enter into the Cloud Exchange console.
+Leave this tab open for now as we still have some configuration left to do in Okta.
+Add Additional Attributes
+Go to
+Sign On
+, and under the
+Attribute Statements
+section, click
+Show legacy configuration
+, then select
+Edit
+for
+Profile attribute statements
+.
+Add two additional attribute statements to the Okta configuration:
+username
+: Set the value to
+user.email
+.
+roles
+: Set the value to
+appuser.roles
+(you’ll need to type this manually, as it won’t appear in the dropdown list)
+Create the Roles Attribute in Okta
+Users can be assigned Read/Write or just Read access to the Cloud Exchange UI based on one of three roles assigned to them: Admin (read/write access), Read-Only, and Custom admin. You need to create the roles attribute in Okta so that it can be used and assigned to the groups of IT admins who will use Cloud Exchange.
+Go to
+Directory > Profile Editor
+from the left panel and select the
+Netskope Cloud Exchange User
+profile.
+Here you’ll see the username attribute added when you completed the SAML configuration, but the roles attribute is nowhere to be found, so we need to create it manually.
+Click
+Add Attribute
+.
+For
+Data type
+, select
+string
+.
+For
+Display name
+, enter
+Roles
+.
+For
+Variable name
+, enter
+roles
+(This is case-sensitive).
+For
+Description
+, enter
+Netskope Cloud Exchange Admin Roles
+.
+Enable the
+Attribute Required
+and
+Group
+options.
+Click
+Save
+.
+Configure User Groups for Cloud Exchange Access
+In your Okta console, create two groups: One for the users that will have read/write access to CE, and another for users that will have read-only access.
+Go to
+Directory > Groups
+from the left panel and select
+Add Group
+.
+Note
+Role names are case-sensitive. Enter them exactly as shown. Ensure the SAML attribute statement named
+roles
+is configured with the value
+appuser.roles
+Platform-Wide Roles
+Role
+Permissions
+netskope-ce-read
+Read access to CTE, CTO, CLS, EDM, CFC, CRE, Settings, and AI, along with access to logs.
+netskope-ce-write
+Read and write access to CTE, CTO, CLS, EDM, CFC, CRE, Settings, and AI, along with access to logs.
+netskope-ce-api
+Grants the
+api
+permission.
+netskope-ce-admin
+Grants the
+admin
+permission.
+Module-Specific Roles
+Role
+Permissions
+netskope-cte-read
+Read access to CTE.
+netskope-cte-write
+Read and write access to CTE.
+netskope-cto-read
+Read access to CTO.
+netskope-cto-write
+Read and write access to CTO.
+netskope-cls-read
+Read access to CLS.
+netskope-cls-write
+Read and write access to CLS.
+netskope-edm-read
+Read access to EDM.
+netskope-edm-write
+Read and write access to EDM.
+netskope-cfc-read
+Read access to CFC.
+netskope-cfc-write
+Read and write access to CFC.
+netskope-cre-read
+Read access to CRE.
+netskope-cre-write
+Read and write access to CRE.
+netskope-ce-logs
+Access to logs.
+netskope-settings-read
+Read access to Settings.
+netskope-settings-write
+Read and write access to Settings.
+netskope-ce-ai-read
+Read access to AI.
+netskope-ce-ai-write
+Read and write access to AI.
+Assign Multiple Roles
+To assign multiple roles, enter the role names in the
+Roles
+field separated by semicolons.
+For example, to grant read and write access to CTE, read access to CLS, and access to logs, enter:
+netskope-cte-write;netskope-cls-read;netskope-ce-logs
+Each write role already includes the corresponding read permission.
+Create the Read-Only and Admin Groups
+Create two groups called
+Netskope CE Read-Only
+and
+Netskope CE Admin
+.
+Assign People to the Read-Only Role
+Click the
+Netskope Cloud Exchange Read-Only
+group you created from the group list to edit the group.
+Under the People tab, click
+Assign People
+, and assign the users who will have read-only access to the CE platform. When finished, click
+Save
+.
+Select the
+Applications
+tab and click
+Assign applications
+.
+Assign the
+Netskope Cloud Exchange
+application.
+You will then be prompted to specify a role. Enter
+netskope-ce-read
+Important
+You must enter this exactly or SSO will fail! This is case-sensitive.
+Select
+Save and Go Back
+to complete the configuration of the read-only groupî
+Assign People to the Admin Role
+Click the
+Netskope CE Admin
+group you created from the group list to edit the group.
+Repeat the steps above except this time select the people who will have read/write access to the CE platform. When finished, click
+Save
+.
+When prompted to specify a role, enter
+netskope-ce-write;netskope-ce-read
+.
+Important
+You must enter this exactly or SSO will fail! This is case-sensitive.
+Select
+Save and Go Back
+to complete the configuration of the Admin group.
+Finish the SSO Configuration in Cloud Exchange
+Return to the
+SSO Configuration
+section of the Cloud Exchange UI (
+Settings > Users > SSO Configuration
+). Here you enter the details from the Setup Instructions that you opened (in a separate tab) previously).
+For these fields in the Cloud Exchange SSO configuration, paste the corresponding information from the Okta Setup Instructions. See the table below for mapping:
+Cloud Exchange Field
+Okta Setup Instructions Field
+Identity Provider Issuer URL
+Identity Provider Issuer
+Identity provider SSO URL
+Identity Provider Single Sign-On URL
+Cloud Exchange Field
+Okta Setup Instructions Field
+Identity provider SLO URL
+Identity Provider Single Sign-On URL
+Public Certificate
+Certificate
+The SLO URL field is not needed, but cannot be blank. Copy the same URL used for the Identity provider SSO URL for this field.
+Click
+Save
+.
+Testing the SSO Configuration
+Open a new Incognito window (to avoid any potential issues with caching) and point your browser to the URL of your Cloud Exchange deployment.
+If you enabled the SSO checkbox as instructed at the beginning of this guide, you will two options when reaching Cloud Exchange:
+Log in with SSO.
+Option 2 is used for local login (the default admin user, or any user manually added to the user list in Cloud Exchange).
+Select
+Login with SSO
+. You should be redirected to Okta to sign in.
+Upon entering your user credentials you should be authenticated and redirected to the Cloud Exchange interface. In the example below, the Ben user was assigned to the
+Netskope CE Read-Only
+group, so almost all of the
+Settings
+menu is hidden.
+Troubleshooting SSO for Cloud Exchange with Okta
+If you are having issues signing in, first look at which platform is giving you an error: Okta or Cloud Exchange? If the error you are presented with is from Okta, then the issue is likely with your config on the Okta side. Double-check your URLs and/or whether the user you are attempting to sign in as is assigned to either the
+Netskope CE Read-Only
+or
+Netskope CE Admin
+groups.
+If you are getting an error from Cloud Exchange, then you have likely messed up the URLs entered into either CE or Okta, and not added the custom username and roles attributes, or not typed the name of the role correctly (ie: netskope-ce-read and netskope-ce- write;netskope-ce-read).
+If you get the error {“detail”:”Method Not Allowed”}, check that the URLs copied into both Okta and Cloud Exchange are correct and in the right place.
+If you get the error {“detail”:”Could not authenticate. username/roles attribute not set.”}, then check that you have added the username and roles claims in the SAML configî
+If you pass SSO fine, but receive a red Error while fetching data message in CE, then there is a problem with the role you have assigned to the user. Ensure you entered
+netskope-ce-write;netskope-ce-read
+as the attribute for the Admin group (Netskope CE Admin) and
+netskope-ce-read
+as the attribute for the Read-Only role (Netskope CE Read-Only)
+Additionally, check that you have assigned one of these groups to your impacted user: You may also get this error if anything else has been entered into the role field apart from the above two accepted strings
+In this Topic
+Cloud Exchange SSO with Okta
