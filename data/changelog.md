@@ -1,59 +1,81 @@
-# Changelog — 2026-11-02 15:49 UTC
+# Changelog — 2026-11-03 14:40 UTC
 
-**Total pages:** 3743
-**New:** 1  |  **Updated:** 944  |  **Errors:** 0
+**Total pages:** 3756
+**New:** 23  |  **Updated:** 920  |  **Errors:** 0
 
 ## New Pages
-- https://docs.netskope.com/en/cloud-exchange-api-swagger/
+- https://docs.netskope.com/en/lineage-mode/
+- https://docs.netskope.com/en/configure-your-netskope-tenant-for-custom-file-classification-file-hash-sharing/
+- https://docs.netskope.com/en/manage-custom-file-classification-business-rules/
+- https://docs.netskope.com/en/cfc-sharing-and-upload-management/
+- https://docs.netskope.com/en/configure-custom-file-classification-sharing/
+- https://docs.netskope.com/en/configure-trainable-file-classifier-on-netskope-tenant/
+- https://docs.netskope.com/en/configure-custom-file-classification-sharing-with-your-netskope-tenant-classifier/
+- https://docs.netskope.com/en/configure-a-dlp-profile-on-netskope-tenant/
+- https://docs.netskope.com/en/configure-a-real-time-protection-policy-using-the-dlp-profile-on-netskope-tenant/
+- https://docs.netskope.com/en/reading-findings-on-the-overview-page/
+- https://docs.netskope.com/en/exploring-the-connection-graph/
+- https://docs.netskope.com/en/reviewing-findings-and-creating-tickets/
+- https://docs.netskope.com/en/fast-path-policy/
+- https://docs.netskope.com/en/rest-api-v2-for-client/
+- https://docs.netskope.com/en/netskope-adapter-release-notes-216-0-20263-22/
+- https://docs.netskope.com/en/new-features-and-enhancements-in-active-directory-with-netskope-adapters-216-0-20263-22/
+- https://docs.netskope.com/en/netskope-adapter-release-notes-215-255-20263-29/
+- https://docs.netskope.com/en/fixed-issues-in-active-directory-with-netskope-adapters-215-255-20263-29/
+- https://docs.netskope.com/en/netskope-release-notes-version-143-0-0/
+- https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-cloud-platform-143-0-0/
+- https://docs.netskope.com/en/fixed-issues-in-netskope-cloud-platform-143-0-0/
+- https://docs.netskope.com/en/known-issues-in-netskope-cloud-platform-143-0-0/
+- https://docs.netskope.com/en/deprecated-features-in-netskope-cloud-platform-143-0-0/
 
 ## Updated Pages
+- https://docs.netskope.com/en/about-the-admin-console/
 - https://docs.netskope.com/en/access-the-admin-console/
 - https://docs.netskope.com/en/alert-block-upon-detection-of-password-protected-files/
-- https://docs.netskope.com/en/alert-when-a-file-is-shared-with-specific-groups/
 - https://docs.netskope.com/en/allow-access-to-a-sanctioned-application-based-on-app-tag/
+- https://docs.netskope.com/en/analyze-and-report-on-using-corporate-credentials-on-non-sanctioned-apps/
+- https://docs.netskope.com/en/analyze-user-activity-such-as-uploads-or-posts-in-cloud-apps-that-create-or-shares-content/
 - https://docs.netskope.com/en/allowlist-the-netskope-client/
-- https://docs.netskope.com/en/api-connectors/
 - https://docs.netskope.com/en/api-protection-features/
 - https://docs.netskope.com/en/api-protection-scans/
 - https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-forward-or-reverse-proxy/
-- https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic/
-- https://docs.netskope.com/en/block-unmanaged-devices-from-malicious-files-uploaded-or-downloaded-from-our-sanctioned-apps/
+- https://docs.netskope.com/en/apply-policies-based-on-the-constraint-profile/
 - https://docs.netskope.com/en/coach-users-away-from-unsanctioned-applications-and-allow-justification-of-required-use/
-- https://docs.netskope.com/en/configure-netskope-client-settings/
-- https://docs.netskope.com/en/create-a-policy-to-alert-or-block-sharing-of-sensitive-data-with-external-teams/
-- https://docs.netskope.com/en/create-a-policy-to-identify-and-modify-internal-and-external-sharing/
+- https://docs.netskope.com/en/create-a-dlp-policy-to-search-an-entire-data-repository-and-apply-predefined-labels-per-enterprise-data-classification-rules/
 - https://docs.netskope.com/en/create-and-validate-a-security-policy/
-- https://docs.netskope.com/en/deployment-options/
-- https://docs.netskope.com/en/dlp-protect-state-for-managed-app-activities/
-- https://docs.netskope.com/en/deploy-the-netskope-client/
+- https://docs.netskope.com/en/create-local-administrators/
+- https://docs.netskope.com/en/dlp-scans-on-aws-accounts/
+- https://docs.netskope.com/en/dlp-scans-on-cloud-saas/
 - https://docs.netskope.com/en/filtering-traffic-to-high-risk-countries/
 - https://docs.netskope.com/en/filtering-top-level-domains/
 - https://docs.netskope.com/en/iaas-monitor/
-- https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
+- https://docs.netskope.com/en/granular-visibility-and-control-of-saas-iaas-and-web-features/
 - https://docs.netskope.com/en/identify-and-act-on-individual-files-or-folders-on-a-case-by-case-basis/
+- https://docs.netskope.com/en/inline-protection-of-cloud-apps/
+- https://docs.netskope.com/en/integrate-an-identity-provider-idp/
+- https://docs.netskope.com/en/investigate-specific-external-user-activity-to-determine-risk-posture/
+- https://docs.netskope.com/en/manual-steps-for-remediation/
 - https://docs.netskope.com/en/netskope-client-videos/
-- https://docs.netskope.com/en/netskope-success-resource-center/
 - https://docs.netskope.com/en/next-steps/
 - https://docs.netskope.com/en/ngswg-basic-policies/
 - https://docs.netskope.com/en/observe-cloud-app-activities-oplp-and-risk-insights/
-- https://docs.netskope.com/en/protect-against-unknown-web-threats/
+- https://docs.netskope.com/en/protect-against-network-based-attacks/
+- https://docs.netskope.com/en/provide-a-risk-assessment-of-a-cloud-service-using-cci/
+- https://docs.netskope.com/en/protect-against-unmanaged-s3-access/
+- https://docs.netskope.com/en/protection-against-insider-threats/
 - https://docs.netskope.com/en/remediate-iaas-misconfigurations/
-- https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/
+- https://docs.netskope.com/en/report-on-all-activity-with-reverse-proxy-as-the-access-method/
+- https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/
+- https://docs.netskope.com/en/threat-protection-features/
+- https://docs.netskope.com/en/unmanaged-device-protection/
 - https://docs.netskope.com/en/validate-traffic-steering/
-- https://docs.netskope.com/en/using-advanced-analytics/
 - https://docs.netskope.com/en/vendor-risk-assessment/
+- https://docs.netskope.com/en/view-top-apps-activities-and-data-by-usage/
+- https://docs.netskope.com/en/view-users-access-to-cloud-services-geographically/
 - https://docs.netskope.com/en/view-top-cloud-categories-by-usage/
 - https://docs.netskope.com/en/workplace-from-meta-groups-page/
+- https://docs.netskope.com/en/workplace-from-meta-posts-with-violations-page/
+- https://docs.netskope.com/en/about-netskope-secure-web-gateway/
 - https://docs.netskope.com/en/about-malicious-sites/
-- https://docs.netskope.com/en/action-117717/
-- https://docs.netskope.com/en/action-118084/
-- https://docs.netskope.com/en/action/
-- https://docs.netskope.com/en/add-users/
-- https://docs.netskope.com/en/activity/
-- https://docs.netskope.com/en/additional-reading/
-- https://docs.netskope.com/en/advanced-file-scanning/
-- https://docs.netskope.com/en/allow-users-to-disable-private-apps-access-on-the-netskope-client/
-- https://docs.netskope.com/en/api-data-protection-for-egnyte/
-- https://docs.netskope.com/en/api-data-protection-for-gmail/
-- https://docs.netskope.com/en/api-data-protection-use-cases/
-- https://docs.netskope.com/en/api-data-protection-for-slack-for-teams/
+- https://docs.netskope.com/en/action-117817/
+- https://docs.netskope.com/en/action-117886/
