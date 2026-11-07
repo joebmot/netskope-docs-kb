@@ -1,12 +1,12 @@
 # Netskope Docs — Network Steering
-_Generated: 2026-11-06 14:50 UTC_
-_Pages: 45_
+_Generated: 2026-11-07 13:35 UTC_
+_Pages: 46_
 
 ---
 ## Apply policies based on the source of traffic, forward, or reverse proxy
 **URL:** https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-forward-or-reverse-proxy/
 **Last Modified:** 2025-12-11T04:03:12+00:00
-**Scraped:** 2026-11-06T13:41:02.359426+00:00
+**Scraped:** 2026-11-07T12:22:23.937838+00:00
 
 Apply policies based on the source of traffic, forward, or reverse proxy - Netskope Technical Documentation
 Apply policies based on the source of traffic, forward, or reverse proxy
@@ -43,9 +43,8 @@ Apply policies based on the source of traffic, forward, or reverse proxy
 ## Apply policies based on the source of traffic
 **URL:** https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic/
 **Last Modified:** 2025-09-01T13:08:32+00:00
-**Scraped:** 2026-11-06T13:41:04.540821+00:00
+**Scraped:** 2026-11-07T12:22:26.314969+00:00
 
-Apply policies based on the source of traffic - Netskope Technical Documentation
 Apply policies based on the source of traffic
 To apply inline policies based on security needs and various constraints such as AD/user groups/Organizational unit, Source of traffic/Trusted or untrusted, networks/Forward or reverse proxy, Application instance, Constraint profile or augmenting authentication (Multifactor authentication),  follow the steps as shown below:
 Navigate to
@@ -75,14 +74,14 @@ To learn more:
 Real-time Protection Policies
 In this Topic
 Apply policies based on the source of traffic
+Apply policies based on the source of traffic - Netskope Technical Documentation
 
 ---
 ## Apply policies based on the source of traffic, trusted, or untrusted networks
 **URL:** https://docs.netskope.com/en/apply-policies-based-on-the-source-of-traffic-trusted-or-untrusted-networks/
 **Last Modified:** 2025-09-01T13:08:34+00:00
-**Scraped:** 2026-11-06T13:41:06.722050+00:00
+**Scraped:** 2026-11-07T12:22:28.591221+00:00
 
-Apply policies based on the source of traffic, trusted, or untrusted networks - Netskope Technical Documentation
 Apply policies based on the source of traffic, trusted, or untrusted networks
 To apply inline policies based on security needs and various constraints such as AD/user groups/Organizational unit, Source of traffic/Trusted or untrusted, networks/Forward or reverse proxy, Application instance, Constraint profile or augmenting authentication (Multifactor authentication),  follow the steps as shown below:
 Navigate to
@@ -117,9 +116,8 @@ Apply policies based on the source of traffic, trusted, or untrusted networks
 ## Configure a Steering Profile
 **URL:** https://docs.netskope.com/en/configure-a-steering-profile/
 **Last Modified:** 2026-01-30T20:41:32+00:00
-**Scraped:** 2026-11-06T13:41:22.124613+00:00
+**Scraped:** 2026-11-07T12:22:44.739377+00:00
 
-Configure a Steering Profile - Netskope Technical Documentation
 Configure a Steering Profile
 A Steering Profile tells the Netskope Client
 what
@@ -213,7 +211,7 @@ Configure a Steering Profile
 ## Filtering Traffic to High-Risk Countries
 **URL:** https://docs.netskope.com/en/filtering-traffic-to-high-risk-countries/
 **Last Modified:** 2025-08-31T01:51:22+00:00
-**Scraped:** 2026-11-06T13:41:54.365728+00:00
+**Scraped:** 2026-11-07T12:23:18.711437+00:00
 
 Filtering Traffic to High-Risk Countries - Netskope Technical Documentation
 Filtering Traffic to High-Risk Countries
@@ -246,9 +244,8 @@ Filtering Traffic to High-Risk Countries
 ## Protect against network-based attacks
 **URL:** https://docs.netskope.com/en/protect-against-network-based-attacks/
 **Last Modified:** 2025-08-31T01:51:25+00:00
-**Scraped:** 2026-11-06T13:42:25.403030+00:00
+**Scraped:** 2026-11-07T12:23:51.328080+00:00
 
-Protect against network-based attacks - Netskope Technical Documentation
 Protect against network-based attacks
 Netskope’s Client Traffic Exploitation Protection (CTEP) is a signature-based Intrusion Protection System (IPS) that analyzes network traffic flows and continuously compares the bitstream with its internal signature database for known attack patterns.
 When an attack is initiated that matches one of these signatures or patterns CTEP can either alert or block depending on how it has been configured.
@@ -258,14 +255,14 @@ Intrusion Prevention System
 .
 In this Topic
 Protect against network-based attacks
+Protect against network-based attacks - Netskope Technical Documentation
 
 ---
 ## Validate Traffic Steering
 **URL:** https://docs.netskope.com/en/validate-traffic-steering/
 **Last Modified:** 2025-08-31T01:50:51+00:00
-**Scraped:** 2026-11-06T13:42:55.583851+00:00
+**Scraped:** 2026-11-07T12:24:23.035373+00:00
 
-Validate Traffic Steering - Netskope Technical Documentation
 Validate Traffic Steering
 Now that the Netskope Client has been deployed, check to confirm it is enabled, working, and correctly forwarding traffic to the Netskope Cloud.
 Desktop Operating Systems
@@ -341,7 +338,7 @@ Validate Traffic Steering
 ## Add New Network Location for SSL Decryption
 **URL:** https://docs.netskope.com/en/add-new-network-location-for-ssl-decryption/
 **Last Modified:** 2026-08-18T17:43:25+00:00
-**Scraped:** 2026-11-06T13:43:34.158587+00:00
+**Scraped:** 2026-11-07T12:25:04.134880+00:00
 
 Add New Network Location for SSL Decryption - Netskope Technical Documentation
 Add New Network Location for SSL Decryption
@@ -374,8 +371,9 @@ Add New Network Location for SSL Decryption
 ## Choose a Traffic Steering Method
 **URL:** https://docs.netskope.com/en/choose-a-traffic-steering-method/
 **Last Modified:** 2026-08-18T17:43:28+00:00
-**Scraped:** 2026-11-06T13:44:38.418747+00:00
+**Scraped:** 2026-11-07T12:26:12.355257+00:00
 
+Choose a Traffic Steering Method - Netskope Technical Documentation
 Choose a Traffic Steering Method
 There are notable differences between Netskope Cloud Access Security Broker and Netskope Secure Web Gateway traffic steering modes.
 For CASB mode, enforcement points (for example, Client, Secure Forwarder, data plane on-premises, etc.) check if the traffic is destined to any of the applications that Netskope tracks in the CCI database. If yes, the steering mechanisms either steers it towards Netskope’s cloud or processes it (data plane on-premises). If no, Netskope passes the traffic to the regular next-hop/destination based on your environment.
@@ -395,7 +393,7 @@ Choose a Traffic Steering Method
 ## Integrating Palo Alto Networks WildFire for Cloud Sandbox
 **URL:** https://docs.netskope.com/en/integrating-palo-alto-networks-wildfire-for-cloud-sandbox/
 **Last Modified:** 2025-09-03T18:23:13+00:00
-**Scraped:** 2026-11-06T13:48:37.133043+00:00
+**Scraped:** 2026-11-07T12:30:24.536586+00:00
 
 Integrating Palo Alto Networks WildFire for Cloud Sandbox - Netskope Technical Documentation
 Integrating Palo Alto Networks WildFire for Cloud Sandbox
@@ -463,7 +461,7 @@ Integrating Palo Alto Networks WildFire for Cloud Sandbox
 ## Network Location Profile
 **URL:** https://docs.netskope.com/en/network-location-profile/
 **Last Modified:** 2026-08-18T17:42:32+00:00
-**Scraped:** 2026-11-06T13:49:35.687802+00:00
+**Scraped:** 2026-11-07T12:31:26.702050+00:00
 
 Network Location Profile - Netskope Technical Documentation
 Network Location Profile
@@ -525,9 +523,8 @@ Network Location Profile
 ## Network Location
 **URL:** https://docs.netskope.com/en/network-location/
 **Last Modified:** 2026-10-01T09:05:38+00:00
-**Scraped:** 2026-11-06T13:49:37.889434+00:00
+**Scraped:** 2026-11-07T12:31:29.010108+00:00
 
-Network Location - Netskope Technical Documentation
 Network Location
 You can add a single object or multiple object network location.
 Go to
@@ -556,25 +553,26 @@ Apply Changes
 .
 In this Topic
 Network Location
+Network Location - Netskope Technical Documentation
 
 ---
 ## Steer Traffic through the Appliance
 **URL:** https://docs.netskope.com/en/steer-traffic-through-the-appliance/
 **Last Modified:** 2026-08-18T17:40:11+00:00
-**Scraped:** 2026-11-06T13:51:57.044436+00:00
+**Scraped:** 2026-11-07T12:33:55.946462+00:00
 
-Steer Traffic through the Appliance - Netskope Technical Documentation
 Steer Traffic through the Appliance
 The Dataplane On-Premises Virtual Appliance can integrate with the DNS servers or explicit proxy servers in your network to manage requests from client machines. Configure the virtual appliance in one of the following modes to steer the network traffic through the virtual appliance.
 Configure the Appliance in Explicit Proxy Mode
 In this Topic
 Steer Traffic through the Appliance
+Steer Traffic through the Appliance - Netskope Technical Documentation
 
 ---
 ## View Private App Segments and Network Events in Skope IT
 **URL:** https://docs.netskope.com/en/view-private-apps-and-network-events-in-skope-it/
 **Last Modified:** 2026-10-09T20:29:04+00:00
-**Scraped:** 2026-11-06T13:53:10.933476+00:00
+**Scraped:** 2026-11-07T12:35:13.654546+00:00
 
 View Private App Segments and Network Events in Skope IT - Netskope Technical Documentation
 View Private App Segments and Network Events in Skope IT
@@ -610,7 +608,7 @@ View Private App Segments and Network Events in Skope IT
 ## Adding Steering Exceptions for macOS Upgrade
 **URL:** https://docs.netskope.com/en/adding-steering-exceptions-for-macos-upgrade/
 **Last Modified:** 2025-08-31T01:49:06+00:00
-**Scraped:** 2026-11-06T13:53:46.321373+00:00
+**Scraped:** 2026-11-07T12:35:50.345349+00:00
 
 Adding Steering Exceptions for macOS Upgrade - Netskope Technical Documentation
 Adding Steering Exceptions for macOS Upgrade
@@ -666,7 +664,7 @@ Adding Steering Exceptions for macOS Upgrade
 ## Configuring the Steering Preferences
 **URL:** https://docs.netskope.com/en/configuring-the-steering-preferences/
 **Last Modified:** 2025-08-31T01:49:06+00:00
-**Scraped:** 2026-11-06T13:53:59.481832+00:00
+**Scraped:** 2026-11-07T12:36:04.362112+00:00
 
 Configuring the Steering Preferences
 To configure the traffic steering preferences:
@@ -737,7 +735,7 @@ Configuring the Steering Preferences
 ## Downloading Steering Configurations
 **URL:** https://docs.netskope.com/en/downloading-steering-configurations/
 **Last Modified:** 2025-08-31T01:49:07+00:00
-**Scraped:** 2026-11-06T13:54:06.111070+00:00
+**Scraped:** 2026-11-07T12:36:11.550686+00:00
 
 Downloading Steering Configurations - Netskope Technical Documentation
 Downloading Steering Configurations
@@ -790,9 +788,8 @@ Downloading Steering Configurations
 ## Editing the Default Steering Configuration
 **URL:** https://docs.netskope.com/en/editing-the-default-steering-configuration/
 **Last Modified:** 2025-08-31T01:49:05+00:00
-**Scraped:** 2026-11-06T13:54:08.294104+00:00
+**Scraped:** 2026-11-07T12:36:13.929316+00:00
 
-Editing the Default Steering Configuration - Netskope Technical Documentation
 Editing the Default Steering Configuration
 The default steering configuration (i.e., Default tenant config) applies to all users in your organization. If some users in your organization require a different configuration, you can
 create
@@ -835,7 +832,7 @@ Editing the Default Steering Configuration
 ## Netskope GRE with Palo Alto Networks NGFW
 **URL:** https://docs.netskope.com/en/netskope-gre-with-palo-alto-networks-ngfw/
 **Last Modified:** 2026-05-26T19:51:16+00:00
-**Scraped:** 2026-11-06T13:57:01.042102+00:00
+**Scraped:** 2026-11-07T12:39:14.120583+00:00
 
 Netskope GRE with Palo Alto Networks NGFW - Netskope Technical Documentation
 Netskope GRE with Palo Alto Networks NGFW
@@ -1360,9 +1357,8 @@ Netskope GRE with Palo Alto Networks NGFW
 ## Send Traffic from Netskope back to Exchange
 **URL:** https://docs.netskope.com/en/send-traffic-from-netskope-back-to-exchange/
 **Last Modified:** 2026-05-19T18:16:30+00:00
-**Scraped:** 2026-11-06T13:57:44.626073+00:00
+**Scraped:** 2026-11-07T12:39:59.951037+00:00
 
-Send Traffic from Netskope back to Exchange - Netskope Technical Documentation
 Send Traffic from Netskope back to Exchange
 This guide details how to route outbound email traffic from Microsoft 365 Exchange Online to the Netskope SMTP Proxy for Data Loss Prevention (DLP) and policy inspection, and safely route it back to Exchange for external delivery. This architecture is known as a loopback deployment.
 Mail Flow Process Overview
@@ -1524,12 +1520,13 @@ NewEdge Consolidated List of IP Ranges for Allowlisting
 .
 In this Topic
 Send Traffic from Netskope back to Exchange
+Send Traffic from Netskope back to Exchange - Netskope Technical Documentation
 
 ---
 ## Send Traffic from Netskope back to Gmail
 **URL:** https://docs.netskope.com/en/send-traffic-from-netskope-back-to-gmail/
 **Last Modified:** 2026-06-25T19:19:26+00:00
-**Scraped:** 2026-11-06T13:57:48.115012+00:00
+**Scraped:** 2026-11-07T12:40:03.476746+00:00
 
 Send Traffic from Netskope back to Gmail - Netskope Technical Documentation
 Send Traffic from Netskope back to Gmail
@@ -1597,7 +1594,7 @@ Send Traffic from Netskope back to Gmail
 ## Network Events
 **URL:** https://docs.netskope.com/en/about-network-events/
 **Last Modified:** 2026-08-13T07:18:22+00:00
-**Scraped:** 2026-11-06T13:58:33.548655+00:00
+**Scraped:** 2026-11-07T12:40:50.666919+00:00
 
 Network Events - Netskope Technical Documentation
 Network Events
@@ -1673,9 +1670,8 @@ Network Events
 ## Get a Steering Configuration List
 **URL:** https://docs.netskope.com/en/get-a-steering-configuration-list/
 **Last Modified:** 2025-08-31T01:39:21+00:00
-**Scraped:** 2026-11-06T14:00:16.840303+00:00
+**Scraped:** 2026-11-07T12:42:39.720728+00:00
 
-Get a Steering Configuration List - Netskope Technical Documentation
 Get a Steering Configuration List
 This endpoint returns all the Steering Configuration names and the Steering Config IDs associated to them. Use this API to get the Steering Config name or Steering Config ID so you can get values about your steering configuration(s) to use in the
 Get Steering Configuration Information
@@ -1718,8 +1714,9 @@ Get a Steering Configuration List
 ## Get Steering Configuration Information
 **URL:** https://docs.netskope.com/en/get-steering-configuration-information/
 **Last Modified:** 2025-08-31T01:39:21+00:00
-**Scraped:** 2026-11-06T14:00:27.939777+00:00
+**Scraped:** 2026-11-07T12:42:51.326777+00:00
 
+Get Steering Configuration Information - Netskope Technical Documentation
 Get Steering Configuration Information
 Use this endpoint to get these details about your steering configuration(s):
 Steering Configuration information
@@ -2280,7 +2277,7 @@ Get Steering Configuration Information
 ## Network Steering
 **URL:** https://docs.netskope.com/en/network-steering/
 **Last Modified:** 2026-10-30T17:41:14+00:00
-**Scraped:** 2026-11-06T14:01:05.422486+00:00
+**Scraped:** 2026-11-07T12:43:30.784191+00:00
 
 Network Steering
 The Network Steering page provides information about all the Internet Protocol Security (IPSec) and Generic Routing Encapsulation (GRE) tunnels in your infrastructure. Go to
@@ -2424,12 +2421,13 @@ Download
 to export the file to your system.
 In this Topic
 Network Steering
+Network Steering - Netskope Technical Documentation
 
 ---
 ## Additional Network Configurations
 **URL:** https://docs.netskope.com/en/additional-network-configurations/
 **Last Modified:** 2026-08-18T17:02:47+00:00
-**Scraped:** 2026-11-06T14:02:10.827973+00:00
+**Scraped:** 2026-11-07T12:44:39.699004+00:00
 
 Additional Network Configurations - Netskope Technical Documentation
 Additional Network Configurations
@@ -2933,7 +2931,7 @@ Additional Network Configurations
 ## Configure Network Destinations per Interface
 **URL:** https://docs.netskope.com/en/configure-network-destinations-per-interface/
 **Last Modified:** 2026-08-18T17:02:51+00:00
-**Scraped:** 2026-11-06T14:02:40.577931+00:00
+**Scraped:** 2026-11-07T12:45:11.168136+00:00
 
 Configure Network Destinations per Interface - Netskope Technical Documentation
 Configure Network Destinations per Interface
@@ -2993,7 +2991,7 @@ Configure Network Destinations per Interface
 ## Configure Palo Alto Networks Decrypt Mirror
 **URL:** https://docs.netskope.com/en/configure-palo-alto-networks-decrypt-mirror/
 **Last Modified:** 2026-08-18T17:15:11+00:00
-**Scraped:** 2026-11-06T14:02:42.762617+00:00
+**Scraped:** 2026-11-07T12:45:13.655191+00:00
 
 Configure Palo Alto Networks Decrypt Mirror - Netskope Technical Documentation
 Configure Palo Alto Networks Decrypt Mirror
@@ -3016,7 +3014,7 @@ Configure Palo Alto Networks Decrypt Mirror
 ## EOL for the Secure Forwarder Steering Function
 **URL:** https://docs.netskope.com/en/eol-for-the-secure-forwarder-steering-function-440153/
 **Last Modified:** 2026-08-18T17:37:20+00:00
-**Scraped:** 2026-11-06T14:03:15.001302+00:00
+**Scraped:** 2026-11-07T12:45:47.541298+00:00
 
 EOL for the Secure Forwarder Steering Function - Netskope Technical Documentation
 EOL for the Secure Forwarder Steering Function
@@ -3032,7 +3030,7 @@ EOL for the Secure Forwarder Steering Function
 ## Steer Traffic through the Appliance
 **URL:** https://docs.netskope.com/en/steer-traffic-through-the-appliance-115992/
 **Last Modified:** 2026-08-18T17:14:04+00:00
-**Scraped:** 2026-11-06T14:04:00.561927+00:00
+**Scraped:** 2026-11-07T12:46:35.326070+00:00
 
 Steer Traffic through the Appliance - Netskope Technical Documentation
 Steer Traffic through the Appliance
@@ -3045,7 +3043,7 @@ Steer Traffic through the Appliance
 ## EOL for the Secure Forwarder Steering Function
 **URL:** https://docs.netskope.com/en/eol-for-the-secure-forwarder-steering-function-440154/
 **Last Modified:** 2026-08-18T17:22:02+00:00
-**Scraped:** 2026-11-06T14:04:56.502542+00:00
+**Scraped:** 2026-11-07T12:47:33.651943+00:00
 
 EOL for the Secure Forwarder Steering Function - Netskope Technical Documentation
 EOL for the Secure Forwarder Steering Function
@@ -3061,8 +3059,9 @@ EOL for the Secure Forwarder Steering Function
 ## Allowing Unauthenticated Traffic from IP Addresses
 **URL:** https://docs.netskope.com/en/allowing-unauthenticated-traffic-from-ip-addresses-1/
 **Last Modified:** 2025-08-31T01:49:14+00:00
-**Scraped:** 2026-11-06T14:06:37.274626+00:00
+**Scraped:** 2026-11-07T12:49:19.567359+00:00
 
+Allowing Unauthenticated Traffic from IP Addresses - Netskope Technical Documentation
 Allowing Unauthenticated Traffic from IP Addresses
 For
 Cloud Explicit Proxy
@@ -3100,7 +3099,7 @@ Allowing Unauthenticated Traffic from IP Addresses
 ## Steering Configuration
 **URL:** https://docs.netskope.com/en/steering-configuration/
 **Last Modified:** 2026-03-17T09:43:06+00:00
-**Scraped:** 2026-11-06T14:06:57.413777+00:00
+**Scraped:** 2026-11-07T12:49:40.869468+00:00
 
 Steering Configuration
 Steering Configurations control what kind of traffic gets steered to Netskope for real-time deep analysis and what kind of traffic gets bypassed. Moreover admins can configure a set of firewall apps to bypass processing using the Exceptions feature. It’s for endpoints using the Netskope Client and directs traffic from end users to the Netskope Cloud. A Netskope account steers thousands of apps by default, but to ensure the correct type of traffic is steered, you can modify the
@@ -3248,7 +3247,7 @@ Steering Configuration
 ## Netskope IPSec with F5 BIG-IP Local Traffic Manager
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-f5-big-ip-local-traffic-manager/
 **Last Modified:** 2025-08-31T01:55:25+00:00
-**Scraped:** 2026-11-06T14:07:04.090866+00:00
+**Scraped:** 2026-11-07T12:49:47.906051+00:00
 
 Netskope IPSec with F5 BIG-IP Local Traffic Manager - Netskope Technical Documentation
 Netskope IPSec with F5 BIG-IP Local Traffic Manager
@@ -3526,7 +3525,7 @@ Netskope IPSec with F5 BIG-IP Local Traffic Manager
 ## Steer Traffic for Private App Segments
 **URL:** https://docs.netskope.com/en/steer-traffic-for-private-apps/
 **Last Modified:** 2026-03-03T01:17:24+00:00
-**Scraped:** 2026-11-06T14:12:39.203360+00:00
+**Scraped:** 2026-11-07T12:55:41.443303+00:00
 
 Steer Traffic for Private App Segments - Netskope Technical Documentation
 Steer Traffic for Private App Segments
@@ -3589,7 +3588,7 @@ Steer Traffic for Private App Segments
 ## DNSaaS Steering Configurations Cases
 **URL:** https://docs.netskope.com/en/dnsaas-steering-configurations-cases/
 **Last Modified:** 2026-08-05T22:52:06+00:00
-**Scraped:** 2026-11-06T14:12:41.439581+00:00
+**Scraped:** 2026-11-07T12:55:43.798210+00:00
 
 DNSaaS Steering Configurations Cases - Netskope Technical Documentation
 DNSaaS Steering Configurations Cases
@@ -3666,9 +3665,8 @@ DNSaaS Steering Configurations Cases
 ## Palo Alto Networks Cortex XDR Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-cortex-xdr-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T22:41:22+00:00
-**Scraped:** 2026-11-06T14:13:52.616913+00:00
+**Scraped:** 2026-11-07T12:56:57.772884+00:00
 
-Palo Alto Networks Cortex XDR Plugin for Risk Exchange - Netskope Technical Documentation
 Palo Alto Networks Cortex XDR Plugin for Risk Exchange
 This document explains how to configure the Palo Alto Networks Cortex XDR v1.0.0 plugin with the Risk Exchange module of the Netskope Cloud Exchange platform. This plugin fetches Endpoints and Users data from Palo Alto Networks Cortex XDR platform. This plugin retrieves the endpoints from the
 Endpoint > All Endpoints
@@ -4574,8 +4572,9 @@ Palo Alto Networks Cortex XDR Plugin for Risk Exchange
 ## IPv6 Traffic Steering
 **URL:** https://docs.netskope.com/en/ipv6-traffic-steering/
 **Last Modified:** 2026-08-31T00:25:05+00:00
-**Scraped:** 2026-11-06T14:17:15.005560+00:00
+**Scraped:** 2026-11-07T13:00:30.483794+00:00
 
+IPv6 Traffic Steering - Netskope Technical Documentation
 IPv6 Traffic Steering
 Netskope supports enterprises who have dual stack (IPv6 and IPv4) environments where internal networks have IPv6 and IPv4 implemented. All native IPv6 enterprises can use Netskope’s client steering technology to reach the Netskope Cloud Platform. Users who want to connect to an IPv6 website will have their IPv6 traffic steered by the Netskope Client to the Netskope cloud where v6 to v4 translation is done and policies are applied to that traffic. After policy enforcement is done, any allowed traffic is forwarded to its destination using IPv4 address.
 Netskope supports websites resolving to IPv6 and IPv4 addresses. It doesn’t support websites that only resolve to IPv6 addresses.
@@ -4611,7 +4610,7 @@ IPv6 Traffic Steering
 ## Broad Access Control to Block all MCP Traffic with RTP
 **URL:** https://docs.netskope.com/en/broad-access-control-to-block-all-mcp-traffic-with-rtp/
 **Last Modified:** 2026-06-11T19:07:51+00:00
-**Scraped:** 2026-11-06T14:20:10.677101+00:00
+**Scraped:** 2026-11-07T13:03:35.458994+00:00
 
 Broad Access Control to Block all MCP Traffic with RTP - Netskope Technical Documentation
 Broad Access Control to Block all MCP Traffic with RTP
@@ -4646,9 +4645,8 @@ Broad Access Control to Block all MCP Traffic with RTP
 ## Decoupling Steering Configuration from Proxy Processing
 **URL:** https://docs.netskope.com/en/migration-guide-for-steering-configurations/
 **Last Modified:** 2026-11-03T10:22:34+00:00
-**Scraped:** 2026-11-06T14:21:25.188636+00:00
+**Scraped:** 2026-11-07T13:04:53.618563+00:00
 
-Decoupling Steering Configuration from Proxy Processing - Netskope Technical Documentation
 Decoupling Steering Configuration from Proxy Processing
 To simplify proxy processing, Netskope is decoupling Steering Configuration from proxy processing.
 Netskope enabled this behavior for new tenants in 2025 and is now rolling out a migration so that existing tenants can take advantage of this new feature.
@@ -5050,8 +5048,9 @@ Decoupling Steering Configuration from Proxy Processing
 ## Enabling Dynamic Steering
 **URL:** https://docs.netskope.com/en/enabling-dynamic-steering/
 **Last Modified:** 2026-07-24T17:00:36+00:00
-**Scraped:** 2026-11-06T14:21:56.563686+00:00
+**Scraped:** 2026-11-07T13:05:27.142240+00:00
 
+Enabling Dynamic Steering - Netskope Technical Documentation
 Enabling Dynamic Steering
 Dynamic steering enables location-based steering capabilities via on-premises or off-premises. Depending on the location, you can set up the
 steering configuration
@@ -5320,7 +5319,7 @@ Enabling Dynamic Steering
 ## Adding Network Targets to Destination Profiles
 **URL:** https://docs.netskope.com/en/adding-network-targets-to-destination-profiles/
 **Last Modified:** 2026-08-18T17:01:47+00:00
-**Scraped:** 2026-11-06T14:22:39.306575+00:00
+**Scraped:** 2026-11-07T13:06:13.015822+00:00
 
 Adding Network Targets to Destination Profiles - Netskope Technical Documentation
 Adding Network Targets to Destination Profiles
@@ -5850,7 +5849,7 @@ Adding Network Targets to Destination Profiles
 ## Creating a Steering Configuration
 **URL:** https://docs.netskope.com/en/creating-a-steering-configuration/
 **Last Modified:** 2026-07-24T16:56:46+00:00
-**Scraped:** 2026-11-06T14:23:07.200143+00:00
+**Scraped:** 2026-11-07T13:06:43.349064+00:00
 
 Creating a Steering Configuration - Netskope Technical Documentation
 Creating a Steering Configuration
@@ -6153,7 +6152,7 @@ Creating a Steering Configuration
 ## Route Traffic to a Single AI Gateway Endpoint
 **URL:** https://docs.netskope.com/en/route-traffic-to-a-single-ai-gateway-endpoint/
 **Last Modified:** 2026-08-13T10:30:07+00:00
-**Scraped:** 2026-11-06T14:24:00.790496+00:00
+**Scraped:** 2026-11-07T13:07:40.505253+00:00
 
 Route Traffic to a Single AI Gateway Endpoint - Netskope Technical Documentation
 Route Traffic to a Single AI Gateway Endpoint
@@ -6196,10 +6195,40 @@ In this Topic
 Route Traffic to a Single AI Gateway Endpoint
 
 ---
+## Local Loopback Address AI Traffic Observability
+**URL:** https://docs.netskope.com/en/local-loopback-address-ai-traffic-observability/
+**Last Modified:** 2026-11-06T09:24:27+00:00
+**Scraped:** 2026-11-07T13:12:27.818093+00:00
+
+Local Loopback Address AI Traffic Observability
+Netskope Client now detects the communication between AI agents and locally running LLMs or MCP servers by inspecting HTTP traffic on the local loopback interface (127.0.0.1/::1). This helps the security teams to get more visibility into the local AI-to-LLM traffic that is mostly missed by the traditional security tools. In other words, inspecting the loopback interface can expose the data security risks involved in the security codes, credentials, and other sensitive data.
+After Netskope Client identifies the AI agent traffic on the loopback interface, the inspecting report is sent to the
+AI Command Center (AICC)
+dashboard. This provides an additional insight for the administrators along with the AI assets and network telemetry AI discovery reports. Also, refer to
+Exploring the Connection Graph
+to get a detailed view of the findings associated with the asset and the related assets.
+To verify if the loopback interface AI traffic is being monitored, go to
+SkopeIT
+and check for the loopback events appearing on the webUI.
+Supported Operating System and Platforms
+Supported OS:
+Windows, macOS
+Supported Client versions:
+142.0.0(Windows), 143 (macOS)
+Prerequisite
+An active AI Command Center license.
+Limitations
+Loopback traffic interception runs at the kernel driver level and may add a small amount of latency to local loopback connections.
+Inspection runs reliably for nearly all connections, but if an inspection cannot complete, the connection is safely allowed through to ensure uninterrupted access.
+This feature covers traffic between an AI agent and a local MCP server or local LLM over the loopback interface only. Traffic between a local MCP server and an on-premises or cloud-hosted LLM is steered and inspected separately, through Netskope Client and Netskope Proxy.
+In this Topic
+Local Loopback Address AI Traffic Observability
+
+---
 ## Traffic Steering
 **URL:** https://docs.netskope.com/en/traffic-steering/
 **Last Modified:** 2026-10-27T04:03:39+00:00
-**Scraped:** 2026-11-06T14:28:49.786374+00:00
+**Scraped:** 2026-11-07T13:12:48.001678+00:00
 
 Traffic Steering
 To direct end-user traffic to the Netskope Cloud, go to

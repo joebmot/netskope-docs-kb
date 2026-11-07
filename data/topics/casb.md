@@ -1,14 +1,13 @@
 # Netskope Docs — Casb
-_Generated: 2026-11-06 14:50 UTC_
+_Generated: 2026-11-07 13:35 UTC_
 _Pages: 8_
 
 ---
 ## API (Observe for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-observe-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-11-06T13:40:52.535865+00:00
+**Scraped:** 2026-11-07T12:22:13.492951+00:00
 
-API (Observe for Managed App Activities) - Netskope Technical Documentation
 API (Observe for Managed App Activities)
 This section outlines specific use cases to observe for managed app activities. Check back because new use cases are added periodically.
 Create a list of publicly accessible documents in an API-Protected service
@@ -25,7 +24,7 @@ API (Observe for Managed App Activities)
 ## API (Monitor for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-11-06T13:40:53.625296+00:00
+**Scraped:** 2026-11-07T12:22:14.629963+00:00
 
 API (Monitor for Managed App Activities)
 This section outlines specific use cases to monitor for managed app activities. Check back because new use cases are added periodically.
@@ -43,7 +42,7 @@ API (Monitor for Managed App Activities)
 ## API Connectors
 **URL:** https://docs.netskope.com/en/api-connectors/
 **Last Modified:** 2025-11-04T16:57:54+00:00
-**Scraped:** 2026-11-06T13:40:54.715586+00:00
+**Scraped:** 2026-11-07T12:22:15.767538+00:00
 
 API Connectors - Netskope Technical Documentation
 API Connectors
@@ -58,9 +57,8 @@ API Connectors
 ## CASB API Protection
 **URL:** https://docs.netskope.com/en/casb-api-protection/
 **Last Modified:** 2026-01-31T05:39:42+00:00
-**Scraped:** 2026-11-06T13:41:15.534832+00:00
+**Scraped:** 2026-11-07T12:22:37.802432+00:00
 
-CASB API Protection - Netskope Technical Documentation
 CASB API Protection
 What is CASB?
 CASB, or Cloud Access Security Broker, is a security policy enforcement point placed between cloud service providers and their users to ensure security policies and compliance. It helps organizations protect their data by providing visibility, data security, threat protection, and compliance management across cloud services. To learn more:
@@ -75,12 +73,13 @@ DLP – Protect state for Managed App Activities
 Threat Protection – Protect state for Managed App Activities
 In this Topic
 CASB API Protection
+CASB API Protection - Netskope Technical Documentation
 
 ---
 ## Remove the Netskope CASB API App from the Zoom Account
 **URL:** https://docs.netskope.com/en/remove-the-netskope-casb-api-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-11-06T13:50:45.829447+00:00
+**Scraped:** 2026-11-07T12:32:40.847928+00:00
 
 Remove the Netskope CASB API App from the Zoom Account - Netskope Technical Documentation
 Remove the Netskope CASB API App from the Zoom Account
@@ -114,9 +113,8 @@ Remove the Netskope CASB API App from the Zoom Account
 ## Uninstall the Netskope CASB API for Confluence App
 **URL:** https://docs.netskope.com/en/uninstall-the-netskope-casb-api-for-confluence-app/
 **Last Modified:** 2025-08-31T01:42:14+00:00
-**Scraped:** 2026-11-06T14:06:18.311210+00:00
+**Scraped:** 2026-11-07T12:48:59.647702+00:00
 
-Uninstall the Netskope CASB API for Confluence App - Netskope Technical Documentation
 Uninstall the Netskope CASB API for Confluence App
 Proceed with this instruction only if you plan to remove the Netskope-Atlassian Confluence integration.
 If you plan to remove the Netskope-Atlassian Confluence integration, you should remove the ​
@@ -136,14 +134,14 @@ Uninstall > Uninstall app
 Once you have successfully uninstalled the app, you can proceed to delete the Atlassian Confluence app instance from the Netskope tenant.
 In this Topic
 Uninstall the Netskope CASB API for Confluence App
+Uninstall the Netskope CASB API for Confluence App - Netskope Technical Documentation
 
 ---
 ## CASB API Usage
 **URL:** https://docs.netskope.com/en/casb-api-billable-user-calculation/
 **Last Modified:** 2026-06-12T07:25:57+00:00
-**Scraped:** 2026-11-06T14:20:15.146721+00:00
+**Scraped:** 2026-11-07T13:03:40.203093+00:00
 
-CASB API Usage - Netskope Technical Documentation
 CASB API Usage
 With the new usage reporting feature for CASB API Data Protection, you can now gain detailed visibility into volume of data scanned for retroactive scan and billable users across all supported SaaS applications. This report helps you understand how data scanned and billable users are calculated for each SaaS app, ensuring transparency and accuracy in billing.
 How to Access the Usage Reporting UI
@@ -394,9 +392,8 @@ CASB API Usage
 ## CASB API Product Licensing Terms
 **URL:** https://docs.netskope.com/en/casb-api-product-licensing-terms/
 **Last Modified:** 2026-10-16T20:33:15+00:00
-**Scraped:** 2026-11-06T14:25:41.366871+00:00
+**Scraped:** 2026-11-07T13:09:27.738904+00:00
 
-CASB API Product Licensing Terms - Netskope Technical Documentation
 CASB API Product Licensing Terms
 Service Description
 CASB API provides out-of-band data protection, threat detection, and user behavioral anomaly detection for sanctioned SaaS applications via direct API integrations.
@@ -452,3 +449,4 @@ Customer Records:
 The customer may be required to provide system data, audit logs, or written confirmation of the number of Users and/or Seats upon reasonable request by Netskope.
 In this Topic
 CASB API Product Licensing Terms
+CASB API Product Licensing Terms - Netskope Technical Documentation

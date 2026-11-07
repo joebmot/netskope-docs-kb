@@ -1,14 +1,13 @@
 # Netskope Docs — Uba
-_Generated: 2026-11-06 14:50 UTC_
+_Generated: 2026-11-07 13:35 UTC_
 _Pages: 21_
 
 ---
 ## Deactivated User Behavior in Workplace from Meta
 **URL:** https://docs.netskope.com/en/deactivated-user-behavior-in-workplace-from-meta/
 **Last Modified:** 2025-08-31T01:41:56+00:00
-**Scraped:** 2026-11-06T13:46:38.023415+00:00
+**Scraped:** 2026-11-07T12:28:19.216805+00:00
 
-Deactivated User Behavior in Workplace from Meta - Netskope Technical Documentation
 Deactivated User Behavior in Workplace from Meta
 This article describes how API Data Protection deals when a user is deactivated in “Workplace from Meta”.
 User State
@@ -21,14 +20,14 @@ Note
 A new “Workplace from Meta” user has to accept the invitation and log in at least once before user-listing kicks in.
 In this Topic
 Deactivated User Behavior in Workplace from Meta
+Deactivated User Behavior in Workplace from Meta - Netskope Technical Documentation
 
 ---
 ## Deleted/Deactivated User Behavior in Egnyte
 **URL:** https://docs.netskope.com/en/deleted-deactivated-user-behavior-in-egnyte/
 **Last Modified:** 2025-08-31T01:40:17+00:00
-**Scraped:** 2026-11-06T13:46:45.078827+00:00
+**Scraped:** 2026-11-07T12:28:26.209481+00:00
 
-Deleted/Deactivated User Behavior in Egnyte - Netskope Technical Documentation
 Deleted/Deactivated User Behavior in Egnyte
 This article describes how API Data Protection deals when a user is either deleted or deactivated in Egnyte.
 User State
@@ -54,7 +53,7 @@ Deleted/Deactivated User Behavior in Egnyte
 ## Deleted/Suspended User Behavior in Dropbox
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-dropbox/
 **Last Modified:** 2025-08-31T01:40:11+00:00
-**Scraped:** 2026-11-06T13:46:46.190133+00:00
+**Scraped:** 2026-11-07T12:28:27.351691+00:00
 
 Deleted/Suspended User Behavior in Dropbox - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Dropbox
@@ -76,9 +75,8 @@ Deleted/Suspended User Behavior in Dropbox
 ## Deleted/Suspended User Behavior in Box
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-box/
 **Last Modified:** 2025-08-31T01:39:55+00:00
-**Scraped:** 2026-11-06T13:46:47.280327+00:00
+**Scraped:** 2026-11-07T12:28:28.489449+00:00
 
-Deleted/Suspended User Behavior in Box - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Box
 This article describes how API Data Protection deals when a user is either deleted or suspended in Box.
 User State
@@ -93,12 +91,13 @@ Note
 A new Box user who does not accept the Box terms and conditions will be treated the same way as above.
 In this Topic
 Deleted/Suspended User Behavior in Box
+Deleted/Suspended User Behavior in Box - Netskope Technical Documentation
 
 ---
 ## Deleted/Suspended User Behavior in Gmail
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-gmail/
 **Last Modified:** 2025-08-31T01:40:31+00:00
-**Scraped:** 2026-11-06T13:46:48.369001+00:00
+**Scraped:** 2026-11-07T12:28:29.758634+00:00
 
 Deleted/Suspended User Behavior in Gmail - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Gmail
@@ -117,9 +116,8 @@ Deleted/Suspended User Behavior in Gmail
 ## Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-sharepoint/
 **Last Modified:** 2025-08-31T01:41:18+00:00
-**Scraped:** 2026-11-06T13:46:49.461140+00:00
+**Scraped:** 2026-11-07T12:28:30.897922+00:00
 
-Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 This article describes how API Data Protection deals when a user is either deleted or suspended in SharePoint.
 User State
@@ -139,7 +137,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 SharePoint
 ## Deleted/Suspended User Behavior in Google Drive
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-google-drive/
 **Last Modified:** 2025-08-31T01:40:41+00:00
-**Scraped:** 2026-11-06T13:46:50.602435+00:00
+**Scraped:** 2026-11-07T12:28:32.038573+00:00
 
 Deleted/Suspended User Behavior in Google Drive - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Google Drive
@@ -165,7 +163,7 @@ Deleted/Suspended User Behavior in Google Drive
 ## Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-onedrive/
 **Last Modified:** 2025-08-31T01:40:55+00:00
-**Scraped:** 2026-11-06T13:46:51.744031+00:00
+**Scraped:** 2026-11-07T12:28:33.178738+00:00
 
 Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
@@ -187,9 +185,8 @@ Deleted/Suspended User Behavior in Microsoft Office 365 OneDrive
 ## Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-outlook/
 **Last Modified:** 2025-08-31T01:41:02+00:00
-**Scraped:** 2026-11-06T13:46:52.834078+00:00
+**Scraped:** 2026-11-07T12:28:34.319352+00:00
 
-Deleted/Suspended User Behavior in Microsoft Office 365 Outlook - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
 This article describes how API Data Protection deals when a user is either deleted or suspended in Outlook.
 User State
@@ -201,14 +198,14 @@ Suspended
 Same behavior as above.
 In this Topic
 Deleted/Suspended User Behavior in Microsoft Office 365 Outlook
+Deleted/Suspended User Behavior in Microsoft Office 365 Outlook - Netskope Technical Documentation
 
 ---
 ## Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 **URL:** https://docs.netskope.com/en/deleted-suspended-user-behavior-in-microsoft-office-365-teams/
 **Last Modified:** 2025-08-31T01:41:22+00:00
-**Scraped:** 2026-11-06T13:46:53.949277+00:00
+**Scraped:** 2026-11-07T12:28:35.458298+00:00
 
-Deleted/Suspended User Behavior in Microsoft Office 365 Teams - Netskope Technical Documentation
 Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 This article describes how API Data Protection deals when a user is either deleted or suspended in Microsoft Teams.
 User State
@@ -227,7 +224,7 @@ Deleted/Suspended User Behavior in Microsoft Office 365 Teams
 ## Deleted User Behavior in Slack Teams
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-slack-teams/
 **Last Modified:** 2025-08-31T01:41:49+00:00
-**Scraped:** 2026-11-06T13:46:55.040795+00:00
+**Scraped:** 2026-11-07T12:28:36.599372+00:00
 
 Deleted User Behavior in Slack Teams - Netskope Technical Documentation
 Deleted User Behavior in Slack Teams
@@ -244,7 +241,7 @@ Deleted User Behavior in Slack Teams
 ## Deleted User Behavior in Cisco Webex Teams
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-cisco-webex-teams/
 **Last Modified:** 2025-08-31T01:40:02+00:00
-**Scraped:** 2026-11-06T13:46:57.271382+00:00
+**Scraped:** 2026-11-07T12:28:38.877240+00:00
 
 Deleted User Behavior in Cisco Webex Teams - Netskope Technical Documentation
 Deleted User Behavior in Cisco Webex Teams
@@ -263,9 +260,8 @@ Deleted User Behavior in Cisco Webex Teams
 ## Deleted User Behavior in Slack Enterprise
 **URL:** https://docs.netskope.com/en/deleted-user-behavior-in-slack-enterprise/
 **Last Modified:** 2025-08-31T01:41:42+00:00
-**Scraped:** 2026-11-06T13:46:58.409904+00:00
+**Scraped:** 2026-11-07T12:28:40.048861+00:00
 
-Deleted User Behavior in Slack Enterprise - Netskope Technical Documentation
 Deleted User Behavior in Slack Enterprise
 This article describes how API Data Protection deals when a user is deleted in Slack for Enterprise.
 User State
@@ -275,12 +271,13 @@ Policy processing: Policy processing is based on Slack channels. Irrespective of
 API Data Protection Dashboard: Deleted users’ file attachments or messages may exist in dashboard, but in-actionable.
 In this Topic
 Deleted User Behavior in Slack Enterprise
+Deleted User Behavior in Slack Enterprise - Netskope Technical Documentation
 
 ---
 ## Inactive/Freeze User Behavior in Salesforce
 **URL:** https://docs.netskope.com/en/inactive-freeze-user-behavior-in-salesforce/
 **Last Modified:** 2025-08-31T01:41:28+00:00
-**Scraped:** 2026-11-06T13:48:32.758466+00:00
+**Scraped:** 2026-11-07T12:30:19.943207+00:00
 
 Inactive/Freeze User Behavior in Salesforce - Netskope Technical Documentation
 Inactive/Freeze User Behavior in Salesforce
@@ -300,7 +297,7 @@ Inactive/Freeze User Behavior in Salesforce
 ## Removed/Blocked User Behavior in GitHub
 **URL:** https://docs.netskope.com/en/removed-blocked-user-behavior-in-github/
 **Last Modified:** 2025-08-31T01:40:23+00:00
-**Scraped:** 2026-11-06T13:50:46.919636+00:00
+**Scraped:** 2026-11-07T12:32:41.985984+00:00
 
 Removed/Blocked User Behavior in GitHub
 This article describes how API Data Protection deals when a user is either removed or blocked in GitHub.
@@ -320,7 +317,7 @@ Removed/Blocked User Behavior in GitHub
 ## Quick Start
 **URL:** https://docs.netskope.com/en/advanced-ueba-quick-start/
 **Last Modified:** 2026-10-08T00:28:10+00:00
-**Scraped:** 2026-11-06T14:06:24.931873+00:00
+**Scraped:** 2026-11-07T12:49:06.633492+00:00
 
 Quick Start - Netskope Technical Documentation
 Quick Start
@@ -413,9 +410,8 @@ Quick Start
 ## Troubleshooting
 **URL:** https://docs.netskope.com/en/advanced-ueba-troubleshooting/
 **Last Modified:** 2026-07-31T22:15:17+00:00
-**Scraped:** 2026-11-06T14:06:26.017488+00:00
+**Scraped:** 2026-11-07T12:49:07.871022+00:00
 
-Troubleshooting - Netskope Technical Documentation
 Troubleshooting
 If there is a large amount of users with low UCI scores and the cause seems to be something upstream, like a DLP policy that is raising a large amount of violations, then the solution is to tune the upstream policy.
 If this does not appear to be an upstream issue but rather an issue in the UEBA policy itself – for example, an ML-based unusual user agent detection that is raising a large amount of alerts – then there are two possible courses of action.
@@ -428,7 +424,7 @@ Troubleshooting
 ## Third-Party Integrations
 **URL:** https://docs.netskope.com/en/third-party-integrations-with-advanced-ueba/
 **Last Modified:** 2026-07-31T22:14:10+00:00
-**Scraped:** 2026-11-06T14:06:27.108622+00:00
+**Scraped:** 2026-11-07T12:49:09.029745+00:00
 
 Third-Party Integrations - Netskope Technical Documentation
 Third-Party Integrations
@@ -451,8 +447,9 @@ Third-Party Integrations
 ## SOC Detections Pack
 **URL:** https://docs.netskope.com/en/advanced-ueba-soc-detections-pack/
 **Last Modified:** 2026-07-31T22:00:37+00:00
-**Scraped:** 2026-11-06T14:13:18.632649+00:00
+**Scraped:** 2026-11-07T12:56:22.194163+00:00
 
+SOC Detections Pack - Netskope Technical Documentation
 SOC Detections Pack
 Additional licensing is required. Contact your Netskope account team to enable this feature.
 Netskope is expanding UEBA’s existing portfolio of 160 ML based policies with a new SOC Detections Pack that introduces a patented approach for C2 beacon detection. Command and Control (C2) tools, such as Cobalt Strike, employ malleable profiles (patterns that cannot be fingerprinted using tools such as IPS) to circumvent traditional defenses. The SOC Detections Pack enhances Advanced UEBA by providing early detection of compromised devices where C2 beacons have been deployed.
@@ -469,9 +466,8 @@ SOC Detections Pack
 ## HPE Aruba Networking Central Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/hpe-aruba-networking-central-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-27T22:46:10+00:00
-**Scraped:** 2026-11-06T14:13:40.041243+00:00
+**Scraped:** 2026-11-07T12:56:44.846147+00:00
 
-HPE Aruba Networking Central Plugin for Risk Exchange - Netskope Technical Documentation
 HPE Aruba Networking Central Plugin for Risk Exchange
 This document explains how to configure the HPE Aruba Networking Central v1.0.0 plugin with the Risk Exchange module of the Netskope Cloud Exchange platform. This plugin is used to fetch Wired and Wireless clients data from Aruba Networking Central of HPE Greenlake. It retrieves the clients from the
 Aruba Networking Central > Clients
@@ -1138,14 +1134,14 @@ Validate in HPE Aruba Networking Central
 section.
 In this Topic
 HPE Aruba Networking Central Plugin for Risk Exchange
+HPE Aruba Networking Central Plugin for Risk Exchange - Netskope Technical Documentation
 
 ---
 ## Optional Tuning
 **URL:** https://docs.netskope.com/en/advanced-ueba-optional-tuning/
 **Last Modified:** 2026-07-31T22:13:07+00:00
-**Scraped:** 2026-11-06T14:22:04.326376+00:00
+**Scraped:** 2026-11-07T13:05:35.384633+00:00
 
-Optional Tuning - Netskope Technical Documentation
 Optional Tuning
 The steps detailed in this section are optional and should be implemented based on organizational needs.
 Configure Insider Threats & Advanced Compromise Policies
