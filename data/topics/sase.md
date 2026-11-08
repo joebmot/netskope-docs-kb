@@ -1,12 +1,12 @@
 # Netskope Docs — Sase
-_Generated: 2026-11-07 13:35 UTC_
+_Generated: 2026-11-08 13:49 UTC_
 _Pages: 6_
 
 ---
 ## Borderless SD-WAN
 **URL:** https://docs.netskope.com/en/borderless-sd-wan/
 **Last Modified:** 2026-06-02T01:38:20+00:00
-**Scraped:** 2026-11-07T12:35:59.792436+00:00
+**Scraped:** 2026-11-08T12:53:53.690698+00:00
 
 Borderless SD-WAN
 The enterprise perimeter is expanding, with users and devices everywhere, and apps distributed across multiple clouds. While legacy WAN solutions fail to meet the modern enterprise’s requirements, Borderless SD-WAN ensures a secure, high-quality experience—anywhere and to any cloud. It simplifies the steering of traffic to the Netskope Security Cloud, so customers can more rapidly take advantage of Netskope Intelligent SSE.
@@ -22,7 +22,7 @@ Borderless SD-WAN
 ## Netskope IPSec with Aruba EdgeConnect SD-WAN
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-aruba-edgeconnect-sd-wan/
 **Last Modified:** 2025-08-31T01:55:23+00:00
-**Scraped:** 2026-11-07T12:50:31.473327+00:00
+**Scraped:** 2026-11-08T13:07:23.967127+00:00
 
 Netskope IPSec with Aruba EdgeConnect SD-WAN
 Netskope supports Internet Protocol Security (IPSec) tunnels as a traffic steering method. IPSec VPN tunnels allow you to route web traffic (port 80 and 443) to Netskope using logical tunnel interfaces that terminate to a Netskope IPSec gateway. When you create IPSec tunnels in the Netskope UI, Netskope provides parameters for configuring the tunnels on your router.
@@ -342,14 +342,14 @@ up – active
 status:
 In this Topic
 Netskope IPSec with Aruba EdgeConnect SD-WAN
-Netskope IPSec with Aruba EdgeConnect SD-WAN - Netskope Technical Documentation
 
 ---
 ## Netskope Borderless WAN Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-tenant-plugin/
 **Last Modified:** 2026-11-06T23:02:00+00:00
-**Scraped:** 2026-11-07T12:56:00.034031+00:00
+**Scraped:** 2026-11-08T13:12:27.924408+00:00
 
+Netskope Borderless WAN Tenant Plugin - Netskope Technical Documentation
 Netskope Borderless WAN Tenant Plugin
 Release Notes
 1.2.0 (Minimum required CE version 6.1.0)
@@ -744,15 +744,13 @@ Generate an Auth Token
 .
 In this Topic
 Netskope Borderless WAN Tenant Plugin
-Netskope Borderless WAN Tenant Plugin - Netskope Technical Documentation
 
 ---
 ## Netskope Borderless WAN Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-log-shipper/
 **Last Modified:** 2026-11-06T23:44:21+00:00
-**Scraped:** 2026-11-07T12:56:01.201908+00:00
+**Scraped:** 2026-11-08T13:12:29.067137+00:00
 
-Netskope Borderless WAN Plugin for Log Shipper - Netskope Technical Documentation
 Netskope Borderless WAN Plugin for Log Shipper
 Release Notes
 1.2.0
@@ -1251,21 +1249,21 @@ Netskope Borderless WAN Plugin for Log Shipper
 ## Netskope One SD-WAN Licensing Terms
 **URL:** https://docs.netskope.com/en/netskope-one-sd-wan-licensing-terms/
 **Last Modified:** 2026-08-14T17:15:50+00:00
-**Scraped:** 2026-11-07T13:07:45.294869+00:00
+**Scraped:** 2026-11-08T13:23:30.255360+00:00
 
+Netskope One SD-WAN Licensing Terms - Netskope Technical Documentation
 Netskope One SD-WAN Licensing Terms
 To learn more:
 Netskope One SD-WAN Licensing Terms
 The documentation is behind a login wall. You can log in with your existing credential or sign up.
 In this Topic
 Netskope One SD-WAN Licensing Terms
-Netskope One SD-WAN Licensing Terms - Netskope Technical Documentation
 
 ---
 ## Netskope Borderless WAN Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-risk-exchange/
 **Last Modified:** 2026-11-06T04:24:47+00:00
-**Scraped:** 2026-11-07T13:12:26.672096+00:00
+**Scraped:** 2026-11-08T13:27:48.853143+00:00
 
 Netskope Borderless WAN Plugin for Risk Exchange - Netskope Technical Documentation
 Netskope Borderless WAN Plugin for Risk Exchange
