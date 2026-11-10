@@ -1,12 +1,12 @@
 # Netskope Docs — Ztna
-_Generated: 2026-11-09 16:10 UTC_
+_Generated: 2026-11-10 15:23 UTC_
 _Pages: 104_
 
 ---
 ## Deploy the Netskope Client for Netskope Private Access
 **URL:** https://docs.netskope.com/en/deploy-the-netskope-client-for-netskope-private-access/
 **Last Modified:** 2026-05-26T21:44:42+00:00
-**Scraped:** 2026-11-09T15:07:39.995259+00:00
+**Scraped:** 2026-11-10T14:20:30.651894+00:00
 
 Deploy the Netskope Client for Netskope Private Access - Netskope Technical Documentation
 Deploy the Netskope Client for Netskope Private Access
@@ -48,7 +48,7 @@ Deploy the Netskope Client for Netskope Private Access
 ## Install the Client for Private Access
 **URL:** https://docs.netskope.com/en/install-the-client-for-private-access/
 **Last Modified:** 2026-08-31T17:36:25+00:00
-**Scraped:** 2026-11-09T15:09:13.735199+00:00
+**Scraped:** 2026-11-10T14:22:06.352353+00:00
 
 Install the Client for Private Access - Netskope Technical Documentation
 Install the Client for Private Access
@@ -74,7 +74,7 @@ Install the Client for Private Access
 ## Netskope Private Access for Microsoft Active Directory Domain Services
 **URL:** https://docs.netskope.com/en/netskope-private-access-for-microsoft-active-directory-domain-services/
 **Last Modified:** 2026-03-03T02:37:43+00:00
-**Scraped:** 2026-11-09T15:10:09.334692+00:00
+**Scraped:** 2026-11-10T14:23:03.193979+00:00
 
 Netskope Private Access for Microsoft Active Directory Domain Services - Netskope Technical Documentation
 Netskope Private Access for Microsoft Active Directory Domain Services
@@ -239,7 +239,7 @@ Netskope Private Access for Microsoft Active Directory Domain Services
 ## Netskope Private Access for SMB and DFS Services
 **URL:** https://docs.netskope.com/en/netskope-private-access-for-smb-and-dfs-services/
 **Last Modified:** 2026-01-24T01:02:36+00:00
-**Scraped:** 2026-11-09T15:10:10.413832+00:00
+**Scraped:** 2026-11-10T14:23:04.316835+00:00
 
 Netskope Private Access for SMB and DFS Services
 This article explains how to configure Netskope Private Access (NPA) applications for file sharing protocols such as Server Message Block (SMB) and Distributed File System (DFS).
@@ -330,7 +330,7 @@ Netskope Private Access for SMB and DFS Services
 ## Private Access Best Practices
 **URL:** https://docs.netskope.com/en/private-access-best-practices/
 **Last Modified:** 2026-10-14T22:00:17+00:00
-**Scraped:** 2026-11-09T15:11:01.484616+00:00
+**Scraped:** 2026-11-10T14:23:56.499111+00:00
 
 Private Access Best Practices - Netskope Technical Documentation
 Private Access Best Practices
@@ -497,7 +497,7 @@ Private Access Best Practices
 ## Private Access Troubleshooting
 **URL:** https://docs.netskope.com/en/private-access-troubleshooting/
 **Last Modified:** 2026-03-24T00:06:56+00:00
-**Scraped:** 2026-11-09T15:11:02.545961+00:00
+**Scraped:** 2026-11-10T14:23:57.593583+00:00
 
 Private Access Troubleshooting - Netskope Technical Documentation
 Private Access Troubleshooting
@@ -525,8 +525,9 @@ Private Access Troubleshooting
 ## Private Access REST APIs
 **URL:** https://docs.netskope.com/en/private-access-rest-apis/
 **Last Modified:** 2026-01-22T22:07:06+00:00
-**Scraped:** 2026-11-09T15:11:03.669910+00:00
+**Scraped:** 2026-11-10T14:23:58.738200+00:00
 
+Private Access REST APIs - Netskope Technical Documentation
 Private Access REST APIs
 This topic explains how to use the new REST API v2 pages in the Netskope UI for Private Access Publishers and Private Apps.
 Netskope REST APIs use an auth token to make authorized calls to the API. Netskope REST APIs provide access to resources via URI paths. The token must be used in every REST API call for the tenant. The token can be created for use with specified APIs in the Netskope UI by going to
@@ -1277,9 +1278,8 @@ Private Access REST APIs
 ## Private Access FAQs
 **URL:** https://docs.netskope.com/en/private-access-faqs/
 **Last Modified:** 2026-11-04T23:12:14+00:00
-**Scraped:** 2026-11-09T15:11:04.746468+00:00
+**Scraped:** 2026-11-10T14:23:59.866679+00:00
 
-Private Access FAQs - Netskope Technical Documentation
 Private Access FAQs
 Can Netskope Private Access co-exist with other VPN clients?
 Netskope supports the following deployment model for Netskope Private Access in the presence of another VPN client on the user’s device.
@@ -1558,7 +1558,7 @@ Private Access FAQs
 ## Source IP Anchoring for an IdP with Netskope Private Access
 **URL:** https://docs.netskope.com/en/source-ip-anchoring-for-an-idp-with-netskope-private-access/
 **Last Modified:** 2026-01-27T00:34:15+00:00
-**Scraped:** 2026-11-09T15:12:32.221168+00:00
+**Scraped:** 2026-11-10T14:25:24.380075+00:00
 
 Source IP Anchoring for an IdP with Netskope Private Access - Netskope Technical Documentation
 Source IP Anchoring for an IdP with Netskope Private Access
@@ -1628,7 +1628,7 @@ Source IP Anchoring for an IdP with Netskope Private Access
 ## View Private Access Status for Devices
 **URL:** https://docs.netskope.com/en/view-private-access-status-for-devices/
 **Last Modified:** 2026-03-03T01:35:40+00:00
-**Scraped:** 2026-11-09T15:13:51.039757+00:00
+**Scraped:** 2026-11-10T14:26:44.327414+00:00
 
 View Private Access Status for Devices - Netskope Technical Documentation
 View Private Access Status for Devices
@@ -1649,7 +1649,7 @@ View Private Access Status for Devices
 ## What Do the Private Access Device Status Types Mean?
 **URL:** https://docs.netskope.com/en/what-do-the-private-access-device-status-types-mean/
 **Last Modified:** 2026-03-03T02:28:39+00:00
-**Scraped:** 2026-11-09T15:14:13.750792+00:00
+**Scraped:** 2026-11-10T14:27:07.483465+00:00
 
 What Do the Private Access Device Status Types Mean? - Netskope Technical Documentation
 What Do the Private Access Device Status Types Mean?
@@ -1671,9 +1671,8 @@ What Do the Private Access Device Status Types Mean?
 ## Windows Autopilot with Private Access Prelogon
 **URL:** https://docs.netskope.com/en/windows-autopilot-with-private-access-prelogon/
 **Last Modified:** 2026-01-16T00:46:36+00:00
-**Scraped:** 2026-11-09T15:14:20.215698+00:00
+**Scraped:** 2026-11-10T14:27:14.112715+00:00
 
-Windows Autopilot with Private Access Prelogon - Netskope Technical Documentation
 Windows Autopilot with Private Access Prelogon
 Traditionally IT administrators spend a lot of time on building and customizing OS images, compatibility testing with various device makes and models etc. Every device typically goes through a re-imaging process with additional pre and post validation to make sure it is ready for use in the field. This process implies major cost and time effort.
 Windows Autopilot is a collection of Microsoft technologies working in concert that help to simplify and streamline the bulk deployment, setup, and configuration of Windows 10/11 devices in organization to ensure they are provisioned and locked down according to corporate standards. Autopilot also can be used for device reset, repurpose and recovery.
@@ -1802,8 +1801,9 @@ Windows Autopilot with Private Access Prelogon
 ## ZTNA Policy Best Practices for Session 0 (VDI Tunnel User)
 **URL:** https://docs.netskope.com/en/ztna-policy-best-practices-for-session-0-vdi-tunnel-user/
 **Last Modified:** 2025-08-31T01:45:44+00:00
-**Scraped:** 2026-11-09T15:32:03.065745+00:00
+**Scraped:** 2026-11-10T14:45:18.316196+00:00
 
+ZTNA Policy Best Practices for Session 0 (VDI Tunnel User) - Netskope Technical Documentation
 ZTNA Policy Best Practices for Session 0 (VDI Tunnel User)
 Understanding Session 0:
 In Windows, Session ID 0 is reserved for system services and processes running under the SYSTEM account​. Any network traffic originating from these services (e.g. Windows system services, antivirus agents) appears as “Session 0” traffic. In Virtual Desktop (VDI) or multi-user environments, this traffic is
@@ -1946,7 +1946,7 @@ ZTNA Policy Best Practices for Session 0 (VDI Tunnel User)
 ## Configuring Enterprise Browser and Private Access Integration
 **URL:** https://docs.netskope.com/en/configuring-enterprise-browser-and-private-access-integration/
 **Last Modified:** 2026-03-17T17:02:33+00:00
-**Scraped:** 2026-11-09T15:40:25.940427+00:00
+**Scraped:** 2026-11-10T14:53:52.785007+00:00
 
 Configuring Enterprise Browser and Private Access Integration - Netskope Technical Documentation
 Configuring Enterprise Browser and Private Access Integration
@@ -2116,7 +2116,7 @@ Configuring Enterprise Browser and Private Access Integration
 ## Citrix VDI Considerations for Netskope Private Access (NPA)
 **URL:** https://docs.netskope.com/en/citrix-vdi-considerations-for-netskope-private-access-npa/
 **Last Modified:** 2026-04-15T01:28:32+00:00
-**Scraped:** 2026-11-09T15:41:30.090081+00:00
+**Scraped:** 2026-11-10T14:54:58.669919+00:00
 
 Citrix VDI Considerations for Netskope Private Access (NPA) - Netskope Technical Documentation
 Citrix VDI Considerations for Netskope Private Access (NPA)
@@ -2429,7 +2429,7 @@ Citrix VDI Considerations for Netskope Private Access (NPA)
 ## Configure Privileged Remote Access
 **URL:** https://docs.netskope.com/en/private-access-pra/
 **Last Modified:** 2026-11-02T22:41:52+00:00
-**Scraped:** 2026-11-09T15:42:12.518410+00:00
+**Scraped:** 2026-11-10T14:55:42.385811+00:00
 
 Configure Privileged Remote Access - Netskope Technical Documentation
 Configure Privileged Remote Access
@@ -2601,7 +2601,7 @@ Configure Privileged Remote Access
 ## Private Access AIOps Agent - Netskope Technical Documentation
 **URL:** https://docs.netskope.com/en/private-access-aiops-agent/
 **Last Modified:** 2026-07-24T19:38:36+00:00
-**Scraped:** 2026-11-09T15:43:29.918246+00:00
+**Scraped:** 2026-11-10T14:57:02.021383+00:00
 
 Private Access AIOps Agent - Netskope Technical Documentation
 
@@ -2609,9 +2609,8 @@ Private Access AIOps Agent - Netskope Technical Documentation
 ## Private Access AIOps Agent
 **URL:** https://docs.netskope.com/en/private-access-ai-ops-agent/
 **Last Modified:** 2026-09-02T22:01:40+00:00
-**Scraped:** 2026-11-09T15:43:35.421138+00:00
+**Scraped:** 2026-11-10T14:57:07.696787+00:00
 
-Private Access AIOps Agent - Netskope Technical Documentation
 Private Access AIOps Agent
 The Private Access AIOps Agent:
 Generates Application Segments and Real-time policies.
@@ -2791,8 +2790,9 @@ Private Access AIOps Agent
 ## Netskope One Private Access Licensing Terms
 **URL:** https://docs.netskope.com/en/netskope-one-private-access-licensing-terms/
 **Last Modified:** 2026-10-28T01:13:54+00:00
-**Scraped:** 2026-11-09T15:43:48.452695+00:00
+**Scraped:** 2026-11-10T14:57:21.067846+00:00
 
+Netskope One Private Access Licensing Terms - Netskope Technical Documentation
 Netskope One Private Access Licensing Terms
 Service Description
 Netskope One Private Access (NPA) inspects and enforces policy on user traffic transiting the Netskope NewEdge network, providing visibility and access control across a customer’s private application traffic.
@@ -2850,9 +2850,8 @@ Netskope One Private Access Licensing Terms
 ## Netskope Private Access
 **URL:** https://docs.netskope.com/en/netskope-private-access/
 **Last Modified:** 2025-11-04T21:46:41+00:00
-**Scraped:** 2026-11-09T15:48:24.937882+00:00
+**Scraped:** 2026-11-10T15:02:04.709000+00:00
 
-Netskope Private Access - Netskope Technical Documentation
 Netskope Private Access
 Netskope Private Access (NPA) offers a comprehensive solution that combines classic Zero Trust Network Access (ZTNA) for user-to-application flows with Layer 3 (L3) access for client-to-client and server-to-client interactions. This dual approach ensures secure, seamless, least-privileged access to applications, whether hosted in the cloud or on-premises, and supports workflows requiring direct communication like file sharing, remote desktop, and specialized applications.
 By replacing legacy VPNs with a modern Zero Trust framework, Netskope Private Access enhances security with granular, context-aware controls, simplifies operations, and delivers comprehensive access coverage across all scenarios.
@@ -2991,7 +2990,7 @@ Netskope Private Access
 ## Netskope Private Access Publisher Release Notes Version 1.4.6431
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-1-4-6431/
 **Last Modified:** 2025-08-31T02:03:16+00:00
-**Scraped:** 2026-11-09T15:51:58.766817+00:00
+**Scraped:** 2026-11-10T15:05:41.963762+00:00
 
 Netskope Private Access Publisher Release Notes Version 1.4.6431 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 1.4.6431
@@ -3006,7 +3005,7 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 1.4.6526
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-1-4-6526/
 **Last Modified:** 2025-08-31T02:03:12+00:00
-**Scraped:** 2026-11-09T15:52:00.939687+00:00
+**Scraped:** 2026-11-10T15:05:44.166958+00:00
 
 Netskope Private Access Publisher Release Notes Version 1.4.6526 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 1.4.6526
@@ -3020,7 +3019,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 1.4.6620
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-1-4-6620/
 **Last Modified:** 2025-08-31T02:03:10+00:00
-**Scraped:** 2026-11-09T15:52:02.045479+00:00
+**Scraped:** 2026-11-10T15:05:45.271791+00:00
 
 Netskope Private Access Publisher Release Notes Version 1.4.6620 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 1.4.6620
@@ -3033,7 +3032,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 102.0.0.7784
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-102-0-0-7784/
 **Last Modified:** 2025-08-31T02:02:47+00:00
-**Scraped:** 2026-11-09T15:52:03.126809+00:00
+**Scraped:** 2026-11-10T15:05:46.393500+00:00
 
 Netskope Private Access Publisher Release Notes Version 102.0.0.7784 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 102.0.0.7784
@@ -3047,7 +3046,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 101.0.0.7619
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-101-0-0-7619/
 **Last Modified:** 2025-08-31T02:02:51+00:00
-**Scraped:** 2026-11-09T15:52:04.206910+00:00
+**Scraped:** 2026-11-10T15:05:47.503944+00:00
 
 Netskope Private Access Publisher Release Notes Version 101.0.0.7619 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 101.0.0.7619
@@ -3060,7 +3059,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 1.4.6715
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-1-4-6715/
 **Last Modified:** 2025-08-31T02:03:08+00:00
-**Scraped:** 2026-11-09T15:52:05.293014+00:00
+**Scraped:** 2026-11-10T15:05:48.608194+00:00
 
 Netskope Private Access Publisher Release Notes Version 1.4.6715 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 1.4.6715
@@ -3073,7 +3072,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 105.0.0.8080
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-105-0-0-8080/
 **Last Modified:** 2025-08-31T02:02:32+00:00
-**Scraped:** 2026-11-09T15:52:06.374715+00:00
+**Scraped:** 2026-11-10T15:05:49.707460+00:00
 
 Netskope Private Access Publisher Release Notes Version 105.0.0.8080 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 105.0.0.8080
@@ -3087,7 +3086,7 @@ Since this version includes minor bug fixes and enhancements, the release notes 
 ## Netskope Private Access Publisher Release Notes Version 104.0.0.7933
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-104-0-0-7933/
 **Last Modified:** 2025-08-31T02:02:36+00:00
-**Scraped:** 2026-11-09T15:52:07.459224+00:00
+**Scraped:** 2026-11-10T15:05:50.798280+00:00
 
 Netskope Private Access Publisher Release Notes Version 104.0.0.7933 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 104.0.0.7933
@@ -3101,7 +3100,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 103.0.0.7843
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-103-0-0-7843/
 **Last Modified:** 2025-08-31T02:02:41+00:00
-**Scraped:** 2026-11-09T15:52:08.522700+00:00
+**Scraped:** 2026-11-10T15:05:51.899206+00:00
 
 Netskope Private Access Publisher Release Notes Version 103.0.0.7843 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 103.0.0.7843
@@ -3115,7 +3114,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 94.0.0.6867
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-94-0-0-6867/
 **Last Modified:** 2025-08-31T02:03:00+00:00
-**Scraped:** 2026-11-09T15:52:09.606490+00:00
+**Scraped:** 2026-11-10T15:05:53.012025+00:00
 
 Netskope Private Access Publisher Release Notes Version 94.0.0.6867 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 94.0.0.6867
@@ -3129,7 +3128,7 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 95.0.0.7066
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-95-0-0-7066/
 **Last Modified:** 2025-08-31T02:03:05+00:00
-**Scraped:** 2026-11-09T15:52:10.690857+00:00
+**Scraped:** 2026-11-10T15:05:54.111897+00:00
 
 Netskope Private Access Publisher Release Notes Version 95.0.0.7066 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 95.0.0.7066
@@ -3142,7 +3141,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 97.0.0.7294
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-97-0-0-7294/
 **Last Modified:** 2025-08-31T02:03:03+00:00
-**Scraped:** 2026-11-09T15:52:11.774595+00:00
+**Scraped:** 2026-11-10T15:05:55.211524+00:00
 
 Netskope Private Access Publisher Release Notes Version 97.0.0.7294 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 97.0.0.7294
@@ -3155,7 +3154,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 96.0.0.7170
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-96-0-0-7170/
 **Last Modified:** 2025-08-31T02:03:07+00:00
-**Scraped:** 2026-11-09T15:52:12.853336+00:00
+**Scraped:** 2026-11-10T15:05:56.315636+00:00
 
 Netskope Private Access Publisher Release Notes Version 96.0.0.7170 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 96.0.0.7170
@@ -3168,7 +3167,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 98.1.0.7432
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-98-1-0-7432/
 **Last Modified:** 2025-08-31T02:02:57+00:00
-**Scraped:** 2026-11-09T15:52:13.933774+00:00
+**Scraped:** 2026-11-10T15:05:57.404941+00:00
 
 Netskope Private Access Publisher Release Notes Version 98.1.0.7432 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 98.1.0.7432
@@ -3181,7 +3180,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 98.0.0.7378
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-98-0-0-7378/
 **Last Modified:** 2025-08-31T02:03:02+00:00
-**Scraped:** 2026-11-09T15:52:15.016338+00:00
+**Scraped:** 2026-11-10T15:05:58.499411+00:00
 
 Netskope Private Access Publisher Release Notes Version 98.0.0.7378 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 98.0.0.7378
@@ -3194,7 +3193,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 99.0.0.7505
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-99-0-0-7505/
 **Last Modified:** 2025-08-31T02:02:54+00:00
-**Scraped:** 2026-11-09T15:52:16.096454+00:00
+**Scraped:** 2026-11-10T15:05:59.597629+00:00
 
 Netskope Private Access Publisher Release Notes Version 99.0.0.7505 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 99.0.0.7505
@@ -3207,7 +3206,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 106.0.0.8102
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-106-0-0-8102/
 **Last Modified:** 2025-08-31T02:02:56+00:00
-**Scraped:** 2026-11-09T15:54:35.914089+00:00
+**Scraped:** 2026-11-10T15:08:19.049610+00:00
 
 Netskope Private Access Publisher Release Notes Version 106.0.0.8102 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 106.0.0.8102
@@ -3221,7 +3220,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 107.0.0.8134
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-107-0-0-8134/
 **Last Modified:** 2025-08-31T02:02:52+00:00
-**Scraped:** 2026-11-09T15:54:58.950524+00:00
+**Scraped:** 2026-11-10T15:08:41.493233+00:00
 
 Netskope Private Access Publisher Release Notes Version 107.0.0.8134 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 107.0.0.8134
@@ -3235,7 +3234,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 108.0.0.8181
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-108-0-0-8181/
 **Last Modified:** 2025-08-31T02:02:49+00:00
-**Scraped:** 2026-11-09T15:55:15.754874+00:00
+**Scraped:** 2026-11-10T15:08:58.026145+00:00
 
 Netskope Private Access Publisher Release Notes Version 108.0.0.8181 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 108.0.0.8181
@@ -3249,7 +3248,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 110.0.0.8301
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-110-0-0-11012023/
 **Last Modified:** 2025-08-31T02:02:43+00:00
-**Scraped:** 2026-11-09T15:55:49.429880+00:00
+**Scraped:** 2026-11-10T15:09:32.282825+00:00
 
 Netskope Private Access Publisher Release Notes Version 110.0.0.8301 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 110.0.0.8301
@@ -3265,7 +3264,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 112.0.0.8440
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-112-0-0-8440/
 **Last Modified:** 2025-08-31T02:02:35+00:00
-**Scraped:** 2026-11-09T15:56:32.383469+00:00
+**Scraped:** 2026-11-10T15:10:15.568906+00:00
 
 Netskope Private Access Publisher Release Notes Version 112.0.0.8440 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 112.0.0.8440
@@ -3281,7 +3280,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 113.0.0.8462
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-113-0-0-8462/
 **Last Modified:** 2025-08-31T02:02:31+00:00
-**Scraped:** 2026-11-09T15:56:43.230081+00:00
+**Scraped:** 2026-11-10T15:10:26.557714+00:00
 
 Netskope Private Access Publisher Release Notes Version 113.0.0.8462 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 113.0.0.8462
@@ -3297,7 +3296,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 114.0.0 (Skip release)
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-114-0-0-skip-release/
 **Last Modified:** 2025-08-31T02:02:30+00:00
-**Scraped:** 2026-11-09T15:57:01.743693+00:00
+**Scraped:** 2026-11-10T15:10:45.560596+00:00
 
 Netskope Private Access Publisher Release Notes Version 114.0.0 (Skip release) - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 114.0.0 (Skip release)
@@ -3309,7 +3308,7 @@ as the latest release.
 ## Netskope Private Access Publisher Release Notes Version 115.0.0.8634
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-115-0-0-8634/
 **Last Modified:** 2025-08-31T02:02:29+00:00
-**Scraped:** 2026-11-09T15:57:15.970714+00:00
+**Scraped:** 2026-11-10T15:10:59.954743+00:00
 
 Netskope Private Access Publisher Release Notes Version 115.0.0.8634 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 115.0.0.8634
@@ -3325,7 +3324,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 116.0.0.8665
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-116-0-0-8665/
 **Last Modified:** 2025-08-31T02:02:26+00:00
-**Scraped:** 2026-11-09T15:57:35.492363+00:00
+**Scraped:** 2026-11-10T15:11:19.838217+00:00
 
 Netskope Private Access Publisher Release Notes Version 116.0.0.8665 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 116.0.0.8665
@@ -3340,7 +3339,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 117.0.0.8690
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-117-0-0-8690/
 **Last Modified:** 2025-08-31T02:02:25+00:00
-**Scraped:** 2026-11-09T15:57:54.012923+00:00
+**Scraped:** 2026-11-10T15:11:38.621212+00:00
 
 Netskope Private Access Publisher Release Notes Version 117.0.0.8690 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 117.0.0.8690
@@ -3357,7 +3356,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 118.0.0.8741
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-118-0-0-8741/
 **Last Modified:** 2025-08-31T02:02:23+00:00
-**Scraped:** 2026-11-09T15:58:20.585686+00:00
+**Scraped:** 2026-11-10T15:12:05.284231+00:00
 
 Netskope Private Access Publisher Release Notes Version 118.0.0.8741 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 118.0.0.8741
@@ -3373,7 +3372,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 119.0.0.8846
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-119-0-0-8846/
 **Last Modified:** 2025-08-31T02:02:21+00:00
-**Scraped:** 2026-11-09T15:58:35.825742+00:00
+**Scraped:** 2026-11-10T15:12:20.762922+00:00
 
 Netskope Private Access Publisher Release Notes Version 119.0.0.8846 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 119.0.0.8846
@@ -3389,7 +3388,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 120.0.0.8869
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-120-0-0-8869/
 **Last Modified:** 2025-08-31T02:02:18+00:00
-**Scraped:** 2026-11-09T15:58:50.010453+00:00
+**Scraped:** 2026-11-10T15:12:35.128210+00:00
 
 Netskope Private Access Publisher Release Notes Version 120.0.0.8869 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 120.0.0.8869
@@ -3407,7 +3406,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 121.0.0.8953
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-121-0-0-8953/
 **Last Modified:** 2025-08-31T02:02:17+00:00
-**Scraped:** 2026-11-09T15:59:11.017750+00:00
+**Scraped:** 2026-11-10T15:12:56.290578+00:00
 
 Netskope Private Access Publisher Release Notes Version 121.0.0.8953 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 121.0.0.8953
@@ -3426,7 +3425,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 122.0.0.9124
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-122-0-0-9124/
 **Last Modified:** 2025-08-31T02:02:15+00:00
-**Scraped:** 2026-11-09T15:59:24.062039+00:00
+**Scraped:** 2026-11-10T15:13:09.511443+00:00
 
 Netskope Private Access Publisher Release Notes Version 122.0.0.9124 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 122.0.0.9124
@@ -3445,7 +3444,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 123.0.0.9194
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-123-0-0-9194/
 **Last Modified:** 2025-08-31T02:02:13+00:00
-**Scraped:** 2026-11-09T16:00:31.845023+00:00
+**Scraped:** 2026-11-10T15:14:18.130997+00:00
 
 Netskope Private Access Publisher Release Notes Version 123.0.0.9194 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 123.0.0.9194
@@ -3464,7 +3463,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 124.0.0.9304
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-124-0-0-9304/
 **Last Modified:** 2025-08-31T02:02:12+00:00
-**Scraped:** 2026-11-09T16:00:42.683557+00:00
+**Scraped:** 2026-11-10T15:14:29.140277+00:00
 
 Netskope Private Access Publisher Release Notes Version 124.0.0.9304 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 124.0.0.9304
@@ -3481,7 +3480,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 124.1.0.9370
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-124-1-0-9370/
 **Last Modified:** 2025-08-31T02:02:10+00:00
-**Scraped:** 2026-11-09T16:00:48.110845+00:00
+**Scraped:** 2026-11-10T15:14:34.653171+00:00
 
 Netskope Private Access Publisher Release Notes Version 124.1.0.9370 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 124.1.0.9370
@@ -3498,7 +3497,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 125.0.0.9474
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-125-0-0-9474/
 **Last Modified:** 2025-08-31T02:02:08+00:00
-**Scraped:** 2026-11-09T16:01:10.217902+00:00
+**Scraped:** 2026-11-10T15:14:57.015272+00:00
 
 Netskope Private Access Publisher Release Notes Version 125.0.0.9474 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 125.0.0.9474
@@ -3514,7 +3513,7 @@ Known Issues
 ## Netskope Private Access Publisher Release Notes Version 126.0.0.9487
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-126-0-0-9487/
 **Last Modified:** 2025-08-31T02:02:05+00:00
-**Scraped:** 2026-11-09T16:01:22.193428+00:00
+**Scraped:** 2026-11-10T15:15:09.182860+00:00
 
 Netskope Private Access Publisher Release Notes Version 126.0.0.9487 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 126.0.0.9487
@@ -3529,7 +3528,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 128.0.0.9857
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-128-0-0-9857/
 **Last Modified:** 2025-08-31T02:02:03+00:00
-**Scraped:** 2026-11-09T16:02:04.603869+00:00
+**Scraped:** 2026-11-10T15:15:52.478422+00:00
 
 Netskope Private Access Publisher Release Notes Version 128.0.0.9857 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 128.0.0.9857
@@ -3544,7 +3543,7 @@ What's New
 ## Netskope Private Access Publisher Release Notes Version 129.0.0.10054
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-129-0-0-10054/
 **Last Modified:** 2025-08-31T02:02:01+00:00
-**Scraped:** 2026-11-09T16:02:25.636613+00:00
+**Scraped:** 2026-11-10T15:16:13.476554+00:00
 
 Netskope Private Access Publisher Release Notes Version 129.0.0.10054 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 129.0.0.10054
@@ -3562,7 +3561,7 @@ Fixed Issues
 ## Netskope One Private Access Publisher Release Notes Version 130.0.0.10218
 **URL:** https://docs.netskope.com/en/netskope-one-private-access-publisher-release-notes-version-130-0-0-10218/
 **Last Modified:** 2025-09-08T20:25:45+00:00
-**Scraped:** 2026-11-09T16:02:49.529928+00:00
+**Scraped:** 2026-11-10T15:16:37.770363+00:00
 
 Netskope One Private Access Publisher Release Notes Version 130.0.0.10218 - Netskope Technical Documentation
 Netskope One Private Access Publisher Release Notes Version 130.0.0.10218
@@ -3580,7 +3579,7 @@ Fixed Issues
 ## Netskope One Private Access Publisher Release Notes Version 130.0.0.10218
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-one-private-access-publisher-version-130-0-0-10218/
 **Last Modified:** 2025-09-08T20:39:46+00:00
-**Scraped:** 2026-11-09T16:02:50.618816+00:00
+**Scraped:** 2026-11-10T15:16:38.876125+00:00
 
 Netskope One Private Access Publisher Release Notes Version 130.0.0.10218 - Netskope Technical Documentation
 Netskope One Private Access Publisher Release Notes Version 130.0.0.10218
@@ -3598,7 +3597,7 @@ Fixed Issues
 ## Netskope One Private Access Publisher Release Notes Version 130.0.0.10218
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-one-private-access-publisher-version-130-0-0-10218/
 **Last Modified:** 2025-09-08T20:26:07+00:00
-**Scraped:** 2026-11-09T16:02:51.712509+00:00
+**Scraped:** 2026-11-10T15:16:39.987583+00:00
 
 Netskope One Private Access Publisher Release Notes Version 130.0.0.10218 - Netskope Technical Documentation
 Netskope One Private Access Publisher Release Notes Version 130.0.0.10218
@@ -3616,7 +3615,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 131.0.0
 **URL:** https://docs.netskope.com/en/netskope-one-private-access-release-notes-version-131-0-0/
 **Last Modified:** 2025-12-05T02:34:22+00:00
-**Scraped:** 2026-11-09T16:03:09.409248+00:00
+**Scraped:** 2026-11-10T15:16:57.882603+00:00
 
 Netskope Private Access Release Notes Version 131.0.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 131.0.0
@@ -3737,7 +3736,7 @@ NPA Local Broker now supports a pre-built Ubuntu 22.04 image in Hyper-V (VHDX) f
 ## Netskope Private Access Release Notes Version 132.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-132-0/
 **Last Modified:** 2025-12-05T01:38:50+00:00
-**Scraped:** 2026-11-09T16:03:50.828116+00:00
+**Scraped:** 2026-11-10T15:17:40.040686+00:00
 
 Netskope Private Access Release Notes Version 132.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 132.0
@@ -3758,7 +3757,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 132.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-132-0/
 **Last Modified:** 2025-12-05T20:47:48+00:00
-**Scraped:** 2026-11-09T16:03:51.950786+00:00
+**Scraped:** 2026-11-10T15:17:41.143261+00:00
 
 Netskope Private Access Release Notes Version 132.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 132.0
@@ -3779,7 +3778,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 132.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-132-0/
 **Last Modified:** 2025-12-05T20:49:17+00:00
-**Scraped:** 2026-11-09T16:03:53.032142+00:00
+**Scraped:** 2026-11-10T15:17:42.258496+00:00
 
 Netskope Private Access Release Notes Version 132.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 132.0
@@ -3800,7 +3799,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 133.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-133-0/
 **Last Modified:** 2025-12-10T05:07:46+00:00
-**Scraped:** 2026-11-09T16:03:56.296672+00:00
+**Scraped:** 2026-11-10T15:17:45.634659+00:00
 
 Netskope Private Access Release Notes Version 133.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 133.0
@@ -3813,7 +3812,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 133.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-133-0/
 **Last Modified:** 2026-03-31T00:38:37+00:00
-**Scraped:** 2026-11-09T16:03:57.380111+00:00
+**Scraped:** 2026-11-10T15:17:46.816892+00:00
 
 Netskope Private Access Release Notes Version 133.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 133.0
@@ -3826,7 +3825,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 133.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-133-0/
 **Last Modified:** 2026-02-09T23:55:30+00:00
-**Scraped:** 2026-11-09T16:03:58.463830+00:00
+**Scraped:** 2026-11-10T15:17:47.945525+00:00
 
 Netskope Private Access Release Notes Version 133.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 133.0
@@ -3839,7 +3838,7 @@ Fixed Issues
 ## Netskope Private Access Publisher Release Notes Version 134.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-publisher-release-notes-version-134-0/
 **Last Modified:** 2026-02-10T03:57:42+00:00
-**Scraped:** 2026-11-09T16:04:40.128095+00:00
+**Scraped:** 2026-11-10T15:18:29.854293+00:00
 
 Netskope Private Access Publisher Release Notes Version 134.0 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 134.0
@@ -3854,7 +3853,7 @@ Deprecated
 ## Netskope Private Access Publisher Release Notes Version 134.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-134-0/
 **Last Modified:** 2026-05-18T21:29:54+00:00
-**Scraped:** 2026-11-09T16:04:41.218360+00:00
+**Scraped:** 2026-11-10T15:18:30.966288+00:00
 
 Netskope Private Access Publisher Release Notes Version 134.0 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 134.0
@@ -3869,7 +3868,7 @@ Deprecated
 ## Netskope Private Access Publisher Release Notes Version 134.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-134-0/
 **Last Modified:** 2026-05-18T21:30:16+00:00
-**Scraped:** 2026-11-09T16:04:42.304233+00:00
+**Scraped:** 2026-11-10T15:18:32.076016+00:00
 
 Netskope Private Access Publisher Release Notes Version 134.0 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 134.0
@@ -3884,7 +3883,7 @@ Deprecated
 ## Netskope Private Access Publisher Release Notes Version 134.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-private-access-version-134-0/
 **Last Modified:** 2026-02-10T18:30:34+00:00
-**Scraped:** 2026-11-09T16:04:43.393884+00:00
+**Scraped:** 2026-11-10T15:18:33.191781+00:00
 
 Netskope Private Access Publisher Release Notes Version 134.0 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 134.0
@@ -3899,7 +3898,7 @@ Deprecated
 ## Netskope Private Access Publisher Release Notes Version 134.0
 **URL:** https://docs.netskope.com/en/deprecated-features-in-netskope-private-access-version-134-0/
 **Last Modified:** 2026-02-10T03:56:29+00:00
-**Scraped:** 2026-11-09T16:04:44.502627+00:00
+**Scraped:** 2026-11-10T15:18:34.304445+00:00
 
 Netskope Private Access Publisher Release Notes Version 134.0 - Netskope Technical Documentation
 Netskope Private Access Publisher Release Notes Version 134.0
@@ -3914,7 +3913,7 @@ Deprecated
 ## Netskope Private Access Release Notes Version 135.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-135-0/
 **Last Modified:** 2026-03-11T18:29:07+00:00
-**Scraped:** 2026-11-09T16:05:13.318579+00:00
+**Scraped:** 2026-11-10T15:19:03.093528+00:00
 
 Netskope Private Access Release Notes Version 135.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 135.0
@@ -3926,7 +3925,7 @@ What's New
 ## Netskope Private Access Release Notes Version 135.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-135-0/
 **Last Modified:** 2026-03-11T18:27:39+00:00
-**Scraped:** 2026-11-09T16:05:14.401363+00:00
+**Scraped:** 2026-11-10T15:19:04.193450+00:00
 
 Netskope Private Access Release Notes Version 135.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 135.0
@@ -3938,7 +3937,7 @@ What's New
 ## Netskope Private Access Release Notes Version 136.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-136-0/
 **Last Modified:** 2026-04-17T21:57:18+00:00
-**Scraped:** 2026-11-09T16:05:48.366334+00:00
+**Scraped:** 2026-11-10T15:19:38.383501+00:00
 
 Netskope Private Access Release Notes Version 136.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 136.0
@@ -3951,7 +3950,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 136.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-136-0/
 **Last Modified:** 2026-07-02T20:51:06+00:00
-**Scraped:** 2026-11-09T16:05:49.449018+00:00
+**Scraped:** 2026-11-10T15:19:39.500103+00:00
 
 Netskope Private Access Release Notes Version 136.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 136.0
@@ -3964,7 +3963,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 136.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-136-0/
 **Last Modified:** 2026-05-18T21:31:38+00:00
-**Scraped:** 2026-11-09T16:05:50.533938+00:00
+**Scraped:** 2026-11-10T15:19:40.617026+00:00
 
 Netskope Private Access Release Notes Version 136.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 136.0
@@ -3977,9 +3976,8 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 137.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-137-0/
 **Last Modified:** 2026-05-14T19:34:44+00:00
-**Scraped:** 2026-11-09T16:06:34.231406+00:00
+**Scraped:** 2026-11-10T15:20:24.886595+00:00
 
-Netskope Private Access Release Notes Version 137.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 137.0
 Published on: May 14, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -3991,9 +3989,8 @@ Known Issues
 ## Netskope Private Access Release Notes Version 137.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-137-0/
 **Last Modified:** 2026-06-16T00:04:24+00:00
-**Scraped:** 2026-11-09T16:06:35.316669+00:00
+**Scraped:** 2026-11-10T15:20:25.984932+00:00
 
-Netskope Private Access Release Notes Version 137.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 137.0
 Published on: May 14, 2026
 We are excited to announce our release updates! Get the latest features, issues fixed, and other updates in this release.
@@ -4005,7 +4002,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 137.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-137-0/
 **Last Modified:** 2026-05-14T19:35:17+00:00
-**Scraped:** 2026-11-09T16:06:36.402012+00:00
+**Scraped:** 2026-11-10T15:20:27.086901+00:00
 
 Netskope Private Access Release Notes Version 137.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 137.0
@@ -4019,7 +4016,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 137.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-private-access-version-137-0/
 **Last Modified:** 2026-06-01T23:05:14+00:00
-**Scraped:** 2026-11-09T16:06:37.511076+00:00
+**Scraped:** 2026-11-10T15:20:28.179719+00:00
 
 Netskope Private Access Release Notes Version 137.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 137.0
@@ -4033,7 +4030,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 138.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-138-0/
 **Last Modified:** 2026-06-16T02:30:21+00:00
-**Scraped:** 2026-11-09T16:07:04.776812+00:00
+**Scraped:** 2026-11-10T15:20:56.049742+00:00
 
 Netskope Private Access Release Notes Version 138.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 138.0
@@ -4046,7 +4043,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 138.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-138-0/
 **Last Modified:** 2026-08-24T19:12:06+00:00
-**Scraped:** 2026-11-09T16:07:05.847409+00:00
+**Scraped:** 2026-11-10T15:20:57.152141+00:00
 
 Netskope Private Access Release Notes Version 138.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 138.0
@@ -4059,7 +4056,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 138.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-138-0/
 **Last Modified:** 2026-06-17T20:26:15+00:00
-**Scraped:** 2026-11-09T16:07:06.971010+00:00
+**Scraped:** 2026-11-10T15:20:58.252245+00:00
 
 Netskope Private Access Release Notes Version 138.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 138.0
@@ -4072,7 +4069,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 139.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-139-0/
 **Last Modified:** 2026-08-18T08:29:43+00:00
-**Scraped:** 2026-11-09T16:07:34.381843+00:00
+**Scraped:** 2026-11-10T15:21:25.870686+00:00
 
 Netskope Private Access Release Notes Version 139.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 139.0
@@ -4086,7 +4083,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 139.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-139-0/
 **Last Modified:** 2026-07-16T18:40:56+00:00
-**Scraped:** 2026-11-09T16:07:35.463014+00:00
+**Scraped:** 2026-11-10T15:21:26.980874+00:00
 
 Netskope Private Access Release Notes Version 139.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 139.0
@@ -4100,7 +4097,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 139.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-139-0/
 **Last Modified:** 2026-07-16T18:41:10+00:00
-**Scraped:** 2026-11-09T16:07:36.558403+00:00
+**Scraped:** 2026-11-10T15:21:28.094056+00:00
 
 Netskope Private Access Release Notes Version 139.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 139.0
@@ -4114,7 +4111,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 139.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-private-access-version-139-0/
 **Last Modified:** 2026-07-16T18:41:30+00:00
-**Scraped:** 2026-11-09T16:07:37.643935+00:00
+**Scraped:** 2026-11-10T15:21:29.184461+00:00
 
 Netskope Private Access Release Notes Version 139.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 139.0
@@ -4128,7 +4125,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 140.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-140-0/
 **Last Modified:** 2026-08-18T08:49:12+00:00
-**Scraped:** 2026-11-09T16:08:13.867487+00:00
+**Scraped:** 2026-11-10T15:22:05.740976+00:00
 
 Netskope Private Access Release Notes Version 140.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.0
@@ -4141,7 +4138,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 140.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-140-0/
 **Last Modified:** 2026-08-25T01:47:51+00:00
-**Scraped:** 2026-11-09T16:08:14.956445+00:00
+**Scraped:** 2026-11-10T15:22:06.844710+00:00
 
 Netskope Private Access Release Notes Version 140.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.0
@@ -4154,7 +4151,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 140.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-140-0/
 **Last Modified:** 2026-08-18T08:53:08+00:00
-**Scraped:** 2026-11-09T16:08:16.036741+00:00
+**Scraped:** 2026-11-10T15:22:07.955165+00:00
 
 Netskope Private Access Release Notes Version 140.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.0
@@ -4167,7 +4164,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 140.1
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-140-1/
 **Last Modified:** 2026-10-06T03:28:04+00:00
-**Scraped:** 2026-11-09T16:08:34.522095+00:00
+**Scraped:** 2026-11-10T15:22:26.744036+00:00
 
 Netskope Private Access Release Notes Version 140.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.1
@@ -4181,7 +4178,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 140.1
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-140-1/
 **Last Modified:** 2026-10-06T04:08:44+00:00
-**Scraped:** 2026-11-09T16:08:35.611898+00:00
+**Scraped:** 2026-11-10T15:22:27.869428+00:00
 
 Netskope Private Access Release Notes Version 140.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.1
@@ -4195,7 +4192,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 140.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-140-1/
 **Last Modified:** 2026-09-16T21:05:39+00:00
-**Scraped:** 2026-11-09T16:08:36.694873+00:00
+**Scraped:** 2026-11-10T15:22:28.956054+00:00
 
 Netskope Private Access Release Notes Version 140.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.1
@@ -4209,7 +4206,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 140.1
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-private-access-140-1/
 **Last Modified:** 2026-09-08T19:08:53+00:00
-**Scraped:** 2026-11-09T16:08:37.779689+00:00
+**Scraped:** 2026-11-10T15:22:30.061201+00:00
 
 Netskope Private Access Release Notes Version 140.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 140.1
@@ -4223,7 +4220,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 138.1
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-138-1/
 **Last Modified:** 2026-09-16T21:08:21+00:00
-**Scraped:** 2026-11-09T16:08:51.682500+00:00
+**Scraped:** 2026-11-10T15:22:44.479812+00:00
 
 Netskope Private Access Release Notes Version 138.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 138.1
@@ -4235,7 +4232,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 138.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-138-1/
 **Last Modified:** 2026-09-17T19:23:37+00:00
-**Scraped:** 2026-11-09T16:08:52.746571+00:00
+**Scraped:** 2026-11-10T15:22:45.573875+00:00
 
 Netskope Private Access Release Notes Version 138.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 138.1
@@ -4247,7 +4244,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 139.1
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-139-1/
 **Last Modified:** 2026-09-16T21:10:23+00:00
-**Scraped:** 2026-11-09T16:08:53.812526+00:00
+**Scraped:** 2026-11-10T15:22:46.674116+00:00
 
 Netskope Private Access Release Notes Version 139.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 139.1
@@ -4259,7 +4256,7 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 139.1
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-139-1/
 **Last Modified:** 2026-09-17T19:23:43+00:00
-**Scraped:** 2026-11-09T16:08:54.876516+00:00
+**Scraped:** 2026-11-10T15:22:47.781700+00:00
 
 Netskope Private Access Release Notes Version 139.1 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 139.1
@@ -4271,9 +4268,8 @@ Fixed Issues
 ## Netskope Private Access Release Notes Version 142.0
 **URL:** https://docs.netskope.com/en/netskope-private-access-release-notes-version-142-0/
 **Last Modified:** 2026-10-13T20:30:34+00:00
-**Scraped:** 2026-11-09T16:09:15.562137+00:00
+**Scraped:** 2026-11-10T15:23:09.112521+00:00
 
-Netskope Private Access Release Notes Version 142.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 142.0
 Published on: October 13, 2026
 We are excited to announce our release updates! Here are the latest features, fixed issues, and known issues in this release.
@@ -4285,7 +4281,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 142.0
 **URL:** https://docs.netskope.com/en/new-features-and-enhancements-in-netskope-private-access-version-142-0/
 **Last Modified:** 2026-10-15T23:33:46+00:00
-**Scraped:** 2026-11-09T16:09:16.627869+00:00
+**Scraped:** 2026-11-10T15:23:10.216144+00:00
 
 Netskope Private Access Release Notes Version 142.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 142.0
@@ -4299,7 +4295,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 142.0
 **URL:** https://docs.netskope.com/en/fixed-issues-in-netskope-private-access-version-142-0/
 **Last Modified:** 2026-10-13T20:31:19+00:00
-**Scraped:** 2026-11-09T16:09:17.695963+00:00
+**Scraped:** 2026-11-10T15:23:11.318471+00:00
 
 Netskope Private Access Release Notes Version 142.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 142.0
@@ -4313,7 +4309,7 @@ Known Issues
 ## Netskope Private Access Release Notes Version 142.0
 **URL:** https://docs.netskope.com/en/known-issues-in-netskope-private-access-version-142-0/
 **Last Modified:** 2026-10-13T20:31:33+00:00
-**Scraped:** 2026-11-09T16:09:18.760815+00:00
+**Scraped:** 2026-11-10T15:23:12.420920+00:00
 
 Netskope Private Access Release Notes Version 142.0 - Netskope Technical Documentation
 Netskope Private Access Release Notes Version 142.0

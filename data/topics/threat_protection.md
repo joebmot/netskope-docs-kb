@@ -1,13 +1,14 @@
 # Netskope Docs — Threat Protection
-_Generated: 2026-11-09 16:10 UTC_
+_Generated: 2026-11-10 15:23 UTC_
 _Pages: 86_
 
 ---
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection/
 **Last Modified:** 2025-08-31T01:51:23+00:00
-**Scraped:** 2026-11-09T15:01:25.961927+00:00
+**Scraped:** 2026-11-10T14:14:09.294518+00:00
 
+Advanced Threat Protection - Netskope Technical Documentation
 Advanced Threat Protection
 Protect against unknown malicious websites
 Protect against unknown web threats
@@ -25,7 +26,7 @@ Advanced Threat Protection
 ## Identify Malware in data repositories and action per defined policy
 **URL:** https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
 **Last Modified:** 2025-09-01T12:59:19+00:00
-**Scraped:** 2026-11-09T15:02:46.669535+00:00
+**Scraped:** 2026-11-10T14:15:32.217046+00:00
 
 Identify Malware in data repositories and action per defined policy - Netskope Technical Documentation
 Identify Malware in data repositories and action per defined policy
@@ -51,9 +52,8 @@ Identify Malware in data repositories and action per defined policy
 ## Protect against unknown web threats
 **URL:** https://docs.netskope.com/en/protect-against-unknown-web-threats/
 **Last Modified:** 2025-08-31T01:51:24+00:00
-**Scraped:** 2026-11-09T15:03:11.463658+00:00
+**Scraped:** 2026-11-10T14:15:57.565757+00:00
 
-Protect against unknown web threats - Netskope Technical Documentation
 Protect against unknown web threats
 Netskope Remote Browser Isolation (RBI) isolates uncategorized and risky websites as an option for Netskope Secure Web Gateway (SWG) solutions. Known safe sites are allowed, known bad sites are blocked, and
 risky websites are isolated for safe viewing
@@ -72,7 +72,7 @@ Protect against unknown web threats
 ## Protection against Insider threats
 **URL:** https://docs.netskope.com/en/protection-against-insider-threats/
 **Last Modified:** 2025-08-31T01:51:25+00:00
-**Scraped:** 2026-11-09T15:03:14.692035+00:00
+**Scraped:** 2026-11-10T14:16:00.876960+00:00
 
 Protection against Insider threats - Netskope Technical Documentation
 Protection against Insider threats
@@ -98,7 +98,7 @@ Protection against Insider threats
 ## Threat Protection – Protect state for Managed App Activities
 **URL:** https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:31+00:00
-**Scraped:** 2026-11-09T15:03:28.992175+00:00
+**Scraped:** 2026-11-10T14:16:15.353461+00:00
 
 Threat Protection – Protect state for Managed App Activities - Netskope Technical Documentation
 Threat Protection – Protect state for Managed App Activities
@@ -110,7 +110,7 @@ Threat Protection – Protect state for Managed App Activities
 ## Threat scan on IaaS Storage
 **URL:** https://docs.netskope.com/en/threat-scan-on-iaas-storage/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-11-09T15:03:30.061147+00:00
+**Scraped:** 2026-11-10T14:16:16.463726+00:00
 
 Threat scan on IaaS Storage - Netskope Technical Documentation
 Threat scan on IaaS Storage
@@ -131,8 +131,9 @@ Threat scan on IaaS Storage
 ## Threat Protection Features
 **URL:** https://docs.netskope.com/en/threat-protection-features/
 **Last Modified:** 2025-08-31T01:51:01+00:00
-**Scraped:** 2026-11-09T15:03:31.149643+00:00
+**Scraped:** 2026-11-10T14:16:17.555582+00:00
 
+Threat Protection Features - Netskope Technical Documentation
 Threat Protection Features
 Feature
 Description
@@ -151,7 +152,7 @@ Threat Protection Features
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection-86194/
 **Last Modified:** 2025-09-03T18:23:15+00:00
-**Scraped:** 2026-11-09T15:04:24.423918+00:00
+**Scraped:** 2026-11-10T14:17:11.883206+00:00
 
 Advanced Threat Protection - Netskope Technical Documentation
 Advanced Threat Protection
@@ -269,7 +270,7 @@ Advanced Threat Protection
 ## Creating a Malware Detection Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-detection-profile/
 **Last Modified:** 2025-09-03T18:23:18+00:00
-**Scraped:** 2026-11-09T15:07:00.694017+00:00
+**Scraped:** 2026-11-10T14:19:50.480580+00:00
 
 Creating a Malware Detection Profile - Netskope Technical Documentation
 Creating a Malware Detection Profile
@@ -327,7 +328,7 @@ Creating a Malware Detection Profile
 ## Creating a Threat Protection Policy for API Data Protection
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-api-data-protection/
 **Last Modified:** 2025-09-03T18:23:17+00:00
-**Scraped:** 2026-11-09T15:07:01.793452+00:00
+**Scraped:** 2026-11-10T14:19:51.585602+00:00
 
 Creating a Threat Protection Policy for API Data Protection - Netskope Technical Documentation
 Creating a Threat Protection Policy for API Data Protection
@@ -450,9 +451,8 @@ Creating a Threat Protection Policy for API Data Protection
 ## Creating a Threat Protection Policy for Patient Zero
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-patient-zero/
 **Last Modified:** 2026-09-29T17:16:39+00:00
-**Scraped:** 2026-11-09T15:07:03.954248+00:00
+**Scraped:** 2026-11-10T14:19:53.781117+00:00
 
-Creating a Threat Protection Policy for Patient Zero - Netskope Technical Documentation
 Creating a Threat Protection Policy for Patient Zero
 A patient zero event occurs when a user downloads a file that’s not detected by signature-based analysis (e.g., Netskope AV engine) in Standard Threat Protection. However, if you have Advanced Threat Protection, you can prevent patient zero events by creating a Threat Protection policy that only releases unknown files to users after the Netskope advanced threat engines determine they’re benign. Netskope holds the unknown file and notifies the user that it’s analyzing the file until it determines a verdict. The Netskope advanced threat engines can take up to 10 minutes to analyze the file.
 Netskope recommends using patient zero policies for high risk use cases, such as the following:
@@ -576,7 +576,7 @@ Creating a Threat Protection Policy for Patient Zero
 ## Improved Reporting on Malware Files in API Data Protection
 **URL:** https://docs.netskope.com/en/improved-reporting-on-malware-files-in-api-data-protection/
 **Last Modified:** 2025-09-04T01:12:02+00:00
-**Scraped:** 2026-11-09T15:09:11.547202+00:00
+**Scraped:** 2026-11-10T14:22:04.122028+00:00
 
 Improved Reporting on Malware Files in API Data Protection - Netskope Technical Documentation
 Improved Reporting on Malware Files in API Data Protection
@@ -643,7 +643,7 @@ Improved Reporting on Malware Files in API Data Protection
 ## Malware and Malicious Sites Pages
 **URL:** https://docs.netskope.com/en/malware-and-malicious-sites-pages/
 **Last Modified:** 2025-09-03T18:23:21+00:00
-**Scraped:** 2026-11-09T15:09:35.732319+00:00
+**Scraped:** 2026-11-10T14:22:28.782064+00:00
 
 Malware and Malicious Sites Pages - Netskope Technical Documentation
 Malware and Malicious Sites Pages
@@ -658,7 +658,7 @@ Malware and Malicious Sites Pages
 ## API Source Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/api-source-plugin-for-threat-exchange/
 **Last Modified:** 2025-08-31T01:53:26+00:00
-**Scraped:** 2026-11-09T15:15:25.422799+00:00
+**Scraped:** 2026-11-10T14:28:21.184984+00:00
 
 API Source Plugin for Threat Exchange - Netskope Technical Documentation
 API Source Plugin for Threat Exchange
@@ -838,7 +838,7 @@ API Source Plugin for Threat Exchange
 ## AWS GuardDuty Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/aws-guardduty-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:24+00:00
-**Scraped:** 2026-11-09T15:15:26.513300+00:00
+**Scraped:** 2026-11-10T14:28:22.328995+00:00
 
 AWS GuardDuty Plugin for Threat Exchange - Netskope Technical Documentation
 AWS GuardDuty Plugin for Threat Exchange
@@ -1487,7 +1487,7 @@ AWS GuardDuty Plugin for Threat Exchange
 ## Carbon Black Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/carbon-black-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:33+00:00
-**Scraped:** 2026-11-09T15:15:35.549729+00:00
+**Scraped:** 2026-11-10T14:28:31.364261+00:00
 
 Carbon Black Plugin for Threat Exchange - Netskope Technical Documentation
 Carbon Black Plugin for Threat Exchange
@@ -2187,7 +2187,7 @@ Carbon Black Plugin for Threat Exchange
 ## Configure 3rd-party Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:24:01+00:00
-**Scraped:** 2026-11-09T15:15:45.271481+00:00
+**Scraped:** 2026-11-10T14:28:41.383206+00:00
 
 Configure 3rd-party Threat Exchange Plugins - Netskope Technical Documentation
 Configure 3rd-party Threat Exchange Plugins
@@ -2237,7 +2237,6 @@ Skyhigh Plugin for Threat Exchange
 STIX/TAXII Plugin for Threat Exchange
 Sophos Plugin for Threat Exchange
 Tanium Plugin for Threat Exchange
-Thales Plugin for Threat Exchange
 ThreatConnect Plugin for Threat Exchange
 ThreatQ Plugin for Threat Exchange
 Trellix Plugin for Threat Exchange
@@ -2252,7 +2251,7 @@ Configure 3rd-party Threat Exchange Plugins
 ## Configure Threat Exchange Sharing with your Netskope Tenant
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-sharing-with-your-netskope-tenant/
 **Last Modified:** 2025-11-01T00:39:40+00:00
-**Scraped:** 2026-11-09T15:16:13.480386+00:00
+**Scraped:** 2026-11-10T14:29:10.193623+00:00
 
 Configure Threat Exchange Sharing with your Netskope Tenant - Netskope Technical Documentation
 Configure Threat Exchange Sharing with your Netskope Tenant
@@ -2274,7 +2273,7 @@ Configure Threat Exchange Sharing with your Netskope Tenant
 ## Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 **URL:** https://docs.netskope.com/en/configure-your-netskope-tenant-for-cloud-threat-exchange-file-hash-sharing/
 **Last Modified:** 2025-11-01T00:37:21+00:00
-**Scraped:** 2026-11-09T15:16:17.826784+00:00
+**Scraped:** 2026-11-10T14:29:14.618681+00:00
 
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing - Netskope Technical Documentation
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing
@@ -2291,7 +2290,7 @@ Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 ## Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
 **URL:** https://docs.netskope.com/en/create-a-malware-detection-profile-in-your-netskope-tenant-to-use-threat-exchange-file-hash-es/
 **Last Modified:** 2026-03-21T02:25:14+00:00
-**Scraped:** 2026-11-09T15:16:21.081276+00:00
+**Scraped:** 2026-11-10T14:29:17.921997+00:00
 
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes - Netskope Technical Documentation
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
@@ -2316,7 +2315,7 @@ Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchang
 ## Digital Shadow Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/digital-shadow-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:58+00:00
-**Scraped:** 2026-11-09T15:16:33.347154+00:00
+**Scraped:** 2026-11-10T14:29:30.346924+00:00
 
 Digital Shadow Plugin for Threat Exchange - Netskope Technical Documentation
 Digital Shadow Plugin for Threat Exchange
@@ -2540,7 +2539,7 @@ Digital Shadow Plugin for Threat Exchange
 ## GitHub Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/github-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:41:57+00:00
-**Scraped:** 2026-11-09T15:16:41.963772+00:00
+**Scraped:** 2026-11-10T14:29:39.226573+00:00
 
 GitHub Plugin for Threat Exchange - Netskope Technical Documentation
 GitHub Plugin for Threat Exchange
@@ -2678,7 +2677,7 @@ GitHub Plugin for Threat Exchange
 ## Manage Threat Exchange Business Rules and IoC Sharing
 **URL:** https://docs.netskope.com/en/manage-threat-exchange-business-rules-and-ioc-sharing/
 **Last Modified:** 2026-03-21T02:21:37+00:00
-**Scraped:** 2026-11-09T15:17:09.026477+00:00
+**Scraped:** 2026-11-10T14:30:07.003224+00:00
 
 Manage Threat Exchange Business Rules and IoC Sharing - Netskope Technical Documentation
 Manage Threat Exchange Business Rules and IoC Sharing
@@ -2697,7 +2696,7 @@ Manage Threat Exchange Business Rules and IoC Sharing
 ## Mandiant Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mandiant-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:45:30+00:00
-**Scraped:** 2026-11-09T15:17:11.185123+00:00
+**Scraped:** 2026-11-10T14:30:09.257164+00:00
 
 Mandiant Plugin for Threat Exchange - Netskope Technical Documentation
 Mandiant Plugin for Threat Exchange
@@ -3155,7 +3154,7 @@ Mandiant Plugin for Threat Exchange
 ## Map a Threat Exchange Business Rule to a Target
 **URL:** https://docs.netskope.com/en/map-a-threat-exchange-business-rule-to-a-target/
 **Last Modified:** 2025-10-31T23:46:43+00:00
-**Scraped:** 2026-11-09T15:17:12.278782+00:00
+**Scraped:** 2026-11-10T14:30:10.347759+00:00
 
 Map a Threat Exchange Business Rule to a Target - Netskope Technical Documentation
 Map a Threat Exchange Business Rule to a Target
@@ -3184,8 +3183,9 @@ Map a Threat Exchange Business Rule to a Target
 ## Microsoft Defender for Endpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-endpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T02:10:36+00:00
-**Scraped:** 2026-11-09T15:17:17.688127+00:00
+**Scraped:** 2026-11-10T14:30:15.961862+00:00
 
+Microsoft Defender for Endpoint Plugin for Threat Exchange - Netskope Technical Documentation
 Microsoft Defender for Endpoint Plugin for Threat Exchange
 Release Notes
 1.4.0
@@ -3879,7 +3879,7 @@ Microsoft Defender for Endpoint Plugin for Threat Exchange
 ## Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-cloud-apps-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-18T00:43:44+00:00
-**Scraped:** 2026-11-09T15:17:18.769237+00:00
+**Scraped:** 2026-11-10T14:30:17.096869+00:00
 
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange - Netskope Technical Documentation
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange
@@ -4195,7 +4195,7 @@ Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 ## Microsoft Office 365 Endpoints Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-office-365-endpoints-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:46:26+00:00
-**Scraped:** 2026-11-09T15:17:20.925864+00:00
+**Scraped:** 2026-11-10T14:30:19.594028+00:00
 
 Microsoft Office 365 Endpoints Plugin for Threat Exchange - Netskope Technical Documentation
 Microsoft Office 365 Endpoints Plugin for Threat Exchange
@@ -4268,7 +4268,7 @@ Microsoft Office 365 Endpoints Plugin for Threat Exchange
 ## Mimecast Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mimecast-plugin-for-threat-exchange/
 **Last Modified:** 2026-03-25T00:02:28+00:00
-**Scraped:** 2026-11-09T15:17:23.100386+00:00
+**Scraped:** 2026-11-10T14:30:21.863336+00:00
 
 Mimecast Plugin for Threat Exchange - Netskope Technical Documentation
 Mimecast Plugin for Threat Exchange
@@ -5152,7 +5152,7 @@ Mimecast Plugin for Threat Exchange
 ## MISP Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/misp-plugin-for-threat-exchange/
 **Last Modified:** 2026-11-03T01:40:09+00:00
-**Scraped:** 2026-11-09T15:17:25.327714+00:00
+**Scraped:** 2026-11-10T14:30:24.149373+00:00
 
 MISP Plugin for Threat Exchange - Netskope Technical Documentation
 MISP Plugin for Threat Exchange
@@ -6377,7 +6377,7 @@ MISP Plugin for Threat Exchange
 ## Palo Alto Networks Panorama Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-panorama-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:42+00:00
-**Scraped:** 2026-11-09T15:17:49.533826+00:00
+**Scraped:** 2026-11-10T14:30:48.489957+00:00
 
 Palo Alto Networks Panorama Plugin for Threat Exchange - Netskope Technical Documentation
 Palo Alto Networks Panorama Plugin for Threat Exchange
@@ -6648,7 +6648,7 @@ Palo Alto Networks Panorama Plugin for Threat Exchange
 ## Proofpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/proofpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T00:57:36+00:00
-**Scraped:** 2026-11-09T15:17:54.939972+00:00
+**Scraped:** 2026-11-10T14:30:54.039011+00:00
 
 Proofpoint Plugin for Threat Exchange - Netskope Technical Documentation
 Proofpoint Plugin for Threat Exchange
@@ -6954,8 +6954,9 @@ Proofpoint Plugin for Threat Exchange
 ## SentinelOne Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sentinelone-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:26+00:00
-**Scraped:** 2026-11-09T15:18:14.456224+00:00
+**Scraped:** 2026-11-10T14:31:14.024594+00:00
 
+SentinelOne Plugin for Threat Exchange - Netskope Technical Documentation
 SentinelOne Plugin for Threat Exchange
 This document explains how to configure the SentinelOne v1.4.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches IoCs of type SHA256 and MD5 file hash from the
 Incidents
@@ -7770,7 +7771,7 @@ SentinelOne Plugin for Threat Exchange
 ## ServiceNow Threat Intelligence Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/servicenow-plugin-for-threat-exchange/
 **Last Modified:** 2026-08-27T00:27:44+00:00
-**Scraped:** 2026-11-09T15:18:17.729229+00:00
+**Scraped:** 2026-11-10T14:31:17.348361+00:00
 
 ServiceNow Threat Intelligence Plugin for Threat Exchange - Netskope Technical Documentation
 ServiceNow Threat Intelligence Plugin for Threat Exchange
@@ -8174,7 +8175,7 @@ ServiceNow Threat Intelligence Plugin for Threat Exchange
 ## Skyhigh Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/skyhigh-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:58+00:00
-**Scraped:** 2026-11-09T15:18:18.801686+00:00
+**Scraped:** 2026-11-10T14:31:18.446782+00:00
 
 Skyhigh Plugin for Threat Exchange - Netskope Technical Documentation
 Skyhigh Plugin for Threat Exchange
@@ -8240,7 +8241,7 @@ Skyhigh Plugin for Threat Exchange
 ## Sophos Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sophos-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:33+00:00
-**Scraped:** 2026-11-09T15:18:23.214891+00:00
+**Scraped:** 2026-11-10T14:31:23.208122+00:00
 
 Sophos Plugin for Threat Exchange - Netskope Technical Documentation
 Sophos Plugin for Threat Exchange
@@ -8324,8 +8325,9 @@ Sophos Plugin for Threat Exchange
 ## STIX/TAXII Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/stix-taxii-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:09+00:00
-**Scraped:** 2026-11-09T15:18:24.298405+00:00
+**Scraped:** 2026-11-10T14:31:24.355568+00:00
 
+STIX/TAXII Plugin for Threat Exchange - Netskope Technical Documentation
 STIX/TAXII Plugin for Threat Exchange
 This document explains how to configure the STIX/TAXII v3.2.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches IoCs of type Domain, URL and Hash (MD5 and SHA256) for version 1.1 and IOCs of type Domain, URL, IPv4, IPv6, and Hash (MD5 and SHA256) for version 2.1/2.2 from the TAXII feeds and extracts observables from them. This plugin supports retraction of IoCs pulled from TAXII feeds. This plugin does not support sharing of indicators to TAXII feeds.
 Prerequisites
@@ -8668,7 +8670,7 @@ STIX/TAXII Plugin for Threat Exchange
 ## ThreatConnect Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatconnect-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-28T00:23:08+00:00
-**Scraped:** 2026-11-09T15:18:32.984960+00:00
+**Scraped:** 2026-11-10T14:31:33.256217+00:00
 
 ThreatConnect Plugin for Threat Exchange - Netskope Technical Documentation
 ThreatConnect Plugin for Threat Exchange
@@ -9639,7 +9641,7 @@ ThreatConnect Plugin for Threat Exchange
 ## Threat Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/threat-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2026-03-21T02:27:56+00:00
-**Scraped:** 2026-11-09T15:18:34.470245+00:00
+**Scraped:** 2026-11-10T14:31:34.403969+00:00
 
 Threat Exchange Custom Plugin Developers Guide - Netskope Technical Documentation
 Threat Exchange Custom Plugin Developers Guide
@@ -10824,7 +10826,7 @@ Threat Exchange Custom Plugin Developers Guide
 ## ThreatQ Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatq-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:54:47+00:00
-**Scraped:** 2026-11-09T15:18:35.553208+00:00
+**Scraped:** 2026-11-10T14:31:35.515124+00:00
 
 ThreatQ Plugin for Threat Exchange - Netskope Technical Documentation
 ThreatQ Plugin for Threat Exchange
@@ -11090,7 +11092,7 @@ ThreatQ Plugin for Threat Exchange
 ## TrendAI Vision One Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trend-ai-vision-one-plugin-for-threat-exchange/
 **Last Modified:** 2026-11-04T02:31:22+00:00
-**Scraped:** 2026-11-09T15:18:37.719835+00:00
+**Scraped:** 2026-11-10T14:31:37.820510+00:00
 
 TrendAI Vision One Plugin for Threat Exchange - Netskope Technical Documentation
 TrendAI Vision One Plugin for Threat Exchange
@@ -11620,7 +11622,7 @@ TrendAI Vision One Plugin for Threat Exchange
 ## Update Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/update-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:29:26+00:00
-**Scraped:** 2026-11-09T15:18:39.934457+00:00
+**Scraped:** 2026-11-10T14:31:40.010107+00:00
 
 Update Configured Threat Exchange Plugins - Netskope Technical Documentation
 Update Configured Threat Exchange Plugins
@@ -11636,7 +11638,7 @@ Update Configured Threat Exchange Plugins
 ## View Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/view-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:25:57+00:00
-**Scraped:** 2026-11-09T15:18:52.897448+00:00
+**Scraped:** 2026-11-10T14:31:53.251116+00:00
 
 View Configured Threat Exchange Plugins - Netskope Technical Documentation
 View Configured Threat Exchange Plugins
@@ -11662,7 +11664,7 @@ View Configured Threat Exchange Plugins
 ## View Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/view-threat-exchange-business-rules/
 **Last Modified:** 2025-10-31T23:49:11+00:00
-**Scraped:** 2026-11-09T15:18:55.078576+00:00
+**Scraped:** 2026-11-10T14:31:55.450090+00:00
 
 View Threat Exchange Business Rules - Netskope Technical Documentation
 View Threat Exchange Business Rules
@@ -11678,7 +11680,7 @@ View Threat Exchange Business Rules
 ## Schedule Auto-Upgrade for the Content and Threat Feed Packages
 **URL:** https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/
 **Last Modified:** 2026-08-18T17:15:14+00:00
-**Scraped:** 2026-11-09T15:24:19.749805+00:00
+**Scraped:** 2026-11-10T14:37:27.570664+00:00
 
 Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Technical Documentation
 Schedule Auto-Upgrade for the Content and Threat Feed Packages
@@ -11705,7 +11707,7 @@ Schedule Auto-Upgrade for the Content and Threat Feed Packages
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection-115996/
 **Last Modified:** 2026-08-18T17:37:09+00:00
-**Scraped:** 2026-11-09T15:24:24.091077+00:00
+**Scraped:** 2026-11-10T14:37:31.980447+00:00
 
 Threat Protection - Netskope Technical Documentation
 Threat Protection
@@ -11724,7 +11726,7 @@ Threat Protection
 ## Cybereason Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/cybereason-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:32+00:00
-**Scraped:** 2026-11-09T15:24:53.560780+00:00
+**Scraped:** 2026-11-10T14:38:01.933698+00:00
 
 Cybereason Plugin for Threat Exchange - Netskope Technical Documentation
 Cybereason Plugin for Threat Exchange
@@ -12093,7 +12095,7 @@ Cybereason Plugin for Threat Exchange
 ## Illumio Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/illumio-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-02T02:58:09+00:00
-**Scraped:** 2026-11-09T15:25:21.864064+00:00
+**Scraped:** 2026-11-10T14:38:30.988963+00:00
 
 Illumio Plugin for Threat Exchange - Netskope Technical Documentation
 Illumio Plugin for Threat Exchange
@@ -12108,7 +12110,7 @@ Illumio Plugin for Threat Exchange
 ## Feedly Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/feedly-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:43+00:00
-**Scraped:** 2026-11-09T15:25:27.301749+00:00
+**Scraped:** 2026-11-10T14:38:36.661467+00:00
 
 Feedly Plugin for Threat Exchange - Netskope Technical Documentation
 Feedly Plugin for Threat Exchange
@@ -12235,7 +12237,7 @@ Feedly Plugin for Threat Exchange
 ## Threat and Data Protection for RBI
 **URL:** https://docs.netskope.com/en/threat-and-data-protection-for-rbi/
 **Last Modified:** 2025-08-31T01:46:40+00:00
-**Scraped:** 2026-11-09T15:25:34.872028+00:00
+**Scraped:** 2026-11-10T14:38:44.416362+00:00
 
 Threat and Data Protection for RBI - Netskope Technical Documentation
 Threat and Data Protection for RBI
@@ -12467,7 +12469,7 @@ Threat and Data Protection for RBI
 ## SecurityScorecard Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/securityscorecard-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:51+00:00
-**Scraped:** 2026-11-09T15:25:42.722296+00:00
+**Scraped:** 2026-11-10T14:38:52.166658+00:00
 
 SecurityScorecard Plugin for Threat Exchange - Netskope Technical Documentation
 SecurityScorecard Plugin for Threat Exchange
@@ -12627,7 +12629,7 @@ SecurityScorecard Plugin for Threat Exchange
 ## CrowdStrike Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-plugin-for-threat-exchange-2/
 **Last Modified:** 2026-05-27T23:40:14+00:00
-**Scraped:** 2026-11-09T15:25:43.830827+00:00
+**Scraped:** 2026-11-10T14:38:53.327360+00:00
 
 CrowdStrike Plugin for Threat Exchange - Netskope Technical Documentation
 CrowdStrike Plugin for Threat Exchange
@@ -13982,7 +13984,7 @@ CrowdStrike Plugin for Threat Exchange
 ## HarfangLab Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/harfanglab-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-18T00:49:34+00:00
-**Scraped:** 2026-11-09T15:26:01.211612+00:00
+**Scraped:** 2026-11-10T14:39:11.311504+00:00
 
 HarfangLab Plugin for Threat Exchange - Netskope Technical Documentation
 HarfangLab Plugin for Threat Exchange
@@ -14670,7 +14672,7 @@ HarfangLab Plugin for Threat Exchange
 ## ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/extrahop-revealx-360-plugin-for-threat-exchange/
 **Last Modified:** 2026-01-30T01:06:15+00:00
-**Scraped:** 2026-11-09T15:26:25.077024+00:00
+**Scraped:** 2026-11-10T14:39:35.995076+00:00
 
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange - Netskope Technical Documentation
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange
@@ -14995,7 +14997,7 @@ ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 ## Commvault Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/commvault-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:58+00:00
-**Scraped:** 2026-11-09T15:26:47.063177+00:00
+**Scraped:** 2026-11-10T14:39:58.167727+00:00
 
 Commvault Plugin for Threat Exchange - Netskope Technical Documentation
 Commvault Plugin for Threat Exchange
@@ -15379,7 +15381,7 @@ Commvault Plugin for Threat Exchange
 ## Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-cortex-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-10-08T21:24:42+00:00
-**Scraped:** 2026-11-09T15:26:48.138851+00:00
+**Scraped:** 2026-11-10T14:39:59.281746+00:00
 
 Palo Alto Networks Cortex XDR Plugin for Threat Exchange - Netskope Technical Documentation
 Palo Alto Networks Cortex XDR Plugin for Threat Exchange
@@ -15887,7 +15889,7 @@ Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 ## Anomali ThreatStream XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/anomali-threatstream-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:38:52+00:00
-**Scraped:** 2026-11-09T15:26:50.312161+00:00
+**Scraped:** 2026-11-10T14:40:01.563354+00:00
 
 Anomali ThreatStream XDR Plugin for Threat Exchange - Netskope Technical Documentation
 Anomali ThreatStream XDR Plugin for Threat Exchange
@@ -16400,7 +16402,7 @@ Anomali ThreatStream XDR Plugin for Threat Exchange
 ## Trellix Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trellix-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:55:19+00:00
-**Scraped:** 2026-11-09T15:27:32.631456+00:00
+**Scraped:** 2026-11-10T14:40:45.094246+00:00
 
 Trellix Plugin for Threat Exchange - Netskope Technical Documentation
 Trellix Plugin for Threat Exchange
@@ -16700,7 +16702,7 @@ Trellix Plugin for Threat Exchange
 ## Malware
 **URL:** https://docs.netskope.com/en/about-malware/
 **Last Modified:** 2026-07-06T19:52:34+00:00
-**Scraped:** 2026-11-09T15:28:46.052097+00:00
+**Scraped:** 2026-11-10T14:41:56.457101+00:00
 
 Malware - Netskope Technical Documentation
 Malware
@@ -16917,7 +16919,7 @@ Malware
 ## Secureworks Taegis Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/secureworks-taegis-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T22:57:55+00:00
-**Scraped:** 2026-11-09T15:28:51.443889+00:00
+**Scraped:** 2026-11-10T14:42:02.037648+00:00
 
 Secureworks Taegis Plugin for Threat Exchange - Netskope Technical Documentation
 Secureworks Taegis Plugin for Threat Exchange
@@ -17195,7 +17197,7 @@ Secureworks Taegis Plugin for Threat Exchange
 ## Web Page IoC Scraper Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/web-page-ioc-scraper-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-20T19:16:10+00:00
-**Scraped:** 2026-11-09T15:28:52.526602+00:00
+**Scraped:** 2026-11-10T14:42:03.201030+00:00
 
 Web Page IoC Scraper Plugin for Threat Exchange - Netskope Technical Documentation
 Web Page IoC Scraper Plugin for Threat Exchange
@@ -17503,8 +17505,9 @@ Web Page IoC Scraper Plugin for Threat Exchange
 ## Rubrik Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/rubrik-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:06+00:00
-**Scraped:** 2026-11-09T15:29:02.263644+00:00
+**Scraped:** 2026-11-10T14:42:13.193361+00:00
 
+Rubrik Plugin for Threat Exchange - Netskope Technical Documentation
 Rubrik Plugin for Threat Exchange
 This document explains how to configure the v1.0.0 Rubrik plugin with the Threat Exchange module of the Cloud Exchange platform. This plugin supports sharing the threat IoCs of type MD5 and SHA256 to the Rubrik’s Threat Hunt page, and can perform a
 Start Threat Hunt
@@ -18348,7 +18351,7 @@ Rubrik Plugin for Threat Exchange
 ## Setting Up an Application Instance for Malware Retention
 **URL:** https://docs.netskope.com/en/setting-up-an-application-instance-for-malware-retention/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-11-09T15:29:18.610834+00:00
+**Scraped:** 2026-11-10T14:42:30.142943+00:00
 
 Setting Up an Application Instance for Malware Retention - Netskope Technical Documentation
 Setting Up an Application Instance for Malware Retention
@@ -18499,7 +18502,7 @@ Setting Up an Application Instance for Malware Retention
 ## Creating a Malware Retention Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-retention-profile/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-11-09T15:29:19.699928+00:00
+**Scraped:** 2026-11-10T14:42:31.261851+00:00
 
 Creating a Malware Retention Profile - Netskope Technical Documentation
 Creating a Malware Retention Profile
@@ -18548,7 +18551,7 @@ Creating a Malware Retention Profile
 ## Threat Exchange Plugin
 **URL:** https://docs.netskope.com/en/threat-exchange-plugin/
 **Last Modified:** 2026-09-10T01:48:19+00:00
-**Scraped:** 2026-11-09T15:30:08.072421+00:00
+**Scraped:** 2026-11-10T14:43:20.291045+00:00
 
 Threat Exchange Plugin - Netskope Technical Documentation
 Threat Exchange Plugin
@@ -20790,7 +20793,7 @@ Threat Exchange Plugin
 ## About Malware Retention
 **URL:** https://docs.netskope.com/en/about-malware-retention/
 **Last Modified:** 2025-08-31T01:47:31+00:00
-**Scraped:** 2026-11-09T15:31:15.931527+00:00
+**Scraped:** 2026-11-10T14:44:30.245108+00:00
 
 About Malware Retention - Netskope Technical Documentation
 About Malware Retention
@@ -20853,7 +20856,7 @@ About Malware Retention
 ## Maltiverse Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/maltiverse-plugin-for-threat-exchange/
 **Last Modified:** 2026-09-01T17:40:08+00:00
-**Scraped:** 2026-11-09T15:31:38.801802+00:00
+**Scraped:** 2026-11-10T14:44:53.893478+00:00
 
 Maltiverse Plugin for Threat Exchange - Netskope Technical Documentation
 Maltiverse Plugin for Threat Exchange
@@ -21141,8 +21144,9 @@ Maltiverse Plugin for Threat Exchange
 ## Malware Severity Levels and Detection Types
 **URL:** https://docs.netskope.com/en/malware-severity-levels-and-detection-types/
 **Last Modified:** 2025-12-08T22:36:38+00:00
-**Scraped:** 2026-11-09T15:33:20.261128+00:00
+**Scraped:** 2026-11-10T14:46:37.608952+00:00
 
+Malware Severity Levels and Detection Types - Netskope Technical Documentation
 Malware Severity Levels and Detection Types
 There are three malware severity levels. Creating policies that block all three levels is recommended.
 Severity
@@ -21271,7 +21275,7 @@ Malware Severity Levels and Detection Types
 ## Vectra AI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vectra-ai-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:02+00:00
-**Scraped:** 2026-11-09T15:33:37.549732+00:00
+**Scraped:** 2026-11-10T14:46:55.516638+00:00
 
 Vectra AI Plugin for Threat Exchange - Netskope Technical Documentation
 Vectra AI Plugin for Threat Exchange
@@ -21720,7 +21724,7 @@ Vectra AI Plugin for Threat Exchange
 ## SecLytics Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/seclytics-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:26+00:00
-**Scraped:** 2026-11-09T15:33:38.659052+00:00
+**Scraped:** 2026-11-10T14:46:56.616775+00:00
 
 SecLytics Plugin for Threat Exchange - Netskope Technical Documentation
 SecLytics Plugin for Threat Exchange
@@ -21810,7 +21814,7 @@ SecLytics Plugin for Threat Exchange
 ## OpenCTI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/opencti-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:01+00:00
-**Scraped:** 2026-11-09T15:33:44.406836+00:00
+**Scraped:** 2026-11-10T14:47:02.169561+00:00
 
 OpenCTI Plugin for Threat Exchange - Netskope Technical Documentation
 OpenCTI Plugin for Threat Exchange
@@ -22449,7 +22453,7 @@ OpenCTI Plugin for Threat Exchange
 ## Infoblox Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/infoblox-tide-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:43:16+00:00
-**Scraped:** 2026-11-09T15:33:59.688548+00:00
+**Scraped:** 2026-11-10T14:47:17.888452+00:00
 
 Infoblox Plugin for Threat Exchange - Netskope Technical Documentation
 Infoblox Plugin for Threat Exchange
@@ -23406,7 +23410,7 @@ Infoblox Plugin for Threat Exchange
 ## Tanium Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/tanium-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:43+00:00
-**Scraped:** 2026-11-09T15:37:06.146802+00:00
+**Scraped:** 2026-11-10T14:50:27.772670+00:00
 
 Tanium Plugin for Threat Exchange - Netskope Technical Documentation
 Tanium Plugin for Threat Exchange
@@ -23810,7 +23814,7 @@ Tanium Plugin for Threat Exchange
 ## Abnormal Security Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/abnormal-security-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T03:59:33+00:00
-**Scraped:** 2026-11-09T15:37:41.901116+00:00
+**Scraped:** 2026-11-10T14:51:04.727814+00:00
 
 Abnormal Security Plugin for Threat Exchange - Netskope Technical Documentation
 Abnormal Security Plugin for Threat Exchange
@@ -24244,38 +24248,63 @@ Abnormal Security Plugin for Threat Exchange
 
 ---
 ## Thales Plugin for Threat Exchange
-**URL:** https://docs.netskope.com/en/imperva-plugin-for-threat-exchange/
-**Last Modified:** 2026-08-24T23:26:33+00:00
-**Scraped:** 2026-11-09T15:39:44.058326+00:00
+**URL:** https://docs.netskope.com/en/thales-plugin-for-threat-exchange/
+**Last Modified:** 2026-11-09T22:49:41+00:00
+**Scraped:** 2026-11-10T14:53:09.803924+00:00
 
-Thales Plugin for Threat Exchange - Netskope Technical Documentation
 Thales Plugin for Threat Exchange
-This document explains how to configure the Thales v1.0.0 plugin in the Cloud Exchange platform. This plugin is used to fetch the IoCs of type IPv4 from the
+Release Notes
+1.0.1 (Requires minimum Cloud Exchange version 6.0.0)
+Changed
+Updated plugin logo and name from Imperva to Thales.
+Updated the Initial Range (in days) parameter to support values from 0 to 1800.
+Removed
+Removed the error logger patching.
+1.0.0
+Added
+Initial release.
+This document explains how to configure the Thales v1.0.1 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to fetch the IoCs of type IPv4 from the
 Application > Attack Analytics > Incidents
 page on the Thales platform. This plugin does not support sharing of IoCs to the Thales platform. This plugin supports retraction of IoCs pulled from the Thales platform.
 Prerequisites
 To complete this configuration, you need:
 A Netskope tenant (or multiple, for example, production and development/test instances).
-A
-URL List
-on your Netskope tenant.
 A Netskope Cloud Exchange tenant with the
 Tenant plugin
 and
 Threat Exchange
 plugin already configured.
+A
+URL List
+on your Netskope tenant.
+A
+Destination Profile
+on your Netskope tenant.
+A
+Private App
+on your Netskope tenant.
 Connectivity to the Thales platform.
 A subscription for Thales Threat Response Module services.
-Need a user with Manage API Key role to generate an API Key.
-Connectivity to the following host: https://api.thales.com
+A user with the Manage API Key role to generate an API Key.
+For Secrets Manager configuration, refer to
+Secrets Manager
+. To set up Azure Key Vault Secrets Manager, refer to
+Prerequisites for Azure Key Vault Secrets Manager
+.
+Connectivity to the following host:
+https://api.imperva.com
+Your Thales account ID.
 Thales Plugin Support
-This plugin is used to fetch the IoCs of type IPv4 from the Application > Attack Analytics > Incidents page on the Thales platform. This plugin does not support sharing of IoCs to the Thales platform. This plugin supports retraction of IoCs pulled from the Thales platform.
+This plugin is used to fetch the IoCs of type IPv4 from the
+Application > Attack Analytics > Incidents
+page on the Thales platform. This plugin does not support sharing of IoCs to the Thales platform. This plugin supports retraction of IoCs pulled from the Thales platform.
 Fetched Indicator Types
 Shared Indicator Types
 IPv4
 NA
 IoC Retraction
-IoC Retraction (Pull) Indicators will be fetched from Thales and in the subsequent pull cycles if some indicators are deleted on Thales then they will be marked as Retracted in Netskope Cloud Exchange.
+IoC Retraction (Pull):
+Indicators are fetched from Thales. In the subsequent pull cycles, if the incidents of some indicators are deleted or marked as false positive on Thales, or the indicators are not in the specified Retraction Interval, they are marked as Retracted in Netskope Cloud Exchange.
 Retraction Type
 Supported Retraction Type
 IoC Retraction (Pull)
@@ -24284,9 +24313,9 @@ IoC Retraction (Push)
 No
 Mappings
 Pull Mappings
-Cloud Exchange Field
+Netskope CTE Field
 Thales API Field
-IoC Value
+IOC Value
 dominant_attack_ip.ip
 Type
 IPv4
@@ -24302,11 +24331,7 @@ https://
 /attack-analytics/incident-details/
 <incident_id>
 Tags
-incident_type
-dominant_attack_violation
-dominant_attack_ip.reputation
-dominant_attack_ip. dominance
-severity_explanation
+incident_typedominant_attack_violationdominant_attack_ip.reputationdominant_attack_ip. dominanceseverity_explanation
 Severity Mappings for Pull
 Netskope Severity
 Thales Severity
@@ -24319,9 +24344,9 @@ CRITICAL
 UNKNOWN
 CUSTOM
 Permissions
-Users should have the Manage API Key Role to generate API Key.
+Users should have the Manage API Key role to generate an API Key.
 API Details
-List of APIs used
+List of APIs Used
 API Endpoint
 Method
 Use Case
@@ -24329,15 +24354,15 @@ Use Case
 GET
 Fetch IoCs from Incidents
 Fetch IoCs from Incidents
-Endpoint
-: /analytics/v1/incidents
-Method
-: GET
+Endpoint:
+/analytics/v1/incidents
+Method:
+GET
 Headers
 Key
 Value
 User-Agent
-netskope-ce-6.0.0-cte-thales-v1.0.0
+netskope-ce-7.0.0-cte-thales-v1.0.1
 x-API-Id
 <api_id>
 x-API-Key
@@ -24355,43 +24380,43 @@ to_timestamp
 <timestamp>
 Sample Response
 [
-{
-"id": "db0cfbe0-d8ca-11f0-1f46-8bef9ba73c98",
-"main_sentence": "Illegal Resource Access attack by a single IP from Bulgaria using Go HTTP library HackingTool ",
-"secondary_sentence": "On host \"thales1.cdsys.io\" ",
-"false_positive": false,
-"events_count": 6,
-"events_blocked_percent": 0,
-"first_event_time": 1765702422735,
-"last_event_time": 1765702621854,
-"severity": "MINOR",
-"severity_explanation": "High risk, High confidence",
-"dominant_attack_country": {
-"country": "Bulgaria",
-"country_code": "BG",
-"dominance": "DOMINANT"
-},
-"dominant_attack_ip": {
-"ip": "195.178.110.158",
-"reputation": [
-"IP reputation Medium risk"
-],
-"dominance": "STRONGLY_DOMINANT"
-},
-"dominant_attacked_host": {
-"value": "thales1.cdsys.io",
-"dominance": "STRONGLY_DOMINANT"
-},
-"dominant_attack_tool": {
-"name": "Go HTTP library",
-"type": "Suspicious",
-"dominance": "STRONGLY_DOMINANT"
-},
-"dominant_attack_violation": "Illegal Resource Access",
-"only_custom_rule_based": true,
-"how_common": "SPRAY_AND_PRAY",
-"incident_type": "REGULAR"
-}
+    {
+        "id": "db0cfbe0-d8ca-11f0-1f46-8bef9ba73c98",
+        "main_sentence": "Illegal Resource Access attack by a single IP from Bulgaria using Go HTTP library HackingTool ",
+        "secondary_sentence": "On host \"Thales1.cdsys.io\" ",
+        "false_positive": false,
+        "events_count": 6,
+        "events_blocked_percent": 0,
+        "first_event_time": 1765702422735,
+        "last_event_time": 1765702621854,
+        "severity": "MINOR",
+        "severity_explanation": "High risk, High confidence",
+        "dominant_attack_country": {
+            "country": "Bulgaria",
+            "country_code": "BG",
+            "dominance": "DOMINANT"
+        },
+        "dominant_attack_ip": {
+            "ip": "195.178.110.158",
+            "reputation": [
+                "IP reputation Medium risk"
+            ],
+            "dominance": "STRONGLY_DOMINANT"
+        },
+        "dominant_attacked_host": {
+            "value": "Thales1.cdsys.io",
+            "dominance": "STRONGLY_DOMINANT"
+        },
+        "dominant_attack_tool": {
+            "name": "Go HTTP library",
+            "type": "Suspicious",
+            "dominance": "STRONGLY_DOMINANT"
+        },
+        "dominant_attack_violation": "Illegal Resource Access",
+        "only_custom_rule_based": true,
+        "how_common": "SPRAY_AND_PRAY",
+        "incident_type": "REGULAR"
+    }
 ]
 Performance Matrix
 This reading is conducted on a Large Cloud Exchange Stack with these specs by pulling 100k IoCs from Thales.
@@ -24404,132 +24429,152 @@ Core: 16
 Indicators fetched from Thales
 ~11k per min
 User Agent
-netskope-ce-6.0.0-cte-thales-v1.0.0
+netskope-ce-7.0.0-cte-thales-v1.0.1
 Workflow
-Create an API Key on Thales.
+Create an API ID and API Key on Thales.
 Configure the Thales Plugin.
-Add a Business Rule for Thales.
-Configure Sharing for Thales.
-Validate the Thales plugin.
+Add a Business Rule.
+Configure Threat Exchange Sharing for Thales.
+Validate the Thales Plugin.
 Watch a Video
 Click play to watch a video.
-Create API Key on Thales
+Create an API ID and API Key on Thales
 Log in to Thales.
 Go to
 Account > Account Management
 from the top right corner.
 Go to
-User Management > My Profile.
+User Management > My Profile
+.
 Scroll down to
 API Keys
 and click
 Add API Key
 .
-Enter a Name and the API key will expire in time and enable the status. Click
+Enter a
+Name
+, select when the
+API key will expire in
+, and enable the status. Click
 Create
 .
-Copy the API ID and API Key and then click
+Copy the API ID and API Key, and then click
 Close
-.
+. These are used to configure the plugin.
 Configure the Thales Plugin
-In Cloud Exchange go to
+In Cloud Exchange, go to
 Settings > Plugin Store
-.
-Search for and select the
-Thales v1.0.0 (CTE)
-plugin box.
+. Search for and select the
+Thales v1.0.1 (CTE)
+plugin.
 Enter the Basic Information:
-Configuration Name
-: Unique name for the configuration.
-Sync Interval
-: Interval to fetch data from this plugin and share data to this plugin from other sources.
+Configuration Name:
+Unique name for the configuration.
+Sync Interval:
+Interval to fetch data from this plugin and share data to this plugin from other sources.
 Aging Criteria:
 Expiry time of the plugin in days (Default: 90).
-Override Reputation
-: Set a value to override the reputation of indicators received from this configuration.
-Enable SSL Validation
-: Enable SSL Certificate validation.
-Use System Proxy
-: Enable if the proxy is required for communication.
-Note
+Override Reputation:
+Set a value to override the reputation of indicators received from this configuration.
+Enable SSL Validation:
+Enable SSL Certificate validation.
+Use System Proxy:
+Enable if the proxy is required for communication.
 It is better to have a larger value for Sync Interval if you want to pull IoCs in large numbers.
-Click Next and enter the Configuration Parameters:
+Click
+Next
+and enter the Configuration Parameters:
 Account ID:
-Unique identifier of your account.
+Unique identifier for your account.
 API ID:
-API ID generated from your Thales instance.
+API ID generated from the Thales instance obtained previously.
 API Key:
-API Key generated from your Thales instance.
+API Key generated from the Thales instance obtained previously.
 Enable Tagging:
 Enable/Disable tagging functionality.
-Retraction Interval:
-Specify the number of days for which IoC retraction should be run for Thales IoCs. Note that this parameter is applicable only for Netskope CE version 5.1.0 or later, and if I
-oC(s) Retraction
-is enabled in your Threat Exchange Settings. Value must be between 1 and 1800.
-Initial Range:
-Number of days to pull the data for the initial run. Value must be between 1 and 1800.
+Retraction Interval (in days):
+Number of days to use as the retraction interval for Thales indicator(s) pull retraction. This parameter applies only when
+IoC(s) Retraction
+is enabled in Threat Exchange Settings. Value must be between 1 and 1800.
+Initial Range (in days):
+Number of days to pull the data for the initial run. Value must be between 0 and 1800. If you enter 0, no historical data is pulled.
 Click
 Save
-.
+. The plugin configuration appears on the
+Threat Exchange > Plugins
+page.
 Add a Threat Exchange Business Rule for Thales Plugin
-To share indicators fetched from the Thales to the Netskope CE, you will need to have a business rule that will filter out the indicators that you want to share. To configure a business rule, follow the below steps:
-In Threat Exchange go to
+To share indicators fetched from Thales to the Netskope tenant, you need a business rule that filters the indicators that you want to share. To configure a business rule:
+In Threat Exchange, go to
 Business Rules
 and click
 Create New Rule
 .
-Add the filter according to your requirement in the rule and click Save.
+Add the filter according to your requirements in the rule, and then click
+Save
+.
 Configure Threat Exchange Sharing for Thales
 The Thales plugin does not support sharing of IoCs, but the IoCs pulled from this plugin can be shared to the Netskope Tenant or other 3rd-party platforms.
 To share IoCs from Thales to Cloud Exchange:
-In Threat Exchange go to
+In Threat Exchange, go to
 Sharing
 and click
 Add Sharing Configuration
 .
-Select your Source Configuration (CTE Thales), a Business Rule, the Destination Configuration (CTE Netskope), and Target.
+Select your Source Configuration (CTE Thales), a Business Rule, the Destination Configuration (CTE Netskope Threat Exchange), and Target.
 Click
 Save
 .
+You can perform these actions on your Netskope tenant with the IPv4 IoCs pulled from Thales: Add to Destination Profile, Add to Private App, Add to URL List
+For more information about all the actions supported on the Netskope tenant, refer to
+Threat Exchange Plugin
+.
 Validate the Thales Plugin
 Validate the Pull
-Pulled data will be listed on the Threat IoCs page. You can filter the IoCs pulled from the platform using the filter:
-sources.source Like “<plugin configuration name>”
+Pulled data is listed on the
+Threat IoCs
+page. You can filter the IoCs pulled from the platform using the filter
+sources.source Like "<plugin configuration name>"
 .
-To verify pulled logs on Cloud Exchange, go to
+To verify pulled logs in Cloud Exchange, go to
 Logging
-and search logs from the Thales plugin.
-Filter:
-message Like “CTE Thales”
+and search for logs from the CTE Thales plugin with the filter
+message Like "CTE Thales"
+.
 To verify the data available for pulling on the Thales platform, log in to Thales and go to
 Application > Attack Analytics > Incidents
 .
 To verify the details of a particular incident, click
-More details.
-To verify the Retracted IoCs, check the logs for IoC Retraction. Example:
-message Like [Retraction]:
-You can filter the retracted IoCs from the platform using the
-filter: sources.source Is equal “<plugin configuration name>” && sources.retracted Is equal true
-Note
-The IoCs that fall under the Retraction Interval or marked as false-positive on the Thales platform will be marked as Retracted: Yes in Cloud Exchange.
-Note
-Sharing result will only be marked if the IoCs are pulled from source plugin after creating the sharing configuration.
+More details
+.
+To verify the retracted IoCs, check the logs for IoC retraction, for example,
+message Like [Retraction]
+.
+You can filter the retracted IoCs from the platform using the filter
+sources.source Is equal "<plugin configuration name>" && sources.retracted Is equal true
+.
+If the incidents of some indicators are deleted or marked as false positive on Thales, or the indicators are not in the specified Retraction Interval, they are marked as
+Retracted: Yes
+in Cloud Exchange.
+Sharing results are marked only if the IoCs are pulled from the source plugin after creating the sharing configuration.
 Validate the Push
-Here you can see IoCs were added to the URL list on your Netskope Tenant.
-Some of the shared IoCs got marked as retracted, so it was deleted from the list.
+Here you can see IoCs were added to the Destination Profile on the Netskope Tenant.
+Then some of the shared IoCs were marked as retracted, so they were deleted from the profile.
 Troubleshooting the Thales Plugin
 Unable to pull IoCs from the Thales platform
 After the plugin configuration, if the IoCs are not pulled from the platform, it might be due to one of these reasons:
-No IOCs are available on the platform to pull.
-IoCs are not available for the given configuration parameters (like Initial Range).
+No IoCs are available on the platform to pull.
+IoCs are not available for the given configuration parameters (for example, Initial Range).
 What to do:
-Identity your root cause from above and follow the appropriate steps to resolve the issue.
-No IOCs are available on the platform to pull:
+Identify your root cause from the list above and follow the matching steps:
+No IoCs are available on the platform to pull:
 Check if the IoCs are
 available on the platform
-to pull. If available, check the resolution for the next point.
-IoCs are not available for the given time range
-If the IoCs are available on the platform to pull, but the plugin has not pulled the IoCs in Cloud Exchange, check the number of days mentioned in the initial range parameter of the plugin configuration. On the Thales platform, check if you have data for the given time range.
+to pull. If they are available, check the resolution for the next point.
+IoCs are not available for the given time range:
+If the IoCs are available on the platform to pull, but the plugin has not pulled the IoCs in Cloud Exchange, check the number of days in the
+Initial Range (in days)
+parameter of the plugin configuration. On the Thales platform, check if you have data for the given time range.
 In this Topic
 Thales Plugin for Threat Exchange
 
@@ -24537,7 +24582,7 @@ Thales Plugin for Threat Exchange
 ## Creating a Threat Protection Policy for Blocking DNS over HTTPS
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-blocking-dns-over-https/
 **Last Modified:** 2026-02-11T19:38:47+00:00
-**Scraped:** 2026-11-09T15:39:54.183851+00:00
+**Scraped:** 2026-11-10T14:53:19.857883+00:00
 
 Creating a Threat Protection Policy for Blocking DNS over HTTPS - Netskope Technical Documentation
 Creating a Threat Protection Policy for Blocking DNS over HTTPS
@@ -24602,7 +24647,7 @@ Creating a Threat Protection Policy for Blocking DNS over HTTPS
 ## Darktrace Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/darktrace-plugin-for-threat-exchange/
 **Last Modified:** 2026-04-10T00:26:25+00:00
-**Scraped:** 2026-11-09T15:41:24.758580+00:00
+**Scraped:** 2026-11-10T14:54:53.152337+00:00
 
 Darktrace Plugin for Threat Exchange - Netskope Technical Documentation
 Darktrace Plugin for Threat Exchange
@@ -25099,7 +25144,7 @@ Darktrace Plugin for Threat Exchange
 ## Threat Hunting
 **URL:** https://docs.netskope.com/en/threat-hunting/
 **Last Modified:** 2026-07-06T18:51:59+00:00
-**Scraped:** 2026-11-09T15:43:06.009548+00:00
+**Scraped:** 2026-11-10T14:56:37.507925+00:00
 
 Threat Hunting - Netskope Technical Documentation
 Threat Hunting
@@ -25183,7 +25228,7 @@ Threat Hunting
 ## VMRay Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vmray-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-06T21:45:48+00:00
-**Scraped:** 2026-11-09T15:43:07.144298+00:00
+**Scraped:** 2026-11-10T14:56:38.642342+00:00
 
 VMRay Plugin for Threat Exchange - Netskope Technical Documentation
 VMRay Plugin for Threat Exchange
@@ -26098,7 +26143,7 @@ VMRay Plugin for Threat Exchange
 ## GreyNoise Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/greynoise-plugin-for-threat-exchange/
 **Last Modified:** 2026-08-27T01:06:57+00:00
-**Scraped:** 2026-11-09T15:44:11.576586+00:00
+**Scraped:** 2026-11-10T14:57:44.526987+00:00
 
 GreyNoise Plugin for Threat Exchange - Netskope Technical Documentation
 GreyNoise Plugin for Threat Exchange
@@ -26497,7 +26542,7 @@ GreyNoise Plugin for Threat Exchange
 ## Threat Protection with TSS Fast Scan
 **URL:** https://docs.netskope.com/en/threat-protection-with-tss-fast-scan/
 **Last Modified:** 2026-09-23T08:04:00+00:00
-**Scraped:** 2026-11-09T15:44:58.270275+00:00
+**Scraped:** 2026-11-10T14:58:32.224916+00:00
 
 Threat Protection with TSS Fast Scan - Netskope Technical Documentation
 Threat Protection with TSS Fast Scan
@@ -26599,7 +26644,7 @@ Threat Protection with TSS Fast Scan
 ## Threat Protection Profiles for Private App Segments
 **URL:** https://docs.netskope.com/en/threat-protection-profiles-for-private-app-segments/
 **Last Modified:** 2026-10-08T22:19:55+00:00
-**Scraped:** 2026-11-09T15:45:16.974485+00:00
+**Scraped:** 2026-11-10T14:58:51.229661+00:00
 
 Threat Protection Profiles for Private App Segments - Netskope Technical Documentation
 Threat Protection Profiles for Private App Segments
@@ -26705,7 +26750,7 @@ Threat Protection Profiles for Private App Segments
 ## Configure Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-business-rules/
 **Last Modified:** 2026-10-27T18:26:01+00:00
-**Scraped:** 2026-11-09T15:46:42.125452+00:00
+**Scraped:** 2026-11-10T15:00:18.191148+00:00
 
 Configure Threat Exchange Business Rules - Netskope Technical Documentation
 Configure Threat Exchange Business Rules
@@ -26789,7 +26834,7 @@ Configure Threat Exchange Business Rules
 ## Threat Exchange Module
 **URL:** https://docs.netskope.com/en/threat-exchange-module/
 **Last Modified:** 2026-10-27T18:29:30+00:00
-**Scraped:** 2026-11-09T15:46:48.579181+00:00
+**Scraped:** 2026-11-10T15:00:24.828784+00:00
 
 Threat Exchange Module - Netskope Technical Documentation
 Threat Exchange Module
@@ -26862,6 +26907,7 @@ Settings > General
 Configure Threat Exchange IoC Sharing
 .
 Configure 3rd-party Threat Exchange Plugins
+Thales Plugin for Threat Exchange
 View Configured Threat Exchange Plugins
 Update Configured Threat Exchange Plugins
 Manage Threat Exchange Business Rules and IoC Sharing
@@ -26875,8 +26921,9 @@ Threat Exchange Module
 ## Configure Threat Exchange IoC Sharing
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-ioc-sharing/
 **Last Modified:** 2026-10-27T18:30:04+00:00
-**Scraped:** 2026-11-09T15:46:49.660436+00:00
+**Scraped:** 2026-11-10T15:00:25.974562+00:00
 
+Configure Threat Exchange IoC Sharing - Netskope Technical Documentation
 Configure Threat Exchange IoC Sharing
 This article describes how to configure IoC sharing between the plugins (and therefore connected vendor systems), from a Threat Exchange business rule built on a Risk Exchange entity, or from a unified mapping business rule created in the Universal Schema Builder. Make sure to identify the sharing requirements between systems in advance of configuration. The sharing relationships each require a business rule to control what data is shared with the destination plugin.
 Note that each plugin for which a sharing rule is intended may have requirements that dictate the nature of the business rule. There is no point in creating a sharing rule to match IoC for sharing if that rule will be used to push information towards a system that can not use or can not receive those IoC types (STIX/TAXI for example is a push, never a pull, model).
@@ -27135,7 +27182,7 @@ Configure Threat Exchange IoC Sharing
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection/
 **Last Modified:** 2026-05-07T18:16:07+00:00
-**Scraped:** 2026-11-09T15:48:59.426581+00:00
+**Scraped:** 2026-11-10T15:02:40.255550+00:00
 
 Threat Protection - Netskope Technical Documentation
 Threat Protection
