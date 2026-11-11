@@ -1,12 +1,12 @@
 # Netskope Docs — Identity
-_Generated: 2026-11-10 15:23 UTC_
+_Generated: 2026-11-11 14:45 UTC_
 _Pages: 48_
 
 ---
 ## Integrate an Identity Provider (IdP)
 **URL:** https://docs.netskope.com/en/integrate-an-identity-provider-idp/
 **Last Modified:** 2025-08-31T01:50:48+00:00
-**Scraped:** 2026-11-10T14:15:38.813185+00:00
+**Scraped:** 2026-11-11T13:30:39.257395+00:00
 
 Integrate an Identity Provider (IdP)
 Integrating with an IdP (like Azure AD, Okta, etc.) is a crucial part in configuring your Netskope tenant. Users and Groups that are within your IdP’s directory will be synchronized to Netskope for use in security policies and access controls.
@@ -50,7 +50,7 @@ Integrate an Identity Provider (IdP)
 ## Configure the 3rd-Party Identity Service Provider Proxy Settings
 **URL:** https://docs.netskope.com/en/configure-the-3rd-party-identity-service-provider-proxy-settings/
 **Last Modified:** 2025-09-04T02:27:26+00:00
-**Scraped:** 2026-11-10T14:27:26.507635+00:00
+**Scraped:** 2026-11-11T13:43:35.994377+00:00
 
 Configure the 3rd-Party Identity Service Provider Proxy Settings - Netskope Technical Documentation
 Configure the 3rd-Party Identity Service Provider Proxy Settings
@@ -67,9 +67,8 @@ Configure the 3rd-Party Identity Service Provider Proxy Settings
 ## Configure the SAML Proxy in the Netskope UI
 **URL:** https://docs.netskope.com/en/configure-the-saml-proxy-in-the-netskope-ui/
 **Last Modified:** 2025-09-04T02:26:57+00:00
-**Scraped:** 2026-11-10T14:27:28.714415+00:00
+**Scraped:** 2026-11-11T13:43:38.397877+00:00
 
-Configure the SAML Proxy in the Netskope UI - Netskope Technical Documentation
 Configure the SAML Proxy in the Netskope UI
 The SAML Proxy must be configured with the Assertion Consumer Service (ACS) URL, Identity Provider (IdP) URL, and IdP Certificate by following these procedures.
 To configure the SAML Reverse Proxy in the Netskope UI:
@@ -134,7 +133,7 @@ Configure the SAML Proxy in the Netskope UI
 ## SAML Reverse Proxy Global Settings
 **URL:** https://docs.netskope.com/en/saml-reverse-proxy-global-settings/
 **Last Modified:** 2025-09-04T02:25:24+00:00
-**Scraped:** 2026-11-10T14:28:04.407259+00:00
+**Scraped:** 2026-11-11T13:44:17.433772+00:00
 
 SAML Reverse Proxy Global Settings - Netskope Technical Documentation
 SAML Reverse Proxy Global Settings
@@ -163,9 +162,8 @@ SAML Reverse Proxy Global Settings
 ## SAML Reverse Proxy
 **URL:** https://docs.netskope.com/en/saml-reverse-proxy/
 **Last Modified:** 2025-09-04T02:24:46+00:00
-**Scraped:** 2026-11-10T14:28:06.621072+00:00
+**Scraped:** 2026-11-11T13:44:19.826552+00:00
 
-SAML Reverse Proxy - Netskope Technical Documentation
 SAML Reverse Proxy
 Netskope SAML proxy is required to direct the cloud app by your company to the reverse proxy running in your tenant in the Netskope cloud. If you use Netskope Client,  the traffic is redirected directly to the Netskope Cloud,
 When an end user goes to a SaaS application, the traffic to an SSO system like Okta, Ping Identity, OneLogin, etc. is directed via SAML  for user authentication. Once the user is authenticated, traffic from the Netskope reverse proxy engine is used for deep analysis.
@@ -181,7 +179,7 @@ SAML Reverse Proxy
 ## User Identity Methods for IPSec and GRE Tunnels
 **URL:** https://docs.netskope.com/en/user-identity-methods-for-ipsec-and-gre-tunnels-432170/
 **Last Modified:** 2026-05-26T19:48:17+00:00
-**Scraped:** 2026-11-10T14:28:09.974253+00:00
+**Scraped:** 2026-11-11T13:44:23.580205+00:00
 
 User Identity Methods for IPSec and GRE Tunnels - Netskope Technical Documentation
 User Identity Methods for IPSec and GRE Tunnels
@@ -392,7 +390,7 @@ User Identity Methods for IPSec and GRE Tunnels
 ## User Identity Methods for IPSec and GRE Tunnels
 **URL:** https://docs.netskope.com/en/user-identity-methods-for-ipsec-and-gre-tunnels/
 **Last Modified:** 2026-05-28T18:12:35+00:00
-**Scraped:** 2026-11-10T14:28:11.078870+00:00
+**Scraped:** 2026-11-11T13:44:24.786309+00:00
 
 User Identity Methods for IPSec and GRE Tunnels - Netskope Technical Documentation
 User Identity Methods for IPSec and GRE Tunnels
@@ -603,7 +601,7 @@ User Identity Methods for IPSec and GRE Tunnels
 ## Add an Azure AD Account in Netskope SAML – Forward Proxy
 **URL:** https://docs.netskope.com/en/add-an-azure-ad-account-in-netskope-saml-forward-proxy/
 **Last Modified:** 2025-09-01T13:15:50+00:00
-**Scraped:** 2026-11-10T14:28:17.785798+00:00
+**Scraped:** 2026-11-11T13:44:32.010844+00:00
 
 Add an Azure AD Account in Netskope SAML – Forward Proxy - Netskope Technical Documentation
 Add an Azure AD Account in Netskope SAML – Forward Proxy
@@ -632,9 +630,8 @@ Add an Azure AD Account in Netskope SAML – Forward Proxy
 ## Bypass SAML Forward Proxy Authentication Methods
 **URL:** https://docs.netskope.com/en/bypass-saml-forward-proxy-authentication-methods/
 **Last Modified:** 2025-08-31T01:55:21+00:00
-**Scraped:** 2026-11-10T14:28:30.208165+00:00
+**Scraped:** 2026-11-11T13:44:45.502389+00:00
 
-Bypass SAML Forward Proxy Authentication Methods - Netskope Technical Documentation
 Bypass SAML Forward Proxy Authentication Methods
 There are use cases where SAML Auth will need to be bypassed for traffic steered via the IPSec or GRE tunnel.
 Netskope has three methods of bypass:
@@ -658,9 +655,8 @@ Bypass SAML Forward Proxy Authentication Methods
 ## Configure ADFS for Netskope SAML
 **URL:** https://docs.netskope.com/en/configure-adfs-for-netskope-saml/
 **Last Modified:** 2025-08-31T01:55:40+00:00
-**Scraped:** 2026-11-10T14:28:44.703662+00:00
+**Scraped:** 2026-11-11T13:45:01.292334+00:00
 
-Configure ADFS for Netskope SAML - Netskope Technical Documentation
 Configure ADFS for Netskope SAML
 Add the Netskope Secure Web Gateway service as a relying party trust. Open the ADFS Management window and select the Relying Party Trusts folder. Right click the Relying Party Trusts folder to add a Relying Part Trust.
 When the Add Relying Party Trust wizard appears, click
@@ -748,7 +744,7 @@ Configure ADFS for Netskope SAML
 ## Configure ADFS for Netskope SSO Manually
 **URL:** https://docs.netskope.com/en/configure-adfs-for-netskope-sso-manually/
 **Last Modified:** 2025-08-31T01:38:38+00:00
-**Scraped:** 2026-11-10T14:28:45.820226+00:00
+**Scraped:** 2026-11-11T13:45:02.528963+00:00
 
 Configure ADFS for Netskope SSO Manually - Netskope Technical Documentation
 Configure ADFS for Netskope SSO Manually
@@ -899,7 +895,7 @@ Configure ADFS for Netskope SSO Manually
 ## Configure ADFS for Netskope SSO using the Metadata File
 **URL:** https://docs.netskope.com/en/configure-adfs-for-netskope-sso-using-the-metadata-file/
 **Last Modified:** 2025-08-31T01:38:37+00:00
-**Scraped:** 2026-11-10T14:28:46.919925+00:00
+**Scraped:** 2026-11-11T13:45:03.749473+00:00
 
 Configure ADFS for Netskope SSO using the Metadata File - Netskope Technical Documentation
 Configure ADFS for Netskope SSO using the Metadata File
@@ -1037,7 +1033,7 @@ Configure ADFS for Netskope SSO using the Metadata File
 ## Configure an Enterprise Application in Microsoft Azure Active Directory for SAML Auth
 **URL:** https://docs.netskope.com/en/configure-an-enterprise-application-in-microsoft-azure-active-directory-for-saml-auth/
 **Last Modified:** 2025-09-01T13:15:49+00:00
-**Scraped:** 2026-11-10T14:28:50.306047+00:00
+**Scraped:** 2026-11-11T13:45:07.759688+00:00
 
 Configure an Enterprise Application in Microsoft Azure Active Directory for SAML Auth - Netskope Technical Documentation
 Configure an Enterprise Application in Microsoft Azure Active Directory for SAML Auth
@@ -1129,7 +1125,7 @@ Configure an Enterprise Application in Microsoft Azure Active Directory for SAML
 ## Configure Google IdP for Netskope SAML Forward Proxy
 **URL:** https://docs.netskope.com/en/configure-google-idp-for-netskope-saml-forward-proxy/
 **Last Modified:** 2025-08-31T01:55:36+00:00
-**Scraped:** 2026-11-10T14:28:52.507513+00:00
+**Scraped:** 2026-11-11T13:45:10.224960+00:00
 
 Configure Google IdP for Netskope SAML Forward Proxy - Netskope Technical Documentation
 Configure Google IdP for Netskope SAML Forward Proxy
@@ -1191,9 +1187,8 @@ Configure Google IdP for Netskope SAML Forward Proxy
 ## Configure Netskope SAML for ADFS
 **URL:** https://docs.netskope.com/en/configure-netskope-saml-for-adfs/
 **Last Modified:** 2025-08-31T01:55:40+00:00
-**Scraped:** 2026-11-10T14:28:58.028214+00:00
+**Scraped:** 2026-11-11T13:45:16.259493+00:00
 
-Configure Netskope SAML for ADFS - Netskope Technical Documentation
 Configure Netskope SAML for ADFS
 Log in to the Netskope UI (
 https://
@@ -1227,7 +1222,7 @@ Configure Netskope SAML for ADFS
 ## Configure Netskope SSO for ADFS
 **URL:** https://docs.netskope.com/en/configure-netskope-sso-for-adfs/
 **Last Modified:** 2025-08-31T01:38:39+00:00
-**Scraped:** 2026-11-10T14:29:01.357460+00:00
+**Scraped:** 2026-11-11T13:45:19.975224+00:00
 
 Configure Netskope SSO for ADFS - Netskope Technical Documentation
 Configure Netskope SSO for ADFS
@@ -1278,7 +1273,7 @@ Configure Netskope SSO for ADFS
 ## Configure the Netskope Plugin with SailPoint IdentityIQ
 **URL:** https://docs.netskope.com/en/configure-the-netskope-plugin-with-sailpoint-identityiq/
 **Last Modified:** 2026-10-19T07:16:10+00:00
-**Scraped:** 2026-11-10T14:29:07.983766+00:00
+**Scraped:** 2026-11-11T13:45:27.197331+00:00
 
 Configure the Netskope Plugin with SailPoint IdentityIQ - Netskope Technical Documentation
 Configure the Netskope Plugin with SailPoint IdentityIQ
@@ -1296,7 +1291,7 @@ Configure the Netskope Plugin with SailPoint IdentityIQ
 ## CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-falcon-identity-protection-plugin-for-user-risk-exchange/
 **Last Modified:** 2026-05-28T00:23:50+00:00
-**Scraped:** 2026-11-10T14:29:28.138434+00:00
+**Scraped:** 2026-11-11T13:45:49.049610+00:00
 
 CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange - Netskope Technical Documentation
 CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange
@@ -1476,7 +1471,7 @@ CrowdStrike Falcon Identity Protection Plugin for User Risk Exchange
 ## Disable the Re-Sign SAML Assertion
 **URL:** https://docs.netskope.com/en/disable-the-re-sign-saml-assertion/
 **Last Modified:** 2025-08-31T01:55:01+00:00
-**Scraped:** 2026-11-10T14:29:29.227768+00:00
+**Scraped:** 2026-11-11T13:45:50.243792+00:00
 
 Disable the Re-Sign SAML Assertion - Netskope Technical Documentation
 Disable the Re-Sign SAML Assertion
@@ -1495,7 +1490,7 @@ Disable the Re-Sign SAML Assertion
 ## Enable Authentication and Configure SSO Domain Bypass Settings
 **URL:** https://docs.netskope.com/en/enable-authentication-and-configure-sso-domain-bypass-settings/
 **Last Modified:** 2025-08-31T01:55:19+00:00
-**Scraped:** 2026-11-10T14:29:32.557310+00:00
+**Scraped:** 2026-11-11T13:45:53.989670+00:00
 
 Enable Authentication and Configure SSO Domain Bypass Settings - Netskope Technical Documentation
 Enable Authentication and Configure SSO Domain Bypass Settings
@@ -1539,7 +1534,7 @@ Enable Authentication and Configure SSO Domain Bypass Settings
 ## Get Netskope SAML Settings
 **URL:** https://docs.netskope.com/en/get-netskope-saml-settings/
 **Last Modified:** 2025-09-01T13:15:49+00:00
-**Scraped:** 2026-11-10T14:29:38.124760+00:00
+**Scraped:** 2026-11-11T13:45:59.990384+00:00
 
 Get Netskope SAML Settings - Netskope Technical Documentation
 Get Netskope SAML Settings
@@ -1569,7 +1564,7 @@ Get Netskope SAML Settings
 ## Get the Netskope SAML Settings
 **URL:** https://docs.netskope.com/en/get-the-netskope-saml-settings/
 **Last Modified:** 2025-08-31T01:55:36+00:00
-**Scraped:** 2026-11-10T14:29:40.340830+00:00
+**Scraped:** 2026-11-11T13:46:02.384323+00:00
 
 Get the Netskope SAML Settings - Netskope Technical Documentation
 Get the Netskope SAML Settings
@@ -1584,7 +1579,7 @@ Get the Netskope SAML Settings
 ## Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy
 **URL:** https://docs.netskope.com/en/netskope-explicit-proxy-for-chromebooks-with-google-saml-forward-proxy/
 **Last Modified:** 2026-10-19T07:18:25+00:00
-**Scraped:** 2026-11-10T14:30:26.352262+00:00
+**Scraped:** 2026-11-11T13:46:52.172021+00:00
 
 Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy - Netskope Technical Documentation
 Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy
@@ -1798,8 +1793,9 @@ Netskope Explicit Proxy for Chromebooks with Google SAML Forward Proxy
 ## Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth
 **URL:** https://docs.netskope.com/en/netskope-forward-proxy-over-ipsec-gre-with-azure-ad-saml-auth/
 **Last Modified:** 2025-08-31T01:55:17+00:00
-**Scraped:** 2026-11-10T14:30:27.458988+00:00
+**Scraped:** 2026-11-11T13:46:53.359101+00:00
 
+Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth - Netskope Technical Documentation
 Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth
 Netskope integrates with identity providers to gather user identity information for traffic steered through an IPSec or GRE tunnel. This guide explains how to configure Azure AD SAML Auth with Netskope Forward Proxy over IPSec or GRE tunnels. This guide does not cover how to configure an IPSec or GRE tunnel and installing Netskope certificates onto the devices connecting to the web via the tunnel. Refer to
 IPSec
@@ -1830,8 +1826,9 @@ Netskope Forward Proxy over IPSec/GRE with Azure AD SAML Auth
 ## Single Sign On with Okta
 **URL:** https://docs.netskope.com/en/sso-with-okta/
 **Last Modified:** 2025-08-31T01:38:36+00:00
-**Scraped:** 2026-11-10T14:30:42.986995+00:00
+**Scraped:** 2026-11-11T13:47:10.686226+00:00
 
+Single Sign On with Okta - Netskope Technical Documentation
 Single Sign On with Okta
 Netskope integrates with multiple third-party applications to provide a wide range of solutions. You can configure single sign-on (SSO) on the Netskope Admin Console to connect to these applications with or without authentication. Using the SSO Enabled feature in the Netskope Admin Console, you can set up forced authentication when connecting to third-party applications through Okta.
 In these instructions,
@@ -1932,8 +1929,9 @@ Single Sign On with Okta
 ## Single Sign On with Entra ID
 **URL:** https://docs.netskope.com/en/sso-with-entra-id/
 **Last Modified:** 2026-05-06T13:54:39+00:00
-**Scraped:** 2026-11-10T14:30:44.086870+00:00
+**Scraped:** 2026-11-11T13:47:11.886182+00:00
 
+Single Sign On with Entra ID - Netskope Technical Documentation
 Single Sign On with Entra ID
 Single Sign On with Microsoft Entra ID
 This document explains how to configure Microsoft Entra ID for Single Sign On (SSO) to the Netskope tenant. Netskope now offers a gallery application in Microsoft Entra ID for both admin SSO and user provisioning via SCIM.
@@ -2104,9 +2102,8 @@ Single Sign On with Entra ID
 ## Single Sign On with ADFS
 **URL:** https://docs.netskope.com/en/netskope-sso-with-adfs/
 **Last Modified:** 2025-08-31T01:38:37+00:00
-**Scraped:** 2026-11-10T14:30:45.177726+00:00
+**Scraped:** 2026-11-11T13:47:13.072448+00:00
 
-Single Sign On with ADFS - Netskope Technical Documentation
 Single Sign On with ADFS
 Netskope SSO integration allows organizations to use an Identity Provider (IdP) for authentication and authorization purposes. Strong authentication mechanisms like multi-factor authentication, etc., may be used by the organization with their IdP. This results in a stronger authentication before an administrator can get access to the Netskope UI.
 Integrating Netskope SSO with ADFS includes these steps:
@@ -2124,7 +2121,7 @@ Single Sign On with ADFS
 ## Reverse Proxy for Atlassian with Azure AD SSO
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-atlassian-with-azure-ad-sso/
 **Last Modified:** 2025-08-31T01:54:54+00:00
-**Scraped:** 2026-11-10T14:31:01.797831+00:00
+**Scraped:** 2026-11-11T13:47:31.134078+00:00
 
 Reverse Proxy for Atlassian with Azure AD SSO - Netskope Technical Documentation
 Reverse Proxy for Atlassian with Azure AD SSO
@@ -2164,7 +2161,7 @@ Reverse Proxy for Atlassian with Azure AD SSO
 ## Reverse Proxy for ServiceNow with Azure AD SSO
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-servicenow-with-azure-ad-sso/
 **Last Modified:** 2025-08-31T01:54:59+00:00
-**Scraped:** 2026-11-10T14:31:06.202714+00:00
+**Scraped:** 2026-11-11T13:47:35.917764+00:00
 
 Reverse Proxy for ServiceNow with Azure AD SSO - Netskope Technical Documentation
 Reverse Proxy for ServiceNow with Azure AD SSO
@@ -2285,7 +2282,7 @@ Reverse Proxy for ServiceNow with Azure AD SSO
 ## SAML Proxy
 **URL:** https://docs.netskope.com/en/saml-proxy/
 **Last Modified:** 2025-08-31T01:55:39+00:00
-**Scraped:** 2026-11-10T14:31:08.410533+00:00
+**Scraped:** 2026-11-11T13:47:38.305846+00:00
 
 SAML Proxy - Netskope Technical Documentation
 SAML Proxy
@@ -2302,7 +2299,7 @@ SAML Proxy
 ## SSO Configuration
 **URL:** https://docs.netskope.com/en/sso-configuration/
 **Last Modified:** 2025-10-31T02:18:06+00:00
-**Scraped:** 2026-11-10T14:31:22.095186+00:00
+**Scraped:** 2026-11-11T13:47:53.172141+00:00
 
 SSO Configuration - Netskope Technical Documentation
 SSO Configuration
@@ -2358,7 +2355,7 @@ SSO Configuration
 ## SSO Access for Netskope Support
 **URL:** https://docs.netskope.com/en/sso-access-for-netskope-support/
 **Last Modified:** 2026-05-28T00:31:11+00:00
-**Scraped:** 2026-11-10T14:31:26.573864+00:00
+**Scraped:** 2026-11-11T13:47:58.000548+00:00
 
 SSO Access for Netskope Support - Netskope Technical Documentation
 SSO Access for Netskope Support
@@ -2448,7 +2445,7 @@ SSO Access for Netskope Support
 ## Test SSO via the IPSec or GRE Tunnel
 **URL:** https://docs.netskope.com/en/test-sso-via-the-ipsec-or-gre-tunnel/
 **Last Modified:** 2025-08-31T01:55:20+00:00
-**Scraped:** 2026-11-10T14:31:27.677668+00:00
+**Scraped:** 2026-11-11T13:47:59.211929+00:00
 
 Test SSO via the IPSec or GRE Tunnel - Netskope Technical Documentation
 Test SSO via the IPSec or GRE Tunnel
@@ -2481,7 +2478,7 @@ Test SSO via the IPSec or GRE Tunnel
 ## Enable SAML Authentication on the DPoP Appliance
 **URL:** https://docs.netskope.com/en/enable-saml-authentication-on-dpop-appliance/
 **Last Modified:** 2026-08-18T17:14:12+00:00
-**Scraped:** 2026-11-10T14:36:41.883018+00:00
+**Scraped:** 2026-11-11T13:53:40.230237+00:00
 
 Enable SAML Authentication on the DPoP Appliance - Netskope Technical Documentation
 Enable SAML Authentication on the DPoP Appliance
@@ -2508,8 +2505,9 @@ Enable SAML Authentication on the DPoP Appliance
 ## Reverse Proxy for ServiceNow with Pingfed IdP
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-servicenow-with-pingfed-idp/
 **Last Modified:** 2025-08-31T01:55:02+00:00
-**Scraped:** 2026-11-10T14:39:48.219595+00:00
+**Scraped:** 2026-11-11T13:57:03.614286+00:00
 
+Reverse Proxy for ServiceNow with Pingfed IdP - Netskope Technical Documentation
 Reverse Proxy for ServiceNow with Pingfed IdP
 This topic provides instructions to configure Netskope Reverse Proxy for ServiceNow with Pingfed IdP.
 Recommendation
@@ -2669,17 +2667,78 @@ Reverse Proxy for ServiceNow with Pingfed IdP
 ---
 ## SAML Settings for Authentication
 **URL:** https://docs.netskope.com/en/saml-settings-for-authentication/
-**Last Modified:** 2026-05-14T21:49:24+00:00
-**Scraped:** 2026-11-10T14:42:40.130063+00:00
+**Last Modified:** 2026-11-10T22:12:23+00:00
+**Scraped:** 2026-11-11T14:00:10.691336+00:00
 
-SAML Settings for Authentication - Netskope Technical Documentation
 SAML Settings for Authentication
-The SAML Forward Proxy must be configured with the Assertion Consumer Service (ACS) URL, IdP URL, and IdP Certificate by following this procedure.
+The Enhanced SAML Authentication feature introduces granular, service-specific control over authentication policies across different Netskope services. This replaces the legacy global SAML configuration model with a flexible, standards-compliant architecture tailored to enterprise security requirements.
+Beginning with Netskope Client R134 and the Next Generation (NG) WebUI, administrators can configure Usage Profiles and Force Authentication to establish granular, service-specific authentication policies across services—such as enforcing mandatory step-up re-authentication for Private Access while preserving seamless Single Sign-On (SSO) for general web browsing. This capability provides:
+Service-Specific Usage Profiles:
+Dedicated profiles for Internet Security, Cloud Firewall, Private Access (NPA), Borderless WAN (BWAN), and their respective re-authentication scenarios.
+SAML 2.0 ForceAuthn Standard:
+Modern, standards-compliant re-authentication that instructs Identity Providers (IdPs) to enforce fresh verification regardless of active SSO sessions.
+Automated Identity Hints:
+Streamlined login pre-population using login_hint and domain_hint parameters extracted from enrolled client certificates.
 Before Configuring SAML Settings for Authentication
-Things to know before you proceed with configuring SAML settings for authentication.
-As of R121, IdPs can be partially configured and updated in order to grab the ACS URL and Metadata to be placed into the IdP more easily.
-Creating IdPs through REST API calls is a controlled-GA feature. To enable this, please contact Netskope Support or your account executive.
-Instructions in this section is applicable only for non admin users. For instructions to configure SSO for admin users, see Single Sign On for Administrators section.
+Review the system requirements and operational guidelines before configuring SAML settings for forward proxy authentication.
+Requirements and Prerequisites
+Component
+Requirement Specification
+Netskope Tenant
+Release R134 or later; Next Generation (NG) WebUI enabled.
+Netskope Client
+Version R134 or later installed on endpoints (Windows and macOS). Compatible client required for Borderless WAN.
+Identity Provider (IdP)
+Must support SAML 2.0 ForceAuthn specification and recognize login_hint / domain_hint query parameters.
+Client Certificates
+Enrolled client certificates must contain the user's email address or UPN within the Subject field to enable identity pre-population.
+Important Notes
+Admin vs. Non-Admin Scope:
+Instructions in this section apply only to non-admin end users. To configure SSO for administrator access, refer to the
+Single Sign On for Administrators
+guide.
+Partial Configuration (R121+):
+As of R121, IdP accounts can be partially configured and saved to retrieve the ACS URL and Netskope metadata, allowing easier setup in your third-party IdP.
+REST API Provisioning:
+Creating and managing IdP accounts programmatically is supported via
+REST API v2
+. For endpoint and payload details, refer to the
+REST API v2 Configuration Reference
+section below.
+Key Features and Capabilities
+These enhancements are supported on tenants running Netskope Release R134 or later with SAML REST API v2 access enabled. Note that feature rollout across tenant environments is executed in a phased manner.
+Service-Specific Usage Profiles
+– Administrators can assign specific usage profiles to SAML Forward Proxy IdP accounts, allowing decoupled authentication workflows across disparate Netskope access methods. Benefits include:
+Applying strict security policies (such as mandatory step-up Multi-Factor Authentication) for sensitive Private Access applications.
+Maintaining frictionless, single-sign-on access for general web browsing via Internet Security / Cloud Firewall.
+Decoupling initial client enrollment policies from recurring re-authentication policies.
+Usage Profile
+Description and Scope
+Internet Security / Cloud Firewall / Private Access
+Governs client enrollment and initial authentication for Secure Web Gateway (SWG), Cloud Firewall (CFW), and Netskope Private Access (NPA).
+Borderless WAN
+Handles client enrollment and authentication flows for Netskope Borderless WAN endpoints.
+Private Access Re-Authentication
+Applies to subsequent, step-up verification when users access sensitive NPA applications subject to re-authentication policies.
+Borderless WAN Re-Authentication
+Applies to subsequent verification for active Borderless WAN sessions requiring renewed credentials.
+Standards-Compliant SAML ForceAuthn
+– Netskope now leverages the industry-standard SAML 2.0 ForceAuthn attribute, replacing the legacy browser cookie-clearing workaround. When enabled, Netskope includes ForceAuthn=”true” in the SAML AuthnRequest payload. This explicitly instructs the upstream Identity Provider to challenge the user for active credentials, regardless of any existing, valid SSO session at the IdP.
+Interoperability:
+Natively supported by major enterprise IdPs including Microsoft Entra ID, Okta, and PingFederate.
+Predictability:
+Eliminates inconsistent browser cache/cookie behavior during re-authentication cycles.
+Security Compliance:
+Ensures step-up verification and MFA policies are reliably triggered for restricted resources.
+Login Hint and Domain Hint Pre-population – To optimize user experience during mandatory re-authentication challenges, Netskope forwards identity context directly to the Identity Provider:
+login_hint Parameter:
+Passed in authentication requests to supported IdPs (e.g., Okta, PingFederate) to pre-fill the username or email field.
+domain_hint Parameter:
+Forwarded to Microsoft Entra ID SAML endpoints to bypass redundant tenant discovery and direct users immediately to their corporate sign-in page.
+Certificate Extraction:
+The Netskope Client automatically extracts the user identity (email or User Principal Name) from the enrolled client certificate’s Subject field.
+Supported Platforms:
+Available on Netskope Client for Windows and macOS during Private Access and Borderless WAN re-authentication workflows.
 Get Netskope SAML Settings
 Log in to the Netskope WebUI
 Go to
@@ -2713,52 +2772,129 @@ Settings
 >
 Security Cloud Platform
 >
-Forward Proxy
->
 SAML
-.
+(in
+Forward Proxy
+).
 Click the
 NEW ACCOUNT
 button. In the
 New Account
-pop-up window, enter the following:
-Name
-: Provide a name to identify the IdP service.
-Access Method
-: Select the access method that will use this IdP service.
+pop-up window, configure:
+Name:
+Provide a name to identify the IdP service.
+Access Method:
+Select the access method that will use this IdP service
 All
 – To use the IdP service for all access methods.
 IPSec
-– Select this option to use the IdP service for IPsec access methods. For granular control, you can enable the IdP service for all tunnels or specific tunnels. To enable this IdP for a specific tunnel, select a Specific tunnel from the list and then select the tunnel from the IPSec Tunnel list.
-If you have not configured an IPSec tunnel yet, click the gear icon to access the IPSec tunnel creation interface.
+– Select this option to use the IdP service for IPsec access methods. For granular control, you can enable the IdP service for all tunnels or specific tunnels.
 GRE
-– To use the IdP service for GRE access methods. For granular control, you can enable the IdP service for all tunnels or specific tunnels. To enable this IdP for a specific tunnel, select Specific tunnel and then select the tunnel from the GRE Tunnel list.
+– To use the IdP service for GRE access methods. For granular control, you can enable the IdP service for all tunnels or specific tunnels.
 Client Enrollment
-– To use the IdP service for client enrollment workflow.
+– To use the IdP service for client enrollment and authentication workflows.
 Cloud Explicit Proxy
 – To use the IdP service when the access method is via Netskope Proxy.
-IdP Configuration
-– In the Setup tab, enter the following details to configure the IdP service.
-IDP SSO URL
-: This is the URL used to redirect the user to the IdP site for authentication. Contact your third-party Identity Provider and add the unique IdP login URL in this field.
-IDP Entity ID
-: An entity ID is a globally unique name for a SAML entity, either an Identity Provider (IdP) or a Service Provider (SP).
-IDP Certificate
-: Upload the certificate of the third-party IdP in this field. This is required by Netskope to validate the signature of the SAML assertion.
-SAML Binding Method
-: Select between HTTP Post and HTTP Redirect as a method of communication method between IdP and tenant.
-Alternate User Id Field
-: Netskope looks at the NameID field in the SAML assertion to get the user identity. If you would like to use another field for user identification, type the name of the SAML attribute in this field. Select the Status toggle to enable or disable the IdP service.
+Usage Profiles (Applicable when Client Enrollment or All is selected):
+Select the service-specific profiles to assign to this IdP account. By default, all four profiles are selected:
+Internet Security / Cloud Firewall / Private Access:
+Governs client enrollment and initial authentication for SWG, CFW, and NPA.
+Borderless WAN:
+Handles client enrollment and initial authentication flows for Borderless WAN endpoints.
+Private Access Re-Authentication:
+Applies to subsequent step-up verification when users access sensitive NPA applications subject to re-authentication policies.
+Borderless WAN Re-Authentication:
+Applies to subsequent verification for active Borderless WAN sessions requiring renewed credentials.
+At least one usage profile must remain selected when Client Enrollment is enabled. You cannot save an account with all profiles cleared.
+IdP Configuration:
+In the
+Setup
+tab, configure the IdP parameters:
+IDP SSO URL:
+The URL used to redirect the user to the IdP site for authentication.
+IDP Entity ID:
+A globally unique name for the SAML entity (IdP or SP).
+IDP Certificate:
+Upload the X.509 certificate from the third-party IdP to validate the signature of the SAML assertion.
+SAML Binding Method:
+Select between
+HTTP Post
+and
+HTTP Redirect
+.
+Alternate User Id Field:
+By default, Netskope looks at the NameID field in the SAML assertion. If using another attribute, enter the SAML attribute name.
+Select the
+Status
+toggle to enable or disable the IdP service.
+Options
+tab.
+(Force Authentication & Granular Controls)
+. These are optional settings.
+Force Authentication:
+Select to
+Enabled (ON)
+. This  instructs the IdP to challenge the user for active credentials again, even if an active SSO session already exists. When enabled, Netskope includes ForceAuthn=”true” in the SAML AuthnRequest payload. This replaces legacy browser cookie-clearing workarounds and ensures strict MFA compliance for re-authentication workflows.
+Network Location & Domain Matching:
+Specify granular controls so the IdP is matched only when specific criteria (network location, authentication domain) are met.
 Click
 SAVE
 .
-Options
-tab. These are optional settings. In this tab, you can specify granular controls to an IdP service so that the IdP is used only when very specific criteria (like network location and authentication domain ) are matched.
+Example Deployment Configurations
+Authentication requirements differ across customer environments and security postures. Administrators can configure multiple SAML IdP accounts to support tailored workflows:
+Example Configuration A: General Client Enrollment and Browsing
+Force Authentication:
+Unchecked (Disabled)
+Assigned Client Usage Profiles:
+Internet Security / Cloud Firewall / Private Access
+,
+Borderless WAN
+Workflow:
+Allows users to leverage active corporate SSO sessions for daily web access and initial tunnel connection without unnecessary sign-in prompts.
+Example Configuration B: Dedicated High-Assurance Re-Authentication
+Force Authentication:
+Checked (Enabled)
+Assigned Client Usage Profiles:
+Private Access Re-Authentication
+,
+Borderless WAN Re-Authentication
+Workflow:
+Enforces fresh credential entry and step-up MFA whenever access policies require re-authentication for protected internal services.
 Adding a New Forward Proxy IdP Service with the REST API
-GET, POST (Create), PATCH (Update), and DELETE are supported for creating SAML IdP accounts.
-For specifics, please see
-Rest API v2
-and your tenant’s Swagger API documentation located at https://<your_tenant>.netskope.com/apidocs/?include_beta_routes=0
+SAML Forward Proxy IdP accounts can be created and managed programmatically using Netskope REST API v2 endpoints:
+API Endpoint:
+/api/v2/infrastructure/samlforwardproxyidpaccount
+(supporting
+GET
+,
+POST
+,
+PATCH
+, and
+DELETE
+methods).
+Access Method & Profiles:
+In the REST API, client profiles are defined by extending the
+accessMethod
+array rather than using a separate
+usageProfiles
+key. Supported profile and access method values include:
+“ipsec-gateway”
+“gre-gateway”
+“client-enrollment”
+“bwan”
+“npa-reauth”
+“bwan-reauth”
+“enterprise-browser”
+“Explicit”
+“All”
+Force Authentication Parameter:
+Pass
+"enableForceAuthn": true
+(or
+false
+) in the payload to control SAML ForceAuthn behavior.
+For specifics, please see Rest API v2 and your tenant’s Swagger API documentation located at https://.netskope.com/apidocs/?include_beta_routes=0
 Forward Proxy Global Settings
 Administrators can use this page to configure user authentication settings. You can enable cookie surrogate, modify the authentication refresh interval, and modify the user authentication domain refresh interval. In addition, you can bypass specific domains and web categories for which authentication is not required.
 Using IP Surrogate
@@ -2777,11 +2913,9 @@ and click
 Settings
 . In the
 Settings
-pop-up enable the
-Enable Cookie Surrogate
-toggle, and then enter the source IP address (like 1.1.1.1) or subnet (like 1.1.1.0/24) for the cookie surrogate in the Source IP Addresses text field and click the
-+
-button.
+pop-up, select the
+Cookie Surrogate
+checkbox to enable, and then enter the source IP address (like 1.1.1.1) or subnet (like 1.1.1.0/24) for the cookie surrogate in the Source IP Addresses text field.
 Cookie Surrogate for Desktop Applications
 Native apps on a desktop that do not honor cookie redirects, or background traffic from a browser such as
 .js
@@ -2825,11 +2959,7 @@ Forward Proxy
 SAML
 and click
 Settings
-. In the
-Settings
-pop-up click the
-Bypass
-tab.
+.
 Domain Bypass
 Click to add comma-separated URLs to bypass. When finished, click
 Save
@@ -2851,7 +2981,7 @@ SAML Settings for Authentication
 ## SAML Authentication with OKTA
 **URL:** https://docs.netskope.com/en/saml-authentication-with-okta/
 **Last Modified:** 2025-08-31T01:56:04+00:00
-**Scraped:** 2026-11-10T14:42:41.241027+00:00
+**Scraped:** 2026-11-11T14:00:12.127903+00:00
 
 SAML Authentication with OKTA - Netskope Technical Documentation
 SAML Authentication with OKTA
@@ -2948,8 +3078,9 @@ SAML Authentication with OKTA
 ## SAML Authentication with Entra ID
 **URL:** https://docs.netskope.com/en/saml-authentication-with-entra-id/
 **Last Modified:** 2026-07-14T06:32:07+00:00
-**Scraped:** 2026-11-10T14:42:42.352048+00:00
+**Scraped:** 2026-11-11T14:00:13.341155+00:00
 
+SAML Authentication with Entra ID - Netskope Technical Documentation
 SAML Authentication with Entra ID
 Netskope utilizes the System for Cross-domain Identity Management (SCIM) standard to automate user lifecycle management and synchronize identity data from Microsoft Entra ID to the Netskope Security Cloud Platform. This integration supports the automated creation, update, and deactivation of user accounts and group memberships, ensuring identity consistency across your security infrastructure.
 Before initiating the SAML handshake, ensure your Netskope tenant is configured to allow traffic from Microsoft Entra ID and that you have generated a secure access token for service-level communication.
@@ -3163,7 +3294,7 @@ SAML Authentication with Entra ID
 ## Configure Browser-based Access with Multiple IdPs
 **URL:** https://docs.netskope.com/en/browser-access-with-multiple-idps/
 **Last Modified:** 2026-02-27T22:15:38+00:00
-**Scraped:** 2026-11-10T14:43:27.274843+00:00
+**Scraped:** 2026-11-11T14:01:02.024388+00:00
 
 Configure Browser-based Access with Multiple IdPs - Netskope Technical Documentation
 Configure Browser-based Access with Multiple IdPs
@@ -3342,7 +3473,7 @@ Configure Browser-based Access with Multiple IdPs
 ## CrowdStrike Falcon Identity Protection Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-falcon-identity-protection-v1-0-0-plugin-for-risk-exchange/
 **Last Modified:** 2026-05-28T23:08:52+00:00
-**Scraped:** 2026-11-10T14:43:46.132251+00:00
+**Scraped:** 2026-11-11T14:01:22.691003+00:00
 
 CrowdStrike Falcon Identity Protection Plugin for Risk Exchange - Netskope Technical Documentation
 CrowdStrike Falcon Identity Protection Plugin for Risk Exchange
@@ -3654,9 +3785,8 @@ CrowdStrike Falcon Identity Protection Plugin for Risk Exchange
 ## Reverse Proxy for Workday with Entra ID SSO
 **URL:** https://docs.netskope.com/en/reverse-proxy-for-workday-with-entra-id-sso/
 **Last Modified:** 2025-08-31T01:55:04+00:00
-**Scraped:** 2026-11-10T14:45:16.031556+00:00
+**Scraped:** 2026-11-11T14:03:00.784418+00:00
 
-Reverse Proxy for Workday with Entra ID SSO - Netskope Technical Documentation
 Reverse Proxy for Workday with Entra ID SSO
 This guide provides step-by-step instructions to configure Workday Single Sign-On (SSO) with Microsoft Entra ID, using Netskope Reverse Proxy for enhanced security and authentication management.
 It is recommended to configure Workday with Microsoft EntraID without Netskope SAML Proxy before proceeding for a smoother configuration experience.
@@ -3800,8 +3930,9 @@ Reverse Proxy for Workday with Entra ID SSO
 ## Multiple IdP Support for Netskope SSO
 **URL:** https://docs.netskope.com/en/multiple-idp-support-for-netskope-sso/
 **Last Modified:** 2025-08-31T01:38:36+00:00
-**Scraped:** 2026-11-10T14:49:54.393412+00:00
+**Scraped:** 2026-11-11T14:08:04.756818+00:00
 
+Multiple IdP Support for Netskope SSO - Netskope Technical Documentation
 Multiple IdP Support for Netskope SSO
 Multiple Identity Provider (IdP) support for Single Sign-On (SSO) is a feature that allows an organization to integrate with and use multiple identity providers for user authentication and authorization.
 Netskope integrates with any SAML 2.0 IdP to provide a wide range of solutions. Admins can configure SSO through the Netskope Admin console to connect to these applications for authentication and you can configure multiple IdPs simultaneously.
@@ -3891,7 +4022,7 @@ Multiple IdP Support for Netskope SSO
 ## Associate the Custom AI Provider to the AIG
 **URL:** https://docs.netskope.com/en/associate-the-custom-ai-provider-to-the-aig/
 **Last Modified:** 2026-05-18T15:00:32+00:00
-**Scraped:** 2026-11-10T14:52:36.435526+00:00
+**Scraped:** 2026-11-11T14:11:02.368469+00:00
 
 Associate the Custom AI Provider to the AIG - Netskope Technical Documentation
 Associate the Custom AI Provider to the AIG
@@ -3925,7 +4056,7 @@ Associate the Custom AI Provider to the AIG
 ## Browser-based Access with Reverse Proxy SAML
 **URL:** https://docs.netskope.com/en/browser-based-access-with-reverse-proxy-saml/
 **Last Modified:** 2026-02-28T00:38:19+00:00
-**Scraped:** 2026-11-10T14:53:56.071195+00:00
+**Scraped:** 2026-11-11T14:12:29.170648+00:00
 
 Browser-based Access with Reverse Proxy SAML
 NPA supports browser access with these providers:
@@ -3939,7 +4070,7 @@ Browser-based Access with Reverse Proxy SAML
 ## Zone Selection Based on User Identity
 **URL:** https://docs.netskope.com/en/zone-selection-based-on-user-identity/
 **Last Modified:** 2026-10-30T05:50:39+00:00
-**Scraped:** 2026-11-10T14:55:36.795511+00:00
+**Scraped:** 2026-11-11T14:14:18.896859+00:00
 
 Zone Selection Based on User Identity - Netskope Technical Documentation
 Zone Selection Based on User Identity
@@ -4010,9 +4141,8 @@ Zone Selection Based on User Identity
 ## Cloud Exchange SSO with Entra ID
 **URL:** https://docs.netskope.com/en/cloud-exchange-sso-with-entra-id/
 **Last Modified:** 2026-10-27T18:39:03+00:00
-**Scraped:** 2026-11-10T15:01:20.918176+00:00
+**Scraped:** 2026-11-11T14:20:36.431520+00:00
 
-Cloud Exchange SSO with Entra ID - Netskope Technical Documentation
 Cloud Exchange SSO with Entra ID
 This article explains how to configure Single-Sign-On (SSO) for the Netskope Cloud Exchange (CE) platform, specifically for Entra ID. This will allow you to manage administrator access to CE from within your existing Identity Provider (IdP) rather than configuring administrators within the platform manually.
 Cloud Exchange is different from the standard Netskope tenant you would have access to as a customer and facilitates the exchange of information between your various security and operations platforms.
@@ -4287,7 +4417,7 @@ Cloud Exchange SSO with Entra ID
 ## Cloud Exchange SSO with Okta
 **URL:** https://docs.netskope.com/en/cloud-exchange-sso-with-okta/
 **Last Modified:** 2026-10-27T18:39:11+00:00
-**Scraped:** 2026-11-10T15:01:22.043712+00:00
+**Scraped:** 2026-11-11T14:20:37.645649+00:00
 
 Cloud Exchange SSO with Okta - Netskope Technical Documentation
 Cloud Exchange SSO with Okta
@@ -4572,7 +4702,7 @@ Cloud Exchange SSO with Okta
 ## SAML Just-in-Time Provisioning
 **URL:** https://docs.netskope.com/en/saml-just-in-time-provisioning/
 **Last Modified:** 2026-11-03T20:29:30+00:00
-**Scraped:** 2026-11-10T15:01:51.285663+00:00
+**Scraped:** 2026-11-11T14:21:09.170093+00:00
 
 SAML Just-in-Time Provisioning - Netskope Technical Documentation
 SAML Just-in-Time Provisioning
