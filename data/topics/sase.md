@@ -1,12 +1,12 @@
 # Netskope Docs — Sase
-_Generated: 2026-11-15 14:36 UTC_
+_Generated: 2026-11-16 15:59 UTC_
 _Pages: 6_
 
 ---
 ## Borderless SD-WAN
 **URL:** https://docs.netskope.com/en/borderless-sd-wan/
 **Last Modified:** 2026-06-02T01:38:20+00:00
-**Scraped:** 2026-11-15T13:36:44.834852+00:00
+**Scraped:** 2026-11-16T14:53:25.295022+00:00
 
 Borderless SD-WAN - Netskope Technical Documentation
 Borderless SD-WAN
@@ -23,7 +23,7 @@ Borderless SD-WAN
 ## Netskope IPSec with Aruba EdgeConnect SD-WAN
 **URL:** https://docs.netskope.com/en/netskope-ipsec-with-aruba-edgeconnect-sd-wan/
 **Last Modified:** 2025-08-31T01:55:23+00:00
-**Scraped:** 2026-11-15T13:51:21.593592+00:00
+**Scraped:** 2026-11-16T15:08:33.431121+00:00
 
 Netskope IPSec with Aruba EdgeConnect SD-WAN - Netskope Technical Documentation
 Netskope IPSec with Aruba EdgeConnect SD-WAN
@@ -349,9 +349,8 @@ Netskope IPSec with Aruba EdgeConnect SD-WAN
 ## Netskope Borderless WAN Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-tenant-plugin/
 **Last Modified:** 2026-11-06T23:02:00+00:00
-**Scraped:** 2026-11-15T13:56:50.245107+00:00
+**Scraped:** 2026-11-16T15:14:13.589604+00:00
 
-Netskope Borderless WAN Tenant Plugin - Netskope Technical Documentation
 Netskope Borderless WAN Tenant Plugin
 Release Notes
 1.2.0 (Minimum required CE version 6.1.0)
@@ -751,9 +750,8 @@ Netskope Borderless WAN Tenant Plugin
 ## Netskope Borderless WAN Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-log-shipper/
 **Last Modified:** 2026-11-06T23:44:21+00:00
-**Scraped:** 2026-11-15T13:56:51.427449+00:00
+**Scraped:** 2026-11-16T15:14:14.798470+00:00
 
-Netskope Borderless WAN Plugin for Log Shipper - Netskope Technical Documentation
 Netskope Borderless WAN Plugin for Log Shipper
 Release Notes
 1.2.0
@@ -1252,8 +1250,9 @@ Netskope Borderless WAN Plugin for Log Shipper
 ## Netskope One SD-WAN Licensing Terms
 **URL:** https://docs.netskope.com/en/netskope-one-sd-wan-licensing-terms/
 **Last Modified:** 2026-08-14T17:15:50+00:00
-**Scraped:** 2026-11-15T14:08:36.545858+00:00
+**Scraped:** 2026-11-16T15:26:33.753328+00:00
 
+Netskope One SD-WAN Licensing Terms - Netskope Technical Documentation
 Netskope One SD-WAN Licensing Terms
 To learn more:
 Netskope One SD-WAN Licensing Terms
@@ -1265,7 +1264,7 @@ Netskope One SD-WAN Licensing Terms
 ## Netskope Borderless WAN Plugin for Risk Exchange
 **URL:** https://docs.netskope.com/en/netskope-borderless-wan-plugin-for-risk-exchange/
 **Last Modified:** 2026-11-06T04:24:47+00:00
-**Scraped:** 2026-11-15T14:13:16.908970+00:00
+**Scraped:** 2026-11-16T15:31:23.178841+00:00
 
 Netskope Borderless WAN Plugin for Risk Exchange
 Release Notes
