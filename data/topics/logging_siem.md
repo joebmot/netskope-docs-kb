@@ -1,12 +1,12 @@
 # Netskope Docs — Logging Siem
-_Generated: 2026-11-16 15:59 UTC_
-_Pages: 111_
+_Generated: 2026-11-17 16:39 UTC_
+_Pages: 112_
 
 ---
 ## Configure a Custom Log Parser
 **URL:** https://docs.netskope.com/en/configure-a-custom-log-parser/
 **Last Modified:** 2025-08-31T01:50:04+00:00
-**Scraped:** 2026-11-16T14:43:17.617132+00:00
+**Scraped:** 2026-11-17T15:30:49.402853+00:00
 
 Configure a Custom Log Parser - Netskope Technical Documentation
 Configure a Custom Log Parser
@@ -160,8 +160,9 @@ Configure a Custom Log Parser
 ## Discover Operational Technology in Device Intelligence
 **URL:** https://docs.netskope.com/en/discover-operational-technology-in-netskope-iot-security/
 **Last Modified:** 2025-08-31T01:47:50+00:00
-**Scraped:** 2026-11-16T14:45:52.658781+00:00
+**Scraped:** 2026-11-17T15:33:10.008930+00:00
 
+Discover Operational Technology in Device Intelligence - Netskope Technical Documentation
 Discover Operational Technology in Device Intelligence
 Device Intelligence supports the discovery and security of devices in the operational technology (OT) network. The solution provides visibility into various OT activities seen in the network like cold restart, write variable, etc.
 Note
@@ -178,9 +179,8 @@ Discover Operational Technology in Device Intelligence
 ## How to View “Netskope Audit Log Permissions – Read and Create” in Salesforce Profiles
 **URL:** https://docs.netskope.com/en/how-to-view-netskope-audit-log-permissions-read-and-create-in-salesforce-profiles/
 **Last Modified:** 2025-09-01T12:32:33+00:00
-**Scraped:** 2026-11-16T14:47:22.286253+00:00
+**Scraped:** 2026-11-17T15:34:35.100911+00:00
 
-How to View “Netskope Audit Log Permissions – Read and Create” in Salesforce Profiles - Netskope Technical Documentation
 How to View “Netskope Audit Log Permissions – Read and Create” in Salesforce Profiles
 Once you have installed the Netskope Audit Reports App, you can create a custom view in Salesforce to identify the profiles that leverage the Netskope Audit Report app. With this view, the customer can identify the profiles that will trigger an audit event in the Netskope UI.
 To create a custom view, follow the instructions below:
@@ -232,9 +232,8 @@ How to View “Netskope Audit Log Permissions – Read and Create” in Salesfor
 ## How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesforce Profiles
 **URL:** https://docs.netskope.com/en/how-to-assign-netskope-audit-log-permissions-read-and-create-to-salesforce-profiles/
 **Last Modified:** 2025-09-01T12:32:34+00:00
-**Scraped:** 2026-11-16T14:47:23.470323+00:00
+**Scraped:** 2026-11-17T15:34:36.233590+00:00
 
-How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesforce Profiles - Netskope Technical Documentation
 How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesforce Profiles
 How to Assign “Netskope Audit Log Permissions – Read and Create” to Salesforce Profiles
 Important
@@ -329,7 +328,7 @@ How to Assign “Netskope Audit Log Permissions - Read and Create” to Salesfor
 ## Key-Value Log Type
 **URL:** https://docs.netskope.com/en/key-value-log-type/
 **Last Modified:** 2025-08-31T01:50:06+00:00
-**Scraped:** 2026-11-16T14:47:52.776249+00:00
+**Scraped:** 2026-11-17T15:35:03.835363+00:00
 
 Key-Value Log Type - Netskope Technical Documentation
 Key-Value Log Type
@@ -369,7 +368,7 @@ Key-Value Log Type
 ## Upload Logs from Mac or Linux using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-from-mac-or-linux-using-sftp/
 **Last Modified:** 2025-08-31T01:50:04+00:00
-**Scraped:** 2026-11-16T14:52:04.054319+00:00
+**Scraped:** 2026-11-17T15:38:55.384051+00:00
 
 Upload Logs from Mac or Linux using SFTP - Netskope Technical Documentation
 Upload Logs from Mac or Linux using SFTP
@@ -410,7 +409,7 @@ Upload Logs from Mac or Linux using SFTP
 ## Upload Logs from Windows using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-from-windows-using-sftp/
 **Last Modified:** 2025-08-31T01:50:03+00:00
-**Scraped:** 2026-11-16T14:52:06.468120+00:00
+**Scraped:** 2026-11-17T15:38:57.664242+00:00
 
 Upload Logs from Windows using SFTP - Netskope Technical Documentation
 Upload Logs from Windows using SFTP
@@ -475,8 +474,9 @@ Upload Logs from Windows using SFTP
 ## Upload Logs to the Netskope Cloud
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-cloud/
 **Last Modified:** 2025-08-31T01:50:01+00:00
-**Scraped:** 2026-11-16T14:52:07.649742+00:00
+**Scraped:** 2026-11-17T15:38:58.911986+00:00
 
+Upload Logs to the Netskope Cloud - Netskope Technical Documentation
 Upload Logs to the Netskope Cloud
 You can upload the log files from your enterprise web proxy, next generation firewall, and other devices directly to your tenant instance in the Netskope cloud either from the Netskope tenant UI or using SFTP.
 Upload Logs to the Netskope Tenant UI
@@ -489,9 +489,8 @@ Upload Logs to the Netskope Cloud
 ## Action Logs
 **URL:** https://docs.netskope.com/en/user-risk-exchange-action-logs/
 **Last Modified:** 2026-02-05T19:31:52+00:00
-**Scraped:** 2026-11-16T14:54:20.340843+00:00
+**Scraped:** 2026-11-17T15:41:04.256708+00:00
 
-Action Logs - Netskope Technical Documentation
 Action Logs
 Action logs are logs of actions performed on users or hosts. A write-access user can view and filter through action logs to view actions taken.
 Go to
@@ -506,7 +505,7 @@ Action Logs
 ## AWS CloudTrail Lake Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-cloudtrail-lake-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:43:40+00:00
-**Scraped:** 2026-11-16T14:54:24.009798+00:00
+**Scraped:** 2026-11-17T15:41:07.663550+00:00
 
 AWS CloudTrail Lake Plugin for Log Shipper - Netskope Technical Documentation
 AWS CloudTrail Lake Plugin for Log Shipper
@@ -701,7 +700,7 @@ AWS CloudTrail Lake Plugin for Log Shipper
 ## AWS S3 Events and Alerts Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-s3-events-alerts-plugin-for-log-shipper/
 **Last Modified:** 2026-08-26T00:55:59+00:00
-**Scraped:** 2026-11-16T14:54:29.113678+00:00
+**Scraped:** 2026-11-17T15:41:12.443882+00:00
 
 AWS S3 Events and Alerts Plugin for Log Shipper - Netskope Technical Documentation
 AWS S3 Events and Alerts Plugin for Log Shipper
@@ -1567,7 +1566,7 @@ AWS S3 Events and Alerts Plugin for Log Shipper
 ## AWS S3 WebTx Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-s3-webtx-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:30:02+00:00
-**Scraped:** 2026-11-16T14:54:31.615678+00:00
+**Scraped:** 2026-11-17T15:41:14.787311+00:00
 
 AWS S3 WebTx Plugin for Log Shipper - Netskope Technical Documentation
 AWS S3 WebTx Plugin for Log Shipper
@@ -2322,7 +2321,7 @@ AWS S3 WebTx Plugin for Log Shipper
 ## Google Chronicle Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/chronicle-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:52:35+00:00
-**Scraped:** 2026-11-16T14:54:38.995679+00:00
+**Scraped:** 2026-11-17T15:41:21.644369+00:00
 
 Google Chronicle Plugin for Log Shipper - Netskope Technical Documentation
 Google Chronicle Plugin for Log Shipper
@@ -2616,9 +2615,8 @@ Google Chronicle Plugin for Log Shipper
 ## Configure 3rd-party Log Shipper Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-log-shipper-plugins/
 **Last Modified:** 2026-03-21T02:04:02+00:00
-**Scraped:** 2026-11-16T14:54:45.538820+00:00
+**Scraped:** 2026-11-17T15:41:27.349687+00:00
 
-Configure 3rd-party Log Shipper Plugins - Netskope Technical Documentation
 Configure 3rd-party Log Shipper Plugins
 Only write-access users can configure Log Shipper plugins. Log Shipper comes with the library of supported plugins. Plugins can be easily configured to ingest logs into multiple 3rd-party SIEM platforms by following the applicable plugin guide.
 You can also disable, enable, or delete existing plugin configurations. Log Shipper can be configured with multiple plugins to the same system for different workflows from either the same Netskope tenant or multiple Netskope tenants.
@@ -2663,7 +2661,7 @@ Configure 3rd-party Log Shipper Plugins
 ## Configure Log Shipper Log Delivery
 **URL:** https://docs.netskope.com/en/configure-log-shipper-siem-mappings/
 **Last Modified:** 2025-10-31T05:13:27+00:00
-**Scraped:** 2026-11-16T14:55:04.947274+00:00
+**Scraped:** 2026-11-17T15:41:45.942267+00:00
 
 Configure Log Shipper Log Delivery - Netskope Technical Documentation
 Configure Log Shipper Log Delivery
@@ -2697,7 +2695,7 @@ Configure Log Shipper Log Delivery
 ## Elastic Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/elastic-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:52:10+00:00
-**Scraped:** 2026-11-16T14:55:46.205548+00:00
+**Scraped:** 2026-11-17T15:42:25.086224+00:00
 
 Elastic Plugin for Log Shipper - Netskope Technical Documentation
 Elastic Plugin for Log Shipper
@@ -2917,7 +2915,7 @@ Elastic Plugin for Log Shipper
 ## Google Cloud Storage Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/google-cloud-storage-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:54:35+00:00
-**Scraped:** 2026-11-16T14:55:55.850432+00:00
+**Scraped:** 2026-11-17T15:42:34.302144+00:00
 
 Google Cloud Storage Plugin for Log Shipper - Netskope Technical Documentation
 Google Cloud Storage Plugin for Log Shipper
@@ -3049,7 +3047,7 @@ Google Cloud Storage Plugin for Log Shipper
 ## Google Cloud SCC Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/google-cloud-scc-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:06:32+00:00
-**Scraped:** 2026-11-16T14:55:57.104916+00:00
+**Scraped:** 2026-11-17T15:42:35.498946+00:00
 
 Google Cloud SCC Plugin for Log Shipper - Netskope Technical Documentation
 Google Cloud SCC Plugin for Log Shipper
@@ -3452,7 +3450,7 @@ Google Cloud SCC Plugin for Log Shipper
 ## Logging
 **URL:** https://docs.netskope.com/en/logging/
 **Last Modified:** 2025-10-31T01:16:14+00:00
-**Scraped:** 2026-11-16T14:56:14.049768+00:00
+**Scraped:** 2026-11-17T15:42:51.873797+00:00
 
 Logging - Netskope Technical Documentation
 Logging
@@ -3497,7 +3495,7 @@ Logging
 ## Logs
 **URL:** https://docs.netskope.com/en/logs/
 **Last Modified:** 2025-10-31T01:27:09+00:00
-**Scraped:** 2026-11-16T14:56:16.539309+00:00
+**Scraped:** 2026-11-17T15:42:54.152574+00:00
 
 Logs - Netskope Technical Documentation
 Logs
@@ -3525,7 +3523,7 @@ Logs
 ## Manage Log Shipper Business Rules
 **URL:** https://docs.netskope.com/en/manage-log-shipper-business-rules/
 **Last Modified:** 2025-10-31T05:03:29+00:00
-**Scraped:** 2026-11-16T14:56:18.940069+00:00
+**Scraped:** 2026-11-17T15:42:56.528591+00:00
 
 Manage Log Shipper Business Rules - Netskope Technical Documentation
 Manage Log Shipper Business Rules
@@ -3571,7 +3569,7 @@ Manage Log Shipper Business Rules
 ## Microsoft Sentinel Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-sentinel-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:38:02+00:00
-**Scraped:** 2026-11-16T14:56:28.567647+00:00
+**Scraped:** 2026-11-17T15:43:05.644793+00:00
 
 Microsoft Sentinel Plugin for Log Shipper - Netskope Technical Documentation
 Microsoft Sentinel Plugin for Log Shipper
@@ -3865,7 +3863,7 @@ Microsoft Sentinel Plugin for Log Shipper
 ## Microsoft Azure Storage Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-storage-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:56:26+00:00
-**Scraped:** 2026-11-16T14:56:29.783386+00:00
+**Scraped:** 2026-11-17T15:43:06.777801+00:00
 
 Microsoft Azure Storage Plugin for Log Shipper - Netskope Technical Documentation
 Microsoft Azure Storage Plugin for Log Shipper
@@ -3979,18 +3977,57 @@ Microsoft Azure Storage Plugin for Log Shipper
 ---
 ## Microsoft Azure Monitor Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-monitor-plugin-for-log-shipper/
-**Last Modified:** 2026-04-06T23:55:20+00:00
-**Scraped:** 2026-11-16T14:56:30.995646+00:00
+**Last Modified:** 2026-11-17T01:15:25+00:00
+**Scraped:** 2026-11-17T15:43:07.928363+00:00
 
+Microsoft Azure Monitor Plugin for Log Shipper - Netskope Technical Documentation
 Microsoft Azure Monitor Plugin for Log Shipper
-This document explains how to configure the Microsoft Azure Monitor v2.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status). The data will be ingested in the Microsoft Azure Monitor Log Analytics Workspace table. This plugin supports ingestion in CEF and JSON format.
+Release Notes
+2.1.0 (Requires minimum Cloud Exchange version 6.1.0)
+Added
+Added an Azure Cloud configuration parameter to support Azure US Government, Azure China (21Vianet), and custom Azure clouds.
+Added validation of the DCE URI format, and a check that it belongs to the selected Azure Cloud.
+Changed
+Updated the default mappings.
+Renamed the Incident ID field of Network events to transaction_id in the default mapping.
+Fixed
+Fixed AADSTS900382 (Confidential Client is not supported in Cross Cloud request) for non-public cloud tenants.
+Fixed ingestion requests exceeding the 1 MB API limit when the data contains non-ASCII characters.
+Fixed retry handling for API rate limit (429) and server (5xx) errors, which were not retried.
+2.0.0
+Added
+Added support for the Content and Device alert types.
+Added support for Client Status and Endpoint events.
+Added support for JA3 fields in Application events.
+Added support for invoking mapping validation separately.
+Added support for a log source identifier.
+Changed
+Enhanced the efficiency of database interactions.
+Updated the mappings for Network events and Audit events.
+1.1.0
+Added
+Added support for the Incident event type. To pull and ingest this event type, update your Cloud Exchange version to 4.1.0.
+Added support for the CTEP alert type. To pull and ingest this alert type, update your Cloud Exchange version to 4.2.0.
+1.0.0
+Added
+Initial release.
+This document explains how to configure the Microsoft Azure Monitor v2.1.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of:
+Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status).
+The data will be ingested in the Microsoft Azure Monitor Log Analytics Workspace table. This plugin supports ingestion in CEF and JSON format.
 Prerequisites
+To complete this configuration, you need:
 A Netskope tenant (or multiple, for example, production and development/test instances).
 A Netskope Cloud Exchange tenant with the
 Tenant plugin
 and
 Log Shipper
 plugin already configured.
+The
+AWS Log Streaming plugin
+and
+Azure Log Streaming plugin
+already configured, for ingesting alerts, events and WebTx from the Netskope Log Streaming plugin.
 The Microsoft Azure Application’s Tenant ID, Client ID and Client Secret.
 A Microsoft Azure Log Analytic Workspace.
 A Microsoft Azure Monitor Data Collection Endpoint.
@@ -3998,8 +4035,16 @@ A Microsoft Azure Monitor Data Collection Rule.
 Connectivity to the following host:
 https://portal.azure.com/
 .
+To store the plugin credentials in a secrets manager, refer to
+Secrets Manager
+. To set up Azure Key Vault as your secrets manager, refer to
+Prerequisites for Azure Key Vault Secrets Manager
+.
 Microsoft Azure Monitor Plugin Support
-This plugin supports ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status). The data will be ingested in the Microsoft Azure Monitor Log Analytics Workspace table. This plugin supports ingestion in CEF and JSON format.
+This plugin supports ingestion of:
+Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status).
+The data will be ingested in the Microsoft Azure Monitor Log Analytics Workspace table. This plugin supports ingestion in CEF and JSON format.
 Data Type
 Support
 Event Support
@@ -4015,15 +4060,18 @@ List of APIs Used
 API Endpoint
 Method
 Use case
+<Azure Cloud base URL>
 /{tenant_id}/oauth2/v2.0/token
 POST
 Generate access token
 {dce_uri}/dataCollectionRules/{dcr_immutable_id}/streams/Custom-{custom_log_table_name}?api-version=2023-01-01
 POST
 Ingest data
-Generate Token
+Generate Access Token
 API Endpoint:
-https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token
+https://
+<Azure Cloud base URL>
+/{tenant_id}/oauth2/v2.0/token
 Method:
 POST
 Headers
@@ -4032,22 +4080,20 @@ Value
 Content-Type
 application/x-www-form-urlencoded
 User-Agent
-netskope-ce-6.0.1-cls-microsoft-azure-monitor-v2.0.0
+netskope-ce-7.0.0-cls-microsoft-azure-monitor-v2.1.0
 Body:
 {
-"client_id": "
-<client_id>
-",
-"client_secret": "<application_secret>",
-"scope": "https://monitor.azure.com/.default",
-"grant_type": "client_credentials",
+    "client_id": "<client_id>",
+    "client_secret": "<application_secret>",
+    "scope": "https://monitor.azure.com/.default",
+    "grant_type": "client_credentials",
 }
 Sample API Response
 {
-"token_type": "Bearer",
-"expires_in": 3599,
-"ext_expires_in": 3599,
-"access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6InNNMV95QXhWOEdWNHlOLUI2ajJ4em1pazVBbyIsImtpZCI6InNNMV95QXhWOEdWNHlOLUI2ajJ4em1pazVBbyJ9.eyJhdWQiOiJodHRwczovL21vbml0b3IuYXp1cmUuY29tIiwiaXNzIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvZTA0MDU2MDYtNmMw…."
+    "token_type": "Bearer",
+    "expires_in": 3599,
+    "ext_expires_in": 3599,
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6InNNMV95QXhWOEdWNHlOLUI2ajJ4em1pazVBbyIsImtpZCI6InNNMV95QXhWOEdWNHlOLUI2ajJ4em1pazVBbyJ9.eyJhdWQiOiJodHRwczovL21vbml0b3IuYXp1cmUuY29tIiwiaXNzIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvZTA0MDU2MDYtNmMw…."
 }
 Ingest data
 API Endpoint:
@@ -4063,19 +4109,19 @@ Bearer
 Content-Type
 application/json
 User-Agent
-netskope-ce-6.0.1-cls-microsoft-azure-monitor-v2.0.0
-Request Body:
+netskope-ce-7.0.0-cls-microsoft-azure-monitor-v2.1.0
+Request Body
 {
-"RawData": "ID=a39cdxxxx5caexx52fd47a6a cnt=1 device=qP7NPtp5bTHzxxxxdho_AA0B8A97-xxxx-xxxx-AF0E-xxxxxx deviceExternalId=xxxxxx-9798-B907-xxxx-6029DF2F6EB2 dvchost=VMware, Inc. hostname=XXXXX-GNO7JR8 managementId=null os=0 osVersion=10.0.19045 slat=0.0 slong=0.0 smac=xx:0C:29:xx:F7:A1 suid=xxxxPtp5bTHzcR69xxxx suser=abc@test.ai timestamp=0",
-"Application": "Netskope CE",
-"DataType": "<data_type>",
-"SubType": "<sub_type>",
-"TimeGenerated": "2025-05-05 17:56:57.823408"
+    "RawData": "ID=a39cdxxxx5caexx52fd47a6a cnt=1 device=qP7NPtp5bTHzxxxxdho_AA0B8A97-xxxx-xxxx-AF0E-xxxxxx deviceExternalId=xxxxxx-9798-B907-xxxx-6029DF2F6EB2 dvchost=VMware, Inc. hostname=XXXXX-GNO7JR8 managementId=null os=0 osVersion=10.0.19045 slat=0.0 slong=0.0 smac=xx:0C:29:xx:F7:A1 suid=xxxxPtp5bTHzcR69xxxx suser=abc@test.ai timestamp=0",
+    "Application": "Netskope CE",
+    "DataType": "<data_type>",
+    "SubType": "<sub_type>",
+    "TimeGenerated": "2025-05-05 17:56:57.823408"
 }
-Sample API Response:
+Sample API Response
 204 No Content
 Performance Matrix
-This performance reading is for a Large Stack CE tested on the below-mentioned VM specifications. The below readings are added with the consideration that it will ingest around 10K file size in 2 seconds for Events, Alerts.
+This performance reading is for a Large Stack CE tested on the below-mentioned VM specifications. These readings are added with the consideration that it will ingest around 10K file size in 2 seconds for Events, Alerts.
 Description
 Specifications
 Stack details
@@ -4085,7 +4131,7 @@ CPU: 16 Cores
 Events, Alerts ingested to third-party SIEM
 300K EPM
 User Agent
-netskope-ce-6.0.1-cls-microsoft-azure-monitor-v2.0.0
+netskope-ce-7.0.0-cls-microsoft-azure-monitor-v2.1.0
 Workflow
 Configure a Log Analytics Workspace.
 Configure an Application and get your Tenant ID, Application ID and Client Secret.
@@ -4141,18 +4187,20 @@ Enter a name for the Data collection Endpoint, select a Subscription and Resourc
 Review + create
 .
 On the Overview tab, copy the Logs Ingestion that will be your Data Collection Endpoint DCE URI.
-Configure a Basic Table in Log Analytics Workspace and get your Data Collection Rule Immutable ID
+Configure a Basic Table in the Monitor Workspace and get your Data Collection Rule Immutable ID
 A Custom Log Analytics Table requires sample data to be uploaded in order to create a JSON file on your system with the following content:
-[
-{
-"RawData": {},
-"Application":  "",
-"DataType": "",
-"SubType": "",
-"TimeGenerated": "2022-11-01 12:00:00.576165"
-}
+[   
+    {         
+        "RawData": {},         
+        "Application":  "",         
+        "DataType": "", 
+        "SubType": "", 
+        "TimeGenerated": "2022-11-01 12:00:00.576165"     
+    } 
 ]
-On the Azure home tab, go to Log Analytics Workspace, select the workspace created previously, select
+On the Azure home tab, go to
+Log Analytics Workspace
+, select the workspace created previously, select
 Tables
 . Click
 Create
@@ -4177,11 +4225,10 @@ Create
 A Custom Log Table will be created with the suffix
 _CL
 .
-Note
 Here we are changing the table Plan from Analytics to Basic because the Basic log data plan lets you save on the cost of ingesting, and storing high-volume verbose logs in your Log Analytics workspace for debugging, troubleshooting, and auditing.If table plan is not changed and kept as Analytics, the Logs will still be ingested in the Table without any issue.The Analytics table has a configurable retention period from 30 days to 730 days. The Basic table has Retention fixed at eight days.Basic Logs tables retain data for eight days. When you change an existing table’s plan to Basic Logs, Azure archives data that’s more than eight days old, but still within the table’s original retention period.
 To get the Data Collection Immutable ID, go to Home, select
 Monitor
-from the
+from
 Azure Services > Data Collection Rules
 , and then select the DCR you created while creating the Custom Table.
 In the Overview tab, click
@@ -4214,7 +4261,7 @@ In Cloud Exchange, go to
 Settings > Plugin Store
 .
 Search for and select the
-Microsoft Azure Monitor v2.0.0 CLS)
+Microsoft Azure Monitor v2.1.0 (CLS)
 plugin.
 Enter a Configuration Name a select a valid Mapping. (Default Mappings for all plugins are available. If you want to create a new mapping, go to
 Settings > Log Shipper > Mappings
@@ -4229,8 +4276,12 @@ Application (client) ID:
 Application (client) ID of your AzureAD Application.
 Client Secret:
 Client Secret of your AzureAD Application.
+Azure Cloud:
+The Azure cloud that hosts your Microsoft Entra ID application and Log Analytics Workspace. Cloud Exchange requests the access token from the selected cloud’s Entra ID endpoint. Select
+Custom Cloud
+for any other Azure cloud, and then provide the Custom Authority Host and Custom Token Scope.
 DCE URI:
-URI of the Data Collector Endpoint.
+URI of the Data Collector Endpoint. Cloud Exchange validates that the DCE URI matches the selected Azure Cloud.
 DCR Immutable ID:
 Immutable ID of the Data Collection Rule.
 Custom Log Table Name:
@@ -4239,7 +4290,9 @@ Log Source Identifier:
 This will be added in Application field of the Custom Log Table.
 Click
 Save
-.
+. Your new plugin appears on the
+Log Shipper > Plugins
+page.
 Configure a Log Shipper Business Rule for Microsoft Azure Monitor
 In Log Shipper, go to
 Business Rules
@@ -4253,9 +4306,7 @@ Enter a Folder Name, if any.
 Click
 Save
 .
-Configure Log Shipper Log Delivery
-(SIEM Mappings)
-for Azure Monitor
+Configure Log Shipper Log Delivery for Microsoft Azure Monitor
 In Log Shipper, go to
 Log Delivery
 and click
@@ -4265,7 +4316,7 @@ Select a Source Configuration, Destination Configuration, and Business Rule.
 Click
 Save
 .
-After the SIEM mapping is added, the data will start to be pulled from the Netskope tenant and ingested into the Azure Monitor platform.
+After Log Delivery is added, the data will start to be pulled from the Netskope tenant and ingested into the Azure Monitor platform.
 Validate the Microsoft Azure Monitor Plugin
 Validate the Pull
 To validate the pulling of indicators from the Netskope tenant.
@@ -4292,7 +4343,7 @@ Run
 . You can select the Time Range from the top to filter out logs.
 You can verify the events/alerts by expanding:
 Also, here are the ingested alerts/events in JSON format:
-Troubleshooting
+Troubleshooting the Microsoft Azure Monitor Plugin
 If receive error code 403 while configuring the plugin in toast and log message
 Ensure that you have the correct permissions for your application to the DCR. Check if you have assigned permissions to the correct Data Collection endpoint as described above. It may take up to 30 minutes to reflect the assigned permissions.
 Difficulties in saving the Microsoft Azure Monitor plugin
@@ -4317,7 +4368,7 @@ Microsoft Azure Monitor Plugin for Log Shipper
 ## Microsoft Defender for Cloud Apps Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-cloud-apps-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:56:56+00:00
-**Scraped:** 2026-11-16T14:56:34.786414+00:00
+**Scraped:** 2026-11-17T15:43:11.605019+00:00
 
 Microsoft Defender for Cloud Apps Plugin for Log Shipper - Netskope Technical Documentation
 Microsoft Defender for Cloud Apps Plugin for Log Shipper
@@ -4745,7 +4796,7 @@ Microsoft Defender for Cloud Apps Plugin for Log Shipper
 ## Rapid7 Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/rapid7-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:42:45+00:00
-**Scraped:** 2026-11-16T14:57:17.519072+00:00
+**Scraped:** 2026-11-17T15:43:51.984517+00:00
 
 Rapid7 Plugin for Log Shipper - Netskope Technical Documentation
 Rapid7 Plugin for Log Shipper
@@ -4980,9 +5031,8 @@ Rapid7 Plugin for Log Shipper
 ## QRadar Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/qradar-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T03:45:39+00:00
-**Scraped:** 2026-11-16T14:57:18.724386+00:00
+**Scraped:** 2026-11-17T15:43:53.128279+00:00
 
-QRadar Plugin for Log Shipper - Netskope Technical Documentation
 QRadar Plugin for Log Shipper
 This document explains how to configure your QRadar integration with the Log Shipper module of the Netskope Cloud Exchange platform. This integration allows pushing alerts, events, and WebTx from Netskope to the QRadar platform.
 Prerequisites
@@ -5153,7 +5203,7 @@ QRadar Plugin for Log Shipper
 ## Secureworks Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/secureworks-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T03:48:19+00:00
-**Scraped:** 2026-11-16T14:57:33.317754+00:00
+**Scraped:** 2026-11-17T15:44:06.795889+00:00
 
 Secureworks Plugin for Log Shipper - Netskope Technical Documentation
 Secureworks Plugin for Log Shipper
@@ -5298,11 +5348,29 @@ Secureworks Plugin for Log Shipper
 ---
 ## Syslog Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/syslog-plugin-for-log-shipper/
-**Last Modified:** 2026-07-17T21:39:09+00:00
-**Scraped:** 2026-11-16T14:57:53.284710+00:00
+**Last Modified:** 2026-11-16T23:04:46+00:00
+**Scraped:** 2026-11-17T15:44:25.240215+00:00
 
 Syslog Plugin for Log Shipper
 Release Notes
+4.2.0 (Minimum required Cloud Exchange version 6.1.0)
+Added
+Added the
+details
+field to the default CEF mapping of Audit events.
+Added the
+last_seen_device_event
+fields (event, actor, event details, NPA status, service name, status, status v2, and timestamp) to the default CEF mapping of Client Status events.
+Added a resolution to the error logs.
+Added mappings for BWAN Network events (Flow/Traffic logs) and BWAN Alert (Alert(V2)) logs.
+Changed
+The log type and Device Event Class ID are now mapped from the
+ce_log_type
+field in the default mapping of Logs.
+Changed warning logs to debug logs.
+The Syslog Port is now validated to be in the range 1 to 65535.
+Fixed
+Fixed TLS protocol support for Python 3.12 and later.
 4.1.2
 Changed
 Updated WebTx mappings to support Transaction Events universal field updates.
@@ -5379,7 +5447,13 @@ Transformations from the plugin.
 1.0.0
 Added
 Initial release.
-This document explains how to configure the Syslog v4.1.2 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status), BWAN Events (Authentication, Audit, Client, Gateway, System), WebTx and Logs (Debug, Information, Error, Warning). The data will be ingested in the SIEM platform. This plugin supports ingestion in CEF and JSON format.
+This document explains how to configure the Syslog v4.2.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of:
+Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status)
+BWAN Events (Authentication, Audit, Client, Gateway, System, Network (Flow/Traffic Logs))
+BWAN Alert (Alert(V2))
+WebTx and Logs (Debug, Information, Error, Warning).
+The data will be ingested in the SIEM platform. This plugin supports ingestion in CEF and JSON format.
 Prerequisites
 To complete this configuration, you need:
 A Netskope tenant (or multiple, for example, production and development/test instances).
@@ -5398,10 +5472,15 @@ Azure Log Streaming plugin
 already configured, for ingesting alerts, events and WebTx from the Netskope Log Streaming plugin.
 A Splunk instance.
 Connectivity to a syslog server.
+For Secret Manager configuration, refer to the
+Secrets Manager documentation
+. To set up Azure Key Vault Secrets Manager, refer to the
+Azure Key Vault Secrets Manager prerequisites
+.
 Note
 Endpoint event type requires minimum CE version to be 5.1.0. BWAN events, Events of type Client Status, and Alerts of type Device and Content requires minimum CE version to be 5.1.1.
 Syslog Plugin Support
-The Syslog plugin is used to ingest all the Alert, Events, WebTx, and Syslog CE Logs in CEF and JSON format to the specified syslog server. This plugin also supports ingestion of alerts, events and WebTx from the Netskope Log Streaming plugins.
+The Syslog plugin is used to ingest Alerts, Events, BWAN Events, BWAN Alerts, WebTx, and Syslog CE Logs in CEF and JSON format to the specified syslog server. This plugin also supports ingestion of alerts, events, and WebTx from the Netskope Log Streaming plugins.
 Data Type
 Support
 Events
@@ -5411,7 +5490,9 @@ Yes (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediat
 Syslog CE Logs
 Yes (Info, Error, Warning, Debug)
 BWAN Events
-Yes (Authentication, Audit, Client, Gateway, System)
+Yes (Authentication, Audit, Client, Gateway, System, Network (Flow/Traffic Logs))
+BWAN Alerts
+Yes (Alerts (V2))
 WebTx
 Yes (via Netskope LogStreaming)
 API Details
@@ -5448,7 +5529,7 @@ Adds the specified handler
 hdlr
 to this logger.
 Performance Matrix
-This performance reading was conducted on a Large Stack in Cloud Exchange with these VM specifications. These readings are added with the consideration that it will ingest around 10k Netskope alerts/events in 2 seconds to the SIEM.
+This performance reading was conducted on a Large Stack in Cloud Exchange with these VM specifications.
 Description
 Specification
 Stack details
@@ -5457,7 +5538,7 @@ RAM: 32 GB
 CPU: 16 Cores
 Alerts/Events ingested to SIEM
 ~200k EPM
-WebTx (via Netskope LogStreaming) ingested to SIEM (uncompressed)
+WebTx (via Netskope LogStreaming) ingested to SIEM
 ~165k EPM
 Performance for Alerts/Events was conducted using the Netskope Log Shipper plugin, and for WebTx, the Azure Netskope Log Streaming plugin was used.
 Workflow
@@ -5486,7 +5567,7 @@ Select the Source type if you already have any, or click
 New
 to create a new Source type.
 Enter the Source type. Select the Source Type Category based on your requirement, or keep it as it is.
-Scroll down to Index. If you already have any index that you want to use. Select it from the Index dropdown; otherwise, click
+Scroll down to Index. If you already have any index that you want to use, select it from the Index dropdown; otherwise, click
 Create a new index
 . Add an Index Name, and click
 Save
@@ -5503,7 +5584,7 @@ Configure the Syslog Plugin for the Splunk Integration
 In Cloud Exchange, go to
 Settings > Plugin Store
 . Search for and select the
-Syslog v4.1.2 (CLS)
+Syslog v4.2.0 (CLS)
 plugin.
 Enter a plugin configuration name and make sure you have the Syslog Default Mapping file selected if you want to use CEF format.
 To ingest data in JSON format, select format as
@@ -5517,7 +5598,7 @@ IP address/FQDN of the Syslog server where the data will be ingested.
 Syslog Protocol
 :  Protocol to be used while ingesting data.
 Syslog Port:
-The port used while creating the Data input configuration on Splunk.
+The port used while creating the Data input configuration on Splunk. Enter a value from 1 to 65535.
 Syslog Certificate:
 Certificate is required only for TLS protocol.
 Log source Identifier:
@@ -5543,10 +5624,12 @@ Save
 Log Shipper > Plugins
 page.
 Configure a Log Shipper Business Rule for the Splunk Integration
-Go to the Business Rule page.
+In Log Shipper, go to the
+Business Rules
+.
 By default, there is a business rule that filters all alerts and events. If you want to filter out any specific type of alert or event, click
 Create New Rule
-and configure a new business rule by adding the rule name and filter.
+and configure a new business rule by adding the rule name and filter(s).
 Click
 Save
 .
@@ -5556,15 +5639,16 @@ Log Delivery
 and click
 Add Log Delivery Configuration
 .
-Select the Source plugin (CLS Netskope or any other source plugin), Destination plugin (CLS Syslog), your business rule, and click
-Save
-.
+Select the Source plugin (CLS Netskope or any other source plugin), Destination plugin (CLS Syslog), your business rule.
 For WebTx, select the Source plugin (CLS Netskope WebTx) and Destination plugin (CLS Syslog).
 For Logs sharing, select the Source plugin (CLS Cloud Exchange Logs) and Destination plugin (CLS Syslog).
 After the Log Delivery is added, the data will start to be pulled from the Netskope tenant or source platform, then transformed and ingested into the Syslog platform.
+Click
+Save
+.
 Validate the Syslog with Splunk Plugin
 Validate the Pull
-To validate the pulling of Events, Alerts, logs, BWAN events and Webtx from the Netskope tenant.
+To validate the pulling of Events, Alerts, logs, BWAN events and WebTx from the Netskope tenant:
 Go to the
 Logging
 in Cloud Exchange and search for the pulled logs.
@@ -5588,8 +5672,8 @@ This is how BWAN Events look from plugin to Splunk:
 This is how Syslog for CE Logs look from plugin to Splunk:
 This is how WebTx data look from plugin to Splunk:
 This is how Data looks when shared in JSON from plugin to Splunk (unparsed format):
-Here is how the data will look if ingested in JSON format without Timestamp and Log source identifier fields:
-Below is how the data will look if ingested in JSON format without Priority Field:
+This is how the data will look if ingested in JSON format without Timestamp and Log source identifier fields:
+This is how the data will look if ingested in JSON format without Priority Field:
 Sample ingested data in JSON format with custom mapping having only selected fields:
 Troubleshooting the Syslog Plugin
 An error occurred while configuring the Syslog Plugin
@@ -5598,6 +5682,7 @@ Save
 , an error may occur, possibly due to one of these reasons:
 The server/port configuration may differ from the specified settings (Netskope CE/Splunk).
 The port is not exposed on the Splunk server.
+An error appears when you use the TLS protocol in Cloud Exchange v7.0.0.
 What to do
 :
 In the Splunk Platform, go to
@@ -5606,6 +5691,7 @@ and click
 Data inputs > TCP
 (whichever configuration you have used). Check that both are the same.
 Expose the Port on the Splunk server.
+Update the plugin to v4.2.0 or later and save the plugin configuration with the TLS protocol.
 Nested fields are not mapped properly while ingesting data via Syslog plugin
 On the older versions of Syslog plugin, you will not be able to map the nested fields. This issue is resolved in the latest version of the Syslog plugin.
 What to do:
@@ -5613,7 +5699,7 @@ Upgrade the Syslog plugin to Syslog v4.0.1 or above.
 Note
 Users will not be able to directly map any fields inside a list. They can only map the nested fields present inside a JSON value.
 An error occurred while ingesting data from Cloud Exchange to Syslog
-If you are unable to push alerts/events/logs/webtx data on the Syslog platform, then it could be due to one of these reasons:
+If you are unable to push alerts/events/logs/WebTx data on the Syslog platform, then it could be due to one of these reasons:
 Port is deleted/disabled on the Syslog platform.
 Splunk server storage is full.
 What to do
@@ -5621,15 +5707,15 @@ What to do
 Make sure the port is present and enabled. If not, then create a new port.
 Make sure to clean the event data if not necessary, or increase the storage of the Splunk server.
 If ingested data is not reflected on the Syslog Platform
-If you are unable to view alerts/events/logs/webtx data on the Syslog platform, it could be due to one of these reasons:
+If you are unable to view alerts/events/logs/WebTx data on the Syslog platform, it could be due to one of these reasons:
 The filter is not correct on the Splunk platform.
 There might be any error, but UDP is selected in the Port while configuring the syslog plugin, so ingested logs are not visible.
 What to do
 :
 Make sure Data is searched using the correct filter.
 Make sure to select the TCP port to check if there is any issue.
-Webtx data skipped due to parser order of Configured Log Streaming or disabled x-cs-timestamp field
-If the Webtx data is not ingested to the destination it may be due to incorrect mapping used while configuring the Syslog plugin or disabled x-cs-timestamp field. The default mappings for Syslog v4.1.2 are compatible with parser order 2.
+WebTx data skipped due to parser order of Configured Log Streaming or disabled x-cs-timestamp field
+If the WebTx data is not ingested to the destination it may be due to incorrect mapping used while configuring the Syslog plugin or disabled x-cs-timestamp field. The default mappings for Syslog v4.1.2 and later are compatible with parser order 2.
 What to do
 :
 Update the parser order of your Log Streaming on the Netskope tenant to
@@ -5657,7 +5743,7 @@ Events > Network > Extension > networkSessionId > Select Type “String”
 Save
 .
 Use the updated mapping file in plugin configuration.
-Known Behavior
+Known Behaviors
 You may encounter escape characters in the ingested data due to several factors, such as accented characters (in English), characters of languages other than English, non-breaking spaces, newline characters, and other special formatting symbols.
 Here, there are Japanese characters that were ingested, which looked like
 \\u4ed5\\u4e8b
@@ -5673,7 +5759,9 @@ Yes
 , or the content of any of the fields is very large.
 We have observed that some of the fields are very large and they have length beyond the maximum length supported by the Netskope Cloud Exchange. Due to this, you may encounter the below warning and you may observe that the ingested event is incomplete as rest of the values will be skipped.
 We tested the plugin using a Splunk instance for data ingestion and observed the following behavior:
-When the Exclude timestamp field is set to Yes, the data is ingested using the current local timestamp.
+When the Exclude timestamp field is set to
+Yes
+, the data is ingested using the current local timestamp. Splunk may consider multiple events/alerts as a single event when the Exclude timestamp field is set to Yes.
 When the Exclude timestamp field is set to No, the data is ingested using the current UTC timestamp.
 In this Topic
 Syslog Plugin for Log Shipper
@@ -5682,9 +5770,8 @@ Syslog Plugin for Log Shipper
 ## Update Configured Log Shipper Plugins
 **URL:** https://docs.netskope.com/en/update-configured-log-shipper-plugins-2/
 **Last Modified:** 2026-10-29T19:22:39+00:00
-**Scraped:** 2026-11-16T14:58:03.062155+00:00
+**Scraped:** 2026-11-17T15:44:34.669300+00:00
 
-Update Configured Log Shipper Plugins - Netskope Technical Documentation
 Update Configured Log Shipper Plugins
 Only write-access users can update configured plugins.
 A write-access user can edit, disable/enable and delete the configuration using options available on created configuration by selecting the edit icon (pencil), the disable icon (circle and slash), or the delete icon (trash).
@@ -5695,8 +5782,9 @@ Update Configured Log Shipper Plugins
 ## Get Log Upload Token
 **URL:** https://docs.netskope.com/en/get-log-upload-token/
 **Last Modified:** 2025-08-31T01:39:22+00:00
-**Scraped:** 2026-11-16T15:00:29.017662+00:00
+**Scraped:** 2026-11-17T15:46:53.232131+00:00
 
+Get Log Upload Token - Netskope Technical Documentation
 Get Log Upload Token
 This endpoint returns the log upload token. Only the token parameter is needed.
 POST https://
@@ -5712,7 +5800,7 @@ Get Log Upload Token
 ## Import and Export CSA Custom Rules
 **URL:** https://docs.netskope.com/en/import-and-export-csa-custom-rules/
 **Last Modified:** 2025-08-31T01:39:40+00:00
-**Scraped:** 2026-11-16T15:00:37.464017+00:00
+**Scraped:** 2026-11-17T15:47:01.417722+00:00
 
 Import and Export CSA Custom Rules - Netskope Technical Documentation
 Import and Export CSA Custom Rules
@@ -5843,7 +5931,7 @@ Import and Export CSA Custom Rules
 ## Set Log In Attempts
 **URL:** https://docs.netskope.com/en/set-log-in-attempts-85093/
 **Last Modified:** 2025-08-31T01:38:53+00:00
-**Scraped:** 2026-11-16T15:01:34.598955+00:00
+**Scraped:** 2026-11-17T15:47:55.361898+00:00
 
 Set Log In Attempts - Netskope Technical Documentation
 Set Log In Attempts
@@ -5863,8 +5951,9 @@ Set Log In Attempts
 ## Set Log In Attempts
 **URL:** https://docs.netskope.com/en/set-log-in-attempts/
 **Last Modified:** 2025-09-01T12:45:32+00:00
-**Scraped:** 2026-11-16T15:01:36.968711+00:00
+**Scraped:** 2026-11-17T15:47:57.804891+00:00
 
+Set Log In Attempts - Netskope Technical Documentation
 Set Log In Attempts
 You can specify the number of log in attempts that can be allowed before the admin user is locked out of the UI. The default setting allows up to 5 failed login attempts.
 To set log in attempts:
@@ -5882,7 +5971,7 @@ Set Log In Attempts
 ## Using the REST API v2 dataexport  Iterator Endpoints
 **URL:** https://docs.netskope.com/en/using-the-rest-api-v2-dataexport-iterator-endpoints/
 **Last Modified:** 2026-05-01T16:03:26+00:00
-**Scraped:** 2026-11-16T15:02:16.772427+00:00
+**Scraped:** 2026-11-17T15:48:35.921423+00:00
 
 Using the REST API v2 dataexport  Iterator Endpoints
 The Netskope
@@ -6044,7 +6133,7 @@ Using the REST API v2 dataexport  Iterator Endpoints
 ## Advanced Log Upload Commands
 **URL:** https://docs.netskope.com/en/advanced-log-upload-commands-144862/
 **Last Modified:** 2026-08-18T17:37:06+00:00
-**Scraped:** 2026-11-16T15:02:28.773324+00:00
+**Scraped:** 2026-11-17T15:48:47.504789+00:00
 
 Advanced Log Upload Commands - Netskope Technical Documentation
 Advanced Log Upload Commands
@@ -6097,7 +6186,7 @@ Advanced Log Upload Commands
 ## Advanced Log Upload Commands
 **URL:** https://docs.netskope.com/en/advanced-log-upload-commands/
 **Last Modified:** 2026-08-18T17:18:26+00:00
-**Scraped:** 2026-11-16T15:02:31.160050+00:00
+**Scraped:** 2026-11-17T15:48:49.789323+00:00
 
 Advanced Log Upload Commands - Netskope Technical Documentation
 Advanced Log Upload Commands
@@ -6150,8 +6239,9 @@ Advanced Log Upload Commands
 ## Configure a Login Banner
 **URL:** https://docs.netskope.com/en/configure-a-login-banner/
 **Last Modified:** 2026-08-18T17:02:48+00:00
-**Scraped:** 2026-11-16T15:02:42.194444+00:00
+**Scraped:** 2026-11-17T15:48:59.966435+00:00
 
+Configure a Login Banner - Netskope Technical Documentation
 Configure a Login Banner
 When you log into your virtual appliance, the default login banner for the Netskope Appliance is displayed in the console. You can secure the appliance by customizing the login banner to display custom instructions and warning messages for the user.
 To configure a login banner, enter the following command at the configuration prompt:
@@ -6170,7 +6260,7 @@ Configure a Login Banner
 ## Configure a Login Banner
 **URL:** https://docs.netskope.com/en/configure-a-login-banner-144852/
 **Last Modified:** 2026-08-11T11:31:41+00:00
-**Scraped:** 2026-11-16T15:02:44.615421+00:00
+**Scraped:** 2026-11-17T15:49:02.320189+00:00
 
 Configure a Login Banner - Netskope Technical Documentation
 Configure a Login Banner
@@ -6191,8 +6281,9 @@ Configure a Login Banner
 ## Configure Log Uploads
 **URL:** https://docs.netskope.com/en/configure-log-uploads-355003/
 **Last Modified:** 2026-08-18T17:18:39+00:00
-**Scraped:** 2026-11-16T15:02:52.234231+00:00
+**Scraped:** 2026-11-17T15:49:09.152854+00:00
 
+Configure Log Uploads - Netskope Technical Documentation
 Configure Log Uploads
 The management plane appliance can upload logs directly through the UI, and both the management plane appliance and log parser appliances can also receive them via SFTP, SCP, and FTPS.
 Log uploads are disabled by default on new appliances. To process logs, run the command
@@ -6218,7 +6309,7 @@ Configure Log Uploads
 ## Configure Log Uploads
 **URL:** https://docs.netskope.com/en/configure-log-uploads/
 **Last Modified:** 2026-08-18T17:38:16+00:00
-**Scraped:** 2026-11-16T15:02:55.856335+00:00
+**Scraped:** 2026-11-17T15:49:12.638690+00:00
 
 Configure Log Uploads - Netskope Technical Documentation
 Configure Log Uploads
@@ -6240,7 +6331,7 @@ Configure Log Uploads
 ## Configure NFS on the Log Parser Appliance
 **URL:** https://docs.netskope.com/en/configure-nfs-on-the-log-parser-appliance/
 **Last Modified:** 2026-08-18T17:18:27+00:00
-**Scraped:** 2026-11-16T15:02:57.041604+00:00
+**Scraped:** 2026-11-17T15:49:13.795888+00:00
 
 Configure NFS on the Log Parser Appliance - Netskope Technical Documentation
 Configure NFS on the Log Parser Appliance
@@ -6319,7 +6410,7 @@ Configure NFS on the Log Parser Appliance
 ## Configure SSH Keys for Log Uploads
 **URL:** https://docs.netskope.com/en/configure-ssh-keys-for-log-uploads-144858/
 **Last Modified:** 2026-08-18T17:04:04+00:00
-**Scraped:** 2026-11-16T15:03:04.361999+00:00
+**Scraped:** 2026-11-17T15:49:20.813261+00:00
 
 Configure SSH Keys for Log Uploads - Netskope Technical Documentation
 Configure SSH Keys for Log Uploads
@@ -6375,9 +6466,8 @@ Configure SSH Keys for Log Uploads
 ## Configure Syslog on the Appliance
 **URL:** https://docs.netskope.com/en/configure-syslog-on-the-appliance/
 **Last Modified:** 2026-08-18T17:03:58+00:00
-**Scraped:** 2026-11-16T15:03:05.555637+00:00
+**Scraped:** 2026-11-17T15:49:21.950445+00:00
 
-Configure Syslog on the Appliance - Netskope Technical Documentation
 Configure Syslog on the Appliance
 You can configure syslog on the appliance to stream syslog messages directly from the enterprise firewall or proxy servers.
 After the logs are streamed via syslog to the appliance, the syslog messages are written to a file in the
@@ -6496,9 +6586,8 @@ Configure Syslog on the Appliance
 ## Configure SSH Keys for Log Uploads
 **URL:** https://docs.netskope.com/en/configure-ssh-keys-for-log-uploads/
 **Last Modified:** 2026-08-18T17:04:00+00:00
-**Scraped:** 2026-11-16T15:03:06.871143+00:00
+**Scraped:** 2026-11-17T15:49:23.079443+00:00
 
-Configure SSH Keys for Log Uploads - Netskope Technical Documentation
 Configure SSH Keys for Log Uploads
 You can configure your SSH key pairs to automatically upload logs to the appliance.
 To use your own SSH key pairs:
@@ -6552,7 +6641,7 @@ Configure SSH Keys for Log Uploads
 ## Configure Syslog on the OPLP
 **URL:** https://docs.netskope.com/en/configure-syslog-on-the-oplp/
 **Last Modified:** 2026-08-18T17:04:02+00:00
-**Scraped:** 2026-11-16T15:03:09.362326+00:00
+**Scraped:** 2026-11-17T15:49:25.371572+00:00
 
 Configure Syslog on the OPLP - Netskope Technical Documentation
 Configure Syslog on the OPLP
@@ -6686,8 +6775,9 @@ Configure Syslog on the OPLP
 ## Configure the Log Parser Appliance on the Management Plane
 **URL:** https://docs.netskope.com/en/configure-the-log-parser-appliance-on-the-management-plane/
 **Last Modified:** 2026-08-18T17:38:12+00:00
-**Scraped:** 2026-11-16T15:03:15.439536+00:00
+**Scraped:** 2026-11-17T15:49:31.311669+00:00
 
+Configure the Log Parser Appliance on the Management Plane - Netskope Technical Documentation
 Configure the Log Parser Appliance on the Management Plane
 You can use dedicated log parsing appliances to scale performance.
 To configure an appliance for log parsing:
@@ -6765,7 +6855,7 @@ Configure the Log Parser Appliance on the Management Plane
 ## Enable Hashing and Redaction of Log Fields
 **URL:** https://docs.netskope.com/en/enable-hashing-and-redaction-of-log-fields/
 **Last Modified:** 2026-08-18T17:22:10+00:00
-**Scraped:** 2026-11-16T15:03:29.035997+00:00
+**Scraped:** 2026-11-17T15:49:43.859758+00:00
 
 Enable Hashing and Redaction of Log Fields - Netskope Technical Documentation
 Enable Hashing and Redaction of Log Fields
@@ -6798,9 +6888,8 @@ Enable Hashing and Redaction of Log Fields
 ## Export or Import Configurations
 **URL:** https://docs.netskope.com/en/export-or-import-configurations/
 **Last Modified:** 2026-08-18T17:37:11+00:00
-**Scraped:** 2026-11-16T15:03:39.956883+00:00
+**Scraped:** 2026-11-17T15:49:54.073951+00:00
 
-Export or Import Configurations - Netskope Technical Documentation
 Export or Import Configurations
 Exporting or importing configurations enables you to deploy existing configurations to other appliances. Using this feature, you can save configurations outside the appliance for use at a later time, or use the configuration settings from one appliance to quickly setup multiple appliances.
 Exporting Configurations
@@ -6812,7 +6901,7 @@ Export or Import Configurations
 ## Exporting Configurations
 **URL:** https://docs.netskope.com/en/exporting-configurations/
 **Last Modified:** 2026-08-18T17:14:13+00:00
-**Scraped:** 2026-11-16T15:03:42.347442+00:00
+**Scraped:** 2026-11-17T15:49:56.331784+00:00
 
 Exporting Configurations - Netskope Technical Documentation
 Exporting Configurations
@@ -6844,9 +6933,8 @@ Exporting Configurations
 ## Log in to the Appliance
 **URL:** https://docs.netskope.com/en/log-in-to-the-appliance/
 **Last Modified:** 2026-08-18T17:18:40+00:00
-**Scraped:** 2026-11-16T15:04:00.621058+00:00
+**Scraped:** 2026-11-17T15:50:13.719384+00:00
 
-Log in to the Appliance - Netskope Technical Documentation
 Log in to the Appliance
 The appliance has two different command prompts:
 <hostname>
@@ -6947,9 +7035,8 @@ Log in to the Appliance
 ## Monitor Log Processing Status using a Command Line Interface
 **URL:** https://docs.netskope.com/en/monitor-log-processing-status-using-a-command-line-interface/
 **Last Modified:** 2026-08-18T17:15:08+00:00
-**Scraped:** 2026-11-16T15:04:10.243153+00:00
+**Scraped:** 2026-11-17T15:50:22.814303+00:00
 
-Monitor Log Processing Status using a Command Line Interface - Netskope Technical Documentation
 Monitor Log Processing Status using a Command Line Interface
 Monitor the status of a single log file by using the following commands:
 status log-file-history
@@ -7009,7 +7096,7 @@ Monitor Log Processing Status using a Command Line Interface
 ## Upload Logs from an Amazon S3 Bucket
 **URL:** https://docs.netskope.com/en/upload-logs-from-an-amazon-s3-bucket/
 **Last Modified:** 2026-08-18T17:37:05+00:00
-**Scraped:** 2026-11-16T15:04:37.024578+00:00
+**Scraped:** 2026-11-17T15:50:48.237498+00:00
 
 Upload Logs from an Amazon S3 Bucket - Netskope Technical Documentation
 Upload Logs from an Amazon S3 Bucket
@@ -7046,9 +7133,8 @@ Upload Logs from an Amazon S3 Bucket
 ## Upload Logs using FTPS
 **URL:** https://docs.netskope.com/en/upload-logs-using-ftps/
 **Last Modified:** 2026-08-18T17:18:25+00:00
-**Scraped:** 2026-11-16T15:04:38.206777+00:00
+**Scraped:** 2026-11-17T15:50:49.389741+00:00
 
-Upload Logs using FTPS - Netskope Technical Documentation
 Upload Logs using FTPS
 If your network allows file transfers using FTPS instead of SFTP or SCP, you can upload log files by enabling FTPS on the appliance.  To do this, you must first generate and install an SSL certificate. Server side certificates are required to enable SSL inspection. You can use either a self-signed certificate or a CA certificate preferably signed by the enterprise’s Root or intermediate CA.
 Make sure that the server certificate of the appliance uses a fully-qualified domain name as the common name.
@@ -7101,7 +7187,7 @@ Upload Logs using FTPS
 ## Upload Logs using FTPS
 **URL:** https://docs.netskope.com/en/upload-logs-using-ftps-158321/
 **Last Modified:** 2026-08-18T17:37:04+00:00
-**Scraped:** 2026-11-16T15:04:40.635923+00:00
+**Scraped:** 2026-11-17T15:50:51.645555+00:00
 
 Upload Logs using FTPS - Netskope Technical Documentation
 Upload Logs using FTPS
@@ -7156,7 +7242,7 @@ Upload Logs using FTPS
 ## Upload Logs using SCP
 **URL:** https://docs.netskope.com/en/upload-logs-using-scp-158320/
 **Last Modified:** 2026-08-18T17:37:03+00:00
-**Scraped:** 2026-11-16T15:04:41.823836+00:00
+**Scraped:** 2026-11-17T15:50:52.773257+00:00
 
 Upload Logs using SCP - Netskope Technical Documentation
 Upload Logs using SCP
@@ -7189,7 +7275,7 @@ Upload Logs using SCP
 ## Upload Logs using SCP
 **URL:** https://docs.netskope.com/en/upload-logs-using-scp/
 **Last Modified:** 2026-08-18T17:18:26+00:00
-**Scraped:** 2026-11-16T15:04:43.112706+00:00
+**Scraped:** 2026-11-17T15:50:53.906259+00:00
 
 Upload Logs using SCP - Netskope Technical Documentation
 Upload Logs using SCP
@@ -7222,9 +7308,8 @@ Upload Logs using SCP
 ## Upload Logs using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-using-sftp-144860/
 **Last Modified:** 2026-08-18T17:04:06+00:00
-**Scraped:** 2026-11-16T15:04:44.406548+00:00
+**Scraped:** 2026-11-17T15:50:55.068423+00:00
 
-Upload Logs using SFTP - Netskope Technical Documentation
 Upload Logs using SFTP
 SFTP is an interactive way to upload log files, which helps you get familiarized with the overall process before automating it using SCP.
 Upload Logs with Windows using SFTP
@@ -7320,9 +7405,8 @@ Upload Logs using SFTP
 ## Upload Logs using SFTP
 **URL:** https://docs.netskope.com/en/upload-logs-using-sftp/
 **Last Modified:** 2026-08-18T17:18:24+00:00
-**Scraped:** 2026-11-16T15:04:46.814604+00:00
+**Scraped:** 2026-11-17T15:50:57.347850+00:00
 
-Upload Logs using SFTP - Netskope Technical Documentation
 Upload Logs using SFTP
 SFTP is an interactive way to upload log files, which helps you get familiarized with the overall process before automating it using SCP.
 Upload Logs with Windows using SFTP
@@ -7418,7 +7502,7 @@ Upload Logs using SFTP
 ## Verify the Log Parser Connection
 **URL:** https://docs.netskope.com/en/verify-the-log-parser-connection/
 **Last Modified:** 2026-08-18T17:37:06+00:00
-**Scraped:** 2026-11-16T15:04:49.314677+00:00
+**Scraped:** 2026-11-17T15:50:59.648772+00:00
 
 Verify the Log Parser Connection - Netskope Technical Documentation
 Verify the Log Parser Connection
@@ -7434,7 +7518,7 @@ Verify the Log Parser Connection
 ## AWS Security Lake Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/amazon-security-lake-plugin-for-log-shipper/
 **Last Modified:** 2026-10-31T00:51:02+00:00
-**Scraped:** 2026-11-16T15:05:02.993212+00:00
+**Scraped:** 2026-11-17T15:51:12.371972+00:00
 
 AWS Security Lake Plugin for Log Shipper - Netskope Technical Documentation
 AWS Security Lake Plugin for Log Shipper
@@ -8678,7 +8762,7 @@ AWS Security Lake Plugin for Log Shipper
 ## App Catalog
 **URL:** https://docs.netskope.com/en/app-catalog/
 **Last Modified:** 2026-10-27T06:59:47+00:00
-**Scraped:** 2026-11-16T15:05:04.185371+00:00
+**Scraped:** 2026-11-17T15:51:13.525946+00:00
 
 App Catalog - Netskope Technical Documentation
 App Catalog
@@ -8714,9 +8798,8 @@ App Catalog
 ## 3rd Party App Risk Assessment Catalog
 **URL:** https://docs.netskope.com/en/3rd-party-app-risk-assessment-catalog/
 **Last Modified:** 2026-10-27T06:59:46+00:00
-**Scraped:** 2026-11-16T15:05:25.084088+00:00
+**Scraped:** 2026-11-17T15:51:32.730366+00:00
 
-3rd Party App Risk Assessment Catalog - Netskope Technical Documentation
 3rd Party App Risk Assessment Catalog
 Click
 CCI
@@ -8735,7 +8818,7 @@ In this Topic
 ## Kafka Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/kafka-plugin-for-log-shipper/
 **Last Modified:** 2026-09-03T22:57:54+00:00
-**Scraped:** 2026-11-16T15:05:38.575188+00:00
+**Scraped:** 2026-11-17T15:51:45.788876+00:00
 
 Kafka Plugin for Log Shipper - Netskope Technical Documentation
 Kafka Plugin for Log Shipper
@@ -8970,9 +9053,8 @@ Kafka Plugin for Log Shipper
 ## CrowdStrike LogScale Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/crowdstrike-logscale-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T03:46:17+00:00
-**Scraped:** 2026-11-16T15:05:40.959421+00:00
+**Scraped:** 2026-11-17T15:51:48.176710+00:00
 
-CrowdStrike LogScale Plugin for Log Shipper - Netskope Technical Documentation
 CrowdStrike LogScale Plugin for Log Shipper
 This document explains how to ingest Netskope Alerts, Events, and Web transaction logs in JSON format from your Netskope tenant to the CrowdStrike LogScale  using Cloud Exchange with the CLS CrowdStrike LogScale plugin. The plugin transforms and ingests the alerts, events, and WebTX logs into the CrowdStrike LogScale HTTP Event Collector.
 Prerequisites
@@ -9158,7 +9240,7 @@ CrowdStrike LogScale Plugin for Log Shipper
 ## Bitsight ThirdPartyTrust Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/bitsight-thirdpartytrust-plugin-for-log-shipper/
 **Last Modified:** 2026-05-28T22:51:59+00:00
-**Scraped:** 2026-11-16T15:05:54.581489+00:00
+**Scraped:** 2026-11-17T15:52:00.859653+00:00
 
 Bitsight ThirdPartyTrust Plugin for Log Shipper - Netskope Technical Documentation
 Bitsight ThirdPartyTrust Plugin for Log Shipper
@@ -9248,9 +9330,8 @@ Bitsight ThirdPartyTrust Plugin for Log Shipper
 ## Datadog Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/datadog-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:19:30+00:00
-**Scraped:** 2026-11-16T15:07:56.940761+00:00
+**Scraped:** 2026-11-17T15:53:57.007700+00:00
 
-Datadog Plugin for Log Shipper - Netskope Technical Documentation
 Datadog Plugin for Log Shipper
 This document explains how to configure the Datadog v1.1.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports the ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, and CTEP), Events (Page, Application, Audit, Infrastructure, Network, Incident, and Endpoint),
 WebTx(via Netskope LogStreaming
@@ -9481,8 +9562,9 @@ Datadog Plugin for Log Shipper
 ## Local Export Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/local-export-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:22:44+00:00
-**Scraped:** 2026-11-16T15:07:58.129722+00:00
+**Scraped:** 2026-11-17T15:53:58.259118+00:00
 
+Local Export Plugin for Log Shipper - Netskope Technical Documentation
 Local Export Plugin for Log Shipper
 This document explains how to configure the Local Export with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin is used to deliver web transactions data to a designated location in your local storage.
 Prerequisites
@@ -9658,7 +9740,7 @@ Local Export Plugin for Log Shipper
 ## AWS SQS Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-sqs-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:45:18+00:00
-**Scraped:** 2026-11-16T15:08:28.428869+00:00
+**Scraped:** 2026-11-17T15:54:27.231598+00:00
 
 AWS SQS Plugin for Log Shipper - Netskope Technical Documentation
 AWS SQS Plugin for Log Shipper
@@ -10251,9 +10333,8 @@ AWS SQS Plugin for Log Shipper
 ## Topologies
 **URL:** https://docs.netskope.com/en/topologies-sites/
 **Last Modified:** 2026-09-24T01:28:22+00:00
-**Scraped:** 2026-11-16T15:09:33.560732+00:00
+**Scraped:** 2026-11-17T15:55:28.911107+00:00
 
-Topologies - Netskope Technical Documentation
 Topologies
 The topologies section of the “Settings” page provides data on Sites and Gateways.
 Sites
@@ -10363,7 +10444,7 @@ Topologies
 ## Export 3rd Party App Data
 **URL:** https://docs.netskope.com/en/export-3rd-party-app-data/
 **Last Modified:** 2025-08-31T01:47:01+00:00
-**Scraped:** 2026-11-16T15:10:25.687417+00:00
+**Scraped:** 2026-11-17T15:56:18.999794+00:00
 
 Export 3rd Party App Data - Netskope Technical Documentation
 Export 3rd Party App Data
@@ -10396,7 +10477,7 @@ Export 3rd Party App Data
 ## Log Shipper Plugin
 **URL:** https://docs.netskope.com/en/log-shipper-plugin/
 **Last Modified:** 2026-07-17T00:52:06+00:00
-**Scraped:** 2026-11-16T15:10:48.905582+00:00
+**Scraped:** 2026-11-17T15:56:41.076507+00:00
 
 Log Shipper Plugin - Netskope Technical Documentation
 Log Shipper Plugin
@@ -13629,7 +13710,7 @@ Log Shipper Plugin
 ## Cloud Exchange Logs Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/cloud-exchange-logs-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:46:33+00:00
-**Scraped:** 2026-11-16T15:10:55.094437+00:00
+**Scraped:** 2026-11-17T15:56:47.394276+00:00
 
 Cloud Exchange Logs Plugin for Log Shipper - Netskope Technical Documentation
 Cloud Exchange Logs Plugin for Log Shipper
@@ -13733,7 +13814,7 @@ Cloud Exchange Logs Plugin for Log Shipper
 ## Export DSPM Logs to Amazon S3
 **URL:** https://docs.netskope.com/en/publishing-dspm-activity-logs-to-s3/
 **Last Modified:** 2026-06-20T01:07:48+00:00
-**Scraped:** 2026-11-16T15:11:50.594685+00:00
+**Scraped:** 2026-11-17T15:57:39.657036+00:00
 
 Export DSPM Logs to Amazon S3 - Netskope Technical Documentation
 Export DSPM Logs to Amazon S3
@@ -13927,7 +14008,7 @@ Export DSPM Logs to Amazon S3
 ## FortiSIEM Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/fortisiem-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:34:15+00:00
-**Scraped:** 2026-11-16T15:11:58.373635+00:00
+**Scraped:** 2026-11-17T15:57:47.104383+00:00
 
 FortiSIEM Plugin for Log Shipper
 This document explains how to configure the FortiSIEM v1.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (Compromised Credential, Policy, Malsite, Malware, DLP, Security Assessment, Quarantine, Remediation, UBA, Watchlist, CTEP), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint), Web Transaction data, and CE logs (Debug, Information, Error, Warning) to FortiSIEM in JSON format.
@@ -14085,7 +14166,7 @@ FortiSIEM Plugin for Log Shipper
 ## Scality Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/scality-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T03:47:07+00:00
-**Scraped:** 2026-11-16T15:12:37.246401+00:00
+**Scraped:** 2026-11-17T15:58:22.977883+00:00
 
 Scality Plugin for Log Shipper - Netskope Technical Documentation
 Scality Plugin for Log Shipper
@@ -14280,7 +14361,7 @@ Scality Plugin for Log Shipper
 ## Microsoft Azure Event Hubs Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-event-hubs-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T10:37:08+00:00
-**Scraped:** 2026-11-16T15:12:42.217297+00:00
+**Scraped:** 2026-11-17T15:58:27.558753+00:00
 
 Microsoft Azure Event Hubs Plugin for Log Shipper
 This document explains how to configure the Microsoft Azure Event Hubs v2.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin supports ingestion of Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content), Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status) and WebTx [via Netskope LogStreaming] data. The data will be sent to the Microsoft Azure Event Hubs. This plugin supports ingestion in both CEF and JSON format.
@@ -14609,7 +14690,7 @@ Microsoft Azure Event Hubs Plugin for Log Shipper
 ## Stream Logs to Amazon S3
 **URL:** https://docs.netskope.com/en/stream-logs-to-amazon-s3/
 **Last Modified:** 2026-06-15T23:14:22+00:00
-**Scraped:** 2026-11-16T15:13:05.944894+00:00
+**Scraped:** 2026-11-17T15:58:49.506571+00:00
 
 Stream Logs to Amazon S3 - Netskope Technical Documentation
 Stream Logs to Amazon S3
@@ -14710,7 +14791,7 @@ Stream Logs to Amazon S3
 ## Stream Logs to Azure Blob
 **URL:** https://docs.netskope.com/en/stream-logs-to-azure-blob/
 **Last Modified:** 2026-06-15T23:15:33+00:00
-**Scraped:** 2026-11-16T15:13:07.127835+00:00
+**Scraped:** 2026-11-17T15:58:50.660054+00:00
 
 Stream Logs to Azure Blob - Netskope Technical Documentation
 Stream Logs to Azure Blob
@@ -14739,7 +14820,7 @@ Stream Logs to Azure Blob
 ## Stream Logs to GCP Cloud Storage
 **URL:** https://docs.netskope.com/en/stream-logs-to-gcp-cloud-storage/
 **Last Modified:** 2026-06-15T23:24:32+00:00
-**Scraped:** 2026-11-16T15:13:08.312888+00:00
+**Scraped:** 2026-11-17T15:58:51.833906+00:00
 
 Stream Logs to GCP Cloud Storage - Netskope Technical Documentation
 Stream Logs to GCP Cloud Storage
@@ -14788,7 +14869,7 @@ Stream Logs to GCP Cloud Storage
 ## Publisher Logs for Troubleshooting
 **URL:** https://docs.netskope.com/en/publisher-logs-for-troubleshooting/
 **Last Modified:** 2026-03-03T02:05:27+00:00
-**Scraped:** 2026-11-16T15:14:06.446322+00:00
+**Scraped:** 2026-11-17T15:59:47.686065+00:00
 
 Publisher Logs for Troubleshooting
 Connection Segment
@@ -14847,7 +14928,7 @@ Publisher Logs for Troubleshooting
 ## Publisher Filtering and Exporting Options
 **URL:** https://docs.netskope.com/en/publisher-filtering-and-exporting-options/
 **Last Modified:** 2026-03-03T02:06:50+00:00
-**Scraped:** 2026-11-16T15:14:11.208878+00:00
+**Scraped:** 2026-11-17T15:59:52.348839+00:00
 
 Publisher Filtering and Exporting Options - Netskope Technical Documentation
 Publisher Filtering and Exporting Options
@@ -14880,9 +14961,8 @@ Publisher Filtering and Exporting Options
 ## Understanding Supported Audit Log Events
 **URL:** https://docs.netskope.com/en/understanding-supported-audit-log-events/
 **Last Modified:** 2026-01-16T07:49:39+00:00
-**Scraped:** 2026-11-16T15:14:21.112796+00:00
+**Scraped:** 2026-11-17T16:00:01.752824+00:00
 
-Understanding Supported Audit Log Events - Netskope Technical Documentation
 Understanding Supported Audit Log Events
 Audit logs are a record of all events, actions, or changes made within an organization’s systems, applications, or networks. These logs provide a historical account of what has occurred, including user activities, system modifications, and security-related events.
 Navigate to
@@ -14928,7 +15008,7 @@ Understanding Supported Audit Log Events
 ## CrowdStrike Next-Gen SIEM Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/crowdstrike-next-gen-siem-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:47:08+00:00
-**Scraped:** 2026-11-16T15:14:44.108527+00:00
+**Scraped:** 2026-11-17T16:00:23.683184+00:00
 
 CrowdStrike Next-Gen SIEM Plugin for Log Shipper - Netskope Technical Documentation
 CrowdStrike Next-Gen SIEM Plugin for Log Shipper
@@ -15135,8 +15215,9 @@ CrowdStrike Next-Gen SIEM Plugin for Log Shipper
 ## Stream Logs to Splunk
 **URL:** https://docs.netskope.com/en/stream-logs-to-splunk/
 **Last Modified:** 2026-05-28T02:28:42+00:00
-**Scraped:** 2026-11-16T15:15:14.908086+00:00
+**Scraped:** 2026-11-17T16:00:53.195478+00:00
 
+Stream Logs to Splunk - Netskope Technical Documentation
 Stream Logs to Splunk
 Netskope provides support for the following Splunk integrations to stream NLS logs.
 Stream Logs to Splunk with AWS
@@ -15562,7 +15643,7 @@ Stream Logs to Splunk
 ## Log Streaming Integrations
 **URL:** https://docs.netskope.com/en/log-streaming-integrations/
 **Last Modified:** 2026-02-11T21:38:48+00:00
-**Scraped:** 2026-11-16T15:15:16.099872+00:00
+**Scraped:** 2026-11-17T16:00:54.324289+00:00
 
 Log Streaming Integrations - Netskope Technical Documentation
 Log Streaming Integrations
@@ -15578,7 +15659,7 @@ Log Streaming Integrations
 ## AWS LogStreaming Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-logstreaming-plugin-for-log-shipper/
 **Last Modified:** 2026-11-04T21:57:41+00:00
-**Scraped:** 2026-11-16T15:15:23.494725+00:00
+**Scraped:** 2026-11-17T16:01:01.200736+00:00
 
 AWS LogStreaming Plugin for Log Shipper
 Release Notes
@@ -16269,7 +16350,7 @@ AWS LogStreaming Plugin for Log Shipper
 ## Azure Netskope Log Streaming Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/azure-logstreaming-plugin-for-log-shipper/
 **Last Modified:** 2026-11-04T23:41:15+00:00
-**Scraped:** 2026-11-16T15:15:50.594945+00:00
+**Scraped:** 2026-11-17T16:01:26.837837+00:00
 
 Azure Netskope Log Streaming Plugin for Log Shipper - Netskope Technical Documentation
 Azure Netskope Log Streaming Plugin for Log Shipper
@@ -16555,7 +16636,7 @@ Azure Netskope Log Streaming Plugin for Log Shipper
 ## Review Custom Query Logs in DSPM
 **URL:** https://docs.netskope.com/en/review-custom-query-logs-in-dspm/
 **Last Modified:** 2026-03-01T00:02:46+00:00
-**Scraped:** 2026-11-16T15:16:04.785516+00:00
+**Scraped:** 2026-11-17T16:01:38.510656+00:00
 
 Review Custom Query Logs in DSPM - Netskope Technical Documentation
 Review Custom Query Logs in DSPM
@@ -16698,7 +16779,7 @@ Review Custom Query Logs in DSPM
 ## View DSPM Activity Logs
 **URL:** https://docs.netskope.com/en/view-dspm-activity-logs/
 **Last Modified:** 2026-02-05T19:41:07+00:00
-**Scraped:** 2026-11-16T15:16:48.760439+00:00
+**Scraped:** 2026-11-17T16:02:20.714834+00:00
 
 View DSPM Activity Logs - Netskope Technical Documentation
 View DSPM Activity Logs
@@ -16822,7 +16903,7 @@ View DSPM Activity Logs
 ## Audit Log
 **URL:** https://docs.netskope.com/en/audit-log-1/
 **Last Modified:** 2025-08-31T01:38:34+00:00
-**Scraped:** 2026-11-16T15:17:30.772255+00:00
+**Scraped:** 2026-11-17T16:03:00.484619+00:00
 
 Audit Log - Netskope Technical Documentation
 Audit Log
@@ -17011,9 +17092,8 @@ Audit Log
 ## Stream Logs to IBM QRadar
 **URL:** https://docs.netskope.com/en/stream-logs-to-ibm-qradar/
 **Last Modified:** 2025-08-31T01:49:51+00:00
-**Scraped:** 2026-11-16T15:17:59.100616+00:00
+**Scraped:** 2026-11-17T16:03:26.838170+00:00
 
-Stream Logs to IBM QRadar - Netskope Technical Documentation
 Stream Logs to IBM QRadar
 This topic helps you configure AWS S3 protocol connector for IBM QRadar. You must create a Log Source using the Amazon AWS S3 REST API protocol to collect compressed CSV data from the S3 bucket.
 To ingest data using the Amazon AWS S3 REST API protocol, you must have QRadar version 7.5.0 UP4 or later.
@@ -17066,8 +17146,9 @@ Stream Logs to IBM QRadar
 ## Stream Logs to Crowdstrike
 **URL:** https://docs.netskope.com/en/stream-logs-to-crowdstrike/
 **Last Modified:** 2026-06-02T17:58:08+00:00
-**Scraped:** 2026-11-16T15:18:00.297725+00:00
+**Scraped:** 2026-11-17T16:03:27.972036+00:00
 
+Stream Logs to Crowdstrike - Netskope Technical Documentation
 Stream Logs to Crowdstrike
 This document explains how to configure the AWS S3 bucket with the CrowdStrike S3 Data connector. The main purpose of this configuration is to stream the Web Transactions logs from an S3 bucket to the CrowdStrike NG-SIEM via their S3 Data connector.
 Prerequisites
@@ -17225,7 +17306,7 @@ Stream Logs to Crowdstrike
 ## Stream Logs to Cribl
 **URL:** https://docs.netskope.com/en/stream-logs-to-cribl/
 **Last Modified:** 2025-08-31T01:49:51+00:00
-**Scraped:** 2026-11-16T15:18:05.578492+00:00
+**Scraped:** 2026-11-17T16:03:32.517054+00:00
 
 Stream Logs to Cribl - Netskope Technical Documentation
 Stream Logs to Cribl
@@ -17248,7 +17329,7 @@ Stream Logs to Cribl
 ## Stream Logs to Elastic
 **URL:** https://docs.netskope.com/en/stream-logs-to-elastic/
 **Last Modified:** 2025-10-14T23:25:04+00:00
-**Scraped:** 2026-11-16T15:19:12.842315+00:00
+**Scraped:** 2026-11-17T16:04:36.054902+00:00
 
 Stream Logs to Elastic - Netskope Technical Documentation
 Stream Logs to Elastic
@@ -17323,7 +17404,7 @@ Stream Logs to Elastic
 ## Action Logs
 **URL:** https://docs.netskope.com/en/action-logs/
 **Last Modified:** 2025-10-31T23:04:54+00:00
-**Scraped:** 2026-11-16T15:19:34.738353+00:00
+**Scraped:** 2026-11-17T16:04:56.949836+00:00
 
 Action Logs - Netskope Technical Documentation
 Action Logs
@@ -17388,8 +17469,9 @@ Action Logs
 ## Importing and Exporting Dashboards
 **URL:** https://docs.netskope.com/en/importing-and-exporting-dashboards/
 **Last Modified:** 2026-02-02T06:38:13+00:00
-**Scraped:** 2026-11-16T15:20:33.890245+00:00
+**Scraped:** 2026-11-17T16:05:52.082767+00:00
 
+Importing and Exporting Dashboards - Netskope Technical Documentation
 Importing and Exporting Dashboards
 With Netskope Advanced Analytics, you can move dashboards between different tenants or back up custom configurations by using the
 Import From File
@@ -17468,7 +17550,7 @@ Importing and Exporting Dashboards
 ## Darktrace Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/darktrace-plugin-for-log-shipper/
 **Last Modified:** 2026-03-18T01:41:50+00:00
-**Scraped:** 2026-11-16T15:21:41.369074+00:00
+**Scraped:** 2026-11-17T16:06:55.727989+00:00
 
 Darktrace Plugin for Log Shipper - Netskope Technical Documentation
 Darktrace Plugin for Log Shipper
@@ -17647,8 +17729,9 @@ Darktrace Plugin for Log Shipper
 ## App Catalog and Risk Assessment
 **URL:** https://docs.netskope.com/en/app-catalog-and-risk-assessment/
 **Last Modified:** 2026-06-11T19:07:18+00:00
-**Scraped:** 2026-11-16T15:22:11.978025+00:00
+**Scraped:** 2026-11-17T16:07:24.233295+00:00
 
+App Catalog and Risk Assessment - Netskope Technical Documentation
 App Catalog and Risk Assessment
 Contact your Netskope account team to enable Agentic Broker in your account. Additional licensing is required for Agentic Broker and DLP. Note, to create a DLP policy, the DLP add-on license is required if you do not have DLP enabled in your account.
 MCP Catalog: Visibility and Risk Assessment
@@ -17743,8 +17826,9 @@ App Catalog and Risk Assessment
 ## Manage Logs
 **URL:** https://docs.netskope.com/en/manage-logs/
 **Last Modified:** 2026-05-18T15:01:10+00:00
-**Scraped:** 2026-11-16T15:23:00.420878+00:00
+**Scraped:** 2026-11-17T16:08:09.642527+00:00
 
+Manage Logs - Netskope Technical Documentation
 Manage Logs
 To provide with a comprehensive view of your environment, perform the follow the steps below to generate and retrieve a diagnostic bundle.
 Access the
@@ -17801,9 +17885,8 @@ Manage Logs
 ## Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs
 **URL:** https://docs.netskope.com/en/optimizing-splunk-ingestion-for-netskope-log-streaming-web-transaction-logs/
 **Last Modified:** 2026-04-02T21:46:19+00:00
-**Scraped:** 2026-11-16T15:23:27.018956+00:00
+**Scraped:** 2026-11-17T16:08:34.013455+00:00
 
-Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs - Netskope Technical Documentation
 Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs
 Overview
 With Netskope Log Streaming integrated via Splunk Cloud Add-ons (such as AWS TA, MSCS TA, etc.), web transaction logs are ingested in JSON format. This allows Splunk to automatically extract fields using key-value pairs, improving searchability and ease of use.
@@ -17900,7 +17983,7 @@ Optimizing Splunk Ingestion for Netskope Log Streaming Web Transaction Logs
 ## Log Shipper Syslog Mapping
 **URL:** https://docs.netskope.com/en/log-shipper-syslog-mapping/
 **Last Modified:** 2026-04-28T07:06:12+00:00
-**Scraped:** 2026-11-16T15:23:54.201820+00:00
+**Scraped:** 2026-11-17T16:08:59.580095+00:00
 
 Log Shipper Syslog Mapping - Netskope Technical Documentation
 Log Shipper Syslog Mapping
@@ -17928,12 +18011,21 @@ Log Shipper Syslog Mapping
 ---
 ## Microsoft Azure Log Analytics Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/microsoft-azure-log-analytics-plugin-for-log-shipper/
-**Last Modified:** 2026-06-08T23:31:22+00:00
-**Scraped:** 2026-11-16T15:25:12.835223+00:00
+**Last Modified:** 2026-11-17T01:01:08+00:00
+**Scraped:** 2026-11-17T16:10:09.759509+00:00
 
-Microsoft Azure Log Analytics Plugin for Log Shipper - Netskope Technical Documentation
 Microsoft Azure Log Analytics Plugin for Log Shipper
 Release Notes
+1.1.0 (Minimum required CE version 6.1.0)
+Added
+Added the Azure Cloud configuration parameter to support Azure US Government, Azure China (21Vianet), and Custom Cloud tenants.
+Added validation of the DCE URI format and a check that the DCE URI belongs to the selected Azure Cloud.
+Changed
+Updated the default mappings.
+Updated the plugin configuration to show only the parameters that apply to the values you select.
+Fixed
+Fixed the AADSTS900382 error (Confidential Client is not supported in Cross Cloud request) for non-public cloud tenants.
+Fixed the issue where ingestion requests exceeded the 1 MB API limit when the data contained non-ASCII characters.
 1.0.0
 Added
 Initial release.
@@ -17941,7 +18033,13 @@ Log Types: Alerts, Events, WebTx
 Transformation: CEF (only supported in
 Single Table
 mode) and JSON
-This document explains how to configure the Microsoft Azure Log Analytics v1.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. The plugin pushes Netskope Alerts, Events, and WebTx records from Cloud Exchange (CE) into one or more Microsoft Azure Log Analytics Custom Log Tables via a Data Collection Rule (DCR).
+This document explains how to configure the Microsoft Azure Log Analytics v1.1.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. The plugin pushes these into one or more Microsoft Azure Log Analytics Custom Log Tables via a Data Collection Rule (DCR):
+Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status)
+WebTx records from Cloud Exchange (CE).
+CEF and JSON formats are supported. CEF is supported only in
+Single Table
+mode.
 Prerequisites
 To complete this configuration, you need:
 A Netskope tenant (or multiple, for example, production and development/test instances).
@@ -17950,6 +18048,11 @@ Tenant plugin
 and
 Log Shipper
 plugin already configured.
+The
+AWS Log Streaming plugin
+or
+Azure Log Streaming plugin
+already configured, to pull alerts, events, and WebTx from Netskope Log Streaming.
 A Microsoft Azure subscription with a Log Analytics workspace.
 A Microsoft Entra ID application (client) with a client secret.
 A Data Collection Rule (DCR) and a Data Collection Endpoint (DCE) configured in Azure.
@@ -17959,8 +18062,19 @@ role assigned to the Entra ID application on the DCR.
 Connectivity to the following host:
 https://portal.azure.com/
 .
+For Secrets Manager configuration, refer to
+Secrets Manager
+. To set up Azure Key Vault as the Secrets Manager, refer to
+Prerequisites for Azure Key Vault Secrets Manager
+.
 Microsoft Azure Log Analytics Plugin Support
-The plugin pushes Netskope Alerts, Events, and WebTx records from Cloud Exchange (CE) into one or more Microsoft Azure Log Analytics Custom Log Tables via a Data Collection Rule (DCR).
+The plugin pushes these into one or more Microsoft Azure Log Analytics Custom Log Tables via a Data Collection Rule (DCR):
+Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status)
+WebTx records from Cloud Exchange (CE).
+CEF and JSON formats are supported. CEF is supported only in
+Single Table
+mode.
 Data Type
 Support
 Events
@@ -17979,7 +18093,7 @@ List of APIs Used
 API Endpoint
 Method
 Use Case
-login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token
+{authority_host}/{tenant_id}/oauth2/v2.0/token
 POST
 Obtain OAuth 2.0 access token from Microsoft Entra ID
 {dce_uri}/dataCollectionRules/{dcr_immutable_id}/streams/Custom-{table}?api-version=2023-01-01
@@ -17987,20 +18101,43 @@ POST
 Ingest log records into Azure Log Analytics Custom Log Table
 Get OAuth 2.0 Access Token
 Endpoint:
-POST login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token
+POST {authority_host}/{tenant_id}/oauth2/v2.0/token
+The authority host and token scope depend on the
+Azure Cloud
+you select in the plugin configuration:
+Azure Cloud
+Authority Host
+Token Scope
+DCE Domain
+Azure Public (Commercial)
+login.microsoftonline.com
+https://monitor.azure.com/.default
+ingest.monitor.azure.com
+Azure US Government
+login.microsoftonline.us
+https://monitor.azure.us/.default
+ingest.monitor.azure.us
+Azure China (21Vianet)
+login.chinacloudapi.cn
+https://monitor.azure.cn/.default
+ingest.monitor.azure.cn
+Custom Cloud
+The Custom Authority Host you enter
+The Custom Token Scope you enter
+Not applicable
 Request Headers:
 Key
 Value
 Content-Type
 application/x-www-form-urlencoded
-Request Body:
+Request Body
 {
   "grant_type": "client_credentials",
   "client_id": "{app_id}",
   "client_secret": "{app_secret}",
-  "scope": "https://monitor.azure.com/.default"
+  "scope": "{token_scope}"
 }
-Sample Response:
+Sample Response
 {
   "token_type": "Bearer",
   "expires_in": 3600,
@@ -18010,14 +18147,13 @@ Ingest Log Records
 Endpoint:
 POST {dce_uri}/dataCollectionRules/{dcr_immutable_id}/streams/Custom-{table}?api-version=2023-01-01
 Request Header
-:
 Key
 Value
 Authorization
 Bearer {access_token}
 Content-Type
 application/json
-Request Body:
+Request Body
 [
   {
     "TimeGenerated": "2024-01-01T00:00:00Z",
@@ -18042,13 +18178,13 @@ WebTx Pushed Per Minute
 ~140k EPM (for Single Table)
 ~130k EPM (Per Data Type Table)
 User Agent
-netskope-ce-6.1.0-cls-microsoft-azure-log-analytics-v1.0.0
+netskope-ce-7.0.0-cls-microsoft-azure-log-analytics-v1.1.0
 Workflow
 Configure a Log Analytics Workspace.
-Create a Data Collection Endpoint (DCE) in Azure.
-Create a Data Collection Rule (DCR) and Custom Log Tables in Azure.
+Configure an Application and get your Tenant ID, Application ID, and Client Secret.
+Configure a Data Collection Endpoint (DCE) in Azure.
+Configure a Basic Table in the Log Analytics Workspace and get your Data Collection Rule Immutable ID.
 Assign the Monitoring Metrics Publisher role to the Entra ID application on the DCR.
-Register a Microsoft Entra ID application and generate a client secret.
 Configure the Microsoft Azure Log Analytics plugin.
 Configure a Log Shipper Business Rule.
 Configure Log Shipper Log Delivery.
@@ -18058,7 +18194,9 @@ Click play to watch a video.
 Configure a Log Analytics Workspace
 Log in to
 Azure
-and select Log Analytics Workspace.
+and select
+Log Analytics Workspaces
+.
 Click
 Create Tab
 .
@@ -18098,7 +18236,7 @@ Enter a name for the Data collection Endpoint, select a Subscription and Resourc
 Review + create
 .
 From the Overview tab, copy the Logs Ingestion that will be your Data Collection Endpoint DCE URI.
-Configure a Basic Table in Log Analytics Workspace and get your Data Collection Rule Immutable ID
+Configure a Basic Table in the Log Analytics Workspace and get your Data Collection Rule Immutable ID
 A Custom Log Analytics Table requires sample data to be uploaded in order to create a JSON file on your system with the following content:
 For Single table:
 [   
@@ -19195,8 +19333,8 @@ WebTx:
   "x_type": ""
 }
 On the Azure home tab, go to
-Log Analytics Workspace
-, select the workspace created previously, and select
+Log Analytics Workspaces
+, select the workspace you created previously, and select
 Tables
 . Click
 Create
@@ -19206,9 +19344,11 @@ New Custom log (DCR based)
 Enter a name for the table.
 For the Data Collection Rule, click
 Create a new data collection rule
-and select a Subscription and Resource Group from the dropdown lists. Enter the region for your Log Analytics Workspace, and then click
+and select a Subscription and Resource Group from the dropdowns. Enter the region for your Log Analytics Workspace, and then click
 Done
-. Make sure to keep Table plan as Basic.
+. Make sure to keep Table plan as
+Basic
+.
 The new Data Collection Rule will be selected in the Data collection rule field. Click
 Next
 .
@@ -19226,7 +19366,7 @@ To get the Data Collection Immutable ID, go to
 Home
 , select
 Monitor
-from the
+from
 Azure Services > Data Collection Rules
 , and then select the DCR created by you while creating the Custom Table.
 In the Overview tab, click
@@ -19258,37 +19398,102 @@ Configure the Microsoft Azure Log Analytics Plugin
 In Cloud Exchange, go to
 Settings > Plugin Store
 . Search for and select the
-Microsoft Azure Log Analytics v1.0.0 (CLS)
+Microsoft Azure Log Analytics v1.1.0 (CLS)
 plugin.
-Provide the Configuration Name and change the Sync Interval per your requirement.
-Click Next and enter the Configuration Parameters:
-Tenant ID
-: Microsoft Entra ID Directory (tenant) ID.
-Application ID
-: Application (client) ID of the Entra ID app.
-Application Secret
-: Client secret ID of the Entra ID app.
-Data Collection Endpoint URI
-: Base URI of the Data Collection Endpoint.
-DCR Immutable ID
-: Immutable ID of the Data Collection Rule.
-Log Source Identifier
-: Value written into the Application column on every row. Default: Netskope CE.
-Ingestion Mode
-: Select Single Table to send all data to one table, or Per Data Type to route each data type to a separate table.
-Custom Log Table Name (Single Table mode)
-: Destination table name that receives all records.
-Data Types to Ingest (Per Data Type mode)
-: Select one or more of Alerts, Events, WebTx.
-Alerts Custom Log Table Name (Per Data Type mode)
-: Destination table for Alerts data.
-Events Custom Log Table Name (Per Data Type mode)
-: Destination table for Events data.
-WebTx Custom Log Table Name (Per Data Type mode)
-: Destination table for WebTx data.
-The plugin will not be configured with ‘CEF’ and ‘Per Data Type’ Ingestion mode together.
+Enter a Configuration Name, and select the Mapping and Format per your requirements.
 Click
-Save.
+Next
+and enter the Configuration Parameters:
+Directory (tenant) ID:
+Directory (tenant) ID of the Microsoft Entra ID application.
+Application (client) ID:
+Application (client) ID of the Microsoft Entra ID application.
+Client Secret:
+Client secret of the Microsoft Entra ID application.
+Azure Cloud:
+Azure cloud that hosts the Microsoft Entra ID application and the Log Analytics workspace. Select
+Azure Public (Commercial)
+,
+Azure US Government
+,
+Azure China (21Vianet)
+, or
+Custom Cloud
+. The default is
+Azure Public (Commercial)
+. Select
+Custom Cloud
+for any other Azure cloud.
+Custom Authority Host:
+Microsoft Entra ID authority host of your Azure cloud, for example login.microsoftonline.us. Enter the hostname only. Required only when
+Azure Cloud
+is
+Custom Cloud
+.
+Custom Token Scope:
+Azure Monitor token scope of your Azure cloud, for example https://monitor.azure.us/.default. Required only when
+Azure Cloud
+is
+Custom Cloud
+.
+DCE URI:
+URI of the Data Collection Endpoint. The URI must start with https:// and must belong to the selected
+Azure Cloud
+.
+DCR Immutable ID:
+Immutable ID of the Data Collection Rule.
+Log Source Identifier:
+Value written into the Application column on every row. The default is
+Netskope CE
+.
+Ingestion Mode:
+Select
+Single Table
+to send all data to one table, or
+Per Data Type
+to route each data type to a separate table.
+Custom Log Table Name:
+Destination table name that receives all records. Required only when
+Ingestion Mode
+is
+Single Table
+.
+Data Types to Ingest:
+Select one or more of
+Alerts
+,
+Events
+, and
+WebTx
+. Required only when
+Ingestion Mode
+is
+Per Data Type
+.
+Alerts Custom Log Table Name:
+Destination table for Alerts data. Required only when
+Ingestion Mode
+is
+Per Data Type
+.
+Events Custom Log Table Name:
+Destination table for Events data. Required only when
+Ingestion Mode
+is
+Per Data Type
+.
+WebTx Custom Log Table Name:
+Destination table for WebTx data. Required only when
+Ingestion Mode
+is
+Per Data Type
+.
+The CEF format is not supported with the Per Data Type Ingestion Mode.
+Click
+Save
+. Your new plugin appears on the
+Log Shipper > Plugins
+page.
 Configure a Log Shipper Business Rule for Microsoft Azure Log Analytics
 In Log Shipper, go to
 Business Rules
@@ -19301,7 +19506,7 @@ and configure a new business rule by adding the rule name and filter(s).
 Click
 Save
 .
-Configure Log Shipper Log Delivery for the Microsoft Azure Log Analytics Plugin
+Configure Log Shipper Log Delivery for Microsoft Azure Log Analytics
 In Log Shipper, go to
 Log Delivery
 and click
@@ -19314,15 +19519,15 @@ Save
 After the Log Delivery is added, the data will start to be pulled from the Netskope tenant and ingested into the Azure Monitor platform.
 Validate the Microsoft Azure Log Analytics Plugin
 Validate the Pull
-To validate the pulling of indicators from the Netskope tenant.
+To validate the pulling of alerts, events, and WebTx from the Netskope tenant.
 In Cloud Exchange, go to
 Logging
 and search for the pulled logs.
 Validate the Push
 To validate the plugin workflow in Cloud Exchange, go to
 Logging
-and search for ingested Events and Alerts with the filter:
-message contains “ingested”
+and search for ingested Events, Alerts, and WebTx with the filter:
+message contains ingested
 .
 To validate the push on Microsoft Azure Log Analytics:
 In Azure Portal, go to your
@@ -19330,12 +19535,13 @@ Log Analytics workspace
 and open
 Logs
 .
-Query the Custom Log table (like YourTableName_CL | take 10) to verify that records have been ingested.
+Query the Custom Log table (for example, YourTableName_CL | take 10) to verify that records have been ingested.
 For example, below are the alerts ingested in Alerts table.
 Here are the events ingested in Events table.
 Here are the WebTx ingested in WebTx table.
 If you have selected Single Table mode, then the plugin will ingest all alerts, events, and WebTx in a single table in CEF or JSON format.
 Here are the examples of alerts, events and WebTx ingested in CEF and JSON format:
+The following is an ingested event with a custom mapping that includes only some selected fields:
 Troubleshooting the Microsoft Azure Log Analytics Plugin
 Receiving an error code 403 while configuring the plugin in toast and log message
 Ensure that you have the correct permissions for your application to the DCR. Check if you have assigned permissions to the correct Data Collection endpoint as described above. It may take up to 30 minutes to reflect the assigned permissions.
@@ -19363,7 +19569,43 @@ CEF formatting cannot be used with ‘Per Data Type’ Ingestion Mode
 during plugin configuration, it could be due to the plugin configuration being set to CEF while the Ingestion Mode is set to Per Data Type, which is an unsupported combination.
 What to do
 : In the plugin configuration, switch from CEF to JSON, or change the Ingestion Mode to Single Table in the plugin configuration.
-Known Behavior
+403 “OperationFailed” Error on Data Collection Rule
+If you see
+Received exit code 403, Forbidden. Operation Failed
+with the message
+The authentication token provided does not have access to ingest data for the data collection rule with immutable Id ‘dcr-xxxxxxxx’
+during plugin configuration, it could be due to the plugin getting its access token from a different Azure cloud than the one that hosts the DCR and DCE. For example, the DCR is in Azure US Government, but
+Azure Cloud
+is set to Azure Public (Commercial).
+What to do:
+In the plugin configuration, set
+Azure Cloud
+based on the domain of your DCE URI, and then save the configuration:
+DCE URI ends with
+Azure Cloud
+.ingest.monitor.azure.com
+Azure Public (Commercial)
+.ingest.monitor.azure.us
+Azure US Government
+.ingest.monitor.azure.cn
+Azure China (21Vianet)
+Any other domain
+Custom Cloud
+If you select
+Custom Cloud
+, also enter the
+Custom Authority Host
+(the Microsoft Entra ID login hostname of your cloud, hostname only) and the
+Custom Token Scope
+(the Azure Monitor token audience of your cloud, for example,
+https://monitor.
+<cloud-domain>
+/.default
+). The tenant, application, and DCE must all be in the same cloud as these values.
+If the error continues after you set the correct cloud, make sure the Entra ID application has the
+Monitoring Metrics Publisher
+role on the DCR. A new role assignment can take up to 30 minutes to apply.
+Known Behaviors
 These fields from the above mapping will appear with the suffix ‘_field’ in the Log Analytics table. This behavior is due to the Azure Log Analytics platform, where certain field names are reserved keywords and cannot be used directly in mappings. To avoid conflicts, the ‘_field’ suffix has been added to these fields:
 type
 title
@@ -19382,9 +19624,8 @@ Microsoft Azure Log Analytics Plugin for Log Shipper
 ## Databricks Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/databricks-plugin-for-log-shipper/
 **Last Modified:** 2026-10-08T21:51:55+00:00
-**Scraped:** 2026-11-16T15:25:38.681186+00:00
+**Scraped:** 2026-11-17T16:10:33.882176+00:00
 
-Databricks Plugin for Log Shipper - Netskope Technical Documentation
 Databricks Plugin for Log Shipper
 Release Notes
 1.0.0 (Minimum required CE version 6.0.0)
@@ -20057,8 +20298,9 @@ Databricks Plugin for Log Shipper
 ## Configure Azure Log Analytics Workspace
 **URL:** https://docs.netskope.com/en/configure-azure-log-analytics-workspace/
 **Last Modified:** 2026-07-13T05:09:33+00:00
-**Scraped:** 2026-11-16T15:25:55.892069+00:00
+**Scraped:** 2026-11-17T16:10:49.982262+00:00
 
+Configure Azure Log Analytics Workspace - Netskope Technical Documentation
 Configure Azure Log Analytics Workspace
 Integrating an Azure Log Analytics workspace with Netskope enables Microsoft Graph activity logs to flow from your SharePoint environment, including commercial, GCC, and GCC High tenants into Netskope for security monitoring and threat investigation. These logs expand the data available to
 Netskope Behavior Analytics
@@ -20178,7 +20420,7 @@ Configure Azure Log Analytics Workspace
 ## New MCP Servers added to MCP Servers Catalog
 **URL:** https://docs.netskope.com/en/non-cataloged-mcp-servers/
 **Last Modified:** 2026-08-10T11:34:11+00:00
-**Scraped:** 2026-11-16T15:26:20.485826+00:00
+**Scraped:** 2026-11-17T16:11:13.018377+00:00
 
 New MCP Servers added to MCP Servers Catalog
 A set of  new MCP servers listed here have been added to the MCP Servers Catalog.
@@ -20441,9 +20683,8 @@ New MCP Servers added to MCP Servers Catalog
 ## Collect Logs from a Publisher
 **URL:** https://docs.netskope.com/en/collect-logs-from-a-publisher/
 **Last Modified:** 2026-11-10T15:22:16+00:00
-**Scraped:** 2026-11-16T15:26:45.887094+00:00
+**Scraped:** 2026-11-17T16:11:37.143986+00:00
 
-Collect Logs from a Publisher - Netskope Technical Documentation
 Collect Logs from a Publisher
 Remote Log Collection lets you trigger on-demand diagnostic data collection from a Publisher directly from the Netskope tenant UI — without needing SSH or console access to the Publisher host. The Publisher runs the requested diagnostics, bundles the results, and securely uploads them to Netskope-managed storage. You are notified by email when the bundle is ready, and you can download it from the Publisher detail page.
 Important
@@ -20679,7 +20920,7 @@ Collect Logs from a Publisher
 ## AI Asset billing methodology
 **URL:** https://docs.netskope.com/en/ai-asset-billing-methodology/
 **Last Modified:** 2026-10-08T09:56:02+00:00
-**Scraped:** 2026-11-16T15:27:39.489715+00:00
+**Scraped:** 2026-11-17T16:12:26.938819+00:00
 
 AI Asset billing methodology - Netskope Technical Documentation
 AI Asset billing methodology
@@ -20819,7 +21060,7 @@ AI Asset billing methodology
 ## Log Shipper Module
 **URL:** https://docs.netskope.com/en/log-shipper-module/
 **Last Modified:** 2026-10-27T18:33:06+00:00
-**Scraped:** 2026-11-16T15:29:58.292818+00:00
+**Scraped:** 2026-11-17T16:14:37.849841+00:00
 
 Log Shipper Module - Netskope Technical Documentation
 Log Shipper Module
@@ -20913,7 +21154,7 @@ Log Shipper Module
 ## AWS CloudWatch Plugin for Log Shipper
 **URL:** https://docs.netskope.com/en/aws-cloudwatch-plugin-for-log-shipper/
 **Last Modified:** 2026-10-29T02:54:29+00:00
-**Scraped:** 2026-11-16T15:30:52.210562+00:00
+**Scraped:** 2026-11-17T16:15:29.002202+00:00
 
 AWS CloudWatch Plugin for Log Shipper - Netskope Technical Documentation
 AWS CloudWatch Plugin for Log Shipper
@@ -21811,10 +22052,1581 @@ In this Topic
 AWS CloudWatch Plugin for Log Shipper
 
 ---
+## Snowflake Plugin for Log Shipper
+**URL:** https://docs.netskope.com/en/snowflake-plugin-for-log-shipper/
+**Last Modified:** 2026-11-17T02:47:16+00:00
+**Scraped:** 2026-11-17T16:16:12.770558+00:00
+
+Snowflake Plugin for Log Shipper - Netskope Technical Documentation
+Snowflake Plugin for Log Shipper
+Release Notes
+1.0.0 (Requires minimum Cloud Exchange version 6.1.0)
+Added
+Initial release.
+Log Types: Alerts, Events, WebTX
+Format Type: JSON
+This document explains how to configure the Snowflake v1.0.0 plugin with the Log Shipper module of the Netskope Cloud Exchange platform. This plugin is used to send these to Snowflake via the Snowflake Snowpipe Streaming REST API:
+Alerts (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Events (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status)
+WebTX data.
+This plugin supports ingestion in JSON format only. This plugin does not create or alter tables in Snowflake; create the target table(s) there before saving this configuration.
+Prerequisites
+To complete this configuration, you need:
+A Netskope tenant (or multiple, for example, production and development/test instances).
+A Netskope Cloud Exchange tenant with the
+Tenant plugin
+and
+Log Shipper
+plugin already configured.
+The
+AWS Log Streaming plugin
+or
+Azure Log Streaming plugin
+already configured for ingesting alerts, events, and WebTX from the Netskope Log Streaming plugin.
+A Snowflake instance with an account.
+Already created Database, Schema, and Tables on the Snowflake instance.
+Connectivity to the following host: https://
+<account>
+.snowflakecomputing.com
+For Secret Manager configuration, refer to this
+documentation
+. To set up Azure Key Vault Secrets Manager, refer to this
+documentation
+.
+Snowflake Plugin Support
+This plugin supports ingestion in JSON format only. This plugin does not create or alter tables in Snowflake; create the target table(s) there before saving this configuration.
+Data Type
+Support
+Events
+Yes (Page, Application, Audit, Infrastructure, Network, Incident, Endpoint, Client Status)
+Alerts
+Yes (DLP, Malware, Policy, Compromised Credential, Malsite, Quarantine, Remediation, Security Assessment, Watchlist, UBA, CTEP, Device, Content)
+Syslog CE Logs
+No
+BWAN Events
+No
+WebTX
+Yes (via Netskope LogStreaming)
+Permissions
+These permissions are needed for the plugin configuration.
+USAGE on Database
+USAGE on Schema
+INSERT on each target table
+API Details
+Endpoint
+Use Case
+/v2/streaming/hostname
+Used to obtain the base url for the ingest data endpoint.
+/api/v2/statements
+Execute SQL queries on snowflake (execute the show table schema query to get the table fields)
+/api/v2/statements/{statementHandle}
+Check the status of the SQL query executed by the statements API.
+/v2/streaming/data/databases/{database}/schemas/{schema}/tables/{table}/rows
+Used to ingest logs into tables on snowflake
+Resolve Streaming Ingest Hostname
+Method:
+GET
+Endpoint:
+{Account URL}/v2/streaming/hostname
+Request Headers
+Key
+Value
+Authorization
+Bearer {programmatic access token}
+X-Snowflake-Authorization-Token-Type
+PROGRAMMATIC_ACCESS_TOKEN
+User-Agent
+netskope-ce-7.0.0-cls-snowflake/v1.0.0
+Query Parameters:
+None
+Request Body:
+None
+Response
+{
+  "hostname": "abcd1234.snowflakecomputing.com"
+}
+Introspect Table Columns
+Method:
+POST
+Endpoint:
+{Account URL}/api/v2/statements
+Request Headers
+Key
+Value
+Authorization
+Bearer {programmatic access token}
+X-Snowflake-Authorization-Token-Type
+PROGRAMMATIC_ACCESS_TOKEN
+User-Agent
+netskope-ce-7.0.0-cls-snowflake/v1.0.0
+Content-Type
+application/json
+Query Parameters:
+None
+Request Body
+{
+  "statement": "SHOW COLUMNS IN TABLE \"MY_DB\".\"MY_SCHEMA\".\"NETSKOPE_LOGS\"",
+  "timeout": 30,
+  "database": "MY_DB",
+  "schema": "MY_SCHEMA"
+}
+Response
+{
+  "resultSetMetaData": {
+    "rowType": [
+      { "name": "column_name" },
+      { "name": "data_type" }
+    ]
+  },
+  "data": [
+    ["EVENT_TIME", "{\"type\":\"TIMESTAMP_NTZ\"}"],
+    ["DATA_TYPE", "{\"type\":\"TEXT\"}"],
+    ["SUBTYPE", "{\"type\":\"TEXT\"}"],
+    ["RAW_DATA", "{\"type\":\"VARIANT\"}"],
+    ["INGESTION_TIME", "{\"type\":\"TIMESTAMP_NTZ\"}"],
+    ["SOURCE_CONFIGURATION_NAME", "{\"type\":\"TEXT\"}"]
+  ]
+}
+Poll Statement Status
+Method:
+GET
+Endpoint:
+{Account URL}/api/v2/statements/{statementHandle}
+Request Headers
+Key
+Value
+Authorization
+Bearer {programmatic access token}
+X-Snowflake-Authorization-Token-Type
+PROGRAMMATIC_ACCESS_TOKEN
+User-Agent
+netskope-ce-7.0.0-cls-snowflake/v1.0.0
+Content-Type
+application/json
+Query Parameters:
+None
+Request Body:
+None
+Response
+{
+  "resultSetMetaData": {
+    "rowType": [
+      { "name": "column_name" },
+      { "name": "data_type" }
+    ]
+  },
+  "data": [
+    ["EVENT_TIME", "{\"type\":\"TIMESTAMP_NTZ\"}"],
+    ["DATA_TYPE", "{\"type\":\"TEXT\"}"],
+    ["SUBTYPE", "{\"type\":\"TEXT\"}"],
+    ["RAW_DATA", "{\"type\":\"VARIANT\"}"],
+    ["INGESTION_TIME", "{\"type\":\"TIMESTAMP_NTZ\"}"],
+    ["SOURCE_CONFIGURATION_NAME", "{\"type\":\"TEXT\"}"]
+  ]
+}
+Ingest Data
+Method:
+POST
+Endpoint:
+https://{streaming_host}/v2/streaming/data/databases/{database}/schemas/{schema}/tables/{table}/rows
+Request Headers
+Key
+Value
+Authorization
+Bearer {programmatic access token}
+X-Snowflake-Authorization-Token-Type
+PROGRAMMATIC_ACCESS_TOKEN
+User-Agent
+netskope-ce-7.0.0-cls-snowflake/v1.0.0
+Content-Type
+application/x-ndjson
+Content-Encoding
+gzip
+Query Parameters
+Parameter
+Description
+requestId
+A fresh UUID generated per batch.
+retryCount
+Starts at 0 and is incremented on each resend of the same batch.
+Request Body
+{"EVENT_TIME":"2026-10-07T12:00:00.000000Z","DATA_TYPE":"alerts","SUBTYPE":"dlp","RAW_DATA":{"alert_type":"dlp","user":"jdoe@example.com","severity":"high"}}
+{"EVENT_TIME":"2026-10-07T12:00:01.500000Z","DATA_TYPE":"alerts","SUBTYPE":"dlp","RAW_DATA":{"alert_type":"dlp","user":"asmith@example.com","severity":"medium"}}
+Response
+{
+  "status_code": 0,
+  "message": "Rows successfully appended."
+}
+Performance Matrix
+This performance reading is conducted on a Large Stack CE with these VM specifications.
+Description
+Specification
+Stack details
+Size: Large
+RAM: 32 GB
+CPU: 16 Cores
+Alerts/Events ingested to SIEM
+~200k EPM
+WebTX (via Netskope LogStreaming) ingested to SIEM
+~170k EPM
+Performance for Alerts/Events was conducted using CLS Netskope Log Shipper plugin and for WebTX, CLS AWS Netskope Log Streaming plugin was used and separate columns tables in Snowflake.
+User Agent
+netskope-ce-7.0.0-cls-snowflake/v1.0.0
+Workflow
+Create a Target Database, Schema, and Table(s) in Snowflake to get your Programmatic Access Token.
+Get your Snowflake Account URL.
+Configure the Snowflake Plugin.
+Configure a Log Shipper Business Rule.
+Configure Log Shipper Log Delivery.
+Validate the plugin.
+Watch a Video
+Click play to watch a video.
+Create a Target Database, Schema, and Table(s) in Snowflake
+Log in to your Snowflake instance and go to
+Projects > Workspace
+.
+Create a new workspace or use any of the existing workspace and execute the below queries as per your requirement:
+Single Table for all the logs
+CREATE TABLE IF NOT EXISTS
+<db>
+.
+<schema>
+.
+<table>
+(
+  EVENT_TIME                TIMESTAMP_NTZ,
+  DATA_TYPE                 VARCHAR,
+  SUBTYPE                   VARCHAR,
+  RAW_DATA                  VARIANT,
+  INGESTION_TIME            TIMESTAMP_NTZ,
+  SOURCE_CONFIGURATION_NAME VARCHAR
+);
+The INGESTION_TIME and SOURCE_CONFIGURATION_NAME fields are not mandatory
+Per Data Type tables (Combined Column mode)
+Alerts
+CREATE TABLE IF NOT EXISTS
+<db>
+.
+<schema>
+.
+<table>
+(
+  EVENT_TIME                TIMESTAMP_NTZ,
+  DATA_TYPE                 VARCHAR,
+  SUBTYPE                   VARCHAR,
+  RAW_DATA                  VARIANT,
+  INGESTION_TIME            TIMESTAMP_NTZ,
+  SOURCE_CONFIGURATION_NAME VARCHAR
+);
+The INGESTION_TIME and SOURCE_CONFIGURATION_NAME fields are not mandatory
+Events
+CREATE TABLE IF NOT EXISTS
+<db>
+.
+<schema>
+.
+<table>
+(
+  EVENT_TIME                TIMESTAMP_NTZ,
+  DATA_TYPE                 VARCHAR,
+  SUBTYPE                   VARCHAR,
+  RAW_DATA                  VARIANT,
+  INGESTION_TIME            TIMESTAMP_NTZ,
+  SOURCE_CONFIGURATION_NAME VARCHAR
+);
+The INGESTION_TIME and SOURCE_CONFIGURATION_NAME fields are not mandatory
+WebTX
+CREATE TABLE IF NOT EXISTS
+<db>
+.
+<schema>
+.
+<table>
+(
+  EVENT_TIME                TIMESTAMP_NTZ,
+  DATA_TYPE                 VARCHAR,
+  SUBTYPE                   VARCHAR,
+  RAW_DATA                  VARIANT,
+  INGESTION_TIME            TIMESTAMP_NTZ,
+  SOURCE_CONFIGURATION_NAME VARCHAR
+);
+The INGESTION_TIME and SOURCE_CONFIGURATION_NAME fields are not mandatory
+Per Data Type Tables (Separate Column mode)
+Alerts
+CREATE TABLE IF NOT EXISTS <db>.<schema>.<table> (
+  EVENT_TIME                      TIMESTAMP_NTZ,  
+  INGESTION_TIME                  TIMESTAMP_NTZ,  
+  DATA_TYPE                       VARCHAR,
+  SUBTYPE                         VARCHAR,
+  SOURCE_CONFIGURATION_NAME       VARCHAR,
+  ACCESS_KEY_ID                   VARCHAR,
+  ACCESS_METHOD                   VARCHAR,
+  ACCOUNTTYPE                     VARCHAR,
+  ACCOUNT_ID                      VARCHAR,
+  ACCOUNT_NAME                    VARCHAR,
+  ACKED                           VARCHAR,
+  ACTION                          VARCHAR,
+  ACTIONS_TAKEN                   VARCHAR,
+  ACTIVITY                        VARCHAR,
+  ACTIVITY_STATUS                 VARCHAR,
+  ACTIVITY_TYPE                   VARCHAR,
+  ACT_USER                        VARCHAR,
+  AGGREGATED_USER                 VARCHAR,
+  ALERT                           VARCHAR,
+  ALERT_DETECTION_STAGE           VARCHAR,
+  ALERT_ID                        VARCHAR,
+  ALERT_NAME                      VARCHAR,
+  ALERT_SOURCE                    VARCHAR,
+  ALERT_TYPE                      VARCHAR,
+  ALL_POLICY_MATCHES              VARIANT,
+  ANOMALYDATA                     VARIANT,
+  ANOMALY_TYPE                    VARCHAR,
+  APP                             VARCHAR,
+  APPACT                          VARCHAR,
+  APPCATEGORY                     VARCHAR,
+  APPSUITE                        VARCHAR,
+  APP_ACTIVITY                    VARCHAR,
+  APP_CATEGORY                    VARCHAR,
+  APP_CCI_APPHOSTING_PROVIDER     VARCHAR,
+  APP_GDPR_LEVEL                  VARCHAR,
+  APP_NAME                        VARCHAR,
+  APP_SCOPES                      VARCHAR,
+  APP_SESSION_ID                  NUMBER,
+  ARCHIVE_SUBFILES                VARIANT,
+  ASSET_ID                        VARCHAR,
+  ASSET_OBJECT_ID                 VARCHAR,
+  AUDIT_CATEGORY                  VARCHAR,
+  AUDIT_TYPE                      VARCHAR,
+  BCC                             VARCHAR,
+  BIN_TIMESTAMP                   NUMBER,
+  BLOCK_REASON                    VARCHAR,
+  BREACH_DATE                     NUMBER,
+  BREACH_DESCRIPTION              VARCHAR,
+  BREACH_ID                       VARCHAR,
+  BREACH_MEDIA_REFERENCES         VARCHAR,
+  BREACH_SCORE                    VARCHAR,
+  BREACH_TARGET_REFERENCES        VARCHAR,
+  BROWSER                         VARCHAR,
+  BROWSER_SESSION_ID              NUMBER,
+  BROWSER_VERSION                 VARCHAR,
+  BYPASS_TRAFFIC                  VARCHAR,
+  CATEGORY                        VARCHAR,
+  CC                              VARCHAR,
+  CCI                             NUMBER,
+  CCL                             VARCHAR,
+  CHANNEL                         VARCHAR,
+  CLASSIFICATION_NAME             VARCHAR,
+  CLIENT_BYTES                    NUMBER,
+  CLIENT_PACKETS                  NUMBER,
+  CLOUD_PROVIDER                  VARCHAR,
+  CO                              VARCHAR,
+  COLLABORATED                    VARCHAR,
+  COMPANY                         VARCHAR,
+  COMPLIANCE_STANDARDS            VARIANT,
+  COMPUTER_NAME                   VARCHAR,
+  CONNECTION_ID                   NUMBER,
+  CONNECTION_TYPE                 VARCHAR,
+  CONN_DURATION                   NUMBER,
+  CONN_ENDTIME                    NUMBER,
+  CONN_STARTTIME                  NUMBER,
+  CONONICALNAME                   VARCHAR,
+  COUNT                           NUMBER,
+  CREATEDTIME                     VARCHAR,
+  CREATED_DATE                    NUMBER,
+  CUSTOM_ATTR                     VARIANT,
+  CUSTOM_CONNECTOR                VARCHAR,
+  DEPARTMENT                      VARCHAR,
+  DEPARTMENTNUMBER                VARCHAR,
+  DESTINATION_FILE_DIRECTORY      VARCHAR,
+  DESTINATION_FILE_NAME           VARCHAR,
+  DESTINATION_FILE_PATH           VARCHAR,
+  DETECTION_ENGINE                VARCHAR,
+  DETECTION_TYPE                  VARCHAR,
+  DEVICE                          VARCHAR,
+  DEVICECLASSIFICATION            VARIANT,
+  DEVICE_CLASSIFICATION           VARCHAR,
+  DINSID                          VARCHAR,
+  DISPLAYNAME                     VARCHAR,
+  DISTINGUISHEDNAME               VARCHAR,
+  DIVISION                        VARCHAR,
+  DLP_FAIL_REASON                 VARCHAR,
+  DLP_FILE                        VARCHAR,
+  DLP_FINGERPRINT_CLASSIFICATION  VARCHAR,
+  DLP_FINGERPRINT_MATCH           VARCHAR,
+  DLP_FINGERPRINT_SCORE           NUMBER,
+  DLP_INCIDENT_ID                 NUMBER,
+  DLP_IS_UNIQUE_COUNT             VARCHAR,
+  DLP_MAIL_PARENT_ID              VARCHAR,
+  DLP_PARENT_ID                   NUMBER,
+  DLP_PROFILE                     VARCHAR,
+  DLP_RULE                        VARCHAR,
+  DLP_RULE_COUNT                  NUMBER,
+  DLP_RULE_SCORE                  NUMBER,
+  DLP_RULE_SEVERITY               VARCHAR,
+  DLP_SCAN_FAILED                 VARCHAR,
+  DLP_UNIQUE_COUNT                NUMBER,
+  DNS_PROFILE                     VARCHAR,
+  DOMAIN                          VARCHAR,
+  DOMAIN_IP                       VARCHAR,
+  DOWNLOAD_APP                    VARCHAR,
+  DRIVER                          VARCHAR,
+  DSTHOST                         VARCHAR,
+  DSTIP                           VARCHAR,
+  DSTPORT                         NUMBER,
+  DST_COUNTRY                     VARCHAR,
+  DST_GEOIP_SRC                   NUMBER,
+  DST_LATITUDE                    FLOAT,
+  DST_LOCATION                    VARCHAR,
+  DST_LONGITUDE                   FLOAT,
+  DST_REGION                      VARCHAR,
+  DST_TIMEZONE                    VARCHAR,
+  DST_ZIPCODE                     VARCHAR,
+  DYNAMIC_CLASSIFICATION          VARCHAR,
+  EDR_APP                         VARCHAR,
+  EEML                            VARCHAR,
+  EMAIL_FROM_USER                 VARCHAR,
+  EMAIL_MODIFIED                  NUMBER,
+  EMAIL_SOURCE                    VARCHAR,
+  EMAIL_TITLE                     VARCHAR,
+  EMAIL_USER                      VARCHAR,
+  EMPLOYEETYPE                    VARCHAR,
+  ENCRYPTION_STATUS               VARCHAR,
+  ENCRYPT_FAILURE                 VARCHAR,
+  ENDPOINTS                       VARCHAR,
+  ENDPOINT_COUNT                  NUMBER,
+  END_TIME                        VARCHAR,
+  ENTERPRISE                      VARCHAR,
+  ENTERPRISE_ID                   VARCHAR,
+  EVENT_TYPE                      VARCHAR,
+  EVENT_UUID                      VARCHAR,
+  EVT_SRC_CHNL                    VARCHAR,
+  EXPOSURE                        VARCHAR,
+  EXTERNAL_COLLABORATOR_COUNT     NUMBER,
+  EXTERNAL_EMAIL                  NUMBER,
+  EXT_LABELS                      VARIANT,
+  FASTSCAN_RESULTS                VARCHAR,
+  FILENAME                        VARCHAR,
+  FILEPATH                        VARCHAR,
+  FILE_CATEGORY                   VARCHAR,
+  FILE_CLS_ENCRYPTED              BOOLEAN,
+  FILE_EXPOSURE                   VARCHAR,
+  FILE_ID                         VARCHAR,
+  FILE_LANG                       VARCHAR,
+  FILE_MD5                        VARCHAR,
+  FILE_NAME                       VARCHAR,
+  FILE_OWNER                      VARCHAR,
+  FILE_PASSWORD_PROTECTED         VARCHAR,
+  FILE_PATH                       VARCHAR,
+  FILE_SIZE                       NUMBER,
+  FILE_TYPE                       VARCHAR,
+  FLLG                            VARCHAR,
+  FLPP                            VARCHAR,
+  FORWARD_TO_PROXY_XAU            VARCHAR,
+  FROMLOGS                        VARCHAR,
+  FROM_OBJECT                     VARCHAR,
+  FROM_STORAGE                    VARCHAR,
+  FROM_USER                       VARCHAR,
+  FROM_USER_CATEGORY              VARCHAR,
+  GATEWAY                         VARCHAR,
+  GID                             NUMBER,
+  GROUP_                          VARCHAR,
+  HOME_POP                        VARCHAR,
+  HOSTNAME                        VARCHAR,
+  HTTP_METHOD                     VARCHAR,
+  HTTP_PORT                       NUMBER,
+  HTTP_STATUS                     VARCHAR,
+  HTTP_TRANSACTION_COUNT          NUMBER,
+  IAAS_ASSET_TAGS                 VARIANT,
+  IAAS_REMEDIATED                 VARCHAR,
+  IAAS_REMEDIATED_BY              VARCHAR,
+  IAAS_REMEDIATED_ON              NUMBER,
+  IAAS_REMEDIATION_ACTION         VARCHAR,
+  INCIDENT_ID                     NUMBER,
+  INSTANCE                        VARCHAR,
+  INSTANCE_ID                     VARCHAR,
+  INSTANCE_NAME                   VARCHAR,
+  INTERNAL_COLLABORATOR_COUNT     NUMBER,
+  IP_PROTOCOL                     VARCHAR,
+  JA3                             VARCHAR,
+  JA3S                            VARCHAR,
+  JUSTIFICATION_REASON            VARCHAR,
+  JUSTIFICATION_TYPE              VARCHAR,
+  LAST_APP                        VARCHAR,
+  LAST_COUNTRY                    VARCHAR,
+  LAST_DEVICE                     VARCHAR,
+  LAST_LOCATION                   VARCHAR,
+  LAST_NAME                       VARCHAR,
+  LAST_REGION                     VARCHAR,
+  LAST_TIMESTAMP                  NUMBER,
+  LEGAL_HOLD_PROFILE_NAME         VARCHAR,
+  LH_CUSTODIAN_EMAIL              VARCHAR,
+  LH_CUSTODIAN_NAME               VARCHAR,
+  LH_DEST_APP                     VARCHAR,
+  LH_DEST_INSTANCE                VARCHAR,
+  LH_FILEID                       VARCHAR,
+  LH_FILENAME                     VARCHAR,
+  LH_FILEPATH                     VARCHAR,
+  LH_ORIGINAL_FILENAME            VARCHAR,
+  LH_SHARED                       VARCHAR,
+  LH_SHARED_WITH                  VARCHAR,
+  LH_VERSION                      VARCHAR,
+  LOC                             VARCHAR,
+  LOCAL_MD5                       VARCHAR,
+  LOCAL_SHA1                      VARCHAR,
+  LOCAL_SHA256                    VARCHAR,
+  LOCAL_SOURCE_TIME               VARCHAR,
+  LOCATION                        VARCHAR,
+  LOGINTYPE                       VARCHAR,
+  LOGINURL                        VARCHAR,
+  LOG_FILE_NAME                   VARCHAR,
+  MAIL                            VARCHAR,
+  MALICIOUS                       VARCHAR,
+  MALSITE_ACTIVE                  VARCHAR,
+  MALSITE_CATEGORY                VARIANT,
+  MALSITE_CONFIDENCE              NUMBER,
+  MALSITE_CONSECUTIVE             VARCHAR,
+  MALSITE_COUNTRY                 VARCHAR,
+  MALSITE_FIRST_SEEN              NUMBER,
+  MALSITE_HOSTILITY               VARCHAR,
+  MALSITE_ID                      VARCHAR,
+  MALSITE_IP_HOST                 VARCHAR,
+  MALSITE_LAST_SEEN               NUMBER,
+  MALSITE_LATITUDE                FLOAT,
+  MALSITE_LONGITUDE               FLOAT,
+  MALSITE_REGION                  VARCHAR,
+  MALSITE_REPUTATION              VARCHAR,
+  MALWARE_ID                      VARCHAR,
+  MALWARE_NAME                    VARCHAR,
+  MALWARE_PROFILE                 VARCHAR,
+  MALWARE_SEVERITY                VARCHAR,
+  MALWARE_TYPE                    VARCHAR,
+  MAL_ID                          VARCHAR,
+  MAL_SEV                         VARCHAR,
+  MAL_TYPE                        VARCHAR,
+  MANAGED_APP                     VARCHAR,
+  MANAGEMENTID                    VARCHAR,
+  MANAGER                         VARCHAR,
+  MATCHED_USERNAME                VARCHAR,
+  MCP_ACTIVITY                    VARCHAR,
+  MCP_CLIENT_CAPABILITIES         VARCHAR,
+  MCP_CLIENT_NAME                 VARCHAR,
+  MCP_CLIENT_PROTOCOL_VERSION     VARCHAR,
+  MCP_METHOD                      VARCHAR,
+  MCP_PROMPT_LIST                 VARCHAR,
+  MCP_PROMPT_NAME                 VARCHAR,
+  MCP_PROTOCOL_VERSION            VARCHAR,
+  MCP_RESOURCE_LIST               VARCHAR,
+  MCP_RESOURCE_URL                VARCHAR,
+  MCP_SERVER_CAPABILITIES         VARCHAR,
+  MCP_SERVER_NAME                 VARCHAR,
+  MCP_SERVER_PROTOCOL_VERSION     VARCHAR,
+  MCP_TOOL_LIST                   VARCHAR,
+  MCP_TOOL_NAME                   VARCHAR,
+  MD5                             VARCHAR,
+  MEMBEROF                        VARCHAR,
+  MESSAGE_ID                      VARCHAR,
+  MESSAGE_SIZE                    NUMBER,
+  METADATA                        VARIANT,
+  MIME_TYPE                       VARCHAR,
+  ML_DETECTION                    VARCHAR,
+  MODIFIED                        NUMBER,
+  MODIFIED_DATE                   NUMBER,
+  NETSKOPE_ACTIVITY               VARCHAR,
+  NETSKOPE_POP                    VARCHAR,
+  NETWORK                         VARCHAR,
+  NETWORK_SESSION_ID              VARCHAR,
+  NOTIFY_TEMPLATE                 VARCHAR,
+  NSDEVICEUID                     VARCHAR,
+  NS_ACTIVITY                     VARCHAR,
+  NUMBYTES                        NUMBER,
+  NUM_SESSIONS                    NUMBER,
+  NUM_USERS                       NUMBER,
+  OBJECT                          VARCHAR,
+  OBJECT_COUNT                    NUMBER,
+  OBJECT_ID                       VARCHAR,
+  OBJECT_TYPE                     VARCHAR,
+  ORG                             VARCHAR,
+  ORGANIZATION_UNIT               VARCHAR,
+  ORIGNAL_FILE_PATH               VARCHAR,
+  ORIG_TY                         VARCHAR,
+  OS                              VARCHAR,
+  OS_DETAILS                      VARCHAR,
+  OS_FAMILY                       VARCHAR,
+  OS_USER_NAME                    VARCHAR,
+  OS_VERSION                      VARCHAR,
+  OTHER_CATEGORIES                VARIANT,
+  OUTER_DOC_TYPE                  NUMBER,
+  OWNER                           VARCHAR,
+  OWNER_PDL                       VARCHAR,
+  PAGE                            VARCHAR,
+  PAGE_SITE                       VARCHAR,
+  PARENT_ID                       VARCHAR,
+  PARENT_PROCESS_NAME             VARCHAR,
+  PASSWORD_TYPE                   VARCHAR,
+  PID                             VARCHAR,
+  POLICY                          VARCHAR,
+  POLICY_ACTION                   VARCHAR,
+  POLICY_ACTIONS                  VARIANT,
+  POLICY_ID                       VARCHAR,
+  POLICY_NAME                     VARCHAR,
+  POLICY_NAME_ENFORCED            VARCHAR,
+  POP_ID                          VARCHAR,
+  PROCESS_CERT_SUBJECT            VARCHAR,
+  PROCESS_NAME                    VARCHAR,
+  PROCESS_PATH                    VARCHAR,
+  PROFILE_EMAILS                  VARIANT,
+  PROFILE_HITS                    VARIANT,
+  PROFILE_ID                      VARCHAR,
+  PROTOCOL                        VARCHAR,
+  PROTOCOL_PORT                   VARCHAR,
+  PUBLISHER_CN                    VARCHAR,
+  PUBLISHER_NAME                  VARCHAR,
+  QDOMAIN                         VARCHAR,
+  QTYPE                           VARCHAR,
+  QUARANTINE_ACTION_REASON        VARCHAR,
+  QUARANTINE_FILE_ID              VARCHAR,
+  QUARANTINE_FILE_NAME            VARCHAR,
+  QUARANTINE_PROFILE              VARCHAR,
+  QUARANTINE_PROFILE_ID           VARCHAR,
+  Q_ADMIN                         VARCHAR,
+  Q_APP                           VARCHAR,
+  Q_INSTANCE                      VARCHAR,
+  Q_ORIGINAL_FILENAME             VARCHAR,
+  Q_ORIGINAL_FILEPATH             VARCHAR,
+  Q_ORIGINAL_SHARED               VARCHAR,
+  Q_ORIGINAL_VERSION              VARCHAR,
+  Q_SHARED_WITH                   VARCHAR,
+  RECORD_TYPE                     VARCHAR,
+  REDIRECT_URL                    VARCHAR,
+  REFERER                         VARCHAR,
+  REGION_ID                       VARCHAR,
+  REGION_NAME                     VARCHAR,
+  RELATED_MALWARE                 VARCHAR,
+  REMEDIATION_PROFILE             VARCHAR,
+  REQ                             VARCHAR,
+  REQUEST_ID                      NUMBER,
+  REQUEST_TYPE                    VARCHAR,
+  REQ_CNT                         NUMBER,
+  RESOURCE_CATEGORY               VARCHAR,
+  RESOURCE_GROUP                  VARCHAR,
+  RESP                            VARCHAR,
+  RESP_CNT                        NUMBER,
+  RETRO_SCAN_NAME                 VARCHAR,
+  RISK_LEVEL                      VARCHAR,
+  RISK_LEVEL_ID                   NUMBER,
+  RISK_SCORE                      NUMBER,
+  SAMACCOUNTNAME                  VARCHAR,
+  SAMACCOUNTTYPE                  VARCHAR,
+  SANCTIONED_INSTANCE             VARCHAR,
+  SA_PROFILE_ID                   NUMBER,
+  SA_PROFILE_NAME                 VARCHAR,
+  SA_RULE_COMPLIANCE              VARCHAR,
+  SA_RULE_ID                      VARCHAR,
+  SA_RULE_NAME                    VARCHAR,
+  SA_RULE_SEVERITY                VARCHAR,
+  SCANNER_RESULT                  VARCHAR,
+  SCAN_TIME                       NUMBER,
+  SCAN_TYPE                       VARCHAR,
+  SCOPES                          VARIANT,
+  SCORE                           VARCHAR,
+  SENDER                          VARCHAR,
+  SERIAL                          VARCHAR,
+  SERVERITY                       VARCHAR,
+  SERVER_BYTES                    NUMBER,
+  SERVER_PACKETS                  NUMBER,
+  SESSIONID                       VARCHAR,
+  SESSION_DURATION                NUMBER,
+  SESSION_NUMBER_UNIQUE           NUMBER,
+  SEVERITY                        VARCHAR,
+  SEVERITY_ID                     NUMBER,
+  SEVERITY_LEVEL                  VARCHAR,
+  SEVERITY_LEVEL_ID               NUMBER,
+  SFWDER                          VARCHAR,
+  SHA1                            VARCHAR,
+  SHA256                          VARCHAR,
+  SHAREDTYPE                      VARCHAR,
+  SHARED_CREDENTIAL_USER          VARCHAR,
+  SHARED_DOMAINS                  VARCHAR,
+  SHARED_TYPE                     VARCHAR,
+  SHARED_WITH                     VARCHAR,
+  SIGNATURE                       VARCHAR,
+  SIGNATURE_ID                    NUMBER,
+  SITE                            VARCHAR,
+  SMTP_CLIENT_DOMAIN              VARCHAR,
+  SMTP_STATUS                     VARCHAR,
+  SMTP_TO                         VARIANT,
+  SPET                            NUMBER,
+  SPST                            NUMBER,
+  SRCIP                           VARCHAR,
+  SRCPORT                         NUMBER,
+  SRC_COUNTRY                     VARCHAR,
+  SRC_GEOIP_SRC                   NUMBER,
+  SRC_LATITUDE                    FLOAT,
+  SRC_LOCATION                    VARCHAR,
+  SRC_LONGITUDE                   FLOAT,
+  SRC_NETWORK                     VARCHAR,
+  SRC_REGION                      VARCHAR,
+  SRC_TIME                        VARCHAR,
+  SRC_TIMEZONE                    VARCHAR,
+  SRC_ZIPCODE                     VARCHAR,
+  START_TIME                      VARCHAR,
+  SUBJECT                         VARCHAR,
+  SUB_TYPE                        VARCHAR,
+  SUPPRESSION_COUNT               VARCHAR,
+  SUPPRESSION_END_TIME            NUMBER,
+  SUPPRESSION_KEY                 VARCHAR,
+  SUPPRESSION_START_TIME          NUMBER,
+  SURHN                           VARCHAR,
+  TAGS                            VARCHAR,
+  TELEMETRY_APP                   VARCHAR,
+  THR                             VARCHAR,
+  THREAT_MATCH_FIELD              VARCHAR,
+  THREAT_MATCH_VALUE              VARCHAR,
+  THREAT_SOURCE_ID                NUMBER,
+  THREAT_TYPE                     VARCHAR,
+  THRESHOLD                       NUMBER,
+  THRESHOLD_TIME                  NUMBER,
+  TIMESTAMP                       NUMBER,
+  TITLE                           VARCHAR,        -- Title
+  TOTAL_COLLABORATOR_COUNT        NUMBER,
+  TOTAL_PACKETS                   NUMBER,
+  TO_OBJECT                       VARCHAR,
+  TO_STORAGE                      VARCHAR,
+  TO_USER                         VARCHAR,
+  TO_USER_CATEGORY                VARCHAR,
+  TRAFFIC_TYPE                    VARCHAR,
+  TRANSACTION_ID                  NUMBER,
+  TRUE_FILETYPE                   VARCHAR,
+  TRUE_OBJ_CATEGORY               VARCHAR,
+  TRUE_OBJ_TYPE                   VARCHAR,
+  TRUE_TYPE_ID                    NUMBER,
+  TRUST_COMPUTER_CHECKED          VARCHAR,
+  TSS_FAIL_REASON                 VARCHAR,
+  TSS_LICENSE                     VARCHAR,
+  TSS_MODE                        VARCHAR,
+  TSS_SCAN                        VARCHAR,
+  TSS_SCAN_FAILED                 VARCHAR,
+  TUNNEL_ID                       VARCHAR,
+  TUNNEL_TYPE                     VARCHAR,
+  TUNNEL_UP_TIME                  NUMBER,
+  TUR                             VARCHAR,
+  TWO_FACTOR_AUTH                 VARCHAR,
+  TYPE                            VARCHAR,
+  UBA_AP1                         VARCHAR,
+  UBA_AP2                         VARCHAR,
+  UBA_INST1                       VARCHAR,
+  UBA_INST2                       VARCHAR,
+  UNIVERSAL_CONNECTOR             VARCHAR,
+  URL                             VARCHAR,
+  UR_NORMALIZED                   VARCHAR,
+  USB_DEVICE_ID                   VARCHAR,
+  USB_DEVICE_NAME                 VARCHAR,
+  USB_DEVICE_SN                   VARCHAR,
+  USB_DEVICE_TYPE                 VARCHAR,
+  USB_IS_ENCRYPTED                BOOLEAN,
+  USB_PRODUCT_ID                  VARCHAR,
+  USB_VENDOR_ID                   VARCHAR,
+  USER                            VARCHAR,
+  USERAGENT                       VARCHAR,
+  USERCOUNTRY                     VARCHAR,
+  USERGROUP                       VARCHAR,
+  USERIP                          VARCHAR,
+  USERKEY                         VARCHAR,
+  USERPRINCIPALNAME               VARCHAR,
+  USER_CATEGORY                   VARCHAR,
+  USER_CONFIDENCE_INDEX           NUMBER,
+  USER_CONFIDENCE_LEVEL           VARCHAR,
+  USER_GENERATED                  VARCHAR,
+  USER_ID                         VARCHAR,
+  USER_NAME                       VARCHAR,
+  USER_ROLE                       VARCHAR,
+  USER_SPACE_ID                   VARCHAR,
+  USER_SPACE_NAME                 VARCHAR,
+  USER_TMP                        VARCHAR,
+  USR_DISPLAY_NAME                VARCHAR,
+  USR_STATUS                      VARCHAR,
+  USR_TITLE                       VARCHAR,
+  USR_UDF_BUSINESSSEGMENTLEVEL1   VARCHAR,
+  USR_UDF_BUSINESSSEGMENTLEVEL2   VARCHAR,
+  USR_UDF_BUSINESSSEGMENTLEVEL3   VARCHAR,
+  USR_UDF_BUSINESSSEGMENTLEVEL4   VARCHAR,
+  USR_UDF_COMPANYNAME             VARCHAR,
+  USR_UDF_EMPLOYEEID              VARCHAR,
+  USR_UDF_PRIMARYDOMAIN           VARCHAR,
+  USR_UDF_SUPERVISORID            VARCHAR,
+  USR_UDF_SUPERVISORNAME          VARCHAR,
+  VIOLATING_USER                  VARCHAR,
+  VIOLATING_USER_TYPE             VARCHAR,
+  WATCHLIST_NAME                  VARCHAR,
+  WEB_UNIVERSAL_CONNECTOR         VARCHAR,
+  WEB_URL                         VARCHAR,
+  WINDOWID                        NUMBER,
+  WORKSPACE                       VARCHAR,
+  WORKSPACE_ID                    VARCHAR,
+  ZIP_PASSWORD                    VARCHAR,
+  _ID                             VARCHAR,
+  EXTRA_FIELDS                    VARIANT
+);
+Events
+CREATE TABLE IF NOT EXISTS <db>.<schema>.<table> (
+  EVENT_TIME                              TIMESTAMP_NTZ,
+  INGESTION_TIME                          TIMESTAMP_NTZ,
+  DATA_TYPE                               VARCHAR,
+  SUBTYPE                                 VARCHAR,
+  SOURCE_CONFIGURATION_NAME               VARCHAR,
+  ACCESS_METHOD                           VARCHAR,
+  ACTING_USER                             VARCHAR,
+  ACTION                                  VARCHAR,
+  ACTIVITY                                VARCHAR,
+  ACTIVITY_TYPE                           VARCHAR,
+  ALERT                                   VARCHAR,
+  ALERT_DETECTION_STAGE                   VARCHAR,
+  ALERT_GENERATED                         BOOLEAN,
+  ALERT_NAME                              VARCHAR,
+  ALERT_TYPE                              VARCHAR,
+  APP                                     VARCHAR,
+  APPACT                                  VARCHAR,
+  APPCATEGORY                             VARCHAR,
+  APPSUITE                                VARCHAR,
+  APP_ACTIVITY                            VARCHAR,
+  APP_CCI_APPHOSTING_PROVIDER             VARCHAR,
+  APP_GDPR_LEVEL                          VARCHAR,
+  APP_SESSION_ID                          NUMBER,
+  ASN                                     VARCHAR,
+  ASSIGNEE                                VARCHAR,
+  AS_                                     VARCHAR,        -- as
+  AUDIT_CATEGORY                          VARCHAR,
+  AUDIT_LOG_EVENT                         VARCHAR,
+  AUDIT_TYPE                              VARCHAR,
+  BCC                                     VARCHAR,
+  BOOLEAN_METRIC_VALUE                    VARCHAR,
+  BROWSER                                 VARCHAR,
+  BROWSER_SESSION_ID                      NUMBER,
+  BROWSER_VERSION                         VARCHAR,
+  BYPASS_REASON                           VARCHAR,
+  BYPASS_TRAFFIC                          VARCHAR,
+  CATEGORY                                VARCHAR,
+  CC                                      VARCHAR,
+  CCI                                     NUMBER,
+  CCL                                     VARCHAR,
+  CHANNEL                                 VARCHAR,
+  CHANNEL_ID                              VARCHAR,
+  CITY                                    VARCHAR,
+  CLASSIFICATION                          VARCHAR,
+  CLIENT_BYTES                            NUMBER,
+  CLIENT_INSTALL_TIME                     NUMBER,
+  CLIENT_PACKETS                          NUMBER,
+  CLIENT_VERSION                          VARCHAR,
+  CLOUD_PROVIDER                          VARCHAR,
+  COMPUTER_NAME                           VARCHAR,
+  CONNECTION_ID                           NUMBER,
+  CONNECTION_TYPE                         VARCHAR,
+  CONN_DURATION                           NUMBER,
+  CONN_ENDTIME                            NUMBER,
+  CONN_STARTTIME                          NUMBER,
+  CONONICALNAME                           VARCHAR,
+  CONTINENT                               VARCHAR,
+  COUNT                                   NUMBER,
+  COUNTRY                                 VARCHAR,
+  COUNT_METRIC_VALUE                      NUMBER,
+  CREATED                                 NUMBER,
+  CUSTOM_ATTR                             VARIANT,
+  CUSTOM_CONNECTOR                        VARCHAR,
+  DATA_CENTER                             VARCHAR,
+  DESTINATION_APP                         VARCHAR,
+  DESTINATION_FILE_DIRECTORY              VARCHAR,
+  DESTINATION_FILE_NAME                   VARCHAR,
+  DESTINATION_FILE_PATH                   VARCHAR,
+  DESTINATION_INSTANCE_ID                 VARCHAR,
+  DESTINATION_SITE                        VARCHAR,
+  DETAILS                                 VARIANT,
+  DEVICE                                  VARCHAR,
+  DEVICE_CLASSIFICATION                   VARCHAR,
+  DEVICE_HASH                             VARCHAR,
+  DEVICE_ID                               VARCHAR,
+  DEVICE_NAME                             VARCHAR,
+  DEVICE_SN                               VARCHAR,
+  DEVICE_TYPE                             VARCHAR,
+  DINSID                                  VARCHAR,
+  DLP_FAIL_REASON                         VARCHAR,
+  DLP_FILE                                VARCHAR,
+  DLP_INCIDENT_ID                         NUMBER,
+  DLP_IS_UNIQUE_COUNT                     VARCHAR,
+  DLP_MAIL_PARENT_ID                      VARCHAR,
+  DLP_MATCH_INFO                          VARIANT,
+  DLP_PARENT_ID                           NUMBER,
+  DLP_PROFILE                             VARCHAR,
+  DLP_PROFILE_NAME                        VARCHAR,
+  DLP_RULE                                VARCHAR,
+  DLP_RULE_COUNT                          NUMBER,
+  DLP_RULE_SEVERITY                       VARCHAR,
+  DLP_SCAN_FAILED                         VARCHAR,
+  DLP_UNIQUE_COUNT                        NUMBER,
+  DNS_PROFILE                             VARCHAR,
+  DOM                                     VARCHAR,
+  DOMAIN                                  VARCHAR,
+  DOMAIN_IP                               VARCHAR,
+  DRIVER                                  VARCHAR,
+  DSTHOST                                 VARCHAR,
+  DSTIP                                   VARCHAR,
+  DSTPORT                                 NUMBER,
+  DST_COUNTRY                             VARCHAR,
+  DST_GEOIP_SRC                           NUMBER,
+  DST_LATITUDE                            FLOAT,
+  DST_LOCATION                            VARCHAR,
+  DST_LONGITUDE                           FLOAT,
+  DST_REGION                              VARCHAR,
+  DST_TIMEZONE                            VARCHAR,
+  DST_ZIPCODE                             VARCHAR,
+  DYNAMIC_CLASSIFICATION                  VARCHAR,
+  EEML                                    VARCHAR,
+  EMAIL_FROM_USER                         VARCHAR,
+  EMAIL_MODIFIED                          NUMBER,
+  EMAIL_USER                              VARCHAR,
+  ENCRYPTION_STATUS                       VARCHAR,
+  ENDPOINT_POLICY_MATCH                   VARIANT,
+  ENDPOINT_POLICY_MATCH_DESIRED_ACTION    VARIANT,
+  END_TIME                                VARCHAR,
+  ENRICHED                                BOOLEAN,
+  EVENT_RECOVERED                         BOOLEAN,
+  EXECUTABLE_HASH                         VARCHAR,
+  EXECUTABLE_SIGNED                       BOOLEAN,
+  EXPOSURE                                VARCHAR,
+  EXT_LABELS                              VARIANT,
+  FILEPATH                                VARCHAR,
+  FILE_LANG                               VARCHAR,
+  FILE_MD5                                VARCHAR,
+  FILE_ORIGIN                             VARCHAR,
+  FILE_OWNER                              VARCHAR,
+  FILE_PATH                               VARCHAR,
+  FILE_SIZE                               NUMBER,
+  FILE_TYPE                               VARCHAR,
+  FLLG                                    VARCHAR,
+  FLOW_STATUS                             VARCHAR,
+  FLPP                                    VARCHAR,
+  FORWARD_TO_PROXY_PROFILE                VARCHAR,
+  FORWARD_TO_PROXY_XAU                    VARCHAR,
+  FROMLOGS                                VARCHAR,
+  FROM_USER                               VARCHAR,
+  FROM_USER_CATEGORY                      VARCHAR,
+  GUID                                    VARCHAR,
+  HEART_BEAT                              BOOLEAN,
+  HOSTNAME                                VARCHAR,
+  HOST_INFO_CLIENT_VERSION                VARCHAR,
+  HOST_INFO_DEVICE_MAKE                   VARCHAR,
+  HOST_INFO_DEVICE_MODEL                  VARCHAR,
+  HOST_INFO_HOSTNAME                      VARCHAR,
+  HOST_INFO_LAST_UPDATE_TIMESTAMP         NUMBER,
+  HOST_INFO_MAC_ADDRESSES                 VARCHAR,
+  HOST_INFO_MANAGEMENTID                  VARCHAR,
+  HOST_INFO_NSDEVICEUID                   VARCHAR,
+  HOST_INFO_OLD_NSDEVICEUID               VARCHAR,
+  HOST_INFO_OS                            NUMBER,
+  HOST_INFO_OS_VERSION                    VARCHAR,
+  HOST_INFO_SERIAL_NUMBER                 VARCHAR,
+  HOST_INFO_STEERING_CONFIG               VARCHAR,
+  HTTP_TRANSACTION_COUNT                  NUMBER,
+  INCIDENT_ID                             NUMBER,
+  INLINE_DLP_MATCH_INFO                   VARIANT,
+  INSTANCE                                VARCHAR,
+  INSTANCE_ID                             VARCHAR,
+  INTERNAL_COLLABORATOR_COUNT             NUMBER,
+  IP_PROTOCOL                             VARCHAR,
+  ISP                                     VARCHAR,
+  JA3                                     VARCHAR,
+  JA3S                                    VARCHAR,
+  JUSTIFICATION                           VARCHAR,
+  JUSTIFICATION_REASON                    VARCHAR,
+  JUSTIFICATION_TYPE                      VARCHAR,
+  LAST_CONNECTED_FROM_PRIVATE_IP          VARCHAR,
+  LAST_CONNECTED_FROM_PUBLIC_IP           VARCHAR,
+  LAST_EVENT_TIMESTAMP                    NUMBER,
+  LAST_SEEN_DEVICE_EVENT_ACTOR            NUMBER,
+  LAST_SEEN_DEVICE_EVENT_EVENT            NUMBER,
+  LAST_SEEN_DEVICE_EVENT_EVENT_DETAILS    VARCHAR,
+  LAST_SEEN_DEVICE_EVENT_NPA_STATUS       NUMBER,
+  LAST_SEEN_DEVICE_EVENT_SERVICE_NAME     VARCHAR,
+  LAST_SEEN_DEVICE_EVENT_STATUS           NUMBER,
+  LAST_SEEN_DEVICE_EVENT_STATUS_V2        NUMBER,
+  LAST_SEEN_DEVICE_EVENT_TIMESTAMP        NUMBER,
+  LATEST_INCIDENT_ID                      NUMBER,
+  LATITUDE                                FLOAT,
+  LEGAL_HOLD_PROFILE_NAME                 VARCHAR,
+  LH_CUSTODIAN_EMAIL                      VARCHAR,
+  LH_CUSTODIAN_NAME                       VARCHAR,
+  LH_DEST_APP                             VARCHAR,
+  LH_DEST_INSTANCE                        VARCHAR,
+  LH_FILEID                               VARCHAR,
+  LH_FILENAME                             VARCHAR,
+  LH_FILEPATH                             VARCHAR,
+  LH_ORIGINAL_FILENAME                    VARCHAR,
+  LH_SHARED                               VARCHAR,
+  LH_SHARED_WITH                          VARCHAR,
+  LH_VERSION                              VARCHAR,
+  LOCAL_SOURCE_TIME                       VARCHAR,
+  LOCATION                                VARCHAR,
+  LOGINTYPE                               VARCHAR,
+  LOGINURL                                VARCHAR,
+  LOG_FILE_NAME                           VARCHAR,
+  LONGITUDE                               FLOAT,
+  MAL_SEV                                 VARCHAR,
+  MANAGED_APP                             VARCHAR,
+  MANAGEMENTID                            VARCHAR,
+  MCP_ACTIVITY                            VARCHAR,
+  MCP_CLIENT_CAPABILITIES                 VARCHAR,
+  MCP_CLIENT_NAME                         VARCHAR,
+  MCP_CLIENT_PROTOCOL_VERSION             VARCHAR,
+  MCP_METHOD                              VARCHAR,
+  MCP_PROMPT_LIST                         VARCHAR,
+  MCP_PROMPT_NAME                         VARCHAR,
+  MCP_PROTOCOL_VERSION                    VARCHAR,
+  MCP_RESOURCE_LIST                       VARCHAR,
+  MCP_RESOURCE_URL                        VARCHAR,
+  MCP_SERVER_CAPABILITIES                 VARCHAR,
+  MCP_SERVER_NAME                         VARCHAR,
+  MCP_SERVER_PROTOCOL_VERSION             VARCHAR,
+  MCP_TOOL_LIST                           VARCHAR,
+  MCP_TOOL_NAME                           VARCHAR,
+  MD5                                     VARCHAR,
+  METRIC_NAME                             VARCHAR,
+  METRIC_TRUE_COUNT                       VARCHAR,
+  METRIC_TYPE                             VARCHAR,
+  METRIC_VALUE                            VARCHAR,
+  MIME_TYPE                               VARCHAR,
+  MODIFIED                                NUMBER,
+  NETSKOPE_ACTIVITY                       VARCHAR,
+  NETSKOPE_POP                            VARCHAR,
+  NETWORK                                 VARCHAR,
+  NETWORK_SESSION_ID                      VARCHAR,
+  NOTIFY_TEMPLATE                         VARCHAR,
+  NSDEVICEUID                             VARCHAR,
+  NS_ACTIVITY                             VARCHAR,
+  NUMBYTES                                NUMBER,
+  NUM_SESSIONS                            NUMBER,
+  NUM_USERS                               NUMBER,
+  OAUTH                                   VARCHAR,
+  OBJECT                                  VARCHAR,
+  OBJECT_ID                               VARCHAR,
+  OBJECT_TYPE                             VARCHAR,
+  ORG                                     VARCHAR,
+  ORGANIZATION_                           VARCHAR,
+  ORGANIZATION_UNIT                       VARCHAR,
+  ORIGINAL_FILE_SNAPSHOT_ID               VARCHAR,
+  ORIGNAL_FILE_PATH                       VARCHAR,
+  OS                                      VARCHAR,
+  OS_DETAILS                              VARCHAR,
+  OS_FAMILY                               VARCHAR,
+  OS_USER_NAME                            VARCHAR,
+  OS_VERSION                              VARCHAR,
+  OTHER_CATEGORIES                        VARIANT,
+  OWNER                                   VARCHAR,
+  OWNER_PDL                               VARCHAR,
+  PACKAGE_VERSION                         VARCHAR,
+  PAGE                                    VARCHAR,
+  PAGE_SITE                               VARCHAR,
+  PARENT_ID                               VARCHAR,
+  PARENT_PROCESS_NAME                     VARCHAR,
+  PID                                     VARCHAR,
+  POLICY                                  VARCHAR,
+  POLICY_ACTION                           VARCHAR,
+  POLICY_ACTION_ENFORCED                  VARCHAR,
+  POLICY_ID                               VARCHAR,
+  POLICY_NAME                             VARCHAR,
+  POLICY_NAME_ENFORCED                    VARCHAR,
+  POLICY_VERSION                          VARCHAR,
+  POP_NAME                                VARCHAR,
+  POP_PINNED                              VARCHAR,
+  PORT                                    VARCHAR,
+  POSTAL_CODE                             VARCHAR,
+  PRINTER_IDENTIFIER                      VARCHAR,
+  PROCESS_CERT_SUBJECT                    VARCHAR,
+  PROCESS_NAME                            VARCHAR,
+  PROCESS_PATH                            VARCHAR,
+  PRODUCT_ID                              VARCHAR,
+  PROTOCOL                                VARCHAR,
+  PROTOCOL_PORT                           VARCHAR,
+  PUBLISHER_CN                            VARCHAR,
+  PUBLISHER_IP                            VARCHAR,
+  PUBLISHER_NAME                          VARCHAR,
+  PUBLISHER_POP                           VARCHAR,
+  PUBLISHER_PORT                          NUMBER,
+  QDOMAIN                                 VARCHAR,
+  QTYPE                                   VARCHAR,
+  Q_SHARED_WITH                           VARCHAR,
+  RBI_TEMPLATE_ID                         VARCHAR,
+  RBI_TEMPLATE_NAME                       VARCHAR,
+  RECORD_TYPE                             VARCHAR,
+  REFERER                                 VARCHAR,
+  REGION                                  VARCHAR,
+  REQ                                     VARCHAR,
+  REQUEST_ID                              NUMBER,
+  REQ_CNT                                 NUMBER,
+  RESP                                    VARCHAR,
+  RESPONSE_TIME                           NUMBER,
+  RESP_CNT                                NUMBER,
+  RESP_CONTENT_LEN                        NUMBER,
+  RESP_CONTENT_TYPE                       VARCHAR,
+  RETRO_SCAN_NAME                         VARCHAR,
+  RISK_SCORE                              NUMBER,
+  SAMACCOUNTNAME                          VARCHAR,
+  SAMPLED_TEXT_SIZE                       NUMBER,
+  SANCTIONED_INSTANCE                     VARCHAR,
+  SA_RULE_COMPLIANCE                      VARCHAR,
+  SCAN_TYPE                               VARCHAR,
+  SERIAL                                  VARCHAR,
+  SERVERITY                               VARCHAR,
+  SERVER_BYTES                            NUMBER,
+  SERVER_PACKETS                          NUMBER,
+  SESSIONID                               VARCHAR,
+  SESSION_DURATION                        NUMBER,
+  SESSION_NUMBER_UNIQUE                   NUMBER,
+  SEVERITY                                VARCHAR,
+  SEVERITY_LEVEL                          VARCHAR,
+  SHA256                                  VARCHAR,
+  SHARED_WITH                             VARCHAR,
+  SITE                                    VARCHAR,
+  SMTP_BLOCK_REASON                       VARCHAR,
+  SMTP_CLIENT_DOMAIN                      VARCHAR,
+  SMTP_TO                                 VARIANT,
+  SOURCE_FILE_DIRECTORY                   VARCHAR,
+  SOURCE_FILE_NAME                        VARCHAR,
+  SOURCE_FILE_PATH                        VARCHAR,
+  SPET                                    NUMBER,
+  SPST                                    NUMBER,
+  SRCIP                                   VARCHAR,
+  SRCPORT                                 NUMBER,
+  SRC_COUNTRY                             VARCHAR,
+  SRC_GEOIP_SRC                           NUMBER,
+  SRC_LATITUDE                            FLOAT,
+  SRC_LOCATION                            VARCHAR,
+  SRC_LONGITUDE                           FLOAT,
+  SRC_NETWORK                             VARCHAR,
+  SRC_REGION                              VARCHAR,
+  SRC_TIME                                VARCHAR,
+  SRC_TIMEZONE                            VARCHAR,
+  SRC_ZIPCODE                             VARCHAR,
+  SSL_DECRYPT_POLICY                      VARCHAR,
+  START_TIME                              VARCHAR,
+  STATUS                                  VARCHAR,
+  SUB_TYPE                                VARCHAR,
+  SUPPORTING_DATA                         VARIANT,
+  SUPPRESSION_END_TIME                    NUMBER,
+  SUPPRESSION_KEY                         VARCHAR,
+  SUPPRESSION_START_TIME                  NUMBER,
+  TAGS                                    VARCHAR,
+  TELEMETRY_APP                           VARCHAR,
+  THR                                     VARCHAR,
+  THREAT_TYPE                             VARCHAR,
+  TIMESTAMP                               NUMBER,
+  TITLE                                   VARCHAR,
+  TOTAL_COLLABORATOR_COUNT                NUMBER,
+  TOTAL_PACKETS                           NUMBER,
+  TO_USER                                 VARCHAR,
+  TRAFFIC_TYPE                            VARCHAR,
+  TRANSACTION_ID                          NUMBER,
+  TRUE_OBJ_CATEGORY                       VARCHAR,
+  TRUE_OBJ_TYPE                           VARCHAR,
+  TSS_FAIL_REASON                         VARCHAR,
+  TSS_MODE                                VARCHAR,
+  TSS_SCAN_FAILED                         VARCHAR,
+  TUNNEL_ID                               VARCHAR,
+  TUNNEL_TYPE                             VARCHAR,
+  TUNNEL_UP_TIME                          NUMBER,
+  TUR                                     VARCHAR,
+  TYPE                                    VARCHAR,
+  UNC_PATH                                VARCHAR,
+  UNIVERSAL_CONNECTOR                     VARCHAR,
+  URL                                     VARCHAR,
+  UR_NORMALIZED                           VARCHAR,
+  USB_DEVICE                              VARCHAR,
+  USER                                    VARCHAR,
+  USERAGENT                               VARCHAR,
+  USERIP                                  VARCHAR,
+  USERKEY                                 VARCHAR,
+  USERPRINCIPALNAME                       VARCHAR,
+  USER_CATEGORY                           VARCHAR,
+  USER_CONFIDENCE_INDEX                   NUMBER,
+  USER_CONFIDENCE_LEVEL                   VARCHAR,
+  USER_GENERATED                          VARCHAR,
+  USER_ID                                 VARCHAR,
+  USER_INFO_DEVICE_CLASSIFICATION_STATUS  NUMBER,
+  USER_INFO_ORGKEY                        VARCHAR,
+  USER_INFO_USERKEY                       VARCHAR,
+  USER_INFO_USERNAME                      VARCHAR,
+  VENDOR_ID                               VARCHAR,
+  VIOLATION                               VARCHAR,
+  WEB_UNIVERSAL_CONNECTOR                 VARCHAR,
+  WORKSPACE                               VARCHAR,
+  WORKSPACE_ID                            VARCHAR,
+  ZIPCODE                                 VARCHAR,
+  ZIP_FILE_ID                             VARCHAR,
+  ZIP_PASSWORD                            VARCHAR,
+  _ID                                     VARCHAR,
+  EXTRA_FIELDS                            VARIANT
+);
+WebTX
+CREATE TABLE IF NOT EXISTS <db>.<schema>.<table>(
+  EVENT_TIME                         TIMESTAMP_NTZ,
+  INGESTION_TIME                     TIMESTAMP_NTZ,
+  DATA_TYPE                          VARCHAR,
+  SUBTYPE                            VARCHAR,
+  SOURCE_CONFIGURATION_NAME          VARCHAR,
+  BYTES                              NUMBER,
+  CS_BYTES                           NUMBER,
+  CS_CONTENT_TYPE                    VARCHAR,
+  CS_HOST                            VARCHAR,
+  CS_METHOD                          VARCHAR,
+  CS_REFERER                         VARCHAR,
+  CS_URI_PORT                        NUMBER,
+  CS_URI_QUERY                       VARCHAR,
+  CS_URI_SCHEME                      VARCHAR,
+  CS_USER_AGENT                      VARCHAR,
+  RS_BYTES                           NUMBER,
+  RS_STATUS                          NUMBER,
+  SC_BYTES                           NUMBER,
+  SC_CONTENT_TYPE                    VARCHAR,
+  SC_STATUS                          NUMBER,
+  SR_BYTES                           NUMBER,
+  TIME_TAKEN                         NUMBER,
+  X_ACTION                           VARCHAR,
+  X_ACTION_REASON                    VARCHAR,
+  X_CATEGORY                         VARCHAR,
+  X_CLIENT_SSL_ERR                   VARCHAR,
+  X_CS_ACCESS_METHOD                 VARCHAR,
+  X_CS_ACCESS_PROXY                  VARIANT,
+  X_CS_APP                           VARCHAR,
+  X_CS_APP_ACTIVITY                  VARCHAR,
+  X_CS_APP_CATEGORY                  VARCHAR,
+  X_CS_APP_CCI                       NUMBER,
+  X_CS_APP_CCL                       VARCHAR,
+  X_CS_APP_FROM_USER                 VARCHAR,
+  X_CS_APP_INSTANCE_ID               VARCHAR,
+  X_CS_APP_INSTANCE_NAME             VARCHAR,
+  X_CS_APP_INSTANCE_TAGS             VARIANT,
+  X_CS_APP_OBJECT_ID                 VARCHAR,
+  X_CS_APP_OBJECT_NAME               VARCHAR,
+  X_CS_APP_OBJECT_TYPE               VARCHAR,
+  X_CS_APP_SUITE                     VARCHAR,
+  X_CS_APP_TAGS                      VARCHAR,
+  X_CS_APP_TO_USER                   VARCHAR,
+  X_CS_CONNECT_HOST                  VARCHAR,
+  X_CS_CONNECT_PORT                  NUMBER,
+  X_CS_CONNECT_USER_AGENT            VARCHAR,
+  X_CS_CONNECT_XAU                   VARCHAR,
+  X_CS_DST_IP                        VARCHAR,
+  X_CS_DST_PORT                      NUMBER,
+  X_CS_HTTP_VERSION                  VARCHAR,
+  X_CS_IP_CONNECT_XFF                VARCHAR,
+  X_CS_IP_XFF                        VARCHAR,
+  X_CS_NSCLIENT_TUNNEL_TYPE          VARCHAR,
+  X_CS_PAGE_ID                       NUMBER,
+  X_CS_PARENT_PROCESS                VARCHAR,
+  X_CS_PID                           NUMBER,
+  X_CS_PPID                          NUMBER,
+  X_CS_PROCESS                       VARCHAR,
+  X_CS_SESSION_ID                    NUMBER,
+  X_CS_SITE                          VARCHAR,
+  X_CS_SNI                           VARCHAR,
+  X_CS_SRC_IP                        VARCHAR,
+  X_CS_SRC_IP_EGRESS                 VARCHAR,
+  X_CS_SRC_PORT                      NUMBER,
+  X_CS_SSL_CIPHER                    VARCHAR,
+  X_CS_SSL_ENGINE_ACTION             VARCHAR,
+  X_CS_SSL_ENGINE_ACTION_REASON      VARCHAR,
+  X_CS_SSL_FRONTING_ERROR            VARCHAR,
+  X_CS_SSL_HANDSHAKE_ERROR           VARCHAR,
+  X_CS_SSL_JA3                       VARCHAR,
+  X_CS_SSL_MALFORMED_SSL             VARCHAR,
+  X_CS_SSL_VERSION                   VARCHAR,
+  X_CS_TIMESTAMP                     NUMBER,
+  X_CS_TRAFFIC_TYPE                  VARCHAR,
+  X_CS_TUNNEL_ID                     VARCHAR,
+  X_CS_URI_PATH                      VARCHAR,
+  X_CS_URL                           VARCHAR,
+  X_CS_XAU                           VARCHAR,
+  X_C_AUTHN_SOURCE                   VARCHAR,
+  X_C_AUTHN_SURROGATE                VARCHAR,
+  X_C_AUTHN_SURROGATE_STATUS         VARCHAR,
+  X_C_AUTHN_USER                     VARCHAR,
+  X_C_AUTHZ_GROUPS                   VARIANT,
+  X_C_AUTHZ_OU                       VARCHAR,
+  X_C_AUTHZ_SOURCE                   VARCHAR,
+  X_C_BROWSER                        VARCHAR,
+  X_C_BROWSER_VERSION                NUMBER,
+  X_C_COUNTRY                        VARCHAR,
+  X_C_DEVICE                         VARCHAR,
+  X_C_DEVICE_CLASSIFICATION          VARCHAR,
+  X_C_DEVICE_UID                     VARCHAR,
+  X_C_HOSTNAME                       VARCHAR,
+  X_C_LATITUDE                       FLOAT,
+  X_C_LOCAL_TIMESTAMP                NUMBER,
+  X_C_LOCATION                       VARCHAR,
+  X_C_LONGITUDE                      FLOAT,
+  X_C_NSCLIENT_CLIENT_PROFILE        VARCHAR,
+  X_C_NSCLIENT_STEERING_PROFILE      VARCHAR,
+  X_C_NSCLIENT_VERSION               VARCHAR,
+  X_C_OS                             VARCHAR,
+  X_C_OS_FAMILY                      VARCHAR,
+  X_C_OS_VERSION                     VARCHAR,
+  X_C_REGION                         VARCHAR,
+  X_C_TIMEZONE                       VARCHAR,
+  X_C_USER_CONFIDENCE_INDEX          NUMBER,
+  X_C_ZIPCODE                        NUMBER,
+  X_EIP_POLICY_FOOTPRINT             VARCHAR,
+  X_EIP_POLICY_NAME                  VARCHAR,
+  X_ERROR                            VARCHAR,
+  X_POLICY_ACTION                    VARCHAR,
+  X_POLICY_CATEGORIES                VARIANT,
+  X_POLICY_DST_HOST                  VARCHAR,
+  X_POLICY_DST_HOST_SOURCE           VARCHAR,
+  X_POLICY_DST_IP                    VARCHAR,
+  X_POLICY_JUSTIFICATION_REASON      VARCHAR,
+  X_POLICY_JUSTIFICATION_TYPE        VARCHAR,
+  X_POLICY_NAME                      VARCHAR,
+  X_POLICY_SRC_IP                    VARCHAR,
+  X_REQUEST_ID                       NUMBER,
+  X_RS_FILE_CATEGORY                 VARCHAR,
+  X_RS_FILE_LANGUAGE                 VARCHAR,
+  X_RS_FILE_MD5                      VARCHAR,
+  X_RS_FILE_SHA256                   VARCHAR,
+  X_RS_FILE_SIZE                     NUMBER,
+  X_RS_FILE_TYPE                     VARCHAR,
+  X_R_CERT_END                       NUMBER,
+  X_R_CERT_EXPIRED                   VARCHAR,
+  X_R_CERT_INCOMPLETE_CHAIN          VARCHAR,
+  X_R_CERT_ISSUER_CN                 VARCHAR,
+  X_R_CERT_MISMATCH                  VARCHAR,
+  X_R_CERT_REVOCATION_CHECK          VARCHAR,
+  X_R_CERT_REVOKED                   VARCHAR,
+  X_R_CERT_SELF_SIGNED               VARCHAR,
+  X_R_CERT_START                     NUMBER,
+  X_R_CERT_SUBJECT_CN                VARCHAR,
+  X_R_CERT_UNTRUSTED_ROOT            VARCHAR,
+  X_R_CERT_VALID                     VARCHAR,
+  X_R_COUNTRY                        VARCHAR,
+  X_R_LATITUDE                       FLOAT,
+  X_R_LOCATION                       VARCHAR,
+  X_R_LONGITUDE                      FLOAT,
+  X_R_REGION                         VARCHAR,
+  X_R_ZIPCODE                        VARCHAR,
+  X_SC_NOTIFICATION_NAME             VARCHAR,
+  X_SERVER_SSL_ERR                   VARCHAR,
+  X_SR_DST_IP                        VARCHAR,
+  X_SR_DST_PORT                      NUMBER,
+  X_SR_FORWARD_DEST                  VARCHAR,
+  X_SR_HEADERS_NAME                  VARCHAR,
+  X_SR_HEADERS_VALUE                 VARCHAR,
+  X_SR_SRC_IP                        VARCHAR,
+  X_SR_SRC_PORT                      NUMBER,
+  X_SR_SSL_CIPHER                    VARCHAR,
+  X_SR_SSL_CLIENT_CERTIFICATE_ERROR  VARCHAR,
+  X_SR_SSL_ENGINE_ACTION             VARCHAR,
+  X_SR_SSL_ENGINE_ACTION_REASON      VARCHAR,
+  X_SR_SSL_HANDSHAKE_ERROR           VARCHAR,
+  X_SR_SSL_JA3S                      VARCHAR,
+  X_SR_SSL_MALFORMED_SSL             VARCHAR,
+  X_SR_SSL_VERSION                   VARCHAR,
+  X_SSL_BYPASS                       VARCHAR,
+  X_SSL_BYPASS_REASON                VARCHAR,
+  X_SSL_POLICY_ACTION                VARCHAR,
+  X_SSL_POLICY_CATEGORIES            VARCHAR,
+  X_SSL_POLICY_DST_HOST              VARCHAR,
+  X_SSL_POLICY_DST_HOST_SOURCE       VARCHAR,
+  X_SSL_POLICY_DST_IP                VARCHAR,
+  X_SSL_POLICY_ISSUER                VARCHAR,
+  X_SSL_POLICY_NAME                  VARCHAR,
+  X_SSL_POLICY_SRC_IP                VARCHAR,
+  X_SUPPORT                          VARCHAR,
+  X_S_CUSTOM_SIGNING_CA_ERROR        VARCHAR,
+  X_S_DP_NAME                        VARCHAR,
+  X_TENANT_ID                        NUMBER,
+  X_TP_ENGINE                        VARIANT,
+  X_TP_MALWARE_NAME                  VARIANT,
+  X_TP_RESULT                        VARIANT,
+  X_TP_SEVERITY                      VARIANT,
+  X_TRANSACTION_ID                   NUMBER,
+  X_TYPE                             VARCHAR,
+  EXTRA_FIELDS                       VARIANT
+);
+Grant Permissions for Database, Schema, and Table(s) in Snowflake
+Log in to your Snowflake instance and go to
+Projects > Workspace
+.
+Create a new workspace or use any of the existing workspace, click
+Add New > SQL File
+. Paste thesequeries in the sql file and execute them one by one:
+-- Role, scoped to exactly this database/schema/table(s)
+CREATE ROLE IF NOT EXISTS NETSKOPE_CE_ROLE;
+GRANT USAGE ON DATABASE NETSKOPE_DB TO ROLE NETSKOPE_CE_ROLE;
+GRANT USAGE ON SCHEMA NETSKOPE_DB.PUBLIC TO ROLE NETSKOPE_CE_ROLE;
+GRANT INSERT ON TABLE NETSKOPE_DB.PUBLIC.NETSKOPE_LOGS TO ROLE NETSKOPE_CE_ROLE;
+-- repeat the GRANT INSERT line per table if you're in Per Data Type mode
+GRANT INSERT ON TABLE <db>.<schema>.<table> TO ROLE NETSKOPE_CE_ROLE;
+-- Service user, locked to that role
+CREATE USER IF NOT EXISTS NETSKOPE_CE_USER
+  TYPE = SERVICE
+  DEFAULT_ROLE = NETSKOPE_CE_ROLE;
+GRANT ROLE NETSKOPE_CE_ROLE TO USER NETSKOPE_CE_USER;
+-- Programmatic Access Token, welded to that role — not to ACCOUNTADMIN or any broader role
+ALTER USER NETSKOPE_CE_USER ADD PROGRAMMATIC ACCESS TOKEN NETSKOPE_CE_TOKEN
+  ROLE_RESTRICTION = 'NETSKOPE_CE_ROLE' DAYS_TO_EXPIRY = 365;
+Make sure you update the database name, schema name, and table names and DAYS_TO_EXPIRY as per your requirement.
+Copy the generated token as it will be used for configuring the plugin.
+Get your Snowflake Account URL
+Log in to your Snowflake instance and navigate to Account > View Account Details page.
+Copy the Account/Server URL. Make sure you add
+https://
+at the beginning of the URL.
+Configure the Snowflake Plugin
+In Cloud Exchange, go to
+Settings > Plugin Store
+. Search for and select the
+Snowflake v1.0.0 (CLS)
+plugin.
+Enter a plugin configuration name, and make sure you have the Snowflake Default Mapping file selected.
+Click
+Next
+and enter the Configuration Parameters:
+Account URL:
+Your Snowflake account URL. Make sure you add
+https://
+at the beginning of the URL.
+Programmatic Access Token:
+The Programmatic Access Token for the Snowflake user you created previously.
+Database:
+Snowflake database holding the target table(s). The database name provided must exactly match what is present on Snowflake.
+Schema:
+Snowflake schema within the Database above. The schema name provided must exactly match what is present in Snowflake.
+Ingestion Mode:
+How many tables this configuration writes to. ‘Single Table’ sends Alerts, Events and WebTx to one table. ‘Per Data Type’ sends each selected data type to its own table.
+Per Data Type (One Table per Type)
+Alerts Table Name:
+Table that receives Alerts. Fill this in to ingest Alerts; leave it blank to skip them. Case-sensitive – must exactly match the name Snowflake stores the table under. It must already exist.
+Events Table Name:
+Table that receives Events. Fill this in to ingest Events; leave it blank to skip them. Case-sensitive: must exactly match the name Snowflake stores the table under, and it must already exist.
+WebTx Table Name:
+Table that receives WebTx. Fill this in to ingest WebTx; leave it blank to skip it. Case-sensitive – must exactly match the name Snowflake stores the table under. It must already exist.
+Single Table
+Table Name: Table that receives Alerts, Events and WebTx. It must be a Combined-mode table, one with a RAW_DATA VARIANT column, because a Single Table does not support Separate Fields. The name provided must exactly match what is present on Snowflake.
+Click
+Save
+. Your new plugin appears on the
+Log Shipper > Plugins
+page.
+Configure a Log Shipper Business Rule for Snowflake
+In Log Shipper, go to the
+Business Rules
+.
+By default, there is a business rule that filters all alerts and events. If you want to filter out any specific type of alert or event, click
+Create New Rule
+and configure a new business rule by adding the rule name and filter(s).
+Click
+Save
+.
+Configure Log Shipper Log Delivery for Snowflake
+In Log Shipper, go
+Log Delivery
+and click
+Add Log Delivery Configuration
+.
+Select the Source plugin (CLS Netskope Log Shipper or any other source plugin), Destination plugin (CLS Snowflake), a business rule. For WebTx, select Source plugin (CLS AWS Netskope LogStreaming), and Destination plugin (CLS Snowflake). When finished, click
+Save
+.
+After the Log Delivery is added, the data will start to be pulled from the Netskope tenant or source platform then transformed, and ingested into the Snowflake platform.
+Validate the Snowflake Plugin
+Validate the Pull
+To validate the pulling of Events, Alerts and WebTX, go to
+Logging
+in Cloud Exchange and search for the pulled logs.
+Validate the Push
+To validate the plugin workflow in Cloud Exchange:
+Go to Logging and Search for ingested Events, Alerts, WebTx and Logs with the filter
+“message contains ingested”
+. The ingested logs will be filtered.
+To validate the push on the Snowflake:
+Log in to your Snowflake instance and go to
+Project > Workspace
+.
+Create a new workspace or use an already created workspace to execute the query.
+Here are some of the ingested Alerts, Events and WebTX in a table with separate column:
+Here are some of the ingested Alerts, Events and WebTX in a separate tables with combined format:
+Here are some of the ingested Alerts, Events and WebTX in a combined table:
+Sample ingested alerts, events and WebTX with custom mapping:
+Troubleshooting the Snowflake Plugin
+Authentication or Authorization Failure
+If the user encounters an
+“Authentication or authorization failed. Verify the Account Identifier and the credentials…”
+error, it could be due to one of the following reasons:
+The Programmatic Access Token is wrong, expired, or revoked.
+The Snowflake user is blocked by a network policy that does not allow the CE node’s egress IP.
+The role behind the token lacks INSERT on the target table or USAGE on the database or schema.
+What to do
+:
+Verify that the Programmatic Access Token is valid and has not expired.
+Ensure that the CE node’s egress IP is allowed by any network policy covering the Snowflake user.
+Confirm that the role has USAGE on the database and schema, and INSERT on each target table. Refer to the Configuration on Snowflake instance section.
+Getting error on the plugin card
+If you observe errors on the plugin card but no corresponding error logs, it may be because some data was skipped by the destination plugin due to its configuration parameters. In such cases, the plugin card may display an error even though no explicit error logs are generated.
+What to do
+: If you are using different tables for alerts/events/WebTx and only provide table names for any 1 or 2 tables then make sure the business rule does not filter any additional data.
+Make sure the business rule only filters alerts or events or WebTx as per the table added in the plugin configuration. Example: if the plugin configuration has only alerts table filled then make sure the business rule does not filter any events or do not try to ingest WebTx.
+Table Not Found
+If the user encounters a
+“Table ‘<table>’ was not found, or the role behind these credentials cannot see it.”
+error, it could be due to one of these reasons:
+The table does not exist in the configured database and schema.
+The table name, database name, or schema name is typed with the wrong case.
+The role behind the token does not have visibility of the table.
+What to do
+: To solve the above-mentioned issue, follow the points mentioned below.
+Verify that the table exists in the configured database and schema in Snowflake.
+Ensure the Database, Schema, and Table Name values match exactly the case stored in Snowflake.
+Confirm that the role has sufficient privileges so that SHOW COLUMNS returns the table’s columns. Refer to the Configuration on Snowflake instance section
+Single Table Mode Points at a Separate Fields Table
+If the user encounters a “Table ‘<table>’ has no RAW_DATA column, so it would be used in ‘Separate Fields’ mode, which is not supported with ‘Single Table’ ingestion.” error, it could be due to the following reason:
+The table configured for Single Table ingestion mode does not have a RAW_DATA VARIANT column.
+What to do
+: To solve the above-mentioned issue, follow the points mentioned below.
+Switch the Ingestion Mode to Per Data Type and assign a separate table per data type, or create a new Snowflake table with a RAW_DATA VARIANT column and update the configuration.
+Snowpipe Streaming reports “Ingested successfully” but the target table stays empty — verify with Snowflake’s ERROR_TABLE
+The snowflake_cls plugin ingests rows via Snowflake’s Snowpipe Streaming REST API. This API acknowledges a request synchronously (HTTP 200, status_code: 0) as soon as the payload is parsed — the actual row-by-row validation and commit into the table happens asynchronously, afterward, inside Snowflake. This means:
+CE’s own logs will show “Sent N of N log(s) to table ‘<table>'” and “Ingested N … successfully” — a clean, error-free run from CE’s point of view. But if even one column’s incoming value doesn’t match its declared Snowflake type (e.g. a text value sent into a NUMBER column), Snowflake silently rejects that row after telling the plugin it succeeded. CE has no way to detect this on its own. Net effect: the plugin reports 100% success, but SELECT COUNT(*) on the target table shows far fewer rows than were “ingested” — in the worst case, zero.
+What to do:
+Turn on error logging for the target table (one-time, per table):
+ALTER TABLE NETSKOPE_DB.PUBLIC.NETSKOPE_WEBTX_SC SET ERROR_LOGGING = TRUE;
+This tells Snowflake to retain the asynchronous validation failures from Snowpipe Streaming so they become queryable, instead of disappearing silently.
+Re-run the ingestion (or just let the next scheduled batch run) so failing rows are captured by the now-enabled error log.
+Query the error table to see exactly why and where it’s failing:
+SELECT TIMESTAMP,
+       ERROR_METADATA:error_message::STRING AS WHY,
+       ERROR_METADATA:error_source::STRING  AS COLUMN_AT_FAULT,
+       ERROR_DATA:"$1"::STRING              AS ORIGINAL_ROW
+FROM   ERROR_TABLE(NETSKOPE_DB.PUBLIC.NETSKOPE_WEBTX_SC)
+WHERE  ERROR_METADATA:service::STRING = 'snowpipe_streaming'
+ORDER  BY TIMESTAMP DESC;
+This returns the actual Snowflake-side error message, the offending column, and the raw row content — the exact diagnostic CE’s own logs cannot provide.
+Cross-check every column’s data type against the source schema, to catch the mismatch class of bug before it happens again:
+SELECT COLUMN_NAME, DATA_TYPE, NUMERIC_PRECISION, NUMERIC_SCALE, CHARACTER_MAXIMUM_LENGTH
+FROM   NETSKOPE_DB.INFORMATION_SCHEMA.COLUMNS
+WHERE  TABLE_NAME = 'NETSKOPE_WEBTX_SC'
+ORDER  BY ORDINAL_POSITION;
+Compare this against the Netskope Tenant’s documented/expected schema — any String-typed source field landing on a NUMBER/FLOAT column, or a numeric field whose actual values aren’t plain numbers (version strings, comma-joined lists, “N/A”, etc.), is a prime candidate for this failure mode.
+Fix the source data (preferred) or the column type, re-run, and verify:
+ERROR_TABLE(…) returns no new rows for the latest run, and
+SELECT COUNT(*) on the target table matches the plugin’s logsIngested count exactly.
+Known Behaviors
+The column mode (Combined or Separate Fields) is detected automatically from the target table structure. A table that has a RAW_DATA VARIANT column is used in Combined mode; a table without it is used in Separate Fields mode. This is not a configurable field.
+Single Table ingestion mode supports Combined tables only. Pointing a Single Table configuration at a table without a RAW_DATA column is rejected during validation.
+The plugin never creates or alters tables, databases, schemas, users, roles, or grants in Snowflake. All target objects must exist before saving the configuration.
+If the table columns are altered on the Snowflake instance then the user needs to edit the CLS Snowflake plugin configuration to reflect the changes in the plugin configuration.
+In this Topic
+Snowflake Plugin for Log Shipper
+
+---
 ## Log Streaming
 **URL:** https://docs.netskope.com/en/log-streaming/
 **Last Modified:** 2026-04-27T21:31:56+00:00
-**Scraped:** 2026-11-16T15:32:16.237194+00:00
+**Scraped:** 2026-11-17T16:16:54.198344+00:00
 
 Log Streaming - Netskope Technical Documentation
 Log Streaming
