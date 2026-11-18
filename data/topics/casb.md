@@ -1,14 +1,13 @@
 # Netskope Docs — Casb
-_Generated: 2026-11-17 16:39 UTC_
+_Generated: 2026-11-18 16:17 UTC_
 _Pages: 8_
 
 ---
 ## API (Observe for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-observe-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-11-17T15:26:40.777866+00:00
+**Scraped:** 2026-11-18T15:01:07.186174+00:00
 
-API (Observe for Managed App Activities) - Netskope Technical Documentation
 API (Observe for Managed App Activities)
 This section outlines specific use cases to observe for managed app activities. Check back because new use cases are added periodically.
 Create a list of publicly accessible documents in an API-Protected service
@@ -25,7 +24,7 @@ API (Observe for Managed App Activities)
 ## API (Monitor for Managed App Activities)
 **URL:** https://docs.netskope.com/en/api-monitor-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:29+00:00
-**Scraped:** 2026-11-17T15:26:41.909231+00:00
+**Scraped:** 2026-11-18T15:01:08.385042+00:00
 
 API (Monitor for Managed App Activities) - Netskope Technical Documentation
 API (Monitor for Managed App Activities)
@@ -44,8 +43,9 @@ API (Monitor for Managed App Activities)
 ## API Connectors
 **URL:** https://docs.netskope.com/en/api-connectors/
 **Last Modified:** 2025-11-04T16:57:54+00:00
-**Scraped:** 2026-11-17T15:26:43.037788+00:00
+**Scraped:** 2026-11-18T15:01:09.583225+00:00
 
+API Connectors - Netskope Technical Documentation
 API Connectors
 There are two platforms available for API Data Protection:
 API Data Protection – Classic
@@ -58,8 +58,9 @@ API Connectors
 ## CASB API Protection
 **URL:** https://docs.netskope.com/en/casb-api-protection/
 **Last Modified:** 2026-01-31T05:39:42+00:00
-**Scraped:** 2026-11-17T15:27:04.504458+00:00
+**Scraped:** 2026-11-18T15:01:32.883922+00:00
 
+CASB API Protection - Netskope Technical Documentation
 CASB API Protection
 What is CASB?
 CASB, or Cloud Access Security Broker, is a security policy enforcement point placed between cloud service providers and their users to ensure security policies and compliance. It helps organizations protect their data by providing visibility, data security, threat protection, and compliance management across cloud services. To learn more:
@@ -79,7 +80,7 @@ CASB API Protection
 ## Remove the Netskope CASB API App from the Zoom Account
 **URL:** https://docs.netskope.com/en/remove-the-netskope-casb-api-app-from-the-zoom-account/
 **Last Modified:** 2025-08-31T01:42:34+00:00
-**Scraped:** 2026-11-17T15:36:57.501125+00:00
+**Scraped:** 2026-11-18T15:12:00.386935+00:00
 
 Remove the Netskope CASB API App from the Zoom Account - Netskope Technical Documentation
 Remove the Netskope CASB API App from the Zoom Account
@@ -113,7 +114,7 @@ Remove the Netskope CASB API App from the Zoom Account
 ## Uninstall the Netskope CASB API for Confluence App
 **URL:** https://docs.netskope.com/en/uninstall-the-netskope-casb-api-for-confluence-app/
 **Last Modified:** 2025-08-31T01:42:14+00:00
-**Scraped:** 2026-11-17T15:53:00.856547+00:00
+**Scraped:** 2026-11-18T15:28:52.801570+00:00
 
 Uninstall the Netskope CASB API for Confluence App - Netskope Technical Documentation
 Uninstall the Netskope CASB API for Confluence App
@@ -140,7 +141,7 @@ Uninstall the Netskope CASB API for Confluence App
 ## CASB API Usage
 **URL:** https://docs.netskope.com/en/casb-api-billable-user-calculation/
 **Last Modified:** 2026-06-12T07:25:57+00:00
-**Scraped:** 2026-11-17T16:07:27.673656+00:00
+**Scraped:** 2026-11-18T15:44:08.997509+00:00
 
 CASB API Usage - Netskope Technical Documentation
 CASB API Usage
@@ -393,8 +394,9 @@ CASB API Usage
 ## CASB API Product Licensing Terms
 **URL:** https://docs.netskope.com/en/casb-api-product-licensing-terms/
 **Last Modified:** 2026-10-16T20:33:15+00:00
-**Scraped:** 2026-11-17T16:13:04.502858+00:00
+**Scraped:** 2026-11-18T15:50:05.831586+00:00
 
+CASB API Product Licensing Terms - Netskope Technical Documentation
 CASB API Product Licensing Terms
 Service Description
 CASB API provides out-of-band data protection, threat detection, and user behavioral anomaly detection for sanctioned SaaS applications via direct API integrations.
