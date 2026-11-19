@@ -1,12 +1,12 @@
 # Netskope Docs — Threat Protection
-_Generated: 2026-11-18 16:17 UTC_
-_Pages: 86_
+_Generated: 2026-11-19 16:25 UTC_
+_Pages: 88_
 
 ---
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection/
 **Last Modified:** 2025-08-31T01:51:23+00:00
-**Scraped:** 2026-11-18T15:00:52.770507+00:00
+**Scraped:** 2026-11-19T15:09:56.609636+00:00
 
 Advanced Threat Protection - Netskope Technical Documentation
 Advanced Threat Protection
@@ -26,9 +26,8 @@ Advanced Threat Protection
 ## Identify Malware in data repositories and action per defined policy
 **URL:** https://docs.netskope.com/en/identify-malware-in-data-repositories-and-action-per-defined-policy/
 **Last Modified:** 2025-09-01T12:59:19+00:00
-**Scraped:** 2026-11-18T15:02:26.706904+00:00
+**Scraped:** 2026-11-19T15:11:26.793626+00:00
 
-Identify Malware in data repositories and action per defined policy - Netskope Technical Documentation
 Identify Malware in data repositories and action per defined policy
 Prerequisites for the API protection use cases
 Roles/actors in the use cases
@@ -52,7 +51,7 @@ Identify Malware in data repositories and action per defined policy
 ## Protect against unknown web threats
 **URL:** https://docs.netskope.com/en/protect-against-unknown-web-threats/
 **Last Modified:** 2025-08-31T01:51:24+00:00
-**Scraped:** 2026-11-18T15:02:55.146018+00:00
+**Scraped:** 2026-11-19T15:11:54.844986+00:00
 
 Protect against unknown web threats - Netskope Technical Documentation
 Protect against unknown web threats
@@ -73,7 +72,7 @@ Protect against unknown web threats
 ## Protection against Insider threats
 **URL:** https://docs.netskope.com/en/protection-against-insider-threats/
 **Last Modified:** 2025-08-31T01:51:25+00:00
-**Scraped:** 2026-11-18T15:02:58.836351+00:00
+**Scraped:** 2026-11-19T15:11:58.370768+00:00
 
 Protection against Insider threats - Netskope Technical Documentation
 Protection against Insider threats
@@ -99,7 +98,7 @@ Protection against Insider threats
 ## Threat Protection – Protect state for Managed App Activities
 **URL:** https://docs.netskope.com/en/threat-protection-protect-state-for-managed-app-activities/
 **Last Modified:** 2025-09-01T13:11:31+00:00
-**Scraped:** 2026-11-18T15:03:14.373835+00:00
+**Scraped:** 2026-11-19T15:12:13.802444+00:00
 
 Threat Protection – Protect state for Managed App Activities - Netskope Technical Documentation
 Threat Protection – Protect state for Managed App Activities
@@ -111,7 +110,7 @@ Threat Protection – Protect state for Managed App Activities
 ## Threat scan on IaaS Storage
 **URL:** https://docs.netskope.com/en/threat-scan-on-iaas-storage/
 **Last Modified:** 2025-08-31T01:51:11+00:00
-**Scraped:** 2026-11-18T15:03:15.550170+00:00
+**Scraped:** 2026-11-19T15:12:14.984147+00:00
 
 Threat scan on IaaS Storage - Netskope Technical Documentation
 Threat scan on IaaS Storage
@@ -132,9 +131,8 @@ Threat scan on IaaS Storage
 ## Threat Protection Features
 **URL:** https://docs.netskope.com/en/threat-protection-features/
 **Last Modified:** 2025-08-31T01:51:01+00:00
-**Scraped:** 2026-11-18T15:03:16.861357+00:00
+**Scraped:** 2026-11-19T15:12:16.160250+00:00
 
-Threat Protection Features - Netskope Technical Documentation
 Threat Protection Features
 Feature
 Description
@@ -153,9 +151,8 @@ Threat Protection Features
 ## Advanced Threat Protection
 **URL:** https://docs.netskope.com/en/advanced-threat-protection-86194/
 **Last Modified:** 2025-09-03T18:23:15+00:00
-**Scraped:** 2026-11-18T15:04:15.634260+00:00
+**Scraped:** 2026-11-19T15:13:14.844160+00:00
 
-Advanced Threat Protection - Netskope Technical Documentation
 Advanced Threat Protection
 Netskope Advanced Threat Protection includes multiple detection engines that detect sophisticated zero day threats and targeted attacks. The comprehensive, multi-engine approach ensures higher efficacy and protection against evasive threats that may be optimized to bypass some detection engines.
 Advanced Threat Protection is not offered for applications accessed through China PoPs.
@@ -271,7 +268,7 @@ Advanced Threat Protection
 ## Creating a Malware Detection Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-detection-profile/
 **Last Modified:** 2025-09-03T18:23:18+00:00
-**Scraped:** 2026-11-18T15:07:09.739968+00:00
+**Scraped:** 2026-11-19T15:16:07.116461+00:00
 
 Creating a Malware Detection Profile
 You can extend the default Netskope malware scan by creating custom malware detection profiles. In the malware detection profile, you can select the
@@ -328,9 +325,8 @@ Creating a Malware Detection Profile
 ## Creating a Threat Protection Policy for API Data Protection
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-api-data-protection/
 **Last Modified:** 2025-09-03T18:23:17+00:00
-**Scraped:** 2026-11-18T15:07:10.927885+00:00
+**Scraped:** 2026-11-19T15:16:08.320317+00:00
 
-Creating a Threat Protection Policy for API Data Protection - Netskope Technical Documentation
 Creating a Threat Protection Policy for API Data Protection
 Netskope can scan files stored in your cloud storage applications for malware. To do this, you must configure the API Data Protection settings and enable malware scanning for your application instances.
 API Data Protection now supports scanning files up to 128 MB for DLP and threat protection. The default file size is 32 MB. Contact Netskope support or your sales representative to configure a larger file size for your tenant. A few points to consider before enabling this enhancement:
@@ -451,9 +447,8 @@ Creating a Threat Protection Policy for API Data Protection
 ## Creating a Threat Protection Policy for Patient Zero
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-patient-zero/
 **Last Modified:** 2026-09-29T17:16:39+00:00
-**Scraped:** 2026-11-18T15:07:13.298941+00:00
+**Scraped:** 2026-11-19T15:16:10.804020+00:00
 
-Creating a Threat Protection Policy for Patient Zero - Netskope Technical Documentation
 Creating a Threat Protection Policy for Patient Zero
 A patient zero event occurs when a user downloads a file that’s not detected by signature-based analysis (e.g., Netskope AV engine) in Standard Threat Protection. However, if you have Advanced Threat Protection, you can prevent patient zero events by creating a Threat Protection policy that only releases unknown files to users after the Netskope advanced threat engines determine they’re benign. Netskope holds the unknown file and notifies the user that it’s analyzing the file until it determines a verdict. The Netskope advanced threat engines can take up to 10 minutes to analyze the file.
 Netskope recommends using patient zero policies for high risk use cases, such as the following:
@@ -577,7 +572,7 @@ Creating a Threat Protection Policy for Patient Zero
 ## Improved Reporting on Malware Files in API Data Protection
 **URL:** https://docs.netskope.com/en/improved-reporting-on-malware-files-in-api-data-protection/
 **Last Modified:** 2025-09-04T01:12:02+00:00
-**Scraped:** 2026-11-18T15:09:35.832404+00:00
+**Scraped:** 2026-11-19T15:18:31.179846+00:00
 
 Improved Reporting on Malware Files in API Data Protection - Netskope Technical Documentation
 Improved Reporting on Malware Files in API Data Protection
@@ -644,7 +639,7 @@ Improved Reporting on Malware Files in API Data Protection
 ## Malware and Malicious Sites Pages
 **URL:** https://docs.netskope.com/en/malware-and-malicious-sites-pages/
 **Last Modified:** 2025-09-03T18:23:21+00:00
-**Scraped:** 2026-11-18T15:10:03.016544+00:00
+**Scraped:** 2026-11-19T15:18:57.648339+00:00
 
 Malware and Malicious Sites Pages - Netskope Technical Documentation
 Malware and Malicious Sites Pages
@@ -656,7 +651,7 @@ Malware and Malicious Sites Pages
 ## API Source Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/api-source-plugin-for-threat-exchange/
 **Last Modified:** 2025-08-31T01:53:26+00:00
-**Scraped:** 2026-11-18T15:16:26.932311+00:00
+**Scraped:** 2026-11-19T15:25:19.194671+00:00
 
 API Source Plugin for Threat Exchange - Netskope Technical Documentation
 API Source Plugin for Threat Exchange
@@ -836,7 +831,7 @@ API Source Plugin for Threat Exchange
 ## AWS GuardDuty Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/aws-guardduty-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:24+00:00
-**Scraped:** 2026-11-18T15:16:28.214769+00:00
+**Scraped:** 2026-11-19T15:25:20.477716+00:00
 
 AWS GuardDuty Plugin for Threat Exchange - Netskope Technical Documentation
 AWS GuardDuty Plugin for Threat Exchange
@@ -1485,7 +1480,7 @@ AWS GuardDuty Plugin for Threat Exchange
 ## Carbon Black Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/carbon-black-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:33+00:00
-**Scraped:** 2026-11-18T15:16:38.405552+00:00
+**Scraped:** 2026-11-19T15:25:30.456554+00:00
 
 Carbon Black Plugin for Threat Exchange - Netskope Technical Documentation
 Carbon Black Plugin for Threat Exchange
@@ -2185,9 +2180,8 @@ Carbon Black Plugin for Threat Exchange
 ## Configure 3rd-party Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/configure-3rd-party-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:24:01+00:00
-**Scraped:** 2026-11-18T15:16:49.489083+00:00
+**Scraped:** 2026-11-19T15:25:41.108608+00:00
 
-Configure 3rd-party Threat Exchange Plugins - Netskope Technical Documentation
 Configure 3rd-party Threat Exchange Plugins
 Only admins and write-access users can configure 3rd-party Threat Exchange plugins. Threat Exchange comes with a library of supported plugins. Plugins can be easily configured to collect and share indicators related to file hashes of malicious software (malware) used in a Netskope DLP policy by following the plugin guide. Refer to the
 Threat Exchange Custom Plugin Developers Guide
@@ -2249,8 +2243,9 @@ Configure 3rd-party Threat Exchange Plugins
 ## Configure Threat Exchange Sharing with your Netskope Tenant
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-sharing-with-your-netskope-tenant/
 **Last Modified:** 2025-11-01T00:39:40+00:00
-**Scraped:** 2026-11-18T15:17:21.545717+00:00
+**Scraped:** 2026-11-19T15:26:12.135679+00:00
 
+Configure Threat Exchange Sharing with your Netskope Tenant - Netskope Technical Documentation
 Configure Threat Exchange Sharing with your Netskope Tenant
 You need to get the sharing information from Threat Exchange to use later when setting up a profile in the Netskope tenant. This informationis in the Threat Exchange module when you created a file hash share with a Netskope tenant as the Destination Configuration. You must have a Threat Exchange plugin and a sharing rule in order to push file hash information (or URL/IP addresses) to your Netskope tenant.
 If you haven’t already done so, create Threat Exchange sharing to use in your Netskope tenant. The Sharing configuration settings needed are:
@@ -2270,7 +2265,7 @@ Configure Threat Exchange Sharing with your Netskope Tenant
 ## Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 **URL:** https://docs.netskope.com/en/configure-your-netskope-tenant-for-cloud-threat-exchange-file-hash-sharing/
 **Last Modified:** 2025-11-01T00:37:21+00:00
-**Scraped:** 2026-11-18T15:17:26.423231+00:00
+**Scraped:** 2026-11-19T15:26:16.996093+00:00
 
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing - Netskope Technical Documentation
 Configure your Netskope Tenant for Threat Exchange File Hash Sharing
@@ -2287,7 +2282,7 @@ Configure your Netskope Tenant for Threat Exchange File Hash Sharing
 ## Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
 **URL:** https://docs.netskope.com/en/create-a-malware-detection-profile-in-your-netskope-tenant-to-use-threat-exchange-file-hash-es/
 **Last Modified:** 2026-03-21T02:25:14+00:00
-**Scraped:** 2026-11-18T15:17:29.978225+00:00
+**Scraped:** 2026-11-19T15:26:20.539851+00:00
 
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes - Netskope Technical Documentation
 Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchange File Hashes
@@ -2312,9 +2307,8 @@ Create a Malware Detection Profile in Your Netskope Tenant to use Threat Exchang
 ## Digital Shadow Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/digital-shadow-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:58+00:00
-**Scraped:** 2026-11-18T15:17:43.198799+00:00
+**Scraped:** 2026-11-19T15:26:33.526574+00:00
 
-Digital Shadow Plugin for Threat Exchange - Netskope Technical Documentation
 Digital Shadow Plugin for Threat Exchange
 This document explains how to configure Digital Shadow with the Threat Exchange module of the Netskope Cloud Exchange platform. This integration allows for pulling URLs (phishing-site-alert, impersonating-subdomain-alert and impersonating-domain-alert) from Digital Shadow to Netskope.
 Prerequisites
@@ -2536,8 +2530,9 @@ Digital Shadow Plugin for Threat Exchange
 ## GitHub Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/github-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:41:57+00:00
-**Scraped:** 2026-11-18T15:17:53.143166+00:00
+**Scraped:** 2026-11-19T15:26:43.036870+00:00
 
+GitHub Plugin for Threat Exchange - Netskope Technical Documentation
 GitHub Plugin for Threat Exchange
 This document explains how to configure the GitHub plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This integration allows for sharing of file hashes of GitHub repository files with Netskope.
 Prerequisites
@@ -2673,7 +2668,7 @@ GitHub Plugin for Threat Exchange
 ## Manage Threat Exchange Business Rules and IoC Sharing
 **URL:** https://docs.netskope.com/en/manage-threat-exchange-business-rules-and-ioc-sharing/
 **Last Modified:** 2026-03-21T02:21:37+00:00
-**Scraped:** 2026-11-18T15:18:23.299317+00:00
+**Scraped:** 2026-11-19T15:27:12.738156+00:00
 
 Manage Threat Exchange Business Rules and IoC Sharing - Netskope Technical Documentation
 Manage Threat Exchange Business Rules and IoC Sharing
@@ -2692,7 +2687,7 @@ Manage Threat Exchange Business Rules and IoC Sharing
 ## Mandiant Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mandiant-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:45:30+00:00
-**Scraped:** 2026-11-18T15:18:25.922530+00:00
+**Scraped:** 2026-11-19T15:27:15.164993+00:00
 
 Mandiant Plugin for Threat Exchange - Netskope Technical Documentation
 Mandiant Plugin for Threat Exchange
@@ -3150,7 +3145,7 @@ Mandiant Plugin for Threat Exchange
 ## Map a Threat Exchange Business Rule to a Target
 **URL:** https://docs.netskope.com/en/map-a-threat-exchange-business-rule-to-a-target/
 **Last Modified:** 2025-10-31T23:46:43+00:00
-**Scraped:** 2026-11-18T15:18:27.138482+00:00
+**Scraped:** 2026-11-19T15:27:16.364495+00:00
 
 Map a Threat Exchange Business Rule to a Target - Netskope Technical Documentation
 Map a Threat Exchange Business Rule to a Target
@@ -3179,7 +3174,7 @@ Map a Threat Exchange Business Rule to a Target
 ## Microsoft Defender for Endpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-endpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T02:10:36+00:00
-**Scraped:** 2026-11-18T15:18:33.352930+00:00
+**Scraped:** 2026-11-19T15:27:22.342672+00:00
 
 Microsoft Defender for Endpoint Plugin for Threat Exchange - Netskope Technical Documentation
 Microsoft Defender for Endpoint Plugin for Threat Exchange
@@ -3875,8 +3870,9 @@ Microsoft Defender for Endpoint Plugin for Threat Exchange
 ## Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-defender-for-cloud-apps-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-18T00:43:44+00:00
-**Scraped:** 2026-11-18T15:18:34.548239+00:00
+**Scraped:** 2026-11-19T15:27:23.711447+00:00
 
+Microsoft Defender for Cloud Apps Plugin for Threat Exchange - Netskope Technical Documentation
 Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 Release Notes
 1.1.0
@@ -4190,8 +4186,9 @@ Microsoft Defender for Cloud Apps Plugin for Threat Exchange
 ## Microsoft Office 365 Endpoints Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/microsoft-office-365-endpoints-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:46:26+00:00
-**Scraped:** 2026-11-18T15:18:36.965573+00:00
+**Scraped:** 2026-11-19T15:27:26.167068+00:00
 
+Microsoft Office 365 Endpoints Plugin for Threat Exchange - Netskope Technical Documentation
 Microsoft Office 365 Endpoints Plugin for Threat Exchange
 This document provides instructions to configure the Microsoft Office 365 Endpoints integration with the Threat Exchange module of the Netskope Cloud Exchange platform. Use this plugin to fetch URLs from Microsoft Office 365 Endpoints. This plugin does not support sharing of indicators to Microsoft Office 365 Endpoints.
 Microsoft provides dynamic information regarding Office 365, specifically what URLs and IPs each O365 service is under.
@@ -4262,7 +4259,7 @@ Microsoft Office 365 Endpoints Plugin for Threat Exchange
 ## Mimecast Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/mimecast-plugin-for-threat-exchange/
 **Last Modified:** 2026-03-25T00:02:28+00:00
-**Scraped:** 2026-11-18T15:18:39.511756+00:00
+**Scraped:** 2026-11-19T15:27:28.553017+00:00
 
 Mimecast Plugin for Threat Exchange - Netskope Technical Documentation
 Mimecast Plugin for Threat Exchange
@@ -5146,7 +5143,7 @@ Mimecast Plugin for Threat Exchange
 ## MISP Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/misp-plugin-for-threat-exchange/
 **Last Modified:** 2026-11-03T01:40:09+00:00
-**Scraped:** 2026-11-18T15:18:42.253601+00:00
+**Scraped:** 2026-11-19T15:27:31.062837+00:00
 
 MISP Plugin for Threat Exchange - Netskope Technical Documentation
 MISP Plugin for Threat Exchange
@@ -6371,7 +6368,7 @@ MISP Plugin for Threat Exchange
 ## Palo Alto Networks Panorama Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-panorama-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:42+00:00
-**Scraped:** 2026-11-18T15:19:09.364173+00:00
+**Scraped:** 2026-11-19T15:27:57.172136+00:00
 
 Palo Alto Networks Panorama Plugin for Threat Exchange - Netskope Technical Documentation
 Palo Alto Networks Panorama Plugin for Threat Exchange
@@ -6642,8 +6639,9 @@ Palo Alto Networks Panorama Plugin for Threat Exchange
 ## Proofpoint Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/proofpoint-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T00:57:36+00:00
-**Scraped:** 2026-11-18T15:19:15.634336+00:00
+**Scraped:** 2026-11-19T15:28:03.376983+00:00
 
+Proofpoint Plugin for Threat Exchange - Netskope Technical Documentation
 Proofpoint Plugin for Threat Exchange
 Release Notes
 2.0.0
@@ -6947,8 +6945,9 @@ Proofpoint Plugin for Threat Exchange
 ## SentinelOne Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sentinelone-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:26+00:00
-**Scraped:** 2026-11-18T15:19:37.853681+00:00
+**Scraped:** 2026-11-19T15:28:25.227936+00:00
 
+SentinelOne Plugin for Threat Exchange - Netskope Technical Documentation
 SentinelOne Plugin for Threat Exchange
 This document explains how to configure the SentinelOne v1.4.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches IoCs of type SHA256 and MD5 file hash from the
 Incidents
@@ -7763,7 +7762,7 @@ SentinelOne Plugin for Threat Exchange
 ## ServiceNow Threat Intelligence Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/servicenow-plugin-for-threat-exchange/
 **Last Modified:** 2026-08-27T00:27:44+00:00
-**Scraped:** 2026-11-18T15:19:41.687499+00:00
+**Scraped:** 2026-11-19T15:28:28.806364+00:00
 
 ServiceNow Threat Intelligence Plugin for Threat Exchange
 Release Notes
@@ -8166,7 +8165,7 @@ ServiceNow Threat Intelligence Plugin for Threat Exchange
 ## Skyhigh Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/skyhigh-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:49:58+00:00
-**Scraped:** 2026-11-18T15:19:42.895686+00:00
+**Scraped:** 2026-11-19T15:28:29.979594+00:00
 
 Skyhigh Plugin for Threat Exchange - Netskope Technical Documentation
 Skyhigh Plugin for Threat Exchange
@@ -8232,7 +8231,7 @@ Skyhigh Plugin for Threat Exchange
 ## Sophos Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/sophos-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:33+00:00
-**Scraped:** 2026-11-18T15:19:47.783652+00:00
+**Scraped:** 2026-11-19T15:28:34.820798+00:00
 
 Sophos Plugin for Threat Exchange - Netskope Technical Documentation
 Sophos Plugin for Threat Exchange
@@ -8316,7 +8315,7 @@ Sophos Plugin for Threat Exchange
 ## STIX/TAXII Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/stix-taxii-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:09+00:00
-**Scraped:** 2026-11-18T15:19:49.014958+00:00
+**Scraped:** 2026-11-19T15:28:36.104445+00:00
 
 STIX/TAXII Plugin for Threat Exchange - Netskope Technical Documentation
 STIX/TAXII Plugin for Threat Exchange
@@ -8661,7 +8660,7 @@ STIX/TAXII Plugin for Threat Exchange
 ## ThreatConnect Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatconnect-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-28T00:23:08+00:00
-**Scraped:** 2026-11-18T15:19:59.261115+00:00
+**Scraped:** 2026-11-19T15:28:45.827029+00:00
 
 ThreatConnect Plugin for Threat Exchange - Netskope Technical Documentation
 ThreatConnect Plugin for Threat Exchange
@@ -9632,7 +9631,7 @@ ThreatConnect Plugin for Threat Exchange
 ## Threat Exchange Custom Plugin Developers Guide
 **URL:** https://docs.netskope.com/en/threat-exchange-custom-plugin-developers-guide/
 **Last Modified:** 2026-03-21T02:27:56+00:00
-**Scraped:** 2026-11-18T15:20:00.513822+00:00
+**Scraped:** 2026-11-19T15:28:47.114890+00:00
 
 Threat Exchange Custom Plugin Developers Guide - Netskope Technical Documentation
 Threat Exchange Custom Plugin Developers Guide
@@ -10817,8 +10816,9 @@ Threat Exchange Custom Plugin Developers Guide
 ## ThreatQ Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/threatq-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:54:47+00:00
-**Scraped:** 2026-11-18T15:20:01.854292+00:00
+**Scraped:** 2026-11-19T15:28:48.332861+00:00
 
+ThreatQ Plugin for Threat Exchange - Netskope Technical Documentation
 ThreatQ Plugin for Threat Exchange
 This document explains how to configure the ThreatQ v1.1.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. The ThreatQ plugin is used to fetch the indicators of type URL, IP (IPv4, IPv6), FQDN, SHA256, and MD5 from the
 ThreatQ Library > Indicators
@@ -11082,7 +11082,7 @@ ThreatQ Plugin for Threat Exchange
 ## TrendAI Vision One Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trend-ai-vision-one-plugin-for-threat-exchange/
 **Last Modified:** 2026-11-04T02:31:22+00:00
-**Scraped:** 2026-11-18T15:20:04.357928+00:00
+**Scraped:** 2026-11-19T15:28:50.732299+00:00
 
 TrendAI Vision One Plugin for Threat Exchange - Netskope Technical Documentation
 TrendAI Vision One Plugin for Threat Exchange
@@ -11612,7 +11612,7 @@ TrendAI Vision One Plugin for Threat Exchange
 ## Update Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/update-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:29:26+00:00
-**Scraped:** 2026-11-18T15:20:06.728477+00:00
+**Scraped:** 2026-11-19T15:28:53.168980+00:00
 
 Update Configured Threat Exchange Plugins - Netskope Technical Documentation
 Update Configured Threat Exchange Plugins
@@ -11628,7 +11628,7 @@ Update Configured Threat Exchange Plugins
 ## View Configured Threat Exchange Plugins
 **URL:** https://docs.netskope.com/en/view-configured-threat-exchange-plugins/
 **Last Modified:** 2025-10-31T23:25:57+00:00
-**Scraped:** 2026-11-18T15:20:21.264603+00:00
+**Scraped:** 2026-11-19T15:29:07.658483+00:00
 
 View Configured Threat Exchange Plugins - Netskope Technical Documentation
 View Configured Threat Exchange Plugins
@@ -11654,7 +11654,7 @@ View Configured Threat Exchange Plugins
 ## View Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/view-threat-exchange-business-rules/
 **Last Modified:** 2025-10-31T23:49:11+00:00
-**Scraped:** 2026-11-18T15:20:23.648831+00:00
+**Scraped:** 2026-11-19T15:29:10.027996+00:00
 
 View Threat Exchange Business Rules - Netskope Technical Documentation
 View Threat Exchange Business Rules
@@ -11670,7 +11670,7 @@ View Threat Exchange Business Rules
 ## Schedule Auto-Upgrade for the Content and Threat Feed Packages
 **URL:** https://docs.netskope.com/en/schedule-auto-upgrade-for-the-content-and-threat-feed-packages/
 **Last Modified:** 2026-08-18T17:15:14+00:00
-**Scraped:** 2026-11-18T15:26:20.698589+00:00
+**Scraped:** 2026-11-19T15:35:04.867933+00:00
 
 Schedule Auto-Upgrade for the Content and Threat Feed Packages - Netskope Technical Documentation
 Schedule Auto-Upgrade for the Content and Threat Feed Packages
@@ -11697,7 +11697,7 @@ Schedule Auto-Upgrade for the Content and Threat Feed Packages
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection-115996/
 **Last Modified:** 2026-08-18T17:37:09+00:00
-**Scraped:** 2026-11-18T15:26:25.464759+00:00
+**Scraped:** 2026-11-19T15:35:09.809848+00:00
 
 Threat Protection - Netskope Technical Documentation
 Threat Protection
@@ -11716,8 +11716,9 @@ Threat Protection
 ## Cybereason Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/cybereason-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:40:32+00:00
-**Scraped:** 2026-11-18T15:26:57.874579+00:00
+**Scraped:** 2026-11-19T15:35:41.976552+00:00
 
+Cybereason Plugin for Threat Exchange - Netskope Technical Documentation
 Cybereason Plugin for Threat Exchange
 This document explains how to configure the v1.1.0 Cybereason plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. The Cybereason plugin is designed to fetch the IoCs (Domain, IPv4, IPv6, MD5, and SHA256) from the
 Security Profile > Reputations
@@ -12084,7 +12085,7 @@ Cybereason Plugin for Threat Exchange
 ## Illumio Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/illumio-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-02T02:58:09+00:00
-**Scraped:** 2026-11-18T15:27:29.842159+00:00
+**Scraped:** 2026-11-19T15:36:12.904849+00:00
 
 Illumio Plugin for Threat Exchange
 Important
@@ -12098,8 +12099,9 @@ Illumio Plugin for Threat Exchange
 ## Feedly Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/feedly-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:43+00:00
-**Scraped:** 2026-11-18T15:27:36.033123+00:00
+**Scraped:** 2026-11-19T15:36:19.062374+00:00
 
+Feedly Plugin for Threat Exchange - Netskope Technical Documentation
 Feedly Plugin for Threat Exchange
 This document explains how to configure the CTE Feedly v1.0.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches SHA256 hashes, MD5 hashes, URLs, domains, and IP addresses from Feedly Stream. This plugin also fetches IoCs in MISP format from Feedly Stream.
 Prerequisites
@@ -12224,9 +12226,8 @@ Feedly Plugin for Threat Exchange
 ## Threat and Data Protection for RBI
 **URL:** https://docs.netskope.com/en/threat-and-data-protection-for-rbi/
 **Last Modified:** 2025-08-31T01:46:40+00:00
-**Scraped:** 2026-11-18T15:27:44.502472+00:00
+**Scraped:** 2026-11-19T15:36:27.483246+00:00
 
-Threat and Data Protection for RBI - Netskope Technical Documentation
 Threat and Data Protection for RBI
 This feature provides support for DLP and Threat Protection policies for file upload and download traffic through RBI. Admins can safely enable uploads and downloads in isolated browsing sessions, creating additional real-time protection policies to scan files for Threat Protection and DLP.
 The integration of RBI with Netskope Threat Protection and Data Protection Microservices allows NG-SWG to process all traffic generated in isolation and brings additional benefits such as:
@@ -12456,7 +12457,7 @@ Threat and Data Protection for RBI
 ## SecurityScorecard Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/securityscorecard-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:51+00:00
-**Scraped:** 2026-11-18T15:27:52.927325+00:00
+**Scraped:** 2026-11-19T15:36:35.862867+00:00
 
 SecurityScorecard Plugin for Threat Exchange - Netskope Technical Documentation
 SecurityScorecard Plugin for Threat Exchange
@@ -12616,7 +12617,7 @@ SecurityScorecard Plugin for Threat Exchange
 ## CrowdStrike Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/crowdstrike-plugin-for-threat-exchange-2/
 **Last Modified:** 2026-05-27T23:40:14+00:00
-**Scraped:** 2026-11-18T15:27:54.165661+00:00
+**Scraped:** 2026-11-19T15:36:37.132832+00:00
 
 CrowdStrike Plugin for Threat Exchange
 This document explains how to configure the CrowdStrike v2.3.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches Threat IoCs of type Hash (MD5 and SHA256), Domains, IPv4, IPv6 from CrowdStrike’s Endpoint detections and the IoC management page.
@@ -13970,7 +13971,7 @@ CrowdStrike Plugin for Threat Exchange
 ## HarfangLab Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/harfanglab-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-18T00:49:34+00:00
-**Scraped:** 2026-11-18T15:28:13.992622+00:00
+**Scraped:** 2026-11-19T15:36:56.166427+00:00
 
 HarfangLab Plugin for Threat Exchange - Netskope Technical Documentation
 HarfangLab Plugin for Threat Exchange
@@ -14658,7 +14659,7 @@ HarfangLab Plugin for Threat Exchange
 ## ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/extrahop-revealx-360-plugin-for-threat-exchange/
 **Last Modified:** 2026-01-30T01:06:15+00:00
-**Scraped:** 2026-11-18T15:28:40.616868+00:00
+**Scraped:** 2026-11-19T15:37:22.529131+00:00
 
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange - Netskope Technical Documentation
 ExtraHop Reveal(x) 360 Plugin for Threat Exchange
@@ -14983,7 +14984,7 @@ ExtraHop Reveal(x) 360 Plugin for Threat Exchange
 ## Commvault Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/commvault-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:39:58+00:00
-**Scraped:** 2026-11-18T15:29:04.840796+00:00
+**Scraped:** 2026-11-19T15:37:46.187310+00:00
 
 Commvault Plugin for Threat Exchange - Netskope Technical Documentation
 Commvault Plugin for Threat Exchange
@@ -15367,9 +15368,8 @@ Commvault Plugin for Threat Exchange
 ## Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/palo-alto-networks-cortex-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-10-08T21:24:42+00:00
-**Scraped:** 2026-11-18T15:29:06.039602+00:00
+**Scraped:** 2026-11-19T15:37:47.372257+00:00
 
-Palo Alto Networks Cortex XDR Plugin for Threat Exchange - Netskope Technical Documentation
 Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 This document will provide the technical documentation required to configure the Palo Alto Networks Cortex XDR integration with the Threat Exchange module of the Netskope Cloud Exchange platform.
 Prerequisites
@@ -15875,8 +15875,9 @@ Palo Alto Networks Cortex XDR Plugin for Threat Exchange
 ## Anomali ThreatStream XDR Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/anomali-threatstream-xdr-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:38:52+00:00
-**Scraped:** 2026-11-18T15:29:08.538465+00:00
+**Scraped:** 2026-11-19T15:37:49.767766+00:00
 
+Anomali ThreatStream XDR Plugin for Threat Exchange - Netskope Technical Documentation
 Anomali ThreatStream XDR Plugin for Threat Exchange
 This document explains how to configure the Anomali ThreatStream XDR v1.3.2 plugin for the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to fetch the indicators of type URL, IP (IPv4, IPv6), Domain, SHA256, and MD5 from the Observables on Anomali ThreatStream XDR. This plugin supports sharing MD5, SHA256, URL, Domain, IPv4 and IPv6 to Observables on the Anomali ThreatStream XDR platform using the Share Indicators action.
 Prerequisites
@@ -16387,7 +16388,7 @@ Anomali ThreatStream XDR Plugin for Threat Exchange
 ## Trellix Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/trellix-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:55:19+00:00
-**Scraped:** 2026-11-18T15:29:55.781090+00:00
+**Scraped:** 2026-11-19T15:38:36.242116+00:00
 
 Trellix Plugin for Threat Exchange
 This document explains how to configure the Trellix plugin for the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches MD5, SHA256, URL (Domain, IP (IPv4, IPv6), URL) from Trellix EPO. This plugin does not support pushing data to the Trellix platform.
@@ -16686,8 +16687,9 @@ Trellix Plugin for Threat Exchange
 ## Malware
 **URL:** https://docs.netskope.com/en/about-malware/
 **Last Modified:** 2026-07-06T19:52:34+00:00
-**Scraped:** 2026-11-18T15:31:15.055872+00:00
+**Scraped:** 2026-11-19T15:39:52.504777+00:00
 
+Malware - Netskope Technical Documentation
 Malware
 To view files affected by malware in your organization, go to
 Incidents
@@ -16902,7 +16904,7 @@ Malware
 ## Secureworks Taegis Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/secureworks-taegis-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T22:57:55+00:00
-**Scraped:** 2026-11-18T15:31:21.202303+00:00
+**Scraped:** 2026-11-19T15:39:58.441044+00:00
 
 Secureworks Taegis Plugin for Threat Exchange - Netskope Technical Documentation
 Secureworks Taegis Plugin for Threat Exchange
@@ -17180,9 +17182,8 @@ Secureworks Taegis Plugin for Threat Exchange
 ## Web Page IoC Scraper Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/web-page-ioc-scraper-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-20T19:16:10+00:00
-**Scraped:** 2026-11-18T15:31:22.404999+00:00
+**Scraped:** 2026-11-19T15:39:59.627416+00:00
 
-Web Page IoC Scraper Plugin for Threat Exchange - Netskope Technical Documentation
 Web Page IoC Scraper Plugin for Threat Exchange
 Release Notes
 2.0.0
@@ -17488,7 +17489,7 @@ Web Page IoC Scraper Plugin for Threat Exchange
 ## Rubrik Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/rubrik-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:06+00:00
-**Scraped:** 2026-11-18T15:31:33.167872+00:00
+**Scraped:** 2026-11-19T15:40:10.659001+00:00
 
 Rubrik Plugin for Threat Exchange - Netskope Technical Documentation
 Rubrik Plugin for Threat Exchange
@@ -18334,8 +18335,9 @@ Rubrik Plugin for Threat Exchange
 ## Setting Up an Application Instance for Malware Retention
 **URL:** https://docs.netskope.com/en/setting-up-an-application-instance-for-malware-retention/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-11-18T15:31:51.710557+00:00
+**Scraped:** 2026-11-19T15:40:28.676711+00:00
 
+Setting Up an Application Instance for Malware Retention - Netskope Technical Documentation
 Setting Up an Application Instance for Malware Retention
 The
 Malware Retention page
@@ -18484,7 +18486,7 @@ Setting Up an Application Instance for Malware Retention
 ## Creating a Malware Retention Profile
 **URL:** https://docs.netskope.com/en/creating-a-malware-retention-profile/
 **Last Modified:** 2025-08-31T01:47:32+00:00
-**Scraped:** 2026-11-18T15:31:53.049748+00:00
+**Scraped:** 2026-11-19T15:40:29.850209+00:00
 
 Creating a Malware Retention Profile - Netskope Technical Documentation
 Creating a Malware Retention Profile
@@ -18533,9 +18535,8 @@ Creating a Malware Retention Profile
 ## Threat Exchange Plugin
 **URL:** https://docs.netskope.com/en/threat-exchange-plugin/
 **Last Modified:** 2026-09-10T01:48:19+00:00
-**Scraped:** 2026-11-18T15:32:47.205311+00:00
+**Scraped:** 2026-11-19T15:41:22.617189+00:00
 
-Threat Exchange Plugin - Netskope Technical Documentation
 Threat Exchange Plugin
 Release Notes
 2.6.0 (Required minimum CE version for this is 7.0.0)
@@ -20775,7 +20776,7 @@ Threat Exchange Plugin
 ## About Malware Retention
 **URL:** https://docs.netskope.com/en/about-malware-retention/
 **Last Modified:** 2025-08-31T01:47:31+00:00
-**Scraped:** 2026-11-18T15:34:04.581323+00:00
+**Scraped:** 2026-11-19T15:42:37.204525+00:00
 
 About Malware Retention - Netskope Technical Documentation
 About Malware Retention
@@ -20838,8 +20839,9 @@ About Malware Retention
 ## Maltiverse Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/maltiverse-plugin-for-threat-exchange/
 **Last Modified:** 2026-09-01T17:40:08+00:00
-**Scraped:** 2026-11-18T15:34:30.686185+00:00
+**Scraped:** 2026-11-19T15:43:02.549381+00:00
 
+Maltiverse Plugin for Threat Exchange - Netskope Technical Documentation
 Maltiverse Plugin for Threat Exchange
 This document explains how to configure the Maltiverse 1.0.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to fetch indicators of type SHA256, IP Addresses (IPv4 and IPv6), URLs and Hostnames from
 Intelligence > Feeds
@@ -21125,8 +21127,9 @@ Maltiverse Plugin for Threat Exchange
 ## Malware Severity Levels and Detection Types
 **URL:** https://docs.netskope.com/en/malware-severity-levels-and-detection-types/
 **Last Modified:** 2025-12-08T22:36:38+00:00
-**Scraped:** 2026-11-18T15:36:24.330497+00:00
+**Scraped:** 2026-11-19T15:44:53.239830+00:00
 
+Malware Severity Levels and Detection Types - Netskope Technical Documentation
 Malware Severity Levels and Detection Types
 There are three malware severity levels. Creating policies that block all three levels is recommended.
 Severity
@@ -21255,7 +21258,7 @@ Malware Severity Levels and Detection Types
 ## Vectra AI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vectra-ai-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:56:02+00:00
-**Scraped:** 2026-11-18T15:36:43.917700+00:00
+**Scraped:** 2026-11-19T15:45:12.968132+00:00
 
 Vectra AI Plugin for Threat Exchange - Netskope Technical Documentation
 Vectra AI Plugin for Threat Exchange
@@ -21704,7 +21707,7 @@ Vectra AI Plugin for Threat Exchange
 ## SecLytics Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/seclytics-v1-0-0-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:48:26+00:00
-**Scraped:** 2026-11-18T15:36:45.102519+00:00
+**Scraped:** 2026-11-19T15:45:14.142220+00:00
 
 SecLytics Plugin for Threat Exchange - Netskope Technical Documentation
 SecLytics Plugin for Threat Exchange
@@ -21794,8 +21797,9 @@ SecLytics Plugin for Threat Exchange
 ## OpenCTI Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/opencti-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:47:01+00:00
-**Scraped:** 2026-11-18T15:36:51.070249+00:00
+**Scraped:** 2026-11-19T15:45:20.141050+00:00
 
+OpenCTI Plugin for Threat Exchange - Netskope Technical Documentation
 OpenCTI Plugin for Threat Exchange
 This document explains how to configure the OpenCTI v1.0.0 plugin for the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches the indicators of type URL, IPv4, Domain, IPv6, SHA256 and MD5 from the Observables on OpenCTI. This plugin supports sharing MD5, SHA256, URL, Domain, IPv4 and IPv6 to Observables on the OpenCTI platform using the
 Add Indicators
@@ -22432,8 +22436,9 @@ OpenCTI Plugin for Threat Exchange
 ## Infoblox Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/infoblox-tide-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:43:16+00:00
-**Scraped:** 2026-11-18T15:37:08.612061+00:00
+**Scraped:** 2026-11-19T15:45:36.949413+00:00
 
+Infoblox Plugin for Threat Exchange - Netskope Technical Documentation
 Infoblox Plugin for Threat Exchange
 This document explains how to configure the Infoblox v2.0.0 plugin for the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to fetch the indicators of type Host, IPv4, IPv6, URL and Hash (MD5 and SHA256) from the
 Active Indicators
@@ -23388,8 +23393,9 @@ Infoblox Plugin for Threat Exchange
 ## Tanium Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/tanium-plugin-for-threat-exchange/
 **Last Modified:** 2026-05-27T23:50:43+00:00
-**Scraped:** 2026-11-18T15:40:37.100751+00:00
+**Scraped:** 2026-11-19T15:49:01.200648+00:00
 
+Tanium Plugin for Threat Exchange - Netskope Technical Documentation
 Tanium Plugin for Threat Exchange
 This document explains how to configure the Tanium v1.0.0 plugin in the Cloud Exchange platform. This plugin is used to fetch the indicators of type Hash (MD5 and SHA256) from the
 Modules > Threat Response > Alerts
@@ -23791,7 +23797,7 @@ Tanium Plugin for Threat Exchange
 ## Abnormal Security Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/abnormal-security-plugin-for-threat-exchange/
 **Last Modified:** 2026-06-11T03:59:33+00:00
-**Scraped:** 2026-11-18T15:41:17.195243+00:00
+**Scraped:** 2026-11-19T15:49:40.892285+00:00
 
 Abnormal Security Plugin for Threat Exchange - Netskope Technical Documentation
 Abnormal Security Plugin for Threat Exchange
@@ -24227,8 +24233,9 @@ Abnormal Security Plugin for Threat Exchange
 ## Thales Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/thales-plugin-for-threat-exchange/
 **Last Modified:** 2026-11-09T22:49:41+00:00
-**Scraped:** 2026-11-18T15:43:35.761261+00:00
+**Scraped:** 2026-11-19T15:51:56.429671+00:00
 
+Thales Plugin for Threat Exchange - Netskope Technical Documentation
 Thales Plugin for Threat Exchange
 Release Notes
 1.0.1 (Requires minimum Cloud Exchange version 6.0.0)
@@ -24559,7 +24566,7 @@ Thales Plugin for Threat Exchange
 ## Creating a Threat Protection Policy for Blocking DNS over HTTPS
 **URL:** https://docs.netskope.com/en/creating-a-threat-protection-policy-for-blocking-dns-over-https/
 **Last Modified:** 2026-02-11T19:38:47+00:00
-**Scraped:** 2026-11-18T15:43:46.787516+00:00
+**Scraped:** 2026-11-19T15:52:07.284179+00:00
 
 Creating a Threat Protection Policy for Blocking DNS over HTTPS
 Netskope recommends creating a security policy (i.e., [Utility] Block DNS over HTTPS) that blocks DNS operating over port 443 (HTTPS) due to its incompatibility for steering. This policy will block silently. Netskope recommends placing this policy with your other Threat Protection policies.
@@ -24623,8 +24630,9 @@ Creating a Threat Protection Policy for Blocking DNS over HTTPS
 ## Darktrace Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/darktrace-plugin-for-threat-exchange/
 **Last Modified:** 2026-04-10T00:26:25+00:00
-**Scraped:** 2026-11-18T15:45:29.102281+00:00
+**Scraped:** 2026-11-19T15:53:46.713077+00:00
 
+Darktrace Plugin for Threat Exchange - Netskope Technical Documentation
 Darktrace Plugin for Threat Exchange
 This document explains how to configure the Darktrace v1.0.0 plugin with the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin fetches IoCs of type Domains, FQDNs, Hostnames, IPv4 and IPv6 from the
 Watched Domains and IPs
@@ -25119,7 +25127,7 @@ Darktrace Plugin for Threat Exchange
 ## Threat Hunting
 **URL:** https://docs.netskope.com/en/threat-hunting/
 **Last Modified:** 2026-07-06T18:51:59+00:00
-**Scraped:** 2026-11-18T15:47:23.862113+00:00
+**Scraped:** 2026-11-19T15:55:40.014849+00:00
 
 Threat Hunting - Netskope Technical Documentation
 Threat Hunting
@@ -25203,7 +25211,7 @@ Threat Hunting
 ## VMRay Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/vmray-plugin-for-threat-exchange/
 **Last Modified:** 2026-07-06T21:45:48+00:00
-**Scraped:** 2026-11-18T15:47:25.274108+00:00
+**Scraped:** 2026-11-19T15:55:41.256925+00:00
 
 VMRay Plugin for Threat Exchange - Netskope Technical Documentation
 VMRay Plugin for Threat Exchange
@@ -26118,7 +26126,7 @@ VMRay Plugin for Threat Exchange
 ## GreyNoise Plugin for Threat Exchange
 **URL:** https://docs.netskope.com/en/greynoise-plugin-for-threat-exchange/
 **Last Modified:** 2026-08-27T01:06:57+00:00
-**Scraped:** 2026-11-18T15:48:37.527162+00:00
+**Scraped:** 2026-11-19T15:56:52.627559+00:00
 
 GreyNoise Plugin for Threat Exchange - Netskope Technical Documentation
 GreyNoise Plugin for Threat Exchange
@@ -26517,7 +26525,7 @@ GreyNoise Plugin for Threat Exchange
 ## Threat Protection with TSS Fast Scan
 **URL:** https://docs.netskope.com/en/threat-protection-with-tss-fast-scan/
 **Last Modified:** 2026-09-23T08:04:00+00:00
-**Scraped:** 2026-11-18T15:49:29.329589+00:00
+**Scraped:** 2026-11-19T15:57:43.144572+00:00
 
 Threat Protection with TSS Fast Scan - Netskope Technical Documentation
 Threat Protection with TSS Fast Scan
@@ -26619,8 +26627,9 @@ Threat Protection with TSS Fast Scan
 ## Threat Protection Profiles for Private App Segments
 **URL:** https://docs.netskope.com/en/threat-protection-profiles-for-private-app-segments/
 **Last Modified:** 2026-10-08T22:19:55+00:00
-**Scraped:** 2026-11-18T15:49:50.038865+00:00
+**Scraped:** 2026-11-19T15:58:03.697637+00:00
 
+Threat Protection Profiles for Private App Segments - Netskope Technical Documentation
 Threat Protection Profiles for Private App Segments
 Use a Threat Protection profile to inspect supported private web traffic with the licensed threat engines.
 Before You Begin
@@ -26724,7 +26733,7 @@ Threat Protection Profiles for Private App Segments
 ## Configure Threat Exchange Business Rules
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-business-rules/
 **Last Modified:** 2026-10-27T18:26:01+00:00
-**Scraped:** 2026-11-18T15:51:25.376516+00:00
+**Scraped:** 2026-11-19T15:59:37.297324+00:00
 
 Configure Threat Exchange Business Rules - Netskope Technical Documentation
 Configure Threat Exchange Business Rules
@@ -26808,9 +26817,8 @@ Configure Threat Exchange Business Rules
 ## Threat Exchange Module
 **URL:** https://docs.netskope.com/en/threat-exchange-module/
 **Last Modified:** 2026-10-27T18:29:30+00:00
-**Scraped:** 2026-11-18T15:51:32.632961+00:00
+**Scraped:** 2026-11-19T15:59:44.457190+00:00
 
-Threat Exchange Module - Netskope Technical Documentation
 Threat Exchange Module
 Threat Exchange is a rules-based engine for collecting and sharing indicators related to file hashes of malicious software (malware), file hashes of files used in Netskope DLP policy for absolute matching, or URLs used by plugged in systems for policy enforcement of restricted or allowed access. Indicators can be collected by a source plugin, or generated from Risk Exchange entity records and from unified mappings created in the Universal Schema Builder.
 To enable the
@@ -26895,7 +26903,7 @@ Threat Exchange Module
 ## Configure Threat Exchange IoC Sharing
 **URL:** https://docs.netskope.com/en/configure-threat-exchange-ioc-sharing/
 **Last Modified:** 2026-10-27T18:30:04+00:00
-**Scraped:** 2026-11-18T15:51:34.074648+00:00
+**Scraped:** 2026-11-19T15:59:45.654272+00:00
 
 Configure Threat Exchange IoC Sharing - Netskope Technical Documentation
 Configure Threat Exchange IoC Sharing
@@ -27153,11 +27161,834 @@ In this Topic
 Configure Threat Exchange IoC Sharing
 
 ---
+## Cynet Plugin for Threat Exchange
+**URL:** https://docs.netskope.com/en/cynet-plugin-for-threat-exchange/
+**Last Modified:** 2026-11-19T01:32:15+00:00
+**Scraped:** 2026-11-19T16:01:39.200854+00:00
+
+Cynet Plugin for Threat Exchange - Netskope Technical Documentation
+Cynet Plugin for Threat Exchange
+Release Notes
+1.0.0
+Added
+Initial Release.
+Cynet plugin fetches Threat IoCs (SHA256, Domain, IP Address, and URLs) from Cynet Alerts, and also supports Remediation Action on a File (SHA256).
+This document explains how to configure the Cynet v1.0.0 plugin for the Threat Exchange module of the Netskope Cloud Exchange platform. Cynet plugin fetches Threat IOCs (SHA256, Domain, IP Address and URLs) from Cynet Alerts, and also supports Remediation Action on a File (SHA256).
+Prerequisites
+To complete this configuration, you need:
+A Netskope Tenant (or multiple, for example, production and development/test instances)
+A Netskope Cloud Exchange tenant with the
+Tenant plugin
+and
+Threat Exchange
+plugin already configured.
+Connectivity to a Cynet instance. Collect your Cynet Base URL, Client ID, Username, and Password information. These are needed to configure the plugin.
+Cynet Plugin Supports
+Cynet plugin fetches Threat IoCs (SHA256, Domain, IP Address and URLs) from Cynet Alerts, and also supports Remediation Action on a File (SHA256).
+Fetched Indicator Types
+Actions Supported
+URL(Domains, IP Address), SHA256
+Remediation:
+– Delete File
+– Unquarantine
+– Verify File
+– Kill Process
+This plugin only supports performing the remediate actions on SHA256 type of IOCs. To perform this action on SHA256 it is mandatory for SHA256 to be present on the Cynet platform.
+Mappings
+Pull Mapping
+Cloud Exchange Fields
+Cynet Fields
+Value
+SHA256 : 1
+AlertDomain : 1
+AlertIp : 2
+AlertUrl : 3
+Type
+SHA256 : 0
+URL : 1
+URL : 2
+URL : 3
+firstSeen
+FirstSeenUtc
+lastSeen
+LastSeenUtc
+comments
+IncidentDescription
+extendedInformation
+AlertUrl
+Severity Mapping
+Cloud Exchange Severity
+Cynet Severity
+Unknown
+1
+Low
+2
+Medium
+3
+High
+4
+Critical
+5
+Unknown
+99
+API Details
+List of APIs used
+API Endpoint
+Method
+Use case
+/api/account_token
+POST
+To generate the auth token.
+/api/alerts/bulk
+GET
+To pull alerts from Cynet
+/api/file/remediation/delete
+POST
+To perform Delete File Remediation Action
+/api/file/remediation/path/quarantine
+POST
+To perform Quarantine File Remediation Action
+/api/file/remediation/unquarantine
+POST
+To perform Unquarantine File Remediation Action
+/api/file/remediation/verify
+POST
+To perform Verify File Remediation Action
+api/file/remediation/kill
+POST
+To perform Kill Process Remediation Action.
+Alerts API provides a single API to fetch all types of alerts so to reduce the API calls from Netskope CE to Cynet we are using Alert components.
+Get Access Token
+Endpoint:
+/api/account_token
+Method:
+POST
+Data
+Key
+Value
+user_name
+\<User Name\>
+password
+\<Password\>
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Sample Response
+{
+  "access_token": "string"
+}
+Pull alerts
+Endpoint:
+/api/alerts/bulk
+Method:
+GET
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Params
+Key
+Value
+LastSeen
+2019-08-24T14:15:22Z
+Limit
+100
+Offset
+1
+access_token
+\<Access Token\>
+Sample Response
+{
+  "SyncTimeUtc": "2019-08-24T14:15:22Z",
+  "Entities": [
+    {
+      "ClientDbId": 0,
+      "Uniqueness": "string",
+      "IncidentName": "string",
+      "IncidentDescription": "string",
+      "IncidentJsonDescription": "string",
+      "IncidentRecomendation": "string",
+      "HostId": 0,
+      "HostIp": "string",
+      "HostName": "string",
+      "ProductId": 0,
+      "Sha256": "string",
+      "Path": "string",
+      "CommandLine": "string",
+      "AlertIp": 0,
+      "AlertDomain": "string",
+      "DomainId": 0,
+      "AlertUrl": "string",
+      "UserId": 0,
+      "UserName": "string",
+      "Severity": 1,
+      "Status": 0,
+      "AlertType": 0,
+      "DateIn": "2019-08-24T14:15:22Z",
+      "LastSeen": "2019-08-24T14:15:22Z",
+      "DateChanged": "2019-08-24T14:15:22Z",
+      "RemediationStatus": 0,
+      "DomainCrc": 0,
+      "EpsActionStatus": 0,
+      "File": {
+        "ClientDbId": 0,
+        "Sha256": "string",
+        "CommonFileName": "string",
+        "MetaProductName": "string",
+        "Company": "string",
+        "RiskLevel": 0,
+        "EndPoints": 0,
+        "Antivirus": 0,
+        "VtRiskLevel": 0,
+        "LastSeen": "2019-08-24T14:15:22Z",
+        "DateIn": "2019-08-24T14:15:22Z"
+      },
+      "AlertGraphJsonResolved": "string",
+      "AlertGraphJsonRaw": "string",
+      "AutoRemediate": {
+        "DbId": 0,
+        "RuleName": "string",
+        "AlertName": "string",
+        "Description": "string",
+        "AlertId": 0,
+        "Severity": "string",
+        "Priority": 0,
+        "DomainToBlock": "string",
+        "UrlToBlock": "string",
+        "IpToBlock": "string",
+        "Sha256": "string",
+        "FileName": "string",
+        "UserName": "string",
+        "IsFileFilter": true,
+        "IsNetworkFilter": true,
+        "IsUserFilter": true,
+        "HostsGroupsStr": "string",
+        "Status": 0,
+        "RemediationType": 0,
+        "RemediationMethod": 0,
+        "RemediationParams": "string",
+        "CreatedDate": "2019-08-24T14:15:22Z",
+        "UpdatedDate": "2019-08-24T14:15:22Z",
+        "RemediationMethodType": 0,
+        "DynamicRemediationTemplateId": 0,
+        "DynamicRemediationTemplateName": "string",
+        "IsEnabled": true,
+        "RemediationAction": "string"
+      },
+      "AutoRemediationId": 0,
+      "ScanGroupName": "string",
+      "EpsRemediationActionPerformed": 0,
+      "FirstSeenUtc": "2019-08-24T14:15:22Z",
+      "LastSeenUtc": "2019-08-24T14:15:22Z",
+      "EpsLastSeenLocal": "2019-08-24T14:15:22Z",
+      "EpsLastSeenUtc": "2019-08-24T14:15:22Z"
+    }
+  ]
+}
+Delete File Remediation Action
+Endpoint:
+/api/file/remediation/delete
+Method:
+POST
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Data
+Key
+Value
+sha256
+\<SHA256 value\>
+host
+None
+Sample Response
+{
+  "remediation_items": [
+    -9007199254740991
+  ]
+}
+Quarantine File Remediation Action
+Endpoint:
+/api/file/remediation/path/quarantine
+Method:
+POST
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Data
+Key
+Value
+sha256
+\<SHA256 value\>
+host
+None
+Sample Response
+{
+  "remediation_items": [
+    -9007199254740991
+  ]
+}
+Unquarantine File Remediation Action
+Endpoint:
+/api/file/remediation/unquarantine
+Method:
+POST
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Data
+Key
+Value
+sha256
+\<SHA256 value\>
+host
+None
+Sample Response
+{
+  "remediation_items": [
+    -9007199254740991
+  ]
+}
+Verify File
+Endpoint:
+/api/file/remediation/verify
+Method:
+POST
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Data
+Key
+Value
+sha256
+\<SHA256 value\>
+host
+None
+Sample Response
+{
+  "remediation_items": [
+    -9007199254740991
+  ]
+}
+Kill Process File Remediation Action
+Endpoint:
+/api/file/remediation/unquarantine
+Method:
+POST
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Accept
+application/json
+Content-Type
+application/json
+Data
+Key
+Value
+sha256
+\<SHA256 value\>
+host
+None
+Sample Response
+{
+  "remediation_items": [
+    -9007199254740991
+  ]
+}
+User Agent
+netskope-ce-5.0.0-cte-cynet-v1.0.0
+Workflow
+Configure the Cynet plugin.
+Configure a Business Rule.
+Configure Sharing.
+Configure the Cynet Plugin
+In Cloud Exchange, go to
+Settings > Plugin Store
+. Search for and select the
+Cynet v1.0.0 (CTE)
+plugin.
+Enter the Basic Information:
+Configuration Name:
+Unique name for the configuration.
+Sync Interval:
+Leave the default.
+Aging Criteria:
+Expiry time of the plugin in days. (Default: 90)
+Override Reputation:
+Set a value to override the reputation of indicators received from this configuration.
+Enable SSL Validation:
+Enable for SSL Certificate validation.
+Use System Proxy:
+Enable if the proxy is required for communication.
+Click
+Next
+and enter the Configuration Parameters:
+Base URL:
+Base URL of Cynet instance (like https://local.api.cynet.com).
+Client ID:
+Client ID generated from the Cynet platform. The Client ID can be generated from the
+Global Settings > Client Site Manager > Sites Status
+page.
+Username:
+Cynet platform login username.
+Password:
+Cynet platform login password.
+Enable Polling:
+Enable/Disable polling Threat IoCs from Cynet. Disable if you only need to perform the Remediation Action.
+Initial Range:
+Number of days Threat IoCs to pull in the initial run.
+Click
+Save
+.
+Configure a Threat Exchange Business Rule for Cynet
+To share indicators fetched from the Cynet to the Netskope and vice versa you will need to have a business rule that will filter out the indicators that you want to share.
+To configure a business rule:
+In Threat Exchange, go to
+Business Rules
+and click
+Create New Rule
+.
+Add the filter(s) according to your requirement in the rule. When finished, click
+Save
+.
+Configure Threat Exchange Sharing
+To share IoCs from Cloud Exchange to the Cynet platform, or vice-versa:
+In Threat Exchange, go to
+Sharing
+and click
+Add Sharing Configuration
+.
+Select your Source Configuration (Netskope CTE), Business Rule, Destination Configuration (CTE Cynet), and Target.
+Select the type of Remediation action from the dropdown list with values: Delete File, Kill Process, Quarantine, Unquarantine, Verify File.
+Click
+Save
+.
+The Plugin currently does not make an explicit call to check the status of remediation actions performed. It performs the remediation action, and based on the remediation action’s response code, it decides whether the action was successful or not.
+In this Topic
+Cynet Plugin for Threat Exchange
+
+---
+## Microsoft Defender Threat Intelligence Plugin for Threat Exchange
+**URL:** https://docs.netskope.com/en/microsoft-defender-threat-intelligence-plugin-for-threat-exchange/
+**Last Modified:** 2026-11-19T02:05:31+00:00
+**Scraped:** 2026-11-19T16:01:40.382963+00:00
+
+Microsoft Defender Threat Intelligence Plugin for Threat Exchange
+Release Notes
+1.0.0
+Added
+Initial Release.
+Fetch Indicators of type URL (Hostnames and IP Addresses) from the Threat Intelligence Profile along with their reputation. This plugin does not support pushing indicators to Microsoft Defender Threat Intelligence platform.
+This document explains how to configure the Microsoft Defender Threat Intelligence v1.0.0 plugin for the Threat Exchange module of the Netskope Cloud Exchange platform. This plugin is used to pull indicators of type URLs (Hostnames and IP Addresses) from Microsoft Defender Threat Intelligence platform from the Intelligence Profiles. The Plugin does not support sharing indicators to Microsoft Defender Threat Intelligence platform.
+Prerequisites
+To complete this configuration, you need:
+A Netskope Tenant (or multiple, for example, production and development/test instances).
+A Netskope Cloud Exchange tenant with the
+Tenant plugin
+and
+Threat Exchange
+plugin already configured.
+An Application created on the Microsoft Identity platform, and it’s Tenant ID, Client ID, and Client Secret.
+Connectivity to Microsoft Identity platform.
+Microsoft Defender Threat Intelligence Plugin Support
+This plugin is used to pull indicators of type URLs (Hostnames and IP Addresses) from the Microsoft Defender Threat Intelligence platform from the Intelligence Profiles. The Plugin does not support sharing indicators to the Microsoft Defender Threat Intelligence platform.
+Fetched Indicator Types
+Shared Indicator Types
+URL (Hostnames, IP Address)
+Not Supported
+Note
+Only those Intelligence profiles will be fetched whose
+kind
+is
+actor
+.
+Kind: A categorization of the type of this intelligenceProfile. The possible values are:
+actor
+,
+tool
+,
+unknownFutureValue
+.
+Mappings
+Pull Mapping
+Cloud Exchange Fields
+Microsoft Defender Threat Intelligence Fields
+value
+artifact.id from List indicators response
+type
+URL (static)
+firstSeen
+firstSeenDateTime
+lastSeen
+lastSeenDateTime
+reputation
+score from Get hostReputation response
+tags
+classification from Get hostReputation response
+comments
+tradecraft.content from List Intelligence Profile
+The fields selected based on the description of the fields available in the platform are:
+Tradecraft:
+Formatted information featuring a description of the distinctive tactics, techniques, and procedures (TTP) of the group, followed by a list of all known custom, commodity, and publicly available implants used by the group.
+Reputation is mapped with score
+: The score can range from 1-100, so the mapping of the score provided is using the following:
+normalized_score = round (score / 10)
+. iIf the score is between 0-100, it will be considered as 1.
+Permissions
+ThreatIntelligence.Read.All (*attached to the Application whose Client Credentials are used).*
+API Details
+List of APIs used
+API Endpoint
+Method
+Use case
+<TENANT_ID>
+/oauth2/token
+POST
+Generate Auth Token
+/security/threatIntelligence/intelProfiles
+GET
+Fetch Intelligence Profiles
+/security/threatIntelligence/intelProfiles/
+<INTEL_PROFILE_ID>
+/indicators
+GET
+Fetch Indicator from a single Intelligence Profile
+/security/threatIntelligence/hosts/
+<HOST_ID>
+/reputation
+GET
+Fetching Reputation for a single indicator
+Note
+The List intelProfiles used in the plugin only supports Global Service as the National Cloud Deployments, and the plugin supports only the below Base Endpoint: https://login.microsoftonline.com. This is used for Generating the Authorization Token.
+Microsoft Graph APIs Base URL for v1.0:
+https://graph.microsoft.com/v1.0
+Get Auth Token
+Endpoint:
+<TENANT_ID>
+/oauth2/token
+Method:
+POST
+Data
+Key
+Value
+scope
+https://graph.microsoft.com/.default
+client_id
+<CLIENT_ID>
+client_secret
+<CLIENT_SECRET>
+grant_type
+client_credentials
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-microsoft-defender-threat-intelligence-v1.0.0
+Content-Type
+application/x-www-form-urlencoded
+Accept
+application/json
+Sample Response
+{
+  "token_type": "Bearer",
+  "expires_in": 3599,
+  "ext_expires_in": 3599,
+  "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1uQ19WWmNBVGZNNXBP..."
+}
+Fetching Intelligence Profile
+Endpoint:
+/security/threatIntelligence/intelProfiles
+Method:
+GET
+Parameters
+Key
+Value
+$filter
+firstActiveDateTime ge
+<checkpoint>
+$select
+id,tradecraft,kind
+$top
+100
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-microsoft-defender-threat-intelligence-v1.0.0
+Authorization
+Bearer
+<ACCESS_TOKEN>
+Content-Type
+application/json
+Sample Response
+HTTP/1.1 200 OK
+Content-Type: application/json
+{
+  "value": [
+    {
+      "@odata.type": "#microsoft.graph.security.intelligenceProfile",
+      "id": "9b01de37bf66d1760954a16dc2b52fed2a7bd4e093dfc8a4905e108e4843da80",
+      "kind": "actor",
+      "title": "Aqua Blizzard",
+      "firstActiveDateTime": "2020-02-24T00:00:00Z",
+      "aliases": [
+          "Primitive Bear",
+          "ACTINIUM",
+          "SectorC08",
+          "shuckworm",
+          "Gamaredon",
+          "UNC530",
+          "Armageddon"
+      ],
+      "targets": [
+          "Government Agencies & Services: Defense",
+          "Government Agencies & Services: Law Enforcement",
+          "Non-Government Organization: Human Rights Organization"
+      ],
+      "countriesOrRegionsOfOrigin": [
+        {
+          "@odata.type": "microsoft.graph.security.intelligenceProfileCountryOrRegionOfOrigin",
+          "label": "Country/Region",
+          "code": "Country/Region code"
+        }
+      ],
+      "summary": {
+        "@odata.type":"microsoft.graph.security.formattedContent",
+        "content": "The actor that Microsoft tracks as Aqua Blizzard (ACTINIUM) is
+a nation-state activity group based out of ...",
+        "format": "text"
+      },
+      "description": {
+        "@odata.type": "microsoft.graph.security.formattedContent",
+        "content": "## Snapshot\r\nThe actor that Microsoft tracks as Aqua Blizzard (ACTINIUM) is a nation-state activity group based out of ...",
+        "format": "markdown"
+      },
+      "tradecraft": {
+        "@odata.type": "microsoft.graph.security.formattedContent",
+        "content": "Aqua Blizzard (ACTINIUM) primarily uses spear phishing emails
+to infect targets. These emails harness remote template injection to
+load malicious code or content. Typically, ...",
+        "format": "markdown"
+      }
+    }
+  ]
+}
+Fetch Indicator from a single Intelligence Profile
+Endpoint:
+/security/threatIntelligence/intelProfiles/
+<INTEL_PROFILE_ID>
+/indicators
+Method:
+GET
+Data:
+NA
+Headers
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-microsoft-defender-threat-intelligence-v1.0.0
+Authorization
+Bearer
+<ACCESS_TOKEN>
+Content-Type
+application/json
+Sample Response
+HTTP/1.1 200 OK
+Content-Type: application/json
+{
+  "value": [
+    {
+      "@odata.type": "#microsoft.graph.security.intelligenceProfileIndicator",
+      "id": "ff3eecd2-a2be-27c2-8dc0-40d1c0eada55",
+      "source": "microsoft",
+      "firstSeenDateTime": "2022-05-02T23:09:20.000Z",
+      "lastSeenDateTime": null,
+      "artifact": {
+          "@odata.type": "#microsoft.graph.security.hostname",
+          "id": "fake-malicious.site"
+      }
+    }
+  ]
+}
+artifact.id will be fetched as the indicator value
+Fetching Reputation for a Single Indicator
+Endpoint:
+/security/threatIntelligence/hosts/
+<HOST_ID>
+/reputation
+Method:
+GET
+Data:
+NA
+Headers:
+Key
+Value
+User-Agent
+netskope-ce-5.0.0-cte-microsoft-defender-threat-intelligence-v1.0.0
+Content-Type
+application/x-www-form-urlencoded
+Accept
+application/json
+Sample Response
+HTTP/1.1 200 OK
+Content-Type: application/json
+{
+    "@odata.type": "#microsoft.graph.security.hostReputation",
+    "id": "1e3b9ded-abb6-1828-c4ef-a5ca48b287a0",
+    "classification": "malicious",
+    "score": 100,
+    "rules": [
+      {
+        "name": "Microsoft Defender Threat Intelligence Intel Article",
+        "description": "Activity Snapshot: DPRK Actors Target Maritime Sector",
+        "severity": "high",
+        "relatedDetailsUrl": "https://ti.defender.microsoft.com/article/831b70a4"
+      },
+      {
+        "name": "Name server",
+        "description": "Domain is using a name server that has been associated with suspicious behavior",
+        "severity": "medium",
+        "relatedDetailsUrl": null
+      },
+      {
+        "name": "Registrar",
+        "description": "Domains registered using this registrar are frequently associated with suspicious behavior",
+        "severity": "medium",
+        "relatedDetailsUrl": null
+      },
+      {
+        "name": "Resolving IP Address",
+        "description": "192.168.1.1",
+        "severity": "low",
+        "relatedDetailsUrl": "https://ti.defender.microsoft.com/search?query=192.168.1.1"
+      }
+  ]
+}
+User Agent
+netskope-ce-5.0.0-cte-microsoft-defender-threat-intelligence-v1.0.0
+Workflow
+Generate configuration parameter.
+Configure the Netskope Tenant
+Configure the Netskope CTE plugin
+Configure the Microsoft Defender Threat Intelligence plugin
+Add Business Rule
+Add Sharing
+Generate the Configuration Parameter on the Microsoft Identity Platform
+Follow the steps provided in the links to generate the necessary plugin credentials.
+Register the Application:
+https://learn.microsoft.com/en-us/graph/auth/auth-concepts#register-the-application
+https://learn.microsoft.com/en-us/graph/auth-register-app-v2
+Add Client Secret:
+https://learn.microsoft.com/en-us/graph/auth-register-app-v2#option-2-add-a-client-secret
+Configure Permissions for Microsoft Graph:
+https://learn.microsoft.com/en-us/graph/auth-v2-service?tabs=http#2-configure-permissions-for-microsoft-graph
+Permission needed:
+ThreatIntelligence.Read.All
+Request administrator consent:
+https://learn.microsoft.com/en-us/graph/auth-v2-service?tabs=http#3-request-administrator-consent
+Configure the Microsoft Defender Threat Intelligence Plugin
+In Cloud Exchange, go to
+Settings > Plugin Store
+.
+Search for and select the
+Microsoft Defender Threat Intelligence v1.0.0 (CTE)
+plugin.
+Enter the Basic Information:
+Configuration Name:
+Unique name for the configuration.
+Sync Interval:
+Leave the default.
+Aging Criteria:
+Expiry time of the plugin in days (Default: 90).
+Override Reputation:
+Set a value to override the reputation of indicators received from this configuration.
+Enable SSL Validation:
+Enable for SSL Certificate validation.
+Use System Proxy:
+Enable if the proxy is required for communication.
+Click
+Next
+and enter the Configuration Parameters:
+Tenant ID:
+Tenant ID of your Azure application.
+Application (client) ID:
+Application (client) ID of your Azure application.
+Client Secret:
+Client Secret of your Azure application.
+Initial Range:
+Number of days Threat IoCs to pull in the initial run.
+Click
+Save
+.
+Configure a Threat Exchange Business Rule for Microsoft Defender Threat Intelligence
+To share indicators fetched from Microsoft Defender Threat Intelligence to Netskope and vice versa, you need to have a business rule that will filter out the indicators that you want to share. To configure a business rule:
+In Threat Exchange, go to
+Business Rules
+and click
+Create New Rule
+.
+Add the filter(s) according to your requirements in the rule and click
+Save
+.
+Configure Threat Exchange Sharing for Microsoft Defender Threat Intelligence
+To share IoCs pulled from Microsoft Defender Threat Intelligence to Cloud Exchange:
+In Threat Exchange, go to
+Sharing
+and click
+Add Sharing Configuration
+.
+Select your Source Configuration (Microsoft Defender Threat Intelligence), Business Rule, Destination Configuration (CTE Netskope), and Target. When finished, click
+Save
+.
+Since this plugin does not support sharing IoCs from Cloud Exchange to the Microsoft Defender Threat Intelligence platform, you can share the IoCs pulled from it and share it to your Netskope tenant. Follow steps in the
+Netskope plugin configuration guide
+to share IoCs pulled from Microsoft Defender Threat Intelligence plugin to your Netskope tenant.
+In this Topic
+Microsoft Defender Threat Intelligence Plugin for Threat Exchange
+
+---
 ## Threat Protection
 **URL:** https://docs.netskope.com/en/threat-protection/
 **Last Modified:** 2026-11-12T00:36:36+00:00
-**Scraped:** 2026-11-18T15:54:16.832529+00:00
+**Scraped:** 2026-11-19T16:02:28.017063+00:00
 
+Threat Protection - Netskope Technical Documentation
 Threat Protection
 Modern threats need a multi-layered security approach able to defend organizations from known threats and zero-days with the same level of efficacy. Netskope has built a comprehensive threat protection framework that allows organizations to defend against malware through different engines including viruses, worms, trojans, ransomware, keyloggers, rootkits, downloaders, backdoors, botnets, spyware, info stealers, adware, mobile threats, potentially unwanted software, fileless malware, crypto-mining, wipers, packers, installers, malicious websites, URLs, malicious scripts (XSS, etc.), HTML smuggling, documents, macros, archives (up to 9 levels), exploits, credential compromise, domains (including Punycode, hijacking, compromise, typosquatting, character substitution, etc.), command and control, data exfiltration, beaconing, and other attacker artifacts, traffic, and malicious infrastructure.
 The Standard Inline Threat engines support:
