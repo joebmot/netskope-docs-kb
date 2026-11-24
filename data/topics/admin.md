@@ -1,12 +1,12 @@
 # Netskope Docs — Admin
-_Generated: 2026-11-23 18:29 UTC_
+_Generated: 2026-11-24 18:05 UTC_
 _Pages: 52_
 
 ---
 ## About the Admin Console
 **URL:** https://docs.netskope.com/en/about-the-admin-console/
 **Last Modified:** 2025-08-31T01:50:45+00:00
-**Scraped:** 2026-11-23T17:15:25.745367+00:00
+**Scraped:** 2026-11-24T16:54:49.365954+00:00
 
 About the Admin Console
 The Admin Console provides a central interface for configuring the settings of the Netskope Security Platform in addition to performing a variety of functions, like creating reports to managing incidents. To begin, log in your Netskope Tenant.
@@ -56,7 +56,7 @@ About the Admin Console
 ## Access the Admin Console
 **URL:** https://docs.netskope.com/en/access-the-admin-console/
 **Last Modified:** 2025-08-31T01:50:47+00:00
-**Scraped:** 2026-11-23T17:15:26.900495+00:00
+**Scraped:** 2026-11-24T16:54:50.482479+00:00
 
 Access the Admin Console - Netskope Technical Documentation
 Access the Admin Console
@@ -86,9 +86,8 @@ Access the Admin Console
 ## Create Local Administrators
 **URL:** https://docs.netskope.com/en/create-local-administrators/
 **Last Modified:** 2025-08-31T01:50:47+00:00
-**Scraped:** 2026-11-23T17:16:34.904862+00:00
+**Scraped:** 2026-11-24T16:55:55.045442+00:00
 
-Create Local Administrators - Netskope Technical Documentation
 Create Local Administrators
 Go to
 Settings > Administration > Admins
@@ -122,7 +121,7 @@ Create Local Administrators
 ## Secure Tenant Configuration and Hardening
 **URL:** https://docs.netskope.com/en/secure-tenant-configuration-and-hardening/
 **Last Modified:** 2026-11-10T22:19:59+00:00
-**Scraped:** 2026-11-23T17:17:34.941284+00:00
+**Scraped:** 2026-11-24T16:56:52.596416+00:00
 
 Secure Tenant Configuration and Hardening
 This document outlines the security configurations available in Netskope products and how those can be used to harden the security of Netskope products and components deployed in customer environments.
@@ -747,7 +746,7 @@ Secure Tenant Configuration and Hardening
 ## Delete or Downgrade the Global Administrator Account
 **URL:** https://docs.netskope.com/en/delete-or-downgrade-the-global-administrator-account-326348/
 **Last Modified:** 2025-08-31T01:41:20+00:00
-**Scraped:** 2026-11-23T17:21:46.657722+00:00
+**Scraped:** 2026-11-24T17:00:55.628243+00:00
 
 Delete or Downgrade the Global Administrator Account - Netskope Technical Documentation
 Delete or Downgrade the Global Administrator Account
@@ -795,7 +794,7 @@ Delete or Downgrade the Global Administrator Account
 ## Delete or Downgrade the Global Administrator Account
 **URL:** https://docs.netskope.com/en/delete-or-downgrade-the-global-administrator-account-326337/
 **Last Modified:** 2025-09-01T12:34:07+00:00
-**Scraped:** 2026-11-23T17:21:48.945152+00:00
+**Scraped:** 2026-11-24T17:00:57.827824+00:00
 
 Delete or Downgrade the Global Administrator Account - Netskope Technical Documentation
 Delete or Downgrade the Global Administrator Account
@@ -843,7 +842,7 @@ Delete or Downgrade the Global Administrator Account
 ## Delete or Downgrade the Global Administrator Account
 **URL:** https://docs.netskope.com/en/delete-or-downgrade-the-global-administrator-account/
 **Last Modified:** 2025-09-01T12:34:10+00:00
-**Scraped:** 2026-11-23T17:21:50.185579+00:00
+**Scraped:** 2026-11-24T17:00:58.925231+00:00
 
 Delete or Downgrade the Global Administrator Account - Netskope Technical Documentation
 Delete or Downgrade the Global Administrator Account
@@ -891,7 +890,7 @@ Delete or Downgrade the Global Administrator Account
 ## Deleting AWS Instances in the Netskope Tenant
 **URL:** https://docs.netskope.com/en/deleting-aws-instances-in-the-netskope-tenant/
 **Last Modified:** 2025-08-31T01:46:32+00:00
-**Scraped:** 2026-11-23T17:22:02.945987+00:00
+**Scraped:** 2026-11-24T17:01:11.116781+00:00
 
 Deleting AWS Instances in the Netskope Tenant - Netskope Technical Documentation
 Deleting AWS Instances in the Netskope Tenant
@@ -911,7 +910,7 @@ Deleting AWS Instances in the Netskope Tenant
 ## Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA
 **URL:** https://docs.netskope.com/en/step-3-3-add-the-azure-subscription-to-the-netskope-tenant-for-csa/
 **Last Modified:** 2025-08-31T01:46:02+00:00
-**Scraped:** 2026-11-23T17:27:32.776402+00:00
+**Scraped:** 2026-11-24T17:06:25.719723+00:00
 
 Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA - Netskope Technical Documentation
 Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA
@@ -972,7 +971,7 @@ Step 3/3: Add the Azure Subscription to the Netskope tenant for CSA
 ## Step 3/3: Set up a Netskope instance with Azure App Registration credentials
 **URL:** https://docs.netskope.com/en/step-3-3-add-the-azure-subscription-to-the-netskope-tenant-for-forensics/
 **Last Modified:** 2025-08-31T01:46:26+00:00
-**Scraped:** 2026-11-23T17:27:35.073803+00:00
+**Scraped:** 2026-11-24T17:06:27.921374+00:00
 
 Step 3/3: Set up a Netskope instance with Azure App Registration credentials - Netskope Technical Documentation
 Step 3/3: Set up a Netskope instance with Azure App Registration credentials
@@ -1034,7 +1033,7 @@ Step 3/3: Set up a Netskope instance with Azure App Registration credentials
 ## Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection
 **URL:** https://docs.netskope.com/en/step-4-4-add-the-azure-subscription-to-the-netskope-tenant-for-data-protection/
 **Last Modified:** 2025-08-31T01:46:14+00:00
-**Scraped:** 2026-11-23T17:27:36.217216+00:00
+**Scraped:** 2026-11-24T17:06:29.023493+00:00
 
 Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection - Netskope Technical Documentation
 Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection
@@ -1104,7 +1103,7 @@ Step 4/4: Add the Azure Subscription to the Netskope Tenant for Data Protection
 ## Upload Logs to the Netskope Tenant UI
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-ui/
 **Last Modified:** 2025-08-31T01:50:03+00:00
-**Scraped:** 2026-11-23T17:28:06.689022+00:00
+**Scraped:** 2026-11-24T17:06:58.505878+00:00
 
 Upload Logs to the Netskope Tenant UI - Netskope Technical Documentation
 Upload Logs to the Netskope Tenant UI
@@ -1132,8 +1131,9 @@ Upload Logs to the Netskope Tenant UI
 ## Operating Cloud Exchange
 **URL:** https://docs.netskope.com/en/cloud-exchange-console/
 **Last Modified:** 2026-03-21T01:18:36+00:00
-**Scraped:** 2026-11-23T17:30:29.772045+00:00
+**Scraped:** 2026-11-24T17:09:16.082000+00:00
 
+Operating Cloud Exchange - Netskope Technical Documentation
 Operating Cloud Exchange
 Only Admins can manage certain Settings. This section provides details about the different pages and configurations for the Cloud Exchange platform. For details about the contents on the Home page, go to
 Explore the Dashboards
@@ -1164,8 +1164,9 @@ Operating Cloud Exchange
 ## Create a File Profile in your Netskope Tenant for File Hashes
 **URL:** https://docs.netskope.com/en/create-a-file-profile-in-your-netskope-tenant-for-file-hashes/
 **Last Modified:** 2025-11-01T00:42:02+00:00
-**Scraped:** 2026-11-23T17:31:10.321813+00:00
+**Scraped:** 2026-11-24T17:09:54.519778+00:00
 
+Create a File Profile in your Netskope Tenant for File Hashes - Netskope Technical Documentation
 Create a File Profile in your Netskope Tenant for File Hashes
 The Netskope tenant can not receive information from Threat Exchange via RESTful API commands until a file has been created in the Netskope tenant.
 In your Netskope tenant, go to
@@ -1190,7 +1191,7 @@ Create a File Profile in your Netskope Tenant for File Hashes
 ## Admin Account Domains
 **URL:** https://docs.netskope.com/en/admin-account-domains/
 **Last Modified:** 2025-08-31T01:38:42+00:00
-**Scraped:** 2026-11-23T17:34:24.706066+00:00
+**Scraped:** 2026-11-24T17:12:59.132432+00:00
 
 Admin Account Domains - Netskope Technical Documentation
 Admin Account Domains
@@ -1255,9 +1256,8 @@ Admin Account Domains
 ## Administration
 **URL:** https://docs.netskope.com/en/administration/
 **Last Modified:** 2025-08-31T01:38:34+00:00
-**Scraped:** 2026-11-23T17:34:25.848864+00:00
+**Scraped:** 2026-11-24T17:13:00.212164+00:00
 
-Administration - Netskope Technical Documentation
 Administration
 As an administrator, you have access to your tenant instance in Netskope. The Netskope UI provides full access to deploying and managing the Netskope solution. There are several administrator account types. You can assign each admin a specific role which has different admin privileges. You can configure an admin user as one of the admin account types. In addition, you can create custom designed roles based on your business needs.
 Log in to your tenant instance in Netskope using the URL provided in the initial onboarding email sent from Netskope. Upon first log in, you will be prompted to change the admin password.
@@ -1285,7 +1285,7 @@ Administration
 ## Admins Settings Page
 **URL:** https://docs.netskope.com/en/admins-settings-page/
 **Last Modified:** 2025-08-31T01:38:48+00:00
-**Scraped:** 2026-11-23T17:34:28.154617+00:00
+**Scraped:** 2026-11-24T17:13:02.377846+00:00
 
 Admins Settings Page - Netskope Technical Documentation
 Admins Settings Page
@@ -1310,8 +1310,9 @@ Admins Settings Page
 ## Assign Roles to Restricted Administrators
 **URL:** https://docs.netskope.com/en/assign-roles-to-restricted-administrators/
 **Last Modified:** 2025-08-31T01:38:41+00:00
-**Scraped:** 2026-11-23T17:34:41.251981+00:00
+**Scraped:** 2026-11-24T17:13:14.394948+00:00
 
+Assign Roles to Restricted Administrators - Netskope Technical Documentation
 Assign Roles to Restricted Administrators
 To assign roles to a restricted admin:
 Go to
@@ -1334,7 +1335,7 @@ Assign Roles to Restricted Administrators
 ## Change Access for an Admin Account
 **URL:** https://docs.netskope.com/en/change-access-for-an-admin-account/
 **Last Modified:** 2026-02-20T00:17:03+00:00
-**Scraped:** 2026-11-23T17:34:44.692932+00:00
+**Scraped:** 2026-11-24T17:13:17.702478+00:00
 
 Change Access for an Admin Account - Netskope Technical Documentation
 Change Access for an Admin Account
@@ -1372,7 +1373,7 @@ Change Access for an Admin Account
 ## Create Administrators
 **URL:** https://docs.netskope.com/en/create-administrators/
 **Last Modified:** 2025-08-31T01:38:40+00:00
-**Scraped:** 2026-11-23T17:35:08.939026+00:00
+**Scraped:** 2026-11-24T17:13:40.711787+00:00
 
 Create Administrators - Netskope Technical Documentation
 Create Administrators
@@ -1413,7 +1414,7 @@ Create Administrators
 ## Create Admins and Assign to Roles
 **URL:** https://docs.netskope.com/en/create-admins-and-assign-to-roles/
 **Last Modified:** 2025-08-31T01:38:50+00:00
-**Scraped:** 2026-11-23T17:35:13.563843+00:00
+**Scraped:** 2026-11-24T17:13:45.075190+00:00
 
 Create Admins and Assign to Roles - Netskope Technical Documentation
 Create Admins and Assign to Roles
@@ -1450,9 +1451,8 @@ Create Admins and Assign to Roles
 ## Create Roles for Restricted Administrators
 **URL:** https://docs.netskope.com/en/create-roles-for-restricted-administrators/
 **Last Modified:** 2025-08-31T01:38:40+00:00
-**Scraped:** 2026-11-23T17:35:25.138032+00:00
+**Scraped:** 2026-11-24T17:13:55.995472+00:00
 
-Create Roles for Restricted Administrators - Netskope Technical Documentation
 Create Roles for Restricted Administrators
 To create roles for a restricted admin:
 Go to
@@ -1483,8 +1483,9 @@ Create Roles for Restricted Administrators
 ## Disallow Concurrent Logins by an Admin
 **URL:** https://docs.netskope.com/en/disallow-concurrent-logins-by-an-admin/
 **Last Modified:** 2025-08-31T01:38:54+00:00
-**Scraped:** 2026-11-23T17:35:43.932146+00:00
+**Scraped:** 2026-11-24T17:14:14.033889+00:00
 
+Disallow Concurrent Logins by an Admin - Netskope Technical Documentation
 Disallow Concurrent Logins by an Admin
 You can ensure that an admin can log in to a tenant only once, instead of being able to log in to a tenant multiple times concurrently. The default setting currently allows concurrent logins.
 To disallow concurrent logins:
@@ -1504,7 +1505,7 @@ Disallow Concurrent Logins by an Admin
 ## Manage Administrators
 **URL:** https://docs.netskope.com/en/manage-administrators/
 **Last Modified:** 2025-08-31T01:38:47+00:00
-**Scraped:** 2026-11-23T17:36:30.357672+00:00
+**Scraped:** 2026-11-24T17:14:57.908645+00:00
 
 Manage Administrators - Netskope Technical Documentation
 Manage Administrators
@@ -1534,7 +1535,7 @@ Manage Administrators
 ## Multi-Factor Authentication for Netskope Admins
 **URL:** https://docs.netskope.com/en/multi-factor-authentication-for-netskope-admins/
 **Last Modified:** 2025-10-09T23:38:08+00:00
-**Scraped:** 2026-11-23T17:36:37.549277+00:00
+**Scraped:** 2026-11-24T17:15:04.784972+00:00
 
 Multi-Factor Authentication for Netskope Admins - Netskope Technical Documentation
 Multi-Factor Authentication for Netskope Admins
@@ -1623,7 +1624,7 @@ Multi-Factor Authentication for Netskope Admins
 ## Managing Administrators
 **URL:** https://docs.netskope.com/en/managing-administrators/
 **Last Modified:** 2026-07-31T04:30:08+00:00
-**Scraped:** 2026-11-23T17:36:40.988479+00:00
+**Scraped:** 2026-11-24T17:15:08.092572+00:00
 
 Managing Administrators
 The Netskope UI provides full access for deploying and managing admin rights for the Netskope solution.  As a Tenant Admin, you have full privileges to create and manage other admins.
@@ -1823,8 +1824,9 @@ Managing Administrators
 ## Managing Administrators for RBAC V2
 **URL:** https://docs.netskope.com/en/managing-administrators-for-rbac-v2/
 **Last Modified:** 2025-08-31T01:38:46+00:00
-**Scraped:** 2026-11-23T17:36:42.227026+00:00
+**Scraped:** 2026-11-24T17:15:09.176079+00:00
 
+Managing Administrators for RBAC V2 - Netskope Technical Documentation
 Managing Administrators for RBAC V2
 Contact Support to enable this feature set in your account.
 Manage Administrators
@@ -1840,8 +1842,9 @@ Managing Administrators for RBAC V2
 ## Tenant Overview
 **URL:** https://docs.netskope.com/en/tenant-overview/
 **Last Modified:** 2026-10-03T00:27:03+00:00
-**Scraped:** 2026-11-23T17:37:23.921727+00:00
+**Scraped:** 2026-11-24T17:15:49.037572+00:00
 
+Tenant Overview - Netskope Technical Documentation
 Tenant Overview
 The widgets on this page provide an overview of the traffic and performance of your tenant. There are two sets of widgets on this page. The top section provides a summary of the last 7 days and cannot be filtered. The Filtered Widgets section provides information based on the timeframe you select using the filters on top of the page. Go to
 Digital Experience Management > Tenant Overview
@@ -1914,8 +1917,9 @@ Tenant Overview
 ## Configure the Remote Console
 **URL:** https://docs.netskope.com/en/configure-the-remote-console/
 **Last Modified:** 2026-08-18T17:14:07+00:00
-**Scraped:** 2026-11-23T17:38:45.102364+00:00
+**Scraped:** 2026-11-24T17:17:06.481839+00:00
 
+Configure the Remote Console - Netskope Technical Documentation
 Configure the Remote Console
 Configuration of each appliance requires access to the remote console over the IPMI interface.
 To configure the remote console:
@@ -1978,7 +1982,7 @@ Configure the Remote Console
 ## Hide Sensitive Data from Admins
 **URL:** https://docs.netskope.com/en/hide-sensitive-data-from-admins/
 **Last Modified:** 2026-08-18T17:15:04+00:00
-**Scraped:** 2026-11-23T17:39:16.351394+00:00
+**Scraped:** 2026-11-24T17:17:35.861292+00:00
 
 Hide Sensitive Data from Admins - Netskope Technical Documentation
 Hide Sensitive Data from Admins
@@ -2006,7 +2010,7 @@ Hide Sensitive Data from Admins
 ## Monitor Status using the Tenant UI
 **URL:** https://docs.netskope.com/en/monitor-status-using-the-tenant-ui-144864/
 **Last Modified:** 2026-08-18T17:15:07+00:00
-**Scraped:** 2026-11-23T17:39:33.603167+00:00
+**Scraped:** 2026-11-24T17:17:52.194375+00:00
 
 Monitor Status using the Tenant UI - Netskope Technical Documentation
 Monitor Status using the Tenant UI
@@ -2076,8 +2080,9 @@ Monitor Status using the Tenant UI
 ## Monitor Status using the Tenant UI
 **URL:** https://docs.netskope.com/en/monitor-status-using-the-tenant-ui/
 **Last Modified:** 2026-08-18T17:15:01+00:00
-**Scraped:** 2026-11-23T17:39:35.888342+00:00
+**Scraped:** 2026-11-24T17:17:54.387221+00:00
 
+Monitor Status using the Tenant UI - Netskope Technical Documentation
 Monitor Status using the Tenant UI
 The logs for dedicated log parsing appliances are processed on the appliance and extracted cloud app events are uploaded to your tenant instance in the Netskope appliance the beginning of each hour.
 You can check the status of the log processing on the
@@ -2144,7 +2149,7 @@ Monitor Status using the Tenant UI
 ## Upload Logs to the Netskope Tenant using HTTPS
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https-144861/
 **Last Modified:** 2026-08-18T17:04:03+00:00
-**Scraped:** 2026-11-23T17:39:59.175901+00:00
+**Scraped:** 2026-11-24T17:18:16.578707+00:00
 
 Upload Logs to the Netskope Tenant using HTTPS  - Netskope Technical Documentation
 Upload Logs to the Netskope Tenant using HTTPS
@@ -2175,7 +2180,7 @@ Upload Logs to the Netskope Tenant using HTTPS
 ## Upload Logs to the Netskope Tenant using HTTPS
 **URL:** https://docs.netskope.com/en/upload-logs-to-the-netskope-tenant-using-https/
 **Last Modified:** 2026-08-18T17:03:59+00:00
-**Scraped:** 2026-11-23T17:40:02.762741+00:00
+**Scraped:** 2026-11-24T17:18:19.829244+00:00
 
 Upload Logs to the Netskope Tenant using HTTPS  - Netskope Technical Documentation
 Upload Logs to the Netskope Tenant using HTTPS
@@ -2202,9 +2207,8 @@ Upload Logs to the Netskope Tenant using HTTPS
 ## Create a Netskope Support Admin
 **URL:** https://docs.netskope.com/en/create-a-netskope-support-admin/
 **Last Modified:** 2026-07-08T23:48:10+00:00
-**Scraped:** 2026-11-23T17:40:15.395391+00:00
+**Scraped:** 2026-11-24T17:18:31.905720+00:00
 
-Create a Netskope Support Admin - Netskope Technical Documentation
 Create a Netskope Support Admin
 You can grant Netskope personnel temporary access to your account through Netskope IdP. This feature is helpful when working with Netskope Support, Professional Services, Customer Experience, etc.
 To Grant Access
@@ -2353,8 +2357,9 @@ Create a Netskope Support Admin
 ## NewEdge Traffic Management Zones per NPA Tenant
 **URL:** https://docs.netskope.com/en/configure-newedge-traffic-management-zones-per-npa-tenant/
 **Last Modified:** 2026-03-03T02:38:54+00:00
-**Scraped:** 2026-11-23T17:41:43.672068+00:00
+**Scraped:** 2026-11-24T17:19:54.885763+00:00
 
+NewEdge Traffic Management Zones per NPA Tenant - Netskope Technical Documentation
 NewEdge Traffic Management Zones per NPA Tenant
 Netskope Private Access tenants may now take advantage of NewEdge Traffic Management
 intent-based
@@ -2376,7 +2381,7 @@ NewEdge Traffic Management Zones per NPA Tenant
 ## Netskope Tenant Certificate Rotation Guide
 **URL:** https://docs.netskope.com/en/netskope-tenant-certificate-rotation-guide/
 **Last Modified:** 2026-08-18T17:43:36+00:00
-**Scraped:** 2026-11-23T17:43:44.784573+00:00
+**Scraped:** 2026-11-24T17:21:48.110012+00:00
 
 Netskope Tenant Certificate Rotation Guide - Netskope Technical Documentation
 Netskope Tenant Certificate Rotation Guide
@@ -2389,7 +2394,7 @@ Netskope Tenant Certificate Rotation Guide
 ## Netskope Tenant Plugin
 **URL:** https://docs.netskope.com/en/netskope-tenant-plugin/
 **Last Modified:** 2026-11-03T23:52:13+00:00
-**Scraped:** 2026-11-23T17:45:54.643208+00:00
+**Scraped:** 2026-11-24T17:23:50.498862+00:00
 
 Netskope Tenant Plugin
 Release Notes
@@ -5315,7 +5320,7 @@ Netskope Tenant Plugin
 ## Managing Administrators for RBAC V3
 **URL:** https://docs.netskope.com/en/managing-administrators-for-rbac-v3/
 **Last Modified:** 2025-10-09T22:19:35+00:00
-**Scraped:** 2026-11-23T17:48:19.347049+00:00
+**Scraped:** 2026-11-24T17:26:06.165985+00:00
 
 Managing Administrators for RBAC V3 - Netskope Technical Documentation
 Managing Administrators for RBAC V3
@@ -5337,9 +5342,8 @@ Managing Administrators for RBAC V3
 ## Administrators RBAC V3
 **URL:** https://docs.netskope.com/en/administrators-rbac-v3/
 **Last Modified:** 2025-10-14T18:27:26+00:00
-**Scraped:** 2026-11-23T17:48:20.594625+00:00
+**Scraped:** 2026-11-24T17:26:07.256963+00:00
 
-Administrators RBAC V3 - Netskope Technical Documentation
 Administrators RBAC V3
 On the
 Settings
@@ -5509,7 +5513,7 @@ Administrators RBAC V3
 ## DSPM Sidecar Administration Overview
 **URL:** https://docs.netskope.com/en/dspm-sidecar-administration-overview/
 **Last Modified:** 2026-10-15T00:49:59+00:00
-**Scraped:** 2026-11-23T17:50:34.686883+00:00
+**Scraped:** 2026-11-24T17:28:13.704835+00:00
 
 DSPM Sidecar Administration Overview - Netskope Technical Documentation
 DSPM Sidecar Administration Overview
@@ -5799,7 +5803,7 @@ DSPM Sidecar Administration Overview
 ## Platform Administration & Identity
 **URL:** https://docs.netskope.com/en/platform-monitoring-and-administration/
 **Last Modified:** 2026-04-16T01:39:38+00:00
-**Scraped:** 2026-11-23T17:51:29.764524+00:00
+**Scraped:** 2026-11-24T17:29:05.515998+00:00
 
 Platform Administration &amp; Identity - Netskope Technical Documentation
 Platform Administration & Identity
@@ -5819,7 +5823,7 @@ Platform Administration &amp; Identity
 ## Manage DSPM Administrator Permissions (RBAC)
 **URL:** https://docs.netskope.com/en/manage-dspm-administrator-permissions-rbac/
 **Last Modified:** 2026-02-06T05:19:28+00:00
-**Scraped:** 2026-11-23T17:53:19.787419+00:00
+**Scraped:** 2026-11-24T17:30:48.348024+00:00
 
 Manage DSPM Administrator Permissions (RBAC) - Netskope Technical Documentation
 Manage DSPM Administrator Permissions (RBAC)
@@ -5991,7 +5995,7 @@ Manage DSPM Administrator Permissions (RBAC)
 ## Partner Access (Accessing Private Apps in other Tenants)
 **URL:** https://docs.netskope.com/en/partner-access-accessing-private-apps-in-other-tenants/
 **Last Modified:** 2025-12-19T21:10:09+00:00
-**Scraped:** 2026-11-23T17:55:17.434183+00:00
+**Scraped:** 2026-11-24T17:32:36.999243+00:00
 
 Partner Access (Accessing Private Apps in other Tenants) - Netskope Technical Documentation
 Partner Access (Accessing Private Apps in other Tenants)
@@ -6036,7 +6040,7 @@ Partner Access (Accessing Private Apps in other Tenants)
 ## Configure Partner Tenants (Admin Workflow)
 **URL:** https://docs.netskope.com/en/configuring-partner-tenants-admin-workflow/
 **Last Modified:** 2026-01-26T22:51:25+00:00
-**Scraped:** 2026-11-23T17:55:18.601140+00:00
+**Scraped:** 2026-11-24T17:32:38.088758+00:00
 
 Configure Partner Tenants (Admin Workflow) - Netskope Technical Documentation
 Configure Partner Tenants (Admin Workflow)
@@ -6078,8 +6082,9 @@ Configure Partner Tenants (Admin Workflow)
 ## Connect to Third-Party Tenants (User Workflow)
 **URL:** https://docs.netskope.com/en/connecting-to-third-party-tenants-user-workflow/
 **Last Modified:** 2025-12-20T00:13:21+00:00
-**Scraped:** 2026-11-23T17:55:19.743254+00:00
+**Scraped:** 2026-11-24T17:32:39.171996+00:00
 
+Connect to Third-Party Tenants (User Workflow) - Netskope Technical Documentation
 Connect to Third-Party Tenants (User Workflow)
 Terminology
 Primary Tenant:
@@ -6117,9 +6122,8 @@ Connect to Third-Party Tenants (User Workflow)
 ## Manage NPA Global Attributes in the Tenant UI
 **URL:** https://docs.netskope.com/en/manage-global-attributes-in-the-tenant-ui/
 **Last Modified:** 2026-11-04T21:20:03+00:00
-**Scraped:** 2026-11-23T17:56:35.951327+00:00
+**Scraped:** 2026-11-24T17:33:50.550780+00:00
 
-Manage NPA Global Attributes in the Tenant UI - Netskope Technical Documentation
 Manage NPA Global Attributes in the Tenant UI
 Certain product features for NPA can now be enabled directly in the Tenant UI. You can view and enable selected NPA Publisher feature in the Global Attributes window. There are two NPA Global Attributes options, one for Private Apps in the Client Configuration, and the other is for the Publisher.
 Publisher Global Attributes
@@ -6154,7 +6158,7 @@ Manage NPA Global Attributes in the Tenant UI
 ## Manage DataSec Command Center Administrator Permissions (RBAC)
 **URL:** https://docs.netskope.com/en/manage-datasec-command-center-administrator-permissions-rbac/
 **Last Modified:** 2026-09-25T21:09:18+00:00
-**Scraped:** 2026-11-23T18:02:40.962824+00:00
+**Scraped:** 2026-11-24T17:39:30.987880+00:00
 
 Manage DataSec Command Center Administrator Permissions (RBAC) - Netskope Technical Documentation
 Manage DataSec Command Center Administrator Permissions (RBAC)
@@ -6307,7 +6311,7 @@ Manage DataSec Command Center Administrator Permissions (RBAC)
 ## Configure your Netskope Tenant for Custom File Classification File Hash Sharing
 **URL:** https://docs.netskope.com/en/configure-your-netskope-tenant-for-custom-file-classification-file-hash-sharing/
 **Last Modified:** 2026-11-02T20:46:54+00:00
-**Scraped:** 2026-11-23T18:04:19.973815+00:00
+**Scraped:** 2026-11-24T17:41:02.945848+00:00
 
 Configure your Netskope Tenant for Custom File Classification File Hash Sharing - Netskope Technical Documentation
 Configure your Netskope Tenant for Custom File Classification File Hash Sharing
@@ -6326,7 +6330,7 @@ Configure your Netskope Tenant for Custom File Classification File Hash Sharing
 ## Configure a Trainable File Classifier on a Netskope Tenant
 **URL:** https://docs.netskope.com/en/configure-trainable-file-classifier-on-netskope-tenant/
 **Last Modified:** 2026-11-02T20:49:00+00:00
-**Scraped:** 2026-11-23T18:04:40.252359+00:00
+**Scraped:** 2026-11-24T17:41:22.157723+00:00
 
 Configure a Trainable File Classifier on a Netskope Tenant - Netskope Technical Documentation
 Configure a Trainable File Classifier on a Netskope Tenant
@@ -6350,7 +6354,7 @@ Configure a Trainable File Classifier on a Netskope Tenant
 ## Configure Custom File Classification Sharing with your Netskope Tenant Classifier
 **URL:** https://docs.netskope.com/en/configure-custom-file-classification-sharing-with-your-netskope-tenant-classifier/
 **Last Modified:** 2026-11-02T20:50:38+00:00
-**Scraped:** 2026-11-23T18:04:41.421544+00:00
+**Scraped:** 2026-11-24T17:41:23.280708+00:00
 
 Configure Custom File Classification Sharing with your Netskope Tenant Classifier - Netskope Technical Documentation
 Configure Custom File Classification Sharing with your Netskope Tenant Classifier
@@ -6379,7 +6383,7 @@ Configure Custom File Classification Sharing with your Netskope Tenant Classifie
 ## Admin Console
 **URL:** https://docs.netskope.com/en/admin-console/
 **Last Modified:** 2025-09-01T12:42:42+00:00
-**Scraped:** 2026-11-23T18:06:27.550275+00:00
+**Scraped:** 2026-11-24T17:43:03.335909+00:00
 
 Admin Console
 The Netskope Admin console, or
